@@ -1,0 +1,39 @@
+full_name,repo,description,stars,forks,language,user,name,type,location,lat,long,city,country,rank
+devongovett/regexgen,regexgen,Generate regular expressions that match a set of strings,1917,51,JavaScript,devongovett,Devon Govett,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,8.0
+pubkey/rxdb,rxdb,"Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown ",1663,52,JavaScript,pubkey,Daniel M,User,"Germany, Stuttgart",48.7758459,9.1829321,Stuttgart,Germany,10.0
+MicheleBertoli/react-fix-it,react-fix-it,Automagically generate tests from errors,1568,15,JavaScript,MicheleBertoli,Michele Bertoli,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,11.0
+material-components/material-components-web,material-components-web,Modular and customizable Material Design UI components for the web,1533,71,JavaScript,material-components,Material Components,Organization,,,,,,12.0
+mathisonian/premonish,premonish,Predict which DOM element a user will interact with next.,1126,24,JavaScript,mathisonian,Matthew Conlen,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,18.0
+zeit/styled-jsx,styled-jsx,Full CSS support for JSX without compromises,875,22,JavaScript,zeit,ZEIT,Organization,,,,,,20.0
+andywer/leakage,leakage,🐛 Memory leak testing for node.,733,16,JavaScript,andywer,Andy Wermke,User,"Leipzig, Germany",51.339695500000005,12.373074699999998,Leipzig,Germany,25.5
+chvin/react-tetris,react-tetris,"Use React, Redux, Immutable to code Tetris.",690,106,JavaScript,chvin,Chvin,User,"China,HangZhou",30.274084999999996,120.15507,Hangzhou,China,27.5
+ggomaeng/react-native-facebook-ui,react-native-facebook-ui,Pure javascript UI prototype of iOS Facebook for React Native framework.,434,40,JavaScript,ggomaeng,Sung Woo Park,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,47.0
+nikgraf/webvr-experiments,webvr-experiments,A collection of ReactVR experiments (potentially also A-Frame and WebVR expriments using ReasonML & Elm),430,14,JavaScript,nikgraf,Nik Graf,User,Vienna / San Francisco,37.719601000000004,-122.431207,San Francisco,United States,48.0
+mariusandra/pigeon-maps,pigeon-maps,ReactJS Maps without external dependencies,327,8,JavaScript,mariusandra,Marius Andra,User,"Leuven, Belgium",50.879843799999996,4.7005175999999995,Leuven,Belgium,67.0
+hharnisc/tabbie,tabbie,The missing tab manager for Chrome,292,17,JavaScript,hharnisc,Harrison Harnisch,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States,75.0
+pcbje/ggraph,ggraph,Graph visualization of big messy data,283,14,JavaScript,pcbje,Petter Christian Bjelland,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,78.5
+gajus/babel-plugin-react-css-modules,babel-plugin-react-css-modules,Transforms styleName to className using compile time CSS module resolution.,271,12,JavaScript,gajus,Gajus Kuizinas,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,87.0
+egoist/docute,docute,:scroll: Effortlessly documentation done right.,270,16,JavaScript,egoist,EGOIST,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China,88.0
+ageitgey/show-facebook-computer-vision-tags,show-facebook-computer-vision-tags,A very simple Chrome Extension that displays the automated image tags that Facebook has generated for your images,228,17,JavaScript,ageitgey,Adam Geitgey,User,Various places,,,,,102.0
+qieguo2016/Vueuv,Vueuv,参照Vue实现的一个JavaScript MVVM 框架，手把手教你从零开始Make Your Own Vue!,219,25,JavaScript,qieguo2016,茄果,User,,,,,,106.0
+XhstormR/BaiduNetdisk-WAP,BaiduNetdisk-WAP,BaiduNetdisk (WAP),179,12,JavaScript,XhstormR,XhstormR,User,China,35.86166,104.195397,,China,132.5
+imgntn/j360,j360,360 Video and Photo Capture in 4K for Three.js,174,7,JavaScript,imgntn,James B. Pollack,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,135.5
+rusher81572/picluster,picluster,A Simplified Approach to Container Orchestration,163,7,JavaScript,rusher81572,Phillip Tribble,User,"East Bay, CA",37.6576656,-122.0563527,Hayward,United States,149.0
+sindresorhus/clipboardy,clipboardy,Access the system clipboard (copy/paste),162,6,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,151.0
+sanchitgn/remember,remember,The progressive offline Todo app,160,10,JavaScript,sanchitgn,Sanchit Nevgi,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India,154.0
+yanbober/RNPolymerPo,RNPolymerPo,基于 React Native 的 Android 企业级应用 Demo。,150,45,JavaScript,yanbober,yanbo,User,ZhuHai,22.270978,113.576678,Zhuhai,China,162.0
+ggomaeng/react-native-spotify-ui,react-native-spotify-ui,Pure javascript UI prototype of iOS Spotify for React Native framework.,147,13,JavaScript,ggomaeng,Sung Woo Park,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,165.5
+ipselon/react-boilerplate-clone,react-boilerplate-clone,A React Boilerplate Project Clone integrated with Structor (former React UI Builder).,126,8,JavaScript,ipselon,Alex Pustovalov,User,Ukraine,48.379433,31.16558,,Ukraine,179.0
+bgryszko/react-native-circular-slider,react-native-circular-slider,React Native component for creating circular slider :radio_button:,122,9,JavaScript,bgryszko,Bart Gryszko,User,,,,,,186.0
+codrops/MusicalInteractions,MusicalInteractions,Some experimental ideas for playful musical interactions powered by MIDI.js.,121,20,JavaScript,codrops,Codrops,Organization,,,,,,187.5
+elsehow/signal-protocol,signal-protocol,"The Signal protocol, for node and browsers",118,6,JavaScript,elsehow,nick merrill,User,berkeley,,,,,192.0
+sonnylazuardi/react-native-nike-running,react-native-nike-running,🏃 UI & UX Prototype of redesigned Nike+ Running App,117,18,JavaScript,sonnylazuardi,Sonny Lazuardi,User,"Bandung, Indonesia",-6.917463900000001,107.61912279999999,Bandung,Indonesia,193.0
+Seedstars/reactnative-mobile-app-base,reactnative-mobile-app-base,Seedstars Labs React Native Mobile App Base Project (Frontend),112,8,JavaScript,Seedstars,seedstars,Organization,,,,,,201.0
+OYsun/vscode-VueHelper,vscode-VueHelper,vscode插件，vue，vue-router和vuex的代码提示,111,4,JavaScript,OYsun,,User,,,,,,203.5
+giuseppeg/ffocus,ffocus,🔍 A CLI tool to temporarly disable distracting websites and boost your productivity,105,7,JavaScript,giuseppeg,Giuseppe,User,,,,,,210.0
+ruanyf/loppo,loppo,an extremely simple markdown document site generator,103,17,JavaScript,ruanyf,Ruan YiFeng,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,211.0
+noam3127/github-code-folding,github-code-folding,Chrome extension that enables code folding in GitHub,101,6,JavaScript,noam3127,,User,New Jersey,40.0583238,-74.40566120000001,,United States,216.0
+grvcoelho/react-voice-components,react-voice-components,Set of React components that use the Web Speech API to bring voice experience to React applications,101,9,JavaScript,grvcoelho,Guilherme Rv Coelho,User,"Jundiai, Brazil",-23.1857076,-46.897805700000006,Jundiaí,Brazil,216.0
+kickstarter/android-oss,android-oss,"Kickstarter for Android. Bring new ideas to life, anywhere.",3032,418,Java,kickstarter,Kickstarter,Organization,"Brooklyn, NY",40.6781784,-73.94415790000001,,United States,4.0
+material-components/material-components-android,material-components-android,Modular and customizable Material Design UI components for Android,1429,66,Java,material-components,Material Components,Organization,,,,,,13.0
+githubwing/ZoomHeader,ZoomHeader,A demo of animation show how turn viewpager into detail.神交互。模仿饿了么详情页可以跟随手指移动 viewpager变详情页,1380,227,Java,githubwing,

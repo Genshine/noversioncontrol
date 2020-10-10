@@ -148,4 +148,73 @@ kelseyhightower/konfd, 340, 12, "Manage application configuration using Kubernet
 goreleaser/releaser, 274, 8, "Deliver Go binaries as fast and easily as possible", Go
 asobti/kube-monkey, 274, 8, "An implementation of Netflix's Chaos Monkey for Kubernetes clusters", Go
 geohot/lolrecaptcha, 219, 9, "We try to break the recaptcha for the Merry Christmas for all!", Go
-DiSiqueira/G
+DiSiqueira/Gorganizer, 198, 9, "Organize your folders into a beautiful classified folder structure with this perfect tool", Go
+pureconfig/pureconfig, 187, 11, "Its goal is to suck less than other configuration file formats.", Go
+o3ma/o3, 168, 11, "Open-source implementation of the Threema protocol in Go.", Go
+mtojek/greenwall, 165, 11, "Tiny service health dashboard written in Go", Go
+atongen/gosaic, 129, 1, "Create your own image mosaics.", Go
+schollz/find-lf, 115, 8, "Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND", Go
+lacion/cookiecutter-golang, 112, 6, "A Go project template", Go
+Xeoncross/secureserver, 110, 3, "A Simple, Secured Default HTTP(S) Server for Golang", Go
+jcc/blog, 373, 62, ":heart: PJ Blog is an open source blog built with Laravel and Vue.js. https://pigjian.com", PHP
+Tencent/bk-cmdb, 283, 132, "蓝鲸智云配置平台(blueking cmdb)", PHP
+opsxcq/exploit-CVE-2016-10033, 196, 58, "PHPMailer < 5.2.18 Remote Code Execution exploit and vulnerable container", PHP
+maysrp/webdir, 182, 43, "网站目录", PHP
+summerblue/news.laravel-china.org, 160, 36, "Source Code of the https://news.laravel-china.org/ website, build on top of Laravel 5.1. Laravel 资讯网站源代码，使用 Laravel 5.1 构建 ", PHP
+We5ter/Scanners-Box, 143, 72, "[Project-Kob-6]安全行业从业人员自研开源扫描器合集(不收录w3af、brakeman等知名扫描工具)🌚", PHP
+Tencent/mars, 5840, 912, "Mars is a cross-platform network component  developed by WeChat.", C++
+Microsoft/HoloJS, 800, 38, "Provides a framework for creating holographic apps using JavaScript and WebGL.", C++
+TorchCraft/TorchCraft, 590, 76, "Connecting Torch to StarCraft", C++
+antire-book/dont_panic, 190, 31, "Linux bind shell with anti-reverse engineering techniques", C++
+rescrv/Consus, 137, 6, "Consus is a geo-replicated transactional key-value store.", C++
+Erkaman/auto_uv_map, 107, 2, "Reference Implementation of Automatic UV Mapping with Harmonic Maps.", C++
+adtac/fssb, 264, 20, "A low-level filesystem sandbox for Linux using syscall intercepts.", C
+ronsoros/rvm, 213, 13, "simple virtual machine and assembler", C
+benjamin-42/Trident, 137, 72, "", C
+LineageOS/android_device_oneplus_bacon, 121, 7, "OnePlus One device configuration (bacon)", C
+mjosaarinen/dekryptize, 120, 9, "A ncurses animation to make decryption look like, well, decryption. ", C
+toddmotto/angular-pizza-creator, 219, 43, "Source code for Angular advanced Form APIs pizza builder", CSS
+apex/apex-ui, 161, 3, "Apex monochrome Atom theme UI.", CSS
+wesbos/JavaScript30, 3025, 1716, "30 Day Vanilla JS Challenge", HTML
+neveragaindottech/neveragaindottech.github.io, 343, 1812, "Source files for the neveragain.tech site", HTML
+codrops/BlockRevealers, 192, 20, "Ideas for revealing content in a schematic box look as seen around the Web lately.", HTML
+dhparkdh/resume-for-web-developer, 158, 22, "resume-for-web-developer", HTML
+octobox/octobox, 1148, 62, ":postbox: Take back control of your GitHub Notifications", Ruby
+rails/webpacker, 644, 31, "Use Webpack to manage app-like JavaScript modules in Rails", Ruby
+KrauseFx/overkill, 333, 16, "Don't let iTunes interrupt your workflow 💥🎵   ", Ruby
+chendo/airchat, 119, 3, "AirChat lets you chat to nearby users by abusing the AirDrop interface on OS X.", Ruby
+EduardoPires/EquinoxProject, 215, 61, "Full ASP.NET Core application with DDD, CQRS and Event Sourcing", C#
+yuleyule66/Npoi.Core, 126, 40, "a .NET Core library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.", C#
+Unity-Technologies/EditorVR, 124, 18, "Author VR in VR - See blog post for supporting downloads:", C#
+gojuno/mainframer, 333, 18, "Pretty universal instruction and script to setup Remote Build for Android project that uses Gradle (and potentially other build systems).", Shell
+plexinc/pms-docker, 294, 19, "Plex Media Server Docker repo, for all your PMS docker needs.", Shell
+hs-cx/snmp_mib_archive, 108, 13, "An archive of over 3000 unique SNMP MIBs", Shell
+weavejester/integrant, 156, 7, "Micro-framework for data-driven architecture", Clojure
+r00t-3xp10it/morpheus, 150, 35, "Morpheus - Automated Ettercap TCP/IP Hijacking Tool", Lua
+haskus/haskus-system, 267, 10, "Haskus system", Haskell
+rstacruz/webpack-tricks, 1940, 46, "Tips and tricks in using Webpack", 
+keonkim/awesome-bits, 1705, 83, ":computer: A curated list of awesome bitwise operations and tricks", 
+DynamicCocoa/DynamicCocoa, 803, 77, "A framework for running Cocoa code dynamically.", 
+soumith/ganhacks, 735, 96, "starter from 'How to Train a GAN?' at NIPS2016", 
+facebookincubator/react-vr, 690, 14, "Issues-only repo for React VR - a React Native platform to run 3D and WebVR content.", 
+Nax/longflow-manifesto, 533, 23, ":coffee: The longflow manifesto", 
+sfermigier/awesome-functional-python, 417, 22, "", 
+jivoi/awesome-ml-for-cybersecurity, 362, 82, " :octocat: Machine Learning for Cyber Security", 
+1ppm/1ppmLog, 347, 137, "Release one side project per month, log your results here!", 
+ggomaeng/better-developer-quotes, 346, 26, "💡 A compilation of answers I received from other developers when I asked them--'How do I become a better developer?'", 
+jirengu/frontend-interview, 299, 36, "前端笔试面试题题库", 
+LineageOS/android, 296, 32, "Misc Android stuff", 
+Geekbang/ArchSummit, 269, 101, "ArchSummit全球架构师峰会", 
+duffn/dumb-password-rules, 204, 30, "Shaming sites with dumb password rules.", 
+mafintosh/awesome-p2p, 171, 5, "List of great p2p resources", 
+php-pds/skeleton, 152, 5, "Standard PHP package skeleton.", 
+gradiuscypher/infosec_getting_started, 147, 19, "A collection of resources/documentation/links/etc to help people learn about Infosec and break into the field.", 
+paf31/24-days-of-purescript-2016, 140, 3, "24 Days of PureScript, 2016", 
+hindupuravinash/nips2016, 133, 14, "A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2016", 
+DxF5H/lightbox, 125, 10, "Simple lightbox script without dependencies (not even jQuery).", 
+passy/awesome-recursion-schemes, 123, 1, "Resources for learning and using recursion schemes.", 
+kendricktan/non-overwhelming-machine-learning, 123, 6, "A (non overwhelming) list of Machine Learning resources for beginners", 
+manasthakur/learn-vim, 115, 6, "Learn the (arguably) best text-editor on the planet.", 
+amitshekhariitbhu/awesome-android-things, 113, 15, "A curated list of awesome android things tutorials, libraries and much more at one place", 
+Miserlou/Mackenzie, 102, 0, "AWS Lambda Infection Toolkit // Persistent Lambda Malware PoC", 
+aviaryan/awesome-no-login-web-apps, 100, 20, ":star2: Awesome (free) web apps that work without login", 
