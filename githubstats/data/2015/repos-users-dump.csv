@@ -1,0 +1,83 @@
+repo,full_name,language,description,stars,forks,user,name,type,location,user_total_stars
+react-native,facebook/react-native,JavaScript,A framework for building native apps with React.,24783,4198,facebook,Facebook,Organization,"Menlo Park, California",61260
+hacker-scripts,NARKOZ/hacker-scripts,JavaScript,Based on a true story,19836,3553,NARKOZ,Nihad Abbasov,User,"Katowice, Poland",20876
+redux,rackt/redux,JavaScript,Predictable state container for JavaScript apps,11612,1180,rackt,,Organization,,17451
+dragula,bevacqua/dragula,JavaScript,:ok_hand: Drag and drop so simple it hurts,10737,593,bevacqua,Nicolás Bevacqua,User,https://twitter.com/nzgb,20409
+clipboard.js,zenorocha/clipboard.js,JavaScript,:scissors: Modern copy to clipboard. No Flash. Just 2kb :clipboard:,10268,438,zenorocha,Zeno Rocha,User,"Los Angeles, CA",10268
+react-canvas,Flipboard/react-canvas,JavaScript,High performance <canvas> rendering for React components,7410,562,Flipboard,Flipboard,Organization,"Palo Alto, CA",9004
+mostly-adequate-guide,MostlyAdequate/mostly-adequate-guide,JavaScript,Mostly adequate guide to FP (in javascript),7170,465,MostlyAdequate,,Organization,,7170
+blessed-contrib,yaronn/blessed-contrib,JavaScript,Build terminal dashboards using ascii/ansi art and javascript,7191,253,yaronn,Yaron Naveh,User,Israel,9234
+is.js,arasatasaygin/is.js,JavaScript,Micro check library,6468,459,arasatasaygin,Aras,User,"İstanbul, Turkey",6468
+wp-calypso,Automattic/wp-calypso,JavaScript,The new JavaScript- and API-powered WordPress.com,6452,713,Automattic,Automattic,Organization,Worldwide,6717
+platform,mattermost/platform,JavaScript,Open source Slack-alternative in Golang and React - Mattermost,6136,579,mattermost,Mattermost,Organization,,6136
+serverless,serverless/serverless,JavaScript,Serverless (formerly JAWS): The serverless application framework – Use bleeding-edge AWS services to redefine how to build massively scalable (and cheap) apps! – ,5910,290,serverless,Serverless,Organization,"Oakland, CA",5910
+purifycss,purifycss/purifycss,JavaScript,Remove unused CSS. Also works with single-page apps.,5728,202,purifycss,PurifyCSS,Organization,,5992
+HackMyResume,hacksalot/HackMyResume,JavaScript,"Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.",5101,189,hacksalot,hacksalot,User,Yay,5101
+relay,facebook/relay,JavaScript,Relay is a JavaScript framework for building data-driven React applications.,5323,357,facebook,Facebook,Organization,"Menlo Park, California",61260
+amphtml,ampproject/amphtml,JavaScript,"AMP HTML source code, samples, and documentation.  See below for more info.",5188,502,ampproject,AMP Project,Organization,,5188
+You-Dont-Need-jQuery,oneuijs/You-Dont-Need-jQuery,JavaScript,"Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript.",5147,298,oneuijs,OneUI,Organization,,5147
+falcor,Netflix/falcor,JavaScript,A JavaScript library for efficient data fetching,5140,208,Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",8686
+slideout,Mango/slideout,JavaScript,A touch slideout navigation menu for your mobile web apps.,5052,723,Mango,Mango,Organization,"Buenos Aires, Argentina",5052
+material-theme,equinusocio/material-theme,JavaScript,"Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino",4977,312,equinusocio,Mattia Astorino,User,Turin,4977
+volkswagen,auchenberg/volkswagen,JavaScript,":see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.",4716,96,auchenberg,Kenneth Auchenberg,User,"Vancouver, Canada",4988
+notie.js,jaredreich/notie.js,JavaScript,"A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies.",4196,232,jaredreich,Jared Reich,User,Canada,4196
+awesomplete,LeaVerou/awesomplete,JavaScript,"Ultra lightweight, usable, beautiful autocomplete with zero dependencies.",4172,294,LeaVerou,Lea Verou,User,"Cambridge, MA",6767
+layzr.js,callmecavs/layzr.js,JavaScript,"A small, fast, modern, and dependency-free library for lazy loading.",4079,192,callmecavs,Michael Cavalea,User,"New York, NY",5797
+plyr,Selz/plyr,JavaScript,A simple HTML5 media player,4017,287,Selz,Selz,Organization,Sydney,4017
+react-desktop,gabrielbull/react-desktop,JavaScript,React UI Components for OS X El Capitan and Windows 10,4007,125,gabrielbull,Gabriel Bull,User,"Montréal, Canada",4007
+Clusterize.js,NeXTs/Clusterize.js,JavaScript,Tiny vanilla JS plugin to display large data sets easily,3991,172,NeXTs,Denis Lukov,User,"Odessa, Ukraine",5625
+uBlock,gorhill/uBlock,JavaScript,uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.,3878,206,gorhill,Raymond Hill,User,Canada / Québec,3878
+plotly.js,plotly/plotly.js,JavaScript,The open source javascript graphing library that powers plotly,3849,226,plotly,Plotly,Organization,Montréal,3849
+elevator.js,tholman/elevator.js,JavaScript,"Finally, a 'back to top' button that behaves like a real elevator. ",3851,396,tholman,Tim Holman,User,"NYC, for the most part.",6993
+echo-chamber-js,tessalt/echo-chamber-js,JavaScript,Commenting without the comments,3552,94,tessalt,Tessa Thornton,User,Canada,3552
+jquery-tips-everyone-should-know,AllThingsSmitty/jquery-tips-everyone-should-know,JavaScript,A collection of simple tips to help up your jQuery game,3512,333,AllThingsSmitty,Matt Smith,User,"Portland, Maine",8838
+standard,feross/standard,JavaScript,:star2: JavaScript Standard Style,3477,198,feross,Feross Aboukhadijeh,User,"Mountain View, CA",3796
+react-ui-builder,ipselon/react-ui-builder,JavaScript,[DEPRECATED] React UI Builder became Structor http://helmetrex.com,3473,142,ipselon,Alex Pustovalov,User,Ukraine,5899
+git-stats,IonicaBizau/git-stats,JavaScript,:four_leaf_clover: Local git statistics including GitHub-like contributions calendars.,3442,68,IonicaBizau,Ionică Bizău,User,Romania,4581
+vibrant.js,jariz/vibrant.js,JavaScript,Extract prominent colors from an image. JS port of Android's Palette.,3407,107,jariz,Jari Zwarts,User,"Amsterdam, The Netherlands",4217
+nuclide,facebook/nuclide,JavaScript,"An open IDE for web and native mobile development, built on top of Atom ",3331,183,facebook,Facebook,Organization,"Menlo Park, California",61260
+react-motion,chenglou/react-motion,JavaScript,A spring that solves your animation problems.,3169,136,chenglou,Cheng Lou,User,"Montreal, Canada",3169
+react-demos,ruanyf/react-demos,JavaScript,a collection of simple demos of React.js,3176,1212,ruanyf,Ruan YiFeng,User,"Shanghai, China",4394
+butter-desktop,butterproject/butter-desktop,JavaScript,All the free parts of what used to be Popcorn Time,3120,622,butterproject,,Organization,,3120
+react-redux-universal-hot-example,erikras/react-redux-universal-hot-example,JavaScript,"A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform",3085,626,erikras,Erik Rasmussen,User,Spain,4607
+labella.js,twitter/labella.js,JavaScript,Placing labels on a timeline without overlap.,3046,74,twitter,"Twitter, Inc.",Organization,"San Francisco, CA",7027
+GitTorrent,cjb/GitTorrent,JavaScript,A decentralization of GitHub using BitTorrent and Bitcoin,3056,133,cjb,Chris Ball,User,"New York City, USA",3056
+stf,openstf/stf,JavaScript,Control and manage Android devices from your browser.,3052,260,openstf,STF,Organization,Tokyo,3052
+relax,relax/relax,JavaScript,New generation CMS on top of React and Node.js,2978,160,relax,Relax,Organization,,2978
+exercises,kolodny/exercises,JavaScript,Some basic javascript coding challenges and interview questions,2848,350,kolodny,Moshe Kolodny,User,New York,2848
+vantage,dthree/vantage,JavaScript,"Distributed, realtime CLI for live Node apps.",2832,62,dthree,dc,User,Los Angeles,4088
+graphql-js,graphql/graphql-js,JavaScript,A reference implementation of GraphQL for JavaScript,2818,170,graphql,Facebook GraphQL,Organization,"Menlo Park, CA",4721
+rollup,rollup/rollup,JavaScript,Next-generation ES6 module bundler,2661,64,rollup,,Organization,,2661
+betwixt,kdzwinel/betwixt,JavaScript,:zap: Web Debugging Proxy based on Chrome DevTools Network panel.,2673,52,kdzwinel,Konrad Dzwinel,User,"Kraków, Poland",2673
+hound,etsy/hound,JavaScript,Lightning fast code searching made easy,2644,195,etsy,"Etsy, Inc.",Organization,"Brooklyn, NY",3466
+slackin,rauchg/slackin,JavaScript,Public Slack organizations made easy,2631,374,rauchg,Guillermo Rauch,User,SF,3866
+jsblocks,astoilkov/jsblocks,JavaScript,Better MV-ish Framework,2635,113,astoilkov,Antonio Stoilkov,User,Bulgaria,3385
+TheaterJS,Zhouzi/TheaterJS,JavaScript,Typing effect mimicking human behavior.,2580,141,Zhouzi,Gabin Aureche,User,France,2717
+shipit,shipitjs/shipit,JavaScript,Universal automation and deployment tool written in JavaScript.,2552,78,shipitjs,Shipit,Organization,"Paris, France",2686
+react-toolbox,react-toolbox/react-toolbox,JavaScript,A set of React components implementing Google's Material Design specification with the power of CSS Modules,2523,153,react-toolbox,React Toolbox,Organization,,2523
+redux-devtools,gaearon/redux-devtools,JavaScript,"DevTools for Redux with hot reloading, action replay, and customizable UI",2494,165,gaearon,Dan Abramov,User,"London, UK",7814
+radium,FormidableLabs/radium,JavaScript,A toolchain for React component styling.,2491,112,FormidableLabs,Formidable,Organization,"Seattle, WA",5716
+whatiscode,BloombergMedia/whatiscode,JavaScript,Paul Ford’s “What Is Code?”,2460,187,BloombergMedia,Bloomberg Media,Organization,,2460
+HTML-GL,PixelsCommander/HTML-GL,JavaScript,Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL,2446,89,PixelsCommander,Denis Radin,User,"Amsterdam, Netherlands",2446
+reactjs_koans,arkency/reactjs_koans,JavaScript,Learn basics of React.js making the tests pass,2437,182,arkency,Arkency,Organization,,2549
+structor,ipselon/structor,JavaScript,User interface builder for React,2426,78,ipselon,Alex Pustovalov,User,Ukraine,5899
+react-boilerplate,mxstbr/react-boilerplate,JavaScript,":fire: Quick setup for performance orientated, offline-first React.js applications featuring Redux, hot-reloading, PostCSS, react-router, ServiceWorker, AppCache, FontFaceObserver and Mocha.",2260,72,mxstbr,Max Stoiber,User,"Vienna, Austria",2260
+rodeo,yhat/rodeo,JavaScript,A data science IDE for Python,2356,210,yhat,yhat,Organization,"New York, NY",3165
+enzyme,airbnb/enzyme,JavaScript,JavaScript Testing utilities for React,2336,53,airbnb,Airbnb,Organization,San Francisco,8936
+ttystudio,chjj/ttystudio,JavaScript,A terminal-to-gif recorder minus the headaches.,2325,53,chjj,Christopher Jeffrey (JJ),User,San Francisco,2325
+react-transform-boilerplate,gaearon/react-transform-boilerplate,JavaScript,"A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",2229,239,gaearon,Dan Abramov,User,"London, UK",7814
+lost,peterramsing/lost,JavaScript,"PostCSS fractional grid system built with calc() by the guy who built Jeet. Supports masonry, vertical, and waffle grids.",2180,104,peterramsing,Peter Ramsing,User,"Portland, Oregon",2180
+tota11y,Khan/tota11y,JavaScript,an accessibility (a11y) visualization toolkit,2177,72,Khan,Khan Academy,Organization,"Mountain View, CA",2177
+toxy,h2non/toxy,JavaScript,Hackable HTTP proxy to simulate server failure scenarios and network conditions,2171,60,h2non,Tomás Aparicio,User,"Dublin, Ireland",3103
+Windows-universal-samples,Microsoft/Windows-universal-samples,JavaScript,"This repo contains the samples that demonstrate the API usage patterns for the Universal Windows Platform (UWP) in the Windows Software Development Kit (SDK) for Windows 10. These code samples are designed to run on both desktop, mobile and future devices that support the UWP.",2156,1673,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+react-native-nw-react-calculator,benoitvallon/react-native-nw-react-calculator,JavaScript,"Mobile, desktop and website Apps with the same code",2124,136,benoitvallon,Benoit VALLON,User,"New York, NY",2124
+friends,moose-team/friends,JavaScript,:tv: P2P chat powered by the web.,2085,191,moose-team,MOOSE Team,Organization,A Distributed Hash Table Near You,2085
+node-convergence-archive,nodejs/node-convergence-archive,JavaScript,Archive for node/io.js convergence work pre-3.0.0,2074,133,nodejs,,Organization,,3323
+spectacle,FormidableLabs/spectacle,JavaScript,ReactJS based Presentation Library,2054,138,FormidableLabs,Formidable,Organization,"Seattle, WA",5716
+wopr,yaronn/wopr,JavaScript,"A simple markup language for creating rich terminal reports, presentations and infographics",2043,41,yaronn,Yaron Naveh,User,Israel,9234
+Split.js,nathancahill/Split.js,JavaScript,"Lightweight, unopinionated utility for adjustable split views",2009,79,nathancahill,Nathan Cahill,User,,2009
+Typeset,davidmerfield/Typeset,JavaScript,An html pre-proces­sor for web ty­pog­ra­phy,2038,43,davidmerfield,David Merfield,User,San Francisco,2038
+flux-comparison,voronianski/flux-comparison,JavaScript,Practical comparison of different Flux solutions,2017,131,voronianski,Dmitri Voronianski,User,"Kiev, Ukraine",3104
+botkit,howdyai/botkit,JavaScript,Botkit is a toolkit for making bot applications,1987,100,howdyai,Howdy,Organization,"Austin, TX",1987
+elemental,elementalui/elemental,JavaScript,A flexible and beautiful UI framework for React.js,1998,92,elementalui,Elemental UI,Organization,,1998
+Ionic-Material,zachsoft/Ionic-Material,JavaScr
