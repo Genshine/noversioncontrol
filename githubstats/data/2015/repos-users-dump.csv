@@ -608,3 +608,136 @@ zenfonts,zengabor/zenfonts,JavaScript,A tiny JavaScript module to observe and co
 react-transform-hmr,gaearon/react-transform-hmr,JavaScript,A React Transform that enables hot reloading React classes using Hot Module Replacement API,290,14,gaearon,Dan Abramov,User,"London, UK",7814
 react-pure-render,gaearon/react-pure-render,JavaScript,"A function, a component and a mixin for React pure rendering",290,14,gaearon,Dan Abramov,User,"London, UK",7814
 react-native-drawer,root-two/react-native-drawer,JavaScript,React Native Drawer,289,34,root-two,Root Two,Organization,,289
+autobind-decorator,andreypopp/autobind-decorator,JavaScript,Decorator to automatically bind methods to class instances,289,17,andreypopp,Andrey Popp,User,"St. Petersburg, Russia",401
+NodeList.js,eorroe/NodeList.js,JavaScript,NodeList implementation/library - Use the Native DOM APIs as easily as jQuery,288,18,eorroe,Edwin Reynoso,User,,288
+calendar-base,WesleydeSouza/calendar-base,JavaScript,Base methods for generating calendars using JavaScript.,288,14,WesleydeSouza,Wesley de Souza,User,Amsterdam,288
+meteor-pg,numtel/meteor-pg,JavaScript,Reactive PostgreSQL for Meteor,287,9,numtel,Ben Green,User,California,287
+immu,scottcorgan/immu,JavaScript,"A TINY, fail-fast, lazy, immutable Javascript objects library.",287,9,scottcorgan,Scott Corgan,User,"Marina Del Rey, CA",287
+awesome-ctf,apsdehal/awesome-ctf,JavaScript,"A curated list of CTF frameworks, libraries, resources and softwares",287,43,apsdehal,Amanpreet Singh,User,IIT Roorkee,287
+reddit-shell,jasonbio/reddit-shell,JavaScript,web based linux shell emulator that allows you to browse reddit programmatically via command line,287,19,jasonbio,Jason Botello,User,"Palo Alto, CA",287
+loadjs,muicss/loadjs,JavaScript,A tiny async loader for modern browsers (545 bytes),286,22,muicss,,Organization,"New York, NY",1981
+react-notification-system,igorprado/react-notification-system,JavaScript,A complete and totally customizable component for notifications in React,286,28,igorprado,Igor Prado,User,"Brasília, DF, Brazil",286
+functional-frontend-architecture,paldepind/functional-frontend-architecture,JavaScript,A functional frontend framework.,286,15,paldepind,Simon Friis Vindum,User,"Aarhus, Denmark",1263
+component-playground,FormidableLabs/component-playground,JavaScript,A component for rendering React components with editable source and live preview,286,27,FormidableLabs,Formidable,Organization,"Seattle, WA",5716
+ember-truth-helpers,jmurphyau/ember-truth-helpers,JavaScript,"Ember HTMLBars Helpers for {{if}} & {{unless}}: not, and, or, eq & is-array",285,15,jmurphyau,James Murphy,User,"Melbourne, Australia",285
+netlify-cms,netlify/netlify-cms,JavaScript,A CMS for Static Site Generators,285,18,netlify,Netlify,Organization,San Francisco,285
+react-three-renderer,toxicFork/react-three-renderer,JavaScript,Render into a three.js canvas using React.,283,13,toxicFork,Firtina Ozbalikci,User,UK,283
+nwb,insin/nwb,JavaScript,CLI tool for React apps and components & plain JS apps and npm modules,283,7,insin,Jonny Buchanan,User,Belfast,674
+lsbridge,krasimir/lsbridge,JavaScript,Using local storage as a communication channel,283,12,krasimir,Krasimir Tsonev,User,"Varna, Bulgaria",465
+greenkeeper,greenkeeperio/greenkeeper,JavaScript,":palm_tree: Your software, up to date, all the time.",280,13,greenkeeperio,greenkeeper.io,Organization,,280
+kuitos.github.io,kuitos/kuitos.github.io,JavaScript,Kuitos's Blog https://github.com/kuitos/kuitos.github.io/issues http://kuitos.github.io/,280,26,kuitos,Kuitos,User,Shanghai China,280
+nodegarden,pakastin/nodegarden,JavaScript,HTML5 Node Garden,280,95,pakastin,Juha Lindstedt,User,Finland,2132
+Adi.js,balajmarius/Adi.js,JavaScript,:no_entry_sign: Adblock Identifier,279,31,balajmarius,Marius Balaj,User,Romania,279
+simplest-redux-example,jackielii/simplest-redux-example,JavaScript,Simplest redux + react example for beginners like me,279,48,jackielii,Yuxing Li,User,UK,279
+meteor-postgres,meteor-stream/meteor-postgres,JavaScript,Postgres integration for Meteor,279,28,meteor-stream,Space Elephant,Organization,,279
+apprtc,webrtc/apprtc,JavaScript,The video chat demo app based on WebRTC,277,159,webrtc,WebRTC,Organization,,498
+react-heatpack,insin/react-heatpack,JavaScript,A 'heatpack' command for quick React development with webpack hot reloading,277,7,insin,Jonny Buchanan,User,Belfast,674
+wipeout,phoboslab/wipeout,JavaScript,WipEout (PSX) Model Viewer in WebGL/Three.js,276,22,phoboslab,Dominic Szablewski,User,,1427
+batavia,pybee/batavia,JavaScript,Tools to run Python bytecode in the browser.,276,17,pybee,BeeWare,Organization,,791
+wallpaper,sindresorhus/wallpaper,JavaScript,Get or set the desktop wallpaper,276,13,sindresorhus,Sindre Sorhus,User,✈,11371
+webm.js,Kagami/webm.js,JavaScript,JavaScript WebM encoder,276,16,Kagami,Kagami Hiiragi,User,"Saint-Petersburg, Russia",276
+cohesive-colors,javierbyte/cohesive-colors,JavaScript,Tool for creating cohesive color schemes.,274,31,javierbyte,Javier Bórquez,User,"Guadalajara, MX",2047
+fis3-demo,fex-team/fis3-demo,JavaScript,fis3 demo,274,130,fex-team,Baidu FEX team,Organization,beijing,1038
+ReactCasts,StephenGrider/ReactCasts,JavaScript,,274,99,StephenGrider,Stephen Grider,User,,274
+universal-js-boilerplate,carlosazaustre/universal-js-boilerplate,JavaScript,A boilerplate to start universal (isomorphic) web applications,274,27,carlosazaustre,Carlos Azaustre,User,"Madrid, Spain",274
+classeur,classeur/classeur,JavaScript,Classeur frontend,273,16,classeur,Classeur,Organization,,273
+devops-kungfu,chef/devops-kungfu,JavaScript,Chef Style DevOps Kung fu,273,323,chef,"Chef Software, Inc.",Organization,"Seattle, WA",475
+react-hotkeys,Chrisui/react-hotkeys,JavaScript,Declarative hotkey and focus area management for React,273,12,Chrisui,Chris Pearce,User,"London, UK",273
+devtools-remote,auchenberg/devtools-remote,JavaScript,Debug your user's browser remotely via Chrome DevTools.,272,7,auchenberg,Kenneth Auchenberg,User,"Vancouver, Canada",4988
+ember-component-css,ebryn/ember-component-css,JavaScript,An Ember CLI addon which allows you to specify CSS inside of component pod directories,272,36,ebryn,Erik Bryn,User,,272
+adrenaline,gyzerok/adrenaline,JavaScript,React bindings for Redux with Relay in mind,272,15,gyzerok,Fedor Nezhivoi,User,Novosibirsk,272
+redux-example,quangbuule/redux-example,JavaScript,Another universal example.,271,17,quangbuule,Quangbuu Le,User,Vietnam,271
+hit-that,bevacqua/hit-that,JavaScript,:fist: Render beautiful pixel perfect representations of websites in your terminal,271,6,bevacqua,Nicolás Bevacqua,User,https://twitter.com/nzgb,20409
+moebio_framework,moebiolabs/moebio_framework,JavaScript,The Moebio Framework,270,10,moebiolabs,,Organization,,270
+react-waypoint,brigade/react-waypoint,JavaScript,A React component to execute a function whenever you scroll to an element.,270,31,brigade,Brigade,Organization,"San Francisco, CA",270
+eslint-plugin-angular,Gillespie59/eslint-plugin-angular,JavaScript,ESLint plugin for AngularJS applications,269,43,Gillespie59,Emmanuel DEMEY,User,"Lille, France",269
+jsxm,a1k0n/jsxm,JavaScript,FastTracker 2 .xm module player in Javascript,268,17,a1k0n,Andy Sloane,User,San Francisco Bay Area,268
+datalib,vega/datalib,JavaScript,JavaScript data utility library.,267,25,vega,Vega,Organization,,425
+react-side-effect,gaearon/react-side-effect,JavaScript,Create components whose nested prop changes map to a global side effect,267,14,gaearon,Dan Abramov,User,"London, UK",7814
+gridifier,nix23/gridifier,JavaScript,Async Responsive Html Grids,266,10,nix23,Eduard Pleh,User,,266
+telepat-api,telepat-io/telepat-api,JavaScript,This is the Telepat API where all api calls are made. CRUD operations are not processed here directly. Messages are sent to the Telepat workers where CRUD operations are being taken care of along with client communication (notifications).,265,13,telepat-io,Telepat.io,Organization,San Francisco,265
+vue-server,ngsru/vue-server,JavaScript,Vue.js server-side version,265,18,ngsru,НГС,Organization,"Russia, Novosibirsk",265
+touchpoint-js,jonahvsweb/touchpoint-js,JavaScript,A vanilla JavaScript library that visually shows taps/clicks for HTML prototypes using CSS3 transitions on desktop and mobile.,264,16,jonahvsweb,Jonah Bitautas,User,Chicago,264
+Kaku,EragonJ/Kaku,JavaScript,The next generation music client,264,37,EragonJ,EragonJ (E.J.),User,"Taipei, Taiwan",264
+CSS-Buddy,jodyheavener/CSS-Buddy,JavaScript,A Sketch 3 plugin that allows you to use CSS on layers.,263,10,jodyheavener,Jody Heavener,User,"Edmonton, AB",263
+object-observe,MaxArt2501/object-observe,JavaScript,Object.observe polyfill,262,10,MaxArt2501,Massimo Artizzu,User,Italy,262
+angular-data-table,Swimlane/angular-data-table,JavaScript,A feature-rich but lightweight ES6 AngularJS Data Table crafted for large data sets!,262,35,Swimlane,Swimlane,Organization,,416
+subdivide,philholden/subdivide,JavaScript,User defined UI layout: Every pane can be subdivided and any widget assigned to any pane. ,262,13,philholden,Phil Holden,User,Edinburgh,262
+cellauto,sanojian/cellauto,JavaScript,Cellular Automata in Javascript,262,10,sanojian,Jonas Olmstead,User,,262
+soundcast,andresgottlieb/soundcast,JavaScript,Cast OSX audio to Chromecast from the menu bar,262,15,andresgottlieb,Andrés Gottlieb,User,"Santiago, Chile",262
+datakit,NathanEpstein/datakit,JavaScript,A lightweight framework for data analysis in JavaScript.,261,7,NathanEpstein,Nathan Epstein,User,"New York, NY",815
+soundredux-native,fraserxu/soundredux-native,JavaScript,In an effort to try react-native along with redux,261,27,fraserxu,Fraser Xu,User,"Melbourne, Australia",476
+css.js,jotform/css.js,JavaScript,"A lightweight, battle tested, fast, CSS parser in JavaScript",261,24,jotform,JotForm,Organization,"San Francisco, CA",440
+sherlock,phodal/sherlock,JavaScript,Skill Tree Sherlock,260,59,phodal,Fengda Huang,User,Xiamen China,2292
+editor-framework,fireball-x/editor-framework,JavaScript,A framework gives you power to easily write professional multi-panel desktop software in HTML5 and node.js.,259,33,fireball-x,Fireball Game Engine,Organization,"Xiamen, China",259
+xss-filters,yahoo/xss-filters,JavaScript,Secure XSS Filters,259,43,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",10798
+learnyoureact,kohei-takata/learnyoureact,JavaScript,Let's learn React.js and server side rendering!,258,51,kohei-takata,Kohei TAKATA,User,Japan,258
+postcss-style-guide,morishitter/postcss-style-guide,JavaScript,PostCSS plugin to generate a style guide automatically,258,10,morishitter,Masaaki Morishita,User,"Tokyo, Japan",1093
+3d-touch,freinbichler/3d-touch,JavaScript,An Apple 3D Touch Implementation in JavaScript,257,26,freinbichler,Marcel Freinbichler,User,"Salzburg, Austria",257
+local-storage,bevacqua/local-storage,JavaScript,:left_luggage: A simplified localStorage API that just works,256,10,bevacqua,Nicolás Bevacqua,User,https://twitter.com/nzgb,20409
+DIM,DestinyItemManager/DIM,JavaScript,Destiny Item Manager,255,134,DestinyItemManager,,Organization,The Tower,255
+Primrose,capnmidnight/Primrose,JavaScript,A WebVR framework,254,17,capnmidnight,Sean T. McBeth,User,"Alexandria, VA",254
+web-app,cesarandreu/web-app,JavaScript,Reasonable starting point for building a web app,254,20,cesarandreu,Cesar Andreu,User,Puerto Rico,254
+simplestore,cdmedia/simplestore,JavaScript,"A clean, responsive storefront boilerplate with no database or backend",254,31,cdmedia,Chris Diana,User,United States,254
+ohm,cdglabs/ohm,JavaScript,A library and language for parsing and pattern matching.,254,10,cdglabs,CDG Labs,Organization,,695
+react-router-relay,relay-tools/react-router-relay,JavaScript,Relay integration for React Router,253,23,relay-tools,Relay Tools,Organization,,253
+ionic-datepicker,rajeshwarpatlolla/ionic-datepicker,JavaScript,'ionic-datepicker' bower component for ionic framework applications,252,110,rajeshwarpatlolla,Rajeshwar,User,Hyderabad,396
+react-pure-component-starter,ericelliott/react-pure-component-starter,JavaScript,A pure component dev starter kit for React.,252,17,ericelliott,Eric Elliott,User,"San Francisco, California",766
+responsive_mockups,fabrik42/responsive_mockups,JavaScript,Takes screenshots of a webpage in different resolutions and automatically applies it to mockup templates.,252,21,fabrik42,Christian Bäuerlein,User,"Dieburg, Germany",252
+grommet,grommet/grommet,JavaScript,The most advanced UX framework for enterprise applications.,251,82,grommet,Grommet,Organization,,251
+angular-2-samples,thelgevold/angular-2-samples,JavaScript,Angular 2.0 sample components,251,66,thelgevold,Torgeir Helgevold,User,,251
+popper,pemrouz/popper,JavaScript,Realtime Cross-Browser Automation,251,6,pemrouz,Pedram Emrouznejad,User,London,251
+IodineGBA,taisel/IodineGBA,JavaScript,JavaScript GameBoy Advance emulator.,251,85,taisel,Grant Galitz,User,"Florida, USA",251
+generator-electron,sindresorhus/generator-electron,JavaScript,Scaffold out an Electron app boilerplate,250,9,sindresorhus,Sindre Sorhus,User,✈,11371
+tests,Legitcode/tests,JavaScript,"Chainable, easy to read, React testing library",249,9,Legitcode,Legitcode,Organization,California,249
+generator-nm,sindresorhus/generator-nm,JavaScript,Scaffold out a node module,248,33,sindresorhus,Sindre Sorhus,User,✈,11371
+envy,progrium/envy,JavaScript,Lightweight dev environments with a twist,248,15,progrium,Jeff Lindsay,User,"Austin, TX",398
+meteor-rethinkdb,Slava/meteor-rethinkdb,JavaScript,RethinkDB integration for Meteor,248,14,Slava,Slava Kim,User,"Boston, MA  /  SF, CA",458
+node-stap,uber/node-stap,JavaScript,Tools for analyzing Node.js programs with SystemTap,247,5,uber,Uber,Organization,,2875
+react-native-svg,brentvatne/react-native-svg,JavaScript,"Experimental SVG library for react-native based off of SVGKit. Not under active development, if you would like to take over and push this forward please get in touch @notbrent on Twitter",247,23,brentvatne,Brent Vatne,User,"Vancouver, Canada",2353
+react-fetcher,markdalgleish/react-fetcher,JavaScript,Simple universal data fetching library for React,246,3,markdalgleish,Mark Dalgleish,User,"Melbourne, Australia",1007
+university,hapijs/university,JavaScript,Community learning experiment,245,149,hapijs,hapi.js,Organization,,399
+css-modulesify,css-modules/css-modulesify,JavaScript,A browserify plugin to load CSS Modules,245,17,css-modules,,Organization,,3546
+clickspark.js,ymc-thzi/clickspark.js,JavaScript,clickspark.js is a javascript utility that adds beautiful particle effects to your javascript events,245,38,ymc-thzi,Thomas Zinnbauer,User,Swizerland,245
+QualityAnalyzer,Qafoo/QualityAnalyzer,JavaScript,Tool helping us to analyze software projects,244,15,Qafoo,Qafoo GmbH,Organization,"Gelsenkirchen, Germany",244
+js_data,vlandham/js_data,JavaScript,Data manipulation and processing in JavaScript,244,42,vlandham,Jim Vallandingham,User,"Seattle, WA",244
+payform,jondavidjohn/payform,JavaScript,":credit_card: A library for building credit card forms, validating inputs, and formatting numbers.",243,20,jondavidjohn,Jonathan D. Johnson,User,"Springfield, MO",243
+ThingsInSpace,jeyoder/ThingsInSpace,JavaScript,A real-time interactive WebGL visualisation of objects in Earth orbit,242,35,jeyoder,James Yoder,User,,242
+react-styleguidist,sapegin/react-styleguidist,JavaScript,React styleguide generator,242,13,sapegin,Artem Sapegin,User,"Berlin, Germany",242
+dodgercms,ChrisZieba/dodgercms,JavaScript,A static markdown CMS built on top of Amazon S3.,241,20,ChrisZieba,Chris Zieba,User,San Francisco,241
+email-lab,sparkbox/email-lab,JavaScript,Starter project for designing and testing HTML email templates,241,23,sparkbox,Sparkbox,Organization,,241
+typeslab,geelen/typeslab,JavaScript,"Simple, shareable typographic posters",241,36,geelen,Glen Maddern,User,"Melbourne, Australia",542
+node-chat,IgorAntun/node-chat,JavaScript,Node.JS Chat Application,241,77,IgorAntun,Igor Antun,User,Rio de Janeiro,241
+intruder,stevenmiller888/intruder,JavaScript,Wi-Fi network cracking in Node.js,241,14,stevenmiller888,Steven Miller,User,"San Francisco, CA",1082
+es-checker,ruanyf/es-checker,JavaScript,A feature detection library for ECMAScript in node.js and browser.,241,16,ruanyf,Ruan YiFeng,User,"Shanghai, China",4394
+mongoose-model-update,autolotto/mongoose-model-update,JavaScript,"Mongoose plugin providing a Model method for simple, filtered patch-style updates",240,3,autolotto,AutoLotto,Organization,"San Francisco, California",240
+redux-effects,redux-effects/redux-effects,JavaScript,,240,3,redux-effects,,Organization,,240
+bonsai-c,gasman/bonsai-c,JavaScript,C to asm.js compilation for humans,240,11,gasman,Matt Westcott,User,"Oxford, UK",240
+static-site-generator-webpack-plugin,markdalgleish/static-site-generator-webpack-plugin,JavaScript,"Minimal, unopinionated static site generator powered by webpack",240,12,markdalgleish,Mark Dalgleish,User,"Melbourne, Australia",1007
+Revenant,jiahaog/Revenant,JavaScript,A high level PhantomJS headless browser in Node.js ideal for task automation,239,3,jiahaog,Jia Hao,User,Singapore,239
+naturalScroll,asvd/naturalScroll,JavaScript,smoothly scroll to the desired position,238,3,asvd,asvd,User,St.Petersburg | Munich,1229
+MagicMirror,jamztang/MagicMirror,JavaScript,The Sketch 3 Plugin for Perspective Transformation for Artboards,238,10,jamztang,James Tang,User,Hong Kong,238
+how-to-npm,npm/how-to-npm,JavaScript,A module to teach you how to module.,237,71,npm,npm,Organization,earth,237
+react-native-parallax-view,lelandrichardson/react-native-parallax-view,JavaScript,Parallax view for vertical scrollview/listviews with a header image and header content,237,28,lelandrichardson,Leland Richardson,User,"San Francisco, CA",237
+spring-mvc-angularjs-sample-app,jhades/spring-mvc-angularjs-sample-app,JavaScript,A sample AngularJs /Spring MVC app,237,273,jhades,JhadesDev,User,,237
+jquery.stacky,jachinte/jquery.stacky,JavaScript,:ok_hand: Easy UIs with panels that open horizontally,236,18,jachinte,Miguel Jiménez,User,Colombia,236
+hyperfs,mafintosh/hyperfs,JavaScript,"A content-addressable union file system build on top of fuse, hyperlog, leveldb and node",236,7,mafintosh,Mathias Buus,User,"Copenhagen, Denmark",3455
+calipers,calipersjs/calipers,JavaScript,A Node.js library for measuring image and PDF dimensions.,235,8,calipersjs,,Organization,,235
+Unsplash-It-Sketch,fhuel/Unsplash-It-Sketch,JavaScript,A plugin to quickly include great looking image from Unsplash.com in your Sketch projects. ,235,7,fhuel,Manuele Capacci,User,,235
+clementinejs,johnstonbl01/clementinejs,JavaScript,The elegant and lightweight full stack JavaScript boilerplate.,234,35,johnstonbl01,Blake Johnston,User,"Fayetteville, AR, USA",234
+whatwebcando,NOtherDev/whatwebcando,JavaScript,An overview of the device integration HTML5 APIs,234,9,NOtherDev,Adam Bar,User,,234
+citojs,joelrich/citojs,JavaScript,,234,13,joelrich,Joel Richard,User,Switzerland,234
+nylas-perftools,nylas/nylas-perftools,JavaScript,Distributed profiling on the cheap,234,14,nylas,Nylas,Organization,"San Francisco, California",346
+pager,antonshevchenko/pager,JavaScript,Facebook Pages meets the web,234,51,antonshevchenko,Anton Shevchenko,User,Kinder Chocolate Factory,234
+sync.sketchplugin,nolastan/sync.sketchplugin,JavaScript,Keep your design team in sync!,233,7,nolastan,Stan,User,"Oakland, CA",233
+serviceworker-cookbook,mozilla/serviceworker-cookbook,JavaScript,It's online. It's offline. It's a Service Worker!,233,22,mozilla,Mozilla,Organization,"Mountain View, California",1905
+drive-db,franciscop/drive-db,JavaScript,A Google Drive spreadsheet simple database,233,4,franciscop,Francisco Presencia,User,"Valencia, Spain",233
+d3-extended,wbkd/d3-extended,JavaScript,Extends D3 with some common jQuery functions and more,232,18,wbkd,webkid,Organization,Berlin,2875
+jsperf.com,jsperf/jsperf.com,JavaScript,jsperf.com v2. https://github.com/h5bp/lazyweb-requests/issues/174,232,33,jsperf,,Organization,,232
+glsl-lighting-walkthrough,stackgl/glsl-lighting-walkthrough,JavaScript,:bulb: phong shading tutorial with glslify,232,5,stackgl,stackgl,Organization,,232
+commonmark.js,jgm/commonmark.js,JavaScript,CommonMark parser and renderer in JavaScript,231,37,jgm,John MacFarlane,User,"Berkeley, CA",394
+babel-plugin-webpack-loaders,istarkov/babel-plugin-webpack-loaders,JavaScript,babel 6 plugin which allows to use webpack loaders,231,4,istarkov,Ivan Starkov,User,"Vologda, Russia",908
+rtype,ericelliott/rtype,JavaScript,Intuitive structural type notation for JavaScript.,230,9,ericelliott,Eric Elliott,User,"San Francisco, California",766
+source-map-explorer,danvk/source-map-explorer,JavaScript,Analyze and debug space usage through source maps,230,4,danvk,Dan Vanderkam,User,"New York, NY",230
+isomorphic-redux,bananaoomarang/isomorphic-redux,JavaScript,"Isomorphic Redux demo, with routing and async actions",230,33,bananaoomarang,Milo Mordaunt,User,United Kingdom,230
+react-native-router-flux,aksonov/react-native-router-flux,JavaScript,iOS/Android React Native Router based on exNavigator ,230,3
