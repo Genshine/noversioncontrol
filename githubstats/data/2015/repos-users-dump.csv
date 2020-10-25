@@ -1652,4 +1652,127 @@ FlyRefresh,race604/FlyRefresh,Java,The implementation of https://dribbble.com/sh
 LoganSquare,bluelinelabs/LoganSquare,Java,Screaming fast JSON parsing and serialization library for Android.,1851,167,bluelinelabs,BlueLine Labs,Organization,"Chicago, IL",1851
 ViewInspector,xfumihiro/ViewInspector,Java,View Inspection Toolbar for Android Development,1843,149,xfumihiro,Fumihiro Xue,User,,1843
 material-theme-jetbrains,ChrisRM/material-theme-jetbrains,Java,JetBrains theme of Material Theme,1707,75,ChrisRM,Chris Magnussen,User,Norway,1707
-RxBinding,JakeWharton/RxBinding,Java,RxJava binding APIs for Android's UI widgets.,1658,128,JakeW
+RxBinding,JakeWharton/RxBinding,Java,RxJava binding APIs for Android's UI widgets.,1658,128,JakeWharton,Jake Wharton,User,"Pittsburgh, PA",3450
+SimplifyReader,SkillCollege/SimplifyReader,Java,一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！,1643,619,SkillCollege,Obsessive,User,"JiangSu,SuZhou",1643
+WeChatLuckyMoney,geeeeeeeeek/WeChatLuckyMoney,Java,":moneybag: 微信抢红包插件, 帮助你在微信群聊抢红包时战无不胜. An Android app that helps you snatch virtual red envelopes in WeChat group chat. ",1607,493,geeeeeeeeek,Zhongyi Tong,User,"Shanghai, China",2204
+android-percent-support-lib-sample,JulienGenoud/android-percent-support-lib-sample,Java,Just a sample of the android percent support lib,1606,397,JulienGenoud,Julien Genoud,User,Beijing,1606
+bottomsheet,Flipboard/bottomsheet,Java,Android component which presents a dismissible view from the bottom of the screen,1594,225,Flipboard,Flipboard,Organization,"Palo Alto, CA",9004
+Material-Movies,saulmm/Material-Movies,Java,An application about movies with material design,1571,376,saulmm,Saul Molinero,User,"Vigo, Spain",4157
+AndroidAutoLayout,hongyangAndroid/AndroidAutoLayout,Java,Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。,1557,448,hongyangAndroid,张鸿洋,User,"Xian,China",8055
+material-icon-lib,code-mc/material-icon-lib,Java,Library containing over 1000 material vector icons that can be easily used as Drawable or as a standalone View.,1521,114,code-mc,,User,,2498
+GuillotineMenu-Android,Yalantis/GuillotineMenu-Android,Java,"Neat library, that provides a simple way to implement guillotine-styled animation",1505,296,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+archi,ivacf/archi,Java,"Repository that showcases 3 Android app architectures: 'Standard Android', MVP and MVVM. The exact same app is built 3 times following the different patterns.",1458,174,ivacf,Ivan Carballo ,User,Brighton ,1458
+HTextView,hanks-zyh/HTextView,Java,Animation effects to TextView,1437,172,hanks-zyh,张玉涵,User,Beijing,2679
+binnavi,google/binnavi,Java,"BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.",1422,222,google,Google,Organization,,70104
+richeditor-android,wasabeef/richeditor-android,Java,RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.,1408,253,wasabeef,Daichi Furiya,User,"Tokyo, Japan",4727
+AndroidWiFiADB,pedrovgs/AndroidWiFiADB,Java,"IntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected.",1382,131,pedrovgs,Pedro Vicente Gómez Sánchez,User,Madrid,2386
+TourGuide,worker8/TourGuide,Java,TourGuide is an Android library that aims to provide an easy way to add pointers with animations over a desired Android View,1383,192,worker8,Tan Jun Rong,User,"Meguro, Tokyo, Japan",1383
+android-advancedrecyclerview,h6ah4i/android-advancedrecyclerview,Java,"RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)",1363,269,h6ah4i,Haruki Hasegawa,User,"Tokyo, Japan",1813
+TextSurface,elevenetc/TextSurface,Java,A little animation framework which could help you to show message in a nice looking way,1370,148,elevenetc,Eugene Levenetc,User,"Russia, Saint-Petersburg",2330
+Blurry,wasabeef/Blurry,Java,Blurry is an easy blur library for Android,1363,151,wasabeef,Daichi Furiya,User,"Tokyo, Japan",4727
+wechat,motianhuo/wechat,Java,"A High Copy WeChat ,SNS APP (高仿微信)",1358,622,motianhuo,Juns Allen,User,Beijing . China,1787
+hawk,orhanobut/hawk,Java,Secure Simple Key-Value Storage for Android,1330,136,orhanobut,Orhan Obut,User,Berlin,3858
+Sunshine-Version-2,udacity/Sunshine-Version-2,Java,The official repository for Developing Android Apps,1285,2341,udacity,Udacity,Organization,"Mountain View, CA",1670
+Android-Best-Practices,tianzhijiexian/Android-Best-Practices,Java,Android最佳实践示例,1270,221,tianzhijiexian,Kale,User,China,2645
+FloatingActionButton,Clans/FloatingActionButton,Java,Android Floating Action Button based on Material Design specification,1257,295,Clans,Dmytro Tarianyk,User,,1257
+scissors,lyft/scissors,Java,✂ Android image cropping library,1246,114,lyft,Lyft,Organization,"San Francisco, CA",3054
+SpringIndicator,chenupt/SpringIndicator,Java,A spring indicator like Morning Routine guide.,1238,286,chenupt,Chenupt,User,,2179
+FlipViewPager.Draco,Yalantis/FlipViewPager.Draco,Java,This project aims to provide a working page flip implementation for usage in ListView.,1220,222,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+keywhiz,square/keywhiz,Java,A system for distributing and managing secrets,1220,88,square,Square,Organization,,13457
+mysql_perf_analyzer,yahoo/mysql_perf_analyzer,Java,MySQL Performance Analyzer,1209,152,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",10798
+Euclid,Yalantis/Euclid,Java,User Profile Interface Animation,1201,289,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+shimmer-android,facebook/shimmer-android,Java,"An easy, flexible way to add a shimmering effect to any view in an Android app.",1204,229,facebook,Facebook,Organization,"Menlo Park, California",61260
+Meizhi,drakeet/Meizhi,Java,"gank.io unofficial client, RxJava & Retrofit",1200,360,drakeet,drakeet,User,"Xiamen, China",2863
+ProductTour,matrixxun/ProductTour,Java,"ProductTour is android sample project implementing a parallax effect welcome page using ViewPager and PageTransformer, similar to the one found in Google's app like Sheet, Drive, Docs...",1202,189,matrixxun,xwhy,User,,1202
+animate,hitherejoe/animate,Java,An application demoing meaningful motion on Android,1194,149,hitherejoe,Joe Birch,User,"Brighton, UK",3313
+network-connection-class,facebook/network-connection-class,Java,Listen to current network traffic in the app and categorize the quality of the network.,1180,179,facebook,Facebook,Organization,"Menlo Park, California",61260
+BGARefreshLayout-Android,bingoogolapple/BGARefreshLayout-Android,Java,多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位,1176,352,bingoogolapple,王浩,User,"Chengdu, China",2379
+StickerCamera,Skykai521/StickerCamera,Java,"This is an Android application with camera,picture cropping,collage sticking and tagging.贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签。",1161,351,Skykai521,达庆凯,User,上海,1161
+Nuwa,jasonross/Nuwa,Java,"Nuwa, pure java implementation, can hotfix your android application.",1156,199,jasonross,Jason Ross,User,ShangHai,1156
+EffectiveAndroid,rallat/EffectiveAndroid,Java,This sample project shows how to apply MVP and Clean architecture on an Android app,1152,99,rallat,Israel Ferrer Camacho,User,San Francisco,1152
+dex2jar,pxb1988/dex2jar,Java,Tools to work with android .dex and java .class files,1145,340,pxb1988,Bob Pan,User,"Hangzhou, China",1145
+android-testing-templates,googlesamples/android-testing-templates,Java,,1133,132,googlesamples,Google Samples,Organization,,13082
+FlycoTabLayout,H07000223/FlycoTabLayout,Java,An Android TabLayout Lib,1124,207,H07000223,Flyco,User,"Shanghai, China",2718
+AndroidFillableLoaders,JorgeCastilloPrz/AndroidFillableLoaders,Java,Android fillable progress view working with SVG paths. This is a nice option too if you want to create an interesting branding logo for your app. Based on the iOS project: https://github.com/poolqf/FillableLoaders,1127,142,JorgeCastilloPrz,Jorge Castillo,User,Madrid,2193
+material-calendarview,prolificinteractive/material-calendarview,Java,A Material design back port of Android's CalendarView,1122,237,prolificinteractive,Prolific Interactive,Organization,"Brooklyn, San Francisco",1122
+AndResGuard,shwenzhang/AndResGuard,Java,proguard resource for Android  by wechat team,1120,321,shwenzhang,,User,,1120
+PersistentSearch,Quinny898/PersistentSearch,Java,A clone of the Google Now/Maps/Play persistent search bar,1118,246,Quinny898,Kieron Quinn,User,"Ormskirk & Lancaster, UK",1118
+blade,biezhi/blade,Java,":rocket: A Simple, Elegant Java Web Framework! website →",1110,170,biezhi,王爵,User,"ShangHai, China",1383
+Timber,naman14/Timber,Java,Material Design Music Player,1113,295,naman14,Naman Dwivedi,User,"New Delhi, India",2475
+AndroidRubberIndicator,LyndonChin/AndroidRubberIndicator,Java,A rubber indicator,1112,171,LyndonChin,liangfei,User,"Hangzhou, Zhejiang, China",2548
+device-year-class,facebook/device-year-class,Java,A library that analyzes an Android device's specifications and calculates which year the device would be considered 'high end”.,1096,106,facebook,Facebook,Organization,"Menlo Park, California",61260
+Carbon,ZieIony/Carbon,Java,"Material Design implementation for Android 2.2+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.",1093,160,ZieIony,,User,,1341
+Android-Boilerplate,hitherejoe/Android-Boilerplate,Java,Android Boilerplate project using an Espresso Test Module and Robolectric Unit Tests,1087,222,hitherejoe,Joe Birch,User,"Brighton, UK",3313
+ElasticDownload,Tibolte/ElasticDownload,Java,"We are not Gif makers, We are developers",1083,190,Tibolte,Thibault Guégan,User,Paris,1594
+Gaffer,GovernmentCommunicationsHeadquarters/Gaffer,Java,A large-scale graph database,1067,239,GovernmentCommunicationsHeadquarters,GovernmentCommunicationsHeadquarters,Organization,UK,1067
+500px-android-blur,500px/500px-android-blur,Java,,1064,145,500px,500px,Organization,"Toronto, ON, Canada",1064
+squidb,yahoo/squidb,Java,SquiDB is a SQLite database layer for Android,1063,100,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",10798
+WaveSwipeRefreshLayout,recruit-lifestyle/WaveSwipeRefreshLayout,Java,,1058,247,recruit-lifestyle,Recruit Lifestyle Co. Ltd.,Organization,"Tokyo, Japan",2255
+AirMapView,airbnb/AirMapView,Java,A view abstraction to provide a map user interface with various underlying map providers,1040,104,airbnb,Airbnb,Organization,San Francisco,8936
+xUtils3,wyouflf/xUtils3,Java,"android orm, bitmap, http, view inject... ",1022,444,wyouflf,wyouflf,User,,1022
+Dexter,Karumi/Dexter,Java,Android library that simplifies the process of requesting permissions at runtime.,1016,93,Karumi,Karumi,Organization,"Madrid, Spain",2202
+Android-ItemTouchHelper-Demo,iPaulPro/Android-ItemTouchHelper-Demo,Java,Basic example of using ItemTouchHelper to add drag & drop and swipe-to-dismiss to RecyclerView.,1023,166,iPaulPro,Paul Burke,User,"Brookyln, NY",1023
+FlowingDrawer,mxn21/FlowingDrawer,Java,swipe right to display drawer with flowing & bouncing effects.,1023,176,mxn21,mxn,User,Beijing,1486
+incubator-zeppelin,apache/incubator-zeppelin,Java,Mirror of Apache Zeppelin (Incubating),1015,489,apache,The Apache Software Foundation,Organization,,3728
+AndroidSweetSheet,zzz40500/AndroidSweetSheet,Java,一个富有动感的Sheet(选择器),1008,192,zzz40500,轻微,User,Shanghai China,2914
+AndroidTagGroup,2dxgujun/AndroidTagGroup,Java,:four_leaf_clover:A beautiful android tag group widget.,1008,216,2dxgujun,Jun Gu,User,Shanghai,1008
+MaterialShowcaseView,deano2390/MaterialShowcaseView,Java,A Material Design themed ShowcaseView for Android,998,137,deano2390,Dean Wild,User,"Oxford, UK",998
+Backboard,tumblr/Backboard,Java,A motion-driven animation framework for Android.,996,87,tumblr,Tumblr,Organization,New York City,1944
+qksms,qklabs/qksms,Java,The most beautiful SMS messenger app for Android,984,198,qklabs,QK Labs,Organization,,984
+loadtoast,code-mc/loadtoast,Java,Pretty material design toasts with feedback animations,977,154,code-mc,,User,,2498
+SimpleCropView,IsseiAoki/SimpleCropView,Java,A simple image cropping library for Android.,972,172,IsseiAoki,Issei Aoki,User,Tokyo,972
+Knife,mthli/Knife,Java,Knife is a rich text editor component for writing documents in Android.,960,91,mthli,李明亮,User,Beijing,1567
+AndroidTreeView,bmelnychuk/AndroidTreeView,Java,AndroidTreeView. TreeView implementation for android,955,188,bmelnychuk,Bogdan Melnychuk,User,"Lviv, Ukraine",955
+SublimePicker,vikramkakkar/SublimePicker,Java,"A material-styled android view that provisions picking of a date, time & recurrence option, all from a single user-interface. ",952,130,vikramkakkar,Vikram,User,,952
+Taurus,Yalantis/Taurus,Java,A little more fun for the pull-to-refresh interaction. ,947,222,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+DragTopLayout,chenupt/DragTopLayout,Java,Drag down to show a view on the top.,941,228,chenupt,Chenupt,User,,2179
+CoordinatorBehaviorExample,saulmm/CoordinatorBehaviorExample,Java,,935,140,saulmm,Saul Molinero,User,"Vigo, Spain",4157
+okhttp-utils,hongyangAndroid/okhttp-utils,Java,okhttp的辅助类,920,422,hongyangAndroid,张鸿洋,User,"Xian,China",8055
+CircleRefreshLayout,tuesda/CircleRefreshLayout,Java,a custom pull-to-refresh layout which contains a interesting animation,915,201,tuesda,ZhangLei,User,Shenzhen,1495
+mosby,sockeqwe/mosby,Java,A Model-View-Presenter library for modern Android apps,911,151,sockeqwe,Hannes Dorfmann,User,Munich,1270
+DeepLinkDispatch,airbnb/DeepLinkDispatch,Java,"A simple, annotation-based library for making deep link handling better on Android",906,71,airbnb,Airbnb,Organization,San Francisco,8936
+android-classyshark,google/android-classyshark,Java,Android executables browser,904,84,google,Google,Organization,,70104
+Parse-SDK-Android,ParsePlatform/Parse-SDK-Android,Java,Parse SDK for Android,902,162,ParsePlatform,Parse,Organization,"Menlo Park, CA",4296
+StarWars.Android,Yalantis/StarWars.Android,Java,This component implements transition animation to crumble view into tiny pieces.,898,130,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+vector-compat,wnafee/vector-compat,Java,A support library for VectorDrawable and AnimatedVectorDrawable classes introduced in Lollipop,890,100,wnafee,Wael N,User,,890
+TransitionPlayer,linfaxin/TransitionPlayer,Java,Android library to control Transition animates. A simple way to create a interactive animation.,891,182,linfaxin,林法鑫,User,上海,891
+RecyclerViewPager,lsjwzh/RecyclerViewPager,Java,A ViewPager implemention base on RecyclerView's code. Support fling operation like gallary.,884,174,lsjwzh,lsjwzh,User,Beijing China,1546
+vectalign,bonnyfone/vectalign,Java,Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG image),884,59,bonnyfone,Stefano Bonetta,User,,884
+Curved-Fab-Reveal-Example,saulmm/Curved-Fab-Reveal-Example,Java,,884,134,saulmm,Saul Molinero,User,"Vigo, Spain",4157
+ArcAnimator,asyl/ArcAnimator,Java,ArcAnimator helps to create arc transition animation: 2.3.+,880,114,asyl,Asyl,User,,880
+MasteringAndroidDataBinding,LyndonChin/MasteringAndroidDataBinding,Java,A comprehensive tutorial for Android Data Binding,879,155,LyndonChin,liangfei,User,"Hangzhou, Zhejiang, China",2548
+floatingsearchview,arimorty/floatingsearchview,Java,A search view that implements a floating search bar also known as persistent search,875,141,arimorty,Ari,User,NYC,875
+android_design_patterns_analysis,simple-android-framework/android_design_patterns_analysis,Java,Android源码设计模式分析项目,870,739,simple-android-framework,,Organization,,870
+MaterialSearchView,MiguelCatalan/MaterialSearchView,Java,Cute library to implement SearchView in a Material Design Approach,868,114,MiguelCatalan,Miguel Catalan Bañuls,User,Madrid,868
+Android-Download-Manager-Pro,majidgolshadi/Android-Download-Manager-Pro,Java,Android/Java download manager library help you to download files in parallel mechanism in some chunks.,865,161,majidgolshadi,Majid Golshadi,User,,865
+labelview,linger1216/labelview,Java,"Sometimes, we need to show a label above an ImageView or any other views. Well, LabelView will be able to help you. It's easy to implement as well!",856,192,linger1216,Jingwei,User,Shang hai,856
+android-pathview,geftimov/android-pathview,Java,Android view with both path from constructed path or from svg.,849,166,geftimov,Georgi Eftimov,User,"Sofia, Bulgaria",1887
+MultiImageSelector,lovetuzitong/MultiImageSelector,Java,Image selector for Android device. Support single choice and multi-choice.,846,281,lovetuzitong,Nereo,User,,846
+groovy,apache/groovy,Java,Mirror of Apache Groovy,847,266,apache,The Apache Software Foundation,Organization,,3728
+Android-TextView-LinkBuilder,klinker24/Android-TextView-LinkBuilder,Java,Insanely easy way to define clickable links within a TextView.,844,97,klinker24,Luke Klinker,User,Iowa,844
+android-design-support-lib-sample,swissonid/android-design-support-lib-sample,Java,Just Sample how to use the android design support lib,834,143,swissonid,Patrice Müller,User,Zürich,834
+PermissionsDispatcher,hotchemi/PermissionsDispatcher,Java,Provides simple annotation-based API to handle runtime permissions in Marshmallow.,814,120,hotchemi,Shintaro Katafuchi,User,"Tokyo, Japan",1202
+Highlight,hongyangAndroid/Highlight,Java,一个用于app指向性功能高亮的库,799,158,hongyangAndroid,张鸿洋,User,"Xian,China",8055
+orbit,electronicarts/orbit,Java,Orbit - Build distributed and scalable online services,798,75,electronicarts,Electronic Arts Inc,Organization,Worldwide,798
+android-shapeLoadingView,zzz40500/android-shapeLoadingView,Java,高仿新版58 加载动画,798,232,zzz40500,轻微,User,Shanghai China,2914
+ThreeTenABP,JakeWharton/ThreeTenABP,Java,An adaptation of the JSR-310 backport for Android.,795,21,JakeWharton,Jake Wharton,User,"Pittsburgh, PA",3450
+Dragger,ppamorim/Dragger,Java,Animate your activity!,793,111,ppamorim,Pedro Paulo Amorim,User,Joinville - SC,1217
+Paper,pilgr/Paper,Java,Fast and simple data storage library for Android,790,66,pilgr,Aleksey Masny,User,Sweden,790
+glide-transformations,wasabeef/glide-transformations,Java,An Android transformation library providing a variety of image transformations for Glide.,780,130,wasabeef,Daichi Furiya,User,"Tokyo, Japan",4727
+NavigationDrawer-MaterialDesign,rudsonlive/NavigationDrawer-MaterialDesign,Java,Library Navigation drawer material design,777,221,rudsonlive,Rudson Lima,User,Fortaleza - CE,777
+AndroidScrollingImageView,Q42/AndroidScrollingImageView,Java,An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.,777,103,Q42,Q42,Organization,"The Hague, Amsterdam & Mountain View",912
+Android-RoundCornerProgressBar,akexorcist/Android-RoundCornerProgressBar,Java,Round Corner Progress Bar Library for Android,776,162,akexorcist,Akexorcist,User,"Bangkok, Thailand",776
+material-animated-switch,glomadrian/material-animated-switch,Java,A material Switch with icon animations and color transitions,776,100,glomadrian,Adrián Lomas,User,"Barcelona, Spain",2772
+BuildingBlocks,tangqi92/BuildingBlocks,Java,Building Blocks - To help you quickly and easily take to build their own applications.,775,207,tangqi92,Qi Tang,User,Nanjing China,3447
+Android-StepsView,anton46/Android-StepsView,Java,Android-StepsView,765,140,anton46,Anton Nurdin Tuhadiansyah,User,Jakarta,1004
+material-sheet-fab,gowong/material-sheet-fab,Java,Library that implements the floating action button to sheet transition from Google's Material Design documentation.,761,114,gowong,Gordon Wong,User,,761
+MetaballLoading,dodola/MetaballLoading,Java,A 2d metaball loading,762,154,dodola,dodola,User,Beijing,1841
+mr4c,google/mr4c,Java,,760,205,google,Google,Organization,,70104
+tray,grandcentrix/tray,Java,a SharedPreferences replacement for Android with multiprocess support,757,64,grandcentrix,grandcentrix GmbH,Organization,"Cologne, Germany",757
+ToggleDrawable,renaudcerrato/ToggleDrawable,Java,Easy drawable animation using beziers curves. ,730,74,renaudcerrato,Cerrato Renaud ,User,,837
+MaterialTransitions,toddway/MaterialTransitions,Java,Sample material transition animations for Android,755,128,toddway,Todd Way,User,"Kansas City, MO",755
+RxLifecycle,trello/RxLifecycle,Java,Lifecycle handling APIs for Android apps using RxJava,752,46,trello,Trello,Organization,,927
+android-historian,mwolfson/android-historian,Java,A demo of the Android Material Design Support libraries,749,122,mwolfson,Mike Wolfson,User,"Phoenix, AZ",749
+Search-View-Layout,sahildave/Search-View-Layout,Java,Search View Layout like Lollipop Dialer,748,104,sahildave,Sahil Dave,User,India,748
+bubbles-for-android,txusballesteros/bubbles-for-android,Java,Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.,727,105,txusballesteros,Txus Ballesteros,User,"Barcelona, Spain",1792
+zaproxy,zaproxy/zaproxy,Java,The
