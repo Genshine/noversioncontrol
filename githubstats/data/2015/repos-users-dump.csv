@@ -1894,4 +1894,136 @@ EasyImage,jkwiecien/EasyImage,Java,Library for picking pictures from gallery or 
 ReactiveNetwork,pwittchen/ReactiveNetwork,Java,Android library listening network connection state and change of the WiFi signal strength with RxJava Observables,493,50,pwittchen,Piotr Wittchen,User,"Gliwice, Poland",603
 Avengers,saulmm/Avengers,Java,[WIP] This project aims to work as a demo project and reference using the common frameworks and tools used in production enviroments,490,75,saulmm,Saul Molinero,User,"Vigo, Spain",4157
 gl-react-native,ProjectSeptemberInc/gl-react-native,Java,"OpenGL bindings for React Native to implement complex effects over images and components, in the descriptive VDOM paradigm",489,20,ProjectSeptemberInc,Project September,Organization,,881
-RecyclerViewHeader,blipinsk/RecyclerViewHeader,Java,Super fast and easy way to create header for Android Rec
+RecyclerViewHeader,blipinsk/RecyclerViewHeader,Java,Super fast and easy way to create header for Android RecyclerView,487,110,blipinsk,Bartosz Lipinski,User,"Warsaw, Poland",881
+Android-ScalableVideoView,yqritc/Android-ScalableVideoView,Java,"Android Texture VideoView having a variety of scale types like the scale types of ImageView such as fitCenter, centerCrop, centerTopCrop and more",488,88,yqritc,Yoshihito Ikeda,User,"Yokohama, Japan",1385
+android-UCToast,liaohuqiu/android-UCToast,Java,Demonstrate how UC browser display a system overlay view in any platform above API level 9.,485,118,liaohuqiu,Huqiu Liao,User,"San Francisco, United states",2307
+MaterialIntroTutorial,spongebobrf/MaterialIntroTutorial,Java,Library demonstrating a material intro tutorial much like the ones on Google Sheets,486,52,spongebobrf,Rebecca Franks,User,"Johannesburg, South Africa",684
+tut-spring-security-and-angular-js,spring-guides/tut-spring-security-and-angular-js,Java,"Spring Security and Angular JS:: A tutorial on how to use Spring Security with a single page application with various backend architectures, ranging from a simple single server to an API gateway with OAuth2 authentication.",484,537,spring-guides,Spring Guides,Organization,,484
+JellyRefreshLayout,allan1st/JellyRefreshLayout,Java,A pull-down-to-refresh layout inspired by Lollipop overscrolled effects,485,77,allan1st,Y.Chen,User,,485
+DraggedViewPager,yueban/DraggedViewPager,Java,"A View whose pages and items both can be dragged, looking like a ViewPager ",484,79,yueban,baizhoufan,User,,484
+Ninja,mthli/Ninja,Java,Yet another web browser for Android.,483,105,mthli,李明亮,User,Beijing,1567
+Android-CircleMenu,hongyangAndroid/Android-CircleMenu,Java,自定义ViewGroup实现的圆形旋转菜单，支持跟随手指旋转以及快速旋转。,483,248,hongyangAndroid,张鸿洋,User,"Xian,China",8055
+Bookends,tumblr/Bookends,Java,A UI widget for adding headers and footers to RecyclerView,483,54,tumblr,Tumblr,Organization,New York City,1944
+MaterialLeanBack,florent37/MaterialLeanBack,Java,A beautiful leanback port for Smartphones and Tablets,483,80,florent37,Florent CHAMPIGNY,User,France,8281
+FastDev4Android,jiangqqlmj/FastDev4Android,Java,"本项目是Android快速开发框架，采用AndroidStudio进行开发。 预想集成工具包,采用MVP开发模式,EventBus数据分发,沉浸式状态栏,ORM,网络请求(HTTPClint,Volley,OkHttps),数据解析,依赖注入(AndroidAnnotations),xutils,图片异步加载，二维码扫描等等，后续会进行逐步添加",480,177,jiangqqlmj,江清清,User,江苏省南通市经济技术开发区中天路5号(中天科技研究院),480
+InboxLayout,zhaozhentao/InboxLayout,Java,模仿google inbox效果,481,131,zhaozhentao,涛,User,"Foshan,China",1361
+ReLinker,KeepSafe/ReLinker,Java,A robust native library loader for Android.,479,56,KeepSafe,KeepSafe,Organization,San Francisco,1311
+LolliPin,OrangeGangsters/LolliPin,Java,A Material design Android pincode library. Supports Fingerprint.,480,128,OrangeGangsters,,Organization,,954
+wallsplash-android,mikepenz/wallsplash-android,Java,wall:splash is a free open source android client for the awesome unsplash.com service (Free (do whatever you want) high-resolution photos),480,131,mikepenz,Mike Penz,User,"Linz, Austria",4219
+ViewAnimator,florent37/ViewAnimator,Java,A fluent Android animation library,470,59,florent37,Florent CHAMPIGNY,User,France,8281
+Lab-Android-DesignLibrary,nuuneoi/Lab-Android-DesignLibrary,Java,,478,193,nuuneoi,Sittiphol Phanvilai,User,"Bangkok, Thailand",799
+frodo,android10/frodo,Java,Android Library for Logging RxJava Observables and Subscribers.,474,25,android10,Fernando Cejas,User,"Berlin, Germany",474
+java8-the-missing-tutorial,shekhargulati/java8-the-missing-tutorial,Java,Java 8 for all of us,475,32,shekhargulati,Shekhar Gulati,User,,475
+Android-Skin-Loader,fengjundev/Android-Skin-Loader,Java,一个通过动态加载本地皮肤包进行换肤的皮肤框架,475,101,fengjundev,fengjun.dev.cn,User,China,689
+SwipyRefreshLayout,OrangeGangsters/SwipyRefreshLayout,Java,A SwipeRefreshLayout extension that allows to swipe in both direction,474,116,OrangeGangsters,,Organization,,954
+StickerView,nimengbo/StickerView,Java,,472,88,nimengbo,Abner,User,"ShangHai, China",735
+AutoLabelUI,DavidPizarro/AutoLabelUI,Java,"Android library to place labels next to another. If there is not enough space for the next label, it will be added in a new line.",472,72,DavidPizarro,David Pizarro,User,"Alcobendas, Madrid",1157
+picasso-transformations,wasabeef/picasso-transformations,Java,An Android transformation library providing a variety of image transformations for Picasso,472,56,wasabeef,Daichi Furiya,User,"Tokyo, Japan",4727
+ExpandableLayout,AAkira/ExpandableLayout,Java,An android library that brings the expandable layout with various animation. You can include optional contents and use everywhere.,470,80,AAkira,Akira Aratani,User,"Tokyo, Japan",574
+FeatureFu,linkedin/FeatureFu,Java,Library and tools for advanced feature engineering,471,89,linkedin,LinkedIn,Organization,"Mountain View, CA, USA",2299
+PickerUI,DavidPizarro/PickerUI,Java,Android library to display a list of items for pick one,468,94,DavidPizarro,David Pizarro,User,"Alcobendas, Madrid",1157
+MaterialProgressBar,DreaminginCodeZH/MaterialProgressBar,Java,Material Design ProgressBar with consistent appearance,467,64,DreaminginCodeZH,Zhang Hai,User,"Hangzhou, Zhejiang",1606
+BeautifulRefreshLayout,android-cjj/BeautifulRefreshLayout,Java,A bueautiful RefreshLayout,465,124,android-cjj,陈继军,User,"guangzhou,China",2093
+NightOwl,ashqal/NightOwl,Java,,467,54,ashqal,Asha,User,Hangzhou,911
+MaterialUp,jariz/MaterialUp,Java,MaterialUp Android App,467,84,jariz,Jari Zwarts,User,"Amsterdam, The Netherlands",4217
+velocimeter-view,glomadrian/velocimeter-view,Java,A velocimeter View for Android,466,108,glomadrian,Adrián Lomas,User,"Barcelona, Spain",2772
+Remember,tumblr/Remember,Java,A preferences-backed key-value store,465,34,tumblr,Tumblr,Organization,New York City,1944
+material-scrolling,satorufujiwara/material-scrolling,Java,Android library for material scrolling techniques.,465,75,satorufujiwara,Satoru Fujiwara,User,"Shibuya, Tokyo, Japan",571
+VerticalViewPager,kaelaela/VerticalViewPager,Java,Vertically ViewPager and vertically transformer for Android.,465,63,kaelaela,Maekawa Yuichi,User,Tokyo,465
+Watch,tuesda/Watch,Java,A project which demonstrate how to develop a custom client on android for dribbble.com,464,99,tuesda,ZhangLei,User,Shenzhen,1495
+SlidingCard,mxn21/SlidingCard,Java,Sliding cards with pretty gallery effects.,463,98,mxn21,mxn,User,Beijing,1486
+JustWeEngine,lfkdsk/JustWeEngine,Java,An easy open source Android game engine,462,55,lfkdsk,JustWe,User,大连,704
+UpcomingMoviesMVP,jlmd/UpcomingMoviesMVP,Java,Sample project of MVP and Material Design using as repository a list of upcoming movies,459,87,jlmd,José Luis Martín,User,"Murcia, Spain",1166
+CreditCardView,vinaygaba/CreditCardView,Java,CreditCardView is an Android library that allows developers to create the UI which replicates an actual Credit Card.,461,57,vinaygaba,Vinay Gaba,User,New York,461
+overlap2d,UnderwaterApps/overlap2d,Java,Overlap2D Game development toolkit for UI and Level design,461,135,UnderwaterApps,,Organization,,461
+materialistic,hidroh/materialistic,Java,A material-design Hacker News Android reader,461,111,hidroh,Ha Duy Trung,User,,461
+Trestle,lawloretienne/Trestle,Java,A framework used to bridge one or more spans for use with a TextView,460,35,lawloretienne,Etienne Lawlor,User,San Francisco,798
+material-code-input,glomadrian/material-code-input,Java,A material style input for codes,458,67,glomadrian,Adrián Lomas,User,"Barcelona, Spain",2772
+ToggleExpandLayout,fenjuly/ToggleExpandLayout,Java,A togglelayout that can be used in setting interface,456,80,fenjuly,Rongchan Liu,User,"Chengdu,China",1057
+gcm,google/gcm,Java,Google Cloud Messaging - client libraries and sample implementations,455,327,google,Google,Organization,,70104
+MultiCardMenu,wujingchao/MultiCardMenu,Java,A multicard menu that can open and close with animation on android,454,92,wujingchao,Jingchao Wu,User,,1027
+WaveView,gelitenight/WaveView,Java,waveview for android,454,75,gelitenight,NIGHT,User,,454
+Hygieia,capitalone/Hygieia,Java,CapitalOne  DevOps Dashboard,454,156,capitalone,Capital One,Organization,"McLean, VA",454
+dev-summit-architecture-demo,yigit/dev-summit-architecture-demo,Java,The demo application that we've used in the Architecture Talk @ Android Dev Summit 2015,445,59,yigit,Yigit Boyar,User,san francisco,445
+AndroidVideoPlayer,xiongwei-git/AndroidVideoPlayer,Java,"Android Video Player , Like NetEaseNews Video Player.",450,115,xiongwei-git,Ted,User,Shanghai ,601
+WaterDropListView,THEONE10211024/WaterDropListView,Java,WaterDropListView，just like the iOS,445,138,THEONE10211024,xiayong,User,"Beijing,China",695
+packer-ng-plugin,mcxiaoke/packer-ng-plugin,Java,下一代Android打包工具，1000个渠道包只需要5秒钟,409,56,mcxiaoke,Xiaoke Zhang,User,"Beijing, China",1085
+SmallBang,hanks-zyh/SmallBang,Java,  twitter like animation for any view :heartbeat:,433,59,hanks-zyh,张玉涵,User,Beijing,2679
+SCViewPager,sacot41/SCViewPager,Java,,444,62,sacot41,Samuel Côté,User,"Québec, Canada",444
+ChromeLikeSwipeLayout,ashqal/ChromeLikeSwipeLayout,Java,"Pull down, and execute more action!",444,54,ashqal,Asha,User,Hangzhou,911
+DragExpandGrid,wedcel/DragExpandGrid,Java,可展开，可拖动，可排序，可删除，固定更多的GridView,442,88,wedcel,王威威,User,广东省深圳市,442
+LondonEyeLayoutManager,Danylo2006/LondonEyeLayoutManager,Java,A Layoutmanager that must be used with RecyclerView. When list is scrolled views are moved by circular trajectory,438,55,Danylo2006,Danylo Volokh,User,,789
+android-vision,googlesamples/android-vision,Java,,436,162,googlesamples,Google Samples,Organization,,13082
+MaterialTextField,florent37/MaterialTextField,Java,A different beautiful Floating Edit Text,438,75,florent37,Florent CHAMPIGNY,User,France,8281
+WheelPicker,AigeStudio/WheelPicker,Java,Simple & Wonderful wheel view in realistic effect for android.,435,75,AigeStudio,Aige,User,"CQ,China",1721
+ShareLoginLib,lingochamp/ShareLoginLib,Java,ThirdParty login and share lib,436,81,lingochamp,LingoChamp Inc.,Organization,"Shanghai, China",1524
+PickView,brucetoo/PickView,Java,Date and Province WheelView like IOS,436,80,brucetoo,Bruce too,User,"Guangzhou,China",1036
+io2015-codelabs,googlesamples/io2015-codelabs,Java,codelabs for Google I/O 2015,433,112,googlesamples,Google Samples,Organization,,13082
+custom-tabs-client,GoogleChrome/custom-tabs-client,Java,Chrome custom tabs examples,431,74,GoogleChrome,,Organization,,3031
+VCameraDemo,motianhuo/VCameraDemo,Java,微信小视频+秒拍,429,187,motianhuo,Juns Allen,User,Beijing . China,1787
+MultiStateView,Kennyc1012/MultiStateView,Java,Android View that displays different content based on its state,430,76,Kennyc1012,Kenny Campagna,User,,719
+SimpleNews,liuling07/SimpleNews,Java,基于Material Design和MVP的新闻客户端,407,80,liuling07,LiuLing,User,ShenZhen · China,407
+Android-MaterialPreference,jenzz/Android-MaterialPreference,Java,A simple backward-compatible implementation of a Material Design Preference aka settings item,427,54,jenzz,Jens Driller,User,"London, UK",427
+Paginate,MarkoMilos/Paginate,Java,Library for creating simple pagination functionality upon RecyclerView and AbsListView,426,68,MarkoMilos,Marko Milos,User,"Zagreb, Croatia",426
+JianDan,ZhaoKaiQiang/JianDan,Java,高仿煎蛋客户端,423,180,ZhaoKaiQiang,ZhaoKaiQiang,User,ShanDong QingDao,1899
+easygoogle,googlesamples/easygoogle,Java,Simple wrapper library for Google APIs,423,26,googlesamples,Google Samples,Organization,,13082
+Cult,ppamorim/Cult,Java,Toolbar is so boring,424,54,ppamorim,Pedro Paulo Amorim,User,Joinville - SC,1217
+DraggableView,elevenetc/DraggableView,Java,Draggable views with rotation and skew/scale effects,424,54,elevenetc,Eugene Levenetc,User,"Russia, Saint-Petersburg",2330
+fragnums,pyricau/fragnums,Java,An enum based library to replace fragments.,423,41,pyricau,Pierre-Yves Ricau,User,San Francisco,744
+AudioWaves,FireZenk/AudioWaves,Java,Shows a graphic representation of the sounds captured by the microphone on Android,422,73,FireZenk,Jorge Garrido,User,"Madrid, Spain",422
+beauty-treatment-android-animations,JlUgia/beauty-treatment-android-animations,Java,Set of samples of views with slick interaction patterns and animations,419,51,JlUgia,Jose L,User,Berlin,419
+SlideDateTimePicker,jjobes/SlideDateTimePicker,Java,A combined DatePicker and TimePicker in a DialogFragment for Android,419,94,jjobes,Jason D. Jobes,User,,419
+fit-chart,txusballesteros/fit-chart,Java,Fit Chart is an Android view similar to Google Fit wheel chart.,420,43,txusballesteros,Txus Ballesteros,User,"Barcelona, Spain",1792
+PinchImageView,boycy815/PinchImageView,Java,体验最好的图片手势控件，不同分辨率无缝切换，可与ViewPager结合使用。,420,72,boycy815,,User,,420
+EaseInterpolator,cimi-chen/EaseInterpolator,Java,Thirty different easing animation interpolators for Android.,417,60,cimi-chen,cimi,User,,417
+FABRevealLayout,truizlop/FABRevealLayout,Java,A layout to transition between two views using a Floating Action Button as shown in many Material Design concepts,417,58,truizlop,Tomás Ruiz-López,User,"Madrid, Spain",753
+socket.io-android-chat,nkzawa/socket.io-android-chat,Java,A simple chat demo for socket.io and Android,414,176,nkzawa,Naoyuki Kanezawa,User,,414
+android-animate-RichEditor,xmuSistone/android-animate-RichEditor,Java,android rich text editor which enables users to insert/delete bitmaps and text into edit-view with animations.,415,68,xmuSistone,sistone,User,"Hangzhou, Zhejiang, China",1947
+android-transition,kaichunlin/android-transition,Java,Allows the easy creation of animated transition effects when the state of Android UI has changed,415,53,kaichunlin,Kai,User,,415
+Android-StickyNavLayout,hongyangAndroid/Android-StickyNavLayout,Java,An android library for navigator that stick on the top ,413,152,hongyangAndroid,张鸿洋,User,"Xian,China",8055
+GankMeizhi,xingrz/GankMeizhi,Java,干·妹纸 (Gān Mèizhi),412,84,xingrz,XiNGRZ,User,"Canton, China",412
+MVVM_Hacker_News,hitherejoe/MVVM_Hacker_News,Java,Android MVVM experiment project using the official Data Binding library,410,43,hitherejoe,Joe Birch,User,"Brighton, UK",3313
+SortableTableView,ISchwarz23/SortableTableView,Java,An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.,410,82,ISchwarz23,Ingo Schwarz,User,,410
+PhotoNoter,yydcdut/PhotoNoter,Java,:notebook:Material Design风格的开源照片笔记。(MVP+Dagger2+RxJava+Dex分包异步加载),392,53,yydcdut,yydcdut,User,BeiJing China,507
+HeartLayout,tyrantgit/HeartLayout,Java,periscope like heartlayout,405,60,tyrantgit,,User,,2307
+Spanny,binaryfork/Spanny,Java,,403,56,binaryfork,,User,,403
+tailor,sleekbyte/tailor,Java,Cross-platform static analyzer and linter for Swift.,400,5,sleekbyte,Sleekbyte,Organization,"Waterloo, Canada",400
+TimeRangePicker,tittojose/TimeRangePicker,Java,Android time range picker,403,53,tittojose,Titto Jose,User,India,403
+HotFix,dodola/HotFix,Java,安卓App热补丁动态修复框架,401,103,dodola,dodola,User,Beijing,1841
+CoolSwitch,Serchinastico/CoolSwitch,Java,Custom switch with a circular reveal effect,402,56,Serchinastico,,User,Madrid,402
+Droppy,shehabic/Droppy,Java,"A simple yet-powerful and fully customizable Android drop-down menu. It supports Text with/without Icons, Separators, and even fully customized views.",402,65,shehabic,Mohamed Shehab,User,"Berlin, Germany",402
+fresco-processors,wasabeef/fresco-processors,Java,An Android image processor library providing a variety of image transformations for Fresco.,399,45,wasabeef,Daichi Furiya,User,"Tokyo, Japan",4727
+android-gradle-java-template,jaredsburrows/android-gradle-java-template,Java,Gradle + Android Studio + Robolectric + Espresso + Mockito + EasyMock/PowerMock + JaCoCo,396,43,jaredsburrows,Jared Burrows,User,"Sunnyvale, CA",396
+Favor,soarcn/Favor,Java,A easy way to use android sharepreference,400,45,soarcn,Kai Liao,User,Sydney,400
+GithubTrends,laowch/GithubTrends,Java,It's a GitHub Trending repositories Viewer with Material Design.,397,54,laowch,laowch,User,China,397
+EmojiChat,kymjs/EmojiChat,Java,Android聊天界面+emoji表情+大表情实现,397,103,kymjs,张涛,User,"ShenZhen, China",791
+RichText,zzhoujay/RichText,Java,Android平台下的富文本显示控件,395,72,zzhoujay,郑州,User,uestc,395
+DesignSupportLibraryDemo,xuyisheng/DesignSupportLibraryDemo,Java,Android Design Support Library Demo,393,172,xuyisheng,xuyisheng,User,"pudong,shanghai",1228
+FlippableStackView,blipinsk/FlippableStackView,Java,An Android library introducing a stack of Views with the first item being flippable.,394,77,blipinsk,Bartosz Lipinski,User,"Warsaw, Poland",881
+SlideBottomPanel,kingideayou/SlideBottomPanel,Java,底部划动菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView,393,79,kingideayou,NeXT,User,"Beijing, China",712
+XhsWelcomeAnim,w446108264/XhsWelcomeAnim,Java,小红书欢迎引导第二版,392,148,w446108264,zhongdaxia,User,Shanghai China,804
+fab-transformation,konifar/fab-transformation,Java,Support Floating Action Button transformation for Android,391,54,konifar,Yusuke Konishi,User,Japan,710
+JFoenix,jfoenixadmin/JFoenix,Java,JavaFX Material Design Library,387,28,jfoenixadmin,JFoeniX,User,,387
+dashed-circular-progress,glomadrian/dashed-circular-progress,Java,A Circular progress animated where you can put any view inside,389,78,glomadrian,Adrián Lomas,User,"Barcelona, Spain",2772
+elastic-job,dangdangdotcom/elastic-job,Java,"Elastic-Job is a distributed scheduled job framework, based on Quartz and Curator.",387,254,dangdangdotcom,,Organization,,387
+Carpaccio,florent37/Carpaccio,Java,Data Mapping & Smarter Views framework for android,386,54,florent37,Florent CHAMPIGNY,User,France,8281
+KuaiHu,iKrelve/KuaiHu,Java,高仿知乎日报——krelve.com,385,172,iKrelve,krelve,User,krelve,385
+MD-BiliBili,Qixingchen/MD-BiliBili,Java,Material Design 版 BiliBili Android 客户端,385,92,Qixingchen,qixingchen,User,"XiaMen,Fujian,China",385
+screenshot-tests-for-android,facebook/screenshot-tests-for-android,Java,screenshot-test-for-android is a library that can generate fast deterministic screenshots while running instrumentation tests in android.,384,36,facebook,Facebook,Organization,"Menlo Park, California",61260
+BiuEditText,xujinyang/BiuEditText,Java,biu，biu，一个有趣的EditText,386,69,xujinyang,xujinyang,User,shanghai,500
+AndroidDigest,openproject/AndroidDigest,Java,android相关的干货(文摘，名博，github等等),384,90,openproject,冯建,User,,529
+Pixelate,DanielMartinus/Pixelate,Java,Transform images into pixel versions of itself in Android,385,51,DanielMartinus,Dion Segijn,User,The Netherlands,385
+Clean-Contacts,PaNaVTEC/Clean-Contacts,Java,Clean implementation on Android,385,43,PaNaVTEC,Christian Panadero,User,London,687
+let,canelmas/let,Java,Annotation based simple API flavoured with AOP to handle new Android runtime permission model,384,22,canelmas,Can Elmas,User,istanbul,384
+Android-PullToNextLayout,zzz40500/Android-PullToNextLayout,Java,Android-PullToNextLayout,382,91,zzz40500,轻微,User,Shanghai China,2914
+jianshi,wingjay/jianshi,Java,A beautiful app 简诗 for recording anything in your life with traditional Chinese style.,383,95,wingjay,wingjay,User,"Shanghai, China",941
+GifView,Cutta/GifView,Java,Library for playing gifs on Android,352,39,Cutta,Cüneyt Çarıkçi,User,Ankara,484
+SuperSwipeRefreshLayout,nuptboyzhb/SuperSwipeRefreshLayout,Java,A Custom SwipeRefreshLayout,380,103,nuptboyzhb,Zheng Haibo(莫川),User,"Hangzhou,Zhejiang,China",727
+BubbleTextView,dupengtao/BubbleTextView,Java,Android Bubble View,378,62,dupengtao,,User,,378
+overscroll-decor,EverythingMe/overscroll-decor,Java,Android: iOS-like over-scrolling effect applicable over almost all scrollable Android views.,375,49,EverythingMe,EverythingMe,Organization,,740
+Android-RatioLayout,devsoulwolf/Android-RatioLayout,Java,"This is a specified proportion to the size of the Layout or View support library, with which you can easily set a fixed ratio of the size of the Layout or View, internal adaptive size calculation, completely abandon the code to calculate the size! If you have any questions in the course or suggestions, please send an e-mail to the following e-mail, thank you!",377,54,devsoulwolf,Soulwolf,User,beijing China ,526
+HideOnScrollExample,mzgreen/HideOnScrollExample,Java,This is an example on how to show/hide views when scrolling a list.,374,106,mzgreen,mzgreen,User,,374
+FloatingView,recruit-lifestyle/FloatingView,Java,,374,63,recruit-lifestyle,Recruit Lifestyle Co. Ltd.,Organization,"Tokyo, Japan",2255
+MaterialSpinner,ganfra/MaterialSpinner,Java,Spinner with Material Design - Down to API 9,374,77,ganfra,François,User,Rennes,374
+MaterialDesignExample,chenyangcun/MaterialDesignExample,Java,本APP用来演示Material Design控件的使用。,372,139,chenyangcun,阳春面,User,"Shanghai,China",372
+BlurredGridMenu,gotokatsuya/BlurredGridMenu,Java,Cool blurred gri
