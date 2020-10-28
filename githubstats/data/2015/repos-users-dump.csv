@@ -2566,4 +2566,139 @@ TextViewSpanClickable,nimengbo/TextViewSpanClickable,Java,,140,22,nimengbo,Abner
 h2database,h2database/h2database,Java,Automatically exported from code.google.com/p/h2database,139,76,h2database,H2 Database Engine,Organization,,139
 GaussPager,kot32go/GaussPager,Java,高斯模糊渐变的滑动效果,139,20,kot32go,kot32,User,,496
 FAImageView,skyfe79/FAImageView,Java,FAImageView is a Frame Animation ImageView for Android.,139,19,skyfe79,Sungcheol Kim,User,"Seoul, Korea.",139
-EspressoExamples,vgrec/EspressoExamples,Java,A collection of examples demonstrating different techniques for automated testing with Espresso.,139,16,vgrec,Veaceslav Gr
+EspressoExamples,vgrec/EspressoExamples,Java,A collection of examples demonstrating different techniques for automated testing with Espresso.,139,16,vgrec,Veaceslav Grec,User,,139
+retro-dagger-example,fr4nk1/retro-dagger-example,Java,MVP + Dagger2 + Retrofit,139,17,fr4nk1,Fran Pulido,User,Madrid,139
+FilterSelectorListView,pchauhan/FilterSelectorListView,Java,FilterSelectorListView,138,22,pchauhan,Parag Chauhan,User,,138
+DoubleViewPager,juliome10/DoubleViewPager,Java,Horizontal + Vertical ViewPager,138,29,juliome10,Julio Gómez,User,Galiza,138
+ctci_v6,nawns/ctci_v6,Java,Cracking the Coding Interview 6th edition problems,138,57,nawns,Austin,User,"West Lafayette, IN",138
+WatchTower,hitherejoe/WatchTower,Java,"A sample application created to test, explore and demonstrate the Proximity Beacon API",138,8,hitherejoe,Joe Birch,User,"Brighton, UK",3313
+LabelView,drakeet/LabelView,Java,"Inherits from TextView, can set vertical and horizontal label to TextView // 继承 TextView，能够在 TextView 上下左右固定设置文本的 View",138,16,drakeet,drakeet,User,"Xiamen, China",2863
+AZBarrage,Xieyupeng520/AZBarrage,Java,Android弹幕效果，随机颜色，大小，高度，内容,138,23,Xieyupeng520,AZZ,User,ShenZhen,369
+AndroidCubeDemo,geminiwen/AndroidCubeDemo,Java,Android Cube Effect Demo (not use view pager transformer),136,23,geminiwen,Gemini Wen,User,"Hangzhou,Zhejiang,CN",136
+utils,evil0ps/utils,Java,Java utils,136,68,evil0ps,0ps-Human,User,,136
+CountryCodePicker,chathudan/CountryCodePicker,Java,"Android CountryCodePicker will help users to  search and select a country and retrieve selected country's country name,code,currency and dial code (Sri Lanka,LK,LKR,+94)",136,23,chathudan,Chathura Wijesinghe,User,"Colombo, Sri Lanka",136
+ParallaxHeaderViewPager,boxme/ParallaxHeaderViewPager,Java,Scrollable fragments within a viewpager that allows for parallax image and sticky bar effects ,136,37,boxme,Desmond ,User,Singapore,309
+RhymeCity,mattlogan/RhymeCity,Java,Sample Android app for aspiring lyricists,135,12,mattlogan,Matt Logan,User,"Denver, CO",253
+FABtransitions,Adirockzz95/FABtransitions,Java,Android Library to create Floating Action Button Animations.,135,35,Adirockzz95,Aditya khandkar,User,india,135
+ExpandableHeightListView,PaoloRotolo/ExpandableHeightListView,Java,Expandable Height ListView for Android,135,20,PaoloRotolo,Paolo Rotolo,User,"Bari, Italy",3395
+android-dynamical-loading,kaedea/android-dynamical-loading,Java,"Android projects of dynamically loading apk, which means that you can upgrade your Android APP or fix emergent bugs without any re-installation.",135,36,kaedea,Kaede Akatsuki,User,"Shenzhen, Guangzhou",467
+MaterialTabsAdavanced,jjhesk/MaterialTabsAdavanced,Java,Done by neokree for the material tabs. This is going to be the better one in here!,134,32,jjhesk,世外桃源,User,Hong Kong,274
+AndroidtoAppleVectorLogo,lewismcgeary/AndroidtoAppleVectorLogo,Java,An Android app demoing pathmorphing with AnimatedVectorDrawables,134,20,lewismcgeary,Lewis McGeary,User,"Glasgow, Scotland",134
+icefig,wapatesh/icefig,Java,Java elegant supplement,134,5,wapatesh,Works Applications ATE Shanghai,Organization,Shanghai,134
+elasticsearch,mesos/elasticsearch,Java,Elasticsearch on Mesos,134,36,mesos,Mesos,Organization,"Berkeley, CA",347
+xmind,xmindltd/xmind,Java,Automatically exported from code.google.com/p/xmind3,134,35,xmindltd,XMind Ltd.,Organization,,134
+AndroidDesignSupportSample,liuguangqiang/AndroidDesignSupportSample,Java,A sample that use the Android Support Design Library.,133,39,liuguangqiang,Eric,User,China,263
+wiki2vec,idio/wiki2vec,Java,Generating Vectors for DBpedia Entities via Word2Vec and Wikipedia Dumps,133,43,idio,idio Ltd.,Organization,"London, United Kingdom",133
+FirebaseUI-Android,firebase/FirebaseUI-Android,Java,,133,38,firebase,Firebase,Organization,"San Francisco, CA",133
+pure4j,pure4j/pure4j,Java,Compile-Time Purity and Immutability Semantics For The Java Language,133,4,pure4j,Pure4J,Organization,,133
+VideoControllerView,brucetoo/VideoControllerView,Java,Custom media controller view https://github.com/brucetoo/VideoControllerView,132,26,brucetoo,Bruce too,User,"Guangzhou,China",1036
+MIUIv6-UninstallAnimation,kot32go/MIUIv6-UninstallAnimation,Java,仿MIUI卸载动画控件,132,26,kot32go,kot32,User,,496
+google-api-java-client-samples,google/google-api-java-client-samples,Java,,132,180,google,Google,Organization,,70104
+TagView,Cutta/TagView,Java,Android TagView-HashTagView,132,20,Cutta,Cüneyt Çarıkçi,User,Ankara,484
+NumberCodeView,linkaipeng/NumberCodeView,Java,A number input view which like input password in alipay or wechat pay.,132,23,linkaipeng,linkaipeng,User,GuangZhou,132
+AndroidScreenSlidePager,LyndonChin/AndroidScreenSlidePager,Java,Full screen slide pager to display images fetched from Internet by Fresco,131,44,LyndonChin,liangfei,User,"Hangzhou, Zhejiang, China",2548
+SpringBlog,Raysmond/SpringBlog,Java,A simple blogging system implemented with Spring Boot/MVC/JPA + Hibernate + MySQL + Redis + Bootstrap + Jade. Source code for my personal website.,131,59,Raysmond,Jiankun LEI,User,"Shanghai, China",320
+MaterialPatternllockView,AmniX/MaterialPatternllockView,Java,A View which is lookalike Lollipop Pattern View,131,25,AmniX,Aman tonk,User,India,131
+superword,ysc/superword,Java,Superword is a Java open source project dedicated in the study of English words analysis and auxiliary reading.,131,102,ysc,杨尚川,User,,131
+wildfly-swarm,wildfly-swarm/wildfly-swarm,Java,Cloud Native Java EE,130,36,wildfly-swarm,WildFly Swarm,Organization,,130
+AngularBeans,bessemHmidi/AngularBeans,Java,,130,58,bessemHmidi,Bessem Hmdi  @BessemHmidi ,User,Tunisia,130
+letterpress,Pixplicity/letterpress,Java,Custom fonts without writing code.,130,24,Pixplicity,Pixplicity,Organization,"Utrecht, The Netherlands",130
+shuba,liuguangqiang/shuba,Java,Find the best novel for users.,130,38,liuguangqiang,Eric,User,China,263
+android-postfix-plugin,takahirom/android-postfix-plugin,Java,Android postfix plugin for AndroidStudio,129,12,takahirom,,User,Japan,750
+Akatsuki,tom91136/Akatsuki,Java,Android states and arguments made easy with annotations,129,17,tom91136,Tom Lin,User,UK,129
+auto-value-parcel,rharter/auto-value-parcel,Java,An Android Parcelable extension for Google's AutoValue.,129,7,rharter,Ryan Harter,User,Chicago,129
+mybatis-spring-boot,mybatis/mybatis-spring-boot,Java,MyBatis integration with Spring Boot,129,49,mybatis,MyBatis,Organization,"Canada, Colombia, Italy, Japan, Perú, Spain, Russia, Thailand, UK and USA",129
+SearchableSpinner,rajasharan/SearchableSpinner,Java,An android dropdown widget which allows to easily filter huge list of options,129,20,rajasharan,Raja Sharan Mamidala,User,NJ,378
+BannerTime,jcmore2/BannerTime,Java,BannerTime create a scheduled popup to show your personal message,129,27,jcmore2,Juan Carlos Moreno,User,Madrid,397
+TitanjumNote,JungleTian/TitanjumNote,Java,超简单的笔记，支持搜索，Material Design，滑动退出,129,29,JungleTian,ZhangTitanjum,User,Beijing China,129
+Atlas-Android,layerhq/Atlas-Android,Java,Atlas is a library of native Android communications user interface components for Layer.,128,65,layerhq,Layer,Organization,"San Francisco, CA",254
+FastAndroid,huntermr/FastAndroid,Java,"这是一个融入了MVP模式,集成了多个开源项目后,进行整合形成的Android快速开发框架。",128,42,huntermr,韩涛,User,Shenzhen China,128
+GreenMatter,negusoft/GreenMatter,Java,Android material theme backport and additional functionality.,128,19,negusoft,NEGU Soft,Organization,,128
+ApkAutoInstaller,bunnyblue/ApkAutoInstaller,Java,Android Apk Auto Installer,128,45,bunnyblue,Bunny Blue,User,"San Francisco,CA",914
+assertj-rx,ribot/assertj-rx,Java,AssertJ assertions for RxJava Observables,128,5,ribot,ribot,Organization,Brighton,128
+whiskey,twitter/whiskey,Java,HTTP library for Android (beta),128,19,twitter,"Twitter, Inc.",Organization,"San Francisco, CA",7027
+AndroidDeviceNames,tslamic/AndroidDeviceNames,Java,A tiny Android library that transforms the device model name into something users can understand.,128,11,tslamic,,User,Dublin,253
+takes,yegor256/takes,Java,True Object-Oriented and Immutable Java Web Framework,127,63,yegor256,Yegor Bugayenko,User,"Palo Alto, CA",819
+RecyclerItemDecoration,magiepooh/RecyclerItemDecoration,Java,ItemDecoration for RecyclerView using LinearLayoutManager for Android,127,28,magiepooh,magiepooh,User,"Tokyo, Japan",127
+sinavideo_playersdk,SinaVDDeveloper/sinavideo_playersdk,Java,,127,47,SinaVDDeveloper,,Organization,,127
+Android-Material-SearchView,EugeneHoran/Android-Material-SearchView,Java,,127,38,EugeneHoran,Eugene Horan,User,"Long Island, New York",127
+UltimateBrowserProject,Thunderbottom/UltimateBrowserProject,Java,"[Stable, but development has been discontinued] Open source lightweight Android Browser. ",127,67,Thunderbottom,Chinmay Pai,User,Asia,127
+Android-SVProgressHUD,saiwu-bigkoo/Android-SVProgressHUD,Java,SVProgressHUD For Android,126,42,saiwu-bigkoo,sai,User,guangzhou,663
+Wurst-Client,Wurst-Imperium/Wurst-Client,Java,:boom: Minecraft Hacked Client by Alexander01998,126,198,Wurst-Imperium,Wurst-Imperium,Organization,,126
+AndroidNewWidgetsDemo,git0pen/AndroidNewWidgetsDemo,Java,Android Design Support Library新控件用法大全,126,58,git0pen,安卓猴,User,China,126
+SwipeBackHelper,Jude95/SwipeBackHelper,Java,make your activity can swipe to close,126,52,Jude95,Jude,User,重庆邮电大学,242
+Android-Carbon-Forum,lincanbin/Android-Carbon-Forum,Java,Android Client for Carbon Forum with Material Design.,126,28,lincanbin,Canbin Lin,User,"Chaozhou, Guangdong, China",256
+Kore,xbmc/Kore,Java,Kore is a simple and easy-to-use Kodi remote.,126,75,xbmc,XBMC Foundation,Organization,,126
+SimpleHashSet,liaohuqiu/SimpleHashSet,Java,Save 25% memory for you.,125,17,liaohuqiu,Huqiu Liao,User,"San Francisco, United states",2307
+BalloonPerformer,Kyson/BalloonPerformer,Java,悬浮窗，下拉有气球动画,125,26,Kyson,AndroidKy,User,,441
+CameraColorPicker,tvbarthel/CameraColorPicker,Java,"Camera Color Picker is an Android application that lets you capture, in real time, the colors around you using the camera of your device",125,29,tvbarthel,tvbarthel,Organization,France,125
+FancyBackground,tslamic/FancyBackground,Java,FancyBackground is a tiny Android library designed to animate a set of resource Drawables.,125,18,tslamic,,User,Dublin,253
+fastutil,vigna/fastutil,Java,"fastutil extends the Java™ Collections Framework by providing type-specific maps, sets, lists and queues.",125,14,vigna,Sebastiano Vigna,User,"Milano, Italia",125
+AndroidStudioAndRobolectric,nenick/AndroidStudioAndRobolectric,Java,Minimal Robolectric and Android Studio example,125,19,nenick,Nico Küchler,User,"Berlin, Germany",125
+AndroidGameBoyEmulator,pedrovgs/AndroidGameBoyEmulator,Java,Android Game Boy Emulator written in Java,125,26,pedrovgs,Pedro Vicente Gómez Sánchez,User,Madrid,2386
+motif,johnlcox/motif,Java,Scala-like pattern matching for Java 8,125,3,johnlcox,John Leacox,User,Kansas City,125
+Dagger2Scopes,JorgeCastilloPrz/Dagger2Scopes,Java,Dagger 2 sample app implementing multiple scopes. Clean arquitecture.,124,16,JorgeCastilloPrz,Jorge Castillo,User,Madrid,2193
+PictureThreeCache,saymagic/PictureThreeCache,Java,This is a Repository for Android application's pictures cache. You can use 'one line' style to show a picture on ImageView display and the code will cache the picture on the disk. ,124,23,saymagic,saymagic,User,Hang Zhou,124
+CoreProgress,lizhangqu/CoreProgress,Java,OkHttp upload and download progress support,124,41,lizhangqu,lizhangqu,User,浙江省杭州市,504
+Slice,mthli/Slice,Java,Android drawable that allows you custom round rect position.,124,7,mthli,李明亮,User,Beijing,1567
+android-nearby,googlesamples/android-nearby,Java,Samples for Nearby APIs on Android,124,70,googlesamples,Google Samples,Organization,,13082
+Vineyard,hitherejoe/Vineyard,Java,Vine client for Android TV,124,11,hitherejoe,Joe Birch,User,"Brighton, UK",3313
+MaterialLetterIcon,IvBaranov/MaterialLetterIcon,Java,Material first letter icon like lollipop contacts icon. Letter(s) on a shape drawn on canvas.,124,28,IvBaranov,Ivan Baranov,User,,457
+NLPIR,NLPIR-team/NLPIR,Java,,124,122,NLPIR-team,,Organization,,124
+PinCodePicker,polok/PinCodePicker,Java,"PinCodePicker was created for Android platform as a view which allows to take passwords/codes or some other sensitive data from end user in easy way, so developers can focus on the core functionalities of their application",123,17,polok,polok,User,,123
+Hide-Music-Player,w9xhc/Hide-Music-Player,Java,,123,34,w9xhc,,User,,123
+dddsample-core,citerus/dddsample-core,Java,This is the new home of the original DDD Sample app (previously hosted at sf.net).. ,123,48,citerus,Citerus AB,Organization,Sweden,123
+ListViewWithSofPpanel,nimengbo/ListViewWithSofPpanel,Java,,123,27,nimengbo,Abner,User,"ShangHai, China",735
+MaterialQQLite,wang4yu6peng13/MaterialQQLite,Java,,123,50,wang4yu6peng13,,User,,123
+PullDownView,w4lle/PullDownView,Java,大图作为header跟随手指向上滑动，下拉展示大图,122,10,w4lle,WangLingLong,User,"Shanghai,China",341
+commonmark-java,atlassian/commonmark-java,Java,"Java implementation of CommonMark, a specification of the Markdown format",122,13,atlassian,Atlassian,Organization,Mostly Downunder but all over the world!,122
+spring-reactive,spring-projects/spring-reactive,Java,Sandbox for experimenting on Spring 5 reactive programming support,122,25,spring-projects,Spring,Organization,,232
+AnotherMonitor,AntonioRedondo/AnotherMonitor,Java,Monitors and records the CPU and memory usage of Android devices,122,34,AntonioRedondo,Antonio Redondo,User,"London, UK",122
+JavaReedSolomon,Backblaze/JavaReedSolomon,Java,Backblaze Reed-Solomon Implementation in Java,121,19,Backblaze,Backblaze,Organization,"San Mateo, California, USA",121
+show-java,niranjan94/show-java,Java,An apk decompiler for android.,121,38,niranjan94,Niranjan Rajendran,User,India,121
+MaterialFilePicker,nbsp-team/MaterialFilePicker,Java,Material file picker for Android,121,27,nbsp-team,&nbsp;,Organization,,121
+clean-simple-calendar,dpreussler/clean-simple-calendar,Java,Small simple android calendar implementation,120,19,dpreussler,Danny Preussler,User,"Berlin, Germany",120
+Base,thiagokimo/Base,Java,Base is a lightweight library that gives you a clean architecture foundation for your Android MVP's,120,13,thiagokimo,Thiago Rocha (Kimo),User,"Stockholm, Sweden",306
+RetractableToolbar,michelelacorte/RetractableToolbar,Java,A library to use comfortably the toolbar retractable Android.,120,17,michelelacorte,Michele Lacorte,User,"Bologna, Italy",533
+SogoLoading,dengshiwei/SogoLoading,Java,SogoLoading Animation,120,19,dengshiwei,mr_dsw,User,SuZhou,120
+caliper,google/caliper,Java,Automatically exported from code.google.com/p/caliper,120,22,google,Google,Organization,,70104
+sectioned-recyclerview,afollestad/sectioned-recyclerview,Java,Implement a multi-sectioned RecyclerView using a custom adapter interface.,120,13,afollestad,Aidan Follestad,User,"Minneapolis, Minnesota",2553
+Grant,anthonycr/Grant,Java,Simplifying Android Permissions,120,10,anthonycr,Anthony Restaino,User,"Brooklyn, NY",120
+FlickableView,gotokatsuya/FlickableView,Java,Flickable ImageView for Android. It's like a view of twitter's detail image.,119,14,gotokatsuya,goka,User,"Tokyo, Japan",643
+ImageCropper,Jhuster/ImageCropper,Java,A custom image cropper library for Android.  ,119,23,Jhuster,卢俊,User,Shanghai,336
+android-alltest-gradle-sample,benwilcock/android-alltest-gradle-sample,Java,"A template Gradle / Android project which integrates and configures Robolectric, Robotium, JUnit4 and standard Android Instrumentation together in one project.",119,22,benwilcock,Ben Wilcock,User,United Kingdom,119
+BetterVectorDrawable,a-student/BetterVectorDrawable,Java,The VectorDrawable implementation for Android 4.0+,119,12,a-student,,User,,119
+DCMonitor,shunfei/DCMonitor,Java,"Data Center monitor, included zookeeper, kafka, druid",119,33,shunfei,,Organization,,119
+android-verticalseekbar,h6ah4i/android-verticalseekbar,Java,Vertical SeekBar class which supports Android 2.3 - 6.0.,119,27,h6ah4i,Haruki Hasegawa,User,"Tokyo, Japan",1813
+Pancakes,mattlogan/Pancakes,Java,A View-based navigation stack for Android,118,10,mattlogan,Matt Logan,User,"Denver, CO",253
+ringdroid,google/ringdroid,Java,,118,61,google,Google,Organization,,70104
+Layout-to-Image,vipulasri/Layout-to-Image,Java,"Android Layout (Relative Layout, Linear Layout etc) to Image",118,20,vipulasri,Vipul Asri,User,New Delhi,690
+espresso-samples,chiuki/espresso-samples,Java,A collection of samples demonstrating different Espresso techniques.,118,22,chiuki,Chiu-Ki Chan,User,"Boulder, CO",787
+AnimatedRandomLayout,Windsander/AnimatedRandomLayout,Java,A flexible RandomLayout with controlable Animation,117,21,Windsander,Windsander Lee,User,"China, BeiJing",117
+ScrollableLayout,cpoopc/ScrollableLayout,Java,共同头部+ViewPager+ListView     http://blog.csdn.net/w7822938/article/details/47173047,117,26,cpoopc,,User,厦门,117
+gwt-material,GwtMaterialDesign/gwt-material,Java,A Google Material Design wrapper for GWT ,117,35,GwtMaterialDesign,Gwt Material Design,Organization,,117
+EasyRecyclerView,Jude95/EasyRecyclerView,Java,"ArrayAdapter,pull to refresh,auto load more,Header/Footer,EmptyView,ProgressView,ErrorView",116,43,Jude95,Jude,User,重庆邮电大学,242
+lightwave,vmware/lightwave,Java,"Identity services for traditional infrastructure, applications and containers.",116,28,vmware,VMware ,Organization,"Palo Alto,CA",959
+jvmtop,patric-r/jvmtop,Java,"Java monitoring for the command-line, profiler included",116,19,patric-r,,User,,116
+ExoMedia,brianwernick/ExoMedia,Java,An Android ExoPlayer wrapper to simplify Audio and Video implementations,116,27,brianwernick,Brian Wernick,User,"Utah, USA",116
+umlet,umlet/umlet,Java,Free UML Tool for Fast UML Diagrams,116,30,umlet,UMLet,User,,116
+SubmitDemo,tuesda/SubmitDemo,Java,comtomize view submit button which you use for submit operation or download operation and so on.,116,18,tuesda,ZhangLei,User,Shenzhen,1495
+rx-receivers,f2prateek/rx-receivers,Java,Reactive Bindings for BroadcastReceivers — WIP,115,11,f2prateek,Prateek Srivastava,User,San Francisco,115
+MobileSafer,msandroid/MobileSafer,Java,Android项目实战，手机安全小卫士,115,30,msandroid,Song Ya rong,User,Edinburgh British,115
+AnyShareOfAndroid,gpfduoduo/AnyShareOfAndroid,Java,西瓜快传   仿照市场上的茄子快传 或者 360文件传输 在局域网内，如果没有局域网，接收方建立热点，发送发接入热点，进行文件（发送方的app、音视频、图片等文件）,115,30,gpfduoduo,郭攀峰,User,Nanjing Jiangsu. China,466
+MessageSend,liangzhitao/MessageSend,Java,一个聊天输入框。,115,21,liangzhitao,Ailurus,User,Beijing,115
+BusyIndicator,silverforge/BusyIndicator,Java,,115,21,silverforge,Janos Murvai-Gaal,User,HU,115
+android-testing,googlecodelabs/android-testing,Java,,115,35,googlecodelabs,Google Codelabs,Organization,,297
+SlideAndDragListView,yydcdut/SlideAndDragListView,Java,:curly_loop:SlideAndDragListView (SDLV) is an extension of the Android ListView that enables slide and drag-and-drop reordering of list items.,115,57,yydcdut,yydcdut,User,BeiJing China,507
+landmarker,googlecreativelab/landmarker,Java,"Orientation, GPS, and Places enabled Android Experiment",114,30,googlecreativelab,Google Creative Lab,Organization,,340
+log4jdbc,arthurblake/log4jdbc,Java,log4jdbc is a Java JDBC driver that can log SQL and/or JDBC calls (and optionally SQL timing information) for other JDBC drivers using the Simple Logging Facade For Java (SLF4J) logging system.,114,39,arthurblake,Arthur Blake,User,"Atlanta, GA",114
+NonViewUtils,android-quick-dev/NonViewUtils,Java,不涉及视图的工具类，逻辑类的集合,114,74,android-quick-dev,,Organization,,114
+osmbonuspack,MKergall/osmbonuspack,Java,A third-party library of (very) useful additional objects for osmdroid,114,46,MKergall,MKer,User,,114
+Spyglass,linkedin/Spyglass,Java,A library for mentions on Android,114,34,linkedin,LinkedIn,Organization,"Mountain View, CA, USA",2299
+HelloSwift,Ecco/HelloSwift,Java,,114,8,Ecco,Romain Goyet,User,Paris,114
+EWeightScale,Jhuster/EWeightScale,Java,一款可以记录和查询体重的应用,113,24,Jhuster,卢俊,User,Shanghai,336
+jsweet,cincheo/jsweet,Java,A Java to JavaScript transpiler.,113,13,cincheo,Cinchéo,Organization,,113
+react-native-sqlite-storage,andpor/react-native-sqlite-storage,Java,Full featured SQLite3 Native Plugin for React Native (Android and iOS),113,7,andpor,Andrzej Porebski,User,,113
+SparkleMotion,IFTTT/SparkleMotion,Java,A ViewPager animator that animates Views within pages as well as views across pages.,113,11,IFTTT,IFTTT,Organization,San Francisco,5448
+sasi,xedin/sasi,Java,"Improved Secondary Indexing with new Query Capabilities (OR, scoping) for Cassandra",112,4,xedin,Pavel Yaskevich,User,"San Francisco, CA",112
+realm-searchview,thorbenprimke/realm-searchview,Java,,111,19,thorbenprimke,Thorben Pr
