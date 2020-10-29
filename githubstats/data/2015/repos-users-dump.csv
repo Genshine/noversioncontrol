@@ -2701,4 +2701,130 @@ jsweet,cincheo/jsweet,Java,A Java to JavaScript transpiler.,113,13,cincheo,Cinch
 react-native-sqlite-storage,andpor/react-native-sqlite-storage,Java,Full featured SQLite3 Native Plugin for React Native (Android and iOS),113,7,andpor,Andrzej Porebski,User,,113
 SparkleMotion,IFTTT/SparkleMotion,Java,A ViewPager animator that animates Views within pages as well as views across pages.,113,11,IFTTT,IFTTT,Organization,San Francisco,5448
 sasi,xedin/sasi,Java,"Improved Secondary Indexing with new Query Capabilities (OR, scoping) for Cassandra",112,4,xedin,Pavel Yaskevich,User,"San Francisco, CA",112
-realm-searchview,thorbenprimke/realm-searchview,Java,,111,19,thorbenprimke,Thorben Pr
+realm-searchview,thorbenprimke/realm-searchview,Java,,111,19,thorbenprimke,Thorben Primke,User,"San Francisco, CA",295
+xash3d-android-project,SDLash3D/xash3d-android-project,Java,Xash3D Android Project for NDK. ,111,11,SDLash3D,SDLash3D project,Organization,Internet,111
+SearchView,lapism/SearchView,Java,Persistent SearchView Library in Material Design.,111,20,lapism,,User,,111
+XSwipeRefresh,CommonQ/XSwipeRefresh,Java,An extension of android.support.v4.widget.SwipeRefreshLayout that allows to swipe in both direction,110,1,CommonQ,Kaiming Qu,User,Beijing,110
+Watchface-Constructor,Yalantis/Watchface-Constructor,Java,This is simple watchface constructor demo,110,16,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+HMCL,huanghongxun/HMCL,Java,Hello Minecraft! Launcher,110,28,huanghongxun,,User,,110
+ud867,udacity/ud867,Java,Course code repository for Gradle for Android and Java,110,213,udacity,Udacity,Organization,"Mountain View, CA",1670
+permiso,greysonp/permiso,Java,An Android library to make handling runtime permissions a whole lot easier.,110,7,greysonp,Greyson Parrelli,User,"Mountain View, CA",110
+Android-Base-Project,mobiwiseco/Android-Base-Project,Java,An Android Base Project which can be example for every Android project.,110,20,mobiwiseco,mobiwise,Organization,Eskisehir,110
+prefser,pwittchen/prefser,Java,Wrapper for Android SharedPreferences with object serialization and RxJava Observables,110,13,pwittchen,Piotr Wittchen,User,"Gliwice, Poland",603
+ecs-mesos-scheduler-driver,awslabs/ecs-mesos-scheduler-driver,Java,Amazon ECS Scheduler Driver,110,6,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",2991
+newbieTraining,wxygeek/newbieTraining,Java,The Newbie Training For Some Cool Guys,110,64,wxygeek,Xiaoyu WANG,User,"Harbin, China",110
+spring-statemachine,spring-projects/spring-statemachine,Java,Spring Statemachine is a framework for application developers to use state machine concepts with Spring.,110,56,spring-projects,Spring,Organization,,232
+FontDrawable,kazy1991/FontDrawable,Java,Convert Icon-font(e.g. font-awsome) to Drawable or Bitmap for Android.,110,10,kazy1991,,User,,110
+CircleIndicator,THEONE10211024/CircleIndicator,Java,A lightweight viewpager indicator!,110,35,THEONE10211024,xiayong,User,"Beijing,China",695
+ScrollerCalendar,guanchao/ScrollerCalendar,Java,,109,21,guanchao,guanchao,User,,109
+unmock-plugin,bjoernQ/unmock-plugin,Java,Gradle plugin to be used in combination with the new unit testing feature of the Gradle Plugin / Android Studio to use real classes for e.g. SparseArray.,109,10,bjoernQ,Björn Quentin,User,Limburg / Germany,109
+findbugs,findbugsproject/findbugs,Java,The new home of the FindBugs project,109,36,findbugsproject,The FindBugs project,Organization,,109
+Chronos,RedMadRobot/Chronos,Java,Android library that handles asynchronous jobs.,108,9,RedMadRobot,Redmadrobot,Organization,"Moscow, Russia",108
+caesar,vbauer/caesar,Java,Library that allows to create async beans from sync beans,108,7,vbauer,Vladislav Bauer,User,,566
+Android-ScalableImageView,yqritc/Android-ScalableImageView,Java,"ScalableImageView has extra scale types of ImageView. Supported scale types are fitXY, fitStart, fitCenter, fitEnd, leftTop, leftCenter, leftBottom, centerTop, center, centerBottom, rightTop, rightCenter, rightBottom, leftTopCrop, leftCenterCrop, leftBottomCrop, centerTopCrop, centerCrop, centerBottomCrop, rightTopCrop, rightCenterCrop, rightBottomCrop, startInside, centerInside and endInside.",108,18,yqritc,Yoshihito Ikeda,User,"Yokohama, Japan",1385
+NineGridView,panyiho/NineGridView,Java,一个九宫格自定义控件，实现类似微信和微博的九宫格图片显示,108,71,panyiho,Pan_,User,china  guangzhou,108
+CircularProgressBar,lopspower/CircularProgressBar,Java,Create circular progressBar in android,108,18,lopspower,Lopez Mikhael,User,"Paris, France",658
+JSAT,EdwardRaff/JSAT,Java,"Java Statistical Analysis Tool, a Java library for Machine Learning ",107,39,EdwardRaff,,User,"Columbia, MD",107
+PopSeekBar,jiahuanyu/PopSeekBar,Java,Nice and pop seek bar on Android platform,107,27,jiahuanyu,Love ZN,User,ShangHai China,469
+FloatingSearchView,renaudcerrato/FloatingSearchView,Java,"Yet another floating search view implementation, also known as persistent search.",107,5,renaudcerrato,Cerrato Renaud ,User,,837
+commentView,selfimgr/commentView,Java,"A library to show emoji,voice, commentview for Android",107,31,selfimgr,selfimgr,User,guangzhou,107
+base-adapter,hongyangAndroid/base-adapter,Java,"Android 万能的Adapter for ListView,GridView等，支持多种Item类型的情况。",107,53,hongyangAndroid,张鸿洋,User,"Xian,China",8055
+OverlayMenu,sephiroth74/OverlayMenu,Java,Android Overlay Menu,107,16,sephiroth74,Alessandro Crugnola,User,"New York, NY",107
+Advanced_Android_Development,udacity/Advanced_Android_Development,Java,Repo for the Advanced Android App Development course,107,196,udacity,Udacity,Organization,"Mountain View, CA",1670
+recyclerview-binder,satorufujiwara/recyclerview-binder,Java,Android library for RecyclerView to manage order of items and multiple view types.,106,12,satorufujiwara,Satoru Fujiwara,User,"Shibuya, Tokyo, Japan",571
+incubator-tinkerpop,apache/incubator-tinkerpop,Java,Mirror of Apache TinkerPop (Incubating),106,73,apache,The Apache Software Foundation,Organization,,3728
+StaticLayoutView,ragnraok/StaticLayoutView,Java,a pre-render TextView demo,105,17,ragnraok,RagnarokStack,User,"ZhongShan, China",105
+Android-welcome-screen,trbala0205/Android-welcome-screen,Java,"Activity transition Activities , Fragment and View Pager translation",105,9,trbala0205,Bala R,User,Bangalore,105
+PhotoDraweeView,ongakuer/PhotoDraweeView,Java,PhotoView For Fresco,105,35,ongakuer,relex,User,"Beijing , China",105
+MutiPhotoChoser,xiaolifan/MutiPhotoChoser,Java,可以多选的图片选择器,105,14,xiaolifan,,User,,105
+tilt-game-android,MediaMonks/tilt-game-android,Java,,105,31,MediaMonks,MediaMonks,Organization,International,105
+OkWear,AAkira/OkWear,Java,Easily connection between Android wear and Handheld (Mobile device),104,14,AAkira,Akira Aratani,User,"Tokyo, Japan",574
+MaterialDialogBottomSheet,TakeoffAndroid/MaterialDialogBottomSheet,Java,MaterialDialogBottomSheet is a custom dialog implementation to use BottomSheet MaterialView feature in pre Lollipop and latest versions of android.,104,29,TakeoffAndroid,,User,,810
+realm-rxjava-example,kboyarshinov/realm-rxjava-example,Java,[DEPRECATED] Example of using Realm with RxJava on Android,104,14,kboyarshinov,Kirill Boyarshinov,User,Singapore,104
+JNote,Jhuster/JNote,Java,一款支持部分Markdown语法的轻量级便签软件。,104,11,Jhuster,卢俊,User,Shanghai,336
+chaos-http-proxy,bouncestorage/chaos-http-proxy,Java,Introduce failures into HTTP requests via a proxy server,103,3,bouncestorage,Bounce Storage,Organization,San Francisco,103
+boilerplate,koush/boilerplate,Java,,103,13,koush,Koushik Dutta,User,"Seattle, WA",103
+WS-Attacker,RUB-NDS/WS-Attacker,Java,"WS-Attacker is a modular framework for web services penetration testing. It is developed by the Chair of Network and Data Security, Ruhr University Bochum (http://nds.rub.de/ ) and the 3curity GmbH (http://3curity.de/ ).",103,22,RUB-NDS,Ruhr University Bochum - Chair for Network and Data Security,Organization,Ruhr University Bochum,103
+VitaminSaber,w2ji/VitaminSaber,Java,,103,7,w2ji,,User,,103
+encore,fastbootmobile/encore,Java,,102,24,fastbootmobile,Fastboot Mobile,Organization,United States,102
+intentbuilder,robertoestivill/intentbuilder,Java,Android Intent wrapper with fluid API and argument validations.,102,11,robertoestivill,Robert,User,Argentina,102
+AhoCorasickDoubleArrayTrie,hankcs/AhoCorasickDoubleArrayTrie,Java,An extremely fast implemention of Aho Corasick algorithm based on Double Array Trie.,102,54,hankcs,,User,,102
+jaxrs-analyzer,sdaschner/jaxrs-analyzer,Java,Creates REST documentation for JAX-RS projects,102,13,sdaschner,Sebastian Daschner,User,Munich,102
+ngAndroid,davityle/ngAndroid,Java,ngAndroid is bringing angularjs type directives to android xml attributes,102,6,davityle,Tyler Davis,User,,102
+Salut,markrjr/Salut,Java,A nice library for working with WiFi direct on Android.,102,16,markrjr,Mark Raymond Jr.,User,,102
+ExceptionWear,tajchert/ExceptionWear,Java,A library for Android Wear projects to handle exceptions properly.,101,10,tajchert,Michal Tajchert,User,Warsaw,1236
+DateRangePicker,yesidlazaro/DateRangePicker,Java,A Dialogo fragment with date picker for select a range.,101,16,yesidlazaro,Yesid,User,"Bogotá, Colombia",452
+Pr0,mopsalarm/Pr0,Java,pr0gramm app,101,22,mopsalarm,,User,,101
+spark-solr,LucidWorks/spark-solr,Java,Tools for reading data from Solr as a Spark RDD and indexing objects from Spark into Solr using SolrJ.,101,59,LucidWorks,Lucidworks,Organization,"San Francisco, CA",101
+tungsten-replicator,vmware/tungsten-replicator,Java,Tungsten Replicator,101,38,vmware,VMware ,Organization,"Palo Alto,CA",959
+AppCrash,jcmore2/AppCrash,Java,AppCrash let you relaunch the app and manage crash message when your app has an exception.,100,12,jcmore2,Juan Carlos Moreno,User,Madrid,397
+react-native-cordova-plugin,axemclion/react-native-cordova-plugin,Java,Cordova Plugin Adapter for React Native,100,4,axemclion,Parashuram N,User,,100
+thefuck,nvbn/thefuck,Python,Magnificent app which corrects your previous console command.,16449,768,nvbn,Vladimir Iakovlev,User,"Russia, Saint-Petersburg",16449
+big-list-of-naughty-strings,minimaxir/big-list-of-naughty-strings,Python,The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.,9387,381,minimaxir,Max Woolf,User,San Francisco Bay Area,9890
+XX-Net,XX-net/XX-Net,Python,接力GoAgent翻墙工具----Anti-censor tools,4137,1535,XX-net,XX-Net,Organization,,4137
+data-science-ipython-notebooks,donnemartin/data-science-ipython-notebooks,Python,"Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  https://bit.ly/data-notes",3945,623,donnemartin,Donne Martin,User,"Washington, D.C.",11869
+keras,fchollet/keras,Python,"Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.",3731,864,fchollet,François Chollet,User,San Francisco,3731
+zulip,zulip/zulip,Python,Zulip server - powerful open source group chat,3526,441,zulip,Zulip,Organization,,4404
+mkcast,KeyboardFire/mkcast,Python,"[OBSOLETE - see readme] A tool for creating GIF screencasts of a terminal, with key presses overlaid.",3341,62,KeyboardFire,KeyboardFire,User,,3341
+OS-X-Security-and-Privacy-Guide,drduh/OS-X-Security-and-Privacy-Guide,Python,,3329,189,drduh,,User,,4408
+monoid,larsenwork/monoid,Python,"Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/",3019,66,larsenwork,Andreas Larsen,User,"Copenhagen, Denmark",3019
+yapf,google/yapf,Python,A formatter for Python files,2926,181,google,Google,Organization,,70104
+mimic,reinderien/mimic,Python,[ab]using Unicode to create tragedy,2830,88,reinderien,Greg Toombs,User,Canada,2830
+codeface,chrissimpkins/codeface,Python,Typefaces for source code beautification,2808,191,chrissimpkins,Chris Simpkins,User,,10012
+Legofy,JuanPotato/Legofy,Python,Make images look as if they are made out of 1x1 LEGO blocks,2667,161,JuanPotato,Juan Potato,User,,2667
+PathPicker,facebook/PathPicker,Python,"PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.
+
+After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.",2660,141,facebook,Facebook,Organization,"Menlo Park, California",61260
+rockstar,avinassh/rockstar,Python,Makes you a Rockstar C++ Programmer in 2 minutes,2623,189,avinassh,,User,,2862
+saws,donnemartin/saws,Python,A supercharged AWS command line interface (CLI).  http://bit.ly/git-saws,2591,88,donnemartin,Donne Martin,User,"Washington, D.C.",11869
+mycli,dbcli/mycli,Python,A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.,2355,112,dbcli,dbcli,Organization,United States,2355
+DisableWinTracking,10se1ucgo/DisableWinTracking,Python,Uses some known methods that attempt to disable tracking in Windows 10,2315,151,10se1ucgo,,User,,2315
+data-science-blogs,rushter/data-science-blogs,Python,A curated list of data science blogs,2214,222,rushter,Artem,User,Russia,2214
+interactive-coding-challenges,donnemartin/interactive-coding-challenges,Python,"Continually updated interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions.  https://bit.ly/git-code",2121,256,donnemartin,Donne Martin,User,"Washington, D.C.",11869
+joe,karan/joe,Python,:running: A .gitignore magician in your command line,2118,91,karan,Karan Goel,User,Seattle,2904
+roboto,google/roboto,Python,The Roboto family of fonts,2110,182,google,Google,Organization,,70104
+Data-Analysis-and-Machine-Learning-Projects,rhiever/Data-Analysis-and-Machine-Learning-Projects,Python,"Repository of teaching materials, code, and data for my data analysis and machine learning projects.",1979,305,rhiever,Randy Olson,User,"Philadelphia, PA",2537
+microservices-infrastructure,CiscoCloud/microservices-infrastructure,Python,Mantl is a modern platform for rapidly deploying globally distributed services,1826,214,CiscoCloud,,Organization,,2134
+tqdm,tqdm/tqdm,Python,"A fast, extensible progress bar for Python",1758,50,tqdm,tqdm developers,Organization,,1758
+acme-tiny,diafygi/acme-tiny,Python,A tiny script to issue and renew TLS certs from Let's Encrypt,1739,105,diafygi,Daniel Roesler,User,"Oakland, CA",5657
+awesome-aws,donnemartin/awesome-aws,Python,"A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  https://bit.ly/git-AWSome",1631,96,donnemartin,Donne Martin,User,"Washington, D.C.",11869
+dev-setup,donnemartin/dev-setup,Python,"Mac OS X development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.  https://bit.ly/git-dotfiles",1581,197,donnemartin,Donne Martin,User,"Washington, D.C.",11869
+pyvim,jonathanslenders/pyvim,Python,Pure Python Vim clone.,1575,83,jonathanslenders,Jonathan Slenders,User,Belgium,1575
+aws-shell,awslabs/aws-shell,Python,An integrated shell for working with the AWS CLI.,1525,43,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",2991
+LaZagne,AlessandroZ/LaZagne,Python,Credentials recovery project,1495,275,AlessandroZ,,User,,1495
+DeepDreamVideo,graphific/DeepDreamVideo,Python,implementing deep dream on video,1455,181,graphific,Roelof Pieters,User,"Stockholm, Sweden",1455
+skflow,google/skflow,Python,Simplified interface for TensorFlow (mimicking Scikit Learn),1387,135,google,Google,Organization,,70104
+gradify,fraser-hemp/gradify,Python,CSS gradient placeholders,1380,72,fraser-hemp,,User,,1380
+TensorFlow-Tutorials,nlintz/TensorFlow-Tutorials,Python,Simple tutorials using Google's TensorFlow Framework,1354,184,nlintz,Nathan Lintz,User,,1354
+PyTricks,brennerm/PyTricks,Python,Collection of less popular features and tricks for the Python programming language,1328,196,brennerm,Max Brenner,User,"Leipzig, Germany",1328
+LayoutCast,mmin18/LayoutCast,Python,Cast android code and resource changes to the running application through ADB.,1321,139,mmin18,Tu Yimin,User,Shanghai,1321
+usbkill,hephaest0s/usbkill,Python,« usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.,1273,277,hephaest0s,Hephaestos,User,,1273
+GitSavvy,divmain/GitSavvy,Python,Full git and GitHub integration with Sublime Text 3.,1266,67,divmain,Dale Bustad,User,"Seattle, WA",1266
+snake,amoffat/snake,Python,Full Python Scripting in Vim,1226,44,amoffat,Andrew Moffat,User,"Chicago, IL",1341
+ZeroNet,HelloZeroNet/ZeroNet,Python,ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network,1221,121,HelloZeroNet,ZeroNet,User,"Budapest, Hungary",1221
+zerodb,zero-db/zerodb,Python,ZeroDB is an end-to-end encrypted database. Data can be stored on untrusted database servers without ever exposing the encryption key. Clients can execute remote queries against the encrypted data without downloading all of it or suffering an excessive performance hit.,1211,63,zero-db,ZeroDB,Organization,San Francisco Bay Area,1322
+fuck12306,andelf/fuck12306,Python,12306 图片验证码识别测试,1209,424,andelf,ShuYu Wang,User,"Beijing, China",1209
+lektor,lektor/lektor,Python,The lektor static file content management system,1146,49,lektor,Lektor CMS,Organization,Austria,1146
+neural-storyteller,ryankiros/neural-storyteller,Python,A recurrent neural network for generating little stories about images,1141,119,ryankiros,Ryan Kiros,User,,1643
+reverse-geocoder,thampiman/reverse-geocoder,Python,"A fast, offline reverse geocoder in Python",1119,47,thampiman,Ajay Thampi,User,London,1119
+chainer,pfnet/chainer,Python,A flexible framework of neural networks for deep learning,1043,181,pfnet,"Preferred Networks, Inc.",Organization,,1043
+pyxley,stitchfix/pyxley,Python,Python helpers for building dashboards using Flask and React,1028,84,stitchfix,Stitch Fix Technology,Organization,Everywhere,1154
+pupy,n1nj4sec/pupy,Python,"Pupy is an opensource, multi-platform Remote Administration Tool with an embedded Python interpreter. Pupy can load python packages from memory and transparently access remote python objects. Pupy can communicate using different transports and have a bunch of cool features & modules. On Windows, Pupy is a reflective DLL and leaves no traces on disk.",1014,195,n1nj4sec,,User,France,1446
+cachebrowser,CacheBrowser/cachebrowser,Python,A proxy-less censorship resistance tool,1013,187,CacheBrowser,,Organization,,1013
+kinto,Kinto/kinto,Python,A lightweight JSON storage service with synchronisation and sharing abilities.,997,59,Kinto,Kinto,Organization,,997
+intermediatePython,yasoob/intermediatePython,Python,,991,158,yasoob,M.Yasoob Ullah Khalid ☺,User,Pakistan,991
+reverse,joelpx/reverse,Python,Reverse engineering tool for x86/ARM/MIPS. Generates indented pseudo-C with colored syntax code.,602,95,joelpx,,User,,602
+Tomorrow,madisonmay/Tomorrow,Python,Magic decorator syntax for asynchronous code in Python,948,47,madisonmay,Madison May,User,"Needham, Massachusetts",948
+ytfs,rasguanabana/ytfs,Python,YouTube File System,943,38,rasguanabana,Adrian Włosiak,User,,943
+enjarify,google/enjarify,Python,,931,193,google,Google,Organization,,70104
+hug,timothycrosley/hug,Python,"Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.",884,29,timothycrosley,Timothy Edmund Crosley,User,Seattle,1011
+vim-hackernews,ryanss/vim-hackernews,Python,Browse Hacker News inside Vim,880,35,ryanss,,User,"Waterloo, Canada",880
+ispy,dellis23/ispy,Python,Monitor the output of terminals and processes.,872,29,dellis23,Dan,User,,1024
+git-remote-dropbox,anishathalye/git-remote-dropbox,Python,A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! :gift:,869,26,anishathalye,Anish Athalye,User,"Cambridge, MA",1132
+tushare,waditu/tushare,Python,TuShare is a utility for crawling historical data of China stocks,865,469,waditu,挖地兔,Organization,BEIJING,865
+DeDRM_tools,apprenticeharper/DeDRM_tools,Python,DeDRM tools for ebooks,836,70,apprenticeharper,Apprentice Harper,User,,836
+DIGITS,NVIDIA/DIGITS,Python,Deep Learning GPU Training System,841,244,NVIDIA,NVIDIA Corporation,Organization,"2701 San Tomas Expressway, Santa Clara, California, 95050",1060
+StarterLearningPython,qiwsir/StarterLearningPython,Python,Learning Python: from Beginner to Master. http://www.itdiffer.com,825,390,qiwsir,老齐,User,Suzhou China,825
+jungle,achiku/jungle,Python,AWS operations by cli should be simpler,813,27,achiku,Akira Chiku,User,"Tokyo, Japan",813
+scudcloud,raelgc/scudcloud,Python,ScudCloud - Linux client for Slack.com,812,61,raelgc,Rael Gugelmin Cunha,User,,812
+slouchy,pyskell/slouchy,Python,Slouchy uses your webcam to check if you're slouching and alert you if you are. This project is still in 
