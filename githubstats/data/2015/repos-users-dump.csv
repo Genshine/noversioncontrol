@@ -2827,4 +2827,146 @@ DIGITS,NVIDIA/DIGITS,Python,Deep Learning GPU Training System,841,244,NVIDIA,NVI
 StarterLearningPython,qiwsir/StarterLearningPython,Python,Learning Python: from Beginner to Master. http://www.itdiffer.com,825,390,qiwsir,老齐,User,Suzhou China,825
 jungle,achiku/jungle,Python,AWS operations by cli should be simpler,813,27,achiku,Akira Chiku,User,"Tokyo, Japan",813
 scudcloud,raelgc/scudcloud,Python,ScudCloud - Linux client for Slack.com,812,61,raelgc,Rael Gugelmin Cunha,User,,812
-slouchy,pyskell/slouchy,Python,Slouchy uses your webcam to check if you're slouching and alert you if you are. This project is still in 
+slouchy,pyskell/slouchy,Python,Slouchy uses your webcam to check if you're slouching and alert you if you are. This project is still in active development and not feature complete.,812,56,pyskell,Anthony Lusardi,User,"Brooklyn, New York",812
+greenhat,4148/greenhat,Python,:construction_worker: Quick hack for making real work happen.,800,99,4148,Angus H.,User,"Berkeley, CA",800
+curio,dabeaz/curio,Python,,788,42,dabeaz,David Beazley,User,Chicago,788
+confidant,lyft/confidant,Python,Confidant: your secret keeper.,787,26,lyft,Lyft,Organization,"San Francisco, CA",3054
+dcgan_code,Newmu/dcgan_code,Python,Deep Convolutional Generative Adversarial Networks,751,73,Newmu,Alec Radford,User,"Boston, MA",751
+krill,p-e-w/krill,Python,:newspaper: The hacker's way of keeping up with the world.,752,33,p-e-w,Philipp Emanuel Weidmann,User,Anywhere the Internet is,752
+eg,srsudar/eg,Python,Useful examples at the command line.,745,34,srsudar,Sam Sudar,User,"Seattle, WA",745
+photon,vmware/photon,Python,Minimal Linux container host,742,187,vmware,VMware ,Organization,"Palo Alto,CA",959
+spyder,spyder-ide/spyder,Python,Official repository for Spyder - The Scientific PYthon Development EnviRonment,731,205,spyder-ide,Spyder IDE,Organization,,731
+python3-in-one-pic,coodict/python3-in-one-pic,Python,Learn python3 in one picture.,686,174,coodict,Coodict,Organization,,5264
+slack-overflow,karan/slack-overflow,Python,"A programmer's best friend, now in Slack.",678,37,karan,Karan Goel,User,Seattle,2904
+scikit-neuralnetwork,aigamedev/scikit-neuralnetwork,Python,Deep neural networks without the learning cliff! Classifiers and regressors compatible with scikit-learn.,675,64,aigamedev,AiGameDev.com,Organization,"Vienna, Austria.",675
+biaxial-rnn-music-composition,hexahedria/biaxial-rnn-music-composition,Python,A recurrent neural network designed to generate classical music.,664,95,hexahedria,Daniel Johnson,User,,664
+search-script-scrape,compjour/search-script-scrape,Python,101 real world web scraping exercises in Python 3 for data journalists,663,91,compjour,,Organization,,663
+letsencrypt-nosudo,diafygi/letsencrypt-nosudo,Python,Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root,658,49,diafygi,Daniel Roesler,User,"Oakland, CA",5657
+PeachPy,Maratyszcza/PeachPy,Python,x86-64 assembler embedded in Python,655,23,Maratyszcza,Marat Dukhan,User,"Atlanta, GA",655
+simp_le,kuba/simp_le,Python,Simple Let's Encrypt Client,644,25,kuba,Jakub Warmuz,User,,644
+paasta,Yelp/paasta,Python,"An open, distributed platform as a service",643,37,Yelp,Yelp.com,Organization,San Francisco,884
+latex-to-html5,smarr/latex-to-html5,Python,Scripts for Latex to HTML5 conversion,641,29,smarr,Stefan Marr,User,"Linz, Austria",641
+dnsteal,m57/dnsteal,Python,DNS Exfiltration tool for stealthily sending files over DNS requests.,638,89,m57,Mitch \x90,User,somewhere in space,764
+xonsh,scopatz/xonsh,Python,"xonsh is a Python-ish, BASHwards-facing shell.",629,81,scopatz,Anthony Scopatz,User,"Columbia, SC",629
+gping,orf/gping,Python,"Ping, but with a graph",618,33,orf,,User,,834
+rtv,michael-lazar/rtv,Python,Browse Reddit from your terminal,605,53,michael-lazar,Michael Lazar,User,"San Diego, CA",605
+audiogrep,antiboredom/audiogrep,Python,Creates audio supercuts.,605,27,antiboredom,Sam Lavigne,User,brooklyn,605
+MagicPython,MagicStack/MagicPython,Python,"Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code.",605,12,MagicStack,magicstack,Organization,,605
+ohmu,paul-nechifor/ohmu,Python,View space usage in your terminal.,603,16,paul-nechifor,Paul Nechifor,User,"London, UK",603
+fast-rcnn,rbgirshick/fast-rcnn,Python,Fast R-CNN,581,356,rbgirshick,Ross Girshick,User,,731
+pipreqs,bndr/pipreqs,Python,pipreqs - Generate pip requirements.txt file based on imports of any project,577,32,bndr,Vadim Kravcenko,User,"Darmstadt, Deutschland",577
+ibis,cloudera/ibis,Python,"Big data the Pythonic way. Productivity-centric Python data analysis framework for Analytic SQL and Hadoop, with high performance extensions for Impala. Co-founded by the creator of pandas",559,65,cloudera,Cloudera,Organization,"California, USA",910
+programming-talks,hellerve/programming-talks,Python,Awesome & Interesting Talks concerning Programming,565,59,hellerve,Veit Heller,User,Berlin,565
+whatsappcli,KarimJedda/whatsappcli,Python,Control your server from Whatsapp,554,59,KarimJedda,Karim,User,Munich,554
+commix,stasinopoulos/commix,Python,Automated All-in-One OS Command Injection and Exploitation Tool,542,111,stasinopoulos,Anastasios Stasinopoulos,User,"Athens, Greece",542
+gcat,byt3bl33d3r/gcat,Python,A fully featured backdoor that uses Gmail as a C&C server,535,169,byt3bl33d3r,byt3bl33d3r,User,The middle of your LAN,535
+onelinerizer,csvoss/onelinerizer,Python,Convert any Python file into a single line of code.,532,39,csvoss,Chelsea Voss,User,Massachusetts Institute of Technology,532
+Wooey,wooey/Wooey,Python,A Django app which creates automatic web UIs for Python scripts.,530,31,wooey,Wooey,Organization,,530
+mysql_utils,pinterest/mysql_utils,Python,Pinterest MySQL Management Tools,530,50,pinterest,Pinterest,Organization,"San Francisco, California",3903
+see,F-Secure/see,Python,Sandboxed Execution Environment,524,52,F-Secure,F-Secure Corporation,Organization,Finland,524
+HTTPLang,Max00355/HTTPLang,Python,A scripting langauge to do HTTP routines. ,516,27,Max00355,Frankie Primerano,User,,681
+braindump,levlaz/braindump,Python,"BrainDump is a simple, powerful, and open note taking platform that makes it easy to organize your life.",508,53,levlaz,Lev Lazinskiy,User,United States,508
+sphinx,sphinx-doc/sphinx,Python,Main repository for the Sphinx documentation builder,501,263,sphinx-doc,,Organization,,501
+skip-thoughts,ryankiros/skip-thoughts,Python,Sent2Vec encoder and training code from the paper 'Skip-Thought Vectors',502,120,ryankiros,Ryan Kiros,User,,1643
+cointrol,jkbrzt/cointrol,Python,Bitcoin trading bot with a real-time dashboard for Bitstamp.,491,45,jkbrzt,Jakub Roztočil,User,,491
+infernal-twin,entropy1337/infernal-twin,Python,wireless hacking - This is automated wireless hacking tool,488,96,entropy1337,KHalilov M,User,,488
+django-hackathon-starter,DrkSephy/django-hackathon-starter,Python,A boilerplate for Django web applications,478,61,DrkSephy,David Leonard,User,New York City,478
+net-creds,DanMcInerney/net-creds,Python,Sniffs sensitive data from interface or pcap,476,98,DanMcInerney,Dan McInerney,User,,476
+awesome-honeypots,paralax/awesome-honeypots,Python,an awesome list of honeypot resources,475,110,paralax,jose nazario,User,"ann arbor, mi",475
+lightfm,lyst/lightfm,Python,"A Python implementation of LightFM, a hybrid recommendation algorithm.",474,35,lyst,Lyst Engineering,Organization,"London, UK",474
+deep-visualization-toolbox,yosinski/deep-visualization-toolbox,Python,,472,104,yosinski,Jason Yosinski,User,"Ithaca, NY",472
+neural_artistic_style,andersbll/neural_artistic_style,Python,Neural Artistic Style in Python,471,67,andersbll,Anders Boesen Lindbo Larsen,User,"Montréal, Quebec, Canada",471
+microservices,umermansoor/microservices,Python,Example of Microservices written using Flask.,471,37,umermansoor,Umer Mansoor,User,Calgary,471
+dask,blaze/dask,Python,Task scheduling and blocked algorithms for parallel processing,468,81,blaze,Blaze,Organization,,576
+pytest,pytest-dev/pytest,Python,"The pytest testing tool makes it easy to write small tests, yet scales to support complex functional testing",457,114,pytest-dev,pytest-dev,Organization,,457
+x_x,kristianperkins/x_x,Python,excel file viewer cli,459,11,kristianperkins,Kristian Perkins,User,"Brisbane, Australia",459
+tpot,rhiever/tpot,Python,A Python tool that automatically creates and optimizes Machine Learning pipelines using genetic programming.,455,41,rhiever,Randy Olson,User,"Philadelphia, PA",2537
+cgt,joschu/cgt,Python,Computation Graph Toolkit,452,56,joschu,John Schulman,User,"Berkeley, CA",452
+Mobile-Security-Framework-MobSF,ajinabraham/Mobile-Security-Framework-MobSF,Python,"Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static and dynamic analysis.",448,182,ajinabraham,Ajin Abraham,User,"Bangalore, India",448
+python-goto,snoack/python-goto,Python,"A function decorator, that rewrites the bytecode, to enable goto in Python",440,20,snoack,Sebastian Noack,User,"Düsseldorf, Germany",440
+AstroBuild,lhartikk/AstroBuild,Python,Deploy based on the planet alignments,432,18,lhartikk,Lauri Hartikka,User,"Helsinki, Finland",432
+freight,getsentry/freight,Python,Freight is a service which aims to make application deployments better.,432,22,getsentry,Sentry,Organization,,682
+channels,andrewgodwin/channels,Python,Developer-friendly asynchrony for Django,420,33,andrewgodwin,Andrew Godwin,User,UK,420
+itermocil,TomAnthony/itermocil,Python,Create pre-defined window/pane layouts and run commands in iTerm,421,25,TomAnthony,Tom Anthony,User,London,421
+borg,borgbackup/borg,Python,Deduplicating backup program with compression and authenticated encryption.,420,44,borgbackup,Borg Backup,Organization,#borgbackup@freenode,420
+Passage,IndicoDataSolutions/Passage,Python,A little library for text analysis with RNNs.,419,97,IndicoDataSolutions,indico,Organization,"Boston, MA",419
+rc-data,deepmind/rc-data,Python,Question answering dataset featured in 'Teaching Machines to Read and Comprehend,413,50,deepmind,,Organization,,413
+ptf,trustedsec/ptf,Python,The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.,416,143,trustedsec,trustedsec,User,"Cleveland, Ohio",416
+ssbc,78/ssbc,Python,手撕包菜网站,413,356,78,Xiaoxia,User,Earth,413
+acd_cli,yadayada/acd_cli,Python,A command line interface and FUSE filesystem for Amazon Cloud Drive,410,56,yadayada,,User,,410
+dnstwist,elceef/dnstwist,Python,"Domain name permutation engine for detecting typo squatting, phishing and corporate espionage",403,68,elceef,Marcin Ulikowski,User,Poland,403
+hask,billpmurphy/hask,Python,Haskell language features and standard libraries in pure Python.,402,9,billpmurphy,,User,New York,402
+Pylsy,Leviathan1995/Pylsy,Python,Pylsy is a simple python library draw tables in the Terminal.Just two lines of code .,389,26,Leviathan1995,Leviathan,User,China,389
+slackbot-workout,brandonshin/slackbot-workout,Python,A fun hack that gets Slackbot to force your teammates to work out!,388,85,brandonshin,Brandon Shin,User,"Playa Vista, CA",388
+pyparallel,pyparallel/pyparallel,Python,Experimental multicore fork of Python 3,388,23,pyparallel,,Organization,,388
+twitter-sort,ExPHAT/twitter-sort,Python,Sort numbers using the Twitter API,386,28,ExPHAT,Aaron Taylor,User,Canada,386
+lemur,Netflix/lemur,Python,Repository for the Lemur Certificate Manager,377,36,Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",8686
+spotify-ripper,jrnewell/spotify-ripper,Python,Command-line ripper for Spotify,370,52,jrnewell,James Newell,User,United States,370
+angr,angr/angr,Python,The next-generation binary analysis platform from UC Santa Barbara's Seclab!,372,48,angr,,Organization,"Santa Barbara, CA, USA",372
+qfc,pindexis/qfc,Python,Quick Command-line File Completion,374,11,pindexis,amine hajyoussef,User,Tunisia,618
+prettytensor,google/prettytensor,Python,Pretty Tensor: Fluent Networks in TensorFlow,368,23,google,Google,Organization,,70104
+torrent-web-tools,bittorrent/torrent-web-tools,Python,,374,47,bittorrent,BitTorrent Inc.,Organization,"San Francisco, CA",374
+impacket,CoreSecurity/impacket,Python,Impacket is a collection of Python classes for working with network protocols.,356,100,CoreSecurity,Core Security - Open Source,Organization,,356
+python-telegram-bot,python-telegram-bot/python-telegram-bot,Python,A Python wrapper around the Telegram Bot API.,352,99,python-telegram-bot,,Organization,,352
+API-Hour,Eyepea/API-Hour,Python,"Write efficient network daemons (HTTP, SSH...) with ease.",352,9,Eyepea,Eyepea - Open Source VoIP,Organization,"Brussels, Belgium",352
+magic-wormhole,warner/magic-wormhole,Python,"get things from one computer to another, safely",353,19,warner,Brian Warner,User,"San Francisco, CA",353
+faceswap,matthewearl/faceswap,Python,Python script to put facial features from one face onto another,352,96,matthewearl,Matthew Earl,User,,352
+serpy,clarkduvall/serpy,Python,ridiculously fast object serialization,349,10,clarkduvall,Clark DuVall,User,,349
+ufora,ufora/ufora,Python,"Compiled, automatically parallel Python for data science",347,15,ufora,"Ufora, Inc",Organization,,347
+laikaboss,lmco/laikaboss,Python,Laika BOSS: Object Scanning System,344,83,lmco,Lockheed Martin,Organization,,344
+smart_open,piskvorky/smart_open,Python,"Utils for streaming large files (S3, HDFS, gzip, bz2...)",344,47,piskvorky,Radim Řehůřek,User,Nakhon Si Thammarat,344
+credstash,fugue/credstash,Python,A little utility for managing credentials in the cloud,341,32,fugue,Fugue,Organization,,341
+clf,ncrocfer/clf,Python,Command line tool to search and view snippets in the terminal,339,8,ncrocfer,Nicolas Crocfer,User,"France, Lille",339
+wharfee,j-bennet/wharfee,Python,A CLI with autocompletion and syntax highlighting for Docker commands.,334,19,j-bennet,Irina Truong,User,"Portland, OR",334
+ssh2,soheil/ssh2,Python,SSH for EC2,327,15,soheil,Soheil,User,"San Francisco, CA",327
+twittor,PaulSec/twittor,Python,A fully featured backdoor that uses Twitter as a C&C server ,328,78,PaulSec,Paul,User,"London, UK",328
+governor,compose/governor,Python,Runners to orchestrate a high-availability PostgreSQL,328,49,compose,Compose,Organization,,328
+FeelUOwn,cosven/FeelUOwn,Python,发现音乐,326,102,cosven,cosven,User,,326
+redislite,yahoo/redislite,Python,Redis in a python module,326,25,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",10798
+libextract,datalib/libextract,Python,Extract data from websites using basic statistical magic,326,24,datalib,,Organization,,326
+binaryninja-python,Vector35/binaryninja-python,Python,Binary Ninja prototype written in Python,325,39,Vector35,VECTOR 35,Organization,Florida,325
+pdfx,metachris/pdfx,Python,"Extract all links from a PDF, and optionally download all referenced PDFs",324,23,metachris,Chris Hager,User,"Vienna, Austria",324
+sklearn_pycon2015,jakevdp/sklearn_pycon2015,Python,Materials for my Pycon 2015 scikit-learn tutorial.,320,207,jakevdp,Jake Vanderplas,User,Seattle WA,320
+palladium,ottogroup/palladium,Python,Framework for setting up predictive analytics services,321,20,ottogroup,Otto Group,Organization,Hamburg,321
+starless,rantonels/starless,Python,Starless is a CPU black hole raytracer in numpy suitable for both informative diagrams and decent wallpaper material.,320,26,rantonels,Riccardo Antonelli,User,Padua,320
+CredCrack,gojhonny/CredCrack,Python,A fast and stealthy credential harvester,319,48,gojhonny,Jonathan Broche,User,Earth,319
+gxgk-wechat-server,paicha/gxgk-wechat-server,Python,莞香广科微信公众号后端，使用 Python、Flask、Redis、MySQL、Celery,316,80,paicha,Gary,User,"Guangzhou, China",316
+Nscan,OffensivePython/Nscan,Python,Nscan: Fast internet-wide scanner,316,80,OffensivePython,,User,,316
+wydomain,ring04h/wydomain,Python,目标系统信息收集组件,315,234,ring04h,,User,,442
+postgresql-metrics,spotify/postgresql-metrics,Python,Tool that extracts and provides metrics on your PostgreSQL database,311,7,spotify,Spotify,Organization,,1430
+intro2stats,rouseguy/intro2stats,Python,Introduction to Statistics using Python,310,62,rouseguy,,User,,310
+memorpy,n1nj4sec/memorpy,Python,Python library using ctypes to search/edit windows programs memory,308,25,n1nj4sec,,User,France,1446
+Source-Code-from-Tutorials,buckyroberts/Source-Code-from-Tutorials,Python,Here is the source code from all of my tutorials.,306,437,buckyroberts,Bucky Roberts,User,"Adams, NY",306
+SubredditSimulator,Deimos/SubredditSimulator,Python,An automated subreddit with posts created using markov chains,305,32,Deimos,Chad Birch,User,,305
+readAI,ayoungprogrammer/readAI,Python,A simple AI capable of basic reading comprehension,305,44,ayoungprogrammer,Michael Young,User,,305
+soccer-cli,architv/soccer-cli,Python,:soccer: Football scores for hackers. :computer: A command line interface for all the football scores.,304,36,architv,Archit Verma,User,"New Delhi, India",765
+zhihu-spider,MorganZhang100/zhihu-spider,Python,A web spider for zhihu.com,302,177,MorganZhang100,Morgan Zhang,User,San Francisco,302
+stackit,lukasschwab/stackit,Python,Smart StackOverflow queries from the command line:,301,24,lukasschwab,Lukas Schwab,User,"Portland, Oregon",301
+continuous-docs,icgood/continuous-docs,Python,Tutorial and example package for continuous documentation generation in Python.,299,13,icgood,Ian Good,User,"Blacksburg, VA",299
+DeepDreamAnim,samim23/DeepDreamAnim,Python,DeepDream Animation Helper,297,36,samim23,samim,User,mars,399
+SnapchatBot,agermanidis/SnapchatBot,Python,[currently not working after API updates] Python library for building bots that live on Snapchat,299,56,agermanidis,Anastasis Germanidis,User,,781
+diaphora,joxeankoret/diaphora,Python,"Diaphora, a program diffing plugin for, at the moment, IDA Pro",299,40,joxeankoret,Joxean,User,Basque Country,299
+cnn-vis,jcjohnson/cnn-vis,Python,Use CNNs to generate images,298,44,jcjohnson,Justin,User,,3859
+differential-line,inconvergent/differential-line,Python,a generative algorithm,297,9,inconvergent,Anders Hoff,User,"Oslo, Norway",297
+CapTipper,omriher/CapTipper,Python,Malicious HTTP traffic explorer,293,60,omriher,Omri Herscovici,User,Israel,293
+powerstrip,ClusterHQ/powerstrip,Python,Powerstrip: A tool for prototyping Docker extensions,293,26,ClusterHQ,ClusterHQ,Organization,Worldwide,293
+ceryx,sourcelair/ceryx,Python,Dynamic reverse proxy based on NGINX OpenResty with an API,292,32,sourcelair,SourceLair,Organization,"Athens, Greece",292
+vocabulary,prodicus/vocabulary,Python,"Python Module to get Meanings, Synonyms and what not for a given word",290,22,prodicus,Tasdik Rahman,User,India,290
+safe-commit-hook,jandre/safe-commit-hook,Python,pre-commit hook for Git that checks for suspicious files.,288,15,jandre,Jen Andre,User,"Boston, MA",288
+two-scoops-of-django-1.8,twoscoops/two-scoops-of-django-1.8,Python,Tracking thoughts and feature requests for Two Scoops of Django 1.8 in the issue tracker. And the book's code examples are here.,279,46,twoscoops,Two Scoops Press,Organization,,279
+plexpy,drzoidberg33/plexpy,Python,A Python based monitoring and tracking tool for Plex Media Server.,254,57,drzoidberg33,,User,Cape Town,254
+papers,wecite/papers,Python,writings or translations,278,52,wecite,无微不志,User,,278
+telebot,yukuku/telebot,Python,Telegram Bot starter kit. Very easy to install with Google App Engine.,278,110,yukuku,,User,,278
+Localize-Swift,marmelroy/Localize-Swift,Python,Swift 2.0 friendly localization and i18n with in-app language switching,277,16,marmelroy,Roy Marmelstein,User,"Paris, France",2442
+redispapa,no13bus/redispapa,Python,"another redis monitor by using flask, angular, socket.io",276,53,no13bus,no13bus,User,Beijing,393
+django-baker,krisfields/django-baker,Python,"Adds a management command that generates views, forms, urls, admin, and templates based off the contents of models.py",270,19,krisfields,Kris Fields,User,,270
+graphene,graphql-python/graphene,Python,GraphQL framework for Python,272,21,graphql-python,GraphQL Python,Organization,,272
+CTFd,isislab/CTFd,Python,CTFs as you need them,273,79,isislab,Information Systems and Internet Security (ISIS) Laboratory,Organization,"Six MetroTech Center Brooklyn, NY 11201",273
+fuel,mila-udem/fuel,Python,A data pipeline framework for machine learning,272,105,mila-udem,,Organization,,524
+ptop,black-perl/ptop,Python,An awesome task manager written in python.  :computer:,271,9,black-perl,Ankush Sharma,User,✈,271
+voc,pybee/voc,Python, A transpiler that converts Python bytecode into Java bytecode.,268,24,pybee,BeeWare,Organization,,791
+baldr,motet/baldr,Python,An open source flight simulator for quadrotors written entirely in Python.,269,20,motet,Samuel Tanner Lindemer,User,"Boston, Massachusetts, USA",269
+pigar,Damnever/pigar,Python,":coffee: A fantastic tool to generate requirements file for your Python project, and more than that.",268,18,Damnever,X.C.Dong,User,CS,268
+procedural_city_generation,josauder/procedural_city_generation,Python,Procedural City Generation program implemented in Python and Visualized with Blender.,266,26,josauder,,User,,266
+auto-sklearn,automl/auto-sklearn,Python,,266,32,automl,,Organization,"Freiburg, Germany",266
+Theano-Lights,Ivaylo-Popov/Theano-Lights,Python,Deep learning research framework based on Theano,261,48,Ivaylo-Popo
