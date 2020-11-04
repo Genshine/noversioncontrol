@@ -3114,4 +3114,147 @@ ansible-rails,j-mcnally/ansible-rails,Python,A collection of playbooks for getti
 scrapyz,ssteuteville/scrapyz,Python,'Scrape Easy' - an extension of the Scrapy framework.,156,9,ssteuteville,Shane,User,California,156
 Flask-Scaffold,Leo-G/Flask-Scaffold,Python,"Prototype Database driven CRUD dashboards and RESTFUL API's in Python 3, Flask and Angularjs",125,19,Leo-G,Leo G,User,,1034
 weixin-knife,Skycrab/weixin-knife,Python,weixin python framework,156,58,Skycrab,skycrab,User,China Beijing,156
-DAT7,justmarkham/DAT7,Python,"General Assembly's Data Science course in Wa
+DAT7,justmarkham/DAT7,Python,"General Assembly's Data Science course in Washington, DC",155,99,justmarkham,Kevin Markham,User,"Washington, DC, USA",390
+python-regex-scanner,mitsuhiko/python-regex-scanner,Python,Demo of how to use the underlying SRE engine to build a regex scanner,155,7,mitsuhiko,Armin Ronacher,User,Austria / United Kingdom,398
+SmartQQBot,Yinzo/SmartQQBot,Python,基于SmartQQ的自动机器人框架,154,73,Yinzo,Yinzo,User,China.Guangzhou,154
+pyside2,PySide/pyside2,Python,,155,15,PySide,PySide,Organization,,155
+diffmem,DoctorTeeth/diffmem,Python,"Reference implementations of neural networks with differentiable memory mechanisms (NTM, Stack RNN, etc.)",155,9,DoctorTeeth,Augustus Odena,User,SF,155
+testinfra,philpep/testinfra,Python,Testinfra test your infrastructures,153,20,philpep,Philippe Pepiot,User,Toulouse (France),153
+videodigest,agermanidis/videodigest,Python,Automatic video summaries,153,8,agermanidis,Anastasis Germanidis,User,,781
+youtube-upload,tokland/youtube-upload,Python,Upload videos to Youtube from the command line,150,38,tokland,Arnau Sanchez,User,Barcelona,150
+disrupt,dellis23/disrupt,Python,A python 'tool' for 'interacting' with the terminals of 'friends' and 'colleagues'.,152,7,dellis23,Dan,User,,1024
+spotify2am,simonschellaert/spotify2am,Python,Import your Spotify library into Apple Music,152,29,simonschellaert,Simon Schellaert,User,"Ghent, Belgium",152
+ping-me,OrkoHunter/ping-me,Python,A cross platform personalized Ping,150,7,OrkoHunter,Himanshu Mishra,User,"Kharagpur, India",150
+caffe-tensorflow,ethereon/caffe-tensorflow,Python,Caffe models in TensorFlow,149,19,ethereon,Saumitro Dasgupta,User,"Stanford, CA",149
+py-faster-rcnn,rbgirshick/py-faster-rcnn,Python,Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version,150,97,rbgirshick,Ross Girshick,User,,731
+rbac-23andme-oauth2,offapi/rbac-23andme-oauth2,Python,,150,26,offapi,,Organization,,150
+Sublist3r,aboul3la/Sublist3r,Python,Fast subdomains enumeration tool for penetration testers,139,56,aboul3la,Ahmed Aboul-Ela,User,Egypt,139
+cli-github,harshasrinivas/cli-github,Python,Github within the CLI :computer:,151,16,harshasrinivas,Harshavardhan,User,"Chennai, India",151
+graphqllib,dittos/graphqllib,Python,GraphQL implementation for Python,150,10,dittos,Taeho Kim,User,"Seoul, Korea",150
+cnn-text-classification-tf,dennybritz/cnn-text-classification-tf,Python,Convolutional Neural Network for Text Classification in Tensorflow,147,46,dennybritz,Denny Britz,User,"Stanford, CA",1180
+katoolin,LionSec/katoolin,Python,Automatically install all Kali linux tools,146,52,LionSec,,User,Spain,146
+mailthon,eugene-eeo/mailthon,Python,elegant email sending for Python,150,14,eugene-eeo,Eeo Jun,User,Malaysia,288
+dict_uk,arysin/dict_uk,Python,Project to generate POS tag dictionary for Ukrainian language,148,17,arysin,,User,,148
+rietveld,rietveld-codereview/rietveld,Python,"Code Review, hosted on Google App Engine",146,50,rietveld-codereview,,Organization,,146
+celery-once,TrackMaven/celery-once,Python,Celery Once allows you to prevent multiple execution and queuing of celery tasks.,149,13,TrackMaven,,Organization,"Washington, D.C",149
+chainer-DCGAN,mattya/chainer-DCGAN,Python,Chainer implementation of Deep Convolutional Generative Adversarial Network,139,18,mattya,,User,,284
+ramses,brandicted/ramses,Python,RAML + Elasticsearch / Postgres / Mongodb + Pyramid = RESTful API,146,14,brandicted,Brandicted,Organization,Montreal,146
+invatar,Bekt/invatar,Python,Invatar is a free service for generating fully customizable avatars with initials. ,148,4,Bekt,Kanat Bekt,User,"Fayetteville, AR",148
+scapy,phaethon/scapy,Python,Network packet and pcap file crafting/sniffing/manipulation/visualization security tool (based on scapy) with python3 compatibility,146,30,phaethon,Eriks Dobelis,User,,146
+py-frameworks-bench,klen/py-frameworks-bench,Python,Another benchmark for some python frameworks,148,11,klen,Kirill Klenov,User,"Russia, Moscow",400
+dockerflix,trick77/dockerflix,Python,"Docker-based SNI proxy for watching U.S. Netflix, Hulu, MTV, Vevo, Crackle, ABC, NBC, PBS...",148,26,trick77,,User,Schwiiz,148
+numpile,sdiehl/numpile,Python,A tiny 1000 line LLVM-based numeric specializer for scientific Python code.,146,22,sdiehl,Stephen Diehl,User,"Boston, MA",1124
+Neural-Networks-Demystified,stephencwelch/Neural-Networks-Demystified,Python,Supporting code for short YouTube series Neural Networks Demystified. ,147,51,stephencwelch,Stephen,User,"Atlanta, Ga",147
+bat-country,jrosebr1/bat-country,Python,"A lightweight, extendible, easy to use Python package for deep dreaming and image generation with Caffe and CNNs.",147,29,jrosebr1,Adrian Rosebrock,User,,332
+ansiblebook,lorin/ansiblebook,Python,Code samples from the book 'Ansible: Up and Running',146,33,lorin,Lorin Hochstein,User,"San Jose, CA",146
+spatial-media,google/spatial-media,Python,Specifications and tools for 360º video.,146,36,google,Google,Organization,,70104
+rcontrol,parkouss/rcontrol,Python,python library to execute asynchronous remote tasks with ssh,146,10,parkouss,Julien Pagès,User,France,146
+Xunlei-FastDick,fffonion/Xunlei-FastDick,Python,迅雷快鸟,146,40,fffonion,Alliumcepa Triplef,User,Boshidun,146
+flask-talisman,GoogleCloudPlatform/flask-talisman,Python,HTTP security headers for Flask,146,3,GoogleCloudPlatform,Google Cloud Platform,Organization,,265
+netflix-proxy,ab77/netflix-proxy,Python,Docker packaged smart DNS proxy to watch Netflix out of region using BIND and sniproxy.,144,37,ab77,Anton Belodedenko,User,United Kingdom,144
+learn-python3,michaelliao/learn-python3,Python,Learn Python 3 Sample Code,144,207,michaelliao,Michael Liao,User,"Beijing, China",144
+chainer-gogh,mattya/chainer-gogh,Python,,145,15,mattya,,User,,284
+funcfinder,alexmojaki/funcfinder,Python,A tool for automatically solving problems of the form 'I need a python function that does X.',144,6,alexmojaki,,User,,144
+shadowsocks_analysis,lao605/shadowsocks_analysis,Python,shadowsocks sourcecode with my own comment,142,93,lao605,Frank,User,"Guangzhou, Guangdong Province, China",142
+stackanswers.vim,james9909/stackanswers.vim,Python,Vim plugin to fetch answers from Stack Overflow,144,11,james9909,James Wang,User,Stuyvesant High School,144
+memegen,jacebrowning/memegen,Python,Generates memes from URLs.,144,23,jacebrowning,Jace Browning,User,"Grand Rapids, MI",144
+layered,danijar/layered,Python,Clean implementation of feed forward neural networks,143,8,danijar,Danijar Hafner,User,"Berlin, Germany",143
+pappy-proxy,roglew/pappy-proxy,Python,An intercepting proxy for web application testing,124,7,roglew,,User,,124
+icml2015_papers,KirkHadley/icml2015_papers,Python,Links to ICML 2015 papers available on arxiv,143,22,KirkHadley,Kirk Hadley,User,,143
+learn-python,tanteng/learn-python,Python,学习python3小脚本,143,65,tanteng,Tony,User,Shenzhen,143
+thingscoop,agermanidis/thingscoop,Python,Search and filter videos based on objects that appear in them using convolutional neural networks,143,16,agermanidis,Anastasis Germanidis,User,,781
+zerotest,jjyr/zerotest,Python,Lazy guy's testing tool. Capture HTTP traffic and generate python integration test for your API server.,143,7,jjyr,Hari Jiang,User,"Shanghai, China",271
+libact,ntucllab/libact,Python,Pool-based active learning in Python,143,12,ntucllab,NTUCSIE CLLab,Organization,Taiwan,143
+windows-privesc-check,pentestmonkey/windows-privesc-check,Python,Standalone Executable to Check for Simple Privilege Escalation Vectors on Windows Systems,142,39,pentestmonkey,,User,,244
+quodlibet,quodlibet/quodlibet,Python,"An open-source music library manager / player for Linux, Windows, and OS X",142,30,quodlibet,Quod Libet,Organization,,142
+CCrush-Bot,AlexEne/CCrush-Bot,Python,A python bot that plays candy crush,142,16,AlexEne,Alexandru Ene,User,Bucharest,142
+proof,onyxfish/proof,Python,"A Python library for creating fast, repeatable and self-documenting data analysis pipelines.",141,10,onyxfish,Christopher Groskopf,User,"Tyler, TX || Washington, DC",141
+QQParking,zeruniverse/QQParking,Python,"QQBot, QQ机器人，用于QQ挂机。自动回复私聊及临时对话，记录留言并转发至邮箱，账号（被踢）下线邮件提醒。Python版本及windows 32位EXE",140,57,zeruniverse,Jeffery Zhao,User,Vancouver,271
+github_commit_crawler,jfalken/github_commit_crawler,Python,Tool used to continuously monitor a Github org for mistaken public commits,140,22,jfalken,Chris Sandulow,User,,140
+hangoutsbot,hangoutsbot/hangoutsbot,Python,Google Hangouts bot,140,92,hangoutsbot,hangoutsbot,Organization,,140
+neural-art-tf,woodrush/neural-art-tf,Python,'A neural algorithm of Artistic style' in tensorflow,137,16,woodrush,woodrush,User,,137
+ThreatExchange,facebook/ThreatExchange,Python,Share threat information with vetted partners,140,53,facebook,Facebook,Organization,"Menlo Park, California",61260
+ansible-cmdb,fboender/ansible-cmdb,Python,Generate host overview from ansible fact gathering output,137,22,fboender,Ferry Boender,User,,137
+vprof,nvdv/vprof,Python,Visual Python profiler,137,10,nvdv,,User,,137
+iOS-private-api-checker,hustcc/iOS-private-api-checker,Python,iOS-private-api-checker 苹果iOS私有API检查工具 Developer tool to scan iOS apps for private API usage before submitting to Apple,138,33,hustcc,atool,User,China Hanzhou,588
+py-googletrans,ssut/py-googletrans,Python,Free Unofficial Google Translate API for Python. Translates totally free of charge.,137,10,ssut,SuHun Han,User,Republic of Korea,137
+flowblade,jliljebl/flowblade,Python,Automatically exported from code.google.com/p/flowblade,136,15,jliljebl,,User,,136
+arxiv-sanity-preserver,karpathy/arxiv-sanity-preserver,Python,Quick web interface for browsing recent arxiv submissions,137,26,karpathy,Andrej,User,Stanford,2688
+pycon-pandas-tutorial,brandon-rhodes/pycon-pandas-tutorial,Python,PyCon 2015 Pandas tutorial materials,136,95,brandon-rhodes,Brandon Rhodes,User,"Bluffton, Ohio",136
+subDomainsBrute,lijiejie/subDomainsBrute,Python,A simple and fast sub domain brute tool for pentesters,136,120,lijiejie,,User,,364
+btproxy,conorpp/btproxy,Python,Man in the Middle analysis tool for Bluetooth.,136,16,conorpp,Conor Patrick,User,,136
+Twitch-plays-LSD-neural-net,317070/Twitch-plays-LSD-neural-net,Python,,136,22,317070,Jonas Degrave,User,,136
+webXray,timlib/webXray,Python,webXray is a tool for detecting third-party HTTP requests and matching them to the companies which receive user data.,136,10,timlib,Tim Libert,User,NYC/PHL/BUD/BER/ETC,136
+php-malware-finder,nbs-system/php-malware-finder,Python,Detect potentially malicious PHP files,135,36,nbs-system,NBS System,Organization,"Paris, France",135
+eralchemy,Alexis-benoist/eralchemy,Python,Entity Relation Diagrams generation tool,131,6,Alexis-benoist,Alexis Benoist,User,Paris,131
+ripozo,vertical-knowledge/ripozo,Python,A tool for quickly creating REST/HATEOAS/Hypermedia APIs in python,135,10,vertical-knowledge,Vertical Knowledge,Organization,,135
+python-periphery,vsergeev/python-periphery,Python,"A pure Python 2/3 library for peripheral I/O (GPIO, SPI, I2C, MMIO, Serial) in Linux.",134,11,vsergeev,Vanya Sergeev,User,"San Mateo, CA",134
+reinforce,NathanEpstein/reinforce,Python,simple reinforcement learning in Python ,133,23,NathanEpstein,Nathan Epstein,User,"New York, NY",815
+gitinspector,ejwa/gitinspector,Python,:bar_chart: The statistical analysis tool for git repositories,132,30,ejwa,Ejwa Software,Organization,"Gothenburg, Sweden",132
+Bluto,RandomStorm/Bluto,Python,"Recon, Subdomain Bruting, Zone Transfers",129,32,RandomStorm,RandomStorm,Organization,UK,129
+QQRobot,zeruniverse/QQRobot,Python,"QQBot, QQ机器人(群聊小黄鸡) LINUX挂机版, SmartQQ协议。Python版本及windows 32位EXE",131,75,zeruniverse,Jeffery Zhao,User,Vancouver,271
+elephas,maxpumperla/elephas,Python,Distributed Deep learning with Keras & Spark,130,22,maxpumperla,Max Pumperla,User,Hamburg,130
+OnePlusTwoBot,JakeCooper/OnePlusTwoBot,Python,A series of exploits used to jump the OnePlus reservation queue.,131,115,JakeCooper,Jake Cooper,User,Victoria BC,131
+cron-metrics,manugarri/cron-metrics,Python,Implementation of a monitoring system of interval cron tasks in Python,131,8,manugarri,Manuel Garrido,User,The Interwebs,131
+grc,garabik/grc,Python,generic colouriser,130,19,garabik,Radovan Garabík,User,,130
+CheungSSH,zhangqichuan/CheungSSH,Python,自动化运维工具,130,87,zhangqichuan,,User,,130
+django-test-plus,revsys/django-test-plus,Python,Useful additions to Django's default TestCase,130,9,revsys,Frank Wiles,Organization,"Lawrence, KS",130
+lsbaws,rspivak/lsbaws,Python,Let's Build A Web Server,126,37,rspivak,Ruslan Spivak,User,"Toronto, Canada",126
+clingkernel,minrk/clingkernel,Python,C++ Kernel for Jupyter with Cling,130,16,minrk,Min RK,User,"Oslo, Norway",130
+supycache,lonetwin/supycache,Python,Simple yet capable caching decorator for python,131,3,lonetwin,Steven Fernandez,User,Singapore,131
+noto-emoji,googlei18n/noto-emoji,Python,Noto Emoji fonts,113,14,googlei18n,Google Internationalization,Organization,,331
+lisa.py,ant4g0nist/lisa.py,Python,-An Exploit Dev Swiss Army Knife. ,129,14,ant4g0nist,Chaithu,User,,129
+lector,zdenop/lector,Python,Automatically exported from code.google.com/p/lector,129,6,zdenop,zdenop,User,,129
+smalisca,dorneanu/smalisca,Python,Static Code Analysis for Smali files,128,28,dorneanu,Victor Dorneanu,User,Berlin,128
+weakfilescan,ring04h/weakfilescan,Python,动态多线程敏感信息泄露检测工具,127,141,ring04h,,User,,442
+fpage,fy0/fpage,Python,"Tornado project generator. You can start a project with tornado, mako/jinjia2 and sqlalchemy/peewee in one minute.",126,18,fy0,fy,User,China,126
+receipt-parser,mre/receipt-parser,Python,A fuzzy (supermarket) receipt parser written in Python using tesseract,127,12,mre,Matthias Endler,User,"Düsseldorf, Germany",127
+jiphy,timothycrosley/jiphy,Python,Your client side done in a jiphy. Python to JavaScript 2-way converter.,127,9,timothycrosley,Timothy Edmund Crosley,User,Seattle,1011
+rethinkdb-stream,AtnNn/rethinkdb-stream,Python,Proof of concept for streaming binary data using RethinkDB changes,126,3,AtnNn,Etienne Laurin,User,"Charlotte, NC",126
+ARDT,m57/ARDT,Python,Akamai Reflective DDoS Tool - Attack the origin host behind the Akamai Edge hosts and DDoS protection offered by Akamai services.,126,33,m57,Mitch \x90,User,somewhere in space,764
+seq2seq,farizrahman4u/seq2seq,Python,Sequence to Sequence Learning with Keras,123,28,farizrahman4u,Fariz Rahman,User,India,123
+SPF,tatanus/SPF,Python,SpeedPhishing Framework,126,38,tatanus,Adam Compton,User,"Clinton, TN 37716",126
+atomic,projectatomic/atomic,Python,Atomic Run Tool for installing/running/managing container images.,126,71,projectatomic,Project Atomic,Organization,,264
+pefile,erocarrera/pefile,Python,Automatically exported from code.google.com/p/pefile,125,68,erocarrera,Ero Carrera,User,Zurich,125
+sqlchop,chaitin/sqlchop,Python,A novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis.,125,28,chaitin,Chaitin Tech,Organization,Beijing,125
+neupy,itdxer/neupy,Python,NeuPy is a Python library for Artificial Neural Networks.,126,12,itdxer,Yurii Shevchuk,User,,126
+TermFeed,iamaziz/TermFeed,Python,A simple terminal feed reader.,124,3,iamaziz,Aziz Alto,User,NYC,124
+Propel,mardix/Propel,Python,Deploy multiple Flask/Django (or PHP/HTML) applications on a single server ,124,2,mardix,Mardix,User,,234
+python-scraping,REMitchell/python-scraping,Python,Code samples from the book Web Scraping with Python http://shop.oreilly.com/product/0636920034391.do,123,110,REMitchell,REMitchell,User,"Needham, MA",123
+retext,retext-project/retext,Python,ReText: Simple but powerful editor for Markdown and reStructuredText,120,16,retext-project,ReText,Organization,,120
+pr0cks,n1nj4sec/pr0cks,Python,python script setting up a transparent proxy to forward all TCP and DNS traffic through a SOCKS / SOCKS5 or HTTP(CONNECT) proxy using iptables -j REDIRECT target,124,26,n1nj4sec,,User,France,1446
+pybluez,karulis/pybluez,Python,Bluetooth Python extension module,123,39,karulis,,User,,123
+OpenBazaar-Server,OpenBazaar/OpenBazaar-Server,Python,Server daemon for communication between client and OpenBazaar network,119,49,OpenBazaar,OpenBazaar,Organization,everywhere,119
+MFFA,fuzzing/MFFA,Python,Media Fuzzing Framework for Android,122,51,fuzzing,,User,,122
+Xiaomi_Yi,deltaflyer4747/Xiaomi_Yi,Python,Xiaomi Yi Camera settings via python (PC) script,122,34,deltaflyer4747,,User,,122
+sketch-rnn,hardmaru/sketch-rnn,Python,Multilayer LSTM and Mixture Density Network for modelling path-level SVG Vector Graphics data in TensorFlow,122,23,hardmaru,hardmaru,User,Tokyo,231
+PortDog,puniaze/PortDog,Python,,122,34,puniaze,,User,"Azerbaijan, Baku",122
+ZIB-Trojan,whitepacket/ZIB-Trojan,Python,The Open Tor Botnet (ZIB); Python-based forever-FUD IRC Trojan,121,41,whitepacket,WhitePacket,User,"Calgary, Canada",121
+nba_py,seemethere/nba_py,Python,Python client for NBA statistics located at stats.nba.com,121,33,seemethere,Elias Uriegas,User,US,121
+aliyun-cli,aliyun/aliyun-cli,Python,,121,53,aliyun,,Organization,,121
+jsl,aromanovich/jsl,Python,A Python DSL for describing JSON schemas,121,8,aromanovich,Anton Romanovich,User,"Russia, Yekaterinburg",121
+seria,rtluckie/seria,Python,,120,11,rtluckie,Ryan Luckie,User,,120
+Beehive,n0tr00t/Beehive,Python,"Beehive is an open-source vulnerability detection framework based on Beebeeto-framework. Security researcher can use it to find vulnerability, exploits, subsequent attacks, etc.",120,44,n0tr00t,n0tr00t security team,Organization,China,333
+useless-websites,Feiox/useless-websites,Python,Collect garbage website on the internet,116,18,Feiox,Feiox,User,"Nanjing, China",116
+Malfunction,Dynetics/Malfunction,Python,Malware Analysis Tool using Function Level Fuzzy Hashing,119,19,Dynetics,,Organization,"Huntsville, AL",119
+pytci,cheery/pytci,Python,Python Compiler Infrastructure,119,7,cheery,Henri Tuhola,User,Finland,119
+ladder,CuriousAI/ladder,Python,Ladder network is a deep learning algorithm that combines supervised and unsupervised learning,119,40,CuriousAI,,Organization,,119
+orthographic-pedant,thoppe/orthographic-pedant,Python,Correcting common typos in GitHub one pull request at a time.,119,7,thoppe,Travis Hoppe,User,,119
+hypergrad,HIPS/hypergrad,Python,Exploring differentiation with respect to hyperparameters,119,15,HIPS,Harvard Intelligent Probabilistic Systems Group,Organization,"Harvard University, Cambridge, MA",119
+dl4mt-material,kyunghyuncho/dl4mt-material,Python,,118,45,kyunghyuncho,Kyunghyun Cho,User,Canada,118
+ricedb,install-logos/ricedb,Python,"A simple, portable configuration file manager",118,12,install-logos,,Organization,,118
+ezcf,laike9m/ezcf,Python,Import configuration file for Pythonista,118,9,laike9m,Muromi Rikka,User,China,118
+main,s3ql/main,Python,a full featured file system for online data storage,117,6,s3ql,,Organization,,117
+arrayfire-python,arrayfire/arrayfire-python,Python,Python bindings for ArrayFire: A general purpose GPU library.,117,15,arrayfire,ArrayFire,Organization,"Atlanta, GA, USA",117
+ohmyrepo,no13bus/ohmyrepo,Python,"use webhook to analysis that who star your repository,  where are they and show the top 5 followers. And you can fellow some users.",117,13,no13bus,no13bus,User,Beijing,393
+tlsfuzzer,tomato42/tlsfuzzer,Python,TLS test suite and fuzzer,117,11,tomato42,Hubert Kario,User,"Brno, Czech Republic",117
+ngdevkit,dciabrin/ngdevkit,Python,Open source development for Neo-Geo,117,8,dciabrin,Damien Ciabrini,User,"Mouans-Sartoux, France",117
+visual-qa,avisingh599/visual-qa,Python,Keras-based LSTM/CNN models for Visual Question Answering,117,26,avisingh599,Avi Singh,User,"Kanpur, India",117
+vm,rancher/vm,Python,Package and Run Virtual Machines as Docker Containers,117,29,rancher,Rancher,Organization,,2376
+ioc_parser,armbues/ioc_parser,Python,Tool to extract indicators of compromise from security reports in PDF format,117,38,armbues,,User,,117
+ScratchABit,pfalcon/ScratchABit,Python,Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API,116,11,pfalcon,Paul Sokolovsky,User,,116
+imagr,grahamgilbert/imagr,Python,,115,21,grahamgilbert,Graham Gilbert,User,"London, UK",115
+oscrypto,wbond/oscrypto,Python,"Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy",115,5,wbond,Will Bond,User,"Newbury, MA",115
+ipyparallel,ipython/ipyparallel,Python,Interactive Parallel Computing in Python,113,49,ipython,IPython: interactive computing in Python,Organization,,239
+lasagne-draw,skaae/lasagne-draw,Python,Implementation of the DRAW network in lasagne,114,28,skaae,Søren Kaae Sønderby,User,Denmark,114
+markovify,jsvine/mark
