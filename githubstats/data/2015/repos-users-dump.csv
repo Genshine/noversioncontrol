@@ -3388,4 +3388,130 @@ meituan,lookingstars/meituan,Objective-C,高仿美团iOS版，版本号5.7。/**
 Bohr,DavdRoman/Bohr,Objective-C,Settings screen composing framework,852,65,DavdRoman,David Román,User,"Seville, Spain",852
 SFFocusViewLayout,fdzsergio/SFFocusViewLayout,Objective-C,UICollectionViewLayout with focused content,844,58,fdzsergio,Sergio Fernández,User,Madrid,844
 SXWaveAnimate,dsxNiubility/SXWaveAnimate,Objective-C,Achieve beautiful wavewater animate.,839,198,dsxNiubility,董铂然,User,Beijing-Wangjing,2436
-IGInterfaceDataTable,Instagram/IGInterfaceDataTable,Objective-C,A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.
+IGInterfaceDataTable,Instagram/IGInterfaceDataTable,Objective-C,A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.,833,54,Instagram,Instagram,Organization,"San Francisco, CA",833
+MMTweenAnimation,adad184/MMTweenAnimation,Objective-C,"A extension of POP(from facebook) custom animation. Inspired by tweaner(https://code.google.com/p/tweaner), MMTweanerAnimation provide 10 types of custom animation while using POP.",830,83,adad184,ralph li,User,"China, Hunan, Changsha",2023
+f.lux,jefferyleo/f.lux,Objective-C,flux for iOS,818,178,jefferyleo,jefferyleo,User,,818
+MMPopupView,adad184/MMPopupView,Objective-C,"Pop-up based view(e.g. alert sheet), can easily customize.",819,174,adad184,ralph li,User,"China, Hunan, Changsha",2023
+Coding-iOS,Coding/Coding-iOS,Objective-C,Coding iOS 客户端源代码,811,290,Coding,Coding,Organization,In the Cloud,979
+KYAnimatedPageControl,KittenYang/KYAnimatedPageControl,Objective-C,A custom UIPageControl with multiple animations ,800,111,KittenYang,Qitao Yang,User,"Beijing,China",5246
+react-native-icons,corymsmith/react-native-icons,Objective-C,Quick and easy icons in React Native,794,107,corymsmith,Cory Smith,User,"Calgary, AB",794
+ARSegmentPager,AugustRush/ARSegmentPager,Objective-C,segment tab controller with parallax Header,774,139,AugustRush,August,User,ShangHai,1828
+WBWebViewConsole,Naituw/WBWebViewConsole,Objective-C,In-App debug console for your UIWebView & WKWebView,768,43,Naituw,Wutian,User,"Beijing, China",768
+Replace-iOS,MartinRGB/Replace-iOS,Objective-C,Simply Implement Zee Young's animation,766,103,MartinRGB,MartinRGB,User,"Beijing,China",3764
+BabyBluetooth,coolnameismy/BabyBluetooth,Objective-C,"The easiest way to use Bluetooth (BLE )in ios/os ,even bady can use . 一个非常容易使用的蓝牙库,适用于ios和os",759,187,coolnameismy,刘彦玮,User,nanjing china,759
+VVBlurPresentation,onevcat/VVBlurPresentation,Objective-C,A simple way to present a view controller with keeping the blurred previous one.,752,78,onevcat,Wei Wang,User,"Kawasaki, Japan",5422
+PINCache,pinterest/PINCache,Objective-C,"Fast, non-deadlocking parallel object cache for iOS and OS X",747,70,pinterest,Pinterest,Organization,"San Francisco, California",3903
+UIView-FDCollapsibleConstraints,forkingdog/UIView-FDCollapsibleConstraints,Objective-C,"Builds to collapse a view and its relevant layout constraints, simulating a 'Flow Layout' mode",743,100,forkingdog,,Organization,,8128
+INSPullToRefresh,inspace-io/INSPullToRefresh,Objective-C,A simple to use very generic pull-to-refresh and infinite scrolling functionalities as a UIScrollView category.,733,63,inspace-io,inspace.io,Organization,Cracow,733
+RJImageLoader,rounak/RJImageLoader,Objective-C,A recreation of the image loader animation created by Michael Villar for iOS,726,66,rounak,Rounak,User,"Los Angeles, CA",726
+XActivatePowerMode,qfish/XActivatePowerMode,Objective-C,An Xcode plug-in makes POWER MODE happen in your Xcode.,706,104,qfish,QFish,User,"Beijing, China",840
+phphub-ios,Aufree/phphub-ios,Objective-C,PHPHub for iOS is the universal iPhone and iPad application for PHPHub,706,204,Aufree,Paul King,User,"Beijing, China",6864
+Concorde,contentful-labs/Concorde,Objective-C,Download and decode progressive JPEGs on iOS.,702,50,contentful-labs,,Organization,,833
+movies,KMindeguia/movies,Objective-C,,697,135,KMindeguia,Kevin Mindeguia,User,Stockholm,697
+FSCalendar,WenchaoIOS/FSCalendar,Objective-C,"A superiorly awesome iOS7+ calendar control, compatible with both Objective-c and Swift2",694,167,WenchaoIOS,Wenchao Ding,User,China,694
+MTMaterialDelete,MartinRGB/MTMaterialDelete,Objective-C,a simple implement of my workmate's animation,689,79,MartinRGB,MartinRGB,User,"Beijing,China",3764
+FixCode,neonichu/FixCode,Objective-C,Fixing the 'Fix Issues' button,681,15,neonichu,Boris Bügling,User,"Berlin, Germany",1957
+Preloader.Ophiuchus,Yalantis/Preloader.Ophiuchus,Objective-C,Custom Label to apply animations on whole text or letters.,675,44,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+ZOZolaZoomTransition,NewAmsterdamLabs/ZOZolaZoomTransition,Objective-C,Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.,657,48,NewAmsterdamLabs,New Amsterdam Labs,Organization,"New York, NY",657
+Facade,mamaral/Facade,Objective-C,Programmatic view layout for the rest of us.,655,53,mamaral,Mike Amaral,User,New Hampshire,4204
+TOCropViewController,TimOliver/TOCropViewController,Objective-C,A view controller that allows users to crop UIImage objects.,655,114,TimOliver,Tim Oliver,User,"Perth, Australia",771
+CocoaMarkdown,indragiek/CocoaMarkdown,Objective-C,Markdown parsing and rendering for iOS and OS X,652,42,indragiek,Indragie Karunaratne,User,"Edmonton, AB",1282
+NgKeyboardTracker,meiwin/NgKeyboardTracker,Objective-C,Objective-C library for tracking keyboard in iOS apps.,654,69,meiwin,Meiwin Fu,User,Singapore,654
+CollectionViewClassifyMenu,ChenYilong/CollectionViewClassifyMenu,Objective-C,CollectionView做的两级菜单，可以折叠第二级菜单,649,180,ChenYilong,微博@iOS程序犭袁,User,Beijing China.,8605
+WZLBadge,weng1250/WZLBadge,Objective-C,//An one-line tool to show  styles of badge for UIView,649,125,weng1250,Zilin Weng,User,"Xiamen,Fujian,China",649
+JTMaterialTransition,jonathantribouharet/JTMaterialTransition,Objective-C,An iOS transition for controllers based on material design.,643,60,jonathantribouharet,Jonathan Tribouharet,User,"Paris, France",941
+KSHObjcUML,kimsungwhee/KSHObjcUML,Objective-C,KSHObjcUML can show oriented graph of dependencies between Objective-C classes in your project,641,62,kimsungwhee,Sungwhee Kim,User,TOKYO,741
+TAOverlay,TaimurAyaz/TAOverlay,Objective-C,TAOverlay is a minimalistic and simple overlay meant to display useful information to the user.,641,50,TaimurAyaz,Taimur Ayaz,User,"Toronto, Canada",641
+KYCuteView,KittenYang/KYCuteView,Objective-C,Drag like a gooey bubble.,639,132,KittenYang,Qitao Yang,User,"Beijing,China",5246
+Doppelganger,Wondermall/Doppelganger,Objective-C,Array diffs as collection view wants it,633,25,Wondermall,Wondermall,Organization,,633
+JZNavigationExtension,JazysYu/JZNavigationExtension,Objective-C,The 'UINavigationController+JZExtension' category integrates some convenient functions for your UINavigationController.,626,73,JazysYu,Jazys,User,,774
+BonMot,Raizlabs/BonMot,Objective-C,An Objective-C attributed string generation library,626,18,Raizlabs,Raizlabs,Organization,Boston & Bay Area,775
+react-native-camera,lwansbrough/react-native-camera,Objective-C,A Camera component for React Native. Also supports barcode scanning!,612,109,lwansbrough,Loch Wansbrough,User,"Vancouver, Canada",612
+CATweaker,keefo/CATweaker,Objective-C,A helper tool and an Xcode plugin for creating beautiful CAMediaTimingFunction curve,612,37,keefo,Xu Lian,User,Vancouver,612
+Organic,mamaral/Organic,Objective-C,The intuitive UITableViewController.,611,47,mamaral,Mike Amaral,User,New Hampshire,4204
+SDAutoLayout,gsdios/SDAutoLayout,Objective-C,AutoLayout   一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based Runtime.,593,169,gsdios,GSD_iOS,User,,2886
+CoreModel,CharlinFeng/CoreModel,Objective-C,Replace CoreData,598,146,CharlinFeng,时点软件 冯成林,User,APP业务合作QQ：2113171554,4323
+WMPageController,wangmchn/WMPageController,Objective-C,An easy solution to page controllers like NetEase News,597,119,wangmchn,Wang Ming,User,"Shenzhen, China",597
+beautifulApp,lyimin/beautifulApp,Objective-C,this is a beautiful app 0.0,582,118,lyimin,梁亦明,User,,582
+NetworkEye,coderyi/NetworkEye,Objective-C,"a iOS network debug library ,It can monitor HTTP requests within the App and displays information related to the request.",580,73,coderyi,coderyi,User,"Beijing,China",2081
+CoreLock,CharlinFeng/CoreLock,Objective-C,高仿支付宝解锁,580,178,CharlinFeng,时点软件 冯成林,User,APP业务合作QQ：2113171554,4323
+GLCalendarView,Glow-Inc/GLCalendarView,Objective-C,A fully customizable calendar view acting as a date range picker,556,59,Glow-Inc,Glow Inc,Organization,"Shanghai, China",867
+BlockParty,krishkumar/BlockParty,Objective-C,Safari Content Blocker App for iOS 9 and OSX,550,72,krishkumar,Krishna,User,"Toronto, Canada",550
+spacetime,facebookexperimental/spacetime,Objective-C,Experimental iOS library for live transformations on parts of layers.,543,11,facebookexperimental,Facebook Experimental,Organization,"Menlo Park, California",543
+YYCache,ibireme/YYCache,Objective-C,High performance cache framework for iOS.,531,126,ibireme,Yaoyuan,User,"Beijing, China",8253
+DOPDropDownMenu-Enhanced,12207480/DOPDropDownMenu-Enhanced,Objective-C,"DOPDropDownMenu 添加双列表 优化版 新增图片支持（double tableView, The optimization version ，new add image,detailText）",532,140,12207480,tany,User,,2740
+Diplomat,lingochamp/Diplomat,Objective-C,整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。,526,57,lingochamp,LingoChamp Inc.,Organization,"Shanghai, China",1524
+HTY360Player,hanton/HTY360Player,Objective-C,Open Source iOS 360 Degree Panorama Video Player.,517,78,hanton,Hanton,User,,669
+ObjectGraph-Xcode,vampirewalk/ObjectGraph-Xcode,Objective-C,ObjectGraph can show oriented graph of dependencies between classes in your project.,515,43,vampirewalk,Kevin Shen,User,Taiwan,515
+A-GUIDE-TO-iOS-ANIMATION,KittenYang/A-GUIDE-TO-iOS-ANIMATION,Objective-C,The source code of my new eBook —— A GUIDE TO IOS ANIMATION. Just click the next link to buy it,514,120,KittenYang,Qitao Yang,User,"Beijing,China",5246
+IPDFCameraViewController,mmackh/IPDFCameraViewController,Objective-C,"UIView subclass with camera preview, live border detection, perspective correction and an easy to use API",507,82,mmackh,Maximilian Mackh,User,"Salzburg, Austria",507
+DWURecyclingAlert,diwu/DWURecyclingAlert,Objective-C,Optimizing UITableViewCell For Fast Scrolling,506,27,diwu,diwup,User,"Shanghai, China",1167
+MustOverride,nicklockwood/MustOverride,Objective-C,Provides a macro that you can use to ensure that a method of an abstract base class *must* be overriden by its subclasses.,503,11,nicklockwood,Nick Lockwood,User,UK,503
+LearnCube-iOS,MartinRGB/LearnCube-iOS,Objective-C,An animation practise demo,503,69,MartinRGB,MartinRGB,User,"Beijing,China",3764
+spacecommander,square/spacecommander,Objective-C,Commit fully-formatted Objective-C as a team without even trying.,500,42,square,Square,Organization,,13457
+SCTrelloNavigation,SergioChan/SCTrelloNavigation,Objective-C,:clipboard: An iOS native implementation of a Trello Animated Navagation. See more at https://dribbble.com/shots/2114816-Trello-Navigation. iOS上类似trello的导航动效控件实现。,493,62,SergioChan,Sergio Chan,User,"Beijing, China",1471
+ActivatePowerMode,poboke/ActivatePowerMode,Objective-C,ActivatePowerMode is a plugin for Xcode. This plugin will make your code powerful.,487,94,poboke,,User,,487
+phonegap-plugin-push,phonegap/phonegap-plugin-push,Objective-C,Register and receive push notifications,488,215,phonegap,PhoneGap,Organization,In your pocket.,488
+LxGridView,DeveloperLx/LxGridView,Objective-C,Imitation iOS system desktop icon arrangement and interaction by UICollectionView!,489,57,DeveloperLx,Developer.Lx,User,"Beijing, China.",1801
+TYAlertController,12207480/TYAlertController,Objective-C,"Powerful, Easy to use alert view or popup view on controller and window, support blur effects,custom view and animation,for objective-c,support iphone, ipad",485,101,12207480,tany,User,,2740
+HCSStarRatingView,hsousa/HCSStarRatingView,Objective-C,Simple star rating view for iOS written in Objective-C,469,43,hsousa,Hugo Sousa,User,"Lisbon, Portugal",469
+FLXView,robb/FLXView,Objective-C,A UIView that uses Flexbox for layouting. :sparkles:,467,15,robb,Robert Böhnke,User,Berlin,467
+LBXScan,MxABC/LBXScan,Objective-C,A barcode and qr code scanner (二维码、扫码、扫一扫、ZXing和ios系统自带扫码封装，扫码界面效果封装),463,129,MxABC,,User,,619
+LGSideMenuController,Friend-LGA/LGSideMenuController,Objective-C,iOS side menu view controller shows left and right views on top of everything by pressing button or gesture,459,67,Friend-LGA,Grigory Lutkov,User,Russia,1217
+GSD_ZHIFUBAO,gsdios/GSD_ZHIFUBAO,Objective-C,支付宝高仿版,457,204,gsdios,GSD_iOS,User,,2886
+NSGIF,NSRare/NSGIF,Objective-C,iOS Library for converting videos to animated GIFs.,457,44,NSRare,NSRare,Organization,Xcode,457
+ZLGotoSandboxPlugin,MakeZL/ZLGotoSandboxPlugin,Objective-C,You can quickly enter the iOS simulator Xcode plugin!,452,79,MakeZL,MakeZL,User,Beijing China.,990
+MPCoachMarks,bubudrc/MPCoachMarks,Objective-C,MPCoachMarks is an iOS class that displays user coach marks with a couple of shapescutout over an existing UI. This approach leverages your actual UI as part of the onboarding process for your user.,447,38,bubudrc,Marcelo Perretta,User,"Rosario, Argentina",447
+zulip-ios,zulip/zulip-ios,Objective-C,Zulip iOS app,446,111,zulip,Zulip,Organization,,4404
+Animations,KittenYang/Animations,Objective-C,"some test animations, just for fun.",445,52,KittenYang,Qitao Yang,User,"Beijing,China",5246
+ARAnimation,AugustRush/ARAnimation,Objective-C,ARAnimation is an Core Animation library to make you animations easily.,443,61,AugustRush,August,User,ShangHai,1828
+RxWebViewController,Roxasora/RxWebViewController,Objective-C,实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationController,441,65,Roxasora,青年李大猫,User,,621
+BaiduFM-Swift,belm/BaiduFM-Swift,Objective-C,百度FM  swift语言实现,440,124,belm,鲁蒙,User,shanghai,440
+SmileTouchID,liu044100/SmileTouchID,Objective-C,A Library for configure Touch ID & passcode conveniently,437,30,liu044100,Rain,User,Kyoto,739
+toolbox,docker/toolbox,Objective-C,The Docker Toolbox,435,86,docker,Docker,Organization,,6701
+ModernLook-OSX,gyetvan-andras/ModernLook-OSX,Objective-C,OSX Moder Look UI,431,20,gyetvan-andras,Gyetván András,User,"Hungary, Balatonlelle",431
+CoreAnimationCode,lzwjava/CoreAnimationCode,Objective-C,Code examples of the book 「iOS Core Animation Advanced Techniques」,430,64,lzwjava,lzwjava,User,"Beijing, China",775
+WAAppRouting,Wasappli/WAAppRouting,Objective-C,"iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!",427,17,Wasappli,,Organization,,528
+PopMenu,xhzengAIB/PopMenu,Objective-C,PopMenu is pop animation menu inspired by Sina weibo / NetEase app.,411,117,xhzengAIB,曾宪华,User,"Guangzhou, China",564
+ZSeatSelector,richzertuche/ZSeatSelector,Objective-C,Create a Seat Map Layout ,409,49,richzertuche,Ricardo Zertuche,User,México,906
+RTNetworking,casatwy/RTNetworking,Objective-C,,409,135,casatwy,Casa Taloyum,User,"shanghai, china",801
+MyOne-iOS,meilbn/MyOne-iOS,Objective-C,我的《一个》 iOS 客户端（OC）,395,127,meilbn,我的眼里只有代码,User,ZheJiang China.,395
+MMTextFieldEffects,mukyasa/MMTextFieldEffects,Objective-C,"Extension of TextFieldEffects with Custom UITextFields effects inspired by Codrops, built using Objective-C",397,41,mukyasa,Mukesh Mandora,User,"Mumbai,India",890
+GoodNight,anthonya1999/GoodNight,Objective-C,"The first non-jailbroken application to adjust the screen temperature, brightness, and color!",391,46,anthonya1999,Anthony Agatiello,User,Rhode Island,391
+WSProgressHUD,devSC/WSProgressHUD,Objective-C,This is a beauful hud view for iPhone & iPad,395,53,devSC,Wilson Yuan,User,Beijing,395
+JBWatchActivityIndicator,mikeswanson/JBWatchActivityIndicator,Objective-C,An easy way to generate activity indicator images for Apple Watch,395,23,mikeswanson,Mike Swanson,User,,395
+ambly,omcljs/ambly,Objective-C,ClojureScript REPL into iOS JavaScriptCore,391,13,omcljs,,Organization,,391
+KYJellyPullToRefresh,KittenYang/KYJellyPullToRefresh,Objective-C,A shape changing & physical ball pull-to-refresh.,393,42,KittenYang,Qitao Yang,User,"Beijing,China",5246
+planck,mfikes/planck,Objective-C,ClojureScript REPL for OS X,392,27,mfikes,Mike Fikes,User,"Leesburg, VA",675
+ios-flexboxkit,alexdrone/ios-flexboxkit,Objective-C,A simple UIKit extension to wrap Flexbox layouts.,389,27,alexdrone,Alex Usbergo,User,"Stockholm, Sweden",389
+stepifyIOS,stepify/stepifyIOS,Objective-C,IOS fitness app.,384,98,stepify,,User,,384
+MrCode,haolloyin/MrCode,Objective-C,A simple GitHub iPhone App that can cache Markdown content (include images in HTML) for read it later. 简单的 GitHub iOS 应用，缓存项目中的 Markdown 渲染之后的 HTML 及其图片方便稍后阅读,380,81,haolloyin,haolloyin,User,shenzhen,380
+YYImage,ibireme/YYImage,Objective-C,"Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.",375,69,ibireme,Yaoyuan,User,"Beijing, China",8253
+UIStackView-Playground,jstart/UIStackView-Playground,Objective-C,A playground demonstrating some of the key features of UIStackView,375,5,jstart,Christopher Truman,User,Los Angeles,375
+WZDraggableSwitchHeaderView,wongzigii/WZDraggableSwitchHeaderView,Objective-C,A header view shows status for switching between viewControllers,375,30,wongzigii,Zigii Wong,User,Shenzhen,742
+MMParallaxCell,adad184/MMParallaxCell,Objective-C,A subclass of UITableViewCell to present the parallax effect,374,41,adad184,ralph li,User,"China, Hunan, Changsha",2023
+react-native-sqlite,almost/react-native-sqlite,Objective-C,SQLite3 bindings for React Native,373,29,almost,Thomas Parslow,User,"Brighton, UK",373
+JFImagePickerController,johnil/JFImagePickerController,Objective-C,高性能多选图片库,371,50,johnil,,User,Beijing,1437
+YiYuanYunGou,JxbSir/YiYuanYunGou,Objective-C,高仿一元云购IOS应用（高仿自一元云购安卓客户端）,366,495,JxbSir,Peter Jin,User,"Hangzhou, Zhejiang, China",551
+MeituanDemo,zangqilong198812/MeituanDemo,Objective-C,,363,116,zangqilong198812,zangqilong,User,,585
+BKAsciiImage,bkoc/BKAsciiImage,Objective-C,Convert UIImage to ASCII art,363,19,bkoc,Barış Koç,User,Istanbul,363
+react-native-video,brentvatne/react-native-video,Objective-C,A <Video /> component for react-native,360,67,brentvatne,Brent Vatne,User,"Vancouver, Canada",2353
+Voucher,rsattar/Voucher,Objective-C,A simple library to make authenticating tvOS apps easy via their iOS counterparts.,360,13,rsattar,Riz,User,"San Francisco, CA",360
+WXTabBarController,leichunfeng/WXTabBarController,Objective-C,在系统 UITabBarController 的基础上实现安卓版微信 TabBar 的滑动切换功能,360,72,leichunfeng,leichunfeng,User,"Guangzhou, Guangdong, China",1335
+SDPhotoBrowser,gsdios/SDPhotoBrowser,Objective-C, A image browser which is easy for using.,360,123,gsdios,GSD_iOS,User,,2886
+HACursor,HAHAKea/HACursor,Objective-C,帮助开发者方便集成导航指示器，用于管理视图页面,361,85,HAHAKea,HAHAYu,User,China GuangDong,361
+FMMosaicLayout,fmitech/FMMosaicLayout,Objective-C,A drop-in mosaic collection view layout with a focus on simple customizations.,360,41,fmitech,Fluid Media Inc.,Organization,,360
+DoubanFM,XVXVXXX/DoubanFM,Objective-C,"The DoubanFM for iPhone,using AFN and MPMoviePlayer",359,123,XVXVXXX,X,User,"Hangzhou, China",359
+MenuMeters,yujitach/MenuMeters,Objective-C,my fork of MenuMeters by http://www.ragingmenace.com/software/menumeters/,358,36,yujitach,,User,,358
+tpwn,kpwn/tpwn,Objective-C,"xnu local privilege escalation via cve-2015-???? & cve-2015-???? for 10.10.5, 0day at the time | poc||gtfo",358,92,kpwn,,User,,594
+Loading,BonzaiThePenguin/Loading,Objective-C,Simple network activity monitor for OS X,356,14,BonzaiThePenguin,Mike McFadden,User,Maryland,356
+SmallDay,ZhongTaoTian/SmallDay,Objective-C,高仿小日子 - By Swift 2.0,351,89,ZhongTaoTian,维尼的小熊,User,北京,1590
+itjh,itjhDev/itjh,Objective-C,IT江湖iOS客户端,353,144,itjhDev,LijunSong,User,"Beijing,China",464
+Crayons,Sephiroth87/Crayons,Objective-C,An Xcode plugin to improve dealing with colors in your project,350,4,Sephiroth87,Fabio Ritrovato,User,"London, UK",350
+KYElegantPhotoGallery,KittenYang/KYElegantPhotoGallery,Objective-C,An elegant photo gallery. It will zoom from a thumb image and you can pan to dismiss it with cool animation.,347,38,KittenYang,Qitao Yang,User,"Beijing,China",5246
+MyLinearLayout,youngsoft/MyLinearLayout,Objective-C,"A powerful iOS view layout library, suitable for all kinds of screen size. Don't need to learn AutoLayout and SizeClass. You can use LinearLayout, RelativeLayout,FrameLayout,TableLayout,FlowLayout  to create you UI Layout",346,107,youngsoft,欧阳大哥,User,,346
+rnd-apple-watch-tesla,eleks/rnd-apple-watch-tesla,Objective-C,An application for Apple Watch to control your Tesla Car,344,57,eleks,,Organization,"Lviv, Ukraine",344
+ios-multi-back-button,palmin/ios-multi-back-button,Objective-C,back-button replacement for iOS 8 that allows going back multiple levels,339,19,palmin,Anders Borum,User,Copenhagen,339
+JVMenuPopover,JV17/JVMenuPopover,Objective-C,Simple popover menu in Objective-C,339,52,JV17,Jorge Valbuena,User,"Toronto, ON",485
+GKFadeNavigationController,gklka/GKFadeNavigationController,Objective-C,A Navigation Controller which supports animated hiding of the Navigation Bar,337,26,gklka,Gruber Kristóf,User,"Budapest, Hungary",337
+YoCelsius,YouXianMing/
