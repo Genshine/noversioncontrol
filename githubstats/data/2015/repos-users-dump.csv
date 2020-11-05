@@ -3257,4 +3257,135 @@ imagr,grahamgilbert/imagr,Python,,115,21,grahamgilbert,Graham Gilbert,User,"Lond
 oscrypto,wbond/oscrypto,Python,"Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy",115,5,wbond,Will Bond,User,"Newbury, MA",115
 ipyparallel,ipython/ipyparallel,Python,Interactive Parallel Computing in Python,113,49,ipython,IPython: interactive computing in Python,Organization,,239
 lasagne-draw,skaae/lasagne-draw,Python,Implementation of the DRAW network in lasagne,114,28,skaae,Søren Kaae Sønderby,User,Denmark,114
-markovify,jsvine/mark
+markovify,jsvine/markovify,Python,"A simple, extensible Markov chain generator.",113,18,jsvine,Jeremy Singer-Vine,User,,287
+discord.py,Rapptz/discord.py,Python,An API wrapper for Discord written in Python.,114,35,Rapptz,Danny,User,,114
+flask-apispec,jmcarp/flask-apispec,Python,,114,4,jmcarp,Joshua Carp,User,,295
+rnn-tutorial-rnnlm,dennybritz/rnn-tutorial-rnnlm,Python,"Recurrent Neural Network Tutorial, Part 2 - Implementing a RNN in Python and Theano",113,46,dennybritz,Denny Britz,User,"Stanford, CA",1180
+Kaggler,jeongyoonlee/Kaggler,Python,Code for Kaggle Data Science Competitions,113,29,jeongyoonlee,Jeong-Yoon Lee,User,"Los Angeles, CA",113
+pythalesians,thalesians/pythalesians,Python,"Python Open Source Financial Library to backtest trading strategies, plot charts, seamlessly download market data, analyse market patterns and much more!",114,31,thalesians,Thalesians,Organization,London,114
+pygogo,reubano/pygogo,Python,A Python logging library with super powers,113,2,reubano,Reuben Cummings,User,Tanzania,113
+make-deb,nylas/make-deb,Python,Tool for building debian packages from your python projects,112,10,nylas,Nylas,Organization,"San Francisco, California",346
+hashfs,dgilland/hashfs,Python,A content-addressable file management system for Python.,112,13,dgilland,Derrick Gilland,User,,112
+orator,sdispater/orator,Python,The Orator ORM provides a simple yet beautiful ActiveRecord implementation.,112,11,sdispater,Sébastien Eustace,User,,112
+dockerize,larsks/dockerize,Python,A tool for creating minimal docker images from dynamic ELF binaries.,112,9,larsks,Lars Kellogg-Stedman,User,,112
+zerodb-server,zero-db/zerodb-server,Python,ZeroDB server and client-side example of using it,111,10,zero-db,ZeroDB,Organization,San Francisco Bay Area,1322
+webapp-checklist,dhilipsiva/webapp-checklist,Python,Technical details that a programmer of a web application should consider before making the site public.,111,6,dhilipsiva,dhilipsiva,User,Bangalore,111
+aiotg,szastupov/aiotg,Python,Asynchronous Python framework for building Telegram bots,111,6,szastupov,Stepan Zastupov,User,"Saint-Petersburg, Russia",282
+aiomysql,aio-libs/aiomysql,Python,aiomysql is a library for accessing a MySQL database from the asyncio,111,13,aio-libs,aio-libs,Organization,,111
+flask-cloudy,mardix/flask-cloudy,Python,"A Flask extension to access, upload, download, save and delete files on cloud storage providers such as: AWS S3, Google Storage, Microsoft Azure, Rackspace Cloudfiles, and even Local file system",110,5,mardix,Mardix,User,,234
+bulby,sontek/bulby,Python,Python library for managing the phillips hue lightbulb,110,8,sontek,John Anderson,User,"Palo Alto, CA",110
+taurus,Blazemeter/taurus,Python,Automation-friendly framework for Continuous Testing by,109,26,Blazemeter,BlazeMeter,Organization,"NY, USA",109
+interstellar,meduza-corp/interstellar,Python,Google Play Store reviews to Slack,109,29,meduza-corp,Meduza,Organization,"Riga, Latvia",109
+vaas,allegro/vaas,Python,VaaS - Varnish as a Service,109,3,allegro,allegro.tech,Organization,Poland,255
+Easy-Card,x43x61x69/Easy-Card,Python,悠遊卡線上餘額查詢系統。,109,22,x43x61x69,Zhi-Wei Cai,User,,109
+varnishtuner.py,unixy/varnishtuner.py,Python,Varnish Cache Tuner,108,5,unixy,UNIXy,User,,108
+pwnbin,kahunalu/pwnbin,Python,Python Pastebin Webcrawler that returns list of public pastebins containing keywords,108,19,kahunalu,,User,,108
+redis-hashring,closeio/redis-hashring,Python,A Python library that implements a consistent hash ring for building distributed apps,108,3,closeio,Close.io,Organization,"Palo Alto, CA",341
+castra,blaze/castra,Python,partitioned storage system based on blosc,108,12,blaze,Blaze,Organization,,576
+dmusic-plugin-NeteaseCloudMusic,wu-nerd/dmusic-plugin-NeteaseCloudMusic,Python,NeteaseCloudMusic Plugin for Deepin Music Player,108,33,wu-nerd,wu.nerd,User,,108
+pywinauto,pywinauto/pywinauto,Python,Windows GUI Automation with Python (64-bit Py3 compatible),107,33,pywinauto,,Organization,,107
+snaql,semirook/snaql,Python,Raw *QL queries from Python without pain,107,8,semirook,Roman Zaiev,User,Kyiv,107
+EvilAP_Defender,moha99sa/EvilAP_Defender,Python,Protect your Wireless Network from Evil Access Points!,107,27,moha99sa,Mohamed Idris,User,,107
+VolDiff,aim4r/VolDiff,Python,VolDiff: Malware Memory Footprint Analysis based on Volatility,107,16,aim4r,aim4r,User,,107
+orchestrating-docker,realpython/orchestrating-docker,Python,,107,48,realpython,Real Python,Organization,,354
+django-rest-framework-social-oauth2,PhilipGarnero/django-rest-framework-social-oauth2,Python,python-social-auth and oauth2 support for django-rest-framework,107,20,PhilipGarnero,Philip Garnero,User,France,107
+jupyter,jupyter/jupyter,Python,"Jupyter metapackage for installation, docs and chat",107,61,jupyter,Project Jupyter,Organization,The Future,707
+twitter-sent-dnn,xiaohan2012/twitter-sent-dnn,Python,Deep Neural Network for Sentiment Analysis on Twitter,106,28,xiaohan2012,Xiao Han,User,"Helsinki, Finland",106
+fullerite,Yelp/fullerite,Python,Fullerite is a daemon which collect metrics periodically from various sources and sends them to different metric stores,106,23,Yelp,Yelp.com,Organization,San Francisco,884
+ButterflyNet,SunDwarf/ButterflyNet,Python,ButterflyNet - A simpler networking library,106,4,SunDwarf,Isaac Dickinson,User,"Dartford, UK",106
+patroni,zalando/patroni,Python, Runners to orchestrate a high-availability PostgreSQL,105,11,zalando,Zalando SE,Organization,Berlin,105
+onedrive-sdk-python,OneDrive/onedrive-sdk-python,Python,OneDrive SDK for Python! https://dev.onedrive.com ,105,12,OneDrive,OneDrive,Organization,"Redmond, WA",105
+myhdl,jandecaluwe/myhdl,Python,The MyHDL development repository,105,41,jandecaluwe,,User,,105
+ascii_art,jontonsoup4/ascii_art,Python,Converts images to ASCII art,105,3,jontonsoup4,Jonathan Reed,User,"Nashville, TN",105
+twitter-contest-bot,kurozael/twitter-contest-bot,Python,Will poll for Retweet Contests and retweet them. Inspired by http://www.hscott.net/twitter-contest-winning-as-a-service/,104,52,kurozael,Conna Wiles,User,United Kingdom,104
+Kaggle-Ensemble-Guide,MLWave/Kaggle-Ensemble-Guide,Python,Code for the Kaggle Ensembling Guide Article on MLWave,103,69,MLWave,,User,,103
+michi,pasky/michi,Python,Minimalistic Go MCTS Engine,103,11,pasky,Petr Baudis,User,"Prague, Czech Republic",103
+exploits,XiphosResearch/exploits,Python,Miscellaneous exploit code,103,55,XiphosResearch,Xiphos Research Ltd.,Organization,United Kingdom,103
+afl-utils,rc0r/afl-utils,Python,"Utilities for automated crash sample processing/analysis, easy afl-fuzz job management and corpus optimization",102,13,rc0r,rc0r,User,Inda Woods,102
+zufang,zhaoxinwo/zufang,Python,Douban rental data search engine(豆瓣租房搜索引擎),102,17,zhaoxinwo,,User,,102
+reddit-plugin-thebutton,reddit/reddit-plugin-thebutton,Python,The Button.,102,9,reddit,reddit,Organization,"San Francisco, CA",102
+altair,ellisonbg/altair,Python,High-level declarative visualization library for Python,102,12,ellisonbg,Brian E. Granger,User,"San Luis Obispo, CA",102
+cuckoo-droid,idanr1986/cuckoo-droid,Python,CuckooDroid - Automated Android Malware Analysis with Cuckoo Sandbox.,102,25,idanr1986,idanr,User,,102
+httpscreenshot,breenmachine/httpscreenshot,Python,,102,31,breenmachine,Stephen Breen,User,United States,102
+GoAgent-Always-Available,out0fmemory/GoAgent-Always-Available,Python,一直可用的GoAgent，会定时扫描可用的google gae ip，goagent会保持更新,102,42,out0fmemory,,User,Earth Of Course,102
+dhcpwn,mschwager/dhcpwn,Python,All your IPs are belong to us.,101,6,mschwager,,User,,101
+ansible-elixir-stack,HashNuke/ansible-elixir-stack,Python,Ansible role to setup server with Elixir & Postgres to deploy apps,101,15,HashNuke,Akash Manohar,User,Bangalore,101
+weibo_spider,wangshunping/weibo_spider,Python,"graduate project, a weibo spider to find some interesting information such as 'In social network , people tend to be happy or sad.'",101,78,wangshunping,wangshunping,User,,101
+camel,eevee/camel,Python,Python serialization for adults,100,2,eevee,Eevee,User,"Las Vegas, NV, USA",100
+sorting_algorithms_py,ztgu/sorting_algorithms_py,Python,Basic sorting algorithms in python. Simplicity.,100,19,ztgu,,User,,100
+ajenti,Eugeny/ajenti,Python,Moved to,100,25,Eugeny,Eugene Pankov,User,"Minsk, Belarus",100
+trip-to-iOS,Aufree/trip-to-iOS,Objective-C,A curated list of delightful iOS resources.,4514,1492,Aufree,Paul King,User,"Beijing, China",6864
+ResearchKit,ResearchKit/ResearchKit,Objective-C,ResearchKit is an open source software framework that makes it easy to create apps for medical research or for other research projects.,4230,631,ResearchKit,,Organization,,4469
+UITableView-FDTemplateLayoutCell,forkingdog/UITableView-FDTemplateLayoutCell,Objective-C,Template auto layout cell for automatically UITableViewCell height calculating,4069,822,forkingdog,,Organization,,8128
+GitUp,git-up/GitUp,Objective-C,The Git interface you've been missing all your life has finally arrived.,3958,192,git-up,GitUp,Organization,"San Francisco, USA",3958
+YYText,ibireme/YYText,Objective-C,Powerful text framework for iOS to display and edit rich text.,3883,569,ibireme,Yaoyuan,User,"Beijing, China",8253
+open-source-ios-apps,dkhamsing/open-source-ios-apps,Objective-C,:iphone: Collaborative List of Open-Source iOS Apps,3606,593,dkhamsing,,User,California,3827
+iOS9AdaptationTips,ChenYilong/iOS9AdaptationTips,Objective-C,iOS9适配系列教程（iOS9开发学习交流群：523070828）,3207,789,ChenYilong,微博@iOS程序犭袁,User,Beijing China.,8605
+WWDC,insidegui/WWDC,Objective-C,WWDC app for OS X,2763,187,insidegui,Guilherme Rambo,User,Brasil / RS,2763
+LTNavigationBar,ltebean/LTNavigationBar,Objective-C,UINavigationBar Category which allows you to change its appearance dynamically,2394,327,ltebean,Leo,User,"Shanghai, China",2394
+TeamTalk,mogujie/TeamTalk,Objective-C,TeamTalk is a solution for enterprise IM,2232,1215,mogujie,蘑菇街,Organization,,2447
+iOSInterviewQuestions,ChenYilong/iOSInterviewQuestions,Objective-C,iOS面试题集锦（附答案）--学习交流群458884057,2184,653,ChenYilong,微博@iOS程序犭袁,User,Beijing China.,8605
+JHChainableAnimations,jhurray/JHChainableAnimations,Objective-C,Easy to read and write chainable animations in Objective-C,2182,176,jhurray,Jeff Hurray,User,,2448
+BLKFlexibleHeightBar,bryankeller/BLKFlexibleHeightBar,Objective-C,"Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.",2147,241,bryankeller,Bryan Keller,User,,2147
+FoldingTabBar.iOS,Yalantis/FoldingTabBar.iOS,Objective-C,Folding Tab Bar and Tab Bar Controller,2145,254,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+PINRemoteImage,pinterest/PINRemoteImage,Objective-C,"A thread safe, performant, feature rich image fetcher",1999,136,pinterest,Pinterest,Organization,"San Francisco, California",3903
+AnyBar,tonsky/AnyBar,Objective-C,OS X menubar status indicator,1887,50,tonsky,Nikita Prokopov,User,"Novosibirsk, Russia",1887
+FDFullscreenPopGesture,forkingdog/FDFullscreenPopGesture,Objective-C,A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.,1831,358,forkingdog,,Organization,,8128
+XcodeGhost,XcodeGhostSource/XcodeGhost,Objective-C,'XcodeGhost' Source,1765,886,XcodeGhostSource,,User,,1765
+YYWebImage,ibireme/YYWebImage,Objective-C,Asynchronous image loading framework.,1726,277,ibireme,Yaoyuan,User,"Beijing, China",8253
+Parse-SDK-iOS-OSX,ParsePlatform/Parse-SDK-iOS-OSX,Objective-C,Parse SDK for iOS/OS X,1664,273,ParsePlatform,Parse,Organization,"Menlo Park, CA",4296
+Pull-to-Refresh.Rentals-iOS,Yalantis/Pull-to-Refresh.Rentals-iOS,Objective-C,This project aims to provide a simple and customizable pull to refresh implementation. Made in Yalantis,1639,207,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+OAStackView,oarrabi/OAStackView,Objective-C,Porting UIStackView to iOS 7+,1586,126,oarrabi,Omar Abdelhafith,User,"Dublin, Ireland",1586
+ChitChat,stonesam92/ChitChat,Objective-C,A native Mac app wrapper for WhatsApp Web,1568,167,stonesam92,Sam Stone,User,UK,1568
+ASCIImage,cparnot/ASCIImage,Objective-C,Create UIImage / NSImage instances with NSString and ASCII art,1500,76,cparnot,Charles Parnot,User,"Palo Alto, CA",1500
+DesignerNewsApp,MengTo/DesignerNewsApp,Objective-C,Build a Swift App as a designer,1490,193,MengTo,Meng To,User,,2733
+FDStackView,forkingdog/FDStackView,Objective-C,Use UIStackView directly in iOS6+,1485,188,forkingdog,,Organization,,8128
+openshare,100apps/openshare,Objective-C,不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。,1467,298,100apps,马云腾,User,漕河泾，上海,1467
+Valet,square/Valet,Objective-C,Valet lets you securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.,1459,66,square,Square,Organization,,13457
+DKNightVersion,Draveness/DKNightVersion,Objective-C,:full_moon: Integrate night mode/theme to your iOS app,1391,172,Draveness,Draveness,User,Beijing China,2863
+SXNews,dsxNiubility/SXNews,Objective-C,"High imitation Neteasy News. (include list,detail,photoset,weather,feedback)",1367,482,dsxNiubility,董铂然,User,Beijing-Wangjing,2436
+SBShortcutMenuSimulator,DeskConnect/SBShortcutMenuSimulator,Objective-C,3D Touch shortcuts in the Simulator,1330,115,DeskConnect,DeskConnect,Organization,"San Francisco, CA",1470
+FastttCamera,IFTTT/FastttCamera,Objective-C,Fasttt and easy camera framework for iOS with customizable filters,1312,112,IFTTT,IFTTT,Organization,San Francisco,5448
+CYLTabBarController,ChenYilong/CYLTabBarController,Objective-C,最低只需传两个数组即可完成主流App框架搭建,1287,298,ChenYilong,微博@iOS程序犭袁,User,Beijing China.,8605
+JVFloatingDrawer,JVillella/JVFloatingDrawer,Objective-C,An easy to use floating drawer view controller.,1261,135,JVillella,Julian,User,"Toronto, Ontario",1261
+Material-Controls-For-iOS,fpt-software/Material-Controls-For-iOS,Objective-C,Many Google Material Design Controls for iOS native application,1242,161,fpt-software,FPT Software,Organization,Vietnam,1242
+Context-Menu.iOS,Yalantis/Context-Menu.iOS,Objective-C,You can easily add awesome animated context menu to your app.,1222,175,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+ZCAnimatedLabel,overboming/ZCAnimatedLabel,Objective-C,UILabel replacement with fine-grain appear/disappear animation,1221,77,overboming,Chen,User,,1221
+jot,IFTTT/jot,Objective-C,An iOS framework for easily adding drawings and text to images.,1221,73,IFTTT,IFTTT,Organization,San Francisco,5448
+KYGooeyMenu,KittenYang/KYGooeyMenu,Objective-C,A not bad gooey effects menu.,1188,156,KittenYang,Qitao Yang,User,"Beijing,China",5246
+XCActionBar,pdcgomes/XCActionBar,Objective-C,'Alfred for Xcode' plugin,1186,35,pdcgomes,Pedro Gomes,User,"London, United Kingdom",1186
+NYTPhotoViewer,NYTimes/NYTPhotoViewer,Objective-C,,1184,101,NYTimes,The New York Times,Organization,"New York, NY",2066
+STPopup,kevin0571/STPopup,Objective-C,"STPopup provides STPopupController, which works just like UINavigationController in form sheet/bottom sheet style, for both iPhone and iPad.",1166,118,kevin0571,Kevin Lin,User,Singapore,1166
+FBSimulatorControl,facebook/FBSimulatorControl,Objective-C,A Mac OS X library for managing and manipulating iOS Simulators,1159,66,facebook,Facebook,Organization,"Menlo Park, California",61260
+TYAttributedLabel,12207480/TYAttributedLabel,Objective-C,TYAttributedLabel 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示,1152,226,12207480,tany,User,,2740
+KRVideoPlayer,36Kr-Mobile/KRVideoPlayer,Objective-C,类似Weico的播放器，支持竖屏模式下全屏播放,1124,203,36Kr-Mobile,36Kr,Organization,Beijing,1281
+WNXHuntForCity,ZhongTaoTian/WNXHuntForCity,Objective-C,高仿城觅by-objective-c,1124,332,ZhongTaoTian,维尼的小熊,User,北京,1590
+NirZhihuDaily2.0,zpz1237/NirZhihuDaily2.0,Objective-C,Swift精仿知乎日报iOS端,1115,256,zpz1237,我偏笑_NSNirvana,User,,1280
+eigen,artsy/eigen,Objective-C,"The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's iOS app.",1098,168,artsy,Artsy,Organization,"New York, NY",1392
+SDCycleScrollView,gsdios/SDCycleScrollView,Objective-C,无限循环图片轮播器。Autoscroll Banner。,1075,351,gsdios,GSD_iOS,User,,2886
+TBIconTransitionKit,AlexeyBelezeko/TBIconTransitionKit,Objective-C,TBIconTransitionKit is an easy to use icon transition kit that allows to smoothly change from one shape to another.,1071,130,AlexeyBelezeko,Alexey,User,Saint Petersburg,1071
+CSSketch,JohnCoates/CSSketch,Objective-C,Plugin that adds CSS support to Sketch 3 for a faster design workflow.,1068,51,JohnCoates,John Coates,User,,5846
+VVeboTableViewDemo,johnil/VVeboTableViewDemo,Objective-C,VVebo剥离的TableView绘制,1066,198,johnil,,User,Beijing,1437
+ESJsonFormat-Xcode,EnjoySR/ESJsonFormat-Xcode,Objective-C,将JSON格式化输出为模型的属性,1064,180,EnjoySR,EnjoySR,User,,1064
+RGCardViewLayout,terminatorover/RGCardViewLayout,Objective-C,This is a layout that clones the interaction of going through city 'cards' in the City Guide App. (this app is #3 for the top iOS app animations on the raywenderlich,1059,117,terminatorover,RGeleta,User,West Hollywood,1365
+ESTMusicPlayer,Aufree/ESTMusicPlayer,Objective-C,An elegant and simple iOS music player.,1045,174,Aufree,Paul King,User,"Beijing, China",6864
+YYModel,ibireme/YYModel,Objective-C,High performance model framework for iOS.,1042,192,ibireme,Yaoyuan,User,"Beijing, China",8253
+ParseSourceCodeStudy,ChenYilong/ParseSourceCodeStudy,Objective-C,Facebook开源的Parse源码分析【系列】,1038,186,ChenYilong,微博@iOS程序犭袁,User,Beijing China.,8605
+bilibili-mac-client,typcn/bilibili-mac-client,Objective-C,An unofficial bilibili client for mac,1038,133,typcn,,User,China,1189
+LNPopupController,LeoNatan/LNPopupController,Objective-C,"LNPopupController is a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.",1023,60,LeoNatan,Leo Natan,User,"Tel Aviv, Israel",1023
+CorePhotoBroswerVC,CharlinFeng/CorePhotoBroswerVC,Objective-C,快速集成高性能照片浏览器，支持本地及网络相册,999,288,CharlinFeng,时点软件 冯成林,User,APP业务合作QQ：2113171554,4323
+MVVMReactiveCocoa,leichunfeng/MVVMReactiveCocoa,Objective-C,GitBucket iOS App,975,233,leichunfeng,leichunfeng,User,"Guangzhou, Guangdong, China",1335
+UUChatTableView,ZhipingYang/UUChatTableView,Objective-C,"Cocoa UI component for group or private chat bubbles with text, images and audio support",966,241,ZhipingYang,Zhiping Yang,User,Shanghai (China),1273
+RMPZoomTransitionAnimator,recruit-mp/RMPZoomTransitionAnimator,Objective-C,A custom zooming transition animation for UIViewController,961,94,recruit-mp,"Recruit Marketing Partners Co.,Ltd",Organization,"Tokyo, Japan",1167
+PullToMakeSoup,Yalantis/PullToMakeSoup,Objective-C,Custom animated pull-to-refresh that can be easily added to UIScrollView,930,107,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+DGActivityIndicatorView,gontovnik/DGActivityIndicatorView,Objective-C,DGActivityIndicatorView is a great way to make loading spinners in your application look nicer. It contains 32 different indicator view styles.,897,112,gontovnik,Danil Gontovnik,User,"London, United Kingdom",3639
+Monkey,coderyi/Monkey,Objective-C,"Monkey is a GitHub third party client for iOS,to show the rank of coders and repositories.",903,211,coderyi,coderyi,User,"Beijing,China",2081
+BEMCheckBox,Boris-Em/BEMCheckBox,Objective-C,Tasteful Checkbox for iOS. (Check box),874,53,Boris-Em,,User,"Seattle, WA",874
+Screentendo,AaronRandall/Screentendo,Objective-C,Turn your screen into a playable level of Mario,871,72,AaronRandall,Aaron Randall,User,London,871
+Cool-iOS-Camera,GabrielAlva/Cool-iOS-Camera,Objective-C,A fully customisable and modern camera implementation for iOS made with AVFoundation.,866,88,GabrielAlva,Gabriel Alvarado,User,,1829
+DownloadButton,PavelKatunin/DownloadButton,Objective-C,Customizable App Store style download button,856,81,PavelKatunin,Pavel,User,Saint-Pteresburg,856
+meituan,lookingstars/meituan,Objective-C,高仿美团iOS版，版本号5.7。/**作者：ljz ; Q Q：863784757  ;  注明：版权所有，转载请注明出处，不可用于其他商业用途。  */,851,376,lookingstars,ljz,User,beijing,1492
+Bohr,DavdRoman/Bohr,Objective-C,Settings screen composing framework,852,65,DavdRoman,David Román,User,"Seville, Spain",852
+SFFocusViewLayout,fdzsergio/SFFocusViewLayout,Objective-C,UICollectionViewLayout with focused content,844,58,fdzsergio,Sergio Fernández,User,Madrid,844
+SXWaveAnimate,dsxNiubility/SXWaveAnimate,Objective-C,Achieve beautiful wavewater animate.,839,198,dsxNiubility,董铂然,User,Beijing-Wangjing,2436
+IGInterfaceDataTable,Instagram/IGInterfaceDataTable,Objective-C,A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.
