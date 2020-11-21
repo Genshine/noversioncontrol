@@ -4276,4 +4276,141 @@ VirtualGameController,robreuss/VirtualGameController,Swift,"Virtual Game Control
 Dwifft,jflinter/Dwifft,Swift,Swift Diff,164,5,jflinter,Jack Flintermann,User,"New York, NY",164
 SimpleAlert,KyoheiG3/SimpleAlert,Swift,Customizable simple Alert and simple ActionSheet for Swift,163,11,KyoheiG3,Kyohei Ito,User,"Tokyo, Japan",1044
 UI-Testing-Cheat-Sheet,joemasilotti/UI-Testing-Cheat-Sheet,Swift,How do I test this with UI Testing?,164,16,joemasilotti,Joe Masilotti,User,"Brooklyn, NY",164
-RRTagController,remirobert/RRTagController,Swift,RRTagController allows user to select tag and create new one.,163,18,remi
+RRTagController,remirobert/RRTagController,Swift,RRTagController allows user to select tag and create new one.,163,18,remirobert,rémi ,User,France ⇄ Shanghai ,307
+producter-book-examples,ProducterTips/producter-book-examples,Swift,All examples in Book Producter http://producter.io,160,40,ProducterTips,,Organization,,160
+BallSwift,FancyPixel/BallSwift,Swift,"This sample app roughly recreates the physics of Ball King using UIDynamics, showcasing the new addition to the API introduced in iOS 9.",161,24,FancyPixel,Fancy Pixel,Organization,Italy,705
+StatusBarNotificationCenter,36Kr-Mobile/StatusBarNotificationCenter,Swift,A customisable status bar notification UI element with concurrency support,157,12,36Kr-Mobile,36Kr,Organization,Beijing,1281
+BothamUI,Karumi/BothamUI,Swift,Model View Presenter Framework written in Swift.,157,16,Karumi,Karumi,Organization,"Madrid, Spain",2202
+iOS-Swift-Circular-Progress-View,wltrup/iOS-Swift-Circular-Progress-View,Swift,A customisable Swift class for a progress view similar to what the Apple Watch has.,158,11,wltrup,Wagner Truppel,User,,158
+swiftScan,MxABC/swiftScan,Swift,A barcode and qr code scanner( 二维码 各种码识别，生成，界面效果),156,30,MxABC,,User,,619
+SwiftyDropbox,dropbox/SwiftyDropbox,Swift,Swift SDK for the Dropbox API v2 preview.,157,40,dropbox,Dropbox,Organization,San Francisco,3557
+Chocolat,neonichu/Chocolat,Swift,:chocolate_bar: Generate podspecs from Swift packages.,156,0,neonichu,Boris Bügling,User,"Berlin, Germany",1957
+SCSafariViewController,stringcode86/SCSafariViewController,Swift,Push / Pop modal SFSafariViewController (Hacking swipe from edge gesture),157,5,stringcode86,,User,,157
+NotificationExtensionTest,hamzasood/NotificationExtensionTest,Swift,,155,2,hamzasood,Hamza Sood,User,,447
+NetReachability,liufan321/NetReachability,Swift,Check Internet Reachability in Swift,155,17,liufan321,Fan Liu,User,China,960
+SAInboxViewController,szk-atmosphere/SAInboxViewController,Swift,UIViewController subclass inspired by 'Inbox by google' animated transitioning.,155,11,szk-atmosphere,Taiki Suzuki,User,"Tokyo, Japan",1944
+SwiftPriorityQueue,davecom/SwiftPriorityQueue,Swift,A Generic Priority Queue in Pure Swift,153,17,davecom,David Kopec,User,New York,153
+beauties,liushuaikobe/beauties,Swift,:yum: Fetch and display images.,153,26,liushuaikobe,Shuai Liu,User,"Hangzhou, China",153
+cordova-plugin-iosrtc,eface2face/cordova-plugin-iosrtc,Swift,Cordova iOS plugin exposing the full WebRTC W3C JavaScript APIs,153,39,eface2face,"eFace2Face, Inc.",Organization,,153
+LoadingImageView,ggamecrazy/LoadingImageView,Swift,"Loading Indicator for UIImageView, written in Swift.",152,10,ggamecrazy,Cezar Cocu,User,NYC,152
+Pistachio,felixjendrusch/Pistachio,Swift,Generic model framework,152,5,felixjendrusch,Felix Jendrusch,User,Berlin,152
+apous,owensd/apous,Swift,Let's make Swift scripting a reality.,151,8,owensd,David Owens II,User,"Bellevue, WA",151
+QRCode,aschuch/QRCode,Swift,A QRCode generator written in Swift.,149,35,aschuch,Alexander Schuch,User,"Vienna, Austria",149
+IconMaker,kaphacius/IconMaker,Swift,an Xcode plug-in for making app icons,150,11,kaphacius,Yurii,User,Amsterdam,150
+SmoothScribble,FlexMonkey/SmoothScribble,Swift,Smooth Drawing for iOS in Swift with Hermite Spline Interpolation,149,13,FlexMonkey,simon gladman,User,"London, United Kingdom",1946
+LSYevernote,allsome/LSYevernote,Swift,印象笔记 evernote transition spring animation,149,25,allsome,tony,User,杭州,149
+Reflect,CharlinFeng/Reflect,Swift,"Reflection, Dict2Model, Model2Dict, Archive",148,37,CharlinFeng,时点软件 冯成林,User,APP业务合作QQ：2113171554,4323
+SDECollectionViewAlbumTransition,seedante/SDECollectionViewAlbumTransition,Swift,CollectionView Controller Transition like open and close an album.,146,28,seedante,,User,shanghai,601
+LxThroughPointsBezier-Swift,DeveloperLx/LxThroughPointsBezier-Swift,Swift,An ideal iOS library using swift programming language. Draw a smooth curve through several points you designated. The curve‘s bend level is adjustable.,145,12,DeveloperLx,Developer.Lx,User,"Beijing, China.",1801
+ruby-china-ios,swordray/ruby-china-ios,Swift,Ruby China for iOS,145,23,swordray,Jianqiu Xiao,User,"Bejing, China",145
+EZAlertController,thellimist/EZAlertController,Swift,Easy Swift UIAlertController,145,18,thellimist,Furkan Yilmaz,User,San Francisco,461
+ReactiveTwitterSearch,ColinEberhardt/ReactiveTwitterSearch,Swift,A ReactiveCocoa 4.0 MVVM example,145,16,ColinEberhardt,Colin Eberhardt,User,"Newcastle, UK",319
+Kinder,remirobert/Kinder,Swift,The basics of a Tinder-like swipeable cards interface controller,144,8,remirobert,rémi ,User,France ⇄ Shanghai ,307
+DeepLearningKit,DeepLearningKit/DeepLearningKit,Swift,"Open Source Deep Learning Framework for Apple's iOS, OS X and tvOS - ",138,16,DeepLearningKit,,Organization,,138
+BrowserTV,zats/BrowserTV,Swift,Turn your TV into a dashboard displaying any webpage!,141,7,zats,Sash Zats,User,San Francisco,283
+ZLSwiftRefresh,MakeZL/ZLSwiftRefresh,Swift,swift pull refresh or loadMore refresh,141,40,MakeZL,MakeZL,User,Beijing China.,990
+SlidingContainerViewController,cemolcay/SlidingContainerViewController,Swift,An android scrollable tab bar style container view controller,142,25,cemolcay,Cem Olcay,User,San Francisco,457
+JSQWebViewController,jessesquires/JSQWebViewController,Swift,A lightweight Swift WebKit view controller for iOS,142,12,jessesquires,Jesse Squires,User,"San Francisco, CA",660
+SpringIndicator,KyoheiG3/SpringIndicator,Swift,SpringIndicator is indicator and PullToRefresh. Inspired by Material design components.,142,20,KyoheiG3,Kyohei Ito,User,"Tokyo, Japan",1044
+ReactiveKit,ReactiveKit/ReactiveKit,Swift,A Swift Reactive Programming Kit,139,10,ReactiveKit,,Organization,,139
+NPFlipButton,neopixl/NPFlipButton,Swift,,139,11,neopixl,Neopixl SA,User,Luxembourg,139
+Fuzi,cezheng/Fuzi,Swift,A fast & lightweight XML & HTML parser in Swift with XPath & CSS support,140,9,cezheng,Ce Zheng,User,,342
+MisterFusion,szk-atmosphere/MisterFusion,Swift,"MisterFusion is Swift DSL for AutoLayout. It is the extremely clear, but concise syntax, in addition, can be used in both Swift and Objective-C.",139,10,szk-atmosphere,Taiki Suzuki,User,"Tokyo, Japan",1944
+Conche,Conche/Conche,Swift,Swift build system and dependency manager.,140,9,Conche,Conche,Organization,,140
+SLPagingViewSwift,StefanLage/SLPagingViewSwift,Swift,Navigation bar system allowing to do a Tinder like or Twitter like. SLPagingViewSwift is a Swift port of the Objective-C of SLPagingView,138,22,StefanLage,Stefan Lage,User,France,138
+YoutubeSourceParserKit,movielala/YoutubeSourceParserKit,Swift,YouTube link parser for swift,136,33,movielala,MovieLaLa Inc,Organization,"San Francisco, CA",356
+TransitionManager,cemolcay/TransitionManager,Swift,"Painless custom transitioning. Easy extend, easy setup, just focus on animations.",138,13,cemolcay,Cem Olcay,User,San Francisco,457
+Sapporo,nghialv/Sapporo,Swift,Cellmodel-driven collectionview manager,138,10,nghialv,Le Van Nghia,User,"Shibuya, Japan",951
+core-data,objcio/core-data,Swift,Sample code for the objc.io Core Data book,138,15,objcio,objc.io,Organization,Berlin,138
+Spectre,kylef/Spectre,Swift,BDD Framework and test runner for Swift projects and playgrounds,136,2,kylef,Kyle Fuller,User,"London, England",1102
+Swift-Adventures-In-Monad-Land,alskipp/Swift-Adventures-In-Monad-Land,Swift,,136,6,alskipp,Al Skipp,User,London,349
+KYDrawerController,ykyouhei/KYDrawerController,Swift,Side Drawer Navigation Controller similar to Android,135,24,ykyouhei,kyo__hei,User,Japan,135
+Screenotate,osnr/Screenotate,Swift,:camera: Automatically annotate your screenshots.,134,7,osnr,Omar Rizwan,User,,134
+OpenSim,luosheng/OpenSim,Swift,"OpenSim is an open source alternative for SimPholders, written in Swift.",134,6,luosheng,Sheng Luo,User,,134
+DPTheme,dphans/DPTheme,Swift,DPTheme help you set default theme color for your app.,132,14,dphans,@baophan94,User,Viet Nam,132
+OLD-functional-view-controllers,chriseidhof/OLD-functional-view-controllers,Swift,More Experiments in Functional View Controllers,132,8,chriseidhof,Chris Eidhof,User,Berlin,563
+LiveGIFs,neonichu/LiveGIFs,Swift,Export your Live Photos as animated GIFs.,132,7,neonichu,Boris Bügling,User,"Berlin, Germany",1957
+Stargate,contentful-labs/Stargate,Swift,A communication channel from your Mac to your watch.,131,0,contentful-labs,,Organization,,833
+ActionButton,lourenco-marinho/ActionButton,Swift,Action button is a Floating Action Button inspired from Google Inbox implemented in Swift,130,29,lourenco-marinho,Lourenço Pinheiro Marinho,User,Fortaleza - Ceará,130
+SocketIO-Kit,ricardopereira/SocketIO-Kit,Swift,Socket.io iOS and OSX Client compatible with v1.0 and later,130,8,ricardopereira,Ricardo Pereira,User,"Coimbra, Portugal",130
+ShinpuruLayout,FlexMonkey/ShinpuruLayout,Swift,Simple Layout in Swift using HGroups & VGroups,128,8,FlexMonkey,simon gladman,User,"London, United Kingdom",1946
+ios_google_places_autocomplete,watsonbox/ios_google_places_autocomplete,Swift,Google Places address entry for iOS (Swift),127,37,watsonbox,Howard Wilson,User,Paris,449
+Partita,comyarzaheri/Partita,Swift,Partita is a simple instrument tuner app for iOS,126,17,comyarzaheri,Comyar Zaheri,User,,558
+Crypto,soffes/Crypto,Swift,Swift CommonCrypto wrapper,128,14,soffes,Sam Soffes,User,San Francisco,730
+FlowingMenu,yannickl/FlowingMenu,Swift,Interactive view transition to display menus with flowing and bouncing effects in Swift,128,17,yannickl,Yannick Loriot,User,"Paris, France",1754
+Operations,danthorpe/Operations,Swift,A Swift framework inspired by WWDC 2015 Advanced NSOperations session.,126,13,danthorpe,Daniel Thorpe,User,"London, UK",564
+LxGridView-swift,DeveloperLx/LxGridView-swift,Swift,Imitation iOS system desktop icon arrangement and interaction by UICollectionView!,127,9,DeveloperLx,Developer.Lx,User,"Beijing, China.",1801
+ALAccordion,Alliants/ALAccordion,Swift,Accordion style container view for iOS,127,14,Alliants,Alliants,Organization,"London, and on the River",127
+ADChromePullToRefresh,Antondomashnev/ADChromePullToRefresh,Swift,ADChromePullToRefresh,125,9,Antondomashnev,Anton,User,Berlin,125
+Versions,zenangst/Versions,Swift,Helping you find inner peace when comparing version numbers in Swift.,124,9,zenangst,Christoffer Winterkvist,User,"Oslo, Norway",124
+Erik,phimage/Erik,Swift,"Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript.",124,7,phimage,You shall not pass,User,France,406
+Wormhole,nixzhu/Wormhole,Swift,A more elegant way for message passing between iOS apps and extensions.,123,5,nixzhu,,User,,1549
+SwiftMock,mflint/SwiftMock,Swift,A mocking framework for Swift,123,7,mflint,Matthew Flint,User,UK,123
+SwiftRecord,arkverse/SwiftRecord,Swift,ActiveRecord for Swift. Easy Core Data,122,12,arkverse,ark,Organization,,122
+RandomKit,nvzqz/RandomKit,Swift,Random data generation in Swift,121,10,nvzqz,Nikolai Vazquez,User,"Miami, FL",480
+MTMusicPlayer,MartinRGB/MTMusicPlayer,Swift,simple implement an AV Player & my workmates Animation,120,12,MartinRGB,MartinRGB,User,"Beijing,China",3764
+_posts,icepy/_posts,Swift,没事写写文章，自娱自乐，喜欢的话请点star，想订阅点watch，千万别fork！,120,12,icepy,,User,安江（China）,1212
+NipponColors,broccolii/NipponColors,Swift,An App for NipponColors,121,12,broccolii,Jingpeng Wu,User,"HangZhou, China",121
+Hyperdrive,the-hypermedia-project/Hyperdrive,Swift,Generic API Client in Swift,120,12,the-hypermedia-project,,Organization,,120
+Future,nghialv/Future,Swift,"Swift µframework providing Future<T, Error>",120,5,nghialv,Le Van Nghia,User,"Shibuya, Japan",951
+example-package-dealer,apple/example-package-dealer,Swift,Example package for use with the Swift Package Manager,118,19,apple,Apple,Organization,"Cupertino, CA",34543
+CloudKit-Demo.Swift,Yalantis/CloudKit-Demo.Swift,Swift,,117,11,Yalantis,Yalantis,Organization,"Ukraine, Dnepropetrovsk",28436
+RealmResultsController,redbooth/RealmResultsController,Swift,A NSFetchedResultsController implementation for Realm written in Swift,117,4,redbooth,Redbooth,Organization,Barcelona & Redwood City,117
+SwiftyRSA,TakeScoop/SwiftyRSA,Swift,RSA public/private key encryption in Swift,117,7,TakeScoop,Scoop,Organization,,117
+ElasticTransition,lkzhao/ElasticTransition,Swift,A UIKit custom transition that simulates an elastic drag. Written in Swift.,117,8,lkzhao,Luke Zhao,User,"Waterloo, ON",117
+KlineInSwift,mengmanzbh/KlineInSwift,Swift,用swift写的K线图,115,21,mengmanzbh,,User,,115
+Pages,hyperoslo/Pages,Swift,UIPageViewController made simple,109,4,hyperoslo,Hyper,Organization,Oslo,2870
+LumaJSON,jquave/LumaJSON,Swift,A super simple JSON helper for Swift,114,7,jquave,Jameson Quave,User,"Austin, TX",114
+PassportScanner,evermeer/PassportScanner,Swift,"Scan the MRZ code of a passport and extract the firstname, lastname, passport number, nationality, date of birth, expiration date and personal numer.",111,20,evermeer,Edwin Vermeer,User,Wieringerwaard,330
+EventBlankApp,icanzilb/EventBlankApp,Swift,A free open source iOS app for events or conferences. Read more on the app's webpage:,103,13,icanzilb,Marin Todorov,User,Barcelona,2649
+PowerUpYourAnimations,icanzilb/PowerUpYourAnimations,Swift,Sample code from talks on advanced animations,112,7,icanzilb,Marin Todorov,User,Barcelona,2649
+SMSegmentView,allenbryan11/SMSegmentView,Swift,Custom segmentedControl for iOS written in Swift. Supports vertical layout. Support both image and text. Highly customisable.,111,30,allenbryan11,Si,User,London,111
+itjh_3DTouch,itjhDev/itjh_3DTouch,Swift,IT江湖 3D Touch Demo,111,26,itjhDev,LijunSong,User,"Beijing,China",464
+Swiftx,typelift/Swiftx,Swift,Functional data types and functions for any project,111,15,typelift,TypeLift,Organization,,111
+InteractivePlayerView,AhmettKeskin/InteractivePlayerView,Swift,Custom iOS music player view,110,19,AhmettKeskin,AhmetKeskin,User,Eskisehir/Turkey,110
+Curry,thoughtbot/Curry,Swift,Swift implementations for function currying,111,11,thoughtbot,"thoughtbot, inc.",Organization,"USA, London, Stockholm ",5368
+SwiftMongoDB,Danappelxx/SwiftMongoDB,Swift,A MongoDB interface for Swift,109,6,Danappelxx,Dan Appel,User,SF Bay Area,109
+Heimdallr.swift,rheinfabrik/Heimdallr.swift,Swift,"Easy to use OAuth 2 library for iOS, written in Swift.",110,13,rheinfabrik,Rheinfabrik,Organization,"Düsseldorf, Germany",307
+D3View,mozhenhau/D3View,Swift,D3View，ui util,110,27,mozhenhau,莫振华,User,广州,110
+Dictater,Nosrac/Dictater,Swift,"Replacement for built-in Speech services.  Supports playing, skipping, progress, and more",110,4,Nosrac,Kyle Carson,User,,110
+LiterateSwiftGUI,chriseidhof/LiterateSwiftGUI,Swift,,109,5,chriseidhof,Chris Eidhof,User,Berlin,563
+TimingFunctionEditor,schwa/TimingFunctionEditor,Swift,Simple swift based editor for bezier based media timing functions,108,1,schwa,Jonathan Wight,User,Berkeley CA,1548
+RZVibrantButton,remzr7/RZVibrantButton,Swift,The Stylish UIButton Apple didn't provide. Built in Swift.,107,9,remzr7,Rameez Remsudeen,User,"Pittsburgh, PA / Singapore",107
+PrettyColors,jdhealy/PrettyColors,Swift,Styles and colors text in the Terminal with ANSI escape codes. Conforms to ECMA Standard 48.,106,7,jdhealy,,User,"Boston, MA",106
+TurtlePlayground,dimsumthinking/TurtlePlayground,Swift,Swift playground using Logo-like commands,105,11,dimsumthinking,,User,,105
+MKRingProgressView,maxkonovalov/MKRingProgressView,Swift,Ring progress view similar to Activity app on Apple Watch,105,7,maxkonovalov,Max Konovalov,User,,105
+iBBS-Swift,iAugux/iBBS-Swift,Swift,A   BBS client in Swift,106,35,iAugux,iAugus,User,"Anhui, China",106
+FlourishUI,thinkclay/FlourishUI,Swift,A highly configurable and out-of-the-box-pretty UI library,106,8,thinkclay,Clayton McIlrath,User,"Lake, MI",106
+example-package-playingcard,apple/example-package-playingcard,Swift,Example package for use with the Swift Package Manager,105,16,apple,Apple,Organization,"Cupertino, CA",34543
+Rainbow,NorthernRealities/Rainbow,Swift,An extension to the UIColor class in swift.,105,7,NorthernRealities,Reid Gravelle,User,"Ottawa, Ontario, Canada",105
+RLDTableViewSwift,rlopezdiez/RLDTableViewSwift,Swift,"Reusable table view controller, data source and delegate for all your UITableView needs in Swift",104,8,rlopezdiez,Rafael López Diez,User,"London, United Kingdom",220
+DLHamburguerMenu,DigitalLeaves/DLHamburguerMenu,Swift,A 'hamburguer' sidebar menu written entirely in swift,104,28,DigitalLeaves,Ignacio Nieto,User,"Madrid, Spain",104
+swift-ascii-art,ijoshsmith/swift-ascii-art,Swift,Swift program that creates ASCII art from an image,105,20,ijoshsmith,Josh Smith,User,,105
+LivePhotoDemo,genadyo/LivePhotoDemo,Swift,Apple's Live Photo demo for older iPhones,105,16,genadyo,Genady Okrain,User,"San Francisco, CA",105
+XWebView,XWebView/XWebView,Swift,An extensible WebView for iOS (based on WKWebView),103,17,XWebView,,Organization,,103
+Switcher,knn90/Switcher,Swift,,104,6,knn90,knn,User,,104
+DDHCustomTransition,dasdom/DDHCustomTransition,Swift,Helper classes to make basic view controller transitions easier ,104,9,dasdom,Dominik Hauser,User,"Düsseldorf, Germany",2125
+JTSplashView,kubatru/JTSplashView,Swift,Create the beautiful splash view.,103,12,kubatru,Jakub Truhlář,User,"Prague, Czech Republic",333
+WhatColorIsIt,soffes/WhatColorIsIt,Swift,Time of day as a color as a Mac screen saver,102,4,soffes,Sam Soffes,User,San Francisco,730
+ROStorageBar,prine/ROStorageBar,Swift,Dynamic Storage Bar (a là iTunes Usage Bar) written in Swift,103,4,prine,Robin Oster,User,Switzerland,103
+example-package-fisheryates,apple/example-package-fisheryates,Swift,Example package for use with the Swift Package Manager,103,15,apple,Apple,Organization,"Cupertino, CA",34543
+LearningRxSwift,pepaslabs/LearningRxSwift,Swift,A space to doodle as I learn RxSwift,103,5,pepaslabs,Jason Pepas,Organization,"Austin, TX",103
+LoveLiver,mzp/LoveLiver,Swift,Create Apple's Live Photos from JPEG and MOV.,102,5,mzp,MIZUNO Hiroki,User,"Nagoya, Japan",102
+PeriscopyPullToRefresh,anaglik/PeriscopyPullToRefresh,Swift,Pull-To-Refresh view inspired by Periscope application written in swift,102,9,anaglik,Andrzej Naglik,User,,102
+Adios,ArmandGrillet/Adios,Swift,An ad blocker for iOS working with EasyList rules.,102,21,ArmandGrillet,Armand Grillet,User,France,102
+AsyncMessagesViewController,nguyenhuy/AsyncMessagesViewController,Swift,"A smooth, responsive and flexible messages UI library for iOS.",102,4,nguyenhuy,Huy Nguyen,User,Finland,102
+ARNTransitionAnimator,xxxAIRINxxx/ARNTransitionAnimator,Swift,Custom transition & interactive transition animator for iOS written in Swift.,101,11,xxxAIRINxxx,Airin,User,Tokyo,302
+ReviewTime,nthegedus/ReviewTime,Swift,Review Time is an open source app for iOS written in Swift that show the average review times for iOS and the Mac Apps using data crowdsourced from AppReviewTime (http://appreviewtimes.com/).,101,14,nthegedus,Nathan Hegedus,User,Brasil,101
+SYNQueue,THREDOpenSource/SYNQueue,Swift,A simple yet powerful queueing system for iOS (with persistence),101,5,THREDOpenSource,,Organization,,101
+PySwiftyRegex,cezheng/PySwiftyRegex,Swift,Easily deal with Regex in Swift in a Pythonic way,100,3,cezheng,Ce Zheng,User,,342
+DynamicButton,yannickl/DynamicButton,Swift,Yet another animated flat buttons in Swift,100,9,yannickl,Yannick Loriot,User,"Paris, France",1754
+gotty,yudai/gotty,Go,Share your terminal as a web application,6003,223,yudai,Iwasaki Yudai,User,"Bay Area, CA",6003
+termui,gizak/termui,Go,Golang terminal dashboard,4202,185,gizak,Zack Guo,User,"Ottawa, ON, Canada",4202
+otto,hashicorp/otto,Go,Development and deployment made easy.,3947,188,hashicorp,HashiCorp,Organization,"San Francisco, CA",9584
+vault,hashicorp/vault,Go,A tool for managing secrets.,3862,309,hashicorp,HashiCorp,Organization,"San Francisco, CA",9584
+gxui,google/gxui,Go,An experimental Go cross platform UI library.,3432,206,google,Google,Organization,,70104
+caddy,mholt/caddy,Go,"Fast, cross-platform HTTP/2 web server with automatic HTTPS",3339,233,mholt,Matt Holt,User,,3339
+tidb,pingcap/tidb,Go,TiDB is a distributed NewSQL database compatible with MySQL protocol ,3195,340,pingcap,PingCAP,Organization,,3195
+kit,go-kit/kit,Go,A standard library for microservices.,2836,188,go-kit,Go kit,Organization,,2836
+echo,labstack/echo,Go,Echo is  a fast :rocket: and unfancy micro web framework for Go.,2795,188,labstack,LabStack,Organization,,2896
+git-appraise,google/git-appraise,Go,Distributed code review system for Git repos,276
