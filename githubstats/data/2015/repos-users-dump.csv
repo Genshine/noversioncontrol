@@ -4875,4 +4875,142 @@ HyperDown,SegmentFault/HyperDown,PHP,一个结构清晰的，易于维护的，�
 starter-laravel-angular,Zemke/starter-laravel-angular,PHP,Laravel and AngularJS Starter Application Boilerplate featuring Laravel 5 and AngularJS 1.3.13,276,101,Zemke,Florian Zemke,User,"Oldenburg, Germany",276
 code-examples,WPTRT/code-examples,PHP,Code examples and snippet library,276,16,WPTRT,WPTRT,Organization,,276
 studio,franzliedke/studio,PHP,A workbench for developing Composer packages.,270,14,franzliedke,Franz Liedke,User,Germany,270
-Front-end-tutorial,AutumnsWind/Front-end-tutorial,PHP,:panda_face:最全的资源教程-前端涉及的所有知识体系,269,104,AutumnsWind,Childishness　·.·.·.·.·.·.·.·.·.·.·.·.·.·
+Front-end-tutorial,AutumnsWind/Front-end-tutorial,PHP,:panda_face:最全的资源教程-前端涉及的所有知识体系,269,104,AutumnsWind,Childishness　·.·.·.·.·.·.·.·.·.·.·.·.·.·.　　　童心·.·.·.·.·.·.·.·.·.·.·.·.·.·. ☆　　　　　　♡♡　　　　　　♬♬♬,User,my.location = USA/China/HK };,804
+php-git-hooks,bruli/php-git-hooks,PHP,Git hooks for PHP projects,267,34,bruli,bruli,User,Sabadell,267
+amp-wp,Automattic/amp-wp,PHP,WordPress plugin for adding AMP support,265,22,Automattic,Automattic,Organization,Worldwide,6717
+laravel-apz,jp7internet/laravel-apz,PHP,The guide to build a Laravel app from a to z.,259,41,jp7internet,JP7,Organization,"São Paulo, Brazil",259
+phpspider,owner888/phpspider,PHP,《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序,256,177,owner888,seatle,User,中国.广东.广州.天河,256
+mu,jeremeamia/mu,PHP,The 4-LOC µ (mu) PHP Microframework. Just cuz.,253,9,jeremeamia,Jeremy Lindblom,User,"Seattle, WA",253
+gantry5,gantry/gantry5,PHP,:rocket: Next Generation Theme Framework,253,60,gantry,Gantry Framework,Organization,,253
+json-api,neomerx/json-api,PHP,Framework agnostic JSON API (jsonapi.org) implementation,252,15,neomerx,,User,,252
+rulerz,K-Phoen/rulerz,PHP,Powerful implementation of the Specification pattern in PHP,250,11,K-Phoen,Kévin Gomez,User,Lyon,250
+Repositories,Bosnadev/Repositories,PHP,Laravel Repositories is a package for Laravel 5 which is used to abstract the database layer. This makes applications much easier to maintain.,247,53,Bosnadev,,Organization,,247
+slackwolf,chrisgillis/slackwolf,PHP,A slack bot that moderates Werewolf games,250,20,chrisgillis,Chris Gillis,User,"San Francisco, CA",250
+eloquence,jarektkaczyk/eloquence,PHP,Extensions for the Eloquent ORM,248,15,jarektkaczyk,Jarek Tkaczyk,User,"Krakow, Poland",248
+phpbench,phpbench/phpbench,PHP,PHP Benchmarking framework,246,7,phpbench,PHPBench,Organization,Europe,246
+business,florianv/business,PHP,DateTime calculations in business hours,246,17,florianv,Florian Voutzinos,User,"Toulouse, France",246
+vat-calculator,mpociot/vat-calculator,PHP,"Handle all the hard stuff related to EU MOSS tax/vat regulations, the way it should be. Can be used with Laravel 5 / Cashier — or standalone.",243,9,mpociot,Marcel Pociot,User,Germany,798
+phphub-server,NauxLiu/phphub-server,PHP,基于 Laravel 5.1 的 PHPHub Server 端,241,98,NauxLiu,刘相轩,User,Beijing China,241
+shadowsocks-php,walkor/shadowsocks-php,PHP,A php port of shadowsocks,242,79,walkor,walkor,User,chengdu china ,242
+zend-expressive,zendframework/zend-expressive,PHP,Start to develop PSR-7 middleware applications in PHP in a minute!,233,52,zendframework,Zend Framework,Organization,,575
+nines,derekshull/nines,PHP,A web performance tool aimed to help developers find critical performance issues.,233,7,derekshull,Matt Shull,User,"Little Rock, AR",233
+StrictPhp,Roave/StrictPhp,PHP,:no_entry_sign: :sparkles: :heavy_exclamation_mark: AOP-based strict type checks for PHP,229,9,Roave,"Roave, LLC",Organization,"Earth, Solar System, Orion Arm, Milky Way, Local Group, Virgo Supercluster, The Universe ",362
+zend-diactoros,zendframework/zend-diactoros,PHP,PSR-7 HTTP Message implementation,229,51,zendframework,Zend Framework,Organization,,575
+docker-training,nicescale/docker-training,PHP,cSphere Docker training code,228,157,nicescale,NiceScale,Organization,,228
+telegram-bot-sdk,irazasyed/telegram-bot-sdk,PHP,Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.,224,43,irazasyed,Syed Irfaq R.,User,Bengaluru,332
+tactician,thephpleague/tactician,PHP,"A simple, flexible command bus",222,30,thephpleague,The League of Extraordinary Packages,Organization,Worldwide,693
+silly,mnapoli/silly,PHP,Silly CLI micro-framework based on Symfony Console,220,11,mnapoli,Matthieu Napoli,User,"Lyon, France",220
+px2svg,meyerweb/px2svg,PHP,"Converts raster images to SVG, using color-run optimization.",219,14,meyerweb,Eric A. Meyer,User,"Cleveland Heights, OH",219
+gitblog,jockchou/gitblog,PHP,"markdown blog base on CodeIgniter, writing blog with markdown！基于CI的markdown博客",218,98,jockchou,zhoujing,User,深圳市，南山区，科技园,218
+php-telegram-bot,akalongman/php-telegram-bot,PHP,PHP Telegram Bot based on the official Telegram Bot API,218,63,akalongman,Avtandil Kikabidze,User,"Georgia, Tbilisi",218
+Sn1per,1N3/Sn1per,PHP,Automated Pentest Recon Scanner,181,79,1N3,1N3,User,"Toronto, Canada",320
+laravel-permission,spatie/laravel-permission,PHP,Associate users with roles and permissions,214,22,spatie,Spatie,Organization,"Antwerp, Belgium",2155
+deprecation-detector,sensiolabs-de/deprecation-detector,PHP,,212,28,sensiolabs-de,SensioLabs Deutschland,Organization,"Cologne, Germany",212
+DAws,dotcppfile/DAws,PHP,Advanced Web Shell,206,70,dotcppfile,dotcppfile,User,,206
+Baun,BaunCMS/Baun,PHP,"A modern, lightweight, extensible CMS for PHP",206,21,BaunCMS,,Organization,,206
+searchindex,spatie/searchindex,PHP,Store and retrieve objects from Algolia or Elasticsearch,203,16,spatie,Spatie,Organization,"Antwerp, Belgium",2155
+yii2-shop,samdark/yii2-shop,PHP,Example project implementing simple shop using Yii 2.0,202,121,samdark,Alexander Makarov,User,Russia,379
+moeSS,wzxjohn/moeSS,PHP,moe SS Front End for https://github.com/mengskysama/shadowsocks/tree/manyuser,198,71,wzxjohn,,User,,198
+player,blackfireio/player,PHP,"Blackfire Player is a powerful Web Crawling, Web Testing, and Web Scraper library for PHP. It provides a nice API to crawl HTTP services, assert responses, and extract data from HTML, XML, and JSON responses.",198,10,blackfireio,Blackfire,Organization,,198
+laravel-sms,toplan/laravel-sms,PHP,sms send package for laravel,197,48,toplan,lan tian peng,User,"Chengdu, China",197
+seotools,artesaos/seotools,PHP,SEO Tools for Laravel,194,37,artesaos,Artesãos,Organization,,380
+jigsaw,adamwathan/jigsaw,PHP,Simple static sites with Laravel's Blade,193,11,adamwathan,Adam Wathan,User,"Ontario, Canada",193
+PhpGenerics,ircmaxell/PhpGenerics,PHP,Here be dragons,193,7,ircmaxell,Anthony Ferrara,User,"New York, NY",446
+LaravelInstaller,RachidLaasri/LaravelInstaller,PHP,A web installer for Laravel 5.1,189,24,RachidLaasri,Rachid Laasri,User,"Morocco, Rabat",189
+teamwork,mpociot/teamwork,PHP,User to Team associations with invitation system for the Laravel 5 Framework,190,14,mpociot,Marcel Pociot,User,Germany,798
+flip,zeroedin-bill/flip,PHP,（╯°□°）╯︵┻━┻,189,7,zeroedin-bill,Bill Schaller,User,"Maryland, USA",189
+defender,artesaos/defender,PHP,Roles & Permissions for Laravel 5,186,49,artesaos,Artesãos,Organization,,380
+SC-API,mgp25/SC-API,PHP,PHP library of Snapchat’s private API,183,68,mgp25,mgp25,User,Spain,183
+phar-updater,padraic/phar-updater,PHP,A thing to make PHAR self-updates easy and secure,183,9,padraic,Pádraic Brady,User,Ireland,183
+halite,paragonie/halite,PHP,High-level cryptography interface powered by libsodium,184,9,paragonie,Paragon Initiative Enterprises,Organization,"Orlando, FL",1736
+pipeline,thephpleague/pipeline,PHP,League\Pipeline,179,15,thephpleague,The League of Extraordinary Packages,Organization,Worldwide,693
+random_compat,paragonie/random_compat,PHP,PHP 5.x support for random_bytes() and random_int(),179,19,paragonie,Paragon Initiative Enterprises,Organization,"Orlando, FL",1736
+laravel-url-signer,spatie/laravel-url-signer,PHP,Create and validate signed URLs with a limited lifetime,176,14,spatie,Spatie,Organization,"Antwerp, Belgium",2155
+sitemap,samdark/sitemap,PHP,Sitemap and sitemap index builder,177,18,samdark,Alexander Makarov,User,Russia,379
+php7mar,Alexia/php7mar,PHP,PHP 7 Migration Assistant Report (MAR),176,8,Alexia,Alexia E. Smith,User,,176
+movim,edhelas/movim,PHP,Movim - Kickass Social Network,177,27,edhelas,Jaussoin Timothée,User,Utrecht,177
+orm,laravel-doctrine/orm,PHP,A drop-in Doctrine ORM 2 implementation for Laravel 5+ and Lumen,175,24,laravel-doctrine,Laravel Doctrine,Organization,,175
+laravel-http-pushstream-broadcaster,cmosguy/laravel-http-pushstream-broadcaster,PHP,Laravel Broadcaster for the HTTP Pushstream Nginx Module,172,14,cmosguy,Adam Klein,User,"Bellevue, WA",172
+wordpress-fields-api,sc0ttkclark/wordpress-fields-api,PHP,Fields API proposal for WordPress Core (still in progress),170,20,sc0ttkclark,Scott Kingsley Clark,User,"Dallas, TX, USA",170
+MDLWP,braginteractive/MDLWP,PHP,Material Design Lite WordPress Theme,168,40,braginteractive,Brad Williams,User,Texas,168
+construct,jonathantorres/construct,PHP,PHP project/micro-package generator.,169,9,jonathantorres,Jonathan Torres,User,"Miami, FL",169
+laravel-responsecache,spatie/laravel-responsecache,PHP,Speed up a Laravel app by caching the entire response,169,7,spatie,Spatie,Organization,"Antwerp, Belgium",2155
+laravel-newsletter,spatie/laravel-newsletter,PHP,Manage newsletters in Laravel 5,168,12,spatie,Spatie,Organization,"Antwerp, Belgium",2155
+swivel,zumba/swivel,PHP,"Strategy driven, segmented feature toggles",165,2,zumba,Zumba,Organization,"Hallandale, FL",165
+morse,drewm/morse,PHP,A feature detection library for PHP code that needs to run in multiple different environments,163,2,drewm,Drew McLellan,User,"Bristol, UK",163
+reauthenticate,mpociot/reauthenticate,PHP,Reauthenticate users by letting them re-enter their passwords for specific parts of your app.,162,7,mpociot,Marcel Pociot,User,Germany,798
+container,thephpleague/container,PHP,Small but powerful dependency injection container,162,18,thephpleague,The League of Extraordinary Packages,Organization,Worldwide,693
+supee-6788-toolbox,rhoerr/supee-6788-toolbox,PHP,Analysis/fix tool for extension and customization conflicts resulting from the Magento SUPEE-6788 patch.,161,44,rhoerr,Ryan H.,User,"Lancaster, PA USA",161
+void,josephernest/void,PHP,Void is a blogging platform.,159,23,josephernest,,User,Orleans (France),159
+bamboo,elcodi/bamboo,PHP,"Meet Bamboo, an e-commerce project built on top of Elcodi and Symfony. Give us a star to support our project :)",156,38,elcodi,Elcodi,Organization,Internet - Universe,156
+psr7-middlewares,oscarotero/psr7-middlewares,PHP,Collection of PSR-7 middlewares,156,9,oscarotero,Oscar Otero,User,Galicia,156
+shortuuid,pascaldevink/shortuuid,PHP,"PHP 5.6+ library that generates concise, unambiguous, URL-safe UUIDs",156,7,pascaldevink,Pascal de Vink,User,Amsterdam,156
+expression,webmozart/expression,PHP,Implementation of the Specification pattern and logical expressions for PHP.,156,9,webmozart,Bernhard Schussek,User,"Vienna, Austria",294
+phpsa,ovr/phpsa,PHP,Static Analysis for PHP :bowtie::neckbeard:,156,4,ovr,Dmitry Patsura,User,"DC, Moscow",156
+LogViewer,ARCANEDEV/LogViewer,PHP,:page_with_curl: Provides a log viewer for Laravel 5,153,19,ARCANEDEV,ARCANEDEV,Organization,Morocco,153
+Tuli,ircmaxell/Tuli,PHP,A static analysis engine,153,3,ircmaxell,Anthony Ferrara,User,"New York, NY",446
+violin,alexgarrett/violin,PHP,"An easy to use, highly customisable PHP validator.",153,41,alexgarrett,Alex Garrett,User,London,153
+concurrent,icicleio/concurrent,PHP,Concurrency component for Icicle,152,4,icicleio,icicle.io,Organization,,152
+ApiManager,gongwalker/ApiManager,PHP,接口文档管理工具,152,92,gongwalker,wen.gong,User,,152
+Tech_Notes,startupjing/Tech_Notes,PHP,Technical Notes,151,612,startupjing,Jing Lu,User,"St.Louis,MO",151
+cms,sphido/cms,PHP,"A rocket fast, lightweight, flat file CMS for PHP",150,12,sphido,Sphido,Organization,,150
+laravel-caffeine,GeneaLabs/laravel-caffeine,PHP,Keeping Your Laravel Forms Awake,149,12,GeneaLabs,"GeneaLabs, LLC",Organization,"Los Angeles, CA, USA",149
+slim3-skeleton,akrabat/slim3-skeleton,PHP,Simple Slim Framework 3 skeleton with Twig & Monolog,148,30,akrabat,Rob Allen,User,"Worcester, UK",148
+PSR7Session,Ocramius/PSR7Session,PHP,:mailbox_with_mail: storage-less PSR-7 session support,146,12,Ocramius,Marco Pivetta,User,Frankfurt am Main,146
+notifyme,notifymehq/notifyme,PHP,[MAIN] Provides a common interface for notification services.,145,7,notifymehq,NotifyMe,Organization,,145
+MessageBus,SimpleBus/MessageBus,PHP,Generic classes and interfaces for messages and message buses. Full documentation can be found here:,145,23,SimpleBus,,Organization,,145
+graphql-php,webonyx/graphql-php,PHP,A PHP port of GraphQL reference implementation,145,17,webonyx,,Organization,,145
+html,StydeNet/html,PHP,Laravel package designed to generate common HTML components,143,24,StydeNet,Styde.net,Organization,Internet,143
+cronlingo,ajbdev/cronlingo,PHP,Express crontabs as human friendly phrases,142,7,ajbdev,,User,,142
+crud-generator,appzcoder/crud-generator,PHP,Laravel 5 CRUD Generator,141,56,appzcoder,AppzCoder,Organization,"Dhaka, Bangladesh",141
+Piwigo,Piwigo/Piwigo,PHP,Piwigo is a full featured open source photo gallery for the web. Star us on Github! More than 200 plugins and themes available. Translated in 50+ languages all over the world. Join us and contribute!,139,25,Piwigo,Piwigo,Organization,Worldwide,139
+php-functional,widmogrod/php-functional,PHP,"Functors, Applicative Functors and Monads in PHP",141,5,widmogrod,Gabriel Habryn,User,"Kraków, Poland",141
+wechat,thenbsp/wechat,PHP,微信第三方 SDK，包含网页授权、微信支付等。,139,61,thenbsp,thenbsp,User,China,139
+immutable.php,jkoudys/immutable.php,PHP,"Immutable collections, with filter, map, join, sort, slice, and other methods. Well-suited for functional programming and memory-intensive applications. Runs especially fast in PHP7.",141,6,jkoudys,Joshua Koudys,User,"Toronto, Ontario",141
+BaconPdf,Bacon/BaconPdf,PHP,BaconPdf is a powerful PDF library.,140,9,Bacon,Bacon,Organization,,140
+laravel,backup-manager/laravel,PHP,Driver to seamlessly integrate the Backup Manager into Laravel 4 and 5 applications.,138,39,backup-manager,Backup Manager,Organization,,138
+FastCGIDaemon,PHPFastCGI/FastCGIDaemon,PHP,A FastCGI daemon written in PHP.,137,2,PHPFastCGI,,Organization,,137
+console,webmozart/console,PHP,"A usable, beautiful and easily testable console toolkit written in PHP.",138,9,webmozart,Bernhard Schussek,User,"Vienna, Austria",294
+padawan.php,mkusher/padawan.php,PHP,php intelligent code completion http server,133,8,mkusher,Aleh Kashnikau,User,Minsk,133
+ElementAPI,pixelandtonic/ElementAPI,PHP,Create a JSON API for your elements in Craft.,133,8,pixelandtonic,Pixel & Tonic,Organization,/third_party/,133
+BetterReflection,Roave/BetterReflection,PHP,PHP's reflection API but without having to load the class,133,7,Roave,"Roave, LLC",Organization,"Earth, Solar System, Orion Arm, Milky Way, Local Group, Virgo Supercluster, The Universe ",362
+bootstrap-ui,FriendsOfCake/bootstrap-ui,PHP,Transparently use Twitter Bootstrap 3 with CakePHP 3,133,41,FriendsOfCake,Friends Of Cake,Organization,The global internet - #FriendsOfCake @ Freenode,133
+laravel-shop,amsgames/laravel-shop,PHP,Laravel shop package,131,30,amsgames,,User,,131
+Material-Design-Avatars,lincanbin/Material-Design-Avatars,PHP,Create material deisgn avatars for users just like Google Messager. It may not be unique but looks better than Identicon or Gravatar. ,130,31,lincanbin,Canbin Lin,User,"Chaozhou, Guangdong, China",256
+Relay.Relay,relayphp/Relay.Relay,PHP,A PSR-7 middleware dispatcher.,131,5,relayphp,Relay,Organization,,131
+route,thephpleague/route,PHP,Fast router and dispatcher built on top of FastRoute,130,28,thephpleague,The League of Extraordinary Packages,Organization,Worldwide,693
+onepager,themexpert/onepager,PHP,Onepage Theme/Website Builder for WordPress and Joomla,128,33,themexpert,ThemeXpert,Organization,"Dhaka, Bangladesh",128
+laravel-dot-env-gen,mathiasgrimm/laravel-dot-env-gen,PHP,generates a .env.gen file based on the existing project source code. Analises for not used .env variables and variables used that are not defined on the .env file,127,8,mathiasgrimm,Mathias Grimm,User,"Dublin, Ireland",127
+antVel,ant-vel/antVel,PHP,An Laravel eCommerce - Official Repository,127,18,ant-vel,Antvel eCommerce - Official Repository http://antvel.com,Organization,"Oklahoma City, OK",127
+roots-example-project.com,roots/roots-example-project.com,PHP,"Example project that uses Bedrock, Trellis, and Sage",127,53,roots,Roots,Organization,,127
+blender,spatie-custom/blender,PHP,The Laravel template used for (nearly) all our projects,122,8,spatie-custom,Spatie custom repositories,Organization,"Antwerp, Belgium",122
+phanbook,phanbook/phanbook,PHP,"A Q&A, CMS and Discussions PHP platform",123,29,phanbook,Phanbook,Organization,Vietnamese,123
+wxpay-php,biangbiang/wxpay-php,PHP,php项目基于微信支付JS SDK和JS API的接入开发,123,35,biangbiang,Uncle Biang,User,North,123
+Crawler-Detect,JayBizzle/Crawler-Detect,PHP,CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent,120,15,JayBizzle,Mark Beech,User,"York, UK",120
+doorman,asyncphp/doorman,PHP,Child process management,121,6,asyncphp,Async PHP,Organization,,121
+laravel-friendships,hootlex/laravel-friendships,PHP,This package gives Eloqent models the ability to manage their friendships.,121,3,hootlex,Alex,User,Greece,121
+lescript,analogic/lescript,PHP,Simplified PHP ACME client,120,6,analogic,,User,,120
+CMB2-Snippet-Library,WebDevStudios/CMB2-Snippet-Library,PHP,CMB2 Code Snippet Library,121,47,WebDevStudios,WebDevStudios,Organization,25% of the web,121
+incoming,Rican7/incoming,PHP,"Transform loose and complex input into consistent, strongly-typed data structures",120,3,Rican7,Trevor N. Suarez,User,"Boston, MA",120
+pusher,vinkla/pusher,PHP,A Pusher bridge for Laravel,120,11,vinkla,Vincent Klaiber,User,Sweden,828
+isitup-for-slack,mccreath/isitup-for-slack,PHP,Custom slash command to use isitup.org to check if a site is up from within Slack,119,23,mccreath,David McCreath,User,San Francisco,119
+AliyunOSS,johnlui/AliyunOSS,PHP,阿里云 OSS 官方 SDK 的 Composer 封装，支持任何 PHP 项目，包括 Laravel、Symfony、TinyLara 等等。,119,22,johnlui,JohnLui,User,"Beijing, China",4176
+polyfill,symfony/polyfill,PHP,PHP polyfills,119,11,symfony,Symfony,Organization,The Internet,403
+Transphporm,Level-2/Transphporm,PHP,Transformation Style Sheets - Revolutionising PHP templating,118,9,Level-2,Level 2,Organization,,118
+fiddler,beberlei/fiddler,PHP,Experimental embedded Composer for multiple packages in a single repository,119,9,beberlei,Benjamin Eberlei,User,Germany,119
+sweet-alert,uxweb/sweet-alert,PHP,A simple PHP package to show SweetAlerts with the Laravel Framework,117,13,uxweb,Uziel Bueno,User,,117
+phpstorm-stubs,JetBrains/phpstorm-stubs,PHP,PHP runtime & extensions header files for PhpStorm,116,66,JetBrains,JetBrains,Organization,"St.Petersburg, Munich, Moscow, Prague, Boston",116
+SQLMAP-Web-GUI,Hood3dRob1n/SQLMAP-Web-GUI,PHP,PHP Frontend to work with the SQLMAP JSON API Server (sqlmapapi.py) to allow for a Web GUI to drive near full functionality of SQLMAP!,116,53,Hood3dRob1n,,User,,116
+openflights,jpatokal/openflights,PHP,"Website for storing flight information, rendering paths on a zoomable world map and calculating statistics, with plenty of free airline, airport and route data.",115,46,jpatokal,Jani Patokallio,User,,115
+ownnote,Fmstrat/ownnote,PHP,Notes app for ownCloud,115,15,Fmstrat,,User,,115
+osu-web,ppy/osu-web,PHP,the future face of osu!,114,26,ppy,ppy,Organization,osu!,114
+composer-shared-package-plugin,Letudiant/composer-shared-package-plugin,PHP,:package: Composer plugin to share packages between projects with symlinks,114,4,Letudiant,L'Etudiant,Organization,Paris,114
+codestar-framework,Codestar/codestar-framework,PHP,A Lightweight and easy-to-use WordPress Options Framework,113,55,Codestar,Codestar,User,,113
+zend-stratigility,zendframework/zend-stratigility,PHP,Middleware for PHP built on top of PSR-7,113,20,zendframework,Zend Framework,Organization,,575
+Validator,particle-php/Validator,PHP,Particle\Validator is a validation library with an extremely clean API which makes validation fun!,114,15,particle-php,Particle,Organization,,114
+Symfony-Upgrade-Fixer,umpirsky/Symfony-Upgrade-Fixer,PHP,Analyzes your Symfony project and tries to make it compatible with the new version of Symfony framework.,114,5,umpirsky,Saša Stamenković,User,"Niš, Serbia",114
+ImagicalMine,ImagicalCorp/ImagicalMine,PHP,ImagicalMine. The server software for Minecraft : Pocket Edition that really is imagical.,110,73,ImagicalCorp,Imagical Corporation,Organization,"Planet Earth, Earth-Moon System, Solar System, Milky Way Galaxy, Local Group, Virgo Supercluster, Observable Universe.",110
+laravel-jsvalidation,proengsoft/laravel-jsvalidation,PHP,Laravel 5 Javascript Validation,111,18,proengsoft,Proengsoft,Organization,Barcelona,111
+tango,kwight/tango,PHP,A React-powered WordPress theme prototype.,109,10,kwight,Kirk Wight,User,"Vancouver, BC, Canadaa",109
+l5scaffold,laralib/l5scaffold,PHP,Scaffold generator for Laravel 5 with bootstrap 3,109,49,laralib,,Organization,,109
+annotations,LaravelCollec
