@@ -5013,4 +5013,142 @@ ImagicalMine,ImagicalCorp/ImagicalMine,PHP,ImagicalMine. The server software for
 laravel-jsvalidation,proengsoft/laravel-jsvalidation,PHP,Laravel 5 Javascript Validation,111,18,proengsoft,Proengsoft,Organization,Barcelona,111
 tango,kwight/tango,PHP,A React-powered WordPress theme prototype.,109,10,kwight,Kirk Wight,User,"Vancouver, BC, Canadaa",109
 l5scaffold,laralib/l5scaffold,PHP,Scaffold generator for Laravel 5 with bootstrap 3,109,49,laralib,,Organization,,109
-annotations,LaravelCollec
+annotations,LaravelCollective/annotations,PHP,Route and Event Annotations for the Laravel Framework,108,18,LaravelCollective,The Laravel Collective,Organization,,500
+laravel-gamp,irazasyed/laravel-gamp,PHP,Laravel 4/5 Google Analytics Measurement Protocol Package,108,6,irazasyed,Syed Irfaq R.,User,Bengaluru,332
+mpdf,mpdf/mpdf,PHP,"mPDF is a PHP class which generates PDF files from UTF-8 encoded HTML. It is based on FPDF and HTML2FPDF, with a number of enhancements.",108,57,mpdf,,Organization,,108
+laravelshoppingcart,darryldecode/laravelshoppingcart,PHP,Shopping Cart Implementation for Laravel Framework,108,36,darryldecode,darryl fernandez,User,"Davao City, Philippines",108
+laravel-paginateroute,spatie/laravel-paginateroute,PHP,Laravel router extension to easily use Laravel's paginator without the query string,108,10,spatie,Spatie,Organization,"Antwerp, Belgium",2155
+SocialCrumbs,ademilter/SocialCrumbs,PHP,:droplet: SocialCrumbs is a social activity feed theme for WordPress that works with ifttt recipes.,107,10,ademilter,Adem ilter,User,İstanbul,107
+yii2-flysystem,creocoder/yii2-flysystem,PHP,The Flysystem integration for the Yii framework.,107,18,creocoder,Alexander Kochetov,User,Russia,107
+magescan,steverobbins/magescan,PHP,Scan a Magento site for information,105,26,steverobbins,Steve Robbins,User,"Irvine, California",105
+scafold,bestmomo/scafold,PHP,To add scafold to Laravel 5.1,105,35,bestmomo,,User,,105
+KnpUGuard,knpuniversity/KnpUGuard,PHP,Simple and lovely Symfony authentication,104,6,knpuniversity,KnpUniversity: PHP Screencasts,Organization,,104
+crudkit,skyronic/crudkit,PHP,"Toolkit to quickly build powerful mobile-friendly CRUD (create/read/update/delete) interfaces for PHP, Laravel, and Codeigniter apps. Works with MySQL and other databases.",104,10,skyronic,Anirudh Sanjeev,User,"Bangalore, India",104
+httplug,php-http/httplug,PHP,"HTTPlug, the HTTP client abstraction for PHP",106,5,php-http,The PHP HTTP group,Organization,,106
+laravel5-angular-jwt,ttkalec/laravel5-angular-jwt,PHP,Simple Laravel 5/Angular app that shows how to use the most basic JWT authentication,104,37,ttkalec,Tino Tkalec,User,Zagreb,104
+vault,rappasoft/vault,PHP,Roles & Permissions for the Laravel 5 Framework,104,9,rappasoft,Anthony Rappa,User,New York,893
+zhihuSpider,HectorHu/zhihuSpider,PHP,A zhihu Spider.Just for fun.,102,49,HectorHu,Hector Hu,User,,102
+hubzilla,redmatrix/hubzilla,PHP,build community websites that can interact with one another,100,26,redmatrix,redmatrix,User,,100
+rememberable,dwightwatson/rememberable,PHP,Query caching for Laravel 5,102,11,dwightwatson,Dwight Watson,User,"Sydney, Australia",102
+8-cms,volter9/8-cms,PHP,:8ball: Behold! The most fast and lightweight PHP CMS you've ever seen in 8 lines of code,103,11,volter9,,User,,103
+php-crud-api,mevdschee/php-crud-api,PHP,Single file PHP script that adds a REST API to a SQL database,101,35,mevdschee,Maurits van der Schee,User,Amsterdam,101
+Alipay,Latrell/Alipay,PHP,支付宝SDK在Laravel5的封装。,100,22,Latrell,Latrell Chan,User,,100
+captainhook,mpociot/captainhook,PHP,"Add Webhooks to your Laravel app, arrr",102,4,mpociot,Marcel Pociot,User,Germany,798
+inventory,stevebauman/inventory,PHP,Inventory Management for Laravel 4 / 5,102,22,stevebauman,Steve Bauman,User,"ON, Canada",102
+Behat-Laravel-Extension,laracasts/Behat-Laravel-Extension,PHP,Laravel extension for Behat functional testing.,102,23,laracasts,Laracasts,User,"Chattanooga, TN",1211
+mydrinks,norzechowicz/mydrinks,PHP,4 layer architecture example in #php by @norzechowicz,101,10,norzechowicz,Norbert Orzechowicz,User,Kraków,101
+reanimate,mpociot/reanimate,PHP,Easily add an 'undo' option to your Laravel application,101,5,mpociot,Marcel Pociot,User,Germany,798
+timber-starter-theme,Upstatement/timber-starter-theme,PHP,The '_s' for Timber: a dead-simple theme that you can build from,100,30,Upstatement,Upstatement,Organization,"Boston, MA",100
+Stauros,ircmaxell/Stauros,PHP,A fast XSS sanitization library for PHP,100,5,ircmaxell,Anthony Ferrara,User,"New York, NY",446
+phpqa,jmolivas/phpqa,PHP,PHPQA all-in-one Analyzer CLI tool,100,14,jmolivas,Jesus Manuel Olivas,User,"El Centro CA, USA / Mexicali BC, Mexico ",100
+facebook-anonymous-publisher,kxgen/facebook-anonymous-publisher,PHP,A real-time anonymous publishing application for Facebook pages.,100,12,kxgen,KANGXI,User,127.0.0.1,100
+material-design-lite,google/material-design-lite,HTML,Material Design Lite Components in HTML/CSS/JS,17168,2524,google,Google,Organization,,70104
+Hack,chrissimpkins/Hack,HTML,A typeface designed for source code,7204,214,chrissimpkins,Chris Simpkins,User,,10012
+fonts,google/fonts,HTML,Font files available from Google Fonts,5512,640,google,Google,Organization,,70104
+UpUp,TalAter/UpUp,HTML,:airplane: Kickstarting the Offline-First Revolution,3340,137,TalAter,Tal Ater,User,,3340
+CSSgram,una/CSSgram,HTML,CSS library for Instagram filters,3185,180,una,Una Kravets,User,"Austin, TX",3308
+gson,google/gson,HTML,A Java serialization library that can convert Java Objects into JSON and back.,2697,638,google,Google,Organization,,70104
+streama,dularion/streama,HTML,"It's like Netflix, but self-hosted! http://dularion.github.io/streama/",2557,141,dularion,Antonia Hulha,User,Sweden,2557
+styleguide,google/styleguide,HTML,Style guides for Google-originated open-source projects,2543,644,google,Google,Organization,,70104
+github-corners,tholman/github-corners,HTML,'Fork me on GitHub' ribbons are 7 years old. This is a cleaner alternative.,2376,67,tholman,Tim Holman,User,"NYC, for the most part.",6993
+editor,codeinthedark/editor,HTML,The official Code in the Dark editor,2127,485,codeinthedark,Code in the Dark,Organization,Tictail HQ,2382
+webrtc-ips,diafygi/webrtc-ips,HTML,Demo: https://diafygi.github.io/webrtc-ips/,1884,254,diafygi,Daniel Roesler,User,"Oakland, CA",5657
+samurai-native,hackers-painters/samurai-native,HTML,Bring web standards to native platform,1850,277,hackers-painters,Hackers and Painters,Organization,,1850
+polymer-starter-kit,PolymerElements/polymer-starter-kit,HTML,A starting point for Polymer 1.0 apps,1820,455,PolymerElements,,Organization,,2025
+react-native-lesson,vczero/react-native-lesson,HTML,React-Native入门指南,1264,271,vczero,vczero,User,"Shanghai,China",1457
+es6-features,rse/es6-features,HTML,ECMAScript 6: Feature Overview & Comparison,1253,140,rse,Ralf S. Engelschall,User,Germany,1253
+material,Daemonite/material,HTML,HTML5 UI design based on Google Material,1228,386,Daemonite,Daemon Internet Consultants,Organization,"Sydney, Australia",1228
+flat-color-icons,icons8/flat-color-icons,HTML,Free Flat Color Icons,1222,149,icons8,Icons8,Organization,,1563
+illacceptanything,illacceptanything/illacceptanything,HTML,The project where literally anything* goes. See also https://github.com/illacceptanything/illacceptanything.github.io,1165,551,illacceptanything,I'll Accept Anything,Organization,,1165
+LayerVisualizer,romannurik/LayerVisualizer,HTML,A simple web-based 3D layer visualizer (useful for visualizing material UIs and other things involving depth/shadows),1141,65,romannurik,Roman Nurik,User,"New York, NY",1668
+awesome-angular2,AngularClass/awesome-angular2,HTML,A curated list of awesome Angular 2 resources by @AngularClass,810,70,AngularClass,AngularClass,Organization,"San Francisco, CA",2510
+ResponsifyJS,wentin/ResponsifyJS,HTML,"A jquery plugin that makes images truly responsive, without sacrificing anyone's face. Give it more stars!",784,40,wentin,Wenting Zhang,User,New York City,927
+qark,linkedin/qark,HTML,Tool to look for several security related Android application vulnerabilities,787,132,linkedin,LinkedIn,Organization,"Mountain View, CA, USA",2299
+gentelella,kimlabs/gentelella,HTML,admin template,781,364,kimlabs,,Organization,,781
+github-roam,phodal/github-roam,HTML,GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest.,762,142,phodal,Fengda Huang,User,Xiamen China,2292
+gridly,IonicaBizau/gridly,HTML,:zap: The minimal (~100-170 bytes) grid system for modern browsers.,729,46,IonicaBizau,Ionică Bizău,User,Romania,4581
+platform,unisonweb/platform,HTML,"Next generation programming platform, currently in development",724,19,unisonweb,Unison,Organization,,724
+IntelliJ-IDEA-Tutorial,judasn/IntelliJ-IDEA-Tutorial,HTML,IntelliJ IDEA 简体中文专题教程,657,132,judasn,Judas.n,User,,657
+awesome-resources,lyfeyaj/awesome-resources,HTML,"Awesome resources for coding and learning: open source projects, websites, books e.g.",631,210,lyfeyaj,lyfeyaj,User,......,631
+walle-web,meolu/walle-web,HTML,A Web Deployment Tool (web代码部署工具),631,253,meolu,huamanshu,User,,773
+melody-jsnes,olahol/melody-jsnes,HTML,:tv: Multiplayer NES through the magic of WebSockets and Go.,629,33,olahol,Ola Holmström,User,"Göteborg, Sweden",999
+Android-Ptr-Comparison,desmond1121/Android-Ptr-Comparison,HTML,Performance comparison of android 'pull to refresh' repos in github.,601,82,desmond1121,Desmond Yao,User,"Shanghai, China",885
+marketch,tudou527/marketch,HTML,Marketch is a Sketch 3 plug-in for automatically generating html page that can measure and get CSS styles on it.,570,57,tudou527,tudou527,User,HZ,570
+gridlex,devlint/gridlex,HTML,Just a CSS Flexbox Grid System,559,36,devlint,Laurent G.,User,Lyon,559
+cs231n.github.io,cs231n/cs231n.github.io,HTML,Public facing notes page,549,258,cs231n,,Organization,,549
+paper-now,PeerJ/paper-now,HTML,"Create, edit and display a journal article, entirely in GitHub",530,68,PeerJ,PeerJ,Organization,London and San Francisco,530
+dom-animator,tholman/dom-animator,HTML,"A nifty javascript library to run animations, hidden in comment nodes, within the dom.",528,45,tholman,Tim Holman,User,"NYC, for the most part.",6993
+sharelock,auth0/sharelock,HTML,Securely share data,521,34,auth0,Auth0,Organization,Seattle,1074
+Rich-Hickey-fanclub,tallesl/Rich-Hickey-fanclub,HTML,'every time I watch one of his talks I feel like someone has gone in and organized my brain',511,15,tallesl,Talles L,User,"Belo Horizonte, Brazil",511
+conferences,AndroidStudyGroup/conferences,HTML,A community-curated list of conferences around the world for Android developers.,505,58,AndroidStudyGroup,Android Study Group,Organization,United States,505
+cayman-theme,jasonlong/cayman-theme,HTML,A responsive theme for GitHub Pages,473,46,jasonlong,Jason Long,User,"Columbus, Ohio",473
+sb-admin-angular,start-angular/sb-admin-angular,HTML,Starter template / theme for AngularJS Dashboard Apps,476,257,start-angular,,Organization,,476
+FEND_Note,li-xinyang/FEND_Note,HTML,Front-end Development Notebook From Start to Finish!  (Simplified Chinese),453,169,li-xinyang,Li Xinyang,User,Singapore,453
+readremaining.js,Aerolab/readremaining.js,HTML,Tell your readers how long they'll need to get through all of your gibberish,449,36,Aerolab,Aerolab,Organization,"Buenos Aires, Argentina",909
+ng2do,davideast/ng2do,HTML,,442,115,davideast,David East,User,"San Francisco, CA",442
+Front-End-Style-Guide,Aaaaaashu/Front-End-Style-Guide,HTML,一份全面的前端开发规范手册,437,82,Aaaaaashu,阿树,User,"Hangzhou, China",437
+skill-map,TeamStuQ/skill-map,HTML,StuQ 技能图谱,412,99,TeamStuQ,,Organization,,412
+paradeiser,lucidlemon/paradeiser,HTML,small and sleek mobile navigation,387,33,lucidlemon,Daniel Winter,User,Austria,387
+writ,programble/writ,HTML,"Opinionated, classless styles for semantic HTML",399,12,programble,Curtis McEnroe,User,"Montreal, Canada",399
+HTTPLeaks,cure53/HTTPLeaks,HTML,"HTTPLeaks - All possible ways, a website can leak HTTP requests",394,31,cure53,Cure53,User,Berlin,394
+ProjectOxford-ClientSDK,Microsoft/ProjectOxford-ClientSDK,HTML,The official home for the Microsoft Project Oxford client SDK and samples,383,129,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+lua53doc,cloudwu/lua53doc,HTML,The Chinese Translation of Lua 5.3 document,382,138,cloudwu,云风,User,China,1250
+keyczar,google/keyczar,HTML,Easy-to-use crypto toolkit,377,46,google,Google,Organization,,70104
+jquery-drawsvg,lcdsantos/jquery-drawsvg,HTML,"Lightweight, simple to use jQuery plugin to animate SVG paths",365,59,lcdsantos,Leonardo Santos,User,Porto Alegre,365
+webcrypto-examples,diafygi/webcrypto-examples,HTML,Web Cryptography API Examples Demo: https://diafygi.github.io/webcrypto-examples/,360,34,diafygi,Daniel Roesler,User,"Oakland, CA",5657
+ImageTiltEffect,codrops/ImageTiltEffect,HTML,A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background image in order to create a subtle motion or depth effect.,359,62,codrops,Codrops,Organization,,3303
+zhihu-py3,7sDream/zhihu-py3,HTML,"Zhihu UNOFFICIAL API library in python3, with help of bs4, lxml, requests and html2text.",353,136,7sDream,7sDream,User,"TianJin, China",353
+15minGit,Mark24Code/15minGit,HTML,15分钟学会Git,358,53,Mark24Code,_Mark24_,User,China,358
+konmik.github.io,konmik/konmik.github.io,HTML,Android development blog,347,26,konmik,Konstantin Mikheev,User,Russia,519
+tabbie,jariz/tabbie,HTML,"A material, customizable, and hackable new tab extension",343,57,jariz,Jari Zwarts,User,"Amsterdam, The Netherlands",4217
+Sming,SmingHub/Sming,HTML,Sming - Open Source framework for high efficiency native ESP8266 development,332,138,SmingHub,,Organization,,332
+quick-select,eggboxio/quick-select,HTML,A jQuery plugin for quick selection of common options in select boxes. Selectual.,338,26,eggboxio,Will Stone,User,,338
+tutorials,addfor/tutorials,HTML,,337,96,addfor,,Organization,,337
+ai2html,newsdev/ai2html,HTML,A script for Adobe Illustrator that converts your Illustrator artwork into an html page.,333,28,newsdev,NYT Newsroom Developers,Organization,"New York, NY",333
+shade,jxnblk/shade,HTML,Gradient explorer,332,36,jxnblk,Brent Jackson,User,New York City,1071
+colorable,jxnblk/colorable,HTML,Color combination contrast tester,320,24,jxnblk,Brent Jackson,User,New York City,1071
+snapdrop,capira12/snapdrop,HTML,A HTML5 clone of Apple's AirDrop,307,27,capira12,RobinLinus,User,,307
+highlighter.js,720kb/highlighter.js,HTML,Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/,314,16,720kb,720kb,Organization,,468
+Honoka,windyakin/Honoka,HTML,Honoka is one of the original Bootstrap theme.,311,27,windyakin,Takuto Kanzaki,User,,311
+MediumLightbox,davidecalignano/MediumLightbox,HTML,"Nice and elegant way to add zooming functionality for images, inspired by medium.com",305,26,davidecalignano,Davide Calignano,User,Berlin,305
+DataScienceSpCourseNotes,sux13/DataScienceSpCourseNotes,HTML,Compiled Notes for all 9 courses in the Coursera Data Science Specialization,300,1703,sux13,Xing Su,User,United States,300
+Championify,dustinblackman/Championify,HTML,Import recent item sets from Champion.gg or Lolflavor in to League of Legends to use within game! No hassle.,294,45,dustinblackman,Dustin Blackman,User,"Montreal, QC, Canada",294
+offline-wikipedia,jakearchibald/offline-wikipedia,HTML,Demo of how something like Wikipedia could be offline-first,288,15,jakearchibald,Jake Archibald,User,,457
+i,e-government-ua/i,HTML,iGov.org.ua - Основной репозиторий,285,103,e-government-ua,e-government for Ukraine,Organization,Ukraine,285
+Email-Framework,g13nn/Email-Framework,HTML,Responsive HTML Email Framework,274,42,g13nn,Glenn Smith,User,"Surrey, United Kingdom",274
+akka-http-microservice,theiterators/akka-http-microservice,HTML,Example of (micro)service written in Scala & akka-http,270,59,theiterators,Iterators,Organization,"Warsaw, Poland",270
+TheJavaScriptEncyclopedia,douglascrockford/TheJavaScriptEncyclopedia,HTML,The JavaScript Encyclopedia,262,17,douglascrockford,Douglas Crockford,User,,262
+gaohaoyang.github.io,Gaohaoyang/gaohaoyang.github.io,HTML,blog,259,72,Gaohaoyang,浩阳,User,Xi'an China,259
+angular-dragula,bevacqua/angular-dragula,HTML,:ok_hand: Drag and drop so simple it hurts,252,27,bevacqua,Nicolás Bevacqua,User,https://twitter.com/nzgb,20409
+react-flux-concepts,FormidableLabs/react-flux-concepts,HTML,Step by step building the recipe app in react & flux.,251,135,FormidableLabs,Formidable,Organization,"Seattle, WA",5716
+conic-gradient,LeaVerou/conic-gradient,HTML,Polyfill for conic-gradient() and repeating-conic-gradient(),249,29,LeaVerou,Lea Verou,User,"Cambridge, MA",6767
+AnimatedGridLayout,codrops/AnimatedGridLayout,HTML,"A responsive, magazine-like website layout with a grid item animation effect when opening the content",248,67,codrops,Codrops,Organization,,3303
+codelf,unbug/codelf,HTML,"Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project to find real-world usage variable names",235,20,unbug,Unbug Lee,User,,581
+rubyomr-preview,rubyomr-preview/rubyomr-preview,HTML,Ruby+OMR Technology Preview,244,13,rubyomr-preview,,Organization,,244
+Python-Pedia,Parbhat/Python-Pedia,HTML,One Stop for Python Programming Resources. It's all about Python.,244,62,Parbhat,Parbhat Puri,User,"Kurukshetra, India",244
+sassc-rails,sass/sassc-rails,HTML,Integrate SassC-Ruby with Rails!,237,17,sass,Sass,Organization,,237
+light-bootstrap-dashboard,timcreative/light-bootstrap-dashboard,HTML,Light Bootstrap Dashboard is an admin dashboard template designed to be beautiful and simple. ,232,36,timcreative,Creative Tim,User,Bucharest,232
+four,allotrop3/four,HTML,Four: WebGL made easier -,228,5,allotrop3,Jason Petersen,User,London,228
+readability,mozilla/readability,HTML,A standalone version of the readability lib,226,45,mozilla,Mozilla,Organization,"Mountain View, California",1905
+tiny-twitch,omnus/tiny-twitch,HTML,A tiny html/javascript game whose source code fits in one tweet!,223,39,omnus,Alex Yoder,User,Indianapolis,223
+badssl.com,lgarron/badssl.com,HTML,:lock: Memorable site for testing clients against bad SSL configs.,219,22,lgarron,Lucas Garron,User,Mountain View,219
+Sreg,n0tr00t/Sreg,HTML,Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。,213,121,n0tr00t,n0tr00t security team,Organization,China,333
+newscombinator,tomw1808/newscombinator,HTML,This repository is the open-source newscombinator.,213,13,tomw1808,Thomas Wiesner,User,,213
+address-spoofing-poc,musalbas/address-spoofing-poc,HTML,Chrome address spoofing vulnerability proof-of-concept for HTTPS. (Original by David Leo.),211,32,musalbas,Mustafa Al-Bassam,User,"London, UK",211
+glyph-iconset,frexy/glyph-iconset,HTML,A minimal SVG icon set for modern web,207,9,frexy,Frexy,Organization,,207
+InteractiveColoringConcept,codrops/InteractiveColoringConcept,HTML,A fun experimental coloring concept where a color droplet can be dragged from a palette and dropped on designated areas in a website mockup. ,207,48,codrops,Codrops,Organization,,3303
+app-layout-templates,PolymerElements/app-layout-templates,HTML,Provides some basic application layout templates,205,65,PolymerElements,,Organization,,2025
+didiShit,jinlong/didiShit,HTML,网络最火的O2O应用，价值100亿美刀的滴滴拉屎APP源码。,204,111,jinlong,Alon,User,Beijing,204
+lambda-chat,cloudnative/lambda-chat,HTML,"A chat application without servers - using only AWS Lambda, S3, DynamoDB and SNS",204,29,cloudnative,CloudNative,Organization,,204
+mqtt,mcxiaoke/mqtt,HTML,MQTT 3.1.1 Protocol Chinese Translation,201,50,mcxiaoke,Xiaoke Zhang,User,"Beijing, China",1085
+fusile,Munter/fusile,HTML,A web asset precompiling file system proxy.,202,5,Munter,Peter Müller,User,"Copenhagen, Denmark",202
+pageResponse,peunzhang/pageResponse,HTML,移动端响应式框架,200,87,peunzhang,白树,User,shenzhen,200
+repractise,phodal/repractise,HTML,RePractise,193,22,phodal,Fengda Huang,User,Xiamen China,2292
+csssans,yusugomori/csssans,HTML,"CSS SANS is the font created by CSS, the programming language for web designing and typesetting.",199,22,yusugomori,Yusuke Sugomori,User,Japan,199
+Emacs-Elisp-Programming,caiorss/Emacs-Elisp-Programming,HTML,Tutorial about programming Elisp and Emacs text editor customization.,199,19,caiorss,Caio Rordrigues,User,"Recife, Brazil",2086
+CreativeGooeyEffects,codrops/CreativeGooeyEffects,HTML,Practical examples of how to apply the Gooey effect by Lucas Bebber,196,32,codrops,Codrops,Organization,,3303
+deep-framework,MitocGroup/deep-framework,HTML,Serverless Web Framework for Cloud-Native Applications and Platforms using Microservices Architecture,194,20,MitocGroup,Mitoc Group Inc,Organization,Woodcliff Lake NJ,194
+ariabones,iandevlin/ariabones,HTML,Simplifying WAI-ARIA,195,10,iandevlin,Ian Devlin,User,"Düsseldorf, Germany",195
+bootstrap-material-datetimepicker,T00rk/bootstrap-material-datetimepicker,HTML,Datepicker for bootstrap-material,193,59,T00rk,T00rk,User,,193
+infinite-monkeys,thomshutt/infinite-monkeys,HTML,Pooling the wisdom of Hacker News,193,6,thomshutt,,User,,193
+huxpro.github.io,H
