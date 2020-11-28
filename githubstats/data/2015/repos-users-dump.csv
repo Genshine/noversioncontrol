@@ -5420,4 +5420,143 @@ https,GSA/https,CSS,"The HTTPS-Only Standard for federal domains (M-13-13), and 
 android-gitbook,yongjhih/android-gitbook,CSS,,104,19,yongjhih,Andrew Chen,User,"Taipei, Taiwan",251
 colofilter.css,LukyVj/colofilter.css,CSS,Colofilter.css - Duotone filters made with CSS ! ,103,9,LukyVj,Lucas Bonomi,User,Paris,754
 pidcodes.github.com,pidcodes/pidcodes.github.com,CSS,Website for pid.codes,103,192,pidcodes,,Organization,,103
-angular-morris-chart,stewones/angular-morris-chart,CSS,:coffee: wrapper of morris.js for angular 1.x,102,37,stewones,Stewan P.,User,"
+angular-morris-chart,stewones/angular-morris-chart,CSS,:coffee: wrapper of morris.js for angular 1.x,102,37,stewones,Stewan P.,User,"Vila Velha, Brazil",102
+pySecurity,smartFlash/pySecurity,CSS,Python tutorials,101,78,smartFlash,,Organization,,101
+evopop-gtk-theme,solus-cold-storage/evopop-gtk-theme,CSS,[NOT MAINTAINED] Gtk theme for Solus Project & Budgie Desktop,101,15,solus-cold-storage,,Organization,,101
+Wiki-in-box,dmscode/Wiki-in-box,CSS,一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统，可以用来方便的管理自己的知识碎片。欢迎各种支持,101,35,dmscode,稻米鼠,User,,101
+TextStylesHoverEffects,codrops/TextStylesHoverEffects,CSS,A couple of creative text styles and hover effects for your inspiration. Some effects use experimental techniques including SVG masking and Canvas.,101,16,codrops,Codrops,Organization,,3303
+Static-Site-Samples,remotesynth/Static-Site-Samples,CSS,A collection of simple sites built with various static site engines,101,20,remotesynth,Brian Rinaldi,User,"Boston, MA",101
+Beans,Getbeans/Beans,CSS,Beans WordPress Theme Framework,100,16,Getbeans,Beans,Organization,Word Wild Web,100
+angular-resizable,Reklino/angular-resizable,CSS,A lightweight directive for creating resizable containers.,100,29,Reklino,Jacob,User,,100
+rails-webpack-react-flux,nambrot/rails-webpack-react-flux,CSS,A Sample CRUD app in Rails/Webpack/React/Flux with server side rendering,100,7,nambrot,Nam Chu Hoai,User,Boston,100
+gcm-playground,googlesamples/gcm-playground,CSS,,100,20,googlesamples,Google Samples,Organization,,13082
+tufte-jekyll,clayh53/tufte-jekyll,CSS,Minimal Jekyll blog styled to resemble the look and layout of Edward Tufte's books,100,51,clayh53,Clay H,User,,100
+engineering-blogs,kilimchoi/engineering-blogs,Ruby,A curated list of engineering blogs,7187,747,kilimchoi,Kilim Choi,User,,7187
+awesome-react-native,jondot/awesome-react-native,Ruby,"An 'awesome' type curated list of React Native components, news, tools, and learning material",2312,236,jondot,Dotan J. Nahum,User,"Tel Aviv, Israel",2965
+administrate,thoughtbot/administrate,Ruby,A Rails engine that helps you put together a super-flexible admin dashboard.,2001,129,thoughtbot,"thoughtbot, inc.",Organization,"USA, London, Stockholm ",5368
+objc-zen-book-cn,oa414/objc-zen-book-cn,Ruby,ObjC Zen Book 中文翻译,1790,406,oa414,Lin Xiangyu,User,"NanJing, Jiangsu, China",1790
+best-ruby,franzejr/best-ruby,Ruby,"Ruby Tricks, Idiomatic Ruby, Refactorings and Best Practices",1712,125,franzejr,Franzé Jr.,User,,1712
+gitrob,michenriksen/gitrob,Ruby,Reconnaissance tool for GitHub organizations,1108,133,michenriksen,Michael Henriksen,User,"Berlin, Germany",1108
+FlagKit,madebybowtie/FlagKit,Ruby,Beautiful flag icons for usage in apps and on the web.,1034,51,madebybowtie,Bowtie,Organization,"Stockholm, Sweden",1034
+BooJS,sotownsend/BooJS,Ruby,Unix swiss army knife for headless browser javascript,870,23,sotownsend,Seo Townsend,User,"Tampa, FL",870
+Spina,denkGroot/Spina,Ruby,Spina CMS,735,91,denkGroot,,Organization,,735
+bettercap,evilsocket/bettercap,Ruby,"A complete, modular, portable and easily extensible MITM framework.",724,102,evilsocket,Simone Margaritelli,User,"Rome, Italy",724
+ruby-patterns,TheBlasfem/ruby-patterns,Ruby,Examples of Patterns in Ruby,703,57,TheBlasfem,Julio López Montalvo,User,"Lima, Perú",703
+spaceship,fastlane/spaceship,Ruby,Ruby library to access the Apple Dev Center and iTunes Connect,644,85,fastlane,fastlane,Organization,,3488
+rails_db,igorkasyanchuk/rails_db,Ruby,Rails Database Viewer and SQL Query Runner,639,35,igorkasyanchuk,Igor Kasyanchuk,User,Ivano-Frankivsk (Ukraine),639
+gym,fastlane/gym,Ruby,Building your iOS apps has never been easier,601,47,fastlane,fastlane,Organization,,3488
+codeclimate,codeclimate/codeclimate,Ruby,Code Climate CLI,588,51,codeclimate,Code Climate,Organization,New York City,588
+solidus,solidusio/solidus,Ruby,"Solidus, Rails eCommerce System",570,135,solidusio,,Organization,,570
+github-awards,vdaubry/github-awards,Ruby,Discover your ranking on github :,575,53,vdaubry,vincent daubry,User,Paris,575
+shrine,janko-m/shrine,Ruby,File upload toolkit for Ruby,567,16,janko-m,Janko Marohnić,User,"Zagreb, Croatia",668
+pretty_backtrace,ko1/pretty_backtrace,Ruby,Pretty your exception backtrace.,557,20,ko1,Koichi Sasada,User,"Tokyo, Japan",557
+react_on_rails,shakacode/react_on_rails,Ruby,Integration of React + Webpack + Rails to build Universal (Isomorphic) Apps,548,47,shakacode,Shaka Code,Organization,"Maui, Hawaii, USA",548
+ruby-fighter,MadRabbit/ruby-fighter,Ruby,Street Fighter II in Ruby!,543,51,MadRabbit,Nikolay Nemshilov,User,"Sydney, Australia",675
+Portus,SUSE/Portus,Ruby,Authorization service and frontend for Docker registry (v2),520,72,SUSE,SUSE,Organization,,520
+graphql-ruby,rmosolgo/graphql-ruby,Ruby,Ruby implementation of Facebook's GraphQL ,517,41,rmosolgo,Robert Mosolgo,User,"Carlsbad, CA",517
+dryrun,cesarferreira/dryrun,Ruby,:coffee: Try the demo project of any Android Library,518,43,cesarferreira,César Ferreira,User,Lisbon,2122
+kontena,kontena/kontena,Ruby,"Container platform built to maximize developer happiness. Works on any cloud, easy to setup, simple to use.",515,31,kontena,"Kontena, Inc",Organization,,515
+gulp-rails-pipeline,vigetlabs/gulp-rails-pipeline,Ruby,Ditch the Rails Asset Pipeline and roll your own with Gulp,508,55,vigetlabs,Viget Labs,Organization,"Falls Church, VA / Durham, NC / Boulder, CO",629
+awesome-geek-podcasts,guipdutra/awesome-geek-podcasts,Ruby,A curated list of podcasts we like to listen to. ,499,85,guipdutra,Guilherme Dutra,User,Belo Horizonte / Brazil,499
+fasterer,DamirSvrtan/fasterer,Ruby,Don't make your Rubies go fast. Make them go fasterer ™.,498,22,DamirSvrtan,,User,Zagreb,498
+git-game,jsomers/git-game,Ruby,The git committer guessing game!,437,26,jsomers,James Somers,User,"New York, NY",437
+xcode-install,neonichu/xcode-install,Ruby,Install and update your Xcodes.,431,33,neonichu,Boris Bügling,User,"Berlin, Germany",1957
+react.rb,zetachang/react.rb,Ruby,Opal Ruby wrapper of React.js library.,427,30,zetachang,David Chang,User,"Taipei, Taiwan",772
+the-ultimate-guide-to-ruby-timeouts,ankane/the-ultimate-guide-to-ruby-timeouts,Ruby,:clock4:,408,16,ankane,Andrew Kane,User,"San Francisco, CA",567
+polo,IFTTT/polo,Ruby,Polo travels through your database and creates sample snapshots so you can work with real world data in development.,380,14,IFTTT,IFTTT,Organization,San Francisco,5448
+airbrussh,mattbrictson/airbrussh,Ruby,Airbrussh pretties up your SSHKit and Capistrano output,372,8,mattbrictson,Matt Brictson,User,San Francisco,488
+md2key,k0kubun/md2key,Ruby,Convert markdown to keynote,365,8,k0kubun,Takashi Kokubun,User,"Tokyo, Japan",771
+crono,plashchynski/crono,Ruby,A time-based background job scheduler daemon (just like Cron) for Rails,361,17,plashchynski,Dzmitry Plashchynski,User,"Tel Aviv, Israel",361
+openhunt,OpenHunting/openhunt,Ruby,"discover new products, give feedback, help each other",360,38,OpenHunting,Open Hunt,Organization,"San Francisco, CA",360
+fit-commit,m1foley/fit-commit,Ruby,A Git hook to validate your commit messages based on community standards.,352,10,m1foley,Mike Foley,User,"San Francisco, CA",352
+rcon,matsumoto-r/rcon,Ruby,rcon is a lightweight resource virtualization tool for linux processes. This is one-binary.,347,12,matsumoto-r,"MATSUMOTO, Ryosuke",User,"Fukuoka, Japan.",347
+opal-native,zetachang/opal-native,Ruby,React Native in Ruby,345,10,zetachang,David Chang,User,"Taipei, Taiwan",772
+stations,captaintrain/stations,Ruby,List of stations and associated metadata,340,21,captaintrain,Captain Train,Organization,"Paris, France",340
+gem-shut-the-fuck-up,tpope/gem-shut-the-fuck-up,Ruby,Gem SHUT THE FUCK UP,321,8,tpope,Tim Pope,User,"Brooklyn, NY",474
+itc-api-docs,fastlane/itc-api-docs,Ruby,The unofficial documentation of the iTunes Connect JSON API,316,12,fastlane,fastlane,Organization,,3488
+bulk_insert,jamis/bulk_insert,Ruby,Efficient bulk inserts with ActiveRecord,315,8,jamis,Jamis Buck,User,"Smithfield, Utah, USA",315
+sidekiq-statistic,davydovanton/sidekiq-statistic,Ruby,See statistic about your workers,305,18,davydovanton,Anton Davydov,User,"Moscow, Russia",305
+hamlit,k0kubun/hamlit,Ruby,High Performance Haml Implementation,304,8,k0kubun,Takashi Kokubun,User,"Tokyo, Japan",771
+ruby-push-notifications,calonso/ruby-push-notifications,Ruby,"iOS, Android and Windows Phone Push Notifications made easy!!",302,11,calonso,Carlos Alonso,User,"London, UK",302
+classroom,education/classroom,Ruby,"Classroom for GitHub automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.",300,48,education,GitHub Education,Organization,,300
+video_transcoding,donmelton/video_transcoding,Ruby,"Tools to transcode, inspect and convert videos.",295,19,donmelton,Don Melton,User,The Republic of California,295
+consul,consul/consul,Ruby,Consul - Open Government and E-Participation Web Software,295,113,consul,,Organization,,295
+knock,nsarno/knock,Ruby,Seamless JWT authentication for Rails API,289,17,nsarno,Arnaud Mesureur,User,"Melbourne, Australia",289
+match,fastlane/match,Ruby,Easily sync your certificates and profiles across your team using git,287,19,fastlane,fastlane,Organization,,3488
+terraforming,dtan4/terraforming,Ruby,"Export existing AWS resources to Terraform style (tf, tfstate)",280,37,dtan4,Daisuke Fujita,User,"Tokyo, Japan",280
+boarding,fastlane/boarding,Ruby,Instantly create a simple signup page for TestFlight beta testers,281,41,fastlane,fastlane,Organization,,3488
+csv-importer,BrewhouseTeam/csv-importer,Ruby,CSV Import for humans on Ruby / Ruby on Rails,275,13,BrewhouseTeam,Brewhouse,Organization,"Vancouver, Canada",275
+ttnt,Genki-S/ttnt,Ruby,"Test This, Not That! (Google Summer of Code 2015 project under Ruby on Rails)",271,7,Genki-S,Genki Sugimoto,User,"Tokyo, Japan",271
+Rome,neonichu/Rome,Ruby,Rome makes it easy to build a list of frameworks.,269,8,neonichu,Boris Bügling,User,"Berlin, Germany",1957
+staytus,adamcooke/staytus,Ruby,An open source solution for publishing the status of your services,266,35,adamcooke,Adam Cooke,User,"Dorset, United Kingdom",369
+pilot,fastlane/pilot,Ruby,The best way to manage your TestFlight testers and builds from your terminal,264,33,fastlane,fastlane,Organization,,3488
+alfi,cesarferreira/alfi,Ruby,Android Library Finder,262,36,cesarferreira,César Ferreira,User,Lisbon,2122
+rucaptcha,huacnlee/rucaptcha,Ruby,This is a Captcha gem for Rails Application. It run ImageMagick command to draw Captcha image.,260,33,huacnlee,Jason Lee,User,"Chengdu,China",484
+webinspector,davidesantangelo/webinspector,Ruby,"Ruby gem to inspect completely a web page. It scrapes a given URL, and returns you its meta, links, images more.",258,25,davidesantangelo,Davide Santangelo,User,Italy,258
+gemstash,bundler/gemstash,Ruby,,256,12,bundler,Bundler,Organization,,256
+dash,IFTTT/dash,Ruby,"A self-contained, mostly zero-configuration environment for developing containerized applications at IFTTT. http://ifttt.github.io",253,29,IFTTT,IFTTT,Organization,San Francisco,5448
+railsbox,andreychernih/railsbox,Ruby,Fast and easy Ruby on Rails virtual machines,242,27,andreychernih,Andrey Chernih,User,"Mountain View, CA",242
+learning-tools,lowescott/learning-tools,Ruby,A collection of tools and files for learning new technologies,238,49,lowescott,Scott Lowe,User,"Denver, CO, USA",238
+actioncable-examples,rails/actioncable-examples,Ruby,Action Cable Examples,231,66,rails,Ruby on Rails,Organization,,1445
+catpix,pazdera/catpix,Ruby,Print images in the terminal using Ruby.,225,9,pazdera,Radek Pazdera,User,London,225
+frankenstein,dkhamsing/frankenstein,Ruby,:octocat: Correct README Redirects,221,3,dkhamsing,,User,California,3827
+biz,zendesk/biz,Ruby,Time calculations using business hours.,222,5,zendesk,Zendesk,Organization,San Francisco,222
+HSTracker,bmichotte/HSTracker,Ruby,HSTracker is a Hearthstone deck tracker for Mac OsX,216,32,bmichotte,Benjamin Michotte,User,"Liège, Belgium",216
+coordstagram,toddwschneider/coordstagram,Ruby,Instagram viewer by latitude and longitude. Easy to deploy to Heroku,214,16,toddwschneider,,User,"New York, NY",805
+kashmir,IFTTT/kashmir,Ruby,Kashmir is a Ruby DSL that makes serializing and caching objects a snap.,212,6,IFTTT,IFTTT,Organization,San Francisco,5448
+awspec,k1LoW/awspec,Ruby,RSpec tests for your AWS resources.,211,14,k1LoW,Ken’ichiro Oyama,User,"Fukuoka, JAPAN",211
+tty-prompt,peter-murach/tty-prompt,Ruby,A beautiful and powerful interactive command line prompt,123,3,peter-murach,Piotr Murach,User,"Sheffield, UK",123
+mruby-cli,hone/mruby-cli,Ruby,"A utility for setting up a CLI with mruby that compiles binaries to Linux, OS X, and Windows",210,10,hone,Terence Lee,User,"Austin, TX",210
+dry-validation,dryrb/dry-validation,Ruby,Data validation library based on predicate logic and rule composition,206,9,dryrb,,Organization,,206
+inspec,chef/inspec,Ruby,InSpec: Auditing and Testing Framework,202,21,chef,"Chef Software, Inc.",Organization,"Seattle, WA",475
+scan,fastlane/scan,Ruby,The easiest way to run tests of your iOS and Mac app,195,30,fastlane,fastlane,Organization,,3488
+proof,undercase/proof,Ruby,Secure Authentication for Single Page Applications,192,7,undercase,Thomas Hobohm,User,"Southlake, Texas",192
+iso_latte,emcien/iso_latte,Ruby,Ruby gem for isolating code execution into a subprocess,189,2,emcien,"Emcien, Inc.",Organization,"Atlanta, GA",189
+CocoaSeeds,devxoul/CocoaSeeds,Ruby,Git Submodule Alternative for Cocoa.,182,8,devxoul,Suyeol Jeon,User,"Seoul, Korea",484
+watchbuild,fastlane/watchbuild,Ruby,Get a notification once your iTunes Connect build is finished processing,183,2,fastlane,fastlane,Organization,,3488
+jekyll-feed,jekyll/jekyll-feed,Ruby,:memo: A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts,181,27,jekyll,Jekyll,Organization,,181
+commander,commander-rb/commander,Ruby,The complete solution for Ruby command-line executables,181,16,commander-rb,,Organization,,181
+Startup-Game,bydmm/Startup-Game,Ruby,创业者的游戏： 中关村启示录,181,78,bydmm,Nathan,User,"wuhan, china",181
+slackiq,MightySignal/slackiq,Ruby,Slackiq = Slack + Sidekiq,178,1,MightySignal,MightySignal,Organization,San Francisco,178
+produce,fastlane/produce,Ruby,Create new iOS apps on iTunes Connect and Dev Portal using the command line,164,32,fastlane,fastlane,Organization,,3488
+haikunator,usmanbashir/haikunator,Ruby,Heroku-like random name generator.,163,8,usmanbashir,Usman Bashir,User,"Jeddah, Saudi Arabia",163
+ruby-deploy-kickstart,rdsubhas/ruby-deploy-kickstart,Ruby,"Ruby (and Rails) deployment kickstart with dotEnv, Foreman, Ansible, Docker and Vagrant",162,16,rdsubhas,RDX,User,,162
+bootstrap-rubygem,twbs/bootstrap-rubygem,Ruby,Bootstrap 4 Ruby Gem for Rails / Sprockets and Compass.,159,19,twbs,Bootstrap,Organization,San Francisco,159
+pomotv,chriseidhof/pomotv,Ruby,,154,14,chriseidhof,Chris Eidhof,User,Berlin,563
+strong_migrations,ankane/strong_migrations,Ruby,Catch unsafe migrations at dev time,159,0,ankane,Andrew Kane,User,"San Francisco, CA",567
+faml,eagletmt/faml,Ruby,Faster implementation of Haml template language,158,3,eagletmt,Kohei Suzuki,User,"Tokyo, Japan",158
+percheron,ashmckenzie/percheron,Ruby,Organise your Docker containers with muscle and intelligence,156,4,ashmckenzie,Ash McKenzie,User,"Geelong, Victoria, Australia",156
+regressor,ndea/regressor,Ruby,"Generate specs for your rails application the easy way. Regressor generates model and controller specs based on validations, associations, enums, database, routes, callbacks. Use regressor to capture your rails application behaviour. ",156,12,ndea,Erwin Schens,User,Koblenz,432
+openvpn-http-hooks,smartvpnbiz/openvpn-http-hooks,Ruby,OpenVPN server wrapper,154,93,smartvpnbiz,SmartVPN.biz,Organization,,355
+rockflow,ndea/rockflow,Ruby,Create simple or complex workflows and rock your app!,153,3,ndea,Erwin Schens,User,Koblenz,432
+cert,fastlane/cert,Ruby,Automatically create and maintain iOS code signing certificates,153,20,fastlane,fastlane,Organization,,3488
+supply,fastlane/supply,Ruby,Command line tool for updating Android apps and their metadata on the Google Play Store,153,11,fastlane,fastlane,Organization,,3488
+vagrant-docker-compose,leighmcculloch/vagrant-docker-compose,Ruby,A Vagrant provisioner for docker compose.,148,22,leighmcculloch,Leigh McCulloch,User,"San Francisco, California",148
+windows,boxcutter/windows,Ruby,Virtual machine templates for Windows,147,64,boxcutter,Boxcutter,Organization,,416
+telegram-bot-ruby,atipugin/telegram-bot-ruby,Ruby,Ruby wrapper for Telegram's Bot API,146,25,atipugin,Alexander Tipugin,User,"Moscow, Russia",146
+real-world-rails,eliotsykes/real-world-rails,Ruby,Real World Rails applications and their open source codebases for developers to learn from,144,16,eliotsykes,Eliot Sykes,User,"London, UK",144
+gmail,gmailgem/gmail,Ruby,"A Rubyesque interface to Gmail, with all the tools you'll need.",144,30,gmailgem,,Organization,,144
+squid,Fullscreen/squid,Ruby,A Ruby library to plot charts in PDF files,145,5,Fullscreen,Fullscreen,Organization,"Playa Vista, CA",145
+jobless,dabrorius/jobless,Ruby,A ruby DSL for generating CVs.,144,13,dabrorius,Filip Defar,User,Zagreb,144
+oh-my-vpn,alaa/oh-my-vpn,Ruby,Setup your own OpenVPN server in 30 seconds!,143,9,alaa,Alaa Qutaish,User,Berlin,143
+examples,fastlane/examples,Ruby,A collection of example fastlane setups,140,24,fastlane,fastlane,Organization,,3488
+tiddle,adamniedzielski/tiddle,Ruby,Devise strategy for token authentication in API-only Ruby on Rails applications,136,15,adamniedzielski,Adam Niedzielski,User,Poland,136
+fir-cli,FIRHQ/fir-cli,Ruby,fir.im command-line interface,136,32,FIRHQ,fir.im,Organization,"Beijing, China",136
+statusify,statusify/statusify,Ruby,"Statusify is a web-application status app, written entirely in Ruby.",134,10,statusify,Statusify,Organization,status.*.*,134
+fault_tolerant_router,drsound/fault_tolerant_router,Ruby,"A daemon, running in background on a Linux router or firewall, monitoring the state of multiple internet uplinks/providers and changing the routing accordingly. LAN/DMZ internet traffic is load balanced between the uplinks.",134,9,drsound,Alessandro Zarrilli,User,Poggibonsi - Italy,134
+git-wayback-machine,MadRabbit/git-wayback-machine,Ruby,A simple script to quickly navigate a project's state through it's GIT history,132,6,MadRabbit,Nikolay Nemshilov,User,"Sydney, Australia",675
+mountain_view,jgnatch/mountain_view,Ruby,Living styleguide for Rails,132,10,jgnatch,Ignacio Gutierrez,User,"Buenos Aires, Argentina",132
+WWDC2015,6david9/WWDC2015,Ruby,WWDC2015下载链接,131,25,6david9,6david9,User,"Beijing, China",131
+serveit,garybernhardt/serveit,Ruby,"ServeIt, a synchronous server and rebuilder of static content like blogs, books, READMEs, etc.",130,6,garybernhardt,Gary Bernhardt,User,"Seattle, WA",130
+rtrace,yahoo/rtrace,Ruby,Rtrace is an x86/x86_64 native code debugger written in Ruby with zero dependencies,129,8,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",10798
+git-fastclone,square/git-fastclone,Ruby,git clone --recursive on steroids,129,4,square,Square,Organization,,13457
+hardcover,xing/hardcover,Ruby,Hardcover takes your coverage reports and stores them on the server and comments on your open pull requests.,129,2,xing,XING Developers,Organization,"Hamburg, Germany (We are hiring!)",129
+gkv,ybur-yug/gkv,Ruby,Git as a KV store,128,8,ybur-yug,yburyug,User,"San Juan, Puerto Rico",128
+disc,pote/disc,Ruby,Simple Disque-powered Ruby Jobs,125,10,pote,pote,User,"Montevideo, Uruguay",125
+karafka,karafka/karafka,Ruby,Microframework used to simplify Apache Kafka based Ruby applications development,124,4,karafka,Karafka,Organization,"Poland, Cracow",124
+stitches,stitchfix/stitches,Ruby,Rails Engine and supporting classes for easily exposing a RESTful API,126,7,stitchfix,Stitch Fix Technology,Organization,Everywhere,1154
+gem_updater,MaximeD/gem_updater,Ruby,Update gems in your Gemfile and fetch their changelogs,126,3,MaximeD,Maxime Demolin,User,"Dijon, France",126
+earthdata-search,nasa/earthdata-search,Ruby,"Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",126,21,nasa,NASA,Organization,United States of America,126
+rimportor,ndea/rimportor,Ruby,Modern bulk import for ruby on rails.,123,2,ndea,Erwin Schens,User,Koblenz,432
+vane,delvelabs/vane,Ruby,A GPL fork of the popular wordpress vulnerability scanner WPScan,123,25,delvelabs,Delve Labs,Organization,"Montreal, Canada",123
+isabella,chrisvfritz/isabe
