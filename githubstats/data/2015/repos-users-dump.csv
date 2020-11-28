@@ -5559,4 +5559,141 @@ gem_updater,MaximeD/gem_updater,Ruby,Update gems in your Gemfile and fetch their
 earthdata-search,nasa/earthdata-search,Ruby,"Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",126,21,nasa,NASA,Organization,United States of America,126
 rimportor,ndea/rimportor,Ruby,Modern bulk import for ruby on rails.,123,2,ndea,Erwin Schens,User,Koblenz,432
 vane,delvelabs/vane,Ruby,A GPL fork of the popular wordpress vulnerability scanner WPScan,123,25,delvelabs,Delve Labs,Organization,"Montreal, Canada",123
-isabella,chrisvfritz/isabe
+isabella,chrisvfritz/isabella,Ruby,A voice-computing assistant built in Ruby.,121,8,chrisvfritz,Chris Fritz,User,"Lansing, MI",121
+pragmatic_segmenter,diasks2/pragmatic_segmenter,Ruby,Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.,119,6,diasks2,Kevin Dias,User,"Tochigi, Japan",630
+pluck_to_hash,girishso/pluck_to_hash,Ruby,Extend ActiveRecord pluck to return array of hashes,118,16,girishso,Girish Sonawane,User,"Pune, India",118
+five-star,rob-murray/five-star,Ruby,:star: A Ruby generic rating library :star:,118,0,rob-murray,Robert Murray,User,UK,118
+prolly,iamwilhelm/prolly,Ruby,DSL to express and query probabilities in code,118,5,iamwilhelm,Wil Chung,User,"Mountain View, CA",118
+carrierwave-bombshelter,DarthSim/carrierwave-bombshelter,Ruby,Protects your carrierwave from image bombs,117,6,DarthSim,Sergey Alexandrovich,User,"Russia, Omsk",117
+cii-best-practices-badge,linuxfoundation/cii-best-practices-badge,Ruby,Core Infrastructure Initiative Best Practices Badge,117,17,linuxfoundation,The Linux Foundation,Organization,,117
+rails-template,mattbrictson/rails-template,Ruby,"Application template for Rails 4.2 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",116,27,mattbrictson,Matt Brictson,User,San Francisco,488
+slacked,codelittinc/slacked,Ruby,A simple and easy way to send notifications to Slack from your Ruby or Rails application.,115,6,codelittinc,Codelitt Incubator,Organization,Miami - New York City,115
+embiggen,altmetric/embiggen,Ruby,A Ruby library to expand shortened URLs,115,6,altmetric,Altmetric LLP,Organization,"London, United Kingdom",115
+os-vagrant,rancher/os-vagrant,Ruby,,112,24,rancher,Rancher,Organization,,2376
+debride,seattlerb/debride,Ruby,,114,4,seattlerb,Seattle Ruby Brigade,Organization,We will light you on fire.,114
+rails_workflow,madzhuga/rails_workflow,Ruby,,114,11,madzhuga,Maxim Madzhuga,User,"Samara, Russia",114
+sprockets-es6,TannerRogalsky/sprockets-es6,Ruby,Sprockets ES6 transformer,112,43,TannerRogalsky,Tanner Rogalsky,User,"Toronto, Ontario",112
+open-data-maker,18F/open-data-maker,Ruby,make it easy to turn a lot of potentially large csv files into easily accessible open data,112,79,18F,18F,Organization,United States,3061
+rails_event_store,arkency/rails_event_store,Ruby,A Ruby implementation of an EventStore based on Active Record.,112,7,arkency,Arkency,Organization,,2549
+Nest,nestproject/Nest,Ruby,Swift Web Server Gateway Interface,101,1,nestproject,Nest,Organization,,101
+chaskiq,michelson/chaskiq,Ruby,Newsletter Rails engine,111,5,michelson,Miguel Michelson Martinez,User,"Santiago, Chile",111
+productive-sublime-snippets-ruby,janlelis/productive-sublime-snippets-ruby,Ruby,Ruby Snippets for Sublime Text,110,2,janlelis,Jan Lelis,User,Berlin,110
+pizza,stevekinney/pizza,Ruby,Where is the best :pizza: in a given city?,109,92,stevekinney,Steve Kinney,User,"Denver, CO",109
+codes,fastlane/codes,Ruby,Create promo codes for iOS Apps using the command line,107,10,fastlane,fastlane,Organization,,3488
+eldr,eldr-rb/eldr,Ruby,A minimal Ruby framework with fire in its heart,107,3,eldr-rb,,Organization,,107
+attache,choonkeat/attache,Ruby,Yet another approach to file upload,106,6,choonkeat,Chew Choon Keat,User,Singapore,106
+Generamba,rambler-ios/Generamba,Ruby,This codegenerator is too brilliant to be real!,106,8,rambler-ios,iOS Team @ Rambler&Co,Organization,"Russia, Moscow",106
+motorhead,amatsuda/motorhead,Ruby,A Rails Engine framework that helps safe and rapid feature prototyping,105,2,amatsuda,Akira Matsuda,User,"Tokyo, Japan",105
+SafeFinder,st0012/SafeFinder,Ruby,When NullObject meets ActiveRecord,105,3,st0012,Stan Lo,User,"Taipei, Taiwan",105
+EDB,RoxasShadow/EDB,Ruby,A framework to make and manage backups of your database,105,3,RoxasShadow,Giovanni Capuano,User,The middle of nowhere,105
+state_machines-activerecord,state-machines/state_machines-activerecord,Ruby,StateMachines Active Record Integration,105,20,state-machines,,Organization,,105
+jsonapi-serializers,fotinakis/jsonapi-serializers,Ruby,Pure Ruby readonly serializers for the JSON:API spec.,104,26,fotinakis,Mike Fotinakis,User,San Francisco - @mikefotinakis,104
+rails-safe-tasks,adamcooke/rails-safe-tasks,Ruby,Automatically disable dangerous Rake tasks in production,103,3,adamcooke,Adam Cooke,User,"Dorset, United Kingdom",369
+xcodesnippet,Xcode-Snippets/xcodesnippet,Ruby,A command-line interface for installing Xcode Snippets,102,6,Xcode-Snippets,Xcode Snippets,Organization,,102
+sprockets,rails/sprockets,Ruby,Rack-based asset packaging system,102,497,rails,Ruby on Rails,Organization,,1445
+inesita,inesita-rb/inesita,Ruby,Frontend web application framework in Ruby using Opal.,102,7,inesita-rb,Inesita,Organization,,102
+as-duration,janko-m/as-duration,Ruby,Extraction of ActiveSupport::Duration from Rails,101,3,janko-m,Janko Marohnić,User,"Zagreb, Croatia",668
+from-scratch,sandrew/from-scratch,Ruby,One last command to bootstrap typical Rails production environment ready for first deploy,100,2,sandrew,Andrew Shaydurov,User,Russia,100
+swift,apple/swift,C++,The Swift Programming Language,24883,3068,apple,Apple,Organization,"Cupertino, CA",34543
+tensorflow,tensorflow/tensorflow,C++, Open source software library for numerical computation using data flow graphs.,15546,4355,tensorflow,,Organization,,15546
+notepad-plus-plus,notepad-plus-plus/notepad-plus-plus,C++,Notepad++ official repository,2270,592,notepad-plus-plus,Notepad++,Organization,,2270
+AndFix,alibaba/AndFix,C++,AndFix is a library that offer hot-fix for Android App.,2252,514,alibaba,Alibaba,Organization,"Hangzhou, China",4994
+mxnet,dmlc/mxnet,C++,"Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more",2134,690,dmlc,Distributed (Deep) Machine Learning Community,Organization,,2647
+FLIF,FLIF-hub/FLIF,C++,Free Lossless Image Format,1954,109,FLIF-hub,FLIF,Organization,Brussels,1954
+Arduino,esp8266/Arduino,C++,ESP8266 core for Arduino,1712,676,esp8266,ESP8266 Community Forum,Organization,,1712
+omim,mapsme/omim,C++,MAPS.ME - Offline OpenStreetMap maps for iOS/Android/Mac/Linux/Windows,1558,199,mapsme,MAPS.ME,Organization,,1558
+kwm,koekeishiya/kwm,C++,Tiling window manager with focus follows mouse for OSX,1428,30,koekeishiya,,User,Norway,1428
+z3,Z3Prover/z3,C++,The Z3 Theorem Prover,1356,215,Z3Prover,Z3 Theorem Prover,Organization,,1356
+bish,tdenniston/bish,C++,Bish is a language that compiles to Bash. It's designed to give shell scripting a more comfortable and modern feel.,1327,37,tdenniston,Tyler Denniston,User,,1327
+Unreal.js,ncsoft/Unreal.js,C++,Unreal.js: Javascript runtime built for UnrealEngine 4,1215,59,ncsoft,NCSOFT,Organization,"Seoul, Korea",1215
+GSL,Microsoft/GSL,C++,Guidelines Support Library,1151,118,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+googletest,google/googletest,C++,Google Test,1133,313,google,Google,Organization,,70104
+jerryscript,Samsung/jerryscript,C++,Ultra-lightweight JavaScript engine for Internet of Things. http://www.jerryscript.net,1051,95,Samsung,Samsung,Organization,,2478
+v8worker,ry/v8worker,C++,Minimal golang binding to V8,969,54,ry,ry,User,,969
+llilc,dotnet/llilc,C++,"This repo contains LLILC, an LLVM based compiler for .NET Core. It includes a set of cross-platform .NET code generation tools that enables compilation of MSIL byte code to LLVM supported platforms.",951,84,dotnet,.NET Foundation,Organization,,12402
+btfs,johang/btfs,C++,A bittorrent filesystem based on FUSE. C++.,939,25,johang,Johan Gunnarsson,User,,939
+DynamicAPK,CtripMobile/DynamicAPK,C++,Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复),934,297,CtripMobile,CtripMobile,Organization,"Shanghai, China",934
+or-tools,google/or-tools,C++,Google's Operations Research tools,885,147,google,Google,Organization,,70104
+dex-ui,seenaburns/dex-ui,C++,A science fiction desktop running on Linux. Awesome.,863,50,seenaburns,Seena Burns (nnkd),User,CA,863
+ImagePlay,cpvrlab/ImagePlay,C++,ImagePlay is a rapid prototyping application for image processing,862,46,cpvrlab,Computer Perception & Virtual Reality Lab,Organization,Biel/Bienne in Switzerland,862
+engine,flutter/engine,C++,The Flutter engine,846,120,flutter,Flutter,Organization,,846
+pybind11,wjakob/pybind11,C++,Seamless operability between C++11 and Python,830,50,wjakob,Wenzel Jakob,User,"Zürich, Switzerland",1479
+CppCon2015,CppCon/CppCon2015,C++,Presentation Materials from CppCon 2015,812,100,CppCon,CppCon,Organization,,812
+android-ndk,googlesamples/android-ndk,C++,Android NDK samples,777,328,googlesamples,Google Samples,Organization,,13082
+iotjs,Samsung/iotjs,C++,Platform for Internet of Things with JavaScript http://www.iotjs.net ,763,90,Samsung,Samsung,Organization,,2478
+4,4Lang/4,C++,A completely emoji-based programming language,708,52,4Lang,,Organization,,708
+veles,Samsung/veles,C++,Distributed machine learning platform,664,126,Samsung,Samsung,Organization,,2478
+UniversalPauseButton,ryanries/UniversalPauseButton,C++,A pause button that pauses the unpausable. Handy for video game cut scenes especially.,663,26,ryanries,Ryan Ries,User,Texas,663
+libfacedetection,ShiqiYu/libfacedetection,C++,A binary library for face detection in images.,640,245,ShiqiYu,,User,,640
+Windows-Driver-Frameworks,Microsoft/Windows-Driver-Frameworks,C++,WDF makes it easy to write high-quality Windows drivers,597,192,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+zopfli,google/zopfli,C++,"Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.",524,64,google,Google,Organization,,70104
+sphinx,sphinxsearch/sphinx,C++,Sphinx search server,552,86,sphinxsearch,Sphinx Technologies Inc,Organization,USA,552
+kiui,hugoam/kiui,C++,"Auto-layout Ui library, lightweight, skinnable and system agnostic, with an OpenGL backend",552,48,hugoam,Hugo Amnov,User,Europe,552
+openvr,ValveSoftware/openvr,C++,OpenVR SDK,536,94,ValveSoftware,Valve Software,Organization,,636
+KeeFarce,denandz/KeeFarce,C++,"Extracts passwords from a KeePass 2.x database, directly from memory.",527,85,denandz,DoI,User,"Auckland, New Zealand",527
+vnpy,vnpy/vnpy,C++,基于python的开源交易平台开发框架,525,322,vnpy,vn.py,User,Shanghai,525
+CppSamples-Samples,sftrabbit/CppSamples-Samples,C++,A repository of modern C++ samples curated by the community.,524,87,sftrabbit,Joseph Mansfield,User,"Edinburgh, United Kingdom",524
+glog,google/glog,C++,C++ implementation of the Google logging module,517,232,google,Google,Organization,,70104
+QConf,Qihoo360/QConf,C++,Qihoo Distrubuted Configuration Management System,520,159,Qihoo360,Qihoo 360,Organization,"Beijing, China",2937
+microsoft-pdb,Microsoft/microsoft-pdb,C++,Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.,485,39,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+IEDiagnosticsAdapter,Microsoft/IEDiagnosticsAdapter,C++,IE Diagnostics Adapter is a standalone exe that enables tools to debug and diagnose IE11 using the Chrome remote debug protocol. ,476,26,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+x64dbg,x64dbg/x64dbg,C++,An open-source x64/x32 debugger for windows.,460,95,x64dbg,x64dbg,Organization,,460
+endless-sky,endless-sky/endless-sky,C++,"Space exploration, trading, and combat game.",460,93,endless-sky,Endless Sky,User,,460
+rowhammer-test,google/rowhammer-test,C++,Test DRAM for bit flips caused by the rowhammer problem,443,75,google,Google,Organization,,70104
+incubator-singa,apache/incubator-singa,C++,Mirror of Apache Singa (Incubating),435,154,apache,The Apache Software Foundation,Organization,,3728
+rDSN,Microsoft/rDSN,C++,Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems.,426,115,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+kythe,google/kythe,C++,"Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.",419,28,google,Google,Organization,,70104
+socket.io-client-cpp,socketio/socket.io-client-cpp,C++,C++11 implementation of Socket.IO client,410,82,socketio,Socket.IO,Organization,Automattic,1745
+srs,ossrs/srs,C++,"SRS is industrial-strength live streaming cluster, for the best conceptual integrity and the simplest implementation. ",380,179,ossrs,srs-org,Organization,beijing,380
+DirectXTK,Microsoft/DirectXTK,C++,The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++,373,90,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+EpicSurvivalGameSeries,tomlooman/EpicSurvivalGameSeries,C++,Third person survival game (tutorial) series for Unreal Engine 4.,369,288,tomlooman,Tom Looman,User,Netherlands,369
+SUIDGuard,sektioneins/SUIDGuard,C++,SUIDGuard - a TrustedBSD Kernel Extension that adds mitigations to protect SUID/SGID processes a bit more,366,47,sektioneins,SektionEins GmbH,Organization,"Cologne, Germany",366
+Dato-Core,dato-code/Dato-Core,C++,The open source core of the GraphLab ML library,365,105,dato-code,,Organization,,588
+swift-llvm,apple/swift-llvm,C++,,353,64,apple,Apple,Organization,"Cupertino, CA",34543
+vpaint,dalboris/vpaint,C++,Experimental vector graphics and 2D animation editor,354,14,dalboris,Boris Dalstein,User,"Emeryville, CA, United States",354
+GacUI,vczh-libraries/GacUI,C++,"GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features.",342,99,vczh-libraries,Vczh Libraries,Organization,,515
+kaldi,kaldi-asr/kaldi,C++,This is now the official location of the Kaldi project.,340,222,kaldi-asr,Kaldi,Organization,,340
+caffe-windows,happynear/caffe-windows,C++,Configure Caffe in one hour for Windows users.,341,159,happynear,Feng Wang,User,,341
+caffe2,Yangqing/caffe2,C++,This is currently an experimental refactoring of Caffe.,344,75,Yangqing,Yangqing Jia,User,"Mountain View, CA",344
+multiverso,Microsoft/multiverso,C++,Parameter server framework for distributed machine learning,342,84,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+ACE3,acemod/ACE3,C++,Open-source realism mod for Arma 3,341,272,acemod,ACE Mod,Organization,,341
+behaviac,TencentOpen/behaviac,C++,"behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool.   behaviac supports the behavior tree, finite state machine and hierarchical task network.  Behaviors can be designed and debugged in the designer, exported and executed by the game. The designer can only run on the Windows platforms.   The run time library is implemented with C++ and C#, and it supports all major platforms (Windows, Linux, Android, iOS, Unity etc.) and Unity. The C++ version is suitable for the client and server side.",324,154,TencentOpen,,Organization,,324
+cpr,whoshuu/cpr,C++,"C++ Requests: Curl for People, a spiritual port of Python Requests (https://github.com/kennethreitz/requests)",324,33,whoshuu,Huu Nguyen,User,,324
+libmc,douban/libmc,C++,Fast and light-weight memcached client for C++ / #python / #golang #libmc,317,43,douban,Douban Inc.,Organization,"Beijing, China",539
+swift-clang,apple/swift-clang,C++,,309,51,apple,Apple,Organization,"Cupertino, CA",34543
+libquic,devsisters/libquic,C++,"QUIC, a multiplexed stream transport over UDP",309,46,devsisters,Devsisters corp.,Organization,,587
+comp-cpp,gto76/comp-cpp,C++,Simple 4-bit virtual computer,308,23,gto76,Jure Šorn,User,Ljubljana,447
+pbrt-v3,mmp/pbrt-v3,C++,"Source code for pbrt, the renderer described in the third edition of 'Physically Based Rendering: From Theory To Implementation', by Matt Pharr, Greg Humphreys, and Wenzel Jakob.",306,72,mmp,Matt Pharr,User,"San Francisco, CA",306
+hyperscan,01org/hyperscan,C++,High-performance regular expression matching library,301,55,01org,,Organization,,3001
+cinatra,topcpporg/cinatra,C++,A sinatra inspired modern c++ web framework,299,88,topcpporg,,Organization,,299
+EasyOpenCL,Gladdy/EasyOpenCL,C++,The easiest way to get started with OpenCL!,293,14,Gladdy,Martijn Bakker,User,"Cambridge, UK",293
+lzham_codec,richgel999/lzham_codec,C++,"Lossless data compression codec with LZMA-like ratios but 1.5x-8x faster decompression speed, C/C++",291,21,richgel999,Rich Geldreich,User,United States,291
+atria,Ableton/atria,C++,A toolkit for modern C++ development,289,26,Ableton,,Organization,,289
+FunctionalPlus,Dobiasd/FunctionalPlus,C++,helps you write concise and readable C++ code.,290,18,Dobiasd,Tobias Hermann,User,Germany,472
+Triton,JonathanSalwan/Triton,C++,"A Pin-based dynamic symbolic execution (DSE) framework. Although Triton is a DSE framework, it also provides internal components like a taint engine, a snapshot engine, translation of x86 and x86-64 instructions into SMT2-LIB, a Z3 interface to solve constraints and, the last but not least, Python bindings.",289,63,JonathanSalwan,Jonathan Salwan,User,France - Paris,289
+wormhole,dmlc/wormhole,C++,"Portable, Scalable and Reliable Distributed Machine Learning, support various platforms including Hadoop YARN, MPI, etc.",285,115,dmlc,Distributed (Deep) Machine Learning Community,Organization,,2647
+ice,zeroc-ice/ice,C++,"Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more.",283,97,zeroc-ice,ZeroC Ice,Organization,,283
+goquic,devsisters/goquic,C++,QUIC support for Go,278,27,devsisters,Devsisters corp.,Organization,,587
+android-file-transfer-linux,whoozle/android-file-transfer-linux,C++,Android File Transfer for Linux,273,12,whoozle,Vladimir,User,,273
+opensesame,samyk/opensesame,C++,OpenSesame attacks wireless garages and can open most fixed-code garages and gates in seconds using a Mattel toy,273,49,samyk,Samy Kamkar,User,"Los Angeles, California",773
+PacketSender,dannagle/PacketSender,C++,A network test utility for sending / receiving TCP and UDP packets,273,54,dannagle,Dan Nagle,User,"Huntsville, AL",273
+swift-lldb,apple/swift-lldb,C++,This is the version of LLDB that supports the Swift programming language & REPL.,269,47,apple,Apple,Organization,"Cupertino, CA",34543
+libtorrent,arvidn/libtorrent,C++,an efficient feature complete C++ bittorrent implementation,264,78,arvidn,Arvid Norberg,User,New York,264
+WebChimera.js,RSATom/WebChimera.js,C++,libvlc binding for node.js/io.js/Node-Webkit/NW.js/Electron,262,28,RSATom,Sergey Radionov,User,"Russia, Tomsk",262
+instant-meshes,wjakob/instant-meshes,C++,Instant Meshes,260,35,wjakob,Wenzel Jakob,User,"Zürich, Switzerland",1479
+DexHunter,zyq8709/DexHunter,C++,General Automatic Unpacking Tool for Android Dex Files,258,210,zyq8709,,User,,258
+opmsg,stealth/opmsg,C++,opmsg message encryption,257,13,stealth,Sebastian,User,Switzerland,257
+cerl,qiniu/cerl,C++,CERL2.0 - Erlang Model for C++,257,70,qiniu,七牛云存储,Organization,Shanghai,727
+inkSpace,ofZach/inkSpace,C++,android drawing tool,255,36,ofZach,,User,,255
+bcc,iovisor/bcc,C++,BPF Compiler Collection,251,40,iovisor,IO Visor Project,Organization,,251
+LightQ,LightIO/LightQ,C++,,248,27,LightIO,,Organization,,248
+JPSPlusWithGoalBounding,SteveRabin/JPSPlusWithGoalBounding,C++,JPS+ and Goal Bounding,248,33,SteveRabin,,User,,248
+swift-llbuild,apple/swift-llbuild,C++,"A low-level build system, used by the Swift Package Manager",248,43,apple,Apple,Organization,"Cupertino, CA",34543
+lightlda,Microsoft/lightlda,C++,"Scalable, fast, and lightweight system for large-scale topic modeling",244,71,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+pineapple,nwhitehead/pineapple,C++,,242,4,nwhitehead,Nathan Whitehead,User,"Sunnyvale, CA",242
+waifu2x-caffe,lltcggie/waifu2x-caffe,C++,waifu2xのCaffe版,240,37,lltcggie,,User,,240
+crfasrnn,torrvision/crfasrnn,C++,This repository contains the source code for the semantic image segmentation method described in the ICCV 2015 paper: Conditional Random Fields as Recurrent Neural Networks. http://crfasrnn.torr.vision/,239,99,torrvision,Torr Vision Group,User,"Oxford, United Kingdom",239
+idlf,01org/idlf,C++,Intel® Deep Learning Framework,237,58,01org,,Organization,,3001
+LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,Code repository of all tutorials found at http://learnopengl.com,232,42,JoeyDeVries,Joey de Vries,User,,232
+readxl,hadley/readxl,C++,Read excel files (.xls and .xlsx) into R,231,55,hadley,Hadley Wickham,User,"Houston, TX",474
+mybus,liudo
