@@ -5696,4 +5696,155 @@ crfasrnn,torrvision/crfasrnn,C++,This repository contains the source code for th
 idlf,01org/idlf,C++,Intel® Deep Learning Framework,237,58,01org,,Organization,,3001
 LearnOpenGL,JoeyDeVries/LearnOpenGL,C++,Code repository of all tutorials found at http://learnopengl.com,232,42,JoeyDeVries,Joey de Vries,User,,232
 readxl,hadley/readxl,C++,Read excel files (.xls and .xlsx) into R,231,55,hadley,Hadley Wickham,User,"Houston, TX",474
-mybus,liudo
+mybus,liudong1983/mybus,C++,MySQL数据库同redis以及hbase高速全量，增量同步工具,231,65,liudong1983,刘栋,User,北京,231
+modern,kennykerr/modern,C++,Modern C++ for the Windows Runtime,230,28,kennykerr,Kenny Kerr,User,,230
+yaml-cpp,jbeder/yaml-cpp,C++,A YAML parser and emitter in C++,229,69,jbeder,Jesse Beder,User,,229
+purine2,purine/purine2,C++,Purified Purine.,230,85,purine,嘌呤,User,,230
+Kaggle_CrowdFlower,ChenglongChen/Kaggle_CrowdFlower,C++,1st Place Solution for Search Results Relevance Competition on Kaggle (https://www.kaggle.com/c/crowdflower-search-relevance),229,95,ChenglongChen,Chenglong Chen,User,"Shenzhen, China",229
+dmlc-core,dmlc/dmlc-core,C++,A common code-base for Distributed Machine Learning in C++,228,133,dmlc,Distributed (Deep) Machine Learning Community,Organization,,2647
+Stack-RNN,facebook/Stack-RNN,C++,"This is the code used for the paper 'Inferring algorithmic patterns with a stack augmented recurrent network', by Armand Joulin and Tomas Mikolov.",228,29,facebook,Facebook,Organization,"Menlo Park, California",61260
+seifnode,paypal/seifnode,C++,,226,9,paypal,PayPal,Organization,"San Jose, CA",1587
+SFrame,dato-code/SFrame,C++,"SFrame, SArray, SGraph",223,88,dato-code,,Organization,,588
+libgraphqlparser,graphql/libgraphqlparser,C++,A GraphQL query parser in C++ with C and C++ APIs,222,21,graphql,Facebook GraphQL,Organization,"Menlo Park, CA",4721
+paracel,douban/paracel,C++,Distributed training framework with parameter server,222,56,douban,Douban Inc.,Organization,"Beijing, China",539
+decaf-emu,decaf-emu/decaf-emu,C++,Researching Wii U emulation.,221,31,decaf-emu,decaf-emu,Organization,,221
+cat,cat/cat,C++,C++14 functional library,218,12,cat,Nicola Bonelli,User,Italy,218
+FlatBuffs,frogermcs/FlatBuffs,C++,Example app showing FlatBuffers implementation in Android,217,49,frogermcs,Mirosław Stanek,User,Cracow,1087
+Super-Template-Tetris,mattbierner/Super-Template-Tetris,C++,Tetris as a C++ Template Metaprogram ,215,21,mattbierner,Matt Bierner,User,,215
+include-what-you-use,include-what-you-use/include-what-you-use,C++,A tool for use with clang to analyze #includes in C and C++ source files,211,19,include-what-you-use,,Organization,,211
+ORB_SLAM,raulmur/ORB_SLAM,C++,A Versatile and Accurate Monocular SLAM,211,150,raulmur,Raul Mur Artal,User,,211
+kerf,kevinlawler/kerf,C++,Kerf,211,7,kevinlawler,Kevin Lawler,User,USA,211
+zulip-desktop,zulip/zulip-desktop,C++,Zulip desktop app,209,51,zulip,Zulip,Organization,,4404
+blynk-library,blynkkk/blynk-library,C++,Libraries for embedded hardware to work with Blynk platform,208,78,blynkkk,Blynk,User,"New York, US – Kiev, Ukraine",374
+waifu2x-converter-cpp,WL-Amigo/waifu2x-converter-cpp,C++,waifu2x(original : https://github.com/nagadomi/waifu2x) re-implementation in C++ using OpenCV ,208,40,WL-Amigo,,User,,208
+artoolkit5,artoolkit/artoolkit5,C++,ARToolKit v5.x,207,109,artoolkit,ARToolKit,Organization,,207
+Client,Proj-Ascension/Client,C++,Client repository for the Project Ascension game launcher.,209,54,Proj-Ascension,Project Ascension,Organization,,209
+ITEADLIB_Arduino_WeeESP8266,itead/ITEADLIB_Arduino_WeeESP8266,C++,An easy-to-use Arduino ESP8266 library besed on AT firmware.,206,92,itead,ITEAD Studio,Organization,,206
+xbox_one_controller,lloeki/xbox_one_controller,C++,HID-compliant Xbox One Controller driver for OS X,205,6,lloeki,Loic Nageleisen,User,,310
+plex-media-player,plexinc/plex-media-player,C++,Next generation Plex Desktop/Embedded Client,199,20,plexinc,Plex,Organization,,199
+plv8,plv8/plv8,C++, V8 Engine Javascript Procedural Language add-on for PostgreSQL,197,18,plv8,plv8,Organization,,197
+annabell,golosio/annabell,C++,A cognitive neural architecture able to learn and communicate through natural language,195,41,golosio,,User,,195
+clstm,tmbdev/clstm,C++,"A small C++ implementation of LSTM networks, focused on OCR.",194,56,tmbdev,Tom,User,,194
+cpp11-on-multicore,preshing/cpp11-on-multicore,C++,Various synchronization primitives for multithreaded applications in C++11.,192,24,preshing,Jeff Preshing,User,,192
+aws-sdk-cpp,awslabs/aws-sdk-cpp,C++,AWS SDK for C++,192,30,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",2991
+KlayGE,gongminmin/KlayGE,C++,KlayGE is a cross-platform open source game engine with plugin-based architecture.,191,60,gongminmin,Minmin Gong,User,"Redmond, WA, US",191
+TextGrocery,2shou/TextGrocery,C++,A simple short-text classification tool based on LibLinear,189,60,2shou,Gavin Zhang,User,,189
+espduino,tuanpmt/espduino,C++,"ESP8266 network client (mqtt, restful) for Arduino",185,70,tuanpmt,Tuan PM,User,"HCMC, Viet Nam",185
+helm,mtytel/helm,C++,Helm - a free polyphonic synth with lots of modulation,180,13,mtytel,Matt Tytel,User,"Boston, MA",180
+missinghud2,networkMe/missinghud2,C++,Binding of Isaac: Rebirth/Afterbirth Statistics HUD,184,37,networkMe,Trevor Meehl,User,Australia,184
+v8-native-prototype,WebAssembly/v8-native-prototype,C++,Prototype native decoder that targets TurboFan,182,26,WebAssembly,WebAssembly,Organization,The Web!,5858
+sim,ideawu/sim,C++,Simple C++ network server framework,178,67,ideawu,ideawu,User,"Beijing, China",547
+ssf,securesocketfunneling/ssf,C++,Secure Socket Funneling - Network tool and toolkit,178,13,securesocketfunneling,,User,,178
+deepdetect,beniz/deepdetect,C++,Deep Learning API and Server in C++11 with Python bindings and support for Caffe,173,33,beniz,Emmanuel Benazera,User,"Toulouse, France",173
+fboss,facebook/fboss,C++,"Facebook Open Switching System
+
+Software for controlling network switches.",175,49,facebook,Facebook,Organization,"Menlo Park, California",61260
+FFmpegInterop,Microsoft/FFmpegInterop,C++, This is a code sample to make it easier to use FFmpeg in Windows applications.,173,38,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+nn,dropbox/nn,C++,Non-nullable pointers for C++,173,9,dropbox,Dropbox,Organization,San Francisco,3557
+marvin,PrincetonVision/marvin,C++,Marvin: A Minimalist GPU-only N-Dimensional ConvNets Framework,172,43,PrincetonVision,Princeton Vision Group,Organization,Princeton University,172
+redis-cerberus,HunanTV/redis-cerberus,C++,Redis Cluster Proxy,170,40,HunanTV,HunanTV,Organization,ChangSha,170
+Sparky,TheCherno/Sparky,C++,The Sparky engine!,167,53,TheCherno,Yan Chernikov,User,"Melbourne, Australia",167
+glslang,KhronosGroup/glslang,C++,Khronos reference front-end for GLSL and ESSL,161,40,KhronosGroup,The Khronos Group,Organization,Beaverton OR,161
+polyfill-prototype-1,WebAssembly/polyfill-prototype-1,C++,Experimental WebAssembly polyfill library and tools,161,34,WebAssembly,WebAssembly,Organization,The Web!,5858
+mod_pagespeed,pagespeed/mod_pagespeed,C++,Apache module for rewriting web pages to reduce latency and bandwidth.,160,26,pagespeed,Google PageSpeed,Organization,,160
+rowhammerjs,IAIK/rowhammerjs,C++,Rowhammer.js - A Remote Software-Induced Fault Attack in JavaScript,157,17,IAIK,,Organization,,157
+TetrisPlayground,mbrenman/TetrisPlayground,C++,A final project for Advanced Machine Learning. Build bots to play against this Tetris Sandbox!,158,7,mbrenman,Matt Brenman,User,United States,462
+tarsnap-gui,Tarsnap/tarsnap-gui,C++,Cross platform GUI for the Tarsnap command line client,157,8,Tarsnap,Tarsnap Backup Inc.,Organization,"Vancouver, Canada",157
+nlpcaffe,Russell91/nlpcaffe,C++,natural language processing with Caffe,154,58,Russell91,Russell Stewart,User,,154
+LeanClub,typcn/LeanClub,C++,C++ forum system,151,26,typcn,,User,China,1189
+nzbget,nzbget/nzbget,C++,Efficient Usenet Downloader,149,21,nzbget,NZBGet,Organization,,149
+edb-debugger,eteran/edb-debugger,C++,edb is a cross platform x86/x86-64 debugger.,145,21,eteran,Evan Teran,User,United States,145
+OceanProject,UE4-OceanProject/OceanProject,C++,An Ocean Simulation project for Unreal Engine 4,147,88,UE4-OceanProject,,Organization,,147
+hexagen,aliceatlas/hexagen,C++,"true coroutines for Swift, and some familiar concurrency abstractions you couldn't implement in Swift until now.",147,3,aliceatlas,Alice Atlas,User,"Brooklyn, NY",147
+afl.rs,frewsxcv/afl.rs,C++,Fuzzing Rust code with american-fuzzy-lop,145,7,frewsxcv,Corey Farwell,User,"Mount Pleasant, New York",145
+ngx_brotli,google/ngx_brotli,C++,nginx module for Brotli compression,142,4,google,Google,Organization,,70104
+elements,ElementsProject/elements,C++,Feature experiments to advance the art of Bitcoin,145,54,ElementsProject,,Organization,,145
+darkleaks,darkwallet/darkleaks,C++,Decentralised Information Black Market,145,31,darkwallet,,Organization,,145
+basicpp,rollbear/basicpp,C++,BASIC in C++,144,7,rollbear,Björn Fahller,User,Stockholm,144
+UIforETW,google/UIforETW,C++,User interface for recording and managing ETW traces,144,17,google,Google,Organization,,70104
+open-zwave,OpenZWave/open-zwave,C++,a C++ and DotNet library to control Z-Wave Networks via a Z-Wave Controller. ,142,109,OpenZWave,OpenZWave,Organization,,142
+modorganizer,TanninOne/modorganizer,C++,"Mod manager for various PC games (currently: Skyrim, Oblivion, Fallout 3, Fallout NV)",141,16,TanninOne,,User,,141
+restbed,Corvusoft/restbed,C++,Corvusoft's Restbed framework brings asynchronous RESTful functionality to C++11 applications.,139,19,Corvusoft,Corvusoft Solutions,Organization,"Scotland, United Kingdom",139
+comp-m2,gto76/comp-m2,C++,Simple 4-bit virtual computer,139,10,gto76,Jure Šorn,User,Ljubljana,447
+smartdec,smartdec/smartdec,C++,SmartDec decompiler,138,87,smartdec,SmartDec,Organization,Moscow,138
+RawTherapee,Beep6581/RawTherapee,C++,A powerful cross-platform raw photo processing program,138,22,Beep6581,Beep6581,User,,138
+mozc,google/mozc,C++,Mozc - a Japanese Input Method Editor designed for multi-platform,138,28,google,Google,Organization,,70104
+DirectXTex,Microsoft/DirectXTex,C++,DirectXTex texture processing library,137,34,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+boinc,BOINC/boinc,C++,Open-source software for volunteer computing and grid computing.,136,55,BOINC,BOINC,Organization,"Berkeley, CA, USA",136
+sqlyog-community,webyog/sqlyog-community,C++,,135,35,webyog,Webyog Softworks Pvt Ltd,Organization,,135
+scripthookvdotnet,crosire/scripthookvdotnet,C++,"An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game.",134,73,crosire,Patrick Mours,User,Germany,134
+ApricityOS,agajews/ApricityOS,C++,"A modern, intuitive operating system for the cloud generation of computing.",134,16,agajews,Alex Gajewski,User,Chicago,134
+shaderc,google/shaderc,C++,"A collection of tools, libraries and tests for shader compilation.",133,13,google,Google,Organization,,70104
+OpenCL-caffe,amd/OpenCL-caffe,C++,OpenCL version of caffe developed by AMD research lab,133,33,amd,AMD,Organization,,133
+zooshi,google/zooshi,C++,Multi-platform game where you feed well dressed animals with sushi,132,12,google,Google,Organization,,70104
+apery,HiraokaTakuya/apery,C++,a USI Shogi engine.,133,28,HiraokaTakuya,HiraokaTakuya,User,,133
+v8eval,sony/v8eval,C++,Multi-language bindings to JavaScript engine V8,131,7,sony,Sony,Organization,"Minato-ku, Tokyo, Japan",430
+jucipp,cppit/jucipp,C++,juCi++ a lightweight C++-IDE with support for C++11 and C++14,131,16,cppit,cppit (zippit),Organization,,131
+mkvtoolnix,mbunkus/mkvtoolnix,C++,Creating and working with Matroska files,131,32,mbunkus,Moritz Bunkus,User,"Braunschweig, Germany",131
+MetroHash,jandrewrogers/MetroHash,C++,Exceptionally fast and statistically robust hash functions,131,4,jandrewrogers,J. Andrew Rogers,User,Seattle,131
+uWho,jwcrawley/uWho,C++,OpenCV based facial recognition and tracker,130,21,jwcrawley,Josh Conway,User,,130
+brigand,edouarda/brigand,C++,small and powerful C++ 11 MPL,130,8,edouarda,Edouard A.,User,"Paris, France",130
+enkiTS,dougbinks/enkiTS,C++,enki Task Scheduler,129,11,dougbinks,Doug Binks,User,UK / France,129
+ekam,sandstorm-io/ekam,C++,Ekam Build System,130,9,sandstorm-io,Sandstorm.io,Organization,,249
+PackerAttacker,BromiumLabs/PackerAttacker,C++,C++ application that uses memory and code hooks to detect packers,130,28,BromiumLabs,,Organization,,130
+MameAppleTV,kevsmithpublic/MameAppleTV,C++,Mame for tvOS,126,24,kevsmithpublic,,User,,126
+FiberTaskingLib,RichieSams/FiberTaskingLib,C++,A library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.,127,15,RichieSams,RichieSams,User,,127
+XLE,xlgames-inc/XLE,C++,XLE prototype 3D game engine,127,45,xlgames-inc,,Organization,,127
+CPP-Reflection,AustinBrunkhorst/CPP-Reflection,C++,C++ Reflection Parser / Runtime Skeleton,126,8,AustinBrunkhorst,Austin Brunkhorst,User,Washington,126
+Refactorator,johnno1962/Refactorator,C++,SourceKit based Plugin for Xcode that Refactors Swift,122,7,johnno1962,John Holdsworth,User,London Docklands,122
+AvanceDB,RipcordSoftware/AvanceDB,C++,An in-memory database based on the CouchDB REST API and containing the CouchDB Futon and Fauxton web sites,123,8,RipcordSoftware,Ripcord Software,Organization,"Reading, UK",123
+WiFiManager,tzapu/WiFiManager,C++,ESP8266 WiFi Connection manager with web captive portal,121,34,tzapu,,User,,121
+tilemaker,systemed/tilemaker,C++,Make OpenStreetMap vector tiles without the stack,122,16,systemed,Richard Fairhurst,User,"Charlbury, the Cotswolds",122
+ida_ipython,james91b/ida_ipython,C++,An IDA Pro Plugin for embedding an IPython Kernel,121,11,james91b,,User,,121
+Onboard-SDK,dji-sdk/Onboard-SDK,C++,DJI Onboard API Samples,119,106,dji-sdk,DJI-SDK,Organization,"Shenzhen, China",119
+SparseConvNet,btgraham/SparseConvNet,C++,"Spatially-sparse convolutional networks. Allows processing of sparse 2, 3 and 4 dimensional data.Build CNNs on the square/cubic/hypercubic or triangular/tetrahedral/hyper-tetrahedral lattices.",117,49,btgraham,Ben Graham,User,,117
+loguru,emilk/loguru,C++,A lightweight C++ logging library,115,9,emilk,Emil Ernerfeldt,User,,115
+LINE,tangjianpku/LINE,C++,LINE: Large-scale information network embedding,115,64,tangjianpku,,User,,115
+nitroshare-desktop,nitroshare/nitroshare-desktop,C++,"Network file transfer application for Windows, OS X, & Linux",116,20,nitroshare,NitroShare,Organization,,116
+omaha,google/omaha,C++,Google Update for Windows,114,31,google,Google,Organization,,70104
+flatui,google/flatui,C++,Efficient Immediate Mode UI for Games,114,7,google,Google,Organization,,70104
+quiterss,QuiteRSS/quiterss,C++,Free news feeds reader,113,18,QuiteRSS,QuiteRSS Team,Organization,,113
+RetroShare,RetroShare/RetroShare,C++,"RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform. (upstream Repository)",111,34,RetroShare,RetroShare,Organization,cipherspace,111
+NoiseWorkshop,andreasmuller/NoiseWorkshop,C++,,113,13,andreasmuller,Andreas Müller,User,London,113
+mtasa-blue,multitheftauto/mtasa-blue,C++,"Multi Theft Auto is an open-source game engine that adds full multi-player network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found.",113,39,multitheftauto,Multi Theft Auto,Organization,,113
+arachne-pnr,cseed/arachne-pnr,C++,Place and route tool for FGPAs,112,10,cseed,,User,,112
+rc-switch,sui77/rc-switch,C++,Automatically exported from code.google.com/p/rc-switch,111,52,sui77,,User,Hamburg,111
+date,HowardHinnant/date,C++,A date and time library based on the C++11 (and beyond) <chrono> header,110,14,HowardHinnant,,User,,110
+testlib,MikeMirzayanov/testlib,C++,Automatically exported from code.google.com/p/testlib,109,27,MikeMirzayanov,Mike Mirzayanov,User,,109
+cryptopp,weidai11/cryptopp,C++,,111,54,weidai11,,User,,111
+deep-dream-generator,ryankennedyio/deep-dream-generator,C++,"#deepdream in a docker environment, to save you 8 hours of setup headaches.",110,40,ryankennedyio,Ryan Kennedy,User,,110
+Dunjun,gingerBill/Dunjun,C++,A project documenting and demonstrating the process of developing a game from scratch.,109,4,gingerBill,gingerBill,User,,109
+FreeRCT,FreeRCT/FreeRCT,C++,"FreeRCT aims to be a free and open source game which captures the look, feel and gameplay of the popular games RollerCoaster Tycoon 1 and 2.",108,13,FreeRCT,FreeRCT,Organization,,108
+demoncrypt,eijah/demoncrypt,C++,"Believe in the Right to Share.  Secure, Anonymous, Free, Everywhere.  Welcome to the Future of File Sharing.",106,6,eijah,Eijah,User,,106
+better-enums,aantron/better-enums,C++,"Compile-time enum to string, iteration, in a single header file.",107,9,aantron,Anton,User,Chicago,107
+cld2,CLD2Owners/cld2,C++,Compact Language Detector 2,106,14,CLD2Owners,,Organization,,106
+fuse-bindings,mafintosh/fuse-bindings,C++,Fully maintained FUSE bindings for Node that aims to cover the entire FUSE api,105,10,mafintosh,Mathias Buus,User,"Copenhagen, Denmark",3455
+LintCode,kamyu104/LintCode,C++,C++ 11 Solutions of All 257 LintCode Problems,106,61,kamyu104,kamyu,User,,106
+Python_Pin,blankwall/Python_Pin,C++,,105,14,blankwall,,User,,105
+faster-rnnlm,yandex/faster-rnnlm,C++,Faster Recurrent Neural Network Language Modeling Toolkit with Noise Contrastive Estimation and Hierarchical Softmax,102,25,yandex,Yandex,Organization,"Moscow, Russia",102
+luwra,vapourismo/luwra,C++,Minimal-overhead Lua wrapper for C++,101,2,vapourismo,Ole,User,Berlin,101
+ThreadPool,nbsdx/ThreadPool,C++,"Lightweight, Generic, Pure C++11 ThreadPool",102,7,nbsdx,Neil,User,,102
+LuminanceHDR,LuminanceHDR/LuminanceHDR,C++,A complete workflow for HDR imaging,100,13,LuminanceHDR,Luminance HDR,Organization,,100
+sparsehash,sparsehash/sparsehash,C++,Automatically exported from code.google.com/p/sparsehash,100,21,sparsehash,,Organization,,100
+picotorrent,picotorrent/picotorrent,C++,"A tiny, hackable BitTorrent client.",100,9,picotorrent,,Organization,,100
+WinObjC,Microsoft/WinObjC,C,Objective-C for Windows,4842,552,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+disque,antirez/disque,C,Disque is a distributed message broker,4076,240,antirez,Salvatore Sanfilippo,User,"Campobello di Licata, Sicily, Italy",4076
+tmux,tmux/tmux,C,tmux source code,3639,234,tmux,tmux,Organization,,3639
+JSPatch,bang590/JSPatch,C,JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.,3300,576,bang590,bang,User,"Guangdong, China",3607
+vim,vim/vim,C,The official Vim repository,2754,254,vim,Vim - the text editor,Organization,,2754
+p2pvc,mofarrell/p2pvc,C,A point to point color terminal video chat.,2565,180,mofarrell,Michael O'Farrell,User,,2565
+xhyve,mist64/xhyve,C,"xhyve, a lightweight OS X virtualization solution",1952,94,mist64,Michael Steil,User,,2183
+hashcat,hashcat/hashcat,C,Advanced CPU-based password recovery utility,1904,247,hashcat,,Organization,,2947
+icmptunnel,DhavalKapil/icmptunnel,C,Transparently tunnel your IP traffic through ICMP echo and reply packets.,1681,92,DhavalKapil,Dhaval Kapil,User,IIT Roorkee,1681
+eddystone,google/eddystone,C,"Specification for Eddystone, an open beacon format from Google",1562,298,google,Google,Organization,,70104
+swift-corelibs-foundation,apple/swift-corelibs-foundation,C,"The Foundation Project, providing core utilities, internationalization, and OS independence",1492,263,apple,Apple,Organization,"Cupertino, CA",34543
+Win32-OpenSSH,PowerShell/Win32-OpenSSH,C,Win32 port of OpenSSH,1292,100,PowerShell,,Organization,,1622
+movfuscator,xoreaxeaxeax/movfuscator,C,The single instruction C compiler,1269,71,xoreaxeaxeax,domas,User,,1269
+jsmpeg-vnc,phoboslab/jsmpeg-vnc,C,"A low latency, high framerate screen sharing server for Windows and client for browsers",1151,158,phoboslab,Dominic Szablewski,User,,1427
+oclHashcat,hashcat/oclHashcat,C,World's fastest and most advanced GPGPU-based password recovery utility,1043,158,hashcat,,Organization,,2947
+MBE,RPISEC/MBE,C,Course materials for Modern Binary Exploitation by RPISEC,1020,143,RPISEC,,User,"Troy, NY",1020
+php7-internal,laruence/php7-internal,C,Understanding PHP7 Internal articles,955,71,laruence,Xinchen Hui,User,"Beijing, China",955
+stronglink,btrask/stronglink,C,"A searchable, syncable, content-addressable notetaking system",936,46,btrask,Ben Trask,User,North Carolina,936
+i3,i3/i3,C,A better tiling and dynamic window manager,902,121,i3,i3,Organization,,902
+mptun,cloudwu/mptun,C,Multi-path Tunnel,868,199,cloudwu,云风,User,China,1250
+brubeck,github/
