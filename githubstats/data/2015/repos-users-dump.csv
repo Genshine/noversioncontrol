@@ -6280,4 +6280,141 @@ laptop,monfresh/laptop,Shell,A shell script which turns your Mac into an awesome
 dotfiles,dylanaraps/dotfiles,Shell,My dotfiles,125,3,dylanaraps,Dylan Araps,User,,125
 winetricks,Winetricks/winetricks,Shell,Automatically exported from code.google.com/p/winetricks,122,29,Winetricks,,Organization,,122
 docker-mailserver,tomav/docker-mailserver,Shell,"A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.",122,31,tomav,Thomas VIAL,User,"Paris, France",122
-heroku-buildpack-swift,kylef/heroku-buildpac
+heroku-buildpack-swift,kylef/heroku-buildpack-swift,Shell,,122,9,kylef,Kyle Fuller,User,"London, England",1102
+ScaledVisibleCellsCollectionView,ikemai/ScaledVisibleCellsCollectionView,Shell,,122,9,ikemai,ikemai,User,,122
+skinnywhale,djosephsen/skinnywhale,Shell,Skinnywhale helps you make smaller (as in megabytes) Docker containers,121,10,djosephsen,Dave Josephsen,User,,121
+DietPi,Fourdee/DietPi,Shell,Lightweight justice for your single-board computer.,119,13,Fourdee,Dan,User,UK,119
+ark-server-tools,FezVrasta/ark-server-tools,Shell,Set of server tools used to manage ARK: Survival Evolved servers on Linux,119,47,FezVrasta,Fez Vrasta,User,"Milan, Italy",119
+boot2docker-vagrant,blinkreaction/boot2docker-vagrant,Shell,Boot2docker Vagrant box for optimized Docker and Docker Compose use on Mac and Windows,118,27,blinkreaction,,Organization,,118
+rpi-webapplication,zehfernandes/rpi-webapplication,Shell,Text Guide and snippets to have 60fps web application using Raspberry,117,8,zehfernandes,Zeh Fernandes,User,"São Paulo, Brazil",117
+xcv,busterc/xcv,Shell,"Cut, Copy and Paste files with Bash",116,6,busterc,Buster Collings,User,,116
+C1000K-Servers,smallnest/C1000K-Servers,Shell,"High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections",115,45,smallnest,smallnest,User,China,115
+icons,elementary/icons,Shell,"An icon theme designed to be smooth, sexy, clear, and efficient.",110,6,elementary,elementary,Organization,,418
+TTGEmojiRate,zekunyan/TTGEmojiRate,Shell,"An emoji-liked rating view for iOS, implemented in Swift.",110,9,zekunyan,zekunyan,User,Wuhan.Hubei.China,371
+bitmap-fonts,Tecate/bitmap-fonts,Shell,"Monospaced bitmap fonts for X11, good for terminal use.",111,6,Tecate,tec8,User,,111
+nvm-fish-wrapper,passcod/nvm-fish-wrapper,Shell,NVM wrapper for the fish shell,111,5,passcod,Félix Saparelli,User,New Zealand,111
+np,sindresorhus/np,Shell,A better `npm publish`,111,5,sindresorhus,Sindre Sorhus,User,✈,11371
+angular-webpack-cookbook,dmachat/angular-webpack-cookbook,Shell,The repository for the Angular Webpack Cookbook Gitbook,108,4,dmachat,Drew Machat,User,San Francisco,108
+php-7-debian,kasparsd/php-7-debian,Shell,Install PHP 7 on Debian/Ubuntu,106,36,kasparsd,Kaspars Dambis,User,"Rīga, Latvia",106
+modwifi,vanhoefm/modwifi,Shell,,106,23,vanhoefm,,User,,106
+gimme,travis-ci/gimme,Shell,"Install go, yay!",106,12,travis-ci,Travis CI,Organization,"Berlin, Germany",106
+ops_doc,liquanzhou/ops_doc,Shell,运维简洁实用手册,105,120,liquanzhou,李权洲,User,中国北京海淀区五道口,105
+rust-on-raspberry-pi,Ogeon/rust-on-raspberry-pi,Shell,Instructions for how to cross compile Rust projects for the Raspberry Pi,105,4,Ogeon,Erik Hedvall,User,"Umeå, Sweden",105
+gitnonymous,chr15m/gitnonymous,Shell,Anonymous Git commits over Tor,104,7,chr15m,Chris McCormick,User,,104
+siji,gstk/siji,Shell,Systemd of iconic fonts,103,4,gstk,stark,User,,103
+mpc,g0tmi1k/mpc,Shell,Msfvenom Payload Creator (MPC),104,24,g0tmi1k,g0tmi1k,User,UK,104
+ceph_from_scratch,tobegit3hub/ceph_from_scratch,Shell,The practical ceph book,104,12,tobegit3hub,tobe,User,Beijing,104
+oneinstack,lj2007331/oneinstack,Shell,OneinStack - A PHP/JAVA Deployment Tool,103,52,lj2007331,,User,,103
+strip-docker-image,mvanholsteijn/strip-docker-image,Shell,Utility to strip Docker images to their bare minimum size.,103,21,mvanholsteijn,Mark van Holsteijn,User,"Hilversum, The  Netherlands",103
+unix-privesc-check,pentestmonkey/unix-privesc-check,Shell,Automatically exported from code.google.com/p/unix-privesc-check,102,34,pentestmonkey,,User,,244
+tsws,dfletcher/tsws,Shell,"TSWS, A Totally Simple Web Server",101,10,dfletcher,Dave Fletcher,User,,101
+centos,boxcutter/centos,Shell,Virtual machine templates for CentOS,101,68,boxcutter,Boxcutter,Organization,,416
+iohyve,pr1ntf/iohyve,Shell,FreeBSD bhyve manager utilizing ZFS,100,10,pr1ntf,pr1ntf,User,,100
+p,chrismdp/p,Shell,A simple yet powerful pomodoro tracker in pure Shell,100,4,chrismdp,Chris Parsons,User,"Winchester, UK",100
+diffy,twitter/diffy,Scala,Find potential bugs in your services with Diffy,2398,142,twitter,"Twitter, Inc.",Organization,"San Francisco, CA",7027
+kafka-manager,yahoo/kafka-manager,Scala,A tool for managing Apache Kafka.,1714,411,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",10798
+cats,non/cats,Scala,"Lightweight, modular, and extensible library for functional programming.",781,153,non,Erik Osheim,User,Providence / Philly / NYC,781
+Ammonite,lihaoyi/Ammonite,Scala,Rock-solid shell scripting,666,79,lihaoyi,Li Haoyi,User,,666
+objc2swift,yahoojapan/objc2swift,Scala,Open Source Obj-C to Swift Converter.,523,23,yahoojapan,Yahoo! JAPAN,Organization,"Tokyo, Japan",523
+CoolplaySpark,proflin/CoolplaySpark,Scala,酷玩 Spark,415,123,proflin,proflin,User,"Beijing, China",415
+sri,chandu0101/sri,Scala,"Build truly native cross platform (web,ios,android,desktop) apps using scalajs and react",401,11,chandu0101,Chandra Sekhar Kode,User,"Vijayawada,India",401
+curiodb,stephenmcd/curiodb,Scala,Distributed & Persistent NoSQL Database,378,30,stephenmcd,Stephen McDonald,User,"Sydney, Australia",378
+better-files,pathikrit/better-files,Scala,"Simple, safe and intuitive Scala I/O",373,21,pathikrit,Pathikrit Bhowmick,User,"San Francisco, CA",651
+spark-timeseries,cloudera/spark-timeseries,Scala,A library for time series analysis on Apache Spark,351,113,cloudera,Cloudera,Organization,"California, USA",910
+eventuate,RBMHTechnology/eventuate,Scala,"Distributed, highly-available and partition-tolerant event sourcing",304,28,RBMHTechnology,Red Bull Media House,Organization,"Wals, Salzburg",304
+FiloDB,tuplejump/FiloDB,Scala,Distributed.  Columnar.  Versioned.  Streaming.  SQL.,303,45,tuplejump,tuplejump,Organization,"Hyderabad, India",303
+quill,getquill/quill,Scala,Compile-time Language Integrated Query for Scala,285,21,getquill,Quill,Organization,,285
+keystone,amplab/keystone,Scala,Simplifying robust end-to-end machine learning on Apache Spark.,264,51,amplab,AMPLab at UC Berkeley,Organization,"Berkeley, CA, USA",264
+scalajs-spa-tutorial,ochrons/scalajs-spa-tutorial,Scala,Tutorial for creating a simple Single Page Application in ScalaJS,263,74,ochrons,Otto Chrons,User,Finland,489
+circe,travisbrown/circe,Scala,Yet another JSON library for Scala,256,28,travisbrown,Travis Brown,User,"Chicago, IL",256
+simulacrum,mpilquist/simulacrum,Scala,First class syntax support for type classes in Scala,240,18,mpilquist,Michael Pilquist,User,,365
+sangria,sangria-graphql/sangria,Scala,Scala GraphQL implementation,241,12,sangria-graphql,,Organization,Planet Earth,241
+kafka,mesos/kafka,Scala,Apache Kafka on Apache Mesos,213,54,mesos,Mesos,Organization,"Berkeley, CA",347
+refined,fthomas/refined,Scala,Simple refinement types for Scala,199,11,fthomas,Frank S. Thomas,User,"Augsburg, Germany",199
+REPLesent,marconilanna/REPLesent,Scala,A neat little tool to build presentations using the Scala REPL,193,17,marconilanna,Marconi Lanna,User,"Toronto, Canada",193
+s2graph,kakao/s2graph,Scala,Large Scale Distribute Graph Database,183,31,kakao,kakao Corp.,Organization,"Jeju & Pangyo, South Korea",183
+Sparkta,Stratio/Sparkta,Scala,Real Time Aggregation based on Spark Streaming,165,37,Stratio,STRATIO BIG DATA Inc. SUCURSAL EN ESPAÑA,Organization,"Via de las Dos Castillas, 33 - ATICA 4. planta 3ª - 28224 POZUELO DE ALARCON (Madrid).",478
+jupyter-scala,alexarchambault/jupyter-scala,Scala,Lightweight Scala kernel for Jupyter / IPython 3,159,13,alexarchambault,Alexandre Archambault,User,Paris,159
+spark-mongodb,Stratio/spark-mongodb,Scala,Spark library for easy MongoDB access,148,38,Stratio,STRATIO BIG DATA Inc. SUCURSAL EN ESPAÑA,Organization,"Via de las Dos Castillas, 33 - ATICA 4. planta 3ª - 28224 POZUELO DE ALARCON (Madrid).",478
+akka-http-scala-js-websocket-chat,jrudolph/akka-http-scala-js-websocket-chat,Scala,An example app that integrates akka-http and scala-js to implement a websocket chat,145,22,jrudolph,Johannes Rudolph,User,"Hamburg, Germany",145
+samza,apache/samza,Scala,Mirror of Apache Samza,142,71,apache,The Apache Software Foundation,Organization,,3728
+quicklens,adamw/quicklens,Scala,Modify deeply nested case class fields,142,4,adamw,Adam Warski,User,"Warsaw, Poland",142
+sauron,pathikrit/sauron,Scala,Yet another Scala lens macro,139,8,pathikrit,Pathikrit Bhowmick,User,"San Francisco, CA",651
+metarest,pathikrit/metarest,Scala,Scala macros to generate RESTful Models,139,6,pathikrit,Pathikrit Bhowmick,User,"San Francisco, CA",651
+kafka-rx,cjdev/kafka-rx,Scala,reactive kafka client,130,11,cjdev,CJ Engineering,Organization,"Westlake Village, CA",130
+Structures,mpilquist/Structures,Scala,Functional type classes for Scala,125,8,mpilquist,Michael Pilquist,User,,365
+scalacss,japgolly/scalacss,Scala,Super type-safe CSS for Scala and Scala.JS.,123,15,japgolly,David Barri,User,"Sydney, Australia",123
+bugatti,QianmiOpen/bugatti,Scala,运维自动化部署监控平台,124,60,QianmiOpen,千米网,Organization,,124
+spark-testing-base,holdenk/spark-testing-base,Scala,Base classes to use when writing tests with Spark,123,32,holdenk,Holden Karau,User,"San Francisco, CA, USA",123
+akka-dddd-template,boldradius/akka-dddd-template,Scala,Akka DDDD template using CQRS/ES with a Distributed Domain,121,31,boldradius,BoldRadius,Organization,Ottawa  |  San Francisco Bay Area | Saskatoon | New York | Toronto,121
+boopickle,ochrons/boopickle,Scala,Binary serialization library for efficient network communication,121,13,ochrons,Otto Chrons,User,Finland,489
+ionroller,gilt/ionroller,Scala,AWS Immutable Deployment framework for web services,120,8,gilt,Gilt Tech,Organization,New York City,120
+akka-http-session,softwaremill/akka-http-session,Scala,"Web & mobile client-side akka-http sessions, with optional JWT support",118,3,softwaremill,SoftwareMill,Organization,"Warsaw, Poland",118
+ddd-leaven-akka-v2,pawelkaczor/ddd-leaven-akka-v2,Scala,Next generation of ddd-leaven-akka,116,21,pawelkaczor,Paweł Kaczor,User,Poland,116
+coral,coral-streaming/coral,Scala,"Coral is a real-time analytics and data science platform. It transforms streaming events and extract patterns from data via RESTful APIs. Built on Scala, Akka, Cassandra and Spray.",115,13,coral-streaming,,Organization,,115
+vamp,magneticio/vamp,Scala,Vamp is the Very Awesome Microservices Platform,114,11,magneticio,Magnetic.io,Organization,Netherlands,114
+bond,fwbrasil/bond,Scala,Type-level validation for Scala,110,3,fwbrasil,Flavio W. Brasil,User,"San Francisco, California",110
+docker-ui-chrome-app,felixgborrego/docker-ui-chrome-app,Scala,Docker UI for Chrome,105,7,felixgborrego,Felix Garcia Borrego,User,Dublin,105
+diode,ochrons/diode,Scala,Scala library for managing immutable application model,105,6,ochrons,Otto Chrons,User,Finland,489
+scalaprops,scalaprops/scalaprops,Scala,property based testing library for Scala,105,6,scalaprops,,Organization,,105
+knobs,oncue/knobs,Scala,A reasonable configuration library for Scala,102,15,oncue,OnCue,Organization,"San Jose, CA",102
+status,owainlewis/status,Scala,"An open source, self hosted status page application for communicating service incidents to customers.",100,8,owainlewis,Owain Lewis,User,UK,1619
+metabase,metabase/metabase,Clojure,"The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:",2103,92,metabase,Metabase,Organization,,2103
+specter,nathanmarz/specter,Clojure,Clojure's missing piece,859,28,nathanmarz,Nathan Marz,User,San Francisco / New York,859
+parinfer,shaunlebron/parinfer,Clojure,Let's simplify the way we write Lisp...,783,12,shaunlebron,Shaun LeBron,User,"Houston, TX",930
+ultra,venantius/ultra,Clojure,A Leiningen plugin for a superior development environment,717,12,venantius,Ursa americanus kermodei,User,"San Francisco, CA",817
+markright,dvcrn/markright,Clojure,➡ Electron powered markdown editor with live preview,637,27,dvcrn,David Mohl,User,Tokyo,750
+lux,LuxLang/lux,Clojure,The Lux Programming Language,403,16,LuxLang,,User,,403
+Excel-REPL,whamtet/Excel-REPL,Clojure,Clojure Development Environment for Excel,274,9,whamtet,Matthew Molloy,User,Hong Kong,274
+pepa,bevuta/pepa,Clojure,A document management system,198,17,bevuta,bevuta IT GmbH,Organization,"Cologne, Germany",198
+structural-typing,marick/structural-typing,Clojure,"Structural typing for Clojure, somewhat inspired by Elm. Tailored to 'flow-style' programming, where complex structures flow through a series of functions, each of which makes a smallish change. Can also be used in testing tools and the like that need to describe how a nested structure differs from a description.",191,6,marick,Brian Marick,User,"Champaign, IL USA",191
+sparkling,gorillalabs/sparkling,Clojure,"A Clojure library for Apache Spark: fast, fully-features, and developer friendly ",186,24,gorillalabs,,Organization,Hamburg,186
+mount,tolitius/mount,Clojure,managing Clojure and ClojureScript app state since (reset),183,9,tolitius,Anatoly,User,"Philadelphia, PA",183
+falkor,owainlewis/falkor,Clojure,Open Source web scraping API. Falkor turns web pages into queryable JSON,180,6,owainlewis,Owain Lewis,User,UK,1619
+muse,kachayev/muse,Clojure,Clojure library that makes remote data access code elegant and efficient at the same time,178,10,kachayev,Alexey Kachayev,User,"Kyiv, Ukraine",178
+om-i,PrecursorApp/om-i,Clojure,Instrumentation helpers for Om applications,160,3,PrecursorApp,Precursor,Organization,"Portland, OR",160
+lein_template_descjop,karad/lein_template_descjop,Clojure,A Leiningen template for Web based desktop application with Electron(atom-shell) and others. (now Electron(atom-shell) based only. will build nw.js based later...),158,6,karad,kazuhiro hara,User,"japan, chiba",158
+om-tutorial,awkay/om-tutorial,Clojure,WORK IN PROGRESS,157,24,awkay,Tony Kay,User,"Bend, OR",157
+solar-system-of-js,shaunlebron/solar-system-of-js,Clojure,Visualize the languages on the JS platform,147,5,shaunlebron,Shaun LeBron,User,"Houston, TX",930
+cqrs-server,Yuppiechef/cqrs-server,Clojure,"An opinionated Clojure CQRS/ES implementation using Onyx, Datomic, DynamoDB, Kafka and Zookeeper.",136,7,Yuppiechef,Yuppiechef,Organization,South Africa,136
+superstring,expez/superstring,Clojure,Clojure and Clojurescript string library,131,3,expez,Lars Andersen,User,"Oslo, Norway",131
+VisualReview,xebia/VisualReview,Clojure,"VisualReview, a human-friendly tool for testing and reviewing visual regressions.",129,10,xebia,Xebia BV,Organization,"Hilversum, the Netherlands",129
+reforms,bilus/reforms,Clojure,"Beautiful Bootstrap 3 forms for Om, Reagent and Rum.",124,5,bilus,,User,,124
+cljs-vdom,brandonbloom/cljs-vdom,Clojure,Yet another (but somewhat novel) virtual DOM library,122,1,brandonbloom,Brandon Bloom,User,"Seattle, WA",122
+cljs-bootstrap,swannodette/cljs-bootstrap,Clojure,ClojureScript compiling ClojureScript,119,14,swannodette,David Nolen,User,New York,119
+dato,datodev/dato,Clojure,Experiment in distilling apps to their essence,119,1,datodev,,Organization,,119
+reanimated,timothypratley/reanimated,Clojure,An animation library for Reagent (ClojureScript),117,3,timothypratley,Timothy Pratley,User,,117
+cljs-electron,Gonzih/cljs-electron,Clojure,ClojureScript + Electron + Figwheel + Reagent  = ❤❤❤,113,7,Gonzih,Max Gonzih,User,"Amsterdam, Netherlands",113
+proton,dvcrn/proton,Clojure,spacemacs and sublimious style editing in atom,113,7,dvcrn,David Mohl,User,Tokyo,750
+doo,bensu/doo,Clojure,doo is a library and lein plugin to run cljs.test on different js environments.,110,16,bensu,Sebastian Bensusan,User,Stockholm,110
+brutha,weavejester/brutha,Clojure,Simple ClojureScript interface to React,109,1,weavejester,James Reeves,User,"London, UK",109
+cljs4excel,cfelde/cljs4excel,Clojure,Run a ClojureScript REPL within Microsoft Excel,108,0,cfelde,Christian Felde,User,"London, UK",108
+tesla-microservice,otto-de/tesla-microservice,Clojure,Common basis for some of otto.de's clojure microservices,107,13,otto-de,OTTO (GmbH & Co. KG),Organization,"Hamburg, Germany",107
+perun,hashobject/perun,Clojure,Static site generator build with Clojure and Boot,101,11,hashobject,hashobject,Organization,San Francisco,101
+yagni,venantius/yagni,Clojure,A Leiningen plugin for finding dead code,100,1,venantius,Ursa americanus kermodei,User,"San Francisco, CA",817
+Functional-Programming,caiorss/Functional-Programming,Haskell,"Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",1887,90,caiorss,Caio Rordrigues,User,"Recife, Brazil",2086
+stack,commercialhaskell/stack,Haskell,The Haskell Tool Stack,1326,174,commercialhaskell,Commercial Haskell SIG,Organization,,1729
+write-you-a-haskell,sdiehl/write-you-a-haskell,Haskell,Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/),978,73,sdiehl,Stephen Diehl,User,"Boston, MA",1124
+haskell-must-watch,drKraken/haskell-must-watch,Haskell,":book: Huge list of  videos, talks , courses for Haskell programming language.",491,37,drKraken,Oleh Kuchuk,User,"Ukraine, Kyiv",491
+dnngraph,ajtulloch/dnngraph,Haskell,"A DSL for deep neural networks, supporting Caffe and Torch",390,24,ajtulloch,Andrew Tulloch,User,San Francisco,390
+FP101x-Content-2015,fptudelft/FP101x-Content-2015,Haskell,FP101x - Functional Programming MOOC 2015 Content Repository,274,76,fptudelft,,Organization,"Delft, NL",274
+Haskell-Turtle-Library,Gabriel439/Haskell-Turtle-Library,Haskell,"Shell programming, Haskell style",270,31,Gabriel439,Gabriel Gonzalez,User,San Francisco,797
+haskell-ide-engine,haskell/haskell-ide-engine,Haskell,The engine for haskell ide-integration. Not an IDE,250,16,haskell,Haskell,Organization,,250
+caramel,MaiaVictor/caramel,Haskell,A modern syntax for the λ-calculus.,250,10,MaiaVictor,,User,,693
+sjsp,itchyny/sjsp,Haskell,Simple JavaScript Profiler,199,5,itchyny,itchyny,User,"Kyoto, Japan",199
+haskell-tor,GaloisInc/haskell-tor,Haskell,A Haskell implementation of the Tor protocol.,197,12,GaloisInc,"Galois, Inc.",Organization,"Portland, OR",197
+summer-2015-haskell-class,michaelochurch/summer-2015-haskell-class,Haskell,Summer 2015 Haskell Class,186,11,michaelochurch,,User,,186
+markup.rocks,osener/markup.rocks,Haskell,Pandoc based document editor and converter in your browser.,176,10,osener,Ozan Sener,User,Istanbul,176
+halive,lukexi/halive,Haskell,Live recompiler for Haskell,173,9,lukexi,Luke Iannini,User,"San Francisco, CA",173
+airship,helium/airship,Haskell,"Helium + Webmachine = Airship. A toolkit for building declarative, RESTful web apps.",170,11,helium,"Helium Systems, Inc.",Organization,"San Francisco, CA",170
+record,nikita-volkov/record,Haskell,Anonymous records,163,3,nikita-volkov,Nikita Volkov,User,"Moscow, Russia",163
+haskelldocumentation,commercialhaskell/haskelldocumentation,Haskell,Repository for collaborative Haskell documentation,148,23,commercialhaskell,Commercial Haskell SIG,Organization,,1729
+rei,kerkomen/rei,Haskell,Process lists easily,145,3,kerkomen,,User,,145
+android-lint-summary,passy/android-lint-summary,Haskell,Prettier display of Android Lint issues,126,10,passy,Pascal Hartig,User,"London, UK",126
+HerbiePlugin,mikeizbicki/HerbiePlugin,Haskell,GHC plugin that improves Haskell code's numerical stability,123,6,mikeizbicki,Mike Izbicki,User,"Riverside, CA",123
+frp-arduino,frp-arduino/frp-arduino,Haskell,Arduino programming without the hassle of C.,113,9,frp-arduino,,Organization,,113
+xmonad,xmonad/xmonad,Haskell,"The core of xmonad, a small but functional ICCCM-compliant tiling window manager",110,19,xmonad,The xmonad window manager,Organization,,110
+Earley,ollef/Earley,Haskell,Parsing all context-free grammars using Earley's algorithm in Haskell.,108,6,ollef,Olle Fredriksson,User,Norway,108
+owlcloud,k-bx/owlcloud,Haskell,OwnCloud for owls done via The Microservice Architecture,103,2,k-bx,Kostiantyn Rybnikov,User,"Kiev, Ukraine",103
+Rocket.Chat,RocketChat/Rocket.Chat,CoffeeScript,"Have your own Slack like online chat, built with Meteor.",5227,937,RocketChat,Rocket.Chat,Organization,,5227
+textures,riccardoscalco/textures,CoffeeScript,Textures.js is a JavaScript library for creating SVG patterns,3246,144,riccardoscalco,Riccardo
