@@ -6141,4 +6141,143 @@ performance-optimization,mspnp/performance-optimization,C#,"Guidance on how to o
 SMAA-Unity,Chman/SMAA-Unity,C#,A highly customizable implementation of Subpixel Morphological Antialiasing for Unity3D.,133,25,Chman,Thomas,User,,242
 Retro3D,keijiro/Retro3D,C#,A shader that imitates low grade 3D graphics.,133,12,keijiro,Keijiro Takahashi,User,Japan,521
 osharp.v2,i66soft/osharp.v2,C#,osharp framework version 2.0,132,176,i66soft,柳柳软件,Organization,,255
-FlingOS,FlingOS/FlingOS,C#,An educational operating system written in C#. A great s
+FlingOS,FlingOS/FlingOS,C#,An educational operating system written in C#. A great stepping stone from high to low level development.,131,16,FlingOS,FlingOS™,Organization,"Bristol, UK",131
+letsencrypt-win-simple,Lone-Coder/letsencrypt-win-simple,C#,A Simple ACME Client for Windows,126,25,Lone-Coder,Bryan Livingston,User,Utah,126
+Rosin,AlloyTeam/Rosin,C#,A tool for web developers debug mobile page with fiddler. http://alloyteam.github.io/Rosin/,128,31,AlloyTeam,腾讯 AlloyTeam,Organization,"中国深圳(Shenzhen, China)",423
+DotNetty,Azure/DotNetty,C#,"DotNetty project – a port of netty, event-driven asynchronous network application framework",126,38,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",1007
+graphql-dotnet,graphql-dotnet/graphql-dotnet,C#,GraphQL for .NET,125,30,graphql-dotnet,,Organization,,125
+benchmarks,aspnet/benchmarks,C#,Benchmarks for ASP.NET 5,124,21,aspnet,,Organization,,824
+osharp,i66soft/osharp,C#,osharp framework version 3.x,123,153,i66soft,柳柳软件,Organization,,255
+Voxelmetric,AlexSTV/Voxelmetric,C#,An efficient voxel framework for Unity3d,123,41,AlexSTV,,User,,123
+openhardwaremonitor,openhardwaremonitor/openhardwaremonitor,C#,Open Hardware Monitor,117,47,openhardwaremonitor,Open Hardware Monitor,Organization,,117
+SparkCLR,Microsoft/SparkCLR,C#,C# language binding and extensions to Apache Spark,118,27,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+201505-MVA,Windows-XAML/201505-MVA,C#,,117,131,Windows-XAML,Windows XAML,Organization,,686
+WindowsStateTriggers,dotMorten/WindowsStateTriggers,C#,A collection of custom visual state triggers,115,33,dotMorten,Morten Nielsen,User,California,115
+ScintillaNET,jacobslusser/ScintillaNET,C#,"A Windows Forms control, wrapper, and bindings for the Scintilla text editor.",117,34,jacobslusser,,User,,117
+ss13remake,ss13remake/ss13remake,C#,a sadly defunct ss13 remake,117,62,ss13remake,,Organization,,117
+MiniWeChat-Client,MrNerverDie/MiniWeChat-Client,C#,A Mini WeChat client for mobile device based on Unity3D using MVVM framework,117,60,MrNerverDie,王选易,User,"Nanjing, China",117
+semantic-logging,mspnp/semantic-logging,C#,Supporting semantic/structured logging for .NET,116,47,mspnp,Microsoft patterns & practices,Organization,"Redmond, WA, USA",596
+VSSDK-Extensibility-Samples,Microsoft/VSSDK-Extensibility-Samples,C#,Samples for building your own Visual Studio extensions,115,40,Microsoft,Microsoft,Organization,"Redmond, WA",23867
+ExpressMapper,expressmapper/ExpressMapper,C#,Mapping .Net types,115,18,expressmapper,Expressmapper,Organization,USA,115
+FNA,FNA-XNA/FNA,C#,FNA - Accuracy-focused XNA4 reimplementation for open platforms,109,10,FNA-XNA,FNA Development Team,Organization,,109
+BrainSimulator,GoodAI/BrainSimulator,C#,,114,30,GoodAI,GoodAI,Organization,,114
+Heroes.ReplayParser,barrett777/Heroes.ReplayParser,C#,A C# library for parsing Heroes of the Storm replay files (.StormReplay).  Currently developed and used by HOTSLogs.com.,114,59,barrett777,Ben Barrett,User,,114
+xamarin-forms-book-preview-2,xamarin/xamarin-forms-book-preview-2,C#,Sample code for the 2nd Preview Edition of 'Creating Mobile Apps with Xamarin.Forms',114,92,xamarin,Xamarin,Organization,"Boston, MA",256
+Moments,pierceboggan/Moments,C#,A Snapchat clone built with Xamarin.Forms and Microsoft Azure. ,112,87,pierceboggan,Pierce Boggan,User,"Boston, MA",112
+wwt-windows-client,WorldWideTelescope/wwt-windows-client,C#,WorldWide Telescope Windows Application ,111,33,WorldWideTelescope,WorldWide Telescope,Organization,The known universe.,111
+unity-movement-ai,antonpantev/unity-movement-ai,C#,A Unity library for common movement AI,110,14,antonpantev,Anton,User,"Bay Area, CA",110
+Bogus,bchavez/Bogus,C#,A simple and sane fake data generator for C#. Based on and ported from the famed faker.js.,110,7,bchavez,Brian Chavez,User,"Glendale, CA, USA",110
+NWebsec,NWebsec/NWebsec,C#,Security libraries for ASP.NET,110,16,NWebsec,NWebsec,Organization,,110
+Moments,Chman/Moments,C#,A quick GIF replay recorder for Unity3D,109,13,Chman,Thomas,User,,242
+RazorGenerator,RazorGenerator/RazorGenerator,C#,"A Custom Tool for Visual Studio that allows processing Razor files at design time instead of runtime, allowing them to be built into an assembly for simpler reuse and distribution. ",109,41,RazorGenerator,,Organization,,109
+SteamDesktopAuthenticator,Jessecar96/SteamDesktopAuthenticator,C#,Desktop implementation of Steam's mobile authenticator app,107,31,Jessecar96,Jesse Cardone,User,New York,107
+Baconit,QuinnDamerell/Baconit,C#,"A beatiful, powerful, reddit client for Windows 10.",108,45,QuinnDamerell,Quinn Damerell,User,"Redmond, WA",108
+Jackett,zone117x/Jackett,C#,Use just about any tracker with Sonarr,105,66,zone117x,Matthew Little,User,"Boise, Idaho",105
+chummer5a,chummer5a/chummer5a,C#,Character generator for Shadowrun 5th edition,105,63,chummer5a,Chummer 5 Is Alive,User,,105
+NodeServices,aspnet/NodeServices,C#,Microsoft.AspNet.NodeServices,102,26,aspnet,,Organization,,824
+DoubanFM,kfstorm/DoubanFM,C#,A Windows client for douban.fm,103,41,kfstorm,Kai Yang,User,"Beijing, China",103
+ChromaPack,keijiro/ChromaPack,C#,ChromaPack -- A lossy texture compression plugin for Unity.,103,28,keijiro,Keijiro Takahashi,User,Japan,521
+tango-examples-unity,googlesamples/tango-examples-unity,C#,Project Tango UnitySDK Example Projects,102,65,googlesamples,Google Samples,Organization,,13082
+ReportGenerator,danielpalme/ReportGenerator,C#,"ReportGenerator converts XML reports generated by OpenCover, PartCover, Visual Studio  or NCover into human readable reports in various formats.",101,25,danielpalme,Daniel Palme,User,Germany,101
+T4MVC,T4MVC/T4MVC,C#,T4MVC is a T4 template for ASP.NET MVC apps that creates strongly typed helpers that eliminate the use of literal strings in many places.,101,33,T4MVC,,Organization,,101
+marten,JasperFx/marten,C#,Postgresql as a Document Database and Event Store for .Net Applications,101,18,JasperFx,,Organization,,101
+bocker,p8952/bocker,Shell,Docker implemented in around 100 lines of bash,2836,146,p8952,Peter Wilmott,User,"Brighton, United Kingdom",2836
+docker-alpine,gliderlabs/docker-alpine,Shell,Alpine Linux Docker image. Win at minimalism!,2442,100,gliderlabs,Glider Labs,Organization,"Austin, TX",2442
+git-radar,michaeldfallen/git-radar,Shell,A heads up display for git,2379,70,michaeldfallen,Michael Allen,User,London,2379
+desk,jamesob/desk,Shell,A lightweight workspace manager for the shell,1757,55,jamesob,James O'Beirne,User,,1757
+c,ryanmjacobs/c,Shell,Compile and execute C 'scripts' in one go!,1307,88,ryanmjacobs,Ryan Jacobs,User,,1307
+gg,qw3rtman/gg,Shell,":candy: Git Goodies: At-A-Glance, Efficient, and Aesthetically Pleasing Git Shortcuts",1293,43,qw3rtman,Nimit Kalra,User,"Dallas, Texas",2962
+che,codenvy/che,Shell,"Eclipse Che: High performance developer workspaces, cloud IDE, and plug-ins",1212,170,codenvy,Codenvy,Organization,,1212
+git-fire,qw3rtman/git-fire,Shell,:fire: Save Your Code in an Emergency,1157,42,qw3rtman,Nimit Kalra,User,"Dallas, Texas",2962
+pwd.sh,drduh/pwd.sh,Shell,Script to manage passwords in an encrypted file using gpg,1079,88,drduh,,User,,4408
+docker-bench-security,docker/docker-bench-security,Shell,The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. https://dockerbench.com,1031,91,docker,Docker,Organization,,6701
+wifi-password,rauchg/wifi-password,Shell,Get the password of the wifi you're on (bash),941,55,rauchg,Guillermo Rauch,User,SF,3866
+droidReverse,Juude/droidReverse,Shell,reverse engineering tools for android（android 逆向工程工具集）,838,142,Juude,J.D.Song,User,China ShangHai,2217
+MaterialColdStart,DreaminginCodeZH/MaterialColdStart,Shell,Utilize the window background during cold start time to make your app look faster.,737,63,DreaminginCodeZH,Zhang Hai,User,"Hangzhou, Zhejiang",1606
+docker-osx-dev,brikis98/docker-osx-dev,Shell,A productive development environment with Docker on OS X,699,63,brikis98,Yevgeniy Brikman,User,"Menlo Park, CA",699
+android-dev-bookmarks,zhengxiaopeng/android-dev-bookmarks,Shell,Android Dev Bookmarks(ADB) - Android 开发者站点资源,676,188,zhengxiaopeng,Rocko,User,"Shenzhen, China",676
+emojify,mrowa44/emojify,Shell,Emoji on the command line :scream:,577,21,mrowa44,Justyna Rachowicz,User,"Kraków, Poland",577
+ctypes.sh,taviso/ctypes.sh,Shell,A foreign function interface for bash.,573,30,taviso,Tavis Ormandy,User,,573
+scripts-to-rule-them-all,github/scripts-to-rule-them-all,Shell,Scripts to Rule Them All,553,27,github,GitHub,Organization,"San Francisco, CA",2165
+gockerize,aerofs/gockerize,Shell,Package golang service into minimal docker containers,547,12,aerofs,AeroFS,Organization,"Palo Alto, CA, 94301",768
+azure-quickstart-templates,Azure/azure-quickstart-templates,Shell,Azure Quickstart Templates,528,698,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",1007
+oh-my-fish,oh-my-fish/oh-my-fish,Shell,The Fishshell Framework.,523,63,oh-my-fish,Oh My Fish!,Organization,,523
+p,qw3rtman/p,Shell,:snake: Python Version Management Made Simple,512,16,qw3rtman,Nimit Kalra,User,"Dallas, Texas",2962
+opengapps,opengapps/opengapps,Shell,The main repository of the Open GApps Project,504,98,opengapps,Open GApps,Organization,,504
+ctf-tools,zardus/ctf-tools,Shell,Some setup scripts for security research tools.,457,127,zardus,Yan,User,"Santa Barbara, CA, USA",762
+letsencrypt.sh,lukas2511/letsencrypt.sh,Shell,letsencrypt/acme client implemented as a shell-script,451,39,lukas2511,Lukas Schauer,User,"Bonn, Deutschland",451
+cert-chain-resolver,zakjan/cert-chain-resolver,Shell,SSL certificate chain resolver,422,24,zakjan,Jan Žák,User,"Prague, Czech Republic",422
+git-secrets,awslabs/git-secrets,Shell,Prevents you from committing secrets and credentials into git repositories,400,6,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",2991
+git-open,paulirish/git-open,Shell,Type `git open` to open the GitHub page or website for a repository in your browser.,385,37,paulirish,Paul Irish,User,Palo Alto,2560
+interview,HIT-Alibaba/interview,Shell,笔试面试知识整理,361,74,HIT-Alibaba,HIT-Alibaba,Organization,"Harbin, Heilongjiang, China",361
+jsonlite,nodesocket/jsonlite,Shell,"A simple, self-contained, serverless, zero-configuration, json document store.",356,11,nodesocket,Justin Keller,User,"San Francisco, CA.",356
+prm,eivind88/prm,Shell,A minimal project manager for the terminal.,325,17,eivind88,Eivind Arvesen,User,Norway,325
+clouddream,VISIONAI/clouddream,Shell,Deepdreaming in the clouds: A Dockerized deepdream Guide,316,53,VISIONAI,vision.ai,Organization,USA,316
+mecab-ipadic-neologd,neologd/mecab-ipadic-neologd,Shell,Neologism dictionary based on the language resources on the Web for mecab-ipadic,310,25,neologd,NEologd,User,"Shibuya-ku, Tokyo-to, Japan",310
+do_user_scripts,digitalocean/do_user_scripts,Shell,,305,75,digitalocean,DigitalOcean,Organization,"New York, NY",442
+powerlevel9k,bhilburn/powerlevel9k,Shell,A Powerline-Inspired theme for ZSH!,283,49,bhilburn,Ben Hilburn,User,"Santa Clara, CA",283
+java-bible,biezhi/java-bible,Shell,:banana: JB is my java technology stack,273,74,biezhi,王爵,User,"ShangHai, China",1383
+tmux-continuum,tmux-plugins/tmux-continuum,Shell,Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.,272,14,tmux-plugins,,Organization,,272
+OfficeThinner,goodbest/OfficeThinner,Shell,save your disk space with Office 2016 for Mac,259,28,goodbest,,User,,259
+brootkit,cloudsec/brootkit,Shell,Lightweight rootkit implemented by bash shell scripts v0.10,260,96,cloudsec,wzt,User,China,260
+gitwatch,oxplot/gitwatch,Shell,Watch a git repository for changes,259,8,oxplot,Mansour Behabadi,User,Sydney Australia,259
+meteord,meteorhacks/meteord,Shell,MeteorD - Docker Runtime for Meteor Apps for Production Deployments,250,84,meteorhacks,,Organization,,763
+winetricks-zh,hillwoodroc/winetricks-zh,Shell,A setup wizard for Chinese wine users,237,49,hillwoodroc,Hillwood Yang,User,,237
+coreos-xhyve,coreos/coreos-xhyve,Shell,CoreOS running on xhyve hypervisor,233,27,coreos,CoreOS,Organization,,1738
+awesome-css,sotayamashita/awesome-css,Shell,:page_facing_up: A curated list of CSS lists,229,39,sotayamashita,Sota Yamashtia,User,"Tokyo, JAPAN",229
+swiftenv,kylef/swiftenv,Shell,Swift version manager,225,7,kylef,Kyle Fuller,User,"London, England",1102
+xps13,mpalourdio/xps13,Shell,DELL xps13 2015 (9343) Linux Support,224,24,mpalourdio,,User,,224
+nvidia-docker,NVIDIA/nvidia-docker,Shell,Build and run Docker containers leveraging NVIDIA GPUs,219,26,NVIDIA,NVIDIA Corporation,Organization,"2701 San Tomas Expressway, Santa Clara, California, 95050",1060
+dl-machine,deeplearningparis/dl-machine,Shell,Scripts to setup a GPU / CUDA-enabled compute server with libraries for deep learning,210,55,deeplearningparis,,Organization,,210
+pythonize,princebot/pythonize,Shell,"download, install, and configure Python in one line",208,6,princebot,princebot,User,"Austin, TX",208
+golang-builder,CenturyLinkLabs/golang-builder,Shell,Containerized build environment for compiling an executable Golang package and packaging it in a light-weight Docker container.,200,26,CenturyLinkLabs,CenturyLink Labs,Organization,,478
+zplug,b4b4r07/zplug,Shell,:hibiscus: A next-generation plugin manager for zsh,186,15,b4b4r07,BABAROT,User,"Tokyo, Japan",186
+git-fresh,imsky/git-fresh,Shell,:lemon: Fresh Git repository.,193,4,imsky,Ivan Malopinsky,User,New York City,193
+RxJavaProGuardRules,artem-zinnatullin/RxJavaProGuardRules,Shell,ProGuard rules for RxJava shipped as AAR!,192,11,artem-zinnatullin,Artem Zinnatullin,User,Saint-Petersburg,751
+video-to-gif-osx,minimaxir/video-to-gif-osx,Shell,A set of utilities that allow the user to easily convert video files to very-high-quality GIFs on OS X.,191,11,minimaxir,Max Woolf,User,San Francisco Bay Area,9890
+kubernetes-vagrant-coreos-cluster,pires/kubernetes-vagrant-coreos-cluster,Shell,Kubernetes cluster (for testing purposes) made easy with Vagrant and CoreOS.,188,85,pires,Paulo Pires,User,"Aveiro, Portugal // NY, United States",188
+ceph-docker,ceph/ceph-docker,Shell,Docker files and images to run Ceph in containers,184,76,ceph,Ceph,Organization,"California, USA",184
+docker-machine-nfs,adlogix/docker-machine-nfs,Shell,Activates NFS on docker-machine,181,28,adlogix,Adlogix Dev Team,Organization,"Brussels, Belgium",181
+bashscanner,PatrolServer/bashscanner,Shell,A fast way to scan your server for outdated software and potential exploits.,138,15,PatrolServer,PatrolServer,Organization,"Ghent, Belgium",138
+strap,mikemcquaid/strap,Shell,:boot: Bootstrap your OS X development system.,178,13,mikemcquaid,Mike McQuaid,User,"Edinburgh, Scotland",178
+pipeline,fluxcapacitor/pipeline,Shell,"End-to-End, Real-time, Advanced Analytics Big Data Reference Pipeline using Spark, Spark SQL, Spark ML, GraphX, Spark Streaming, Kafka, NiFi, Cassandra, ElasticSearch, Redis, Tachyon, HDFS, Zeppelin, Spark-Notebook, iPython/Jupyter Notebook, Tableau.  See https://github.com/fluxcapacitor/pipeline/wiki for Setup Instructions.",177,56,fluxcapacitor,Flux Capacitor Big Data Repo,Organization,"San Francisco, CA",177
+dlite,nlf/dlite,Shell,The simplest way to use Docker on OS X,176,5,nlf,Nathan LaFreniere,User,"Kennewick, WA",176
+prettyping,denilsonsa/prettyping,Shell,"`prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.",177,14,denilsonsa,Denilson Figueiredo de Sá,User,Brazil,177
+RPAXU,cikelengfeng/RPAXU,Shell,refresh plugins after Xcode upgrading,175,42,cikelengfeng,DongXu,User,,175
+hasp,djanowski/hasp,Shell,Half-assed CSS preprocessor.,174,3,djanowski,Damian Janowski,User,"Buenos Aires, Argentina",174
+le,Neilpang/le,Shell,Simplest shell script for LetsEncrypt free Certificate client,159,21,Neilpang,Neil,User,,159
+docker-iojs,nodejs/docker-iojs,Shell,Official Docker images from the io.js project,171,29,nodejs,,Organization,,3323
+delete-unknown-root-ca,sammcj/delete-unknown-root-ca,Shell,Delete Known Government-Linked Certificate Authorities in OS X,169,8,sammcj,Sam,User,"Melbourne, Australia",169
+ubuntu,boxcutter/ubuntu,Shell,Virtual machine templates for Ubuntu,168,77,boxcutter,Boxcutter,Organization,,416
+elementary-dropbox,zant95/elementary-dropbox,Shell,Installs Dropbox and integrates it with WingPanel (for Elementary OS Freya).,167,19,zant95,Héctor Molinero Fernández,User,Madrid,167
+SansBullshitSans,RoelN/SansBullshitSans,Shell,Source for the Sans Bullshit Sans font,165,27,RoelN,Roel N,User,Netherlands,165
+Beluga,cortexmedia/Beluga,Shell,Beluga a CLI to deploy docker containers on a single server or low amount of servers.,160,9,cortexmedia,Cortex,Organization,"Quebec, Canada",160
+humanism.sh,cyphunk/humanism.sh,Shell,"subjective but sensible defaults for shell use. Ubuntu, OSX, FreeBSD tested.",159,6,cyphunk,Nathan Fain,User,brelin,159
+s,haosdent/s,Shell,s is a tool for ssh like z for cd,158,12,haosdent,haosdent,User,Singapore,158
+figure,project-nsmg/figure,Shell,Fig powered mini-Heroku,157,5,project-nsmg,Project Nsmg,Organization,,157
+Tango,aplura/Tango,Shell,Honeypot Intelligence with Splunk,156,16,aplura,,Organization,,156
+docker-java,javaee-samples/docker-java,Shell,Docker for Java Developers,157,61,javaee-samples,JavaEE Samples,Organization,,157
+underhanded,ayust/underhanded,Shell,The ultimate underhanded dotfiles,155,19,ayust,Amber Yust,User,"San Francisco, CA",155
+plowshare,mcrapet/plowshare,Shell,Command-line tool and engine for managing sharing websites,149,20,mcrapet,Matthieu Crapet,User,,149
+docker-workshop,William-Yeh/docker-workshop,Shell,Slides and lab materials for my Docker Workshop (in Traditional Chinese).,153,336,William-Yeh,William Yeh,User,Taipei,153
+wahoo,bucaran/wahoo,Shell,:sushi: Yet Another Fish Framework,152,21,bucaran,Jorge Bucaran,User,"Tokyo, Japan",2495
+sslfie,mkropat/sslfie,Shell,Generate self-signed x.509 certificates for use with SSL/TLS,151,5,mkropat,Michael Kropat,User,"Blacksburg, VA",151
+chswift,neonichu/chswift,Shell,"The missing Swift version manager, inspired by chruby.",148,4,neonichu,Boris Bügling,User,"Berlin, Germany",1957
+x509-san,frntn/x509-san,Shell,Generate self-signed x509 certificates valid for multiple URLs/IPs,147,10,frntn,Matthieu Fronton,User,Paris,147
+tiny-mitm-proxy,floyd-fuh/tiny-mitm-proxy,Shell,Probably one of the smallest SSL MITM proxies you can make,141,24,floyd-fuh,floyd,User,,141
+BruteX,1N3/BruteX,Shell,Automatically brute force all services running on a target.,139,46,1N3,1N3,User,"Toronto, Canada",320
+proposal,golang/proposal,Shell,Go Project Design Documents,138,18,golang,Go,Organization,,846
+node-reinstall,brock/node-reinstall,Shell,Complete Node Reinstall for OSX and Linux,137,18,brock,Brock Angelo,User,"Champaign, IL",137
+go,treeder/go,Shell,Go tool that uses Docker and only Docker. ,136,11,treeder,Travis Reeder,User,"San Francisco, CA",136
+TheConstitutionOfIndia,anoopdixith/TheConstitutionOfIndia,Shell,Repository for the Constitution of India.,136,17,anoopdixith,,User,"San Mateo, CA",136
+fisherman,fisherman/fisherman,Shell,Fish Shell Manager,135,3,fisherman,Fisherman ,Organization,The Wharf,135
+TextBar-Recipes,richie5um/TextBar-Recipes,Shell,TextBar Recipes,134,17,richie5um,Rich Somerfield,User,,134
+Embedded-Linux-System,hak8or/Embedded-Linux-System,Shell,Very rough documentation for my embedded linux system,131,9,hak8or,hak8or,User,USA,131
+OpenVPN-Setup,StarshipEngineer/OpenVPN-Setup,Shell,Shell script to set up Raspberry Pi (TM) as an OpenVPN server,129,31,StarshipEngineer,Dan Shuman,User,"Saint Paul, MN, US",129
+fullstack-course1-module1,jhu-ep-coursera/fullstack-course1-module1,Shell,,130,184,jhu-ep-coursera,,Organization,,130
+hadoop-cluster-docker,kiwenlau/hadoop-cluster-docker,Shell,Quickly build arbitrary size Hadoop Cluster based on Docker,128,64,kiwenlau,Kai LIU,User,"Tokyo, Japan",128
+laptop,monfresh/laptop,Shell,A shell script which turns your Mac into an awesome web development machine.,127,36,monfresh,Moncef Belyamani,User,"Washington, D.C.",127
+dotfiles,dylanaraps/dotfiles,Shell,My dotfiles,125,3,dylanaraps,Dylan Araps,User,,125
+winetricks,Winetricks/winetricks,Shell,Automatically exported from code.google.com/p/winetricks,122,29,Winetricks,,Organization,,122
+docker-mailserver,tomav/docker-mailserver,Shell,"A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.",122,31,tomav,Thomas VIAL,User,"Paris, France",122
+heroku-buildpack-swift,kylef/heroku-buildpac
