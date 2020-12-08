@@ -6417,4 +6417,144 @@ xmonad,xmonad/xmonad,Haskell,"The core of xmonad, a small but functional ICCCM-c
 Earley,ollef/Earley,Haskell,Parsing all context-free grammars using Earley's algorithm in Haskell.,108,6,ollef,Olle Fredriksson,User,Norway,108
 owlcloud,k-bx/owlcloud,Haskell,OwnCloud for owls done via The Microservice Architecture,103,2,k-bx,Kostiantyn Rybnikov,User,"Kiev, Ukraine",103
 Rocket.Chat,RocketChat/Rocket.Chat,CoffeeScript,"Have your own Slack like online chat, built with Meteor.",5227,937,RocketChat,Rocket.Chat,Organization,,5227
-textures,riccardoscalco/textures,CoffeeScript,Textures.js is a JavaScript library for creating SVG patterns,3246,144,riccardoscalco,Riccardo
+textures,riccardoscalco/textures,CoffeeScript,Textures.js is a JavaScript library for creating SVG patterns,3246,144,riccardoscalco,Riccardo Scalco,User,Italy,3585
+activate-power-mode,JoelBesada/activate-power-mode,CoffeeScript,Atom package - Activate POWER MODE to write your code in style.,2127,235,JoelBesada,Joel Besada,User,"Stockholm, Sweden",2127
+caniuse-cmd,sgentle/caniuse-cmd,CoffeeScript,Caniuse command line tool,909,25,sgentle,Sam Gentle,User,,909
+hydrogen,willwhitney/hydrogen,CoffeeScript,Run code inline in Atom using Jupyter kernels,361,20,willwhitney,Will Whitney,User,"Mountain View, CA",485
+natal,dmotz/natal,CoffeeScript,Bootstrap ClojureScript React Native apps,331,11,dmotz,Dan Motzenbecker,User,NYC,331
+Shem,xixixao/Shem,CoffeeScript,The compiler of the programming language Shem,313,7,xixixao,Michal Srb,User,"London, UK",313
+poi,poooi/poi,CoffeeScript,Scalable KanColle browser and tool.,311,106,poooi,poooi,Organization,,311
+rockets,rockets/rockets,CoffeeScript,Streams new posts and comments as they are created on reddit.com,311,10,rockets,Rockets,Organization,,311
+meteor-blaze-components,peerlibrary/meteor-blaze-components,CoffeeScript,Reusable components for Blaze,289,11,peerlibrary,PeerLibrary,Organization,UC Berkeley,289
+yakyak,yakyak/yakyak,CoffeeScript,Desktop chat client for Google Hangouts,289,34,yakyak,,Organization,,289
+codedoodl.es,fluuuid/codedoodl.es,CoffeeScript,A curated showcase of creative coding sketches,271,37,fluuuid,FLUUUID,Organization,"London, UK",271
+deploy-robot,SegmentFault/deploy-robot,CoffeeScript,GitHub 自动部署机器人,236,35,SegmentFault,SegmentFault,Organization,"Hangzhou, China",516
+neovim-e,coolwanglu/neovim-e,CoffeeScript,Electron UI for Neovim,215,16,coolwanglu,Lu Wang,User,Europa (Jupiter II),361
+arda,mizchi/arda,CoffeeScript,Meta-Flux Framework,206,13,mizchi,Koutaro Chikuba,User,Tokyo/Japan,320
+phearjs,Tomtomgo/phearjs,CoffeeScript,PhearJS - render any dynamic Javascript webpage to JSON with PhantomJS.,195,16,Tomtomgo,Tom Aizenberg,User,"Amsterdam, The Netherlands",195
+typography.js,KyleAMathews/typography.js,CoffeeScript,An opinionated toolkit for building websites with beautiful typography,177,8,KyleAMathews,Kyle Mathews,User,San Francisco,312
+iconathon,trello/iconathon,CoffeeScript,An icon task runner that convert Sketch files to mobile and web formats.,175,12,trello,Trello,Organization,,927
+starry,sadne/starry,CoffeeScript,starry.so 完成一个故事,162,37,sadne,不会飞的羊,User,china,162
+heartbot,digitalocean/heartbot,CoffeeScript,A shot of love for your favorite chat client.,137,42,digitalocean,DigitalOcean,Organization,"New York, NY",442
+react-headroom,KyleAMathews/react-headroom,CoffeeScript,Hide your header until you need it,135,14,KyleAMathews,Kyle Mathews,User,San Francisco,312
+messenger,marekhrabe/messenger,CoffeeScript,Unofficial Facebook Mesenger for Mac,131,12,marekhrabe,Marek Hrabe,User,"Prague, Czech Republic",131
+react-reflux-boilerplate-with-webpack,iroy2000/react-reflux-boilerplate-with-webpack,CoffeeScript,React + Reflux + CoffeeScript + Stylus Boilerplate with Webpack,124,13,iroy2000,Roy,User,,124
+galley,twitter-fabric/galley,CoffeeScript,Orchestrator for local Docker containers,124,4,twitter-fabric,Twitter Fabric,Organization,Boston & San Francisco,1118
+meteor-any-db,ccorcos/meteor-any-db,CoffeeScript,A database API for Meteor,123,10,ccorcos,Chet Corcos,User,"San Francisco, CA",123
+atom-pigments,abe33/atom-pigments,CoffeeScript,An Atom package to display colors in project and files.,123,14,abe33,Cédric Néhémie,User,"Bordeaux, France",123
+smc,sagemathinc/smc,CoffeeScript,SageMathCloud's complete current source code repository -- use SMC at ,120,19,sagemathinc,"SageMath, Inc.",Organization,"Seattle, WA",120
+atom-keyboard-localization,andischerer/atom-keyboard-localization,CoffeeScript,Foreign language keyboard support for atom.,106,31,andischerer,Andreas Scherer,User,Germany,106
+stackgrid.js,heyadem/stackgrid.js,CoffeeScript,A very fast and simple javascript plugin to help you create a dynamic cascading grid.,107,12,heyadem,Adem,User,Canada,107
+lsd,franzenzenhofer/lsd,CoffeeScript,LSD - line-square-dot: an addicting game,107,15,franzenzenhofer,Franz Enzenhofer,User,"Vienna, Austria",107
+electron-superkit,Aluxian/electron-superkit,CoffeeScript,:zap: An Electron starter kit with super powers. :zap:,104,16,Aluxian,Alexandru Rosianu,User,Europe,2170
+Nocturn,k0kubun/Nocturn,CoffeeScript,YoruFukurou-like Twitter Client built on Electron,102,8,k0kubun,Takashi Kokubun,User,"Tokyo, Japan",771
+waifu2x,nagadomi/waifu2x,Lua,Image Super-Resolution for Anime-Style Art,5054,542,nagadomi,,User,"Tokyo, Japan",5054
+neural-style,jcjohnson/neural-style,Lua,Torch implementation of neural style algorithm,3561,479,jcjohnson,Justin,User,,3859
+dockercraft,docker/dockercraft,Lua,Docker + Minecraft = Dockercraft,3322,123,docker,Docker,Organization,,6701
+openface,cmusatyalab/openface,Lua,Face recognition with deep neural networks.,3000,415,cmusatyalab,cmusatyalab,Organization,"Pittsburgh, PA",3000
+char-rnn,karpathy/char-rnn,Lua,"Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",2363,566,karpathy,Andrej,User,Stanford,2688
+neuralart,kaishengtai/neuralart,Lua,An implementation of the paper 'A Neural Algorithm of Artistic Style'.,1455,197,kaishengtai,Kai Sheng Tai,User,"Stanford, CA",1620
+ABTestingGateway,SinaMSRE/ABTestingGateway,Lua,,476,125,SinaMSRE,,Organization,北京,830
+Crepe,zhangxiangxiao/Crepe,Lua,Character-level Convolutional Networks for Text Classification,395,111,zhangxiangxiao,Xiang Zhang,User,New York,395
+blog,adonaac/blog,Lua,My Little Peaceful Grove of Regret and Shame,374,24,adonaac,adn,User,,374
+neural-vqa,abhshkdz/neural-vqa,Lua,VIS+LSTM model for Visual Question Answering,340,31,abhshkdz,Abhishek Das,User,"Machine Learning Lab, Virginia Tech",340
+DeepMind-Atari-Deep-Q-Learner,kuz/DeepMind-Atari-Deep-Q-Learner,Lua,The original code from the DeepMind article + my tweaks,310,119,kuz,Ilya Kuzovkin,User,,310
+torch-autograd,twitter/torch-autograd,Lua,Autograd automatically differentiates native Torch code. Inspired by the original Python version.,286,27,twitter,"Twitter, Inc.",Organization,"San Francisco, CA",7027
+rnn,Element-Research/rnn,Lua,Recurrent Neural Network library for Torch7's nn,266,76,Element-Research,,Organization,,266
+ntopng,ntop/ntopng,Lua,ntopng source code repository,249,56,ntop,ntop,Organization,,533
+lstm,wojzaremba/lstm,Lua,,246,93,wojzaremba,Wojciech Zaremba,User,New York,246
+luajit.io,kingluo/luajit.io,Lua,luajit io framework,217,10,kingluo,jinhua luo,User,China,217
+eyescream,facebook/eyescream,Lua,natural image generation using ConvNets,216,45,facebook,Facebook,Organization,"Menlo Park, California",61260
+vanilla,idevz/vanilla,Lua,An OpenResty Lua MVC Web Framework,203,58,idevz,周晶,User,Beijing,203
+treelstm,stanfordnlp/treelstm,Lua,Tree-structured Long Short-Term Memory networks (http://arxiv.org/abs/1503.00075),166,76,stanfordnlp,Stanford NLP,Organization,"Stanford, CA",292
+torch-ntm,kaishengtai/torch-ntm,Lua,A Neural Turing Machine implementation in Torch.,165,36,kaishengtai,Kai Sheng Tai,User,"Stanford, CA",1620
+bAbI-tasks,facebook/bAbI-tasks,Lua,Task generation for testing text understanding and reasoning,160,23,facebook,Facebook,Organization,"Menlo Park, California",61260
+lstm-char-cnn,yoonkim/lstm-char-cnn,Lua,LSTM language model with CNN over characters,145,39,yoonkim,Yoon Kim,User,,145
+lua-lockbox,somesocks/lua-lockbox,Lua,A collection of cryptographic primitives written in pure Lua,142,7,somesocks,James L.,User,,142
+gbc-core,dualface/gbc-core,Lua,GameBox Cloud Core - The Game Server Framework based on Lua and OpenResty.,127,33,dualface,YuLei Liao,User,China,127
+word-rnn,larspars/word-rnn,Lua,Recurrent Neural Network that predicts word-by-word,126,26,larspars,Lars Hiller Eidnes,User,"Trondheim, Norway",126
+dc-ign,willwhitney/dc-ign,Lua,The Deep Convolutional Inverse Graphics Network,124,21,willwhitney,Will Whitney,User,"Mountain View, CA",485
+oxnn,tkocisky/oxnn,Lua,,117,12,tkocisky,Tomas Kocisky,User,"Oxford, UK",117
+practical6,oxford-cs-ml-2015/practical6,Lua,Practical 6: LSTM language models,107,35,oxford-cs-ml-2015,Oxford Computer Science - Machine Learning 2015,Organization,,107
+dcgan.torch,soumith/dcgan.torch,Lua,A torch implementation of http://arxiv.org/abs/1511.06434,104,13,soumith,Soumith Chintala,User,"New York, USA",104
+benchm-ml,szilard/benchm-ml,R,"A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).",771,91,szilard,Szilard Pafka,User,"Santa Monica, California",771
+nyc-taxi-data,toddwschneider/nyc-taxi-data,R,"Import public NYC taxi and Uber trip data into PostgreSQL / PostGIS database, analyze with R",437,107,toddwschneider,,User,"New York, NY",805
+editR,swarm-lab/editR,R,A Rmarkdown editor with instant preview,174,15,swarm-lab,The SwarmLab @ NJIT,Organization,"New Jersey Institute of Technology, Newark, NJ, USA",174
+data-science-your-way,jadianes/data-science-your-way,R,Ways of doing Data Science Engineering and Machine Learning in R and Python,164,64,jadianes,Jose A Dianes,User,"Cambridge, UK",302
+agency-loan-level,toddwschneider/agency-loan-level,R,Loan-level analysis of Fannie Mae and Freddie Mac data,154,35,toddwschneider,,User,"New York, NY",805
+formattable,renkun-ken/formattable,R,Formattable Data Structures,119,16,renkun-ken,Kun Ren,User,"Shenzhen, China",119
+multidplyr,hadley/multidplyr,R,Partitioned data frames for 'dplyr',115,13,hadley,Hadley Wickham,User,"Houston, TX",474
+vim-as-an-ide,jez/vim-as-an-ide,VimL,Workshop on how to use Vim Plugins.,1172,83,jez,Jake Zimmerman,User,Pittsburgh,1172
+papercolor-theme,NLKNguyen/papercolor-theme,VimL,:art: Light & Dark Vim color schemes inspired by Google's Material Design,327,20,NLKNguyen,Nguyen Nguyen,User,"Garden Grove, CA",327
+rust.vim,rust-lang/rust.vim,VimL,Vim configuration for Rust.,311,38,rust-lang,The Rust Programming Language,Organization,,311
+anderson.vim,gilgigilgil/anderson.vim,VimL,Dark vim colorscheme based on colors from Wes Anderson films,211,11,gilgigilgil,,User,,211
+vim-codefmt,google/vim-codefmt,VimL,,203,21,google,Google,Organization,,70104
+quick-scope,unblevable/quick-scope,VimL,Lightning fast left-right movement in Vim,201,4,unblevable,Brian Le,User,"San Francisco, CA",201
+vim-diff-enhanced,chrisbra/vim-diff-enhanced,VimL,Better Diff options for Vim,175,2,chrisbra,Christian Brabandt,User,$HOME,175
+neoterm,kassio/neoterm,VimL,Wrapper of some neovim's :terminal functions.,167,14,kassio,Kassio Borges,User,"São Paulo, SP, Brazil",167
+vim-colortuner,zefei/vim-colortuner,VimL,Adjust your vim colors using sliders,163,2,zefei,Zefei Xuan,User,,163
+vimagit,jreybert/vimagit,VimL,A new way to use git within vim,158,9,jreybert,Jérôme Reybert,User,Grenoble,158
+fzf.vim,junegunn/fzf.vim,VimL,fzf :heart: vim,155,9,junegunn,Junegunn Choi,User,Seoul,296
+vim-flagship,tpope/vim-flagship,VimL,flagship.vim: Configurable and extensible tab line and status line,153,2,tpope,Tim Pope,User,"Brooklyn, NY",474
+vim-colorscheme-primary,google/vim-colorscheme-primary,VimL,"Primary, a Vim color scheme based on Google's colors",147,15,google,Google,Organization,,70104
+vim-hybrid-material,kristijanhusak/vim-hybrid-material,VimL,Material color scheme for Vim based on w0ng/vim-hybrid color scheme,142,16,kristijanhusak,Kristijan Husak,User,"Novi Sad, Serbia",142
+vim-peekaboo,junegunn/vim-peekaboo,VimL,:eyes: ' / @ / CTRL-R,141,7,junegunn,Junegunn Choi,User,Seoul,296
+vim-javacomplete2,artur-shaik/vim-javacomplete2,VimL,Updated javacomplete plugin for vim.,131,15,artur-shaik,Artur Shaik,User,"Bishkek, KG",131
+ferret,wincent/ferret,VimL,Enhanced multi-file search for Vim,130,6,wincent,Greg Hurrell,User,"San Francisco, CA",130
+vim-workshop,nicknisi/vim-workshop,VimL,,130,28,nicknisi,Nick Nisi,User,"Omaha, NE",130
+vim-gita,lambdalisue/vim-gita,VimL,[WIP] An awesome git handling plugin for Vim,125,3,lambdalisue,Alisue,User,Kyoto,125
+vim-ags,gabesoft/vim-ags,VimL,Silver searcher plugin for vim ,117,3,gabesoft,Gabriel Adomnicai,User,San Francisco,117
+vim-troll-stopper,vim-utils/vim-troll-stopper,VimL,Stop Unicode trolls from messing with your code.,113,2,vim-utils,,Organization,,113
+tsuquyomi,Quramy/tsuquyomi,VimL,A Vim plugin for TypeScript,112,9,Quramy,Yosuke Kurami,User,"Tokyo, Japan",112
+vim-grepper,mhinz/vim-grepper,VimL,Helps you win at grep.,106,4,mhinz,Marco Hinz,User,"Europe, Potsdam",106
+onedark.vim,joshdick/onedark.vim,VimL,A dark Vim colorscheme inspired by Atom's One Dark syntax theme.,103,14,joshdick,Josh Dick,User,USA,103
+Expose,Jack000/Expose,Perl,A simple static site generator for photoessays,3415,164,Jack000,Jack Qiao,User,,3415
+cloc,AlDanial/cloc,Perl,"cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",446,25,AlDanial,,User,,446
+dotfiles,jfrazelle/dotfiles,Perl,My dotfiles,285,39,jfrazelle,Jess Frazelle,User,PID 1,514
+git-it-electron,jlord/git-it-electron,Perl,:computer: :mortar_board: A Git-it Desktop App,211,36,jlord,Jessica Lord,User,"Portland, Ore",211
+nipe,HeitorG/nipe,Perl,Script to redirect all traffic from the machine to the Tor network.,101,16,HeitorG,Heitor Gouvea,User,Brazil,101
+djdt-flamegraph,23andMe/djdt-flamegraph,Perl,Flamegraphs for Django Debug Toolbar,102,2,23andMe,23andMe,Organization,"Mountain View, CA",102
+the-art-of-command-line,jlevy/the-art-of-command-line,,"Master the command line, in one page",21499,1899,jlevy,Joshua Levy,User,"Mountain View, California",21880
+free-for-dev,ripienaar/free-for-dev,,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",12450,1134,ripienaar,R.I.Pienaar,User,London,12450
+linux-insides,0xAX/linux-insides,,A little bit about a linux kernel,10041,787,0xAX,0xAX,User,,10041
+htaccess,phanan/htaccess,,A collection of useful .htaccess snippets.,8963,793,phanan,Phan An,User,Singapore,13890
+CppCoreGuidelines,isocpp/CppCoreGuidelines,,"The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",8784,889,isocpp,,Organization,,8784
+awesome-interviews,MaximAbramchuck/awesome-interviews,,:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ,8266,504,MaximAbramchuck,Maxim Abramchuk,User,"Minsk, Belarus",8266
+deepdream,google/deepdream,,,8049,1992,google,Google,Organization,,70104
+awesome-ios-ui,cjwirth/awesome-ios-ui,,A curated list of awesome iOS UI/UX libraries,7028,769,cjwirth,Caesar Wirth,User,"Tokyo, Japan",7459
+awesome-osx-command-line,herrbischoff/awesome-osx-command-line,,Use your OS X terminal shell to do awesome things.,6493,274,herrbischoff,Marcel Bischoff,User,"Hamburg, Germany",6493
+frontend-guidelines,bendc/frontend-guidelines,,"Some HTML, CSS and JS best practices.",5776,450,bendc,Benjamin De Cock,User,Belgium,7853
+css-protips,AllThingsSmitty/css-protips,,A collection of tips to help take your CSS skills pro,5326,254,AllThingsSmitty,Matt Smith,User,"Portland, Maine",8838
+awesome-stock-resources,neutraltone/awesome-stock-resources,,"A collection of links for free stock photography, video and Illustration websites.",4979,214,neutraltone,Tony Phipps,User,"Norwich, United Kingdom",4979
+design,WebAssembly/design,,WebAssembly Design Documents,4968,251,WebAssembly,WebAssembly,Organization,The Web!,5858
+javascript-in-one-pic,coodict/javascript-in-one-pic,,Learn javascript in one picture.,4578,527,coodict,Coodict,Organization,,5264
+awesome-remote-job,lukasz-madon/awesome-remote-job,,A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python,4624,402,lukasz-madon,lukas,User,,4624
+dive-into-machine-learning,hangtwenty/dive-into-machine-learning,,Dive into Machine Learning with Python Jupyter notebook and scikit-learn,4498,396,hangtwenty,Michael Floering,User,"Chicago, IL",4498
+awesome-selfhosted,Kickball/awesome-selfhosted,,Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers. This is a list of Free Software network services and web applications which can be hosted locally.,4182,295,Kickball,Edward D,User,United Kingdom,4182
+awesome-electron,sindresorhus/awesome-electron,,Useful resources for creating apps with Electron,4042,245,sindresorhus,Sindre Sorhus,User,✈,11371
+android-tech-frontier,bboyfeiyu/android-tech-frontier,,一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目,3674,1395,bboyfeiyu,Mr.Simple,User,china,5589
+react-primer-draft,mikechau/react-primer-draft,,A primer for building web applications with React.,3579,96,mikechau,Mike Chau,User,"Chicago, IL",3579
+app-launch-guide,adamwulf/app-launch-guide,,"This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch. More info at:",3372,198,adamwulf,Adam Wulf,User,"Tomball, TX",3637
+itpol,lfit/itpol,,Useful IT policies,3333,296,lfit,The Linux Foundation IT,Organization,,3333
+es6,bevacqua/es6,,:star2: ES6 Overview in 350 Bullet Points,3143,96,bevacqua,Nicolás Bevacqua,User,https://twitter.com/nzgb,20409
+git-style-guide,agis-/git-style-guide,,A Git Style Guide,3150,197,agis-,Agis Anastasopoulos ,User,"Athens, Greece",3150
+flexbugs,philipwalton/flexbugs,,A community-curated list of flexbox issues and cross-browser workarounds for them.,3032,85,philipwalton,Philip Walton,User,"San Francisco, CA",3032
+awesome-osx,iCHAIT/awesome-osx,,":memo: A curated list of awesome applications, softwares, tools and shiny things for OS X.",2991,186,iCHAIT,Chaitanya Gupta,User,India,2991
+til,thoughtbot/til,,Today I Learned,2924,154,thoughtbot,"thoughtbot, inc.",Organization,"USA, London, Stockholm ",5368
+react-native-guide,ele828/react-native-guide,,React Native指南汇集了各类react-native学习资源、开源App和组件,2845,607,ele828,Eric Wong,User,Shenyang,2845
+rscss,rstacruz/rscss,,Reasonable System for CSS Stylesheet Structure,2804,99,rstacruz,Rico Sta. Cruz,User,"Manila, Philippines",2939
+article,amfe/article,,,2778,419,amfe,,Organization,,2778
+awesome-redux,xgrommx/awesome-redux,,Awesome list of Redux examples and middlewares,2655,150,xgrommx,Denis Stoyanov,User,UA,2816
+awesome-d3,wbkd/awesome-d3,,"A list of D3 libraries, plugins and utilities",2643,92,wbkd,webkid,Organization,Berlin,2875
+iOSAppReverseEngineering,iosre/iOSAppReverseEngineering,,The world’s 1st book of very detailed iOS App reverse engineering skills :),2636,227,iosre,iOSRE,User,China,2636
+angular2-education,timjacobi/angular2-education,,A curated list of helpful material to get started with education on Angular 2,2604,281,timjacobi,Tim Jacobi,User,London,2604
+subway,mariuszostrowski/subway,,"Subway is a set of 306 pixel perfect crafted icons optimized for iOS, Apple Watch, Windows and BlackBerry 10.",2611,155,mariuszostrowski,Mariusz Ostrowski,User,"Warsaw, Poland",2865
+logos,gilbarbara/logos,,A huge collection of SVG logos,2522,162,gilbarbara,Gil Barbara,User,"São Paulo, BR",2683
+open-source-android-apps,pcqpcq/open-source-android-apps,,Open-Source Android Apps,2501,456,pcqpcq,Joker,User,"Fuzhou, China",2501
+france.code-civil,steeve/france.code-civil,,Le code civil français sous git,2431,137,steeve,Steeve Morin,User,"Paris, France",2431
+gdb-dashboard,cyrus-and/gdb-dashboard,,Modular visual interface for GDB in Python,2368,127,cyrus-and,Andrea Cardaci,User,"Pisa, Italy",2368
+css-modules,css-modules/css-modules,,Documentation about css-modules,2354,60,css-modules,,Organization,,3546
+Developing_iOS_8_Apps_With_Swift,X140Yu/Developing_iOS_8_Apps_With_Swift,,Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译,2322,537,X140Yu,Xinyu Zhao,User,Harbin China,2322
+swift-evolution,apple/swift-evolution,,This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.,2252,232,apple,Apple,Organization,"Cupertino, CA",34543
+remote-jobs,jessicard/remote-jobs,,A list of semi to fully remote-friendly companies in tech,2253,205,jessicard,jessicard,User,than franthithco,2253
+math-as-code,Jam3/math-as-cod
