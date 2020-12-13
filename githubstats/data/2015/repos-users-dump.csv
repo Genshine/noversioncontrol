@@ -6700,4 +6700,143 @@ recalbox-os,recalbox/recalbox-os,,The super repository for recalbox,363,69,recal
 awesome-sketch,diessica/awesome-sketch,,delightful stuff for SketchApp students,365,20,diessica,Diéssica Gurskas,User,"Rio Grande do Sul, Brazil",365
 iOS-Developer-Interview-Questions,lzyy/iOS-Developer-Interview-Questions,,面试 iOS 开发时可以问的一些问题,364,53,lzyy,Limboy,User,"Hangzhou, China",364
 InterviewQuestion,leerduo/InterviewQuestion,,整理的常见的问题   http://chenfuduo.me,358,72,leerduo,ChenFuduo,User,Anhui.Hefei,358
-jurismatic,jurismatic/jurismatic,,http://www.jurismatic.com,356,47,juris
+jurismatic,jurismatic/jurismatic,,http://www.jurismatic.com,356,47,jurismatic,,Organization,,356
+vendor_google,cgapps/vendor_google,,,353,498,cgapps,Joey Rizzoli,User,Italia,353
+awesome-dataviz,fasouto/awesome-dataviz,,:chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.,350,42,fasouto,Fabio Souto,User,"Vigo, Spain",350
+ocean-terminal,mdo/ocean-terminal,,An OS X Terminal.app profile based on the base16 Ocean theme.,352,13,mdo,Mark Otto,User,"San Francisco, CA",776
+azure-guidance,mspnp/azure-guidance,,Azure architecture guidance from patterns & practices.,347,62,mspnp,Microsoft patterns & practices,Organization,"Redmond, WA, USA",596
+leancloud-demos,leancloud/leancloud-demos,,LeanCloud Demos 分类汇总,339,62,leancloud,LeanCloud,Organization,China,540
+awesome-data-engineering,igorbarinov/awesome-data-engineering,,A curated list of data engineering tools for software developers,335,39,igorbarinov,Igor Barinov,User,"Santa Clara, CA",335
+Why-Reject,jcccn/Why-Reject,,苹果AppStore被拒理由大全,335,87,jcccn,Morgan Stark,User,"Chengdu, Sichuan",335
+interview_python,taizilongxu/interview_python,,关于Python的面试题,329,139,taizilongxu,hackerxu,User,"Shenyang, China",329
+topics,android-cn/topics,,"Android 精选话题讨论, 微信公众号:codekk, 网站:",319,33,android-cn,,Organization,China,1905
+RxDocs,mcxiaoke/RxDocs,,Rx和RxJava文档中文翻译项目,310,52,mcxiaoke,Xiaoke Zhang,User,"Beijing, China",1085
+ReScience,ReScience/ReScience,,The ReScience journal,316,13,ReScience,ReScience organization,Organization,Bordeaux,316
+component-check,Mercateo/component-check,,A quick introduction to explore how components can be created in several frameworks.,313,21,Mercateo,,Organization,Deutschland,313
+EnglishTranslation,Treeofsavior/EnglishTranslation,,Tree of Savior Korean to English Translation OTC,316,526,Treeofsavior,Tree of Savior,Organization,,316
+brunch-guide,brunch/brunch-guide,,A comprehensive guide to Brunch,313,38,brunch,Brunch,Organization,,313
+rust-learning,ctjhoa/rust-learning,,"A bunch of links to blog posts, articles, videos, etc for learning Rust",313,17,ctjhoa,Camille TJHOA,User,Paris,313
+awesome-speaking,matteofigus/awesome-speaking,,A collection of awesome resources about public speaking,313,15,matteofigus,Matteo Figus,User,London,313
+copy-syntax-highlight-osx,minimaxir/copy-syntax-highlight-osx,,"Copy Syntax Highlight for OS X is an OS X service which copies the selected text to the clipboard, with proper syntax highlighting for the given language. ",312,4,minimaxir,Max Woolf,User,San Francisco Bay Area,9890
+great-puzzles,sharkdp/great-puzzles,,A curated list of great puzzles,313,13,sharkdp,David Peter,User,"Stuttgart, Germany",313
+awesome-test-automation,atinfo/awesome-test-automation,,"A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages",309,109,atinfo,at.info,Organization,,309
+goagent,goagent/goagent,,,308,630,goagent,Everything that has a beginning has an end,User,,308
+stackoverflow-java-top-qa,giantray/stackoverflow-java-top-qa,,stackoverflow上Java相关回答整理翻译,304,126,giantray,李泽扬,User,"Zhuhai,Guangdong",304
+sass-guidelines,HugoGiraudel/sass-guidelines,,"Guidelines for writing sane, maintainable and scalable Sass.",305,118,HugoGiraudel,Hugo Giraudel,User,Berlin,1949
+Migrating-from-PHP5.6.x-to-PHP7.0.x,pangee/Migrating-from-PHP5.6.x-to-PHP7.0.x,,迁移PHP5.6到PHP7指南,304,66,pangee,Yi Lv,User,"Beijing , CN",304
+awesome-material,sachin1092/awesome-material,,A curated list of Google's material design libraries for different frameworks.,302,26,sachin1092,Sachin Shinde,User,"Riverside, CA",302
+css-style-guide,dropbox/css-style-guide,,Dropbox’s (S)CSS authoring style guide,303,17,dropbox,Dropbox,Organization,San Francisco,3557
+presentations,SwiftEducation/presentations,,"Short, topic-focused instructor presentations that illustrate iOS and Swift concepts.",302,31,SwiftEducation,Swift Education,Organization,,832
+awesome-commit-english,azu/awesome-commit-english,,コミット英語についての記事まとめ,302,0,azu,azu,User,Tokyo/Japan,302
+asynchronous-php,elazar/asynchronous-php,,List of resources for asynchronous programming in PHP,298,22,elazar,Matthew Turland,User,"New Orleans, LA, USA",298
+Bash-Cheatsheet,NisreenFarhoud/Bash-Cheatsheet,,,297,34,NisreenFarhoud,Nisreen Farhoud,User,,297
+Fresco-Source-Analysis,desmond1121/Fresco-Source-Analysis,,中文的Fresco源码解读,284,37,desmond1121,Desmond Yao,User,"Shanghai, China",885
+android-material-design-Open-source-projects,soyoungboy/android-material-design-Open-source-projects,,android material design 风格项目整理,285,149,soyoungboy,,User,深圳市，南山区,285
+1024,stormzhang/1024,,针对程序员人群而设计的一款健康快捷的全营养代餐，这一次我们终于有更多的时间去改变世界！,284,24,stormzhang,stormzhang,User,"Shanghai, China",284
+guia-do-trabalho-remoto,pragmaticivan/guia-do-trabalho-remoto,,":airplane: Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo",282,31,pragmaticivan,Ivan Santos,User,"Costa Mesa, CA",282
+patterns,nrc/patterns,,A catalogue of Rust design patterns,280,13,nrc,Nick Cameron,User,"Christchurch, New Zealand",280
+not-awesome-es6-classes,joshburgess/not-awesome-es6-classes,,A curated list of resources on why ES6 (aka ES2015) classes are NOT awesome,280,10,joshburgess,Josh Burgess,User,"Tampa, FL",280
+medium-api-docs,Medium/medium-api-docs,,Documentation for Medium's OAuth2 API,278,15,Medium,Medium,Organization,"San Francisco, CA",278
+react-native-cn,ecomfe/react-native-cn,,,277,61,ecomfe,Baidu EFE team,Organization,Beijing & Shanghai & Shenzhen,1936
+generics,facebookgo/generics,,,276,11,facebookgo,Facebook Go,Organization,,276
+awesome-answers,cyberglot/awesome-answers,,"Curated list of inspiring and thoughtful answers given at stackoverflow, quora, etc.",274,33,cyberglot,Ju Gonçalves,User,"Copenhagen, Denmark",274
+github-FE-project,hawx1993/github-FE-project,,github上值得关注的前端项目,271,96,hawx1993,trigkit4,User,"Xiamen,China",1064
+Spring-Boot-Reference-Guide,qibaoguang/Spring-Boot-Reference-Guide,,Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》,272,153,qibaoguang,qibaoguang,User,,272
+Announcements,aspnet/Announcements,,Subscribe to this repo to be notified about major changes in ASP.NET 5 and Entity Framework 7,271,10,aspnet,,Organization,,824
+another-tutorial-about-java-web,someus/another-tutorial-about-java-web,,:crying_cat_face: another tutorial about java web ,266,79,someus,樂天,User,,266
+moonshine-iconpack,PedroPegueroJr/moonshine-iconpack,,Graphical Assets for the Moonshine Icon Pack on Google Play,267,46,PedroPegueroJr,Pedro Peguero Jr.,User,United States,267
+AndroidDifficultAnalysis,ZhaoKaiQiang/AndroidDifficultAnalysis,,安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理,264,61,ZhaoKaiQiang,ZhaoKaiQiang,User,ShanDong QingDao,1899
+ngExam,gdi2290/ngExam,,An AngularJS exam with questions from beginner to expert by @gdi2290 from @AngularClass,266,39,gdi2290,PatrickJS,User,"San Francisco, California",266
+docker-and-containers-ebooks,thenewstack/docker-and-containers-ebooks,,A series of ebooks on Docker and the container ecosystem.,266,24,thenewstack,The New Stack,Organization,"Portland, Oregon",266
+NCoC,domgetter/NCoC,,No Code of Conduct: A Code of Conduct for Adults in Open Source Software,259,25,domgetter,Dominic Muller,User,"Bakersfield, CA",259
+sketch-origami-export,tarngerine/sketch-origami-export,,"Plugin to export and update assets for Facebook's Origami prototyping tool, based on sketch-framer",263,12,tarngerine,Julius Tarng,User,New York,263
+paying-the-piper,pybee/paying-the-piper,,A project for discussing ways to fund open source development.,247,9,pybee,BeeWare,Organization,,791
+uber-tlc-foil-response,fivethirtyeight/uber-tlc-foil-response,,Uber trip data from a freedom of information request to NYC's Taxi & Limousine Commission,258,69,fivethirtyeight,FiveThirtyEight,Organization,,258
+referrer-spam-blacklist,piwik/referrer-spam-blacklist,,Community-contributed list of referrer spammers. Comment +1 in any issue or Pull request and the spammer will be added to the list!,257,137,piwik,Piwik Open Source Analytics,Organization,Worldwide,257
+sort-me-sketch,romashamin/sort-me-sketch,,Sort artboards and layers by name,255,9,romashamin,Roman Shamin,User,Moscow,255
+commercialhaskell,commercialhaskell/commercialhaskell,,A special interest group for companies and individuals interested in commercial usage of Haskell,255,100,commercialhaskell,Commercial Haskell SIG,Organization,,1729
+trpl-ebook,killercup/trpl-ebook,,'The Rust Programming Language' as ebook,256,21,killercup,Pascal Hertleif,User,Germany,256
+iOS-Goodies,iOS-Goodies/iOS-Goodies,,"Your favorite iOS Newsletter, now open source.",255,79,iOS-Goodies,iOS Goodies,Organization,World,255
+awesome-devtools,andersonweb/awesome-devtools,,List of resources to learn Chrome DevTools,255,39,andersonweb,Anderson Menezes,User,Mutuípe,255
+guia-do-desenvolvedor,IonicBrazil/guia-do-desenvolvedor,,Guia do Desenvolvedor Ionic,254,91,IonicBrazil,IonicBrazil,Organization,Brasil ,254
+wireframingsketch,mariuszostrowski/wireframingsketch,,Sketch symbols for wireframing,254,5,mariuszostrowski,Mariusz Ostrowski,User,"Warsaw, Poland",2865
+awesome-incident-response,meirwah/awesome-incident-response,,A curated list of tools for incident response,251,59,meirwah,Meir Wahnon,User,Tel Aviv,251
+awesome-json,burningtree/awesome-json,,A curated list of awesome JSON libraries and resources.,253,14,burningtree,Jan Stránský,User,"Prague, Czech Republic",253
+css-refresher-notes,vasanthk/css-refresher-notes,,CSS Refresher!,253,32,vasanthk,Vasa,User,San Francisco,253
+2015-talks,gophercon/2015-talks,,Slides from 2015 Talks,252,23,gophercon,GopherCon,Organization,,252
+blog,camsong/blog,,Front-end Development Thoughts,247,19,camsong,Cam Song,User,"Hangzhou, China",881
+trabalhando-remoto,DyegoCosta/trabalhando-remoto,,Informações para quem trabalha ou quer trabalhar remoto,250,36,DyegoCosta,Dyego Costa,User,,250
+awesome-linux,aleksandar-todorovic/awesome-linux,,The list of awesome resources where you can learn more about Linux,247,26,aleksandar-todorovic,Aleksandar Todorović (r3bl),User,"Brčko, Bosnia & Herzegovina",355
+d3-jetpack,gka/d3-jetpack,,Nifty convenience wrappers that speed up your daily work with d3.js,246,24,gka,Gregor Aisch,User,Brooklyn,852
+emberconf-2015,poteto/emberconf-2015,,A collection of links that cover what happened during EmberConf 2015,246,23,poteto,Lauren Tan,User,"Boston, MA",587
+fuck-2014-flirt-2015,aosp-exchange-group/fuck-2014-flirt-2015,,"2014 总结和 2015 展望, 微信公众号:codekk, 网站:",241,115,aosp-exchange-group,aosp-exchange-group,Organization,China,945
+awesome-cli-apps,aharris88/awesome-cli-apps,,A curated list of command line apps.,238,19,aharris88,Adam Harris,User,"Salt Lake City, Utah",344
+mean-tutorial,emgeee/mean-tutorial,,MEAN Stack tutorial Markdown,237,39,emgeee,Matt Green,User,,237
+phpcodz,80vul/phpcodz,,Php Codz Hacking,235,90,80vul,,User,,235
+awesome-objc-frameworks,XCGit/awesome-objc-frameworks,,【OC框架排名列表 】A curated list of awesome Objective-C frameworks,233,96,XCGit,XingCheng,User,,233
+my-markdown,xirong/my-markdown,,markdown 介绍/学习/工具/资料,234,57,xirong,xirong,User,"beijing,china",1760
+symfony-must-watch,symfony-si/symfony-must-watch,,Must-watch videos about Symfony,231,13,symfony-si,Symfony Slovenia,Organization,Slovenia,231
+d3js_design_patterns,billautomata/d3js_design_patterns,,collection of original articles about how to write better d3js programs,231,15,billautomata,Bill Automata,User,"Portland, Oregon",231
+alpine-node,mhart/alpine-node,,Minimal Node/io.js Docker Images built on Alpine Linux,230,32,mhart,Michael Hart,User,New York,360
+awesome-opengl,eug/awesome-opengl,,"A curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.",226,27,eug,Eugênio Cabral,User,Brazil / Australia,226
+tvOS,sanketfirodiya/tvOS,,Curated list of tutorials and sample apps for tvOS,227,22,sanketfirodiya,Sanket,User,San Francisco,576
+gochecklist,matttproud/gochecklist,,gochecklist is a set of recommendations for publishing Go projects.,227,4,matttproud,Matt T. Proud,User,"Zürich, Schweiz",227
+android-dip-ruler,BoD/android-dip-ruler,,"Print it, cut it, give it to your designer!",226,20,BoD,Benoit Lubek,User,"Paris, France",381
+meteor-mobile-cookbook,Differential/meteor-mobile-cookbook,,Helpful guides and tips for building Cordova apps in Meteor.,225,32,Differential,Differential,Organization,"Beautiful Cincinnati, OH",225
+Bye2015Hi2016,winter-fall/Bye2015Hi2016,,,221,12,winter-fall,,Organization,,221
+kickstart,thereactivestack/kickstart,,Kickstart project for Webpack with Meteor and React,225,26,thereactivestack,The Reactive Stack,Organization,,653
+awesome-ios-plugins,sanketfirodiya/awesome-ios-plugins,,An awesome list of awesome iOS plugins,225,39,sanketfirodiya,Sanket,User,San Francisco,576
+posters,redradix/posters,,Technology posters created by our awesome crew,225,9,redradix,redradix,Organization,"Calle Calatrava 27, Madrid, Spain",225
+coding-styles,elierotenberg/coding-styles,,My coding styles.,225,28,elierotenberg,Elie Rotenberg,User,France,225
+awesome-geojson,tmcw/awesome-geojson,,GeoJSON utilities that will make your life easier.,224,17,tmcw,Tom MacWright is on vacation till January 1st,User,"Washington, DC",672
+maintenance-modules,maxogden/maintenance-modules,,a list of modules that are useful for maintaining or developing modules,221,10,maxogden,=^._.^=,User,,4885
+api-standards,paypal/api-standards,,,220,48,paypal,PayPal,Organization,"San Jose, CA",1587
+discount-for-student-dev,najela/discount-for-student-dev,,"This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students",221,27,najela,Acho Arnold,User,Africa,221
+DEPRECATED-essays,maryrosecook/DEPRECATED-essays,,[DEPRECATED] essay repo,220,19,maryrosecook,Mary Rose Cook,User,"New York, NY",220
+Mind-Expanding-Books,hackerkid/Mind-Expanding-Books,, :books: Curated list of mind expanding books,221,9,hackerkid,Vishnu Ks,User,Allahabad / Kochi,221
+awesome-nlp,keonkim/awesome-nlp,,A curated list of resources dedicated to Natural Language Processing,218,28,keonkim,Keon Kim,User,NYC,218
+rules,Yara-Rules/rules,,Repository of yara rules,218,68,Yara-Rules,Yara Rules Project,Organization,,218
+Mind-Map,phith0n/Mind-Map,,各种安全相关思维导图整理收集,215,200,phith0n,phithon,User,西安电子科技大学,525
+noto-fonts,googlei18n/noto-fonts,," Noto fonts, except for CJK and emoji",218,20,googlei18n,Google Internationalization,Organization,,331
+training,rednaga/training,,Training materials crafted and publicly provided by Red Naga members,216,38,rednaga,Red Naga,Organization,"Oakland, Ca",216
+awesome-readme,matiassingers/awesome-readme,,A curated list of awesome READMEs,216,34,matiassingers,Matias Singers,User,Singapore,370
+fe-knowledge-points,wwsun/fe-knowledge-points,,front-end knowledge points,216,46,wwsun,Weiwei SUN,User,"Nanjing, China",825
+awesome-newsletters,vredniy/awesome-newsletters,,A list of amazing Newsletters,216,17,vredniy,Dmitry Zudochkin,User,"Moscow, Russian Federation",216
+fanqiang,bannedbook/fanqiang,,翻墙-科学上网,209,101,bannedbook,如何翻墙,User,,209
+nginx-configs,elasticweb/nginx-configs,,Nginx configurations for most popular CMS/CMF/Frameworks based on PHP,212,46,elasticweb,Elasticweb.org,User,Russia,323
+ideas,phodal/ideas,,Phodal's 孵化器,209,25,phodal,Fengda Huang,User,Xiamen China,2292
+BlockList,androidgilbert/BlockList,,"分享你的面试被坑经历,共建那些年“坑过你”的互联网公司目录",214,13,androidgilbert,Gilbert,User,"Beijing,China",214
+NaNoGenMo-2015,dariusk/NaNoGenMo-2015,,"National Novel Generation Month, 2015 edition.",213,9,dariusk,Darius Kazemi,User,"Portland, OR",213
+icss,css-modules/icss,,"Interoperable CSS — a standard for loadable, linkable CSS",210,3,css-modules,,Organization,,3546
+hackpad,hackpad/hackpad,,Open source Hackpad Release,211,0,hackpad,Hackpad Inc.,Organization,"San Francisco, California",211
+awesome-browser-extensions-for-github,stefanbuck/awesome-browser-extensions-for-github,,A collection of awesome browser extensions for GitHub.,209,11,stefanbuck,Stefan Buck,User,"Stuttgart, Germany",209
+Frontend-Cheat-Sheets,logeshpaul/Frontend-Cheat-Sheets,,Collection of cheat sheets for your frontend development needs & reference,209,41,logeshpaul,Logesh Paul,User,"Bangalore, India",366
+gentoo,gentoo/gentoo,,The official mirror the Gentoo ebuild repository (now in true git!),210,154,gentoo,Gentoo Linux,Organization,Planet Earth,210
+idaplugins-list,onethawt/idaplugins-list,,A list of IDA Plugins,209,40,onethawt,One Thawt,User,Kernel,209
+android-blogs,vbauer/android-blogs,,Blogs about Android,207,48,vbauer,Vladislav Bauer,User,,566
+awesome-activerecord,planetruby/awesome-activerecord,,"A collection of awesome ActiveRecord goodies, libraries, tools, extensions, guides, etc.",204,12,planetruby,Planet Ruby,Organization,,762
+awesome-gametalks,hzoo/awesome-gametalks,,":speech_balloon: A curated list of gaming talks (development, design, etc)",199,12,hzoo,Henry Zhu,User,-> New York,199
+security-onion,Security-Onion-Solutions/security-onion,,"Linux distro for IDS, NSM, and Log Management",199,29,Security-Onion-Solutions,"Security Onion Solutions, LLC",Organization,,199
+cucumber,cucumber/cucumber,,Cucumber parent project - keeping all implementations in sync,200,47,cucumber,Cucumber,Organization,,200
+ReactiveCocoaChineseResources,ReactiveCocoaChina/ReactiveCocoaChineseResources,,RAC的中文资源整合,199,58,ReactiveCocoaChina,,Organization,,199
+awesome-resty,bungle/awesome-resty,,"A List of Quality OpenResty Libraries, and Resources.",198,25,bungle,Aapo Talvensaari,User,"Vantaa, Finland",198
+awesome-clojurescript,emrehan/awesome-clojurescript,,"A community driven list of ClojureScript frameworks, libraries and wrappers.",197,13,emrehan,Emrehan Tüzün,User,Istanbul,197
+phphub-ui,summerblue/phphub-ui,,Product planing and UI Design for PHPHub App and Web site. ,197,71,summerblue,Charlie Jade,User,Beijing China,197
+cli,convox-archive/cli,,Launch a private cloud and deploy apps from the command line.,196,19,convox-archive,,Organization,,196
+android-resources,Tikitoo/android-resources,,Android development Resources.,196,66,Tikitoo,Tikitoo,User,Beijing,196
+awesome-php,JingwenTian/awesome-php,,"收集整理一些常用的PHP类库, 资源以及技巧. 以便在工作中迅速的查找所需...",193,63,JingwenTian,JingwenTian,User,"Beijing,China",699
+content-style-guide,mailchimp/content-style-guide,,,194,44,mailchimp,MailChimp,Organization,"Atlanta, GA",194
+awesome-rubies,planetruby/awesome-rubies,,"A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.) ",194,14,planetruby,Planet Ruby,Organization,,762
+netty-4-user-guide,waylau/netty-4-user-guide,,Chinese translation of Netty 4.x User Guide. 中文翻译《Netty 4.x 用户指南》,193,67,waylau,Way Lau,User,,315
+awesome-software-craftsmanship,benas/awesome-software-craftsmanship,,A curated list of awesome software craftsmanship resources,193,7,benas,Mahmoud Ben Hassine,User,"Brussels, Belgium",193
+FRESCA,fluentdesk/FRESCA,,FRESCA = FRESH Resume and Employment Schema,179,6,fluentdesk,FluentDesk,Organization,,179
+TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani,karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani,,A TL;DR for the book 'Learning JavaScript Design Patterns' by Addy Osmani,191,5,karlpatrickespiritu,Karl Patrick Tan Espiritu,User,"Cebu, Philippines",191
+Python-Learning-Resources,CodementorIO/Python-Learning-Resources,,,186,86,CodementorIO,Codementor,Organization,,186
+RobotsDisallowed,danielmiessler/RobotsDisallowed,,A harvest of the Disallowed directories from the robots.txt files of the world's top websites.,190,55,danielmiessler,Daniel Miessler,User,"San Francisco, California",190
+iOS-Programming-Sharing,shijiangkai/iOS-Programming-Sharing,,28岁，零基础，学习 iOS 编程经验分享,189,34,shijiangkai,史江凯,User,北京,189
+gBoxShadow,Gigacore/gBoxShadow,,Gravity-sensing box-shadow for Flat UI,190,4,Gigacore,Santhosh Sundar,User,Bangalore,190
+DscResources,PowerShell/DscResources,,Central repository for PowerShell Desired State Configuration (DSC) resources.,189,47,PowerShell,,Organization,,1622
+gophp7-ext,gophp7/gophp7-ext,,Home of the gophp7 extensions project,187,22,gophp7,Go PHP 7,Organization,,187
+zabbix-community-repos,zabbix/zabbix-community-repos,,"440+ Zabbix community projects: Zabbix templates, scripts, CLIs, integrations, ...",186,54,zabbix,Zabbix,Organization,"Riga, Latvia / Tokyo, Japan / New York, USA",186
+awesome-c-cn,jobbole/awesome-c-cn,,C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。,179,49,jobbole,伯乐在线,Organization,ShangHai,2255
+mac-apps,jeffreyjackso
