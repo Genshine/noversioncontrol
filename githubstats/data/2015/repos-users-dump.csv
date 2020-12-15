@@ -6983,4 +6983,85 @@ react-router-cn,react-guide/react-router-cn,,React Router 官方文档中文翻�
 awesome-android-libraries,yeungeek/awesome-android-libraries,,awesome android libraries,119,31,yeungeek,yeungeek,User,hangzhou,119
 solid-spec,solid/solid-spec,,The Solid spec and architecture,116,8,solid,Solid,Organization,,116
 sr.ht,SirCmpwn/sr.ht,,Private file hosting,116,9,SirCmpwn,Drew DeVault,User,"Galloway, NJ",896
-motion-ui-design,fliptheweb/motion-ui-design,,"Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.",116,5,fliptheweb,Artur Korna
+motion-ui-design,fliptheweb/motion-ui-design,,"Resources for inspiration, lists of software, libraries and other stuff related to Motion UI design, animations and transitions.",116,5,fliptheweb,Artur Kornakov,User,Vladivostok,116
+80x40,art-dot-git/80x40,,80 by 40 canvas that anyone can draw on. ,116,126,art-dot-git,ART.git,Organization,,116
+be-mean-instagram-mongodb-exercises,Webschool-io/be-mean-instagram-mongodb-exercises,,Exercícios do módulo de MongoDB do Be MEAN,115,393,Webschool-io,WebSchool.io,Organization,,1233
+shell,taylorotwell/shell,,:pager: My Terminal Theme,115,10,taylorotwell,Taylor Otwell,User,Arkansas,115
+Holacracy-Constitution,holacracyone/Holacracy-Constitution,,Platform for evolving and sharing the Holacracy Constitution through Open Source methodologies.,115,47,holacracyone,HolacracyOne,Organization,,115
+courscrypto,kaepora/courscrypto,,"Cours d'Introduction a la Cryptographie, donné au Loop.",115,16,kaepora,Nadim Kobeissi,User,"Paris, France",115
+blog,lukego/blog,,Luke Gorrie's blog,115,6,lukego,Luke Gorrie,User,"Zurich, Switzerland",115
+masquerade,amoffat/masquerade,,did you know you can appear to commit as anyone?,115,11,amoffat,Andrew Moffat,User,"Chicago, IL",1341
+css-guidelines,chris-pearce/css-guidelines,,CSS Guidelines I use and for working with the Scally CSS framework,114,9,chris-pearce,Chris Pearce,User,Sydney,365
+honukai-iterm-zsh,oskarkrawczyk/honukai-iterm-zsh,,Honukai theme and colors for Oh My ZSH and iTerm,114,8,oskarkrawczyk,Oskar Krawczyk,User,"Warsaw, Poland",114
+ReactNative_Android_QA,yipengmu/ReactNative_Android_QA,,,115,26,yipengmu,laomu,User,Hangzhou China,513
+awesome-gamedev,Calinou/awesome-gamedev,,A collection of free software and free culture resources for making amazing games. (mirror),115,5,Calinou,Calinou,User,France,115
+Docs,ParsePlatform/Docs,,These are the markdown sources for all the platform guides of Parse.,114,138,ParsePlatform,Parse,Organization,"Menlo Park, CA",4296
+Objective-C-Coding-Guidelines-In-Chinese,QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese,,Objective-C编码规范，内容来自苹果、谷歌的文档翻译，自己的编码经验和其它资料的总结。,114,35,QianKaiLu,QianKai,User,ShenZhen China,114
+iOS-blog-acticle,JanzTam/iOS-blog-acticle,,Mark down iOS blog and acticle,114,40,JanzTam,Tang JianZhuo,User,GuangZhou-China,114
+react-native-android-guide,xujinyang/react-native-android-guide,,致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。,114,27,xujinyang,xujinyang,User,shanghai,500
+pydataseattle2015,wrobstory/pydataseattle2015,,PyData Seattle 2015: Python Data Bikeshed,114,18,wrobstory,Rob Story,User,Portland,114
+ionic-guide,ychow/ionic-guide,,Ionic 中文指南 ,113,22,ychow,Ychow Xiao,User,"Chongqing, China",113
+Project-M-CC,TheOriginalSINe/Project-M-CC,,This is a repository dedicated to compiling all fixes made to the leaked builds of Project M into version 3.6.,111,49,TheOriginalSINe,,User,,111
+rtb-papers,wnzhang/rtb-papers,,A collection of research and survey papers of real-time bidding (RTB) based display advertising techniques.,112,52,wnzhang,Weinan Zhang,User,United Kingdom,112
+atom,futantan/atom,,atom 快捷键 shortcuts,113,42,futantan,EclipsePrayer,User,chengdu,113
+iterm2-material-colors,MartinSeeler/iterm2-material-colors,,A theme / color scheme for iTerm2 based on Google's Material Design Color Palette,113,4,MartinSeeler,Martin Seeler,User,"Dresden, Germany",113
+docker-swift,swiftdocker/docker-swift,,Docker Container for the Apple's Swift programming language https://swift.org,112,7,swiftdocker,,Organization,,112
+gold-miner,xitu/gold-miner,,掘金翻译计划，翻译掘金上优质的英文文章,112,44,xitu,稀土,Organization,,112
+hard-react-native-problems,brentvatne/hard-react-native-problems,,,112,6,brentvatne,Brent Vatne,User,"Vancouver, Canada",2353
+RxAndroidLibs,zsoltk/RxAndroidLibs,,A curated list of libraries to aid reactive development on Android,112,12,zsoltk,Zsolt Kocsi,User,"Budapest, Hungary",112
+git-cheat-sheet,luisbg/git-cheat-sheet,,Git Cheat Sheet,111,24,luisbg,Luis de Bethencourt,User,,111
+mageres,aleron75/mageres,,A list of useful Magento technical resources,111,29,aleron75,Alessandro Ronchi,User,Reggio Emilia - Italy,111
+openterrain,openterrain/openterrain,,Links to open terrain data sources for the entire world,111,6,openterrain,,Organization,,111
+android-subtitles,oceancx/android-subtitles,,,111,12,oceancx,Ocean-藏心,User,,111
+nginx-snippets,elasticweb/nginx-snippets,,Полезные шаблоны конфигов для Nginx,111,19,elasticweb,Elasticweb.org,User,Russia,323
+Pixelvision2,somini/Pixelvision2,,Steam Skin created by Pulseh and continued by Mr Late,111,15,somini,,User,,111
+awesome-webservers,planetruby/awesome-webservers,,"A collection of awesome Ruby web servers  (single-threaded, multi-threaded, multiplexed, etc.)",110,4,planetruby,Planet Ruby,Organization,,762
+react-native-cheat-sheet,refinery29/react-native-cheat-sheet,,React native cheat sheet with things that I find interesting or I had to google/figure out,110,8,refinery29,Refinery29,Organization,"New York, NY",110
+ciclop,bqlabs/ciclop,,DIY 3D Scanner models,109,74,bqlabs,BQ labs,Organization,Madrid - Spain,109
+react-tutorial,hulufei/react-tutorial,,React 入门教程 http://hulufei.gitbooks.io/react-tutorial/,108,11,hulufei,hui.liu,User,Shenzhen,108
+kitchen-cli,perak/kitchen-cli,,Meteor Kitchen - Command Line Interface,108,2,perak,Petar Korponaić,User,,108
+awesome-c,aleksandar-todorovic/awesome-c,,Continuing the development of awesome-c list on GitHub,108,15,aleksandar-todorovic,Aleksandar Todorović (r3bl),User,"Brčko, Bosnia & Herzegovina",355
+opendotnet,geffzhang/opendotnet,,dotNET跨平台研究的相关文档,108,50,geffzhang,geffzhang,User,,108
+cozy,cozy/cozy,,"Simple, Versatile, Yours",107,7,cozy,Cozy.io,Organization,France,107
+compositional-functions,jhusain/compositional-functions,,,107,5,jhusain,Jafar Husain,User,,107
+fluxible-router,yahoo/fluxible-router,,Routing for Fluxible applications,107,36,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",10798
+prose-for-programmers,joshuacc/prose-for-programmers,,A book to help software developers write better prose,107,2,joshuacc,Joshua Clanton,User,"New Orleans, LA area",107
+awesome-tryo,tryolabs/awesome-tryo,,A curated list of awesome resources we use at Tryolabs,107,17,tryolabs,Tryolabs,Organization,"San Francisco, CA",107
+Udemy-notes,jmportilla/Udemy-notes,,My udemy notebooks,107,167,jmportilla,Marci,User,Santa Clara CA,107
+coffeescript-equivalents-in-es6,hemanth/coffeescript-equivalents-in-es6,,CoffeeScript Equivalents In ES6,106,5,hemanth,hemanth.hm,User,India ,455
+OS-X-El-Capitan,lioonline/OS-X-El-Capitan,,OS X El Capitan 更新速度慢的解决方法,106,13,lioonline,lio.o,User,"ShenZhen,GuangDong,China",106
+microservice-design,owainlewis/microservice-design,,A software engineering reading list for micro service architecture and design,106,11,owainlewis,Owain Lewis,User,UK,1619
+CHIP-Hardware,NextThingCo/CHIP-Hardware,,Collection of design files for C.H.I.P.,106,25,NextThingCo,Next Thing Co.,Organization,Oakland && Shenzhen,106
+perception,tmcw/perception,,collected & summarized research on the effectiveness of visualization techniques,106,4,tmcw,Tom MacWright is on vacation till January 1st,User,"Washington, DC",672
+awesome-osx-screensavers,aharris88/awesome-osx-screensavers,,A curated list of screensavers for Mac OS X.,106,4,aharris88,Adam Harris,User,"Salt Lake City, Utah",344
+gulp-docs-zh-cn,lisposter/gulp-docs-zh-cn,,:book: gulp docs in Chinese,106,18,lisposter,Leigh,User,"Hangzhou, China",106
+Fate-Grand-Order-Translation,Renari/Fate-Grand-Order-Translation,,My attempt at translating the Fate/Grand Order apk to English so I can enjoy the game in my native language.,105,70,Renari,Arie Miller,User,USA/PA,105
+awesome-vector-tiles,mapbox/awesome-vector-tiles,,awesome implementations of the Mapbox Vector Tile specification,105,4,mapbox,Mapbox,Organization,Washington DC,993
+awesome-standard,feross/awesome-standard,,Documenting the explosion of packages in the standard ecosystem!,105,5,feross,Feross Aboukhadijeh,User,"Mountain View, CA",3796
+2015,cs109/2015,,Public material for CS109,104,484,cs109,Harvard CS 109: Data Science,Organization,,104
+RebootFrance,RebootFrance/RebootFrance,,Site de consultation à propos du projet Reboot la France de Korben,104,10,RebootFrance,,Organization,,104
+awesome-web-hacking,infoslack/awesome-web-hacking,,A list of web application security,104,12,infoslack,Daniel Romero,User,Fortaleza - CE,104
+interviews,odino/interviews,,Random questions to ask during interviews.,104,14,odino,Alessandro Nadalin,User,Dubai,104
+haskell-papers-ereader,beerendlauwers/haskell-papers-ereader,,Haskell papers optimized for my e-reader.,103,7,beerendlauwers,Beerend Lauwers,User,,103
+dev-policy,nodejs/dev-policy,,node-foundation dev policy **draft**,103,12,nodejs,,Organization,,3323
+deepdraw,auduno/deepdraw,,Notebook example of how to generate class visualizations with Caffe,103,23,auduno,Audun Mathias Øygard,User,"Oslo, Norway",103
+awesome-network-js,Kikobeats/awesome-network-js,,A :tophat: list of resources related with network area written in JavaScript.,103,6,Kikobeats,Kiko Beats,User,"Murcia, Spain",529
+ForensicPosters,Invoke-IR/ForensicPosters,,,103,20,Invoke-IR,Invoke-IR,Organization,,280
+golang-tripping-hazards,monsooncommerce/golang-tripping-hazards,,,103,7,monsooncommerce,Monsoon Commerce,Organization,,103
+sites,programthink/sites,,【编程随想】收藏的各色网站,103,44,programthink,编程随想,User,China,1057
+javascript-style-guide,lvarayut/javascript-style-guide,,คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide),102,48,lvarayut,Varayut Lerdkanlayanawat,User,"Bangkok, Thailand",102
+styleguides,dockyard/styleguides,,Styleguides for DockYard,101,13,dockyard,⚓️ DockYard ⚓️,Organization,"Boston, MA",419
+styleguides,dockyard/styleguides,,Styleguides for DockYard,101,13,dockyard,⚓️ DockYard ⚓️,Organization,"Boston, MA",419
+how-to-read-code,aredridel/how-to-read-code,,A talk about how to read source code,101,6,aredridel,Aria Stewart,User,"Somerville, MA",101
+golang-notes,luciotato/golang-notes,,Notes to understand golang,101,17,luciotato,Lucio M. Tato,User,"Buenos Aires, Argentina",101
+AndroidLibs,XXApple/AndroidLibs,,正在成为史上最全分类Android开源代码大全~~~~（正在整理收集，不要着急~~先Star一下吧）,101,37,XXApple,小小苹果,Organization,China,101
+watScript,angular/watScript,,The next generation JavaScript language that will kill ALL the frameworks!,101,4,angular,Angular,Organization,,2141
+eks,phodal/eks,,嵌入式知识总汇 Embedded Knowledge Structure,101,34,phodal,Fengda Huang,User,Xiamen China,2292
+firstpaper,jtleek/firstpaper,,,100,26,jtleek,Jeff L.,User,"Baltimore,MD",100
+awesome-webframeworks,planetruby/awesome-webframeworks,,"A collection of awesome Ruby web frameworks, libraries, tools, etc.",100,5,planetruby,Planet Ruby,Organization,,762
+ml_cheat_sheet,rcompton/ml_cheat_sheet,,My notes and superstitions about common machine learning algorithms,100,43,rcompton,Ryan,User,New York,100
+vossibility-stack,icecrime/vossibility-stack,,Visibility for your open source project,100,5,icecrime,Arnaud Porterie,User,San Francisco,713
+nodeplate,g-div/nodeplate,,"A boilerplate for your rock-solid node.js projects. Includes static code analysis, development and building tools.",100,3,g-div,,User,,100
+Dota-2,ValveSoftware/Dota-2,,Tracker for issues specific to Linux and Mac in the Reborn client,100,16,ValveSoftware,Valve Software,Organization,,636
+self-organization-constitution,citizencode/self-organization-constitution,,"An open source constitution for responsive organizations. Inspired by Sociocracy, Holacracy, Self-Management, Reinventing Organizations, etc.",100,10,citizencode,Citizen Code,Organization,SF/SEA,100
+blog,nimojs/blog,,Nimo 前端开发博客,100,31,nimojs,Nimo True,User,Shanghai China,877
