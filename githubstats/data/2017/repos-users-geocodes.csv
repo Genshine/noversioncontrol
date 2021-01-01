@@ -1,0 +1,46 @@
+full_name,repo,description,stars,forks,language,user,name,type,location,lat,long,city,country,rank
+thedaviddias/Front-End-Checklist,Front-End-Checklist,🗂 The perfect Front-End Checklist for modern websites and meticulous developers,24267,2058,JavaScript,thedaviddias,David Dias,User,"France, Mauritius, Canada",,,,,3.0
+GoogleChrome/puppeteer,puppeteer,Headless Chrome Node API,21976,1259,JavaScript,GoogleChrome,,Organization,,,,,,4.0
+parcel-bundler/parcel,parcel,"📦🚀 Blazing fast, zero configuration web application bundler",13981,463,JavaScript,parcel-bundler,Parcel,Organization,,,,,,11.0
+Chalarangelo/30-seconds-of-code,30-seconds-of-code,Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.,13466,1185,JavaScript,Chalarangelo,Angelos Chalaris,User,"Athens, Greece",37.9838096,23.7275388,Athens,Greece,13.0
+wearehive/project-guidelines,project-guidelines,A set of best practices for JavaScript projects,11279,970,JavaScript,wearehive,Hive,Organization,London,51.5073509,-0.12775830000000002,London,United Kingdom,16.0
+airbnb/react-sketchapp,react-sketchapp,render React components to Sketch ⚛️💎,10259,504,JavaScript,airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,18.0
+denysdovhan/wtfjs,wtfjs,A list of funny and tricky JavaScript examples,10107,610,JavaScript,denysdovhan,Denys Dovhan,User,"Ukraine, Chernivtsi",48.2920787,25.9358367,Chernivtsi,Ukraine,20.0
+frappe/charts,charts,"📊🍩📈 Simple, responsive, modern SVG Charts with zero dependencies",10021,351,JavaScript,frappe,Frappé,Organization,"Mumbai, India",19.0759837,72.87765590000001,Mumbai,India,21.0
+grab/front-end-guide,front-end-guide,📚 Study guide and introduction to the modern front end stack.,9822,670,JavaScript,grab,Grab,Organization,Singapore,,,,,22.0
+Shopify/draggable,draggable,The JavaScript Drag & Drop library your grandparents warned you about.,9594,346,JavaScript,Shopify,Shopify,Organization,,,,,,23.0
+jeromeetienne/AR.js,AR.js,Efficient Augmented Reality for the Web - 60fps on mobile!,9242,786,JavaScript,jeromeetienne,Jerome Etienne,User,"Dublin, Ireland",53.34980529999999,-6.2603097000000005,Dublin,Ireland,25.0
+react-navigation/react-navigation,react-navigation,"Learn once, navigate anywhere",8760,1978,JavaScript,react-navigation,React Navigation,Organization,,,,,,29.0
+hyperapp/hyperapp,hyperapp,1 KB JavaScript library for building frontend applications.,8342,366,JavaScript,hyperapp,Hyperapp,Organization,,,,,,32.0
+react-community/create-react-native-app,create-react-native-app,Create a React Native app on any OS with no build config.,7670,633,JavaScript,react-community,React Community,Organization,,,,,,35.0
+airbnb/lottie-react-native,lottie-react-native,Lottie wrapper for React Native.,7638,594,JavaScript,airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,37.0
+reactide/reactide,reactide,Reactide is the first dedicated IDE for React web application development. http://reactide.io,7372,395,JavaScript,reactide,reactide,Organization,,,,,,41.0
+poteto/hiring-without-whiteboards,hiring-without-whiteboards,⭐️  Companies that don't have a broken hiring process,7369,822,JavaScript,poteto,Lauren Tan,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,42.0
+apache/incubator-weex,incubator-weex,Mirror of Apache Weex,7070,966,JavaScript,apache,The Apache Software Foundation,Organization,,,,,,44.0
+jaredreich/pell,pell,"📝 the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies",6778,298,JavaScript,jaredreich,Jared Reich,User,"Alberta, Canada",53.9332706,-116.57650349999999,,Canada,49.0
+aksakalli/gtop,gtop,System monitoring dashboard for terminal,6484,218,JavaScript,aksakalli,Can Güney Aksakalli,User,"Bonn, Germany",,,,,53.0
+ant-design/ant-design-pro,ant-design-pro,👨🏻‍💻👩🏻‍💻 An out-of-box UI solution for enterprise applications,5671,784,JavaScript,ant-design,,Organization,,,,,,67.0
+alvarcarto/url-to-pdf-api,url-to-pdf-api,"Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content.",4997,311,JavaScript,alvarcarto,Alvar Carto,Organization,Helsinki,60.16985569999999,24.938379100000002,Helsinki,Finland,79.0
+thejameskyle/react-loadable,react-loadable,:hourglass_flowing_sand: A higher order component for loading components with promises.,4950,197,JavaScript,thejameskyle,James Kyle,User,Sydney,37.7749295,-122.4194155,San Francisco,United States,80.0
+google/boardgame.io,boardgame.io,State management and more for turn based games.,4802,176,JavaScript,google,Google,Organization,,,,,,82.0
+notwaldorf/tiny-care-terminal,tiny-care-terminal,💖💻 A little dashboard that tries to take care of you when you're using your terminal.,4798,219,JavaScript,notwaldorf,Monica Dinculescu,User,Sun Funcisco ☀️,,,,,83.0
+kitze/sizzy,sizzy,A tool for testing responsive websites crazy-fast,4640,195,JavaScript,kitze,Kitze,User,Macedonia,41.608635,21.745275,,Macedonia (FYROM),85.0
+atlassian/react-beautiful-dnd,react-beautiful-dnd,"Beautiful, accessible drag and drop for lists with React.js",4574,180,JavaScript,atlassian,Atlassian,Organization,"Sydney, San Francisco, Austin, and more!",,,,,87.0
+veltman/flubber,flubber,Tools for smoother shape animations.,4401,109,JavaScript,veltman,Noah Veltman,User,,,,,,89.0
+mikeal/r2,r2,HTTP client. Spiritual successor to request.,4281,132,JavaScript,mikeal,Mikeal Rogers,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,91.0
+vadimdemedes/ink,ink,🌈 React for interactive command-line apps,4262,86,JavaScript,vadimdemedes,Vadim Demedes,User,,,,,,92.0
+redux-offline/redux-offline,redux-offline,Build Offline-First Apps for Web and React Native,4162,181,JavaScript,redux-offline,,Organization,,,,,,98.0
+iview/iview-admin,iview-admin,Vue 2.0 admin management system template based on iView,4002,821,JavaScript,iview,iView,Organization,BeiJing,39.90419989999999,116.4073963,Beijing,China,108.0
+webslides/WebSlides,WebSlides,Create HTML presentations in seconds —,3987,293,JavaScript,webslides,WebSlides,Organization,Seville,37.3890924,-5.984458900000001,Seville,Spain,110.0
+jawil/blog,blog,"Too young, too simple. Sometimes, naive & stupid 🐌",3909,572,JavaScript,jawil,微醺岁月,User,"Hangzhou, China",,,,,112.0
+Bogdan-Lyashenko/js-code-to-svg-flowchart,js-code-to-svg-flowchart,js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.,3888,174,JavaScript,Bogdan-Lyashenko,Bohdan Liashenko,User,"Stockholm, Sweden",,,,,113.0
+Kristories/awesome-guidelines,awesome-guidelines,A curated list of high quality coding style conventions and standards.,3687,221,JavaScript,Kristories,Wahyu Kristianto,User,Jakarta,-6.17511,106.86503950000001,Jakarta,Indonesia,120.0
+SparkPost/heml,heml,HEML is an open source markup language for building responsive email.,3523,104,JavaScript,SparkPost,SparkPost,Organization,"Columbia, Maryland",39.203714399999996,-76.86104619999998,Columbia,United States,131.0
+ai/nanoid,nanoid,"A tiny (176 bytes), secure, URL-friendly, unique string ID generator for JavaScript.",3519,118,JavaScript,ai,Andrey Sitnik,User,"Saint Petersburg, Russia",59.9342802,30.335098600000002,Saint Petersburg,Russia,132.0
+laurent22/joplin,joplin,"Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.",3442,133,JavaScript,laurent22,Laurent Cozic,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,137.0
+bailicangdu/node-elm,node-elm,基于 node.js + Mongodb 构建的后台系统,3419,1147,JavaScript,bailicangdu,cangdu,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,138.0
+ApoorvSaxena/lozad.js,lozad.js,"🔥  Highly performant, light ~0.7kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more",3409,182,JavaScript,ApoorvSaxena,Apoorv Saxena,User,India,,,,,139.0
+trazyn/ieaseMusic,ieaseMusic,这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal: ,3349,350,JavaScript,trazyn,衣带渐宽人渐悔,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,143.0
+google/bottery,bottery,,3273,157,JavaScript,google,Google,Organization,,,,,,149.0
+lllyasviel/style2paints,style2paints,sketch + style = paints :art:,3230,296,JavaScript,lllyasviel,,User,,,,,,151.0
+hshoff/vx,vx,react + d3 = vx | visual
