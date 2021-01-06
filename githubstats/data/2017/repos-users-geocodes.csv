@@ -478,4 +478,113 @@ threepointone/glam,glam,crazy good css in your js,415,20,JavaScript,threepointon
 xtuc/async-reactor,async-reactor,Render async Stateless Functional Components in React,414,21,JavaScript,xtuc,Sven SAULEAU,User,France,,,,,2045.5
 prettier/eslint-config-prettier,eslint-config-prettier,Turns off all rules that are unnecessary or might conflict with prettier.,412,26,JavaScript,prettier,Prettier,Organization,,,,,,2053.5
 discountry/react,react,React docs in Chinese | React 中文文档翻译,412,185,JavaScript,discountry,Disney,User,China,35.86166,104.195397,,China,2053.5
-headsetapp/headset-electron,headset-electron,Official Headset repo,412,41,JavaScript,
+headsetapp/headset-electron,headset-electron,Official Headset repo,412,41,JavaScript,headsetapp,Headset,Organization,,,,,,2053.5
+Cryptogenic/PS4-4.05-Kernel-Exploit,PS4-4.05-Kernel-Exploit,A fully implemented kernel exploit for the PS4 on 4.05FW,410,86,JavaScript,Cryptogenic,Specter,User,,,,,,2064.5
+jweinst1/Oblivion,Oblivion,The language of Art,409,11,JavaScript,jweinst1,Josh Weinstein,User,"Berkeley, CA",,,,,2071.0
+hyj1991/easy-monitor,easy-monitor,轻量级实时 Node.js 内核性能监控分析工具,406,44,JavaScript,hyj1991,hyj1991,User,"Nanjing, Jiangsu, China",32.060255,118.796877,Nanjing,China,2080.5
+ErlendEllingsen/pull-to-reload,pull-to-reload,Pull to reload implementation for the web. Designed to work with both mobile and websites. ,403,16,JavaScript,ErlendEllingsen,Erlend Ellingsen,User,"Oslo, Norway",,,,,2097.0
+LucasBassetti/react-simple-chatbot,react-simple-chatbot,:speech_balloon: Easy way to create conversation chats,402,89,JavaScript,LucasBassetti,Lucas Bassetti,User,Vitória - ES,,,,,2102.5
+dvdciri/daggraph,daggraph,Dagger dependency graph generator for Android Developers,402,15,JavaScript,dvdciri,Davide Cirillo,User,"London, United Kingdom",51.5073509,-0.12775830000000002,London,United Kingdom,2102.5
+jhabdas/fetch-inject,fetch-inject,:cherries: A fetching async loader and DOM injection sequencer for high-performance websites,402,18,JavaScript,jhabdas,Josh Habdas,User,"Bali, Indonesia",-8.409517800000001,115.18891599999999,,Indonesia,2102.5
+klauscfhq/tusk,tusk,🐘 Refined Evernote desktop app,401,36,JavaScript,klauscfhq,Klaus Sinani,User,Cookfood HQ,,,,,2110.0
+ryanflorence/render-markdown-javascript,render-markdown-javascript,Renders markdown files to HTML with highlighted code blocks BUT ALSO RENDERS THE JAVASCRIPT ONES.,401,16,JavaScript,ryanflorence,Ryan Florence,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,2110.0
+SurpassRabbit/ShiTu,ShiTu,react-native实现识图功能和一些有意思的小功能,400,53,JavaScript,SurpassRabbit,Learn React-Native,User,,,,,,2115.5
+peggyrayzis/react-native-create-bridge,react-native-create-bridge,A CLI tool that bridges React Native modules & UI components with ease 🎉,399,29,JavaScript,peggyrayzis,Peggy Rayzis,User,"New York, NY",40.7127753,-74.0059728,New York,United States,2119.5
+xubinux/xbin-store-cloud,xbin-store-cloud,"模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Cloud 使用dubbox版本请查看",399,214,JavaScript,xubinux,許彬,User,NanJing.,,,,,2119.5
+wix/import-cost,import-cost,displays the import size of the package you are importing inside the code editor,398,12,JavaScript,wix,Wix.com,Organization,"Tel Aviv, Vilnius, Dnipropetrovsk, Kiev, San Francisco, Miami, NYC",,,,,2124.5
+cagataycali/xss-listener,xss-listener,🕷️ XSS Listener is a penetration tool for easy to steal data with various XSS.,397,20,JavaScript,cagataycali,./c²,User,Denizli / Turkey,37.783015899999995,29.0963328,Denizli,Turkey,2128.5
+alexbrillant/react-native-deck-swiper,react-native-deck-swiper,tinder like react-native deck swiper ,397,71,JavaScript,alexbrillant,Alexandre Brillant,User,"Québec, Canada",46.8138783,-71.2079809,Québec City,Canada,2128.5
+prettier/eslint-plugin-prettier,eslint-plugin-prettier,ESLint plugin for prettier formatting,397,28,JavaScript,prettier,Prettier,Organization,,,,,,2128.5
+lando/lando,lando,You look absolutely beautiful!,395,78,JavaScript,lando,Lando,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2139.5
+captainsafia/fony,fony,A simple command line tool for generating fake data from a template string,395,14,JavaScript,captainsafia,Safia Abdalla,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,2139.5
+wangfupeng1988/js-async-tutorial,js-async-tutorial,深入理解 JavaScript 异步,395,84,JavaScript,wangfupeng1988,王福朋,User,,,,,,2139.5
+laracasts/Lets-Build-a-Forum-in-Laravel,Lets-Build-a-Forum-in-Laravel,http://laracasts.com/series/lets-build-a-forum-with-laravel,395,141,JavaScript,laracasts,Laracasts,User,"Chattanooga, TN",35.0456297,-85.3096801,Chattanooga,United States,2139.5
+vmasto/express-babel,express-babel,"Express starter kit with ES2017+ support, testing, linting, and code coverage",394,63,JavaScript,vmasto,Vassilis Mastorostergios,User,"Thessaloniki, Greece",,,,,2149.5
+feross/yt-player,yt-player,"Simple, robust, blazing-fast YouTube Player API",394,15,JavaScript,feross,Feross Aboukhadijeh,User,"San Francisco, CA",37.3860517,-122.08385109999999,Mountain View,United States,2149.5
+mattdesl/webgl-wireframes,webgl-wireframes,Stylized Wireframe Rendering in WebGL,394,24,JavaScript,mattdesl,Matt DesLauriers,User,Toronto,43.653226000000004,-79.3831843,Toronto,Canada,2149.5
+wix/react-native-ui-lib,react-native-ui-lib,UI Components Library for React Native,394,34,JavaScript,wix,Wix.com,Organization,"Tel Aviv, Vilnius, Dnipropetrovsk, Kiev, San Francisco, Miami, NYC",,,,,2149.5
+stojanovic/scottyjs,scottyjs,Deploy static websites and single page apps to AWS S3 and CloudFront with a single command,393,20,JavaScript,stojanovic,Slobodan Stojanović,User,"Belgrade, Serbia",,,,,2155.5
+elrumordelaluz/reactour,reactour,Tourist Guide into your React Components,392,34,JavaScript,elrumordelaluz,Lionel,User,Italy,,,,,2158.5
+openstyles/stylus,stylus,Stylus - Userstyles Manager,391,38,JavaScript,openstyles,,Organization,,,,,,2164.5
+yuri2peter/win10-ui,win10-ui,Win10风格的UI框架。Windows10 style UI framework.,391,107,JavaScript,yuri2peter,yuri2,User,,,,,,2164.5
+SumiMakito/Awesome-qr.js,Awesome-qr.js,An awesome QR code generator written in JavaScript.,391,39,JavaScript,SumiMakito,Makito,User,↑ Freelance,,,,,2164.5
+wavesoft/dot-dom,dot-dom,.dom is a tiny (511 byte) template engine that uses virtual DOM and some of react principles,391,30,JavaScript,wavesoft,Ioannis Charalampidis,User,,,,,,2164.5
+sdras/vue-vscode-snippets,vue-vscode-snippets,These snippets were built to supercharge my workflow in the most seamless manner possible.,391,27,JavaScript,sdras,Sarah Drasner,User,All over the place,,,,,2164.5
+nylas-mail-lives/nylas-mail,nylas-mail,:love_letter: An extensible desktop mail app built on the modern web.,391,37,JavaScript,nylas-mail-lives,Nylas Mail Lives,Organization,,,,,,2164.5
+Nike-Inc/burnside,burnside,Fast and Reliable E2E Web Testing with only Javascript,387,10,JavaScript,Nike-Inc,Nike Inc.,Organization,"Beaverton, OR",45.48706199999999,-122.8037102,Beaverton,United States,2192.0
+michalsnik/vue-content-placeholders,vue-content-placeholders,Composable components for rendering fake (progressive) content like facebook in vue,384,22,JavaScript,michalsnik,Michał Sajnóg,User,Poznań,,,,,2209.0
+Ma63d/vue-analysis,vue-analysis,Vue 源码注释版 及 Vue 源码详细解析,382,60,JavaScript,Ma63d,Chuck Liu,User,"Hangzhou, China",,,,,2223.5
+Werb/Pixel-Web,Pixel-Web,一个 Vue 微博客户端,382,57,JavaScript,Werb,wanbo,User,"Beijing, China",,,,,2223.5
+GoogleChromeLabs/jsvu,jsvu,JavaScript (engine) Version Updater,381,10,JavaScript,GoogleChromeLabs,,Organization,,,,,,2229.5
+luisvinicius167/dutier,dutier,"The immutable, async and hybrid state management solution for Javascript applications. ",380,15,JavaScript,luisvinicius167,Luis Vinicius,User,"Rio de Janeiro, Brazil",-22.9068467,-43.1728965,Rio de Janeiro,Brazil,2235.0
+ebidel/lighthouse-ci,lighthouse-ci,Run Lighthouse in CI using Docker,380,27,JavaScript,ebidel,Eric Bidelman,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2235.0
+apollographql/launchpad,launchpad,"Launchpad, the GraphQL server demo platform",379,35,JavaScript,apollographql,Apollo GraphQL,Organization,,,,,,2240.5
+typicode/react-fake-props,react-fake-props,🔮 Simple utility to magically generate fake props for your React tests ,378,15,JavaScript,typicode,,User,localhost,,,,,2246.5
+nefe/number-precision,number-precision,"🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely",377,42,JavaScript,nefe,前端新能源（New Energy for Front-end）,Organization,,,,,,2252.5
+shakee93/vue-toasted,vue-toasted,:heart_eyes: Responsive Touch Compatible Toast plugin for VueJS 2+,377,42,JavaScript,shakee93,Shakeeb Sadikeen,User,"Colombo, Sri Lanka",6.927078599999999,79.861243,Colombo,Sri Lanka,2252.5
+25th-floor/revalidation,revalidation,Higher Order Component for Validating Forms in React,377,17,JavaScript,25th-floor,25th-floor GmbH,Organization,Vienna,,,,,2252.5
+segmentio/niffy,niffy,Perceptual diffing suite built on Nightmare,376,13,JavaScript,segmentio,Segment,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2259.5
+brainly/html-sketchapp,html-sketchapp,Experimental HTML to Sketch export solution,376,12,JavaScript,brainly,Brainly,Organization,"Cracow, New York",40.74867709999999,-73.9806959,New York,United States,2259.5
+ahmadawais/Gutenberg-Boilerplate,Gutenberg-Boilerplate,🔥 WordPress Gutenberg Boilerplate! — Easy to understand and extensively inline documented starter WordPress plugin for the new Gutenberg editor. Think of it like a create-react-app for WP Gutenberg.,375,41,JavaScript,ahmadawais,Ahmad Awais ⚡️,User,WP REST API / PWA / Gutenberg,,,,,2266.5
+tameemsafi/typewriterjs,typewriterjs,A simple yet powerful native javascript plugin for a cool typewriter effect.,374,20,JavaScript,tameemsafi,Tameem Safi,User,United Kingdom,55.378051,-3.435973,,United Kingdom,2272.5
+Thinkmill/jest-in-case,jest-in-case,Jest utility for creating variations of the same test,373,11,JavaScript,Thinkmill,Thinkmill,Organization,Sydney,,,,,2278.0
+kiliman/operator-mono-lig,operator-mono-lig,Add ligatures to Operator Mono similar to Fira Code,370,25,JavaScript,kiliman,Kiliman,User,,,,,,2295.5
+51nb/miox,miox,Modern infrastructure of complex SPA :,370,40,JavaScript,51nb,51NB,Organization,Hangzhou,30.274084000000002,120.15507,Hangzhou,China,2295.5
+styled-components/jest-styled-components,jest-styled-components,Jest utilities for Styled Components,369,32,JavaScript,styled-components,styled-components,Organization,,,,,,2302.0
+pingyhq/pingy-cli,pingy-cli,"The Simple Frontend Build Tool. No Configuration, No Plugins.",368,13,JavaScript,pingyhq,Pingy,Organization,Ireland,53.1423672,-7.692053599999999,,,2311.0
+Imangazaliev/git-tips,git-tips,Часто используемые трюки и советы при работе с Git,368,77,JavaScript,Imangazaliev,,User,,,,,,2311.0
+diit/overtime-cli,overtime-cli,Easy time-overlap tables for remote teams.,368,14,JavaScript,diit,Dale Inverarity,User,"London, Canada",51.49798999999999,-0.04969,London,United Kingdom,2311.0
+kuoa/smart-connected-mirror,smart-connected-mirror,Displaying real time information on a mirrored surface.,368,16,JavaScript,kuoa,Sandu Postaru,User,Paris,,,,,2311.0
+captainsafia/goops,goops,A CLI tool that automagically adds or recommends the best .gitignore for your project,368,16,JavaScript,captainsafia,Safia Abdalla,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,2311.0
+ghacksuserjs/ghacks-user.js,ghacks-user.js,"An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting",367,33,JavaScript,ghacksuserjs,,Organization,,,,,,2322.0
+nuxt-community/express-template,express-template,Starter template for Nuxt.js with Express.,364,69,JavaScript,nuxt-community,Nuxt Community,Organization,,,,,,2331.5
+ShanaMaid/oho-reader,oho-reader,【维护使用中，开箱即食】哦豁阅读器！API源自追书神器，免费使用！填坑完成！使用react,363,89,JavaScript,ShanaMaid,Jingyi Zeng,User,"ChengDu, China",30.572815000000002,104.066801,Chengdu,China,2339.5
+mitul45/expense-manager,expense-manager,💸 Take control back. Track your everyday spendings.,361,23,JavaScript,mitul45,Mitul Shah,User,"Amsterdam, Netherlands",52.3702157,4.8951679000000015,Amsterdam,Netherlands,2349.5
+zehfernandes/pliim,pliim,One click and be ready to go up on stage and shine!,360,11,JavaScript,zehfernandes,Zeh Fernandes,User,"São Paulo, Brazil",,,,,2354.5
+mikeal/bent,bent,Functional HTTP client for Node.js w/ async/await.,357,6,JavaScript,mikeal,Mikeal Rogers,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,2373.0
+kentcdodds/babel-plugin-macros,babel-plugin-macros,"🎣 Enables zero-config, importable babel plugins",357,27,JavaScript,kentcdodds,Kent C. Dodds,User,"Salt Lake City, Utah, USA",40.760779299999996,-111.89104740000002,Salt Lake City,United States,2373.0
+euvl/vue-notification,vue-notification,:icecream: Vue.js 2 library for showing notifications,356,41,JavaScript,euvl,Yev Vlasenko,User,"London, UK",,,,,2378.5
+nitin42/React-Web-AR,React-Web-AR,🕶️ Augmented Reality on web with React,355,18,JavaScript,nitin42,Nitin Tulswani,User,"Jodhpur, Rajasthan",,,,,2383.5
+sunoj/jjb,jjb,京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展,354,86,JavaScript,sunoj,sunoj,User,,,,,,2388.0
+renatorib/react-sizes,react-sizes,:left_right_arrow: Hoc to easily map window sizes to props.,353,17,JavaScript,renatorib,Renato Ribeiro,User,"São Paulo, Brazil",-23.550519899999998,-46.63330939999999,São Paulo,Brazil,2392.5
+seraum/nectarjs,nectarjs,Javascript's God Mode,353,7,JavaScript,seraum,Seraum,Organization,France,,,,,2392.5
+stark-contrast/stark-sketch-plugin,stark-sketch-plugin,Ensure your design is accessible and high contrast for every type of color blindness,352,19,JavaScript,stark-contrast,Stark,Organization,Everywhere,28.687535999999998,-81.3465982,Longwood,United States,2399.0
+mfrachet/rn-placeholder,rn-placeholder,:dash: :dizzy: :sparkles: Display some placeholder stuff before rendering your text or media content in React Native,352,24,JavaScript,mfrachet,Marvin Frachet,User,France,46.227638,2.213749,,France,2399.0
+vigzmv/what_the_thing,what_the_thing,:camera: Point your camera at things to learn how to say them in a different language. Android app built with React Native.,351,37,JavaScript,vigzmv,Vignesh M,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India,2404.0
+cesarferreira/drone,drone,:cake: The missing library manager for Android Developers,349,21,JavaScript,cesarferreira,César Ferreira,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,2419.0
+reasonml-community/reason-scripts,reason-scripts,:beginner: Create a ReasonML and React development environment,349,22,JavaScript,reasonml-community,,Organization,Everywhere,,,,,2419.0
+bailicangdu/RN-elm,RN-elm,基于 react-native 构建一个模拟外卖平台的原生APP,349,149,JavaScript,bailicangdu,cangdu,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,2419.0
+wxsms/uiv,uiv,Bootstrap 3 components implemented by Vue 2.,348,58,JavaScript,wxsms,wxsm,User,"Zhuhai, China",22.270978,113.576677,Zhuhai,China,2430.0
+theori-io/pwnjs,pwnjs,A Javascript library for browser exploitation,348,59,JavaScript,theori-io,Theori,Organization,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States,2430.0
+talyssonoc/node-api-boilerplate,node-api-boilerplate,DDD/Clean Architecture inspired boilerplate for Node web APIs,347,36,JavaScript,talyssonoc,Talysson de Oliveira Cassiano,User,Brazil,-14.235004,-51.92528,,Brazil,2438.5
+dthree/ad,ad,Making Active Directory jQuery-easy,346,14,JavaScript,dthree,dc,User,✈ South Africa,34.0522342,-118.24368490000002,Los Angeles,United States,2447.0
+bradoyler/xmr-miner,xmr-miner,"XMR mining app, built with Vue.js, D3 and CoinHive",345,16,JavaScript,bradoyler,brad oyler,User,Philadelphia,,,,,2458.5
+hiproxy/hiproxy,hiproxy,🛠 hiproxy is a lightweight proxy tool for Front-End developers based on Node.js that supports an NGINX-like configuration. 🔥,345,33,JavaScript,hiproxy,hiproxy,Organization,BeiJing,39.90419989999999,116.4073963,Beijing,China,2458.5
+pedronauck/micro-router,micro-router,:station:  A tiny and functional router for Zeit's Micro,345,30,JavaScript,pedronauck,Pedro Nauck,User,Florianópolis - SC,-27.594869800000005,-48.54821949999999,,Brazil,2458.5
+guaxiao/gua.game.js,gua.game.js,JavaScript 写游戏,345,153,JavaScript,guaxiao,,User,,,,,,2458.5
+algolia/react-instantsearch,react-instantsearch,"⚡ Lightning-fast search for React and React Native apps, by Algolia.",344,62,JavaScript,algolia,Algolia,Organization,"SF, Paris",37.7208353,-122.4356071,San Francisco,United States,2470.5
+meetmore/lottery.js,lottery.js,🎲  A simple javascript lottery app,344,36,JavaScript,meetmore,多会,Organization,,,,,,2470.5
+draios/sysdig-inspect,sysdig-inspect,Sysdig Inspect - A powerful opensource interface for container troubleshooting and security investigation,343,15,JavaScript,draios,Sysdig,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,2479.5
+wmui/vueblog,vueblog,A blog system by Nuxt.js :cn:,342,105,JavaScript,wmui,仰望星空,User,HangZhou China,30.274084000000002,120.15507,Hangzhou,China,2488.0
+wwwtyro/badlands,badlands,procedural badlands,341,21,JavaScript,wwwtyro,Rye Terrell,User,,,,,,2495.5
+aholstenson/miio,miio,"Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",341,53,JavaScript,aholstenson,Andreas Holstenson,User,,,,,,2495.5
+kamikat/tttfi,tttfi,Middleware for IFTTT.,340,15,JavaScript,kamikat,Kamikat,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,2503.5
+darrenscerri/duplicate-package-checker-webpack-plugin,duplicate-package-checker-webpack-plugin,Webpack plugin that warns you when multiple versions of the same package exist in a build,338,12,JavaScript,darrenscerri,Darren Scerri,User,Malta,,,,,2518.5
+ReactVT/react-vt,react-vt,Data-driven visual testing library for React developers,337,18,JavaScript,ReactVT,React VT,Organization,,,,,,2526.0
+sinedied/backslide,backslide,CLI tool for making HTML presentations with Remark.js using Markdown,336,22,JavaScript,sinedied,Yohan Lasorsa,User,"Grenoble, France",45.188528999999996,5.724524,Grenoble,France,2533.5
+iserdmi/card-info,card-info,"Get bank logo, colors, brand and etc. by card number",335,44,JavaScript,iserdmi,Sergey Dmitriev,User,"Russia, Samara",53.2415041,50.2212463,Samara,Russia,2538.5
+spatie/vue-table-component,vue-table-component,A straight to the point Vue component to display tables,335,61,JavaScript,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,2538.5
+xmcp/pakku.js,pakku.js,拯救B站的弹幕体验！Make Bilibili Great Again!,334,24,JavaScript,xmcp,肖某,User,Beijing,,,,,2545.5
+lukeed/preact-starter,preact-starter,Webpack3 boilerplate for building SPA / PWA / offline front-end apps with Preact,333,36,JavaScript,lukeed,Luke Edwards,User,,,,,,2554.5
+beauty-enjoy/beauty,beauty,👙  VUE + VUEX + FIREBASE + BULMA … 实现的 SPA SSR 同构项目 - demo,333,58,JavaScript,beauty-enjoy,beauty,Organization,,,,,,2554.5
+sureskumar/Looper,Looper,"Looper is a sketch plugin that helps automate duplication of groups and layers. One can control properties like Rotate, Scale and Opacity while duplicating. This powerful combination enables artists and designers to create interesting geometric and organic patterns.",332,12,JavaScript,sureskumar,Sures Kumar,User,India,,,,,2563.0
+vue-styleguidist/vue-styleguidist,vue-styleguidist,Created from react styleguidist for Vue Components with a living style guide,332,35,JavaScript,vue-styleguidist,Vue Styleguidist,Organization,,,,,,2563.0
+reasonml-community/reason-react-example,reason-react-example,Examples for ReasonReact,331,60,JavaScript,reasonml-community,,Organization,Everywhere,,,,,2570.0
+coderdiaz/vue-datasource,vue-datasource,A vue.js component to create dynamic tables,330,81,JavaScript,coderdiaz,Javier Diaz,User,Mexico City,,,,,2576.5
+creotip/vue-particles,vue-particles,Vue.js component for particles backgrounds ✨,330,29,JavaScript,creotip,Creotip,User,"Givat Olga, Israel",32.440881,34.883542999999996,Hadera,Israel,2576.5
+shayc/cboard,cboard,AAC communication board with text-to-speech for the browser,329,65,JavaScript,shayc,Shay Cojocaru,User,Israel,31.046051000000002,34.851612,,Israel,2586.0
+psi-4ward/psitransfer,psitransfer,Simple open source self-hosted file sharing solution.  ,328,34,JavaScript,psi-4ward,Christoph Wiechert,User,"Germany, Munich",,,,,2596.5
+amitmerchant1990/pomolectron,pomolectron,:tomato: A pomodoro app in your menubar/tray.,327,34,JavaScript,amitmerchant1990,Amit Merchant,User,Milky Way,42.993802,-89.5682824,Verona,United States,2609.0
+mandatoryprogrammer/JudasDNS,JudasDNS,Nameserver DNS poisoning attacks made easy,327,58,JavaScript,mandatoryprogrammer,Matthew Bryant,User,'><script src=https://y.vg></script>,,,,,2609.0
+yczeng/hackernews-newsfeed,hackernews-newsfeed,Make Hacker News your Facebook newsfeed! 💸💰,327,16,JavaScript,yczeng,Catherine Zeng,User,"Cambridge, MA",42.373615799999996,-71.10973349999998,Cambridge,United States,2609.0
+atom/teletype-crdt,teletype-crdt,String-wise sequence CRDT powering peer-to-peer collaborative editing in Teletype for Atom.,327,19,JavaScript,atom,Atom,Organization,The Future,37.444201299999996,-122.1615759
