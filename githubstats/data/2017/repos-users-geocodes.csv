@@ -259,4 +259,114 @@ FormidableLabs/react-live,react-live,A production-focused playground for live ed
 zouhir/lqip-loader,lqip-loader,Low Quality Image Placeholders (LQIP) for Webpack,803,28,JavaScript,zouhir,Zouhir ⚡️,User,Sydney - Australia,,,,,989.0
 chrispsn/mesh,mesh,Visualise data and edit JavaScript code using a spreadsheet interface.,802,32,JavaScript,chrispsn,Chris Pearson,User,"Sydney, Australia",-33.8688197,151.2092955,Sydney,Australia,991.5
 sdras/array-explorer,array-explorer,⚡️ A resource to help figure out what JavaScript array method would be best to use at any given time,802,76,JavaScript,sdras,Sarah Drasner,User,All over the place,,,,,991.5
-seanjameshan/blockchain-cli,blockchain-cli,⛓️ A minimal blockchain command-line interface.,800,98,JavaScript,seanjameshan,Sean,User,Toronto ON,,,,,9
+seanjameshan/blockchain-cli,blockchain-cli,⛓️ A minimal blockchain command-line interface.,800,98,JavaScript,seanjameshan,Sean,User,Toronto ON,,,,,994.5
+proYang/outils,outils,:rocket: 前端业务代码工具库,793,290,JavaScript,proYang,SlaneYang,User,,,,,,1003.0
+Thinkmill/react-conf-app,react-conf-app,React Conf 2017 Companion App - built with React Native,791,74,JavaScript,Thinkmill,Thinkmill,Organization,Sydney,,,,,1007.0
+c8r/x0,x0,Zero-config React development environment and static site generator,781,13,JavaScript,c8r,Compositor,Organization,NYC / ID / LDN,,,,,1027.0
+asfktz/autodll-webpack-plugin,autodll-webpack-plugin,Webpack's DllPlugin without the boilerplate,779,29,JavaScript,asfktz,Asaf Katz,User,,,,,,1030.5
+amplitude/redux-query,redux-query,A library for querying and managing network state in React/Redux applications,774,35,JavaScript,amplitude,Amplitude Analytics,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,1036.0
+Metnew/suicrux,suicrux,Universal. PWA/LL/SSR/React/Redux/i18n.,773,118,JavaScript,Metnew,Vladimir Metnew,User,"Ukraine, Kiev",50.4501,30.5234,Kyiv,Ukraine,1038.0
+stereobooster/react-snap,react-snap,🔮 A zero-configuration static pre-renderer for SPA,772,31,JavaScript,stereobooster,,User,"Berlin, Germany",,,,,1040.5
+huyingjie/Checklist-Checklist,Checklist-Checklist,🌈  A Curated List of Checklists ✔︎✔︎,768,31,JavaScript,huyingjie,Yingjie (Iris) Hu,User,New York City,40.7127753,-74.0059728,New York,United States,1050.5
+sls-admin/sls-admin-vue,sls-admin-vue,https://vue.slsadmin.org,761,247,JavaScript,sls-admin,,Organization,,,,,,1060.5
+nitin42/Making-a-custom-React-renderer,Making-a-custom-React-renderer,Tutorial on how to make a custom React renderer,760,36,JavaScript,nitin42,Nitin Tulswani,User,"Jodhpur, Rajasthan",,,,,1063.5
+indutny/webpack-common-shake,webpack-common-shake,CommonJS Tree Shaker plugin for WebPack,758,17,JavaScript,indutny,Fedor Indutny,User,USA,37.09024,-95.712891,,United States,1070.0
+renatorib/react-powerplug,react-powerplug,:electric_plug: 3kB gzipped Renderless Pluggable State Containers ,757,27,JavaScript,renatorib,Renato Ribeiro,User,"São Paulo, Brazil",-23.550519899999998,-46.63330939999999,São Paulo,Brazil,1072.0
+DevExpress/DevExtreme,DevExtreme,HTML5 JavaScript Component Suite for Responsive Web Development,757,133,JavaScript,DevExpress,Developer Express Inc.,Organization,,,,,,1072.0
+TalkingData/inmap,inmap,Map visualization,756,54,JavaScript,TalkingData,,Organization,,,,,,1075.5
+zeeshanu/opus,opus,Open source knowledge base application for Teams,755,74,JavaScript,zeeshanu,Zeeshan Ahmad,User,Pakistan,31.4187142,73.07910729999998,Faisalabad,Pakistan,1078.0
+nitin42/react-perf-devtool,react-perf-devtool,A Chrome developer tool extension to inspect performance of React components.,752,14,JavaScript,nitin42,Nitin Tulswani,User,"Jodhpur, Rajasthan",,,,,1081.5
+CVarisco/create-component-app,create-component-app,Tool to generate different types of React components from the terminal. 💻,750,48,JavaScript,CVarisco,Christian Varisco,User,Milan,45.464203499999996,9.189982,Milan,Italy,1086.0
+ericvicenti/intro-to-react,intro-to-react,A Hands-On Walkthrough of your first React Web App,746,46,JavaScript,ericvicenti,Eric Vicenti,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1093.5
+facebook-atom/atom-ide-ui,atom-ide-ui,A collection of user interfaces for Atom IDE.,739,42,JavaScript,facebook-atom,Facebook Atom/Nuclide,Organization,"Menlo Park, California",,,,,1103.5
+icymind/VRouter,VRouter,"一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理.",738,71,JavaScript,icymind,Simon,User,,,,,,1107.0
+gajus/usus,usus,Webpage pre-rendering service. ⚡️,738,24,JavaScript,gajus,Gajus Kuizinas,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,1107.0
+reswitched/pegaswitch,pegaswitch,PegaSwitch is an exploit toolkit for the Nintendo Switch,737,83,JavaScript,reswitched,ReSwitched Team,Organization,,,,,,1110.0
+simonepri/geo-maps,geo-maps,🗺 High Quality GeoJSON maps programmatically generated.,736,24,JavaScript,simonepri,Simone Primarosa,User,"Rome, Italy",,,,,1113.5
+denisraslov/react-spreadsheet-grid,react-spreadsheet-grid,"An Excel-like grid component for React with custom cell editors, performant scroll & resizable columns",732,24,JavaScript,denisraslov,Denis Raslov,User,"St Petersburg, Russia",,,,,1124.0
+stasm/innerself,innerself,◘ A tiny view + state management solution using innerHTML,728,25,JavaScript,stasm,Staś Małolepszy,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,1136.5
+facebookincubator/idx,idx,"Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.",727,27,JavaScript,facebookincubator,Facebook Incubator,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,1141.5
+diegohaz/generact,generact,Tool for generating React components by replicating your own,726,27,JavaScript,diegohaz,Haz,User,"Rio de Janeiro, Brazil",-22.9068467,-43.1728965,Rio de Janeiro,Brazil,1145.5
+chrisbolin/react-detect-offline,react-detect-offline,Offline and Online components for React,725,30,JavaScript,chrisbolin,Chris Bolin,User,,,,,,1150.0
+faceyspacey/react-universal-component,react-universal-component,🚀 The final answer to a React Universal Component: simultaneous SSR + Code Splitting,723,35,JavaScript,faceyspacey,James Gillmore,User,San Diego,,,,,1156.5
+webpack/webpack-pwa,webpack-pwa,Example for a super simple PWA with webpack.,722,33,JavaScript,webpack,webpack,Organization,,,,,,1158.0
+picodom/picodom,picodom,1 KB VDOM builder and patch function.,721,45,JavaScript,picodom,Picodom,Organization,,,,,,1159.5
+ElemeFE/v-charts,v-charts,基于 Vue2.0 和 ECharts 封装的图表组件📈📊,721,117,JavaScript,ElemeFE,饿了么前端,Organization,Shanghai,31.230415999999998,121.473701,Shanghai,China,1159.5
+maximegris/angular-electron,angular-electron,Ultra-fast bootstrapping with Angular 5 and Electron (Typescript + SASS + Hot Reload) :speedboat:,720,214,JavaScript,maximegris,Maxime GRIS,User,"Nantes, France",47.218371000000005,-1.553621,Nantes,France,1162.0
+Fabianlindfors/multi.js,multi.js,A user-friendly replacement for select boxes with multiple attribute enabled,719,38,JavaScript,Fabianlindfors,Fabian Lindfors,User,Sweden,60.12816100000001,18.643501,,Sweden,1164.0
+photonstorm/phaser-ce,phaser-ce,"Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",717,361,JavaScript,photonstorm,Richard Davey,User,UK,,,,,1166.0
+reddit/reddit-plugin-place-opensource,reddit-plugin-place-opensource,place,717,52,JavaScript,reddit,Reddit,Organization,"San Francisco, CA",,,,,1166.0
+ssrbackup/shadowsocks-rss,shadowsocks-rss,Shadowsocksr project backup,715,470,JavaScript,ssrbackup,Ssr project backup,User,,,,,,1169.0
+yishn/tikzcd-editor,tikzcd-editor,A simple visual editor for creating commutative diagrams.,714,42,JavaScript,yishn,Yichuan Shen,User,"Heidelberg, Germany",49.3987524,8.6724335,Heidelberg,Germany,1170.0
+MiCottOn/DejaVue,DejaVue,Visualization and debugging tool built for Vue.js,713,36,JavaScript,MiCottOn,,Organization,,,,,,1171.0
+alexa/alexa-cookbook,alexa-cookbook,"A series of sample code projects to be used for educational purposes during Alexa hackathons and workshops, and as a reference for tutorials and blog posts.",707,454,JavaScript,alexa,Alexa,Organization,,,,,,1177.0
+pinterest/bonsai,bonsai,"Understand the tree of dependencies inside your webpack bundles, and trim away the excess.",705,16,JavaScript,pinterest,Pinterest,Organization,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,1180.5
+gitalk/gitalk,gitalk,Gitalk is a modern comment component based on Github Issue and Preact.,704,55,JavaScript,gitalk,,Organization,,,,,,1184.0
+final-form/final-form,final-form,"🏁 Framework agnostic, high performance, subscription-based form state management",704,19,JavaScript,final-form,Final Form,Organization,Github,40.0169197,-105.2779781,Boulder,United States,1184.0
+moroshko/rxviz,rxviz,Rx Visualizer - Animated playground for Rx Observables,699,35,JavaScript,moroshko,Misha Moroshko,User,"Menlo Park, CA",,,,,1193.0
+esterTion/Youku-HTML5-Player,Youku-HTML5-Player,一个适配优酷的简单易用的HTML5播放器,697,71,JavaScript,esterTion,,User,,,,,,1198.0
+meili/minui,minui,基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化,695,74,JavaScript,meili,Meili Inc.,Organization,"Hangzhou, China",,,,,1201.5
+nodejscn/node-api-cn,node-api-cn,Node.js API 中文文档,695,856,JavaScript,nodejscn,Node.js中文网,Organization,,,,,,1201.5
+broidHQ/integrations,integrations,Connect your App to Multiple Messaging Channels with the W3C Open standard.,693,55,JavaScript,broidHQ,Broid,Organization,Montreal,45.5016889,-73.567256,Montreal,Canada,1208.0
+ueokande/vim-vixen,vim-vixen,Vim vixen,691,50,JavaScript,ueokande,Shin'ya Ueoka,User,Tokyo,,,,,1214.0
+maierfelix/Iroh,Iroh,"☕ Dynamic analysis tool - Debug, record and analyze JavaScript at runtime",688,30,JavaScript,maierfelix,Felix Maier,User,"Tübingen, Germany",48.7758459,9.1829321,Stuttgart,Germany,1220.5
+eddyerburgh/avoriaz,avoriaz,🔬 a Vue.js testing utility library,687,58,JavaScript,eddyerburgh,Edd Yerburgh,User,London,,,,,1224.0
+hunterloftis/awaiting,awaiting,The async/await utility for browsers and Node.js.,680,14,JavaScript,hunterloftis,Hunter Loftis,User,"Charlotte, NC",35.2270869,-80.8431267,Charlotte,United States,1233.0
+youzan/zent,zent,A collection of essential UI components written with React.,678,104,JavaScript,youzan,有赞,Organization,杭州,30.274084999999996,120.15507,Hangzhou,China,1238.5
+cassidoo/todometer,todometer,A meter-based to-do list,677,64,JavaScript,cassidoo,Cassidy Williams,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,1244.5
+vesparny/fair-analytics,fair-analytics,📊  An analytics server that doesn't undermine user's privacy,677,30,JavaScript,vesparny,Alessandro Arnodo,User,Turin (Italy) & Geneva (Switzerland),,,,,1244.5
+sindresorhus/p-progress,p-progress,Create a promise that reports progress,672,25,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,1258.0
+mathieudutour/scroll-through-time,scroll-through-time,:hourglass: :tophat: :rabbit2: Two fingers scroll moves through time instead of space,671,28,JavaScript,mathieudutour,Mathieu Dutour,User,¯\_(ツ)_/¯,51.5073509,-0.12775830000000002,London,United Kingdom,1261.5
+micro-analytics/micro-analytics-cli,micro-analytics-cli,Public analytics as a Node.js microservice. No sysadmin experience required! 📈,671,38,JavaScript,micro-analytics,micro-analytics,Organization,,,,,,1261.5
+reactql/cli,cli,"Universal React+GraphQL starter kit CLI: React 16, Apollo, Webpack 3, React Router 4, PostCSS, SSR",668,36,JavaScript,reactql,ReactQL,Organization,,,,,,1268.5
+sindresorhus/on-change,on-change,Watch an object or array for changes,667,20,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,1270.5
+seasonstar/bibi,bibi,An e-commerce fullstack solution for Flask 出口电商全栈解决方案,664,202,JavaScript,seasonstar,seasonstar,User,"Shenzhen, China",,,,,1276.5
+chaitin/passionfruit,passionfruit,[WIP] Crappy iOS app analyzer,662,83,JavaScript,chaitin,Chaitin Tech,Organization,Beijing,39.90419989999999,116.4073963,Beijing,China,1281.0
+skyvow/wux,wux,:dog: wux - 微信小程序自定义组件（对话框、指示器、五星评分...）,662,156,JavaScript,skyvow,skyvow,User," Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,1281.0
+thomaspark/gridgarden,gridgarden,A game for learning CSS grid layout,660,81,JavaScript,thomaspark,Thomas Park,User,Philadelphia,,,,,1283.5
+wavebox/waveboxapp,waveboxapp,"Wavebox lets you bring all your web communication tools together for faster, smarter working. Gmail, Google Inbox, Outlook, Office 365, Slack, Trello & more",655,85,JavaScript,wavebox,Wavebox,Organization,United Kingdom,,,,,1299.0
+FrankFang/wheels,wheels,笨办法造轮子,650,152,JavaScript,FrankFang,Frank Fang,User,"Hangzhou, China",,,,,1306.0
+ReactPrimer/ReactPrimer,ReactPrimer,React component prototyping tool that generates fully connected class component code.,650,29,JavaScript,ReactPrimer,ReactPrimer,Organization,"Los Angeles, CA",,,,,1306.0
+appleple/SmartPhoto,SmartPhoto,The most easy to use responsive image viewer especially for mobile devices,649,29,JavaScript,appleple,appleple,Organization,"Nagoya, Aichi Japan.",35.1814464,136.906398,Nagoya,Japan,1308.5
+25th-floor/spected,spected,Validation library,648,27,JavaScript,25th-floor,25th-floor GmbH,Organization,Vienna,,,,,1310.5
+appbaseio/reactivesearch,reactivesearch,A React components library for building awesome :mag: search UIs,640,35,JavaScript,appbaseio,appbase.io,Organization,,,,,,1319.5
+lexiross/fattest-cat,fattest-cat,Script to find fattest cat currently up for adoption at SF SPCA,637,43,JavaScript,lexiross,Lexi Ross,User,"San Francisco, CA",,,,,1325.5
+deepsweet/hocs,hocs,:bento: A collection of Higher-Order Components for React and React Native,637,12,JavaScript,deepsweet,Kir Belevich,User,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden,1325.5
+websiddu/sketch-material,sketch-material,"Sketch material is a sketch plugin that will help you generate complex material components like tables, chips, forms etc…",635,58,JavaScript,websiddu,Siddhartha,User,Bay Area,37.8271784,-122.2913078,,United States,1331.5
+minirefresh/minirefresh,minirefresh,优雅的H5 下拉刷新。零依赖，高性能，多主题，易拓展。(A Graceful HTML5 Drop-Down-Refresh Plugin. ),634,117,JavaScript,minirefresh,minirefresh,Organization,,,,,,1334.5
+ShanaMaid/vue-163-music,vue-163-music,【维护使用中，开箱即食】网易云音乐web版，支持PC端常用功能，localStorage保存播放列表,624,169,JavaScript,ShanaMaid,Jingyi Zeng,User,"ChengDu, China",30.572815000000002,104.066801,Chengdu,China,1349.0
+neuland/micro-frontends,micro-frontends,extending the microservice paradigms to web development,621,30,JavaScript,neuland,neuland - Büro für Informatik,Organization,"Bremen, Germany",53.07929619999999,8.8016936,Bremen,Germany,1356.5
+Nealyang/React-Express-Blog-Demo,React-Express-Blog-Demo,:fire: React+Express+Mongo ->前后端博客网站 :new_moon_with_face:,619,134,JavaScript,Nealyang,Nealyang,User,北京,,,,,1362.5
+kentcdodds/babel-plugin-preval,babel-plugin-preval,Pre-evaluate code at build-time,619,28,JavaScript,kentcdodds,Kent C. Dodds,User,"Salt Lake City, Utah, USA",40.760779299999996,-111.89104740000002,Salt Lake City,United States,1362.5
+bilbof/purser,purser,A lightweight JavaScript library for preserving user data from first website visit to signup.,615,27,JavaScript,bilbof,Bill Franklin,User,"Oxford, United Kingdom",51.7520209,-1.2577263,Oxford,United Kingdom,1370.5
+gkajs/gka,gka,一款高效、高性能的帧动画生成工具,613,69,JavaScript,gkajs,,Organization,,,,,,1375.5
+SinanMtl/webpack-simple-starter,webpack-simple-starter,"A simple webpack starter without framework (Like Vue, React, Angular, etc.)",612,31,JavaScript,SinanMtl,Sinan Mutlu,User,"İstanbul, Turkey",,,,,1380.0
+o2team/wxapp-market,wxapp-market, 小程序营销组件，Marketing components for WeChatApp,599,131,JavaScript,o2team,AOTU Labs,Organization,Shenzhen,22.543096,114.05786499999999,Shenzhen,China,1407.0
+JorgeBucaran/classcat,classcat,0.3 KB JavaScript function for conditionally concatenating CSS class names.,595,16,JavaScript,JorgeBucaran,Jorge Bucaran,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,1417.5
+aws-samples/aws-workshop-for-kubernetes,aws-workshop-for-kubernetes,AWS Workshop for Kubernetes,594,161,JavaScript,aws-samples,AWS Samples,Organization,,,,,,1419.0
+nimiq-network/core,core,Nimiq: The browser-based Blockchain,593,108,JavaScript,nimiq-network,Nimiq,Organization,Costa Rica,,,,,1420.5
+elmasse/nextein,nextein,A static site generator based in Next.js,587,23,JavaScript,elmasse,Max Fierro,User,"La Plata, Buenos Aires. Argentina",-34.9204948,-57.95356570000001,La Plata,Argentina,1437.5
+atulmy/fullstack-graphql,fullstack-graphql,"🌈 Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 using Babel + Webpack.",587,66,JavaScript,atulmy,Atul Yadav,User,"Bangalore, India",,,,,1437.5
+JustClear/blurify,blurify,"blurify.js is a tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode.",581,33,JavaScript,JustClear,大板栗,User,Xiamen,,,,,1450.0
+phodal/growth,growth,Growth 3.0 with React Native - an app to help you to be Awesome Developer,580,92,JavaScript,phodal,Phodal Huang,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,1454.0
+derhuerst/tcp-over-websockets,tcp-over-websockets,Tunnel TCP through WebSockets.,572,41,JavaScript,derhuerst,Jannis Redmann,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,1468.5
+notadd/neditor,neditor,基于 ueditor的更现代化的富文本编辑器，支持HTTPS,570,101,JavaScript,notadd,,Organization,,,,,,1474.5
+hyperledger/composer,composer,Composer is a framework for building Blockchain business networks,561,312,JavaScript,hyperledger,Hyperledger Project,Organization,,,,,,1497.5
+Angelmmiguel/svgi,svgi,🔎 The SVG inspection tool,559,15,JavaScript,Angelmmiguel,Ángel M,User,"Sevilla, Andalucía",37.3890924,-5.984458900000001,Seville,Spain,1500.5
+GoogleChromeLabs/comlink,comlink,"A tiny RPC library that works on windows, iframes, WebWorkers and ServiceWorkers.",556,16,JavaScript,GoogleChromeLabs,,Organization,,,,,,1510.0
+GoogleChromeLabs/howto-components,howto-components,Literate code examples for common UI patterns.,555,33,JavaScript,GoogleChromeLabs,,Organization,,,,,,1514.0
+wxiaoqi/Spring-Cloud-AG-Admin,Spring-Cloud-AG-Admin,AG-Admin是国内首个基于Spring Cloud微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Eureka、Fegin、Ribbon、Zuul、Hystrix、JWT Token、Mybatis等主要框架和中间件，前端采用vue-element-admin组件。,554,279,JavaScript,wxiaoqi,王浩彬,User,China.Guangzhou,,,,,1519.0
+alexsicart/FileNation,FileNation,The simplest way to send your files around the world using IPFS. ✏️ 🗃,553,53,JavaScript,alexsicart,Alex Sicart Ramos,User,Blockchain,,,,,1522.5
+wesbos/Learn-Node,Learn-Node,Starter Files + Stepped Solutions for the Learn Node course,553,445,JavaScript,wesbos,Wes Bos,User,"Hamilton, Ontario",43.255720600000004,-79.87110240000001,Hamilton,Canada,1522.5
+carbon-design-system/carbon-components,carbon-components,The component library behind Carbon Design System,552,91,JavaScript,carbon-design-system,Carbon Design System,Organization,,,,,,1526.0
+0x13a/bitcoin-trading-dca,bitcoin-trading-dca,Bitcoin investing using Dollar Cost Averaging,551,53,JavaScript,0x13a,Diego Mariani,User,East London,-33.0291582,27.8545867,East London,South Africa,1528.5
+bcherny/frontend-interview-questions,frontend-interview-questions,Answers for https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer),550,52,JavaScript,bcherny,Boris Cherny,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,1530.0
+GianlucaGuarini/icaro,icaro,"Smart and efficient javascript object observer, ideal for batching DOM updates (~1kb)",548,23,JavaScript,GianlucaGuarini,Gianluca Guarini,User,Zürich - Switzerland,47.376886600000006,8.541694,Zürich,Switzerland,1536.0
+hua1995116/webchat,webchat,:speaker:基于vue2.0的实时聊天项目,548,150,JavaScript,hua1995116,蓝色的秋风,User,Hangzhou,,,,,1536.0
+pixielabs/cavy,cavy,An integration test framework for React Native.,546,46,JavaScript,pixielabs,Pixie Labs,Organization,London & New York,,,,,1542.0
+fbeline/Design-Patterns-JS,Design-Patterns-JS,All the 23 (GoF) design patterns implemented in Javascript,544,77,JavaScript,fbeline,Felipe Beline,User,"São Paulo, Brazil",,,,,1548.5
+paulgb/BarbBlock,BarbBlock,Chrome extension which blocks requests to sites which have used legal threats to remove themselves from other blacklists.,540,14,JavaScript,paulgb,Paul Butler,User,"New York, NY",40.7127753,-74.0059728,New York,United States,1557.5
+AnimaApp/sketch-web-viewer,sketch-web-viewer,View and inspect Sketch 43 files in browser,538,40,JavaScript,AnimaApp,Anima App,Organization,New York/Tel-Aviv,32.0529724,34.7859527,Tel Aviv-Yafo,Israel,1565.5
+cloudroc/baidu-nolimit,baidu-nolimit,"百度云大文件下载破解,chrome插件",535,120,JavaScript,cloudroc,cloudroc,User,Tiāncháo,24.527585000000002,118.168426,Xiamen Shi,China,1574.0
+ream/ream,ream,🚀 Framework for building universal web app and static website. [Alpha stage],533,41,JavaScript,ream,REAM,Organization,,,,,,1578.0
+ssusnic/Machine-Learning-Flappy-Bird,Machine-Learning-Flappy-Bird,Machine Learning for Flappy Bird using Neural Network and Genetic Algorithm,532,151,JavaScript,ssusnic,Srdjan Sus
