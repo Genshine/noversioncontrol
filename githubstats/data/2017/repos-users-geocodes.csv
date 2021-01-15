@@ -924,4 +924,115 @@ nccgroup/wssip,wssip,"Application for capturing, modifying and sending custom We
 LibreRead/server,server,Self-hosted Free(Libre) Ebook Reader,205,7,JavaScript,LibreRead,LibreRead,Organization,,,,,,4172.0
 joarwilk/flowgen,flowgen,Generate flowtype definition files from TypeScript,205,22,JavaScript,joarwilk,Joar Wilk,User,"Stockholm, Sweden",,,,,4172.0
 iamxjb/winxin-app-watch-life.net,winxin-app-watch-life.net,WordPress版微信小程序,205,72,JavaScript,iamxjb,Jianbo,User,,,,,,4172.0
-tech-conferences/confs.tech,confs.tech,List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android,204,17,JavaScript,tech-conferences,Tech Conferences,Organization,,,
+tech-conferences/confs.tech,confs.tech,List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android,204,17,JavaScript,tech-conferences,Tech Conferences,Organization,,,,,,4194.0
+maierfelix/wasm-particles,wasm-particles,WASM accelerated particles,204,13,JavaScript,maierfelix,Felix Maier,User,"Tübingen, Germany",48.7758459,9.1829321,Stuttgart,Germany,4194.0
+googlecreativelab/inside-music,inside-music,"Inside Music lets you step inside of a song, seeing its individual pieces to give you a closer look at how music is made.",204,38,JavaScript,googlecreativelab,Google Creative Lab,Organization,,,,,,4194.0
+awslabs/aws-mobile-react-sample,aws-mobile-react-sample,"A React Starter App that displays how web developers can integrate their front end with AWS on the backend. The App interacts with AWS Cognito, API Gateway, Lambda and DynamoDB on the backend.",204,39,JavaScript,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,4194.0
+GeometryCollective/geometry-processing-js,geometry-processing-js,"A fast, general-purpose framework for geometry processing on the web.",203,15,JavaScript,GeometryCollective,Geometry Collective,User,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States,4213.0
+numerai/contract,contract,The Numeraire Ethereum Smart Contract,203,34,JavaScript,numerai,Numerai,Organization,The Future,37.444201299999996,-122.1615759,Palo Alto,United States,4213.0
+zerobias/telegram-mtproto,telegram-mtproto,Telegram client api (MTProto) library,202,34,JavaScript,zerobias,Dmitry,User,Russia,61.52401,105.31875600000001,,Russia,4226.5
+flexport/reflective-bind,reflective-bind,Eliminate wasteful re-rendering in React components caused by inline functions,202,3,JavaScript,flexport,Flexport,Organization,,,,,,4226.5
+thx/rap2-delos,rap2-delos,,202,51,JavaScript,thx,THX,Organization,杭州 北京,39.876594,116.188341,,China,4226.5
+ncase/fireflies,fireflies,Fireflies: an example of emergence,201,22,JavaScript,ncase,Nicky Case,User,,,,,,4246.5
+insprintorob/typescript-progressive-quickstart,typescript-progressive-quickstart,TypeScript Progressive Web App Quickstart,201,4,JavaScript,insprintorob,,User,,,,,,4246.5
+xCss/Valine,Valine,"A fast, simple & powerful comment system.",201,29,JavaScript,xCss,Nine,User,"Chongqing, China",29.431586100000004,106.912251,,China,4246.5
+FatDong1/cross-domain,cross-domain,🌀快速入门跨域demo。CORS、JSONP、Proxy后端代理、html5新特性postMessage、window.name、location.hash、document.domain、websocket,201,88,JavaScript,FatDong1,,User,"Guangzhou, China",,,,,4246.5
+HAPENLY/ReactNative-FileUpload,ReactNative-FileUpload,ReactNative 实现的文件上传功能。支持任意文件上传，欢迎Star! ！,200,4,JavaScript,HAPENLY,ZPengs,User,,,,,,4266.5
+jxnblk/nano-component,nano-component,Fast & simple React component styles in under 1kb,200,3,JavaScript,jxnblk,Brent Jackson,User,New York City,40.7127837,-74.00594129999999,New York,United States,4266.5
+jest-community/snapshot-diff,snapshot-diff,Diffing snapshot utility for Jest,200,14,JavaScript,jest-community,Jest Community,Organization,,,,,,4266.5
+rlindskog/vueniverse,vueniverse,"Full stack, user based, PWA, Vue template.",199,25,JavaScript,rlindskog,Ryan Lindskog,User,"Chico, CA",39.728494399999995,-121.8374777,Chico,United States,4286.0
+faceyspacey/webpack-flush-chunks,webpack-flush-chunks,💩 server-to-client chunk discovery + transportation for Universal Rendering,199,22,JavaScript,faceyspacey,James Gillmore,User,San Diego,,,,,4286.0
+wellguimaraes/actionware,actionware,"Redux with less boilerplate, actions statuses and controlled side-effects in a single shot.",199,5,JavaScript,wellguimaraes,Wellington Guimaraes,User,"Campo Grande, Brazil",-20.4697105,-54.6201211,Campo Grande,Brazil,4286.0
+trek10inc/aws-lambda-debugger,aws-lambda-debugger,Run Node 6.10 in Lambda. Debug from your machine.,198,3,JavaScript,trek10inc,Trek10,Organization,"South Bend, IN",41.676354499999995,-86.25198979999998,South Bend,United States,4308.0
+dianbaer/juggle,juggle,juggle是一个极简的、组件式的js框架。无依赖，完美闭包，灵活且适合渐进学习，可与任何框架整合。包含（支持冒泡的事件 || Tween || MV框架 || http || websocket || 资源 || 模块）等组件，按需选择组件，不绑架开发者。,198,46,JavaScript,dianbaer,电霸儿,User,,,,,,4308.0
+tangbc/vue-virtual-scroll-list,vue-virtual-scroll-list,A vue (2.x) component that support big data list with high scroll performance.,198,30,JavaScript,tangbc,TANG,User,China,35.86166,104.195397,,China,4308.0
+Monte9/react-native-ratings,react-native-ratings,React Native Ratings component with super customizations and much gestures. ,198,13,JavaScript,Monte9,Monte Thakkar,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4308.0
+chiefGui/reshader,reshader,"A micro, highly-customisable JavaScript library to get shades of colors",197,0,JavaScript,chiefGui,Guilherme Oderdenge,User,Brazil,-14.235004,-51.92528,,Brazil,4328.5
+Azure-Samples/raspberry-pi-web-simulator,raspberry-pi-web-simulator,Raspberry Pi web simulator. Demo address: ,197,38,JavaScript,Azure-Samples,Azure Samples,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,4328.5
+axept/prejss,prejss,Get the power of PostCSS with plugins in your JSS styles. 🎨 Just put CSS into JS and get it as JSS object.,197,6,JavaScript,axept,Axept,Organization,"New York, NY",,,,,4328.5
+mludowise/Sketch-Plugin-Manager,Sketch-Plugin-Manager,Keeping your Sketch plugins up to date.,197,6,JavaScript,mludowise,Mel Ludowise,User,,,,,,4328.5
+brysgo/graphql-gun,graphql-gun,A graphql API for the gun p2p graph database,196,8,JavaScript,brysgo,Bryan Goldstein,User,,,,,,4350.0
+vladgolubev/serverless-libreoffice,serverless-libreoffice,Run LibreOffice in AWS Lambda to create PDFs,196,9,JavaScript,vladgolubev,Vlad Holubiev,User,"Lviv, Ukraine",49.839683,24.029717,Lviv,Ukraine,4350.0
+sindresorhus/p-event,p-event,Promisify an event by waiting for it to be emitted,196,11,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,4350.0
+service-bot/servicebot,servicebot,Open source service automation platform,196,17,JavaScript,service-bot,ServiceBot,User,"Maryland, USA",,,,,4350.0
+ceshu/ceshuHttp,ceshuHttp,服务端模拟ajax，支持发起GET、POST、PUT、DELETE请求。,196,0,JavaScript,ceshu,策叔,User,,,,,,4350.0
+n4kz/react-native-material-textfield,react-native-material-textfield,Material textfield,196,78,JavaScript,n4kz,Alexander Nazarov,User,"Moscow, Russia",55.755826,37.6172999,Moscow,Russia,4350.0
+yallajs/yalla,yalla,"YallaJS, ES6 Templating Engine.",196,13,JavaScript,yallajs,YallaJS,User,Dubai,25.204849300000003,55.2707828,Dubai,United Arab Emirates,4350.0
+plotly/react-pivottable,react-pivottable,React-based drag'n'drop pivot table with Plotly.js charts,196,15,JavaScript,plotly,Plotly,Organization,Montréal,45.5016889,-73.567256,Montreal,Canada,4350.0
+A-gambit/CSS-IN-JS-Benchmarks,CSS-IN-JS-Benchmarks,,195,21,JavaScript,A-gambit,Gregory Shehet,User, Kyiv,50.4501,30.5234,Kiev,Ukraine,4375.0
+technology-ebay-de/universal-react-router4,universal-react-router4,Demo app showing how to use react-router v4 for server- and client-side rendering,195,31,JavaScript,technology-ebay-de,eBay Tech Berlin,Organization,"Berlin, Dreilinden",,,,,4375.0
+prettier/prettier-eslint-cli,prettier-eslint-cli,CLI for prettier-eslint,195,39,JavaScript,prettier,Prettier,Organization,,,,,,4375.0
+fatiherikli/voxel,voxel,Voxel design tool built on top of css transformations,195,9,JavaScript,fatiherikli,Fatih Erikli,User,Krakow ← Istanbul,41.0082376,28.978358899999996,Istanbul,Turkey,4375.0
+smartloli/kafka-eagle,kafka-eagle,"Used to monitor the consumer status of Kafka clusters, as well as offsets, metadata and other information.",195,85,JavaScript,smartloli,smartloli,User,Shenzhen China,22.543096,114.05786499999999,Shenzhen,China,4375.0
+54sword/xiaoduyu.com,xiaoduyu.com,小度鱼，是基于 React + NodeJS + Express + MongoDB 开发的一个社区系统,194,50,JavaScript,54sword,54sword,User,,,,,,4401.5
+HcySunYang/finger-mover,finger-mover,A motion effect library that integrates Fingerd and Moved,194,19,JavaScript,HcySunYang,Huo Chunyang,User,,,,,,4401.5
+yubo725/RNWeChat,RNWeChat,使用ReactNative开发的仿微信客户端,194,68,JavaScript,yubo725,yubo,User,"Wuhan, China",30.592848999999998,114.305539,Wuhan,China,4401.5
+rse/stmux,stmux,Simple Terminal Multiplexer for Node.js Environments,193,4,JavaScript,rse,Ralf S. Engelschall,User,Germany,51.165690999999995,10.451526,,Germany,4422.0
+rpgtkoolmv/corescript,corescript,,193,37,JavaScript,rpgtkoolmv,rpgtkoolmv,Organization,,,,,,4422.0
+onmyway133/IconGenerator,IconGenerator,🍱 A macOS app to generate app icons,193,9,JavaScript,onmyway133,Khoa,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,4422.0
+remy/jsonbin,jsonbin,A personal JSON store as a RESTful service,193,12,JavaScript,remy,Remy Sharp,User,"Brighton, UK",,,,,4422.0
+tomw1808/truffle_eth_class2,truffle_eth_class2,,193,139,JavaScript,tomw1808,Thomas Wiesner,User,,,,,,4422.0
+izuolan/zresume,zresume,程序员简历生成器（可导出静态页面、支持密码验证访问）,192,31,JavaScript,izuolan,ZuoLan,User,China,,,,,4441.5
+LucianoGanga/simple-headless-chrome,simple-headless-chrome,Simple abstraction to use Chrome as a Headless Browser with Node JS,192,39,JavaScript,LucianoGanga,Luciano,User,"Buenos Aires, Argentina",,,,,4441.5
+codingphasedotcom/Starter-Kit-2018,Starter-Kit-2018,,192,20,JavaScript,codingphasedotcom,,User,New York,40.7127753,-74.0059728,New York,United States,4441.5
+godaddy/terminus,terminus,Graceful shutdown and Kubernetes readiness / liveness checks for any Node.js HTTP applications,192,8,JavaScript,godaddy,GoDaddy,Organization,,,,,,4441.5
+alexcasalboni/aws-lambda-power-tuning,aws-lambda-power-tuning,Step Functions state machine generator for AWS Lambda Power Tuning ,192,4,JavaScript,alexcasalboni,Alex Casalboni,User,"Como, Italy",,,,,4441.5
+yixianle/google-translate,google-translate,翻译工具 支持网页翻译和文本翻译,191,56,JavaScript,yixianle,yixianle,User,,,,,,4463.5
+215566435/React-awesome-resume,React-awesome-resume,a resume using Luy/React  ,191,35,JavaScript,215566435,ZhengFang,User,,,,,,4463.5
+WolframHempel/speaking-jpg,speaking-jpg,A nonsense way to hide encrypted text messages inside jpegs,191,7,JavaScript,WolframHempel,Wolfram Hempel,User,Berlin / London,-32.882529999999996,27.58182,Berlin,South Africa,4463.5
+agiletechvn/react-native-search-box,react-native-search-box,"A simple search box with animation, inspired from ios search bar. Lightweight, fast, flexible.",191,58,JavaScript,agiletechvn,AgileTech,Organization,Vietnam,14.058323999999999,108.277199,,Vietnam,4463.5
+treshugart/react-shade,react-shade,Use the native Web Component Shadow DOM API as React components in a super-duper-Reacty way (i.e. declaratively).,191,2,JavaScript,treshugart,Trey Shugart,User,Straya,,,,,4463.5
+Meadowcottage/playcode-desktop,playcode-desktop,:keyboard: Desktop client for Playcode Online Javascript Editor,190,25,JavaScript,Meadowcottage,[MEADOW_DEV],User,UK,,,,,4486.5
+ds300/react-native-typescript-transformer,react-native-typescript-transformer,Transform TypeScript source files with React Native >= 0.45,190,17,JavaScript,ds300,David Sheldrick,User,"London, England",,,,,4486.5
+orcproject/orc,orc,"onion routed cloud - distributed, anonymous, secure object storage",190,21,JavaScript,orcproject,ORC Project,Organization,everywhere,,,,,4486.5
+threepointone/ratpack,ratpack,ready. set. go!,190,12,JavaScript,threepointone,Sunil Pai,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India,4486.5
+bugbountyforum/XSS-Radar,XSS-Radar,,190,35,JavaScript,bugbountyforum,,Organization,,,,,,4486.5
+zhaojh329/xterminal,xterminal,xTerminal is a remote web shell tool for multi terminal devices.,190,24,JavaScript,zhaojh329,Jianhui Zhao,User,ChengDu China,30.572815000000002,104.066801,Chengdu,China,4486.5
+webpack-contrib/closure-webpack-plugin,closure-webpack-plugin,Webpack Google Closure Compiler and Closure Library plugin - ,190,7,JavaScript,webpack-contrib,webpack-contrib,Organization,,,,,,4486.5
+notrab/create-react-app-redux,create-react-app-redux,"Starter kit for using React Router, Redux & CRA",189,74,JavaScript,notrab,Jamie Barton,User,"North East, England",,,,,4510.0
+livechat/octopus,octopus,🐙  Octopus - Internal wiki with diagrams for software and product teams,189,17,JavaScript,livechat,LiveChat,Organization,"Boston, Massachusetts",,,,,4510.0
+itgoyo/Aria2,Aria2,支持迅雷、百度云无限制超速下载，另外附带Tampermonkey教程。从此云端女友从不断线，有了这个它，忘掉那个她!,189,35,JavaScript,itgoyo,即将有人鱼线的饭某人,User,ShenZhen,22.543096,114.05786499999999,Shenzhen,China,4510.0
+brockwhittaker/BitArray.js,BitArray.js,This is a memory efficient implementation of bit flag arrays in JavaScript.,189,10,JavaScript,brockwhittaker,Brock Whittaker,User,United States,,,,,4510.0
+canfoo/react-taopiaopiao,react-taopiaopiao,react+router+redux+express 构建淘票票的全栈demo,188,80,JavaScript,canfoo,SenWei,User,北京,39.90419989999999,116.4073963,Beijing,China,4532.5
+surmon-china/simple-netease-cloud-music,simple-netease-cloud-music,🎵A simple netease music api lib. 简单、统一、轻巧的 Node.js 版网易云音乐 API,188,23,JavaScript,surmon-china,Surmon,User,"Amoy, China",34.341575,108.93977,Xi'an,China,4532.5
+hundredrabbits/Left,Left,Left is a distractionless writing application.,188,20,JavaScript,hundredrabbits,Hundredrabbits,Organization,Sailing the Pacific Ocean,32.725861,-117.20081100000002,San Diego,United States,4532.5
+danielkunin/Seeing-Theory,Seeing-Theory,Seeing Theory is a project designed and created by Daniel Kunin with support from Brown University's Royce Fellowship Program and National Science Foundation group STATS4STEM. The goal of the project is to make statistics more accessible to a wider range of students through interactive visualizations.,188,38,JavaScript,danielkunin,Daniel Kunin,User,"Stanford, CA",,,,,4532.5
+yuzd/swagger2pdf,swagger2pdf,ant soa框架的swagger api文档生成(html or pdf),188,20,JavaScript,yuzd,nainaigu,User,China Shanghai,31.230390399999997,121.4737021,Shanghai,China,4532.5
+we-plugin/we-cropper,we-cropper,🐹微信小程序图片裁剪工具,188,41,JavaScript,we-plugin,,Organization,,,,,,4532.5
+eolinker/eoLinker-API-Management-System-OS-2.X,eoLinker-API-Management-System-OS-2.X,2.x 开源稳定版,188,44,JavaScript,eolinker,eoLinker API Management,User,"Canton, China",23.12911,113.264385,Guangzhou,China,4532.5
+ahmadassaf/code-notes,code-notes,Tool to summarise all code annotation like TODO or FIXME,188,7,JavaScript,ahmadassaf,Ahmad Assaf,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,4532.5
+jaydenseric/apollo-upload-client,apollo-upload-client,Enhances Apollo for intuitive file uploads via GraphQL mutations.,188,26,JavaScript,jaydenseric,Jayden Seric,User,Melbourne,-37.813627600000004,144.96305759999998,Melbourne,Australia,4532.5
+danilowoz/create-react-content-loader,create-react-content-loader,Now you can use this tool to create your react-content-loader easily.,188,6,JavaScript,danilowoz,Danilo Woznica,User,"Florianópolis - SC, Brasil",,,,,4532.5
+cliffordfajardo/cato,cato,A browser extension which adds a command launcher to your web browser.🚀,188,14,JavaScript,cliffordfajardo,Clifford Fajardo,User,California,36.778261,-119.4179324,,United States,4532.5
+catalinmiron/react-native-dating-app,react-native-dating-app,Dating app - Exponent and React Native,187,42,JavaScript,catalinmiron,Catalin Miron,User,Bucharest,44.4267674,26.1025384,Bucharest,Romania,4561.5
+zhongjie-chen/wx-scrollable-tab-view,wx-scrollable-tab-view,小程序可滑动得tab-view,187,38,JavaScript,zhongjie-chen,null,User,Hangzhou,30.274084999999996,120.15507,Hangzhou,China,4561.5
+dabbott/react-framer,react-framer,Create Framer (https://framer.com) prototypes using React (https://reactjs.org/),187,1,JavaScript,dabbott,Devin Abbott,User,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,4561.5
+gajus/surgeon,surgeon,Declarative DOM extraction expression evaluator. 👨‍⚕️,187,3,JavaScript,gajus,Gajus Kuizinas,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,4561.5
+nihgwu/react-native-dva-starter,react-native-dva-starter,a React Native starter powered by dva and react-navigation,187,55,JavaScript,nihgwu,Neo,User,,,,,,4561.5
+jack-hoo/LiveRoomDemo_Server,LiveRoomDemo_Server,自己动手打造一个属于自己的直播间（视频直播、聊天室、弹幕、多端适配）,187,104,JavaScript,jack-hoo,,User,,,,,,4561.5
+vadimdemedes/dom-chef,dom-chef,🍔 Build DOM elements using JSX automatically,187,9,JavaScript,vadimdemedes,Vadim Demedes,User,,,,,,4561.5
+mjswensen/themer-gui,themer-gui,A graphical UI for themer.,187,7,JavaScript,mjswensen,Matt Swensen,User,,,,,,4561.5
+amazeeio/lagoon,lagoon,Docker Build and Deploy System for OpenShift & Kubernetes,187,24,JavaScript,amazeeio,amazee.io,Organization,,,,,,4561.5
+jovotech/jovo-framework-nodejs,jovo-framework-nodejs,🔈 Build cross-platform voice applications for Amazon Alexa and Google Home,186,21,JavaScript,jovotech,Jovo,Organization,Berlin / New York,42.6931351,-73.37205490000001,Berlin,United States,4590.5
+lukeed/mri,mri,Quickly scan for CLI flags and arguments,186,4,JavaScript,lukeed,Luke Edwards,User,,,,,,4590.5
+withspectrum/micro-open-graph,micro-open-graph,A tiny Node.js microservice to scrape open graph data with joy.,186,7,JavaScript,withspectrum,Spectrum,Organization,Worldwide,29.5170728,-98.4170523,San Antonio,United States,4590.5
+laravel-frontend-presets/tailwindcss,tailwindcss,A Tailwind CSS frontend preset for the Laravel Framework,186,15,JavaScript,laravel-frontend-presets,Laravel Frontend Presets,Organization,,,,,,4590.5
+mauricius/vue-draggable-resizable,vue-draggable-resizable,Vue2 Component for draggable and resizable elements.,186,46,JavaScript,mauricius,Maurizio,User,Italy,41.87194,12.56738,,Italy,4590.5
+Secretmapper/combustion,combustion,"Combustion is a sleek, modern web interface for Transmission",185,12,JavaScript,Secretmapper,,User,Philippines,12.879721,121.77401699999999,,Philippines,4615.5
+FiguredLimited/vue-mc,vue-mc,Models and Collections for Vue,185,16,JavaScript,FiguredLimited,FiguredLimited,Organization,,,,,,4615.5
+mikeal/znode,znode,Bi-directional RPC through any stream.,185,10,JavaScript,mikeal,Mikeal Rogers,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4615.5
+flant/loghouse,loghouse,Ready to use log management solution for Kubernetes storing data in ClickHouse and providing web UI.,185,10,JavaScript,flant,Flant,Organization,"Moscow, Russian Federation",,,,,4615.5
+Enrico204/Whatsapp-Desktop,Whatsapp-Desktop,"Unofficial whatsapp web desktop client for OSX, Linux and Windows. Build with Electron.",185,34,JavaScript,Enrico204,Enrico,User,Rome,,,,,4615.5
+crownpku/Chinese-Annotator,Chinese-Annotator,"Annotator for Chinese Text Corpus (under development, welcome for ideas) 中文文本标注工具",185,61,JavaScript,crownpku,Guan Wang,User,Hong Kong,22.396428,114.10949699999999,Hong Kong,Hong Kong,4615.5
+justsml/escape-from-callback-mountain,escape-from-callback-mountain,A 2017 Example Project & Guide for mastering Promises in Node/JavaScript. Feat. proposed 'Functional River' pattern,184,10,JavaScript,justsml,Dan Levy,User,"Centennial, CO",,,,,4639.0
+nodemailer/wildduck,wildduck,Opinionated email server (beta),184,27,JavaScript,nodemailer,nodemailer,Organization,"Tallinn, Estonia",59.43696079999999,24.7535747,Tallinn,Estonia,4639.0
+usecanvas/canvas-editor,canvas-editor,,184,24,JavaScript,usecanvas,Canvas,Organization,SF/NYC,37.62131289999999,-122.3789554,San Francisco,United States,4639.0
+leopoldjoy/react-ethereum-dapp-example,react-ethereum-dapp-example,"A starter boilerplate for an Ethereum dapp using web3.js v1.0, truffle, react, and parity",184,23,JavaScript,leopoldjoy,Leopold Joy,User,New York City,40.7127753,-74.0059728,New York,United States,4639.0
+okaychen/underscore,underscore,underscore Source code analysis,183,27,JavaScript,okaychen,okaychen,User,China,35.86166,104.195397,,China,4663.0
+Jeija/bluefluff,bluefluff,Reverse Engineering Furby Connect's Bluetooth Protocol and Update Format,183,30,JavaScript,Jeija,Florian Euchner,User,"Nürtingen, Germany",48.624421000000005,9.3469069,Nürtingen,Germany,4663.0
+shiffman/Neural-Network-p5,Neural-Network-p5,Simple Neural Network JavaScript library,183,33,JavaScript,shiffman,Daniel Shiffman,User,"New York, NY",40.7127837,-74.00594129999999,New York,United States,4663.0
+jackfranklin/demopack,demopack,A prepackaged Webpack for easy frontend demos.,183,10,JavaScript,jackfranklin,Jack Franklin,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,4663.0
+jonathantneal/css-db,css-db,A database of staged CSS features,183,10,JavaScript,jonathantneal,Jonathan Neal,User,"Georgia, USA",,,,,4663.0
+storybooks/marksy,marksy,A markdown to custom VDOM components library,183,23,JavaScript,storybooks,Storybook,Organization,,,,,,4663.0
+hxxy2003/wechat_shop,wechat_shop,小程序电商商城源码,183,134,JavaScript,hxxy2003,Vincent Chan,User,,,,,,4663.0
+yoshuawuyts
