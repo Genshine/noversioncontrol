@@ -807,4 +807,121 @@ MaiaVictor/forall,forall,Expressive static types and invariant checks for JavaSc
 legoflow/legoflow,legoflow,简单、快捷、高效、开箱即用的 前端工作流客户端,233,14,JavaScript,legoflow,LegoFlow,Organization,GuangZhou,23.12911,113.264385,Guangzhou,China,3648.0
 jxnblk/tachyons-components,tachyons-components,React UI components powered by Tachyons with a styled-components like API,233,6,JavaScript,jxnblk,Brent Jackson,User,New York City,40.7127837,-74.00594129999999,New York,United States,3648.0
 eoger/tabcenter-redux,tabcenter-redux,Vertical Tabs extension for Firefox,233,46,JavaScript,eoger,Edouard Oger,User,"Toronto, Canada",,,,,3648.0
-shentao/vue-global-events,vue-global-events,Register g
+shentao/vue-global-events,vue-global-events,Register global events as a component,233,8,JavaScript,shentao,Damian Dulisz,User,Wrocław,,,,,3648.0
+youzouzou/wxapp,wxapp,,233,58,JavaScript,youzouzou,,User,,,,,,3648.0
+jgierer12/prettier-github,prettier-github,Format code in GitHub comments with Prettier,232,9,JavaScript,jgierer12,Jonas Gierer,User,Germany,,,,,3667.0
+btholt/sfo,sfo,Instant build process,232,21,JavaScript,btholt,Brian Holt,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3667.0
+eolinker/eoLinker-API-Management-System-OS-3.X,eoLinker-API-Management-System-OS-3.X,【持续更新】3.x开源发行版，支持多国语言[英语、简体中文、繁体中文],231,45,JavaScript,eolinker,eoLinker API Management,User,"Canton, China",23.12911,113.264385,Guangzhou,China,3682.0
+jae-jae/Userscript-Plus,Userscript-Plus,:monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本,231,19,JavaScript,jae-jae,Jaeger,User,China,,,,,3682.0
+fossasia/open-event-frontend,open-event-frontend,The front end for the Open Event API Server https://nextgen.eventyay.com,231,180,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,3682.0
+duolatech/xApi-Manager,xApi-Manager,XAPI MANAGER -专业实用的开源接口管理平台，为程序开发者提供一个灵活，方便，快捷的API管理工具，让API管理变的更加清晰、明朗。如果你觉得xApi对你有用的话，别忘了给我们点个赞哦^_^ ！,231,61,JavaScript,duolatech,,User,,,,,,3682.0
+browserify/tinyify,tinyify,"a browserify plugin that runs various optimizations, so you don't have to install them all manually. makes your bundles tiny!",230,14,JavaScript,browserify,,Organization,,,,,,3702.0
+mozilla/qbrt,qbrt,CLI to a Gecko desktop app runtime,230,20,JavaScript,mozilla,Mozilla,Organization,"Mountain View, California",37.3860517,-122.08385109999999,Mountain View,United States,3702.0
+mapd/mapd-charting,mapd-charting,Dimensional charting built to work natively with crossfilter rendered using d3.js,230,49,JavaScript,mapd,MapD,Organization,,,,,,3702.0
+onlyhom/mobileSelect.js,mobileSelect.js,手机移动端选择组件 支持是否级联/单选到多选/提供update函数重绘等..,230,80,JavaScript,onlyhom,LIHONG OU,User,China Shenzhen,22.543096,114.05786499999999,Shenzhen,China,3702.0
+lyonlai/blessed-vue,blessed-vue,A VueJS runtime to let you write command line UI in Vue,230,8,JavaScript,lyonlai,Yun Lai,User,,,,,,3702.0
+TerryBeanX2/Webpack-React-Router-Redux-ES6,Webpack-React-Router-Redux-ES6,webpack2+react+react-router+react-redux+ES6版本的CNode社区,230,42,JavaScript,TerryBeanX2,YuanYang,User,北京&沈阳,,,,,3702.0
+conradoqg/naivecoin,naivecoin,A cryptocurrency implementation in less than 1500 lines of code,229,55,JavaScript,conradoqg,Conrado Quilles Gomes,User,,,,,,3720.5
+postlight/serverless-babel-starter,serverless-babel-starter,"A serverless boilerplate configured with webpack, babel, and airbnb linting",228,11,JavaScript,postlight,Postlight,Organization,"New York, NY",40.7127837,-74.00594129999999,New York,United States,3737.5
+JiayiLi/source-code-study,source-code-study,【正在进行中】源码学习,228,55,JavaScript,JiayiLi,Jiayi Li,User,"HangZhou,china",,,,,3737.5
+xcatliu/cqc,cqc,Code Quality Checker - Check your code quality by running one command.,227,9,JavaScript,xcatliu,xcatliu,User,"China, Shenzhen",39.904211,116.407395,Beijing,China,3753.5
+uiw-react/uiw,uiw,"A high quality UI Toolkit, A Component Library for React 16+.",227,40,JavaScript,uiw-react,uiw react,Organization,,,,,,3753.5
+bokub/gradient-string,gradient-string,:rainbow:  Beautiful color gradients in terminal output,227,8,JavaScript,bokub,Boris K,User,"Toulouse, France",43.604652,1.444209,Toulouse,France,3753.5
+webcomponents/custom-elements-everywhere,custom-elements-everywhere,Custom Element + Framework Interoperability Tests.,226,25,JavaScript,webcomponents,Web Components,Organization,,,,,,3770.5
+zpao/building-react-from-scratch,building-react-from-scratch,Code for my React Rally talk.,226,29,JavaScript,zpao,Paul O’Shannessy,User,"Seattle, WA",,,,,3770.5
+alex1504/vue2.0-demo,vue2.0-demo,A simple Vue.js spa using vue-material,226,92,JavaScript,alex1504,Zerui Hu,User,"ShenZhen,GuangDong,China",,,,,3770.5
+GeSnowBoy/vue-gecode,vue-gecode,"基于Vue2.0获取手机验证码插件,可高度自定义.",226,7,JavaScript,GeSnowBoy,孤标傲世,User,,,,,,3770.5
+google/tie,tie,,226,44,JavaScript,google,Google,Organization,,,,,,3770.5
+nicolasdelfino/react-metro,react-metro,A tiny configurable wrapper for animating dom elements as they mount or unmount,225,7,JavaScript,nicolasdelfino,Nicolas Delfino,User,"Sweden, Malmö",55.604981,13.003822,Malmö,Sweden,3788.0
+leo/electron-next,electron-next,Build Electron apps using Next.js,224,7,JavaScript,leo,Leo Lamprecht,User,,,,,,3803.0
+boy-hack/w8scan,w8scan,一款模仿bugscan的漏洞扫描器,224,110,JavaScript,boy-hack,boyhack,User,,,,,,3803.0
+johannesjo/super-productivity,super-productivity,To Do List / Time Tracker with Jira Integration. Makes you super productive! ,224,15,JavaScript,johannesjo,Johannes Millan,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,3803.0
+niksmr/vue-masked-input,vue-masked-input,Masked input component for Vue.js,224,34,JavaScript,niksmr,,User,,,,,,3803.0
+PanJiaChen/electron-vue-admin,electron-vue-admin, vue electron admin template web: http://panjiachen.github.io/vueAdmin-template,224,62,JavaScript,PanJiaChen,花裤衩,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,3803.0
+waynecz/vue-img-inputer,vue-img-inputer,"基于Vue2的优雅的图片输入框 / A graceful, highly customizable img type input for Vue 2",223,70,JavaScript,waynecz,Black  Wayne,User,,,,,,3820.5
+alpcanaydin/github-stats-for-turkey,github-stats-for-turkey,"Github language, repo and developer stats for Turkey.",223,19,JavaScript,alpcanaydin,Alpcan Aydın,User,"Izmir, Turkey",,,,,3820.5
+zuoge85/OpenMajiang,OpenMajiang,"OpenMajiang, 一个完整的麻将软件（h5 + app）",223,117,JavaScript,zuoge85,小草,User,,,,,,3820.5
+Web-Sight/WebSight,WebSight,OpenCV wasm and asm.js port,222,23,JavaScript,Web-Sight,WebSight,Organization,"Los Angeles, CA, USA",34.0522342,-118.24368490000002,Los Angeles,United States,3837.5
+FormidableLabs/image-palette,image-palette,Generate a WCAG compliant color theme from any image,222,4,JavaScript,FormidableLabs,Formidable,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,3837.5
+meodai/color-names,color-names,Massive color dictionary 🌈,222,16,JavaScript,meodai,David Aerne,User,Zürich,,,,,3837.5
+satya164/react-navigation-addons,react-navigation-addons,Add-ons for React Navigation,222,76,JavaScript,satya164,Satyajit Sahoo,User,"Bangalore, India",,,,,3837.5
+WarBean/hyperboard,hyperboard,A web-based dashboard for Deep Learning,221,44,JavaScript,WarBean,郑华滨,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,3854.5
+DIYgod/Text2Emotion,Text2Emotion,:cookie: 分析一句话的情绪值,220,28,JavaScript,DIYgod,DIYgod,User,"Shanghai, China",30.274084999999996,120.15507,Hangzhou,China,3872.5
+idibidiart/react-native-responsive-grid,react-native-responsive-grid,Bringing the Web's Responsive Design to React Native,220,20,JavaScript,idibidiart,,User,,,,,,3872.5
+wrseward/vue-unit,vue-unit,Component testing utilities for Vue.js,220,10,JavaScript,wrseward,William Seward,User,South Florida,,,,,3872.5
+wildhaber/gluebert,gluebert,"gluebert.js is a tiny helper lazy loading DOM Elements, StyleSheets and JavaScript files using dynamic import and code splitting",219,4,JavaScript,wildhaber,Raphael,User,Switzerland,46.818188,8.227511999999999,,Switzerland,3893.0
+chengquan223/map-canvas,map-canvas,基于baidu、google、openlayers、arcgis、高德地图、canvas数据可视化,219,52,JavaScript,chengquan223,JackChen,User,"Guang Zhou,China",23.12911,113.264385,Guangzhou,China,3893.0
+lokyoung/vuejs-paginate,vuejs-paginate,A Vue.js(v2.x+) component for creating pagination.,219,38,JavaScript,lokyoung,Cain Liu,User,WuHan China,30.592848999999998,114.305539,Wuhan,China,3893.0
+ncase/joy,joy,make happy little programs,219,12,JavaScript,ncase,Nicky Case,User,,,,,,3893.0
+atom/atom-languageclient,atom-languageclient,Language Server Protocol support for Atom (the basis of Atom-IDE),219,38,JavaScript,atom,Atom,Organization,The Future,37.444201299999996,-122.1615759,Palo Alto,United States,3893.0
+AlloyTeam/omix,omix,Build UI with JSX - 使用 JSX 创建用户界面,219,22,JavaScript,AlloyTeam,腾讯 AlloyTeam,Organization,"中国深圳(Shenzhen, China)",22.543096,114.05786499999999,Shenzhen,China,3893.0
+graphcool/templates,templates,📗 Collection of Graphcool Templates,219,84,JavaScript,graphcool,Graphcool,Organization,,,,,,3893.0
+faaslang/faaslang,faaslang,FaaSlang defines FaaS execution semantics and type-safety mechanisms,217,14,JavaScript,faaslang,FaaSlang,Organization,"San Francisco, CA",,,,,3925.5
+trekjs/captcha,captcha,"A Lightweight Pure JavaScript Captcha for Node.js. No C/C++, No ImageMagick, No Canvas.",217,21,JavaScript,trekjs,Trek.js,Organization,Space,,,,,3925.5
+IBM/vue-a11y-calendar,vue-a11y-calendar,"Accessible, internationalized Vue calendar",217,11,JavaScript,IBM,International Business Machines,Organization,"Armonk, New York, U.S.",41.1264849,-73.71401949999998,Armonk,United States,3925.5
+ScriptArtist/Scalable,Scalable,Makes the UI elements scalable to fit inside the container area.,217,9,JavaScript,ScriptArtist,Alexander Ostapenko,User,,,,,,3925.5
+VincentChanX/shadowsocks-over-websocket,shadowsocks-over-websocket,免费使用 Heroku 部署 shadowsocks,217,553,JavaScript,VincentChanX,Vincent Chan,User,GuangZhou,,,,,3925.5
+vue-land/create-vue-app,create-vue-app,Create Vue apps with no build configuration.,216,17,JavaScript,vue-land,Vue Land,Organization,,,,,,3944.0
+sindresorhus/lock-cli,lock-cli,Lock your system from the command-line,216,10,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,3944.0
+suissa/Curso-JavaScript-Super-Sayajin,Curso-JavaScript-Super-Sayajin,":rice: Curso COMPLETO de JavaScript do básico ao avançado, trilhando o caminho Funcional.",216,31,JavaScript,suissa,Jean Carlo Nascimento,User,Curitiba - PR,,,,,3944.0
+AnomalyInnovations/serverless-stack-demo-client,serverless-stack-demo-client,Source for the demo app client in Serverless-Stack.com,216,53,JavaScript,AnomalyInnovations,Anomaly Innovations,Organization,,,,,,3944.0
+lusakasa/saka-key,saka-key,A keyboard interface to the web,216,27,JavaScript,lusakasa,,Organization,,,,,,3944.0
+tkh44/smitty,smitty,Tiny flux implementation built on mitt,215,10,JavaScript,tkh44,Kye Hohenberger,User,"Boulder, CO",,,,,3967.0
+yi-ge/koa2-API-scaffold,koa2-API-scaffold,一个基于Koa2的轻量级RESTful API Server脚手架。,215,44,JavaScript,yi-ge,Yige,User,"Kunming,CN",24.880095,102.832891,Kunming,China,3967.0
+solkimicreb/react-easy-state,react-easy-state,"React Easy State provides a healthy balance of local and global state management in a simple, scalable way.",215,8,JavaScript,solkimicreb,Miklos Bertalan,User,"Budapest, Hungary",47.497912,19.040235,Budapest,Hungary,3967.0
+Rotonde/beaker,beaker,Rotonde client with user account combined(deprecated),215,36,JavaScript,Rotonde,Rotonde Network,Organization,dat://,39.165205,-86.529653,Bloomington,United States,3967.0
+kirill-konshin/next-redux-wrapper,next-redux-wrapper,Redux wrapper for Next.js,215,30,JavaScript,kirill-konshin,Kirill Konshin,User,"San Mateo, California, US",37.562991700000005,-122.32552539999999,San Mateo,United States,3967.0
+LoicMahieu/react-styled-flexboxgrid,react-styled-flexboxgrid,Grid system based on styled-components and flexbox for React,215,15,JavaScript,LoicMahieu,Loïc Mahieu,User,Louvain-La-Neuve Valley,50.66757759999999,4.6187463,Ottignies-Louvain-la-Neuve,Belgium,3967.0
+linkedin/oncall,oncall,Oncall is a calendar tool designed for scheduling and managing on-call shifts. It can be used as source of dynamic ownership info for paging systems like https://iris.claims.,214,30,JavaScript,linkedin,LinkedIn,Organization,"Mountain View, CA, USA",37.3860517,-122.08385109999999,Mountain View,United States,3988.5
+laihuamin/JS-total,JS-total,JS的流程图，每一个知识点都会配上相应的博客和面经,214,4,JavaScript,laihuamin,来铧敏,User,,,,,,3988.5
+craftship/codebox-npm,codebox-npm,Serverless private npm registry using https://serverless.com/,214,19,JavaScript,craftship,Craftship,Organization,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,3988.5
+ceshu/ceshuREST,ceshuREST,ceshuREST-基于node.js的RESTful Api生成器,214,5,JavaScript,ceshu,策叔,User,,,,,,3988.5
+huanxsd/react-native-refresh-list-view,react-native-refresh-list-view,基于FlatList的上拉、下拉刷新组件,214,34,JavaScript,huanxsd,Daniel,User,福建 福州,,,,,3988.5
+beakerbrowser/dathttpd,dathttpd,"A Web server for Dat and HTTPS, with zero-config TLS.",214,17,JavaScript,beakerbrowser,Beaker Browser,Organization,,,,,,3988.5
+geraldoramos/crypto-bar,crypto-bar,📈 A menu bar app that updates cryptocurrencies prices in real-time,214,27,JavaScript,geraldoramos,Geraldo Ramos,User,,,,,,3988.5
+ccforward/progressive-image,progressive-image,A progressive-image module for Vanilla JavaScript and Vue 1.0+ & 2.0+,213,29,JavaScript,ccforward,cc,User,China,,,,,4003.0
+jonathantneal/media-player,media-player,"A tiny, totally cross browser, accessible, fully customizable media player",213,6,JavaScript,jonathantneal,Jonathan Neal,User,"Georgia, USA",,,,,4003.0
+RoyalIcing/react-organism,react-organism,Dead simple React state management to bring pure components alive,213,8,JavaScript,RoyalIcing,Royal Icing,Organization,,,,,,4003.0
+xaksis/vue-good-table,vue-good-table,"A simple, clean data table for vuejs with essential features like sorting, column filtering, pagination etc",212,63,JavaScript,xaksis,,User,New York,40.7127753,-74.0059728,New York,United States,4022.0
+Cookie-AutoDelete/Cookie-AutoDelete,Cookie-AutoDelete,Extension that deletes cookies as soon as the tab closes.,212,28,JavaScript,Cookie-AutoDelete,Cookie AutoDelete,Organization,,,,,,4022.0
+fossasia/yaydoc,yaydoc,Docs! Yay! http://yaydoc.org,212,94,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,4022.0
+kiok46/duckduckgo,duckduckgo,DuckDuckGo App built in React-Native (Unofficial),212,31,JavaScript,kiok46,Kuldeep ,User,India,20.593684,78.96288,,India,4022.0
+8values/8values.github.io,8values.github.io,The 8values political quiz,212,109,JavaScript,8values,8values,Organization,,,,,,4022.0
+calirojas506/vue-inspector,vue-inspector,Vue.js Inspector for Mobile Devices,212,7,JavaScript,calirojas506,Cali Rojas 506,User,Costa Rica,9.748917,-83.753428,,Costa Rica,4022.0
+wdfe/wdui,wdui,Mobile UI Components Library based on Vue 2.0 at Weidian,212,36,JavaScript,wdfe,,Organization,,,,,,4022.0
+yujinjin/fans,fans,这是一个app(android/iOS)项目，但页面视图全部都用的是html5页，没有使用app的原生页面。 前端h5是基于mui + vue2 + vue-router2 + es6 + webpack2 + vuex + signalR 的前端webApp单页项目框架，项目可以直接在PC上运行html5页面。  app打包技术是用HBuilder IDE工具一键打包成APP。,212,90,JavaScript,yujinjin,,User,,,,,,4022.0
+lord/wargo,wargo,Easy Rust to WebAssembly,212,10,JavaScript,lord,Robert Lord,User,SF / NYC / MN,,,,,4022.0
+TheDen/0xfee1dead.top,0xfee1dead.top,Live htop,212,12,JavaScript,TheDen,Denis Khoshaba,User,"Sydney, Australia",,,,,4022.0
+bitnami/cabin,cabin,The Mobile Dashboard for Kubernetes,212,17,JavaScript,bitnami,Bitnami,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4022.0
+nzambello/ellipsed,ellipsed,A JavaScript library for multilined ellipsis,211,14,JavaScript,nzambello,Nicola Zambello,User,Italy,41.87194,12.56738,,Italy,4046.0
+muzuiget/mare,mare,a Lua 5.3 debugger,211,30,JavaScript,muzuiget,muzuiget,User,"Guangzhou, China",,,,,4046.0
+cefjoeii/mern-crud,mern-crud,"A simple records system using MongoDB, Express.js, React.js, and Node.js with real-time CRUD operations using Socket.io",211,74,JavaScript,cefjoeii,CEF,User,Mars,,,,,4046.0
+react-tools/react-show,react-show,⚛️ 🌔 React-Show - A 3kb show/hide component for React.,210,9,JavaScript,react-tools,React Tools,Organization,,,,,,4067.0
+WICG/focus-ring,focus-ring,Polyfill for `:focus-ring`,210,29,JavaScript,WICG,Web Incubator CG,Organization,Earth,34.233137299999996,-102.4107493,Earth,United States,4067.0
+jarek-foksa/xel,xel,Xel - Widget toolkit for building native-like Electron and Web apps,209,18,JavaScript,jarek-foksa,Jarek Foksa,User,"Warsaw, PL",52.2296756,21.012228699999998,Warsaw,Poland,4089.0
+FranckFreiburger/http-vue-loader,http-vue-loader,load .vue files from your html/js,209,27,JavaScript,FranckFreiburger,Franck Freiburger,User,"Strasbourg, France",48.5734053,7.752111299999998,Strasbourg,France,4089.0
+lelandrichardson/redux-injectable-store,redux-injectable-store,"Redux store with injectable reducers for use with bundle splitting, large apps, and SPAs.",209,10,JavaScript,lelandrichardson,Leland Richardson,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4089.0
+UgnisSoftware/ugnis,ugnis,"Visual component editor for React, React Native and more...",209,13,JavaScript,UgnisSoftware,Ugnis,Organization,,,,,,4089.0
+bradleyboy/tuql,tuql,Automatically create a GraphQL server from a sqlite database,209,6,JavaScript,bradleyboy,Brad Daily,User,"Brooklyn, NY",40.6781784,-73.94415790000001,,United States,4089.0
+daniel-lundin/react-dom-confetti,react-dom-confetti,Trigger confetti explosions on state transitions,209,9,JavaScript,daniel-lundin,Daniel Lundin,User,Stockholm,,,,,4089.0
+mumuy/browser,browser,Useragent analysis tool.用户代理分析工具 - 浏览器类型信息,209,53,JavaScript,mumuy,PASSER-BY,User,"Xiamen,China",24.479834,118.089425,Xiamen,China,4089.0
+alfa-laboratory/arui-feather,arui-feather,Alfa-Bank UI library,208,34,JavaScript,alfa-laboratory,Альфа Лаборатория,Organization,,,,,,4110.0
+ceshu/ceshuChat,ceshuChat,ceshuChat-基于WebSocket的在线聊天室。,208,4,JavaScript,ceshu,策叔,User,,,,,,4110.0
+sararob/ml-talk-demos,ml-talk-demos,Code for the demos from my Google Next '17 talk: https://youtu.be/w1xNTLH1zlA,208,74,JavaScript,sararob,Sara Robinson,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4110.0
+staltz/toy-rx,toy-rx,"A tiny implementation of RxJS that actually works, for learning",208,11,JavaScript,staltz,André Staltz,User,"Helsinki, Finland",60.16985569999999,24.938379,Helsinki,Finland,4110.0
+Chuibility/inspinia,inspinia,This is only a copy of INSPINIA - Responsive Admin Theme,207,322,JavaScript,Chuibility,Chuibility,Organization,,,,,,4129.5
+sergiodxa/grial,grial,A Node.js framework for creating GraphQL API servers easily and without a lot of boilerplate.,207,8,JavaScript,sergiodxa,Sergio Xalambrí,User,"Ica, Perú",-14.075460000000001,-75.7341811,Ica,Peru,4129.5
+PearInc/PearPlayer.js,PearPlayer.js,支持WebRTC的多源多协议混合P2P-CDN的流媒体播放器,207,50,JavaScript,PearInc,Pear Inc.,Organization,Hong Kong; Shenzhen,,,,,4129.5
+ipfs-shipyard/peerpad,peerpad,📝 Online editor providing collaborative editing in really real-time using CRDTs and IPFS.,207,17,JavaScript,ipfs-shipyard,IPFS Shipyard,Organization,Planet Earth,,,,,4129.5
+krakenjs/grumbler,grumbler,A template for writing distributable front-end javascript modules.,207,17,JavaScript,krakenjs,The kraken.js team,Organization,,,,,,4129.5
+lionsharecapital/lionshare-api,lionshare-api,Realtime cryptocurrency API,207,45,JavaScript,lionsharecapital,Lionshare,Organization,Blockchains,,,,,4129.5
+kysely/framer-modules,framer-modules,"Discover, install and save your favorite modules at one place",206,10,JavaScript,kysely,Radek Kyselý,User,Czech Republic,,,,,4151.5
+citp/ad-blocking,ad-blocking,Prototypes of ad blocking techniques proposed in the 'Future of Ad Blocking' paper,206,56,JavaScript,citp,CITP,Organization,"Princeton, New Jersey",,,,,4151.5
+raiden-network/microraiden,microraiden,,206,58,JavaScript,raiden-network,,Organization,,,,,,4151.5
+justjavac/programming-mindmap,programming-mindmap,编程相关的思维导图,206,15,JavaScript,justjavac,迷渡,User,"Tianjin, China",39.084158,117.20098300000001,Tianjin,China,4151.5
+getify/fasy,fasy,FP iterator helpers that are async/generator aware,206,4,JavaScript,getify,Kyle Simpson,User,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States,4151.5
+nccgroup/wssip,wssip,"Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.",206,33,JavaScript,nccgroup,NCC Group Plc,Organization,Global,,,,,4151.5
+LibreRead/server,server,Self-hosted Free(Libre) Ebook Reader,205,7,JavaScript,LibreRead,LibreRead,Organization,,,,,,4172.0
+joarwilk/flowgen,flowgen,Generate flowtype definition files from TypeScript,205,22,JavaScript,joarwilk,Joar Wilk,User,"Stockholm, Sweden",,,,,4172.0
+iamxjb/winxin-app-watch-life.net,winxin-app-watch-life.net,WordPress版微信小程序,205,72,JavaScript,iamxjb,Jianbo,User,,,,,,4172.0
+tech-conferences/confs.tech,confs.tech,List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android,204,17,JavaScript,tech-conferences,Tech Conferences,Organization,,,
