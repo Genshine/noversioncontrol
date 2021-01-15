@@ -1035,4 +1035,121 @@ jackfranklin/demopack,demopack,A prepackaged Webpack for easy frontend demos.,18
 jonathantneal/css-db,css-db,A database of staged CSS features,183,10,JavaScript,jonathantneal,Jonathan Neal,User,"Georgia, USA",,,,,4663.0
 storybooks/marksy,marksy,A markdown to custom VDOM components library,183,23,JavaScript,storybooks,Storybook,Organization,,,,,,4663.0
 hxxy2003/wechat_shop,wechat_shop,小程序电商商城源码,183,134,JavaScript,hxxy2003,Vincent Chan,User,,,,,,4663.0
-yoshuawuyts
+yoshuawuyts/pretty-hot-ranking-algorithm,pretty-hot-ranking-algorithm,"Algorithm that measures how relevant a given data set is, kinda like Reddit",183,14,JavaScript,yoshuawuyts,Yoshua Wuyts,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,4663.0
+liupeijun/vue2-hybridapp-haoshiqi,vue2-hybridapp-haoshiqi,vue2+vue-router+vuex+cordova 实现单页面webapp以及hybridapp,182,54,JavaScript,liupeijun,Kerwin,User,Dalian,38.91400300000001,121.614682,Dalian,China,4693.0
+pagarme/pilot,pilot,:airplane: The next iteration of Pagar.me's Dashboard,182,21,JavaScript,pagarme,Pagar.me,Organization,Brazil,-14.235004,-51.92528,,Brazil,4693.0
+jongold/further,further,🦄🌈🍄 algebraic style composition for functional UIs ,182,9,JavaScript,jongold,Jon Gold,User,San Francisco,,,,,4693.0
+react-native-training/fundamentals-materials,fundamentals-materials,React Native Training - Materials Example App,182,22,JavaScript,react-native-training,React Native Training,Organization,"Madison, MS",,,,,4693.0
+StephenGrider/GraphQLCasts,GraphQLCasts,Completed Code Examples from GraphQL with React,182,77,JavaScript,StephenGrider,Stephen Grider,User,,,,,,4693.0
+whizzzkid/instagram-proxy-api,instagram-proxy-api,CORS compliant API to access Instagram's public data ,182,27,JavaScript,whizzzkid,Nishant Arora,User,"Calgary, Alberta, Canada",51.0486151,-114.07084590000001,Calgary,Canada,4693.0
+hyperledger/cello,cello,Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/cello,181,80,JavaScript,hyperledger,Hyperledger Project,Organization,,,,,,4725.0
+YMFE/qreact,qreact,QReact 是去哪儿网 YMFE 团队推出的 100％ 兼容官方 React 的迷你框架,181,10,JavaScript,YMFE,YMFE,Organization,北京,39.90419989999999,116.4073963,Beijing,China,4725.0
+elva2596/vueBlog,vueBlog,,181,49,JavaScript,elva2596,elva2596,User,,,,,,4725.0
+algolia/atom-autocomplete-module-import,atom-autocomplete-module-import,⚛️ Search & install npm packages from import/require statements.,181,11,JavaScript,algolia,Algolia,Organization,"SF, Paris",37.7208353,-122.4356071,San Francisco,United States,4725.0
+lin-xin/wxapp-mall,wxapp-mall,微信小程序 商城demo,181,97,JavaScript,lin-xin,林鑫,User,"Dongguan, China",23.020673000000002,113.751799,Dongguan,China,4725.0
+liu-peiyu/SpringBootAdmin,SpringBootAdmin,基于SpringBoot+Shiro+Redis+Jwt+Thymeleaf+MyBatis 开发的后台用户、角色、权限、会员管理、RestFul、Token和前台用户登录注册以及前后台用户分离的脚手架,181,125,JavaScript,liu-peiyu,LiuPeiyu,User,,,,,,4725.0
+codebusking/react-pwa-guide-app,react-pwa-guide-app,React.js for Progressive Web Apps that say Hello! World,181,17,JavaScript,codebusking,CODEBUSKING,Organization,,,,,,4725.0
+mattdesl/shader-reload,shader-reload,An interface for reloading GLSL shaders on the fly.,180,3,JavaScript,mattdesl,Matt DesLauriers,User,Toronto,43.653226000000004,-79.3831843,Toronto,Canada,4753.0
+adpushup/woodlot,woodlot,"An all-in-one JSON logging utility that supports ExpressJS HTTP logging, custom logging, provides multi-format output and an easy to use events API.",180,5,JavaScript,adpushup,AdPushup Inc.,Organization,U.S.A,,,,,4753.0
+reactql/kit,kit,ReactQL starter kit (use the CLI),180,47,JavaScript,reactql,ReactQL,Organization,,,,,,4753.0
+olefirenko/vue-google-autocomplete,vue-google-autocomplete,A Vue.js autosuggest component for the Google Places API.,180,49,JavaScript,olefirenko,Dmitriy Olefyrenko,User,Singapore,1.352083,103.819836,,Singapore,4753.0
+maxogden/toiletdb,toiletdb,flushes an object to a JSON file. lets you do simple CRUD with async safely with the backend being a flat JSON file,180,12,JavaScript,maxogden,=^._.^=,User,Oregon,43.8041334,-120.55420120000001,,United States,4753.0
+ykloveyxk/vue-login,vue-login,This is a login program based on vuejs and axios，for beginners,180,53,JavaScript,ykloveyxk,weakGoldfish,User,,,,,,4753.0
+demsking/vue-json-schema,vue-json-schema,Generate a form using JSON Schema and Vue.js,180,22,JavaScript,demsking,Sébastien,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4753.0
+zack24q/vue-navigation,vue-navigation,"A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生APP导航一样。",179,37,JavaScript,zack24q,zack,User,杭州,,,,,4778.0
+hbxywdk/eleme-vue2,eleme-vue2,eleme-vue2,179,68,JavaScript,hbxywdk,,User,,,,,,4778.0
+nmaro/ooth,ooth,User identity/authentication/accounts management microservice,179,15,JavaScript,nmaro,Nick Redmark,User,,,,,,4778.0
+wdfe/ideploy,ideploy,a simple deploy platform written by nodejs and reactjs,179,35,JavaScript,wdfe,,Organization,,,,,,4778.0
+JSLancerTeam/crystal-dashboard,crystal-dashboard,Beautiful React Bootstrap Dashboard for multi-purpose usage. https://jslancerteam.github.io/crystal-dashboard/#/,178,38,JavaScript,JSLancerTeam,,Organization,,,,,,4807.0
+xuexb/github-bot,github-bot,github 自动处理 issue、PR、releases 机器人,178,11,JavaScript,xuexb,前端小武,User,beijing,39.90419989999999,116.4073963,Beijing,China,4807.0
+gobitfly/etherchain-light,etherchain-light,Lightweight Ethereum blockchain explorer,178,93,JavaScript,gobitfly,,User,,,,,,4807.0
+meibin08/react-redux-chat,react-redux-chat,react+redux-chat 模仿实现PC微信聊天,178,31,JavaScript,meibin08,Bin,User,,,,,,4807.0
+UdiliaInc/create-react-library,create-react-library,React NPM library starter kit based on Facebook's create react app,178,18,JavaScript,UdiliaInc,Udilia,Organization,,,,,,4807.0
+barretlee/daily-algorithms,daily-algorithms,算法，每日练习,177,10,JavaScript,barretlee,小胡子哥,User,"Hangzhou,China",30.274084999999996,120.15507,Hangzhou,China,4839.0
+cdimascio/generator-express-no-stress,generator-express-no-stress,A Yeoman generator for Express.js based 12-factor apps and apis,177,19,JavaScript,cdimascio,Carmine DiMascio,User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,4839.0
+cerebral/webpackbin,webpackbin,"A service to share and teach code, using webpack to bundle the code",177,24,JavaScript,cerebral,Cerebral,Organization,,,,,,4839.0
+ericelliott/moneysafe,moneysafe,"Convenient, safe money calculations in JS",177,10,JavaScript,ericelliott,Eric Elliott,User,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,4839.0
+thejameskyle/babel-plugin-react-flow-props-to-prop-types,babel-plugin-react-flow-props-to-prop-types,Convert Flow React props annotation to PropTypes,177,13,JavaScript,thejameskyle,James Kyle,User,Sydney,37.7749295,-122.4194155,San Francisco,United States,4839.0
+bamlab/react-native-image-header-scroll-view,react-native-image-header-scroll-view,ScrollView with an image in header which become a navbar,177,22,JavaScript,bamlab,BAM,Organization,Paris,,,,,4839.0
+Allan5945/node-react,node-react,,176,1,JavaScript,Allan5945,,User,,,,,,4869.0
+googlevr/webvr-ui,webvr-ui,WebVR-UI Javascript library making it easy to create a button for entering VR mode,176,32,JavaScript,googlevr,Google VR,Organization,,,,,,4869.0
+marmelab/json-graphql-server,json-graphql-server,Get a full fake GraphQL API with zero coding in less than 30 seconds.,176,16,JavaScript,marmelab,marmelab,Organization,,,,,,4869.0
+philipwalton/webpack-esnext-boilerplate,webpack-esnext-boilerplate,,176,11,JavaScript,philipwalton,Philip Walton,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4869.0
+laobubu/HyperMD,HyperMD,WYSIWYG Markdown Editor for browsers. Breaks the Wall between writing and preview.,175,22,JavaScript,laobubu,,User,"Wuhan, P.R.China",,,,,4897.0
+probot/settings,settings,Pull Requests for GitHub repository settings,175,24,JavaScript,probot,Probot,Organization,,,,,,4897.0
+LINKIWI/react-offline-hoc,react-offline-hoc,React higher-order component for detecting network offline state,175,8,JavaScript,LINKIWI,Kevin Lin,User,san francisco,37.7749295,-122.4194155,San Francisco,United States,4897.0
+daoket/vue.news,vue.news,项目地址,175,108,JavaScript,daoket,Niu WenTong,User,,,,,,4897.0
+developit/zero-to-preact,zero-to-preact,"A Step-by-step Guide to Preact + Webpack 2, without boilerplate!",175,6,JavaScript,developit,Jason Miller,User,"Hamilton, Ontario, Canada",43.255720600000004,-79.87110240000001,Hamilton,Canada,4897.0
+XiqingLiu/VideoServer,VideoServer,以Node.js基于express以及爬虫实现的视频资源后端,175,2,JavaScript,XiqingLiu,Richard Liu,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,4897.0
+benmarten/CryptoETF,CryptoETF,Portfolio Overview Tool for Your CryptoCoin Capitalization-Weighted Portfolio.,175,14,JavaScript,benmarten,Ben Marten,User,"San Francisco, CA",,,,,4897.0
+fossasia/susi_skill_cms,susi_skill_cms,A web application framework to edit susi skills http://skills.susi.ai,174,54,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,4932.5
+Laboratoria/curricula-js,curricula-js,Malla curricular Full Stack JavaScript @Laboratoria,174,83,JavaScript,Laboratoria,Laboratoria,Organization,Perú,,,,,4932.5
+diegohaz/styled-tools,styled-tools,Useful interpolated functions for styled-components 💅,174,7,JavaScript,diegohaz,Haz,User,"Rio de Janeiro, Brazil",-22.9068467,-43.1728965,Rio de Janeiro,Brazil,4932.5
+zouhir/preact-habitat,preact-habitat,Zero configuration Preact widgets renderer in any host DOM,174,9,JavaScript,zouhir,Zouhir ⚡️,User,Sydney - Australia,,,,,4932.5
+HAPENLY/ReactNative-WeChatLogin,ReactNative-WeChatLogin,"基于react-native-wechat 实现的微信登录.只需 CV 大法就可以.(只发现教程,没有发现现成 demo 所以我就简单搞了一下按照网上的教程写的 demo)",174,1,JavaScript,HAPENLY,ZPengs,User,,,,,,4932.5
+asfktz/devtools-playground,devtools-playground,Standalone Devtools for prototyping & debugging,174,6,JavaScript,asfktz,Asaf Katz,User,,,,,,4932.5
+lit-forest/react-magic,react-magic,A collection of magic animations for react components.,174,12,JavaScript,lit-forest,little forest,Organization,,,,,,4932.5
+guangqiang-liu/OneM,OneM,"OneM是一款纯ReactNative打造的集杂志浏览、音乐播放、视频播放于一体的综合性App,并且支持iOS和Android双平台",174,38,JavaScript,guangqiang-liu,,User,,,,,,4932.5
+lprhodes/homebridge-broadlink-rm,homebridge-broadlink-rm,Broadlink RM Mini and Pro plugin for homebridge: https://github.com/nfarina/homebridge,174,46,JavaScript,lprhodes,Luke Rhodes,User,"Sydney, AU",-33.8688197,151.2092955,Sydney,Australia,4932.5
+swnb/video,video,这是一个可以自己上传和在线观看的项目，建议是用chrome使用，附带一个聊天室,174,2,JavaScript,swnb,simply coder,User,china,35.86166,104.195397,,China,4932.5
+zhaojh329/xluci2,xluci2,DEPRECATED. xLuCI2 is a JavaScript Webgui for embedded devices running OpenWRT or LEDE,174,14,JavaScript,zhaojh329,Jianhui Zhao,User,ChengDu China,30.572815000000002,104.066801,Chengdu,China,4932.5
+wdlhao/vue2-element-touzi-admin,vue2-element-touzi-admin, 基于vue2.0 +vuex+ element-ui后台管理系统 ,173,58,JavaScript,wdlhao,xiaolin,User,shanghai,31.230390399999997,121.4737021,Shanghai,China,4974.5
+saleel/react-native-super-grid,react-native-super-grid,Responsive Grid View for React Native,173,33,JavaScript,saleel,Saleel,User,Dubai,25.204849300000003,55.2707828,Dubai,United Arab Emirates,4974.5
+trufflesuite/truffle-contract,truffle-contract,"A better Ethereum contract abstraction, for Node and the browser",173,69,JavaScript,trufflesuite,Truffle Suite,Organization,,,,,,4974.5
+MacKentoch/react-native-beacons-manager,react-native-beacons-manager,React-Native library for detecting beacons (iOS and Android),173,38,JavaScript,MacKentoch,Erwan DATIN,User,France,,,,,4974.5
+joshwcomeau/new-component,new-component,⚛ ⚡ CLI utility for quickly creating new React components. ⚡ ⚛,173,6,JavaScript,joshwcomeau,Joshua Comeau,User,"Montreal, QC",45.5016889,-73.567256,Montreal,Canada,4974.5
+kradio3/react-mdc-web,react-mdc-web,Material Design Components for React,173,26,JavaScript,kradio3,Andrey Yaroshenko,User,St-Petersburg,59.9342802,30.335098600000002,Saint Petersburg,Russia,4974.5
+ayroblu/ssr-create-react-app-v2,ssr-create-react-app-v2,"This is the v2, its much better written, and uses react-router v4, which is actually pretty nice",173,47,JavaScript,ayroblu,Ben Lu,User,,,,,,4974.5
+wonday/react-native-pdf,react-native-pdf,a react native pdf view module,173,41,JavaScript,wonday,,User,,,,,,4974.5
+matryer/gopherize.me,gopherize.me,Gopherize.me app,172,15,JavaScript,matryer,Mat Ryer,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,5008.5
+googlemaps/transport-tracker,transport-tracker,Applications for tracking moving assets on a live map,172,121,JavaScript,googlemaps,Google Maps,Organization,,,,,,5008.5
+FermORG/FermionJS,FermionJS,Visual Prototyping Tool for React Applications,172,2,JavaScript,FermORG,Fermion,Organization,,,,,,5008.5
+Semantic-UI-Vue/Semantic-UI-Vue,Semantic-UI-Vue,Semantic UI integration for Vue,172,38,JavaScript,Semantic-UI-Vue,Semantic UI Vue,Organization,Dublin,,,,,5008.5
+zhentaoo/puppeteer-deep,puppeteer-deep,"Puppeteer, Headless Chrome；爬取《es6标准入门》、自动推文到掘金、站点性能分析；高级爬虫、自动化UI测试、性能分析；",172,35,JavaScript,zhentaoo,青菜叶子,User,中国，上海,,,,,5008.5
+TheNeuronProject/ef.js,ef.js,(maybe) An elegant HTML template engine & basic framework,172,11,JavaScript,TheNeuronProject,,Organization,,,,,,5008.5
+sindresorhus/electron-util,electron-util,Useful utilities for developing Electron apps and modules,172,5,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,5008.5
+pagarme/lambda,lambda,🔮 Estudos obscuros de programação funcional,171,29,JavaScript,pagarme,Pagar.me,Organization,Brazil,-14.235004,-51.92528,,Brazil,5034.5
+yunzaifei/Arcade_Game,Arcade_Game,udacity作业-经典街机游戏克隆,171,0,JavaScript,yunzaifei,yunzaifei,User,,,,,,5034.5
+n4kz/react-native-pages,react-native-pages,Easy to use page view component,171,23,JavaScript,n4kz,Alexander Nazarov,User,"Moscow, Russia",55.755826,37.6172999,Moscow,Russia,5034.5
+jamesmfriedman/rmwc,rmwc,A thin React wrapper for Material Design (Web) Components,171,20,JavaScript,jamesmfriedman,James Friedman,User,,,,,,5034.5
+laizimo/element-react-project,element-react-project,,170,0,JavaScript,laizimo,Lay zimo,User,浙江 杭州,30.274084000000002,120.15507,Hangzhou,China,5060.5
+okaychen/boxinwx,boxinwx,[project] a WeChat small program,170,1,JavaScript,okaychen,okaychen,User,China,35.86166,104.195397,,China,5060.5
+yanm1ng/hexo-theme-vexo,hexo-theme-vexo,🍟 Vexo is a Hexo theme inspired by Vue's official website.,170,45,JavaScript,yanm1ng,yanm1ng,User,Hangzhou Zhejiang,,,,,5060.5
+ines/termynal,termynal,⬛️ Lightweight and modern terminal animations using async/await,170,5,JavaScript,ines,Ines Montani,User,"Berlin, Germany",,,,,5060.5
+toolness/accessible-color-matrix,accessible-color-matrix,An Elm-based prototype to help designers build accessible color palettes.,170,13,JavaScript,toolness,Atul Varma,User,"Brooklyn, NY",40.6781784,-73.94415790000001,,United States,5060.5
+bevacqua/sixflix,sixflix,🎬 Detects whether a host environment supports ES6. Algorithm by Netflix.,170,10,JavaScript,bevacqua,Nicolás Bevacqua,User,https://twitter.com/nzgb,,,,,5060.5
+FlowCI/flow-web,flow-web,flow.ci frontend web based on React,170,20,JavaScript,FlowCI,flow.ci,Organization,,,,,,5060.5
+airbnb/prop-types-exact,prop-types-exact,For use with React PropTypes. Will error on any prop not explicitly specified.,169,8,JavaScript,airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,5091.0
+cssinjs/theming,theming,Unified CSSinJS theming solution for React,169,17,JavaScript,cssinjs,CSSinJS,Organization,www,,,,,5091.0
+AllenChinese/vue-cli-demo,vue-cli-demo,this is vue-cli templates。,169,4,JavaScript,AllenChinese,codeAllenChinese,User,HangZhou,,,,,5091.0
+fossasia/susi_chromebot,susi_chromebot,SUSI.AI Chrome Extension,169,63,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,5091.0
+deboyblog/vue-wechat-title,vue-wechat-title,为Vuejs设计的动态设置微信网页中标题的指令,169,35,JavaScript,deboyblog,Deboy,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,5091.0
+Jazqa/kwin-quarter-tiling,kwin-quarter-tiling,Improves the workflow by automatically tiling windows and creating virtual desktops,169,7,JavaScript,Jazqa,Jasu,User,"Jyväskylä, Finland",62.2426034,25.747256699999998,Jyväskylä,Finland,5091.0
+AlloyTeam/eslint-config-alloy,eslint-config-alloy,AlloyTeam ESLint 规则,168,42,JavaScript,AlloyTeam,腾讯 AlloyTeam,Organization,"中国深圳(Shenzhen, China)",22.543096,114.05786499999999,Shenzhen,China,5120.5
+tkh44/react-geolocation,react-geolocation,🌎🛰 Declarative geolocation for React,168,7,JavaScript,tkh44,Kye Hohenberger,User,"Boulder, CO",,,,,5120.5
+LucasBassetti/react-css-loaders,react-css-loaders,:o: A collection of pure CSS React loading components,168,16,JavaScript,LucasBassetti,Lucas Bassetti,User,Vitória - ES,,,,,5120.5
+Rich-Harris/buble,buble,,168,17,JavaScript,Rich-Harris,Rich Harris,User,NYC,40.7127753,-74.0059728,New York,United States,5120.5
+seasonstar/egg-24time,egg-24time,A Twitter-like news and social server for Egg. 微信小程序社区全栈解决方案,168,24,JavaScript,seasonstar,seasonstar,User,"Shenzhen, China",,,,,5120.5
+ceshu/model.auto,model.auto,model.auto,167,0,JavaScript,ceshu,策叔,User,,,,,,5151.5
+deepwn/deepMiner,deepMiner,deepMiner.js XMR miner,167,77,JavaScript,deepwn,deepwn,Organization,root@127.0.0.1 ~ → curl,,,,,5151.5
+songhaoreact/weixin,weixin,微信小程序-豆瓣电影项目,167,68,JavaScript,songhaoreact,Open-FE,User,China,35.86166,104.195397,,China,5151.5
+mrbigmouth/acgn-stock,acgn-stock,PTT ACGN股票交易市場,167,26,JavaScript,mrbigmouth,,User,,,,,,5151.5
+superman66/vue-qart,vue-qart,the compoent of vue 2.x for qart.js,167,24,JavaScript,superman66,Superman,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,5151.5
+javascript-machine-learning/color-accessibility-neural-network-deeplearnjs,color-accessibility-neural-network-deeplearnjs,🍃 Using a Neural Network to improve web accessibility in JavaScript.,167,16,JavaScript,javascript-machine-learning,BRIIM - Machine Learning in JavaScript,Organization,,,,,,5151.5
+tywo45/t-io,t-io,t-io是基于aio的性能爆炸却又稳如泰山、API丰富却又极易掌握、监控全面无死角却又无损性能、将多线程玩到极致的即时通讯框架，字母't'寓意'talent',167,59,JavaScript,tywo45,,User,,,,,,5151.5
+BrockReece/vue-kanban,vue-kanban,A vue based drag and drop kanban board ,166,22,JavaScript,BrockReece,Brock Reece,User,"Shrewsbury, UK",,,,,5180.5
+InvidHead/SSLify,SSLify,Rapidly SSLify Your Server!,166,1,JavaScript,InvidHead,InvidHead,Organization,Shanghai,31.230390399999997,121.4737021,Shanghai,China,5180.5
+codebusking/next-hnpwa-guide-app,next-hnpwa-guide-app,Guide Kit for Next.js with Hacker News,166,20,JavaScript,codebusking,CODEBUSKING,Organization,,,,,,5180.5
+xiaolin3303/react-music-player,react-music-player,"Music player build with React, learn how to use React",166,97,JavaScript,xiaolin3303,fang,User,,,,,,5180.5
+roccomuso/netcat,netcat,:computer: Netcat client and server modules written in pure Javascript for Node.js.,165,15,JavaScript,roccomuso,Rocco Musolino,User,Rome,41.902783500000005,12.4963655,Rome,Italy,5211.0
+globocom/react-native-draftjs-render,react-native-draftjs-render,React Native render for draft.js model,165,23,JavaScript,globocom,Globo.com,Organization,Rio de Janeiro/Brazil,-22.9068467,-43.1728965,Rio de Janeiro,Brazil,5211.0
+paulhodel/jexcel,jexcel,"jExcel | the javascript spreadsheet is a very light jquery plugin to add a excel compatible spreadsheet in your application or web based software. Create smarter apps including data tables, grid and spreasheets with this awesome jquery spreadsheet plugin. For live examples, please visit:",165,40,JavaScript,paulhodel,Paul Hodel,User,UK,55.378051,-3.435973,,United Kingdom,5211.0
+DreySkee/wp-api-react,wp-api-react,This boilerplate will help you use React JS with Wordpress REST API.,165,43,JavaScript,DreySkee,Andrey Pokrovskiy,User,,,,,,5211.0
+xunqianxue/venture-management,venture-management,一个包含vuejs和nodejs技术的全栈项目,165,50,JavaScript,xunqianxue,雪千寻,User,中国 广州,23.12911,113.264385,Guangzhou,China,5211.0
+mac-s-g/react-json-view,react-json-view,JSON viewer for react,165,46,JavaScript,mac-s-g,Mac Gainor,User,"Seattle, Washington",,,,,5211.0
+saintedlama/mongoist,mongoist,Mongodb driver inspired by mongojs built with async/await in mind,165,5,JavaScript,saintedlama,Christoph Walcher,User,Vienna,48.208174299999996,16.3738189,Vienna,Austria,5211.0
+jest-community/jest-runner-eslint,jest-runner-eslint,An experimental ESLint runner for Jest,165,10,JavaScript,jest-community,Jest Community,Organization,,,,,,5211.0
+yunzaifei/koa2-jwt-demo,koa2-jwt-demo,koa2开发的api示例，使用用jwt验证,164,1,JavaScript,yunzaifei,yunzaifei,User,,,,,,5245.0
+sosout/react-antd,react-antd,基于react + redux + immutable + less + ES6/7 + webpack2.0 + fetch + react-router + antd实现的SPA后台管理系统模板,164,50,JavaScript,sosout,sosout,User,,,,,,5245.0
+depjs/dep,dep,A little Node.js dependency installer,164,10,JavaScript,depjs,depjs,Organization,here,46.846199,-96.816705,Fargo,United States,5245.0
+atom/ide-php,ide-php,PHP language support for Atom-IDE,164,13,JavaScript,atom,Atom,Organization,The Future,37.444201299999996,-122.1615759,Palo 
