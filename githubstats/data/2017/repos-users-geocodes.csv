@@ -1379,4 +1379,123 @@ javierbyte/gitpage-timemachine,gitpage-timemachine,Time Machine-like UI for your
 shershen08/vue-masonry,vue-masonry,💠 Vue.js directive for masonry blocks layouting ✅,139,25,JavaScript,shershen08,Mikhail Kuznetcov,User,"Amsterdam, NL",,,,,6256.5
 hongguancheng/romantic-words,romantic-words,一个表白用的页面,139,38,JavaScript,hongguancheng,CCG,User,ShenZhen China,22.543096,114.05786499999999,Shenzhen,China,6256.5
 Lucifier129/pull-element,pull-element,"Lightweight, high-performance and smooth pull element effect that support all directions",139,21,JavaScript,Lucifier129,工业聚,User,"shanghai, china",31.230390399999997,121.4737021,Shanghai,China,6256.5
-zachleat/eleventy,eleventy,A static site generator. An alternative to Jek
+zachleat/eleventy,eleventy,A static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.,139,4,JavaScript,zachleat,Zach Leatherman,User,,,,,,6256.5
+flowtype/ide-flowtype,ide-flowtype,Flow support for Atom IDE,139,7,JavaScript,flowtype,Facebook Flow,Organization,"Menlo Park, CA",37.4529598,-122.1817252,Menlo Park,United States,6256.5
+aragon/aragon-core,aragon-core,Smart contracts for running Aragon Core organizations,139,50,JavaScript,aragon,Aragon,Organization,Decentralized,41.069313,23.953646600000003,,Greece,6256.5
+maxwellito/breaklock,breaklock,"Web game, hybrid of Mastermind and the Android pattern lock",138,15,JavaScript,maxwellito,maxwellito,User,"London, UK",,,,,6298.5
+schibir/instagib.io,instagib.io,Online 2D shooter,138,28,JavaScript,schibir,Sergey Chibiryaev,User,Nizhny Novgorod,56.2965039,43.93605900000001,Nizhny Novgorod,Russia,6298.5
+Yomguithereal/pandemonium,pandemonium,Typical random-related functions for JavaScript.,138,7,JavaScript,Yomguithereal,Guillaume Plique,User,France,46.227638,2.213749,,France,6298.5
+jkup/pullit,pullit,Display and pull branches from GitHub pull requests,138,10,JavaScript,jkup,Jon Kuperman,User,"San Francisco, CA",,,,,6298.5
+presstube/norman,norman,A WebVR animation tool by James Paterson.,138,12,JavaScript,presstube,James Paterson,User,Montreal,,,,,6298.5
+GeekCloud-Team/shipyard_zh,shipyard_zh,shipyard 中文静态插件,138,22,JavaScript,GeekCloud-Team,GeekCloud Open Source Community,Organization,,,,,,6298.5
+r-spacex/SpaceX-API,SpaceX-API,":rocket: Open Source REST API for company, vehicle, pad, and launch data",137,19,JavaScript,r-spacex,r/SpaceX,Organization,,,,,,6334.0
+nadrane/build-your-own-regex,build-your-own-regex,This is a test spec driven guide to help you build a simple regex implementation,137,18,JavaScript,nadrane,Nicholas Drane,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,6334.0
+ltm0203/YoYoCms,YoYoCms,项目使用.net 4.6.1+angular 1.6.3(暂时不打算采用core和NG2，个人觉得时机还不是很成熟）,137,41,JavaScript,ltm0203,梁桐铭,User,ChengDu,,,,,6334.0
+R1ZZU/react-native-webview-messaging,react-native-webview-messaging,✉️ Send/Receive data between React Native app and WebView,137,9,JavaScript,R1ZZU,Andrei Volchenko,User,"Minsk, Belarus",53.90453979999999,27.5615244,Minsk,Belarus,6334.0
+nodefluent/kafka-streams,kafka-streams,equivalent to kafka-streams :octopus: for nodejs :sparkles::turtle::rocket::sparkles:,137,17,JavaScript,nodefluent,nodefluent,Organization,"Germany, Cologne",50.937531,6.9602786,Cologne,Germany,6334.0
+creeperyang/pinyin,pinyin,Pure JavaScript library for converting Hanzi to Pinyin.,137,8,JavaScript,creeperyang,Creeper,User,"Shanghai,China",31.230390399999997,121.4737021,Shanghai,China,6334.0
+captainsafia/giddy,giddy,A CLI wrapper around git for an improved developer experience,137,5,JavaScript,captainsafia,Safia Abdalla,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,6334.0
+onmyway133/PushNotifications,PushNotifications,🐉 A macOS app to test push notifications on iOS and Android,137,5,JavaScript,onmyway133,Khoa,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,6334.0
+google/ot-crdt-papers,ot-crdt-papers,,137,16,JavaScript,google,Google,Organization,,,,,,6334.0
+alloyteamzy/vue2_blog,vue2_blog,使用vue2.x + vue-cli +vue-router+ vuex + axios + mysql + express + pm2 + webpack+nginx构建的具有登录，注册，留言，用户发帖，用户评论等功能的博客系统。注意，注意，注意，后端API全部自己手写，很适合刚学习vue以及express的小伙伴学习，喜欢请Star鼓励一下我，谢谢！项目预览：,137,48,JavaScript,alloyteamzy,Zhao Yuan,User,Changan District Xi'an Wei Guolu,,,,,6334.0
+CoderSavior/es5SingleInheritance,es5SingleInheritance,用Object.create方法实现单继承,136,0,JavaScript,CoderSavior,,User,,,,,,6376.0
+xulayen/Blog,Blog,person blog by hexo next   ~~,136,19,JavaScript,xulayen,棹孤舟,User,上海,,,,,6376.0
+Urigo/meteor-client-bundler,meteor-client-bundler,https://blog.meteor.com/leverage-the-power-of-meteor-with-any-client-side-framework-bfb909141008,136,11,JavaScript,Urigo,Uri Goldshtein,User,Anywhere,47.602201,-122.333481,Seattle,United States,6376.0
+cyanzhong/xTeko,xTeko,Mirror for xTeko store,136,32,JavaScript,cyanzhong,Ying Zhong,User,Suzhou China,30.274084999999996,120.15507,Hangzhou,China,6376.0
+kingvid-chan/webpack2-lessons,webpack2-lessons,📖《webpack2 包教不包会》,136,20,JavaScript,kingvid-chan,kingvid,User,SHENZHEN,,,,,6376.0
+sxei/chrome-plugin-demo,chrome-plugin-demo,Chrome扩展demo,136,34,JavaScript,sxei,小茗同学,User,广东深圳,22.543096,114.05786499999999,Shenzhen,China,6376.0
+ustbhuangyi/lyric-parser,lyric-parser,lyric-parser base on javascript,136,22,JavaScript,ustbhuangyi,HuangYi,User,"China,Beijing",39.904211,116.407395,Beijing,China,6376.0
+cssinjs/styled-jss,styled-jss,Styled Components on top of JSS.,136,13,JavaScript,cssinjs,CSSinJS,Organization,www,,,,,6376.0
+MingSeng-W/vue-bloom-menu,vue-bloom-menu,this is a menu based on vue,136,37,JavaScript,MingSeng-W,wanghongjie,User,chengdu,,,,,6376.0
+fossasia/loklak_scraper_js,loklak_scraper_js,Scrapers for loklak in javascript,136,13,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6376.0
+alexmngn/react-rock-paper-scissors,react-rock-paper-scissors,Rock Paper Scissors game built with ReactJS,135,43,JavaScript,alexmngn,Alexis Mangin,User,,,,,,6420.5
+dengbaoling/vueshop,vueshop,,135,0,JavaScript,dengbaoling,dengbaoling,User,,,,,,6420.5
+jxnblk/micro-react,micro-react,Create microservice apps with React components,135,1,JavaScript,jxnblk,Brent Jackson,User,New York City,40.7127837,-74.00594129999999,New York,United States,6420.5
+hustcc/xmorse,xmorse,":sun_with_face: Pure javascript / nodejs library (~1.5 kb) for encode / decode morse code messages, unicode supported. 一个支持 unicode 中文摩斯密码编码的 Javascript 库。",135,26,JavaScript,hustcc,hustcc,User,"HangZhou, China",30.274084999999996,120.15507,Hangzhou,China,6420.5
+MarnoDev/react-native-eyepetizer,react-native-eyepetizer,React Native 仿开眼3.1.2版本,135,41,JavaScript,MarnoDev,Marno,User,,,,,,6420.5
+Rich-Harris/degit,degit,Straightforward project scaffolding,135,9,JavaScript,Rich-Harris,Rich Harris,User,NYC,40.7127753,-74.0059728,New York,United States,6420.5
+gpake/qiniu-wxapp-sdk,qiniu-wxapp-sdk,qiniu SDK based on wxapp,135,32,JavaScript,gpake,,User,,,,,,6420.5
+danxfisher/MeetEasier,MeetEasier,MeetEasier is a web application that visualizes meeting room availability.  It works using Exchange Web Services (EWS) with Exchange room lists in Office 365.,135,11,JavaScript,danxfisher,Dan Fisher,User,California,36.778261,-119.4179324,,United States,6420.5
+laihuamin/node-learning,node-learning,这里有node的学习经过，还会搭建一个node的平台,135,0,JavaScript,laihuamin,来铧敏,User,,,,,,6420.5
+google/sketch2ae,sketch2ae,Editable After Effects layers from Sketch artboards,135,12,JavaScript,google,Google,Organization,,,,,,6420.5
+paularmstrong/react-component-benchmark,react-component-benchmark,A component to help benchmark React components and their trees.,135,3,JavaScript,paularmstrong,Paul Armstrong,User,"Bend, OR",44.058172799999994,-121.31530959999999,Bend,United States,6420.5
+datura-lj/vue_cli_demo,vue_cli_demo,vue脚手架demo,134,33,JavaScript,datura-lj,datura_lj,User,,,,,,6466.0
+DimitriMikadze/firebase-react-native-redux-starter,firebase-react-native-redux-starter,"Starter For Firebase, React Native, Redux Applications With 100% Of Code In Common Between IOS And Android, with built In Authentication, Crud Example And Form Validation. ",134,15,JavaScript,DimitriMikadze,Dimitri Mikadze,User,"Tbilisi, Georgia",41.71513770000001,44.827096000000004,Tbilisi,Georgia,6466.0
+JaxsonWang/WP-Editor.MD,WP-Editor.MD,或许这是一个WordPress中最好，最完美的Markdown编辑器,134,18,JavaScript,JaxsonWang,JaxsonWang,User,淮安 · 中国,33.551052,119.11318500000002,Huai'an,China,6466.0
+CoderSavior/dataStructuresinJs,dataStructuresinJs,js中的数据结构操作,134,0,JavaScript,CoderSavior,,User,,,,,,6466.0
+didierfranc/react-code-splitting,react-code-splitting,Code splitting won't be a nightmare anymore !,134,12,JavaScript,didierfranc,Didier Franc,User,Earth,34.233137299999996,-102.4107493,Earth,United States,6466.0
+bahmutov/snap-shot,snap-shot,"Jest-like snapshot feature for the rest of us, works magically by finding the right caller function",134,5,JavaScript,bahmutov,Gleb Bahmutov,User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,6466.0
+jondashkyle/enoki-starterkit,enoki-starterkit,🍄 ultralight js static sites,134,8,JavaScript,jondashkyle,Jon-Kyle,User,"Los Angeles, Calif.",,,,,6466.0
+2json/sort.js,sort.js,:art: JavaScript to achieve the ten common sorting algorithm library,134,29,JavaScript,2json,2json,User,必须啊在前端圈子里啊,,,,,6466.0
+xugy0926/getting-started-with-javascript,getting-started-with-javascript,,134,254,JavaScript,xugy0926,xugaoyang,User,Beijing,,,,,6466.0
+AlexSapoznikov/node-alexa-starter-kit,node-alexa-starter-kit,Simple starter kit for adding new skills to Amazon Alexa Echo,134,7,JavaScript,AlexSapoznikov,,User,,,,,,6466.0
+academind/yt-devmeetup-vue-firebase,yt-devmeetup-vue-firebase,Source code for my Vue + Vuetify + Firebase DevMeetup YouTube Project,134,63,JavaScript,academind,Academind,Organization,,,,,,6466.0
+handsontable/vue-handsontable-official,vue-handsontable-official,A Vue.js wrapper for the the Handsontable spreadsheet component.,134,32,JavaScript,handsontable,Handsontable,Organization,,,,,,6466.0
+diracdeltas/signal-muon,signal-muon,Signal Desktop using https://github.com/brave/muon instead of Chrome. Not affiliated with WhisperSystems.,134,14,JavaScript,diracdeltas,yan,User,SF usually,,,,,6466.0
+ProtoTeam/tcharts.js,tcharts.js,:chart_with_downwards_trend: Lightweight and fast terminal ASCII charts for nodejs and browser.,134,12,JavaScript,ProtoTeam,,Organization,,,,,,6466.0
+adamhaile/surplus,surplus,High performance JSX web views for S.js applications,133,6,JavaScript,adamhaile,Adam Haile,User,"Durham, NC",35.99403289999999,-78.898619,Durham,United States,6507.0
+netlify/headlesscms.org,headlesscms.org,,133,43,JavaScript,netlify,Netlify,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,6507.0
+sindresorhus/quick-lru,quick-lru,Simple 'Least Recently Used' (LRU) cache,133,8,JavaScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,6507.0
+mafintosh/lil-pids,lil-pids,Dead simple process manager with few features,133,12,JavaScript,mafintosh,Mathias Buus,User,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,6507.0
+balajmarius/commit4,commit4,🎮 Game Off 2017,133,18,JavaScript,balajmarius,Balaj Marius,User,Doomstadt,,,,,6507.0
+revolver-app/vuex-orm,vuex-orm,The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.,133,12,JavaScript,revolver-app,Revolver,Organization,,,,,,6507.0
+mnielsen/magic_paper,magic_paper,Experiments in an explorable visual medium for mathematics,133,8,JavaScript,mnielsen,Michael Nielsen,User,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,6507.0
+seek-oss/html-sketchapp-cli,html-sketchapp-cli,"Quickly generate Sketch libraries from HTML documents and living style guides, powered by html-sketchapp",133,3,JavaScript,seek-oss,seek-oss,Organization,"Melbourne, Australia",,,,,6507.0
+ifedapoolarewaju/igdm,igdm,Desktop application for Instagram DMs,133,30,JavaScript,ifedapoolarewaju,Ifedapo .A. Olarewaju,User,online,36.146636,-95.90194,Tulsa,United States,6507.0
+ericelliott/speculation,speculation,JavaScript promises are made to be broken. Speculations are cancellable promises.,132,3,JavaScript,ericelliott,Eric Elliott,User,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,6550.0
+cazala/react-coin-hive,react-coin-hive,Mine cryptocurrency while your users haven't engaged with your content lately,132,34,JavaScript,cazala,Juan Cazala,User,"Buenos Aires, Argentina",,,,,6550.0
+shoutem/extensions,extensions,Shoutem Extensions are common mobile app functionalities that supercharge your React Native development,132,37,JavaScript,shoutem,Shoutem,Organization,"NYC, New York",40.7127837,-74.00594129999999,New York,United States,6550.0
+CoderSavior/methodsInMath,methodsInMath,实现内置对象Math中方法,132,0,JavaScript,CoderSavior,,User,,,,,,6550.0
+tmpbook/django-with-vuejs,django-with-vuejs,Fast and clear in DevOps.,132,34,JavaScript,tmpbook,临书,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,6550.0
+KABBOUCHI/vue-tippy,vue-tippy,VueJS Tooltip powered by Tippy.js,132,12,JavaScript,KABBOUCHI,Georges KABBOUCHI,User,Lebanon,33.854721000000005,35.862285,,Lebanon,6550.0
+picostyle/picostyle,picostyle,Ultra small CSS in JS library in 0.4 KB,132,8,JavaScript,picostyle,Picostyle,Organization,,,,,,6550.0
+mineral-ui/mineral-ui,mineral-ui,A design system and React component library for the web brought to you by CA Technologies.,131,9,JavaScript,mineral-ui,Mineral UI,Organization,"Boulder, CO",40.0149856,-105.2705456,Boulder,United States,6600.0
+vadimdemedes/generator-micro-service,generator-micro-service,🛫 Yeoman generator to kick-start your microservice with `micro` and `ava`!,131,4,JavaScript,vadimdemedes,Vadim Demedes,User,,,,,,6600.0
+Vagr9K/gatsby-advanced-starter,gatsby-advanced-starter,A skeleton starter for GatsbyJS that focuses on SEO/Social features/development environment.,131,39,JavaScript,Vagr9K,Ruben Harutyunyan,User,"Yerevan, Armenia",,,,,6600.0
+dharmaprotocol/dharma-cli,dharma-cli,Command line interface for borrowing and lending crypto-currency using Ethereum smart contracts,131,12,JavaScript,dharmaprotocol,Dharma Protocol,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6600.0
+pkjoebinbin/JS-roomSlider,JS-roomSlider,原生JS撸的轮播图插件,131,5,JavaScript,pkjoebinbin,SteveJoe,User,"GuangZhou,China",,,,,6600.0
+EvanBacon/Expo-Crossy-Road,Expo-Crossy-Road,"🐥🚙 Frog game made in Expo, THREE.js, OpenGL, Tween, Redux, Rehydrate, React-Navigation. ",131,9,JavaScript,EvanBacon,Evan Bacon,User,"420F, Palo Alto, CA.",33.7721189,-118.1249064,Long Beach,United States,6600.0
+Robbendebiene/Gesturefy,Gesturefy,"Gesturefy is a customizable Firefox mouse gesture addon, which supports over 40 different actions.",131,15,JavaScript,Robbendebiene,,User,,,,,,6600.0
+Dafrok/v-hotkey,v-hotkey,Vue 2.x directive for binding hotkeys to components.,131,10,JavaScript,Dafrok,马金花儿,User,,,,,,6600.0
+johntitus/coinx,coinx,"Buy, sell, and find the best prices for crypto-currencies from multiple markets.",131,29,JavaScript,johntitus,John Titus,User,,,,,,6600.0
+LanceGin/QBox,QBox,Qiniu Box.,131,21,JavaScript,LanceGin,Gin,User,China,35.86166,104.195397,,China,6600.0
+fossasia/susi_viberbot,susi_viberbot,Viberbot for SUSI AI http://susi.ai,131,8,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6600.0
+HaliteChallenge/Halite-II,Halite-II,Season 2 of @twosigma's artificial intelligence programming challenge,131,83,JavaScript,HaliteChallenge,Halite AI Challenge,Organization,"Manhattan, NYC",40.783060299999995,-73.9712488,New York,United States,6600.0
+hzlshen/angular-case,angular-case,根据Angular官网撸的一些demo,131,0,JavaScript,hzlshen,,User,深圳,22.543096,114.05786499999999,Shenzhen,China,6600.0
+fiatjaf/node-dependencies-view,node-dependencies-view,node dependency trees as a service.,131,4,JavaScript,fiatjaf,Giovanni T. Parra,User,"Lagoa Santa, Joana d'Arc",-19.6362861,-43.9019362,,Brazil,6600.0
+ethanent/phin,phin,🚀⚡ The ultra-lightweight Node.js HTTP client,131,5,JavaScript,ethanent,Ethan Davis,User,California,,,,,6600.0
+pawelgrzybek/snippet-generator,snippet-generator,"Snippet generator for Visual Studio Code, Sublime Text and Atom",131,12,JavaScript,pawelgrzybek,Pawel Grzybek,User,Northampton / UK,52.240477,-0.902656,Northampton,United Kingdom,6600.0
+singnet/singnet,singnet,The SingularityNET agent - a JSON-RPC server with AI adapters.,130,47,JavaScript,singnet,,Organization,,,,,,6649.0
+open-bot/open-bot,open-bot,An unoptionated bot driven by a configuration file in the repository.,130,18,JavaScript,open-bot,,Organization,,,,,,6649.0
+dengbaoling/h5-awesome,h5-awesome,,130,0,JavaScript,dengbaoling,dengbaoling,User,,,,,,6649.0
+Simpleyyt/jekyll-theme-next,jekyll-theme-next,Elegant theme for Jekyll.,130,143,JavaScript,Simpleyyt,Simpleyyt,User,Guangzhou,,,,,6649.0
+dengbaoling/qianduan,qianduan,,130,1,JavaScript,dengbaoling,dengbaoling,User,,,,,,6649.0
+fossasia/susi_gitterbot,susi_gitterbot,SUSI AI Gitter Bot,130,8,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6649.0
+pavelkuligin/chart,chart,Create the most popular types of charts by real or random data,130,3,JavaScript,pavelkuligin,Pavel Kuligin,User,Saint-Petersburg,,,,,6649.0
+hzlshen/ES6-learn,ES6-learn,,130,0,JavaScript,hzlshen,,User,深圳,22.543096,114.05786499999999,Shenzhen,China,6649.0
+mediaelement/mediaelement-plugins,mediaelement-plugins,Plugins for the main mediaelement project ,130,41,JavaScript,mediaelement,MediaElement.js,Organization,,,,,,6649.0
+radical-dreamers/animated-vue,animated-vue, A plugin to use animate.css animations as Vue2 transitions,130,11,JavaScript,radical-dreamers,Radical Dreamers,Organization,Uruguay,-32.522779,-55.765834999999996,,Uruguay,6649.0
+eKoopmans/html2pdf,html2pdf,Client-side HTML-to-PDF rendering using pure JS.,130,68,JavaScript,eKoopmans,Erik Koopmans,User,"Toronto, ON",,,,,6649.0
+sheetsu/sheetsu-web-client,sheetsu-web-client,Sheetsu Web Client,130,6,JavaScript,sheetsu,Sheetsu,Organization,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,6649.0
+suissa/Curso-refatoracao-para-js-funcional,Curso-refatoracao-para-js-funcional,:chart_with_upwards_trend: Refatorar eh vida!,130,19,JavaScript,suissa,Jean Carlo Nascimento,User,Curitiba - PR,,,,,6649.0
+auth0-samples/auth0-react-samples,auth0-react-samples,Auth0 Integration Samples for React Applications,130,213,JavaScript,auth0-samples,Auth0 Samples,Organization,,,,,,6649.0
+wcandillon/react-native-responsive-ui,react-native-responsive-ui,Building responsive UIs in React Native.,129,17,JavaScript,wcandillon,William Candillon,User,Zürich,,,,,6699.5
+ethereumproject/emerald-wallet,emerald-wallet,Emerald Wallet / Ethereum Classic Wallet,129,45,JavaScript,ethereumproject,Ethereum Classic Project,Organization,,,,,,6699.5
+snovakovic/js-flock,js-flock,Collection of neat modular utilities for bumping up development in NODE and Browser,129,3,JavaScript,snovakovic,Stefan Novaković,User,Split 21000 Croatia,43.5081323,16.4401935,Split,Croatia,6699.5
+tvkhoa/react-tippy,react-tippy,A lightweight tooltip for React. Based on tippy.js and powered by Popper.js,129,31,JavaScript,tvkhoa,Khoa Thai,User,,,,,,6699.5
+liunian1004/React-Secret,React-Secret,React + Redux + Webpack + Bable  ,129,0,JavaScript,liunian1004,system,User,,,,,,6699.5
+vanila-io/wireflow,wireflow,Wireflow - user flow chart real-time collaborative tool - https://wireflow.co,129,17,JavaScript,vanila-io,Vanila Web Studio,Organization,Universe,42.7481821,-77.4146876,,United States,6699.5
+myheritage/UiZoo.js,UiZoo.js,Dynamic React components library 🦉,129,8,JavaScript,myheritage,MyHeritage,Organization,"Or Yehuda, Israel",32.029748,34.85617300000001,Or Yehuda,Israel,6699.5
+ProofSuite/ProofCryptoFiat,ProofCryptoFiat,,129,29,JavaScript,ProofSuite,Proof,Organization,"Seoul, KR",37.566534999999995,126.9779692,Seoul,South Korea,6699.5
+edp963/wormhole,wormhole,,129,53,JavaScript,edp963,edp,Organization,,,,,,6699.5
+yunzaifei/map-street,map-street,Udacity作业-街区地图,129,0,JavaScript,yunzaifei,yunzaifei,User,,,,,,6699.5
+alphasp/pxview,pxview,"An unofficial Pixiv app client for Android and iOS, built in React Native.",128,27,JavaScript,alphasp,,User,,,,,,6749.0
+dashersw/erste,erste,Your first choice for hybrid mobile applications,128,9,JavaScript,dashersw,Armagan Amcalar,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,6749.0
+fossasia/susi_alexa_skill,susi_alexa_skill,"An alexa skill which can be used to ask susi for answers: 'Alexa, Ask Susi Who Are You'",128,7,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6749.0
+storybooks/storybook-addon-jest,storybook-addon-jest,React storybook addon that show component jest report,128,0,JavaScript,storybooks,Storybook,Organization,,,,,,6749.0
+SilentTiger/vue-ueditor,vue-ueditor,a wrapper of UEditor for vue 2.x,128,40,JavaScript,SilentTiger,SilentTiger,User,Wuhan,,,,,6749.0
+webpack-contrib/polymer-webpack-loader,polymer-webpack-loader,WebPack Loader for Polymer Web Components,128,29,JavaScript,webpack-contrib,webpack-contrib,Organization,,,,,,6749.0
+israelss/vue-worker,vue-worker,A Vue.js plugin to use webworkers in a simply way.,127,14,JavaScript,israelss,Israel Sant'Anna,User,Brasil,-14.235004,-51.92528,,Brazil,6796.5
+easy-mock/easy-mock-cli,easy-mock-cli,Create api.js for Easy-Mock. https://easy-mock.github.io/easy-mock-cli/,127,19,JavaScript,easy-mock,,Organization,,,,,,6796.5
+Kreijstal/node-trollegle,node-trollegle,,127,0,JavaScript,Kreijstal,Kreijstal,User,,,,,,6796.5
+chenqing
