@@ -1265,4 +1265,118 @@ SilenceHVK/front-ui,front-ui,:smile: :art: A front-end effect every day （每�
 mafintosh/browser-server,browser-server,A HTTP 'server' in the browser that uses a service worker to allow you to easily send back your own stream of data.,150,16,JavaScript,mafintosh,Mathias Buus,User,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,5743.5
 saitei/crypto-sheets,crypto-sheets,Google Sheets script editor code for managing a cryptocurrency tracking spreadsheet,149,30,JavaScript,saitei,,User,,,,,,5787.0
 193Eric/Kai-gym,Kai-gym,健身小程序应用,149,18,JavaScript,193Eric,likai,User,China,35.86166,104.195397,,China,5787.0
-xinglie/html-entities-decoder,html-entities-decoder,decode all html entities,149,1
+xinglie/html-entities-decoder,html-entities-decoder,decode all html entities,149,18,JavaScript,xinglie,行列,User,Hangzhou China,30.274084000000002,120.15507,Hangzhou,China,5787.0
+lihongxun945/tiny-vue,tiny-vue,Deadly simple implement of Vuejs,149,20,JavaScript,lihongxun945,言川,User,,,,,,5787.0
+fossasia/susi_firefoxbot,susi_firefoxbot,SUSI.AI Firefox Extension https://susi.ai,149,32,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,5787.0
+americanexpress/react-albus,react-albus,React component library for building declarative multi-step flows.,149,16,JavaScript,americanexpress,American Express,Organization,,,,,,5787.0
+thejameskyle/create-react-context,create-react-context,Polyfill for the proposed React context API,149,6,JavaScript,thejameskyle,James Kyle,User,Sydney,37.7749295,-122.4194155,San Francisco,United States,5787.0
+GoogleChromeLabs/tasklets,tasklets,,148,8,JavaScript,GoogleChromeLabs,,Organization,,,,,,5827.5
+atom/ide-java,ide-java,Java language support for Atom-IDE,148,21,JavaScript,atom,Atom,Organization,The Future,37.444201299999996,-122.1615759,Palo Alto,United States,5827.5
+charlesBochet/cropchat,cropchat,Progressive Web Application made with VueJS,148,40,JavaScript,charlesBochet,Charles Bochet,User,Paris,,,,,5827.5
+kabirvirji/spotifork,spotifork,🍴 Fork a Spotify playlist,148,9,JavaScript,kabirvirji,Kabir Virji,User,Toronto/Vancouver,49.2654013,-123.23943909999998,Vancouver,Canada,5827.5
+enkimute/ganja.js,ganja.js,Geometric Algebra for Javascript (with operator overloading and algebraic literals) ,148,15,JavaScript,enkimute,Steven De Keninck,User,,,,,,5827.5
+leboncoin/morphlingjs,morphlingjs,A CLI to mock with meaningful data a REST API from a Swagger file,148,1,JavaScript,leboncoin,leboncoin,Organization,"Paris, FR",,,,,5827.5
+jaydenseric/apollo-upload-server,apollo-upload-server,Enhances Apollo for intuitive file uploads via GraphQL mutations.,148,16,JavaScript,jaydenseric,Jayden Seric,User,Melbourne,-37.813627600000004,144.96305759999998,Melbourne,Australia,5827.5
+sveltejs/sapper,sapper,"Military-grade progressive web apps, powered by Svelte",148,3,JavaScript,sveltejs,Svelte,Organization,,,,,,5827.5
+azuqua/clusterluck,clusterluck,"A library for writing distributed systems that use a gossip protocol to communicate state management, consistent hash rings for sharding, and vector clocks for history.",148,3,JavaScript,azuqua,Azuqua,Organization,"Seattle, WA",,,,,5827.5
+LiikeJS/Liike,Liike,Tiny JS tweening library.,148,15,JavaScript,LiikeJS,Liike,Organization,GitHub,40.0169197,-105.2779781,Boulder,United States,5827.5
+LucasLeandro1204/vue-content-loading,vue-content-loading,Vue component to easily build (or use presets) SVG loading cards Facebook like.,147,12,JavaScript,LucasLeandro1204,Lucas Leandro,User,"Florianópolis, Brazil",,,,,5872.0
+sararob/video-intelligence-demo,video-intelligence-demo,Video Intelligence API keynote demo from Google Next 2017,147,52,JavaScript,sararob,Sara Robinson,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,5872.0
+paraboul/between,between,Between is a ES6 Proxy-based JavaScript animation library with API similar to Cocoa Animation block,147,3,JavaScript,paraboul,Anthony Catel,User,France,,,,,5872.0
+hxxy2003/wechat_shop_xcx,wechat_shop_xcx,电商商城小程序源码,147,129,JavaScript,hxxy2003,Vincent Chan,User,,,,,,5872.0
+mayswind/AriaNg-Native,AriaNg-Native,"AriaNg (http://github.com/mayswind/AriaNg) Native App, you can run it on Windows or macOS without any browser.",147,12,JavaScript,mayswind,,User,,,,,,5872.0
+JensDebergh/things-calendar,things-calendar,Simple but elegant datepicker for the web —  inspired by Things for mac,147,2,JavaScript,JensDebergh,Jens,User,Belgium,,,,,5872.0
+sinner77/vue-koa2-login,vue-koa2-login,基于 token 的登录注册。,147,41,JavaScript,sinner77,twinkle,User,深圳,22.543096,114.05786499999999,Shenzhen,China,5872.0
+cristianbote/hnpwa-vanilla,hnpwa-vanilla,Hacker News PWA implemented using no framework just javascript,147,12,JavaScript,cristianbote,Cristian Bote,User,"Cluj-Napoca, Romania",46.771210100000005,23.6236353,Cluj-Napoca,Romania,5872.0
+pemrouz/fero,fero,"light, fast, scalable, streaming microservices made easy",147,5,JavaScript,pemrouz,Pedram Emrouznejad,User,London,,,,,5872.0
+okaychen/preload,preload,:ski: [plugin] An image pre loaded plugin is being implemented to achieve ordered loading and unordered loading ,147,24,JavaScript,okaychen,okaychen,User,China,35.86166,104.195397,,China,5872.0
+WeiChiaChang/domain-cli,domain-cli,Search domain names if registered or not in terminal,146,12,JavaScript,WeiChiaChang,WesleyChang,User,"Tainan, Taiwan",22.999728100000002,120.2270277,Tainan,Taiwan,5920.0
+zertosh/v8-compile-cache,v8-compile-cache,Require hook for automatic V8 compile cache persistence,146,6,JavaScript,zertosh,Andres Suarez,User,"New York, NY",40.7127753,-74.0059728,New York,United States,5920.0
+aliyun/oss-browser,oss-browser,OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。,146,25,JavaScript,aliyun,Alibaba Cloud,Organization,Hangzhou.China,,,,,5920.0
+hzlshen/appWatch,appWatch,小程序灯饰商城,146,0,JavaScript,hzlshen,,User,深圳,22.543096,114.05786499999999,Shenzhen,China,5920.0
+superhighfives/an-almost-static-stack,an-almost-static-stack,An example of using create-react-app to bridge the gap between static sites and single page apps,146,6,JavaScript,superhighfives,Charlie Gleason,User,"London, England",51.5073509,-0.12775830000000002,London,United Kingdom,5920.0
+zyfworks/steam-key,steam-key,Steam key remote redeeming,146,28,JavaScript,zyfworks,Makazeu,User,"Hangzhou, Zhejiang Province, P.R.C.",30.274084000000002,120.15507,Hangzhou,China,5920.0
+cesarferreira/gradlr,gradlr,:cyclone: Fastest auto complete for gradle tasks ,146,3,JavaScript,cesarferreira,César Ferreira,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,5920.0
+zhoushengmufc/realmock,realmock,一个更强大的前后端分离方案,146,5,JavaScript,zhoushengmufc,zhousheng,User,shanghai,31.230415999999998,121.473701,Shanghai,China,5920.0
+yoshuawuyts/nanographql,nanographql,Tiny graphQL client library,146,9,JavaScript,yoshuawuyts,Yoshua Wuyts,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,5920.0
+developit/linkstate,linkstate,Bind events to state. Works with Preact and React.,146,17,JavaScript,developit,Jason Miller,User,"Hamilton, Ontario, Canada",43.255720600000004,-79.87110240000001,Hamilton,Canada,5920.0
+robisim74/angular-library-starter,angular-library-starter,Build an Angular library compatible with AoT compilation and Tree shaking,146,31,JavaScript,robisim74,Roberto Simonetti,User,Conegliano (TV) - Italy,,,,,5920.0
+zhuyingda/webster,webster,a reliable high-level web crawling & scraping framework for Node.js.,145,13,JavaScript,zhuyingda,Yingda Zhu,User,Beijing China,39.90419989999999,116.4073963,Beijing,China,5968.0
+cookiengineer/git-ddiff,git-ddiff,:clock10: git ddiff - a better git diff for humans with lack of memory,145,2,JavaScript,cookiengineer,Cookie Engineer,User," 25° 0′ 0″ N, 71° 0′ 0″ W",25.0,-71.0,,,5968.0
+kzuse201/trailhead,trailhead,,145,76,JavaScript,kzuse201,Kzuse201,User,,,,,,5968.0
+charlesvhe/spring-cloud-practice,spring-cloud-practice,,145,73,JavaScript,charlesvhe,,User,,,,,,5968.0
+grpc/grpc-node,grpc-node,gRPC for Node.js,145,22,JavaScript,grpc,grpc,Organization,,,,,,5968.0
+xinglie/magix-updater,magix-updater,partial refresh solution,145,19,JavaScript,xinglie,行列,User,Hangzhou China,30.274084000000002,120.15507,Hangzhou,China,5968.0
+stackjie/vue-pull-to,vue-pull-to,⚡️  A pull-down refresh and pull-up load more and infinite scroll component for Vue.js --Vue下拉刷新组件,145,26,JavaScript,stackjie,stackjie,User,Haikou China,,,,,5968.0
+dzt/shopify-monitor,shopify-monitor,"Updates you on the latest drops, restocks, and much more for your favorite brands!",145,79,JavaScript,dzt,peter soboyejo,User,"Northborough, Massachusetts",42.3195556,-71.6411997,Northborough,United States,5968.0
+xd4rker/MinerBlock,MinerBlock,An efficient browser extension to block browser-based cryptocurrency miners all over the web.,145,23,JavaScript,xd4rker,Ismail,User,Casablanca,33.5731104,-7.589843399999999,Casablanca,Morocco,5968.0
+jxnblk/refunk,refunk,:headphones: Simple React functional setState,145,9,JavaScript,jxnblk,Brent Jackson,User,New York City,40.7127837,-74.00594129999999,New York,United States,5968.0
+samtgarson/micro-starter,micro-starter,[Deprecated] 🔷 Basic (opinionated) starter kit for a micro app with webpack build,145,4,JavaScript,samtgarson,Sam Garson,User,United Kingdom,55.378051,-3.435973,,United Kingdom,5968.0
+brandonweiss/discharge,discharge,"A simple, easy way to deploy static websites to Amazon S3.",144,6,JavaScript,brandonweiss,Brandon Weiss,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6016.0
+digitalie/one-loader,one-loader,Single-file components for React,144,3,JavaScript,digitalie,,Organization,"Dublin, Ireland",53.34980529999999,-6.2603097000000005,Dublin,Ireland,6016.0
+d3/d3-contour,d3-contour,Compute contour polygons using marching squares.,144,15,JavaScript,d3,D3,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6016.0
+truffle-box/react-box,react-box,"Truffle, Webpack and React boilerplate.",144,33,JavaScript,truffle-box,Truffle Box,Organization,,,,,,6016.0
+badtuxx/giropops-monitoring,giropops-monitoring,Full stack tools for monitoring containers and other stuff. ;),144,18,JavaScript,badtuxx,Jeferson Fernando,User,,,,,,6016.0
+pmg1989/dva-admin,dva-admin,dva admin antd dashboard,144,47,JavaScript,pmg1989,此夏、若空。,User,ShangHai,,,,,6016.0
+buckyroberts/Vataxia-Frontend,Vataxia-Frontend,Open source social network written in React and Redux,144,33,JavaScript,buckyroberts,Bucky Roberts,User,"Pasadena, CA",34.1477849,-118.1445155,Pasadena,United States,6016.0
+tasjs/tas,tas,"Make it easy to develop large, complex Node.js app.",144,35,JavaScript,tasjs,TasJS,User,,,,,,6016.0
+liu-zhuang/koa-project-tpl,koa-project-tpl,koa template,144,0,JavaScript,liu-zhuang,,Organization,,,,,,6016.0
+deanhume/lazy-observer-load,lazy-observer-load,A library to lazy load images using Intersection Observer,144,16,JavaScript,deanhume,Dean,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,6016.0
+jlongster/lively,lively,Components & state,143,5,JavaScript,jlongster,James Long,User,"Richmond, VA",37.540724600000004,-77.4360481,Richmond,United States,6066.5
+researchgate/react-intersection-observer,react-intersection-observer,React component for the Intersection <Observer /> API,143,9,JavaScript,researchgate,ResearchGate,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,6066.5
+TheLarkInn/bundle-buddy-webpack-plugin,bundle-buddy-webpack-plugin,🐐🐐🐐🐐 bundle-buddy-webpack-plugin 🐐🐐🐐🐐,143,5,JavaScript,TheLarkInn,Sean Larkin,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,6066.5
+velopert/bitimulate,bitimulate,Simulated cryptocurrency trading system,143,63,JavaScript,velopert,Minjun Kim,User,,,,,,6066.5
+jdeal/qim,qim,Immutable/functional select/update queries for plain JS.,143,5,JavaScript,jdeal,Justin Deal,User,,,,,,6066.5
+styled-components/vue-styled-components,vue-styled-components,Visual primitives for the component age. A simple port for Vue of styled-components 💅,143,16,JavaScript,styled-components,styled-components,Organization,,,,,,6066.5
+tensorfire/cyborg-writer,cyborg-writer,An experimental text editor with an embedded neural text synthesizer,143,22,JavaScript,tensorfire,TensorFire,Organization,,,,,,6066.5
+EvanAgee/vuejs-wordpress-theme-starter,vuejs-wordpress-theme-starter,A WordPress theme with the guts ripped out and replaced with Vue.,143,19,JavaScript,EvanAgee,Evan Agee,User,"Grapevine, TX",32.9342919,-97.07806540000001,Grapevine,United States,6066.5
+zero-plus-x/neoform,neoform,:white_check_mark: Higher-Order Components for form state management and validation in React,143,5,JavaScript,zero-plus-x,0+X,Organization,,,,,,6066.5
+cibernox/ember-native-dom-helpers,ember-native-dom-helpers,Test helpers for your integration tests that fire native events,143,27,JavaScript,cibernox,Miguel Camba,User,"Coruña, Spain",43.362343599999996,-8.4115401,A Coruña,Spain,6066.5
+marionebl/svg-term-cli,svg-term-cli,Share terminal sessions via SVG and CSS,143,4,JavaScript,marionebl,Mario Nebl,User,Hamburg,53.5510846,9.9936819,Hamburg,Germany,6066.5
+propellant/doctor,doctor,quick and easy documentation of Vue.js components,143,11,JavaScript,propellant,,Organization,,,,,,6066.5
+Rianley/project,project,,143,0,JavaScript,Rianley,Rianley cheng,User,,,,,,6066.5
+ansumanshah/css-in-js,css-in-js,Autocomplete React Native / JS Styles and converting plain CSS to JS styles,143,6,JavaScript,ansumanshah,Ansuman Shah,User,"Mumbai, India",19.0759837,72.87765590000001,Mumbai,India,6066.5
+netshoes/lind,lind,Lind is an open source that allows to create any kind of AB test on your site.,143,19,JavaScript,netshoes,Netshoes,Organization,"Sao Paulo, Brazil",-23.550519899999998,-46.63330939999999,São Paulo,Brazil,6066.5
+skygear-demo/skypad,skypad,Skypad,143,10,JavaScript,skygear-demo,Skygear Demo,Organization,,,,,,6066.5
+atom/teletype-client,teletype-client,Editor-agnostic library managing client interaction for peer-to-peer collaborative editing in Teletype for Atom,143,9,JavaScript,atom,Atom,Organization,The Future,37.444201299999996,-122.1615759,Palo Alto,United States,6066.5
+react-community/native-directory,native-directory,"A list of react native libraries of various qualities that you can use with expo, and ones you can't.",142,44,JavaScript,react-community,React Community,Organization,,,,,,6117.5
+superwf/vuex-cache,vuex-cache,cache vuex action when dispatch,142,7,JavaScript,superwf,superwf,User,Beijing/China,39.90419989999999,116.4073963,Beijing,China,6117.5
+learn-anything/react-mindmap,react-mindmap,🗺 React component for mindnode maps,142,30,JavaScript,learn-anything,learn-anything.xyz,Organization,global,,,,,6117.5
+lvleihere/form-plugin,form-plugin,JQuery-based form validation plug-in,142,0,JavaScript,lvleihere,吕雷,User,cn,35.86166,104.195397,,China,6117.5
+yeeezy/splash-party,splash-party,Run multiple headless browsers on Adidas.com waiting room,142,42,JavaScript,yeeezy,,User,,,,,,6117.5
+klauscfhq/hyper-star-wars,hyper-star-wars,🚀 Super awesome your Hyper terminal shall look,142,15,JavaScript,klauscfhq,Klaus Sinani,User,Cookfood HQ,,,,,6117.5
+axiomzen/cryptokitties-bounty,cryptokitties-bounty,Bounty program for CryptoKitties smart contract,142,81,JavaScript,axiomzen,Axiom Zen,Organization,"Vancouver, Canada",49.282729100000005,-123.1207375,Vancouver,Canada,6117.5
+oblador/loki,loki,👁 Visual Regression Testing for Storybook,142,12,JavaScript,oblador,Joel Arvidsson,User,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden,6117.5
+Allan5945/node,node,,142,0,JavaScript,Allan5945,,User,,,,,,6117.5
+delfrrr/weather-app-react-native,weather-app-react-native,The source code of react-native weather app ,142,15,JavaScript,delfrrr,Vova Bilonenko,User,Berlin,,,,,6117.5
+giraffQL/giraffQL,giraffQL,Interactive GraphQL exploration tool built with React - still working on the website,142,10,JavaScript,giraffQL,,Organization,,,,,,6117.5
+AltCoinExchange/ethatomicswap,ethatomicswap,Ethereum atomic swap,142,47,JavaScript,AltCoinExchange,Altcoin.io Exchange,Organization,"San Diego, CA",,,,,6117.5
+ProofSuite/ProofTokenSale,ProofTokenSale,Official Repository for the Proof Token Sale Smart Contracts,141,33,JavaScript,ProofSuite,Proof,Organization,"Seoul, KR",37.566534999999995,126.9779692,Seoul,South Korea,6165.0
+zkat/make-fetch-happen,make-fetch-happen,"Get in loser, we're making requests!",141,19,JavaScript,zkat,Kat Marchán,User,"Oakland, CA",,,,,6165.0
+yogaboll/react-switch,react-switch,"A draggable, customizable and accessible toggle-switch component for React.",141,2,JavaScript,yogaboll,Markus Englund,User,"Umeå, Sweden",,,,,6165.0
+ganderzz/react-scroll-to,react-scroll-to,Scroll to a position in React,141,11,JavaScript,ganderzz,Dylan Paulus,User,,,,,,6165.0
+davidmarkclements/v8-perf,v8-perf,"Exploring v8 performance characteristics in Node across v8 versions 5.1, 5.8, 5.9, 6.0 and 6.1 ",141,15,JavaScript,davidmarkclements,David Mark Clements,User,Wherever I'm needed,,,,,6165.0
+mamboer/vue-easy-gantt,vue-easy-gantt,A simple Vue.js gantt chart plugin for presenting weekly tasks,141,7,JavaScript,mamboer,Levin Van,User,Shenzhen,,,,,6165.0
+thx/magix-loader,magix-loader,webpack loader,141,14,JavaScript,thx,THX,Organization,杭州 北京,39.876594,116.188341,,China,6165.0
+tower1229/Vue-Access-Control,Vue-Access-Control,:gem: Frontend access control framework based Vue,141,29,JavaScript,tower1229,refined-x,User,China,35.86166,104.195397,,China,6165.0
+gee1k/emoji,emoji,:rocket: Find the emoji(Unicode),141,6,JavaScript,gee1k,Svend,User,"Suzhou, China",31.298973999999998,120.58528899999999,Suzhou,China,6165.0
+mbasso/gccx,gccx,Transforms CPX (JSX like syntax) into asm-dom Virtual DOM,141,4,JavaScript,mbasso,Matteo Basso,User,"Milan, Italy",45.465421899999996,9.1859243,Milan,Italy,6165.0
+AnomalyInnovations/serverless-nodejs-starter,serverless-nodejs-starter,A Node.js starter for the Serverless Framework with async/await and unit test support,141,17,JavaScript,AnomalyInnovations,Anomaly Innovations,Organization,,,,,,6165.0
+harshq/react-native-mentions,react-native-mentions,Mentions textbox for React Native. Works on both ios and android. :tropical_fish: :whale: ,140,25,JavaScript,harshq,Harshana Abeyaratne,User,"Colombo, Sri Lanka",6.927078599999999,79.861243,Colombo,Sri Lanka,6209.5
+zhao94254/fun,fun,python  数据结构与算法 刷题  网络 ,140,2,JavaScript,zhao94254,,User,Changzhi shanxi china,36.195409000000005,113.116404,Changzhi,China,6209.5
+CoderSavior/binaryChop,binaryChop,js 二分查找,140,1,JavaScript,CoderSavior,,User,,,,,,6209.5
+mpj/unprecedented-midwife,unprecedented-midwife,Hello world in modern JS,140,24,JavaScript,mpj,Mattias Petter Johansson,User,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden,6209.5
+froala/vue-froala-wysiwyg,vue-froala-wysiwyg,Vue component for Froala WYSIWYG HTML Rich Text Editor.,140,16,JavaScript,froala,Froala,Organization,"Bucharest, Romania",44.4267674,26.1025384,Bucharest,Romania,6209.5
+Inndy/vue-clipboard2,vue-clipboard2,A simple vue2 binding for clipboard.js,140,19,JavaScript,Inndy,Inndy,User,"Taipei, Taiwan",25.0329694,121.56541770000001,Taipei,Taiwan,6209.5
+liunian1004/Eslint-Config-Vue,Eslint-Config-Vue,eslint rules.,140,0,JavaScript,liunian1004,system,User,,,,,,6209.5
+vuejs-tips/v-money,v-money,Tiny (<2k gzipped) input/directive mask for currency,140,33,JavaScript,vuejs-tips,Vue.js Tips,Organization,,,,,,6209.5
+jrainlau/vue-occupy,vue-occupy,A Vue directive for occupying content places before the data has been loaded.,140,5,JavaScript,jrainlau,JrainLau,User,China,35.86166,104.195397,,China,6209.5
+zczhangchao51/fjpublish,fjpublish,A simple CLI for publish your projects.,139,6,JavaScript,zczhangchao51,满满,User,"ShenZhen, China",,,,,6256.5
+tahnik/devRantron,devRantron,An open source cross platform desktop application for devRant,139,27,JavaScript,tahnik,Tahnik Mustasin,User,,,,,,6256.5
+fossasia/accounts.susi.ai,accounts.susi.ai,Accounts Service for SUSI.AI http://accounts.susi.ai,139,13,JavaScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6256.5
+oncode/handorgel,handorgel,Accessible W3C conform accordion written in ES6.,139,14,JavaScript,oncode,Manuel Sommerhalder,User,Switzerland,46.818188,8.227511999999999,,Switzerland,6256.5
+javierbyte/gitpage-timemachine,gitpage-timemachine,Time Machine-like UI for your git pages.,139,5,JavaScript,javierbyte,Javier Bórquez,User,"Guadalajara, MX",20.6596988,-103.3496092,Guadalajara,Mexico,6256.5
+shershen08/vue-masonry,vue-masonry,💠 Vue.js directive for masonry blocks layouting ✅,139,25,JavaScript,shershen08,Mikhail Kuznetcov,User,"Amsterdam, NL",,,,,6256.5
+hongguancheng/romantic-words,romantic-words,一个表白用的页面,139,38,JavaScript,hongguancheng,CCG,User,ShenZhen China,22.543096,114.05786499999999,Shenzhen,China,6256.5
+Lucifier129/pull-element,pull-element,"Lightweight, high-performance and smooth pull element effect that support all directions",139,21,JavaScript,Lucifier129,工业聚,User,"shanghai, china",31.230390399999997,121.4737021,Shanghai,China,6256.5
+zachleat/eleventy,eleventy,A static site generator. An alternative to Jek
