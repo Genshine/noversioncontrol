@@ -1723,4 +1723,123 @@ taravancil/paste-dat,paste-dat,A tool for sharing files secretly with Dat in the
 segmentio/evergreen,evergreen,🌲 React UI Kit by Segment 🌲,112,10,JavaScript,segmentio,Segment,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,7748.0
 schteppe/gpu-physics.js,gpu-physics.js,GPGPU physics for Three.js,112,6,JavaScript,schteppe,Stefan Hedman,User,"Stockholm, Sweden",,,,,7748.0
 chinesedfan/parrot-mocker-web,parrot-mocker-web,Simple web server to forward received requests to real servers or just mock,112,7,JavaScript,chinesedfan,Xianming Zhong,User,"Shanghai, China",,,,,7748.0
-etiennepinchon/aframe-material,aframe-material,"🅰️ Inputs, keyboard, buttons, checkboxes, radio buttons, switches, forms, toasts and more for
+etiennepinchon/aframe-material,aframe-material,"🅰️ Inputs, keyboard, buttons, checkboxes, radio buttons, switches, forms, toasts and more for A-Frame",112,9,JavaScript,etiennepinchon,Etienne Pinchon,User,France,46.227638,2.213749,,France,7748.0
+zouyang1230/ThreejsLab,ThreejsLab,WebGL 3D library : Threejs （2016.11）,112,1,JavaScript,zouyang1230,zouyang,User,China,35.86166,104.195397,,China,7748.0
+tvfe/wxpage,wxpage,WXPage 是一个极其轻量的微信小程序开发框架，其中的API蕴含了“极致页面打开速度的思想”，为可维护性与开发效率而设计的功能，框架来自“腾讯视频”小程序的项目沉淀。,112,23,JavaScript,tvfe,TVFE,Organization,,,,,,7748.0
+TomasHubelbauer/webrtc-data-channel-demo,webrtc-data-channel-demo,WebRTC Data Channel demo,112,6,JavaScript,TomasHubelbauer,Tomáš Hübelbauer,User,"Prague, Czech Republic",50.0755381,14.4378005,Prague,Czechia,7748.0
+bkzl/vue-float-label,vue-float-label,Float label pattern for Vue.js,112,8,JavaScript,bkzl,Bart Kozal,User,"Amsterdam, The Netherlands",52.3702157,4.8951679000000015,Amsterdam,Netherlands,7748.0
+JonAbrams/elsa,elsa,A babel plugin for replacing object and array literals with immutable versions,111,4,JavaScript,JonAbrams,Jon Abrams,User,"San Mateo, CA",37.562991700000005,-122.32552539999999,San Mateo,United States,7820.0
+mzgoddard/preact-render-spy,preact-render-spy,Render preact components with access to the produced virtual dom for testing.,111,8,JavaScript,mzgoddard,"Michael Z"" Goddard""",User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,7820.0
+xulayen/shellac,shellac,,111,16,JavaScript,xulayen,棹孤舟,User,上海,,,,,7820.0
+MiceLiD/ofo-applet,ofo-applet,ofo小程序,111,71,JavaScript,MiceLiD,李冬,User,,,,,,7820.0
+thundernet8/StarCabinet,StarCabinet,:tada: 开源的跨平台Github Stars管理分析工具,111,23,JavaScript,thundernet8,Touchumind,User,Shanghai,,,,,7820.0
+fatiherikli/josef,josef,A robot who learns how to draw,111,7,JavaScript,fatiherikli,Fatih Erikli,User,Krakow ← Istanbul,41.0082376,28.978358899999996,Istanbul,Turkey,7820.0
+Vagr9K/gatsby-material-starter,gatsby-material-starter,A blog starter with Material design in mind for GatsbyJS.,111,31,JavaScript,Vagr9K,Ruben Harutyunyan,User,"Yerevan, Armenia",,,,,7820.0
+hardmaru/rnn-tutorial,rnn-tutorial,RNN Tutorial for Artists,111,19,JavaScript,hardmaru,hardmaru,User,san francisco,37.7749295,-122.4194155,San Francisco,United States,7820.0
+jhoenicke/mempool,mempool,Bitcoin Mempool Statistics,111,23,JavaScript,jhoenicke,Jochen Hoenicke,User,"Freiburg, Germany",47.99900770000001,7.842104299999999,Freiburg,Germany,7820.0
+GuntharDeNiro/BTCT,BTCT,,111,29,JavaScript,GuntharDeNiro,,User,,,,,,7820.0
+evenchange4/gh-polls-bot,gh-polls-bot,Automatically create polls in GitHub issues.,111,2,JavaScript,evenchange4,Michael Hsu,User,Taiwan Taipei,25.0329694,121.56541770000001,Taipei,Taiwan,7820.0
+brh55/react-native-hero,react-native-hero,":metal: A super duper easy hero unit react-native component with support for dynamic image, dynamic sizing, color overlays, and more",111,6,JavaScript,brh55,Brandon Him,User,"San Jose, CA",37.338208200000004,-121.88632859999998,San Jose,United States,7820.0
+lixingdecai/vue-toutiaohao,vue-toutiaohao,仿照头条号后台；基于vue2.0全家桶搭建的框架，eleme的UI组件，使用百度ueditor富文本编辑器，并对其二次开发。百度Echarts是图表进行数据展示。阿里plupload进行图片上传和视频上传。图片裁剪、模块拖拽插件等的结合使用,111,46,JavaScript,lixingdecai,,User,xiamen,,,,,7820.0
+duheng/Mozi,Mozi,此项目致力于构建一套最基础，最精简，可维护的react-native项目，支持ios，android 🌹,111,19,JavaScript,duheng,duheng,User,北京潮阳,39.870358,116.546131,Beijing,China,7820.0
+jongacnik/gr8,gr8,"Customizable, functional css utilities",111,7,JavaScript,jongacnik,Jon Gacnik,User,Los Angeles,,,,,7820.0
+meibin08/react-redux,react-redux,React+Redux 入门示例项目，可扫下方二维码在线查看,111,28,JavaScript,meibin08,Bin,User,,,,,,7820.0
+joinspontaneous/react-native-phone-verification,react-native-phone-verification,The best React Native example for phone verification (an alternative to Twitter Digits).,111,17,JavaScript,joinspontaneous,Spontaneous,Organization,,,,,,7820.0
+ovh-ux/ovh-chatbot,ovh-chatbot,The goal of this tool is to help you to have fast responses when you have some problems with OVH services.,110,23,JavaScript,ovh-ux,OVH UX,Organization,,,,,,7898.0
+huanghua581/FATA,FATA,From Apprentice To Artisan. 在线阅读,110,20,JavaScript,huanghua581,Cooper,User,Changde,,,,,7898.0
+nuxt-community/axios-module,axios-module,Secure and easy axios integration with Nuxt.js,110,14,JavaScript,nuxt-community,Nuxt Community,Organization,,,,,,7898.0
+gramps-graphql/gramps-express,gramps-express,GraphQL middleware for Apollo Express server to compose data sources from multiple independent codebases.,110,11,JavaScript,gramps-graphql,GrAMPS,Organization,,,,,,7898.0
+feross/TheAnnoyingSite.com,TheAnnoyingSite.com,The Annoying Site a.k.a. 'The Power of the Web Platform',110,5,JavaScript,feross,Feross Aboukhadijeh,User,"San Francisco, CA",37.3860517,-122.08385109999999,Mountain View,United States,7898.0
+HAPENLY/ReactNative-ListView-Checkbox-Refresh,ReactNative-ListView-Checkbox-Refresh,为ListView添加复选框，选择，全选功能。同时增加ListView的刷新功能！你的star就是对我最好的鼓励.,110,2,JavaScript,HAPENLY,ZPengs,User,,,,,,7898.0
+SamVerschueren/alfred-fkill,alfred-fkill,Alfred 3 workflow to fabulously search and kill processes,110,3,JavaScript,SamVerschueren,Sam Verschueren,User,Bruges,51.209348,3.2246995,Bruges,Belgium,7898.0
+appcypher/astro,astro,A multi-paradigm programming language that compiles to WebAssembly,110,9,JavaScript,appcypher,Steve Akinyemi,User,"Lagos, Nigeria",6.5243793,3.3792057,Lagos,Nigeria,7898.0
+vigneshshanmugam/js-cpa,js-cpa,Code pattern analysis for JS,110,5,JavaScript,vigneshshanmugam,Vignesh Shanmugam,User,"Berlin, Germany",,,,,7898.0
+b3log/baidu-netdisk-high-speed,baidu-netdisk-high-speed,:zap: 百度网盘高速下载 Chrome 插件,110,13,JavaScript,b3log,B3log Open Source,Organization,China,35.86166,104.195397,,China,7898.0
+kesselborn/conex,conex,Firefox extension,110,8,JavaScript,kesselborn,Daniel Bornkessel,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,7898.0
+c-h-/universal-native-boilerplate,universal-native-boilerplate,Build apps for every native platform with React and React Native,110,11,JavaScript,c-h-,Charlie Hulcher,User,,,,,,7898.0
+internet5/smart-array-to-tree,smart-array-to-tree,Convert large amounts of data array to tree fastly,110,3,JavaScript,internet5,,User,,,,,,7898.0
+nirsky/react-native-size-matters,react-native-size-matters,A React-Native utility belt for scaling the size your apps UI across different sized devices.,110,4,JavaScript,nirsky,Nir Hadassi,User,Tel-Aviv,32.0852999,34.78176759999999,Tel Aviv-Yafo,Israel,7898.0
+StephenGrider/AlgoCasts,AlgoCasts,,110,92,JavaScript,StephenGrider,Stephen Grider,User,,,,,,7898.0
+josephg/sephsplace,sephsplace,"My own version of r/place, done in a weekend",110,8,JavaScript,josephg,Seph Gentle,User,,,,,,7898.0
+kellyselden/ember-cli-update,ember-cli-update,Update Ember CLI Ember.js apps and addons (and Glimmer.js apps),109,12,JavaScript,kellyselden,Kelly Selden,User,"Seattle, WA",,,,,7981.5
+vincenth520/pinche_xcx,pinche_xcx,同城拼车微信小程序:blush:,109,49,JavaScript,vincenth520,Vincent H,User,JiangXi,27.0874564,114.90422079999999,,China,7981.5
+Juliiii/React-Cnode,React-Cnode,react-cnode,109,28,JavaScript,Juliiii,Juli,User,China,35.86166,104.195397,,China,7981.5
+egoist/hanabi,hanabi,":boom: Highlight any code, in a colorful way. (seriously 700 bytes)",109,3,JavaScript,egoist,EGOIST,User,"Chengdu, China",30.572815999999996,104.066801,Chengdu,China,7981.5
+alxlu/redux-boilerplate-helpers,redux-boilerplate-helpers,AST-based tool for automating Redux boilerplate,109,4,JavaScript,alxlu,Alex Lu,User,,,,,,7981.5
+jlmakes/rematrix,rematrix,Matrix transformations made easy.,109,2,JavaScript,jlmakes,JLMΛKΞS,User,"Earth, Dimension C-137",,,,,7981.5
+sqaiyan/netmusic-node,netmusic-node,网易云音乐接口,109,40,JavaScript,sqaiyan,泺影,User,nanjing,32.060255,118.796877,Nanjing,China,7981.5
+bingo-oss/bui-weex,bui-weex,专门为 Weex 前端开发者打造的一套高质量UI框架,109,16,JavaScript,bingo-oss,,Organization,,,,,,7981.5
+NaturalIntelligence/fast-xml-parser,fast-xml-parser,Validate or Parse XML to JS/JSON very fast without C/C++ based libraries,109,14,JavaScript,NaturalIntelligence,Natural Intelligence,Organization,India,20.593684,78.96288,,India,7981.5
+chxj1992/kline,kline,一个 javascript K线插件.  A K line library written in javascript.,109,35,JavaScript,chxj1992,Xiaojing CHEN,User,"Chengdu, China",30.572815000000002,104.066801,Chengdu,China,7981.5
+Vertamedia/clickhouse-grafana,clickhouse-grafana,Clickhouse datasource for grafana,109,10,JavaScript,Vertamedia,Vertamedia,Organization,"NY, USA",40.7127753,-74.0059728,New York,United States,7981.5
+iffy/electron-updater-example,electron-updater-example,A complete example showing how to use `electron-updater`,109,165,JavaScript,iffy,Matt Haggard,User,Utah,,,,,7981.5
+thepracticaldev/1pr,1pr,I will be accepting up to one pull request per day on this project.,109,30,JavaScript,thepracticaldev,The Practical Dev,Organization,New York City,40.7127837,-74.00594129999999,New York,United States,7981.5
+ads1018/next-apollo-example,next-apollo-example,Next & Apollo Example,109,14,JavaScript,ads1018,Adam Soffer,User,"New Haven, CT",41.308274,-72.9278835,New Haven,United States,7981.5
+stoyan/craft,craft,Create React App From Template,109,4,JavaScript,stoyan,Stoyan,User,"LA, CA",34.0522342,-118.24368490000002,Los Angeles,United States,7981.5
+shaojianye/GD,GD,React-Native开源项目，高仿逛丢APP，配有视频，仅供学习交流使用！,109,28,JavaScript,shaojianye,,User,,,,,,7981.5
+knightsj/GitHubPopular-SJ,GitHubPopular-SJ,慕课网实战课程：《React Native 开发跨平台 GitHub App》Demo,109,31,JavaScript,knightsj,J_Knight_,User,"Shanghai,China",,,,,7981.5
+siddharthkp/atom-import-cost,atom-import-cost,Check the size of the package you import,109,9,JavaScript,siddharthkp,Siddharth Kshetrapal,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India,7981.5
+fatihacet/vuejs-videolari,vuejs-videolari,YouTube'daki VueJS egitim videolarimin kodlari EN: Source code of my VueJS screencasts on YouTube,109,24,JavaScript,fatihacet,Fatih Acet,User,"Amsterdam, NL",52.3702157,4.8951679000000015,Amsterdam,Netherlands,7981.5
+nuxt-community/koa-template,koa-template,Starter template for Nuxt.js with KoaJS.,108,19,JavaScript,nuxt-community,Nuxt Community,Organization,,,,,,8056.0
+OmerTu/GoogleHomeKodi,GoogleHomeKodi,Control kodi via Google Home / Assistant,108,49,JavaScript,OmerTu,,User,,,,,,8056.0
+seawind8888/react-native-v2ex,react-native-v2ex,基于React-Native+redux开发的高仿v2ex客户端,108,36,JavaScript,seawind8888,harvest_wang,User,Beijing,39.90419989999999,116.4073963,Beijing,China,8056.0
+fiber-god/react-native-app-link,react-native-app-link,Easily link to other apps with React Native.,108,7,JavaScript,fiber-god,Juwan Wheatley,User,"Baltimore, MD",39.2903848,-76.6121893,Baltimore,United States,8056.0
+mcollina/make-promises-safe,make-promises-safe,A node.js module to make the use of promises safe,108,6,JavaScript,mcollina,Matteo Collina,User,In the clouds above Italy,,,,,8056.0
+bkanber/Slackadaisical,Slackadaisical,Command line Slack chat client.,108,6,JavaScript,bkanber,,User,,,,,,8056.0
+facebook/react-native-website,react-native-website,The site and docs for React Native,108,161,JavaScript,facebook,Facebook,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,8056.0
+zhuweiyou/fetop100,fetop100,“前端TOP100”小程序,108,18,JavaScript,zhuweiyou,‭,User,"Shanghai, China",,,,,8056.0
+makaroni4/guitar_bro,guitar_bro,Guitar Bro – browser game that helps you learn notes on guitar,108,6,JavaScript,makaroni4,Anatoli Makarevich,User,Berlin,,,,,8056.0
+tumobi/eweapp,eweapp,ecwapp：ECShop非官方版微信小程序商城,107,46,JavaScript,tumobi,tumobi,User,深圳,,,,,8118.5
+dengbaoling/wechatapp_lingshi,wechatapp_lingshi,微信小程序之购物车功能,107,1,JavaScript,dengbaoling,dengbaoling,User,,,,,,8118.5
+cagataycali/url-shortener,url-shortener,"Shitty url shortener, emoji powered. 🌍✌🏼",107,16,JavaScript,cagataycali,./c²,User,Denizli / Turkey,37.783015899999995,29.0963328,Denizli,Turkey,8118.5
+ueno-llc/starter-kit-universally,starter-kit-universally,Ueno. starter kit base,107,8,JavaScript,ueno-llc,Ueno. Digital agency,Organization,"San Francisco, Los Angeles, New York and Iceland",,,,,8118.5
+jscomplete/advanced-nodejs,advanced-nodejs,"For help, ask in #questions at slack.jscomplete.com",107,58,JavaScript,jscomplete,jsComplete,Organization,,,,,,8118.5
+chenqingspring/ng-lottie,ng-lottie,Render After Effects animations on Angular based on Bodymovin ,107,15,JavaScript,chenqingspring,Chen Qing,User,Xi'an China ,34.341574,108.93977,Xi'an,China,8118.5
+ssocoin/ssocoin,ssocoin,,107,38,JavaScript,ssocoin,,User,,,,,,8118.5
+Leocardoso94/Free-Courses,Free-Courses,A collection of free courses about programming,107,27,JavaScript,Leocardoso94,Leonardo Cardoso,User,São Paulo,,,,,8118.5
+frdnrdb/bubb,bubb,Euphemism for a JS tooltip,107,7,JavaScript,frdnrdb,frd nrdb,User,no,60.47202399999999,8.468945999999999,,Norway,8118.5
+Leandros/cpp-tour,cpp-tour,[ALPHA] C++ Introductory Tour. Click here to take the tour:,107,7,JavaScript,Leandros,Arvid Gerstmann,User,"Hamburg, Germany",,,,,8118.5
+zhaohehe/swoole-tadpole,swoole-tadpole,tadpole chatroom (maybe spermium) powered by swoole and slim framework,107,18,JavaScript,zhaohehe,zhaohehe,User,suzhou,,,,,8118.5
+sdras/sample-stripe-handler,sample-stripe-handler,Serverless function that uses the stripe api for a checkout process in a Vue application,107,8,JavaScript,sdras,Sarah Drasner,User,All over the place,,,,,8118.5
+Shopify/storefront-api-examples,storefront-api-examples,Example custom storefront applications built on Shopify's Storefront API,107,30,JavaScript,Shopify,Shopify,Organization,,,,,,8118.5
+vitalets/github-trending-repos,github-trending-repos,Track trending repositories in your favorite programming language by GitHub notifications!,106,2,JavaScript,vitalets,Vitaliy Potapov,User,Moscow,55.755826,37.6173,Moscow,Russia,8187.5
+u014427391/jeeplatform,jeeplatform,一款企业信息化开发基础平台，可以用于快速构建企业后台管理系统，集成了OA(办公自动化)、SCM(供应链系统)、ERP(企业资源管理系统)、CMS(内容管理系统)、CRM(客户关系管理系统)等企业系统的通用业务功能  JeePlatform项目是一款以Spring Framework为核心框架，Web层框架SpringMVC和多种开源组件框架而成的一款通用基础平台，基于本平台可以实现快速开发，实现企业信息管理的高效、高性能开发。系统追求安全、性能方面的有效实现。,106,44,JavaScript,u014427391,Nicky,User,Shantou,,,,,8187.5
+SmallRuralDog/cloud-doc,cloud-doc,一个在线文档阅读的微信小程序,106,41,JavaScript,SmallRuralDog,小土狗,User,,,,,,8187.5
+David-Desmaisons/Vue.resize,Vue.resize,Vue directive to detect resize events  with deboucing and throttling capacity.,106,11,JavaScript,David-Desmaisons,David Desmaisons,User,Brasil,,,,,8187.5
+dpc761218914/company_website,company_website,node.js+layui+bootstrap快速开发企业网站,106,62,JavaScript,dpc761218914,DanielDai,User,,,,,,8187.5
+zimv/WebSocketHeartBeat,WebSocketHeartBeat,simple and useful,106,36,JavaScript,zimv,子慕大诗人,User,chengdu china 成都,,,,,8187.5
+xkeshi/vue-qrcode,vue-qrcode,Qrcode component for Vue.js.,106,15,JavaScript,xkeshi,Xkeshi,Organization,"Hangzhou, China",30.274084000000002,120.15507,Hangzhou,China,8187.5
+Alexloof/Soundize,Soundize,"A homemade server side rendering client made with React and Redux, powered by the Spotify API",106,6,JavaScript,Alexloof,Alex Lööf,User,"Denmark, Sweden",44.06415429999999,-70.7365064,Bridgton,United States,8187.5
+feathers-plus/feathers-vuex,feathers-vuex,"Integration of FeathersJS, Vue, and Nuxt for the artisan developer",106,22,JavaScript,feathers-plus,,Organization,,,,,,8187.5
+Remchi/bookworm-react,bookworm-react,Source code for free live-coding series on YouTube,106,56,JavaScript,Remchi,Rem,User,,,,,,8187.5
+philpl/rxjs-diagrams,rxjs-diagrams,React Components for visualising RxJS observables and operators,106,3,JavaScript,philpl,Phil Plückthun,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,8187.5
+hubcarl/egg-react-webpack-boilerplate,egg-react-webpack-boilerplate,基于Egg + React + Webpack3/Webpack2 多页面和单页面服务端渲染同构工程骨架项目,106,14,JavaScript,hubcarl,sky,User,GZ,,,,,8187.5
+RobinBressan/json-git,json-git,A pure JS local Git to versionize any JSON,106,1,JavaScript,RobinBressan,Robin Bressan,User,Besançon,47.237829,6.024053899999998,Besançon,France,8187.5
+ustbhuangyi/storage,storage,a storage lib which support sessionStorage and localStorage with the same api,106,35,JavaScript,ustbhuangyi,HuangYi,User,"China,Beijing",39.904211,116.407395,Beijing,China,8187.5
+WordPress/gutenberg-examples,gutenberg-examples,Examples for extending WordPress/Gutenberg with blocks.,106,21,JavaScript,WordPress,,Organization,,,,,,8187.5
+mafintosh/add-to-systemd,add-to-systemd,Small command line tool to simply add a service to systemd,106,8,JavaScript,mafintosh,Mathias Buus,User,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,8187.5
+jest-community/jest-extended,jest-extended,Additional Jest matchers 🃏💪,106,36,JavaScript,jest-community,Jest Community,Organization,,,,,,8187.5
+skatejs/ssr,ssr,Your one-stop shop for testing and rendering web components on the server.,106,5,JavaScript,skatejs,,Organization,,,,,,8187.5
+campfire-inc/OKIMOCHI,OKIMOCHI,slack plugin for tipping each other with bitcoin and litecoin,106,9,JavaScript,campfire-inc,"CAMPFIRE, Inc.",Organization,"Shibuya, Tokyo, Japan",35.6617773,139.70405060000002,Shibuya,Japan,8187.5
+Ni55aN/d3-node-editor,d3-node-editor,JavaScript library for visual programming,106,20,JavaScript,Ni55aN,Vitaliy Stoliarov,User,"Kharkiv, Ukraine",,,,,8187.5
+tsherif/webgl2examples,webgl2examples,Rendering algorithms implemented in raw WebGL 2.,106,9,JavaScript,tsherif,Tarek Sherif,User,New York City,40.7127753,-74.0059728,New York,United States,8187.5
+GeekyAnts/ignite-native-base-boilerplate,ignite-native-base-boilerplate,,106,24,JavaScript,GeekyAnts,GeekyAnts,Organization,"Bangalore, India",,,,,8187.5
+springload/react-accessible-accordion,react-accessible-accordion,Accessible Accordion component for React,106,14,JavaScript,springload,Springload,Organization,"Wellington, New Zealand",-41.286460299999995,174.776236,Wellington,New Zealand,8187.5
+mattermost/mattermost-webapp,mattermost-webapp,Webapp of Mattermost server: https://github.com/mattermost/mattermost-server,105,197,JavaScript,mattermost,Mattermost,Organization,,,,,,8277.5
+passabilities/crypto-exchange,crypto-exchange,Pulls together list of crypto exchanges to interact with their API's in a uniform fashion.,105,23,JavaScript,passabilities,Noah Passalacqua,User,"San Francisco, CA",,,,,8277.5
+zeroheight/library-symbol-replacer,library-symbol-replacer,Sketch plugin to replace symbols in an existing documents with library symbols 💎 📚,105,1,JavaScript,zeroheight,zeroheight,Organization,"London, UK",,,,,8277.5
+Shinpeim/NekogataDrumSequencer,NekogataDrumSequencer,,105,1,JavaScript,Shinpeim,Shinpei Maruyama,User,niigata/japan,37.9161924,139.0364126,Niigata,Japan,8277.5
+awslabs/aws-mobile-appsync-sdk-js,aws-mobile-appsync-sdk-js,"JavaScript library files for Offline, Sync, Sigv4. includes support for React Native",105,6,JavaScript,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,8277.5
+tkh44/holen,holen,Declarative fetch for React,105,9,JavaScript,tkh44,Kye Hohenberger,User,"Boulder, CO",,,,,8277.5
+tholman/office-simulator,office-simulator,Miss the office life? You won't any more with this wonderful office slack simulator.,105,10,JavaScript,tholman,Tim Holman,User,,,,,,8277.5
+buhrmi/vue-pouch,vue-pouch,Live and reactive PouchDB bindings for Vuejs,105,13,JavaScript,buhrmi,Stefan Buhrmester,User,"Tokyo, Japan",,,,,8277.5
+DevanaLabs/lemon.email-dApp,lemon.email-dApp,Lemon dApp is a world's first encrypted & decentralized e-mail service.,105,11,JavaScript,DevanaLabs,Devana Labs,Organization,,,,,,8277.5
+zhuweiyou/async-share,async-share,"Call asynchronous methods at the same time, execute only once, and share the result",105,17,JavaScript,zhuweiyou,‭,User,"Shanghai, China",,,,,8277.5
+kenshinji/yddict,yddict,一个命令行查单词的工具💻 📚,105,14,JavaScript,kenshinji,Fred Wang,User,Planet Earth,,,,,8277.5
+dlyt/YCool,YCool,小说阅读APP,105,28,JavaScript,dlyt,,User,,,,,,8277.5
+qgh810/animate-text,animate-text,animated-text 文字动画,105,15,JavaScript,qgh810,邱国辉,User,,,,,,8277.5
+MRGEffitas/Ironsquirrel,Ironsquirrel,Encrypted exploit delivery for the masses,104,31,JavaScript,MRGEffitas,,User,,,,,,8366.5
+alixander/Stanchion,Stanchion,Add priorities to your web app's network requests,104,2,JavaScript,alixander,Alexander Wang,User,Bay Area,37.8271784,-122.2913078,,United States,8366.5
+shamadee/wasm-init,wasm-init,Build tool and template generator for WebAssembly Projects,104,15,JavaScript,shamadee,,Organization,,,,,,8366.5
+SangShaoYe/kJT,kJT,跨境淘-电商网站 ^_^ 注册登录分页购物车  JQ SASS AJAX  :kiss:,104,0,JavaScript,SangShaoYe,良少,User,Qingdao   China,36.067108000000005,120.382609,Qingdao,China,8366.5
+robertklep/top-level-await,top-level-await
