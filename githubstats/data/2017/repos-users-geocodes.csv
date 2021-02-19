@@ -2725,4 +2725,123 @@ mikescamell/shared-element-transitions,shared-element-transitions,Source code fo
 XieShengda/FakeDouyu,FakeDouyu,,151,1,Java,XieShengda,Sender Xie,User,"Hangzhou, China",,,,,5699.5
 liyuhaolol/LightImmersionMode,LightImmersionMode,纯色沉浸式状态栏开发，兼容浅色状态栏自适应深色字体,151,1,Java,liyuhaolol,liyuhao,User,China-Beijing,,,,,5699.5
 wisdomtool/rest-client,rest-client,"WisdomTool REST client supports automated testing RESTful API, produced exquisite report, and automatically generating exquisite RESTful API documentation based on history cases.",151,43,Java,wisdomtool,WisdomTool.org,Organization,China,35.86166,104.195397,,China,5699.5
-casbin/jcasbin,jcasbin,"An authorization library that supports access control models like ACL, RBAC, ABAC in Java",151,5,Java,casbin,Casbin,Or
+casbin/jcasbin,jcasbin,"An authorization library that supports access control models like ACL, RBAC, ABAC in Java",151,5,Java,casbin,Casbin,Organization,"San Fransisco, CA",,,,,5699.5
+pedroSG94/rtmp-rtsp-stream-client-java,rtmp-rtsp-stream-client-java,Library to stream in rtmp and rtsp for Android. All code in java,151,64,Java,pedroSG94,Pedro Sánchez,User,"Murcia, España",,,,,5699.5
+Blankeer/MDWechat,MDWechat,一个能让微信 Material Design 化的 Xposed 模块,151,14,Java,Blankeer,,User,GuangZhou,,,,,5699.5
+ZieIony/RandomData,RandomData,Random data generator,151,15,Java,ZieIony,,User,Warsaw,52.2296756,21.012228699999998,Warsaw,Poland,5699.5
+libin7278/ImageLoader,ImageLoader,基于Glide的二次封装，方便使用，而且增加了多种滤镜，加载本地多边形,151,16,Java,libin7278,libin,User,杭州,30.274084000000002,120.15507,Hangzhou,China,5699.5
+PeOS-China/CookMan,CookMan,一款菜谱查询工具Android APP,150,46,Java,PeOS-China,PeOS,User,,,,,,5743.5
+Arjun-sna/android-permission-checker-app,android-permission-checker-app,Android App to check requested permission details of all installed applications,150,19,Java,Arjun-sna,Arjun,User,Banglore,,,,,5743.5
+vert-x3/vertx-guide-for-java-devs,vertx-guide-for-java-devs,Vert.x guide for Java developers,150,61,Java,vert-x3,,Organization,The multiverse,,,,,5743.5
+zhangyd-c/springboot,springboot,"Springboot 多模块项目，整合了freemark,jsp,logback,mail,多数据源,mybatis,redis,docker,SSL等，旨在记录学习过程，同时帮助需要的同学",150,117,Java,zhangyd-c,yadong.zhang,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5743.5
+youseries/uflo,uflo,UFLO是一款基于Spring的纯Java流程引擎，支持并行、动态并行、串行、会签等各种流转方式。,149,54,Java,youseries,高杰,User,中国上海,31.230390399999997,121.4737021,Shanghai,China,5787.0
+eventtus/photo-editor-android,photo-editor-android,"Photo Editor SDK contains a lot of features like edit, scale, rotate and draw on images like Instagram stories.",149,56,Java,eventtus,Eventtus,Organization,,,,,,5787.0
+elkokc/reflector,reflector,Burp plugin able to find reflected XSS on page in real-time while browsing on site,149,43,Java,elkokc,,User,,,,,,5787.0
+sungerk/elestickheader,elestickheader,,148,17,Java,sungerk,sungerk,User,조선민주주의인민공화국,31.230415999999998,121.473701,Shanghai,China,5827.5
+javaexception/EntertainmentTop,EntertainmentTop,"这是一款Material Design风格的新闻App(视频图片音乐),采用MVP模式,RxJava+Retrofit开发..",148,23,Java,javaexception,安卓干货铺,User,China,,,,,5827.5
+themores/AntCaves,AntCaves,AndroidRouter  ActivityRouter,148,14,Java,themores,Themores,User,Mars,,,,,5827.5
+CodeXiaoMai/AndroidGeek,AndroidGeek,'Android Geek（Android极客）'一个专门为Android程序猿打造的极客应用。主要包括： 干货笔记、GitHub Trending、密码管理 .......,148,35,Java,CodeXiaoMai,小迈,User,Beijing China,39.90419989999999,116.4073963,Beijing,China,5827.5
+hzw1199/AndroidGpsStatus,AndroidGpsStatus,An android widget library to show GPS status and signal strength,147,25,Java,hzw1199,Adam Wu,User,Xiamen Fujian,24.479834,118.089425,Xiamen,China,5872.0
+LRH1993/LiveCircle,LiveCircle,Live圈 边学边做，不断完善,147,33,Java,LRH1993,Ruheng,User,"HangZhou,China",30.274084000000002,120.15507,Hangzhou,China,5872.0
+jaychang0917/SimpleAuth,SimpleAuth,"A easy to use social authentication android library. (Facebook, Google, Twitter, Instagram)",147,26,Java,jaychang0917,Jay,User,Hong Kong,22.396428,114.10949699999999,,Hong Kong,5872.0
+florent37/android-slidr,android-slidr,"Another android slider / seekbar, but different :-)",147,23,Java,florent37,Florent CHAMPIGNY,User,"Paris, France",46.227638,2.213749,,France,5872.0
+yanyusong/Y_DividerItemDecoration,Y_DividerItemDecoration,"A common RecyclerView divider , supports the LinearLayoutManager and the GridLayoutManager.",147,32,Java,yanyusong,yanyusong,User,China,35.86166,104.195397,,China,5872.0
+fanchaoo/hahu,hahu,参照知乎网做的一个简易版问答网站，后台采用Java语言，及Spring，SpringMVC，MyBatis等框架，模版引擎使用FreeMarker。数据库用到MySQL，Redis。,147,86,Java,fanchaoo,fanchaoo,User,北京,,,,,5872.0
+myinnos/AwesomeImagePicker,AwesomeImagePicker,"Awesome Image Picker library will pick images/gifs with beautiful interface. Supports image or gif, Single and Multiple Image selection.",147,23,Java,myinnos,Prabhakar Thota,User,Bangalore,,,,,5872.0
+dianbaer/startpoint,startpoint,startpoint是一个身份系统，提供用户、树形结构组、token等API。,147,34,Java,dianbaer,电霸儿,User,,,,,,5872.0
+safetysystemtechnology/android-shake-detector,android-shake-detector,Detect shaking of the device,146,18,Java,safetysystemtechnology,Safety System Technology,Organization,,,,,,5920.0
+SouthernBox/RippleLayout,RippleLayout,"Through drawBitmapMesh method, simulating the real water ripple effect.",146,29,Java,SouthernBox,,User,,,,,,5920.0
+XiqingLiu/RecordView,RecordView,安卓录音动效,146,0,Java,XiqingLiu,Richard Liu,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,5920.0
+PortSwigger/collaborator-everywhere,collaborator-everywhere,A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator,146,34,Java,PortSwigger,PortSwigger Web Security,Organization,,,,,,5920.0
+limeng32/mybatis.flying,mybatis.flying,mybatis最好的插件组合,146,4,Java,limeng32,limeng,User,,,,,,5920.0
+easyworld/PlayJumpJumpWithMouse,PlayJumpJumpWithMouse,用鼠标玩微信跳一跳,146,29,Java,easyworld,Easy World,User,China,35.86166,104.195397,,China,5920.0
+by-syk/NanoIconPack,NanoIconPack,简单轻量的图标包APP模板 Simple Android icon pack app dashboard,146,49,Java,by-syk,By_syk,User,,,,,,5920.0
+oracle/oracle-db-examples,oracle-db-examples,Examples of applications and tool usage for Oracle Database,145,40,Java,oracle,Oracle,Organization,"Redwood Shores, CA",37.536413399999994,-122.2455364,Redwood City,United States,5968.0
+GitLqr/LQRAudioRecord,LQRAudioRecord,集成录音与播音功能，使用简单方便,145,31,Java,GitLqr,CSDN_LQR,User,,,,,,5968.0
+hanks-zyh/LineHeightEditText,LineHeightEditText,Fix edittext lineHeight and cursor length when set lineSpacingExtra or lineSpacingMultiplier,145,15,Java,hanks-zyh,hanks,User,Beijing,,,,,5968.0
+amitshekhariitbhu/Android-MVP-Sample-Application,Android-MVP-Sample-Application,Android MVP Sample Application,145,57,Java,amitshekhariitbhu,AMIT SHEKHAR,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India,5968.0
+Appolica/Flubber,Flubber,Flubber is an elegant solution for making animations in Android. The library is developed and maintained by Appolica.,145,17,Java,Appolica,Appolica,Organization,"Sofia, Bulgaria",42.69770820000001,23.3218675,Sofia,Bulgaria,5968.0
+mxc19912008/Key-Algorithms,Key-Algorithms,,144,82,Java,mxc19912008,Xiaochun Ma,User,NY,,,,,6016.0
+frank-tan/SinsOfMemoryLeaks,SinsOfMemoryLeaks,Some common patterns of memory leaks in Android development and how to fix/avoid them,144,16,Java,frank-tan,Frank Tan,User,Melbourne Australia,-37.813627600000004,144.96305759999998,Melbourne,Australia,6016.0
+StevenKin/ZhihuQuestionsSpider,ZhihuQuestionsSpider,知乎问题爬虫,144,1,Java,StevenKin,coder_kin,User,,,,,,6016.0
+lihengming/java-codes,java-codes,:books:温故而知新，分享知识，快乐编码~,144,53,Java,lihengming,土豆,User,China,35.86166,104.195397,,China,6016.0
+codingapi/tx-lcn,tx-lcn,LCN 分布式事务框架 ，兼容 dubbo、springcloud、motan 框架，支持各种关系型数据库,144,51,Java,codingapi,codingapi,Organization,china,35.86166,104.195397,,China,6016.0
+UCodeUStory/DataStructure,DataStructure,"🍎🍏数据结构与算法总结,认真学习每一个算法，算法的时间复杂度、空间复杂度、分析算法特点以及应用，也希望大家一起来学习，一起面对各大面试官🍎🍏",144,12,Java,UCodeUStory,UStory,User,,,,,,6016.0
+thingsboard/thingsboard-gateway,thingsboard-gateway,Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols,143,52,Java,thingsboard,ThingsBoard - Open-source IoT Platform,Organization,,,,,,6066.5
+liyuechun/ComicBook,ComicBook,React-Native跨平台漫画App免费视频：http://www.kongyixueyuan.com/course/3528,143,39,Java,liyuechun,黎跃春,User,北京市昌平区珠江摩尔国际大厦6号楼2单元505,40.094094,116.2910508,,China,6066.5
+zaynr/Carpool-Android-Client,Carpool-Android-Client,,143,0,Java,zaynr,Zengyu Zeng,User,Hangzhou,30.274084000000002,120.15507,Hangzhou,China,6066.5
+webianks/ScrollChoice,ScrollChoice,:heavy_check_mark: Scrollable view which can be used to give different choices to user with nice ui.,143,29,Java,webianks,Ramankit Singh,User,"Gurugram, India",28.6139391,77.20902120000001,New Delhi,India,6066.5
+ZuYun/JPagerSlidingTabStrip,JPagerSlidingTabStrip,:fire:A useful tablayout modify from astuetz/PagerSlidingTabStrip,143,19,Java,ZuYun,贇,User,深圳,22.543096,114.05786499999999,Shenzhen,China,6066.5
+fourbrother/kstools,kstools,Android中自动爆破签名工具,143,66,Java,fourbrother,尼古拉斯.赵四,User,,,,,,6066.5
+Jay-Goo/WaveLineView,WaveLineView, A memory-friendly recording wave animation一款性能内存友好的录音波浪动画,143,20,Java,Jay-Goo,,Organization,,,,,,6066.5
+LoopPerfect/buckaroo,buckaroo,A source-only C++ package manager that will take you to your happy place 🏝️,142,10,Java,LoopPerfect,LoopPerfect,Organization,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,6117.5
+lexburner/zuul-gateway-demo,zuul-gateway-demo,zuul动态路由demo,142,61,Java,lexburner,xujingfeng,User,Shanghai China,31.230390399999997,121.4737021,Shanghai,China,6117.5
+javaee/grizzly,grizzly,"Writing scalable server applications in the Java™ programming language has always been difficult. Before the advent of the Java New I/O API (NIO), thread management issues made it impossible for a server to scale to thousands of users. The Grizzly NIO framework has been designed to help developers to take advantage of the Java™ NIO API.",142,29,Java,javaee,Java EE,Organization,,,,,,6117.5
+jackuhan/AndroidMonitor,AndroidMonitor,"Android开发辅助工具fps,topActivity,activity启动耗时,电量cpu内存分析。适配全机型悬浮窗权限。",142,24,Java,jackuhan,韩加虎(碧海蓝天),User,上海爱奇艺,,,,,6117.5
+mahendramahi/CalendarView,CalendarView,,142,18,Java,mahendramahi,Mahendra,User,jaipur,26.9124336,75.78727090000001,Jaipur,India,6117.5
+MOLO17/CustomizableCalendar,CustomizableCalendar,"CustomizableCalendar is a library that allows you to create your calendar, customizing UI and behaviour",141,18,Java,MOLO17,MOLO17,Organization,Italy,41.87194,12.56738,,Italy,6165.0
+BiglySoftware/BiglyBT,BiglyBT,Feature-filled Bittorrent client based on the Azureus open source project,141,18,Java,BiglySoftware,Bigly Software,Organization,,,,,,6165.0
+mitchtabian/Android-Instagram-Clone,Android-Instagram-Clone,Develop your own Instagram Clone App,141,95,Java,mitchtabian,Mitch Tabian,User,,,,,,6165.0
+fangyangdexingxing999/DragChannelManager,DragChannelManager,提交,141,2,Java,fangyangdexingxing999,勇敢的星,User,,,,,,6165.0
+Kaka252/FlexboxUtils,FlexboxUtils,关于Flexbox的封装类，用于展示标签和操作标签,141,12,Java,Kaka252,NeroIsNovice,User,,,,,,6165.0
+java-webbee/webBee,webBee,🐝 为乐趣而生的web垂直爬虫框架,141,30,Java,java-webbee,,Organization,,,,,,6165.0
+BriData/DBus,DBus,,141,51,Java,BriData,,User,,,,,,6165.0
+qiaoyhh/MvpBase,MvpBase,,140,43,Java,qiaoyhh,Joe,User,Beijing,,,,,6209.5
+kongpengcheng/SmartRoute,SmartRoute,,140,3,Java,kongpengcheng,,User,,,,,,6209.5
+xuningjack/AndroidNet,AndroidNet,JAVA网络、Android网络操作（网络请求、WebView相关、常用第三方框架OkHttp&Volley）,140,19,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,6209.5
+BaronZ88/Router,Router,Android 平台一个简单的路由框架，包含路由和参数注入两部分功能。,140,29,Java,BaronZ88,张磊,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,6209.5
+Kishanjvaghela/react-native-cardview,react-native-cardview,CardView for react-native (All Android version and iOS),139,17,Java,Kishanjvaghela,Kishan Vaghela,User,Ahmedabad,,,,,6256.5
+adroitandroid/Near,Near,A P2P library for Android for discovery on local networks using UDP and transfer in general using TCP sockets,139,22,Java,adroitandroid,PV,User,,,,,,6256.5
+zhaohaihao/CodeGenerator,CodeGenerator,"根据数据表结构,自动生成Model&Mapper&Service&ServiceImpl&Controller代码",139,12,Java,zhaohaihao,LessCodeLessBug,User," Hangzhou, Zhejiang, China",,,,,6256.5
+nvlad/yii2support,yii2support,Yii2 Support for PhpStorm / IntelliJ IDEA,139,18,Java,nvlad,Vlad Nikishin,User,,,,,,6256.5
+k4ch0w/PwnBack,PwnBack,Burp Extender plugin that generates a sitemap of a website using Wayback Machine,139,21,Java,k4ch0w,k4ch0w,User,,,,,,6256.5
+xuningjack/drag_click_view,drag_click_view,Two GridViews which support clicking and dragging to select or unselect item（支持点击、拖拽来进行选择、未选择item切换的双GridView）,139,19,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,6256.5
+yangxiaobinhaoshuai/NewGank,NewGank,GankIO客户端,139,25,Java,yangxiaobinhaoshuai,杨晓彬,User,China,35.86166,104.195397,,China,6256.5
+bignerdranch/Typesetter,Typesetter,Android tool to help display changes to text positioning.,138,9,Java,bignerdranch,Big Nerd Ranch,Organization,"Atlanta, GA, USA",33.7489954,-84.3879824,Atlanta,United States,6298.5
+lmller/gof-in-kotlin,gof-in-kotlin,Gang of Four patterns in Kotlin.,138,11,Java,lmller,Lovis,User,"Hamburg, Germany",,,,,6298.5
+GeorgeArgyrakis/FloatingKeyboard,FloatingKeyboard,A Draggable and Floating KeyboardView for android that several EditText's can register to use it.,138,28,Java,GeorgeArgyrakis,George Argyrakis,User,Athens,,,,,6298.5
+GoodieBag/ProtractorView,ProtractorView,A semicircular seekbar view for selecting angle from 0° to 180° :sparkles:,138,19,Java,GoodieBag,GoodieBag,Organization,,,,,,6298.5
+RahulJanagouda/StatusStories,StatusStories,"Status Stories = Snapchat stories, Instagram stories, Whatsapp Statuses, Facebook Messenger Stories.",138,19,Java,RahulJanagouda,Rahul Janagouda,User,Bengaluru,12.9715987,77.5945627,Bengaluru,India,6298.5
+line/centraldogma,centraldogma,"Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2",138,29,Java,line,LINE,Organization,"Tokyo, Japan",35.6894875,139.69170640000002,,Japan,6298.5
+fccaikai/AppUpdate,AppUpdate,android app update library,137,33,Java,fccaikai,蔡凯,User,杭州,,,,,6334.0
+sdaschner/scalable-coffee-shop,scalable-coffee-shop,"A scalable, event-driven and event-sourced Java EE application",137,55,Java,sdaschner,Sebastian Daschner,User,Munich,,,,,6334.0
+yixia/VitamioBundleStudio,VitamioBundleStudio,,137,61,Java,yixia,YIXIA INC,Organization,"Beijing, China",,,,,6334.0
+qcer/Algo-Practice,Algo-Practice,算法实践(JavaScript & Java)，排序，查找、树、两指针、动态规划等,136,39,Java,qcer,Qcer,User,CHINA,35.86166,104.195397,,China,6376.0
+sharewire/google-maps-clustering,google-maps-clustering,Fast marker clustering library for Google Maps Android API.,136,14,Java,sharewire,Sharewire,Organization,"The Hague, Netherlands",52.07049779999999,4.300699900000001,The Hague,Netherlands,6376.0
+hss01248/PhotoOut,PhotoOut,拍照/图片选择--裁剪--压缩 一条龙,136,28,Java,hss01248,水牛,User,shenzhen,,,,,6376.0
+qNone/AutoClick,AutoClick,基于Robotium的自动遍历方案,136,68,Java,qNone,HeyNiu,User,,,,,,6376.0
+CalebFenton/apkfile,apkfile,Android app analysis and feature extraction library,136,27,Java,CalebFenton,Caleb Fenton,User,"Union City, CA",37.59339179999999,-122.0438298,Union City,United States,6376.0
+corcoran/okhttp-oauth2-client,okhttp-oauth2-client,Android OAuth2 client using OkHttp,135,14,Java,corcoran,Jeff Corcoran,User,"Toronto, ON",,,,,6420.5
+wolearn/SmartTool,SmartTool,,135,16,Java,wolearn,,User,,,,,,6420.5
+forwardbob/AlpacaWebService,AlpacaWebService,AlpacaWebService,135,0,Java,forwardbob,,User,,,,,,6420.5
+XieShengda/NBALive,NBALive,,135,0,Java,XieShengda,Sender Xie,User,"Hangzhou, China",,,,,6420.5
+hieuvp/react-native-fingerprint-scanner,react-native-fingerprint-scanner,Provide Touch ID Fingerprint Scanner for React Native (Compatible with both Android and iOS),135,34,Java,hieuvp,Hieu Van,User,Vietnam,14.058323999999999,108.277199,,Vietnam,6420.5
+cangwang/Gank,Gank,,135,17,Java,cangwang,CangWang,User,,,,,,6420.5
+yangjie10930/EpMedia,EpMedia,Android上基于FFmpeg开发的视频处理框架，简单易用，体积小，帮助使用者快速实现视频处理功能。包含以下功能：剪辑，裁剪，旋转，镜像，合并，分离，添加LOGO，添加滤镜，添加背景音乐。,134,29,Java,yangjie10930,Yang,User,,,,,,6466.0
+mraible/jhipster4-demo,jhipster4-demo,Blog demo app with JHipster 4,134,59,Java,mraible,Matt Raible,User,"Denver, CO",39.739235799999996,-104.990251,Denver,United States,6466.0
+drtrang/druid-spring-boot,druid-spring-boot,Spring Boot Starter for Druid,134,27,Java,drtrang,Trang,User,Beijing.,,,,,6466.0
+Col-E/Recaf,Recaf,A modern Java bytecode editor,134,15,Java,Col-E,Matt,User,,,,,,6466.0
+pingcap/tispark,tispark,TiSpark is a thin layer built for running Apache Spark on top of TiDB/TiKV,134,26,Java,pingcap,PingCAP,Organization,,,,,,6466.0
+OvercastNetwork/ProjectAres,ProjectAres,"Bukkit/Bungee plugins from the former Overcast/Lifeboat PC network, including PGM",134,65,Java,OvercastNetwork,Overcast Network,Organization,Minecraft,,,,,6466.0
+google-developer-training/android-advanced,android-advanced,Solution apps for the apps that students create as they work through the Advanced Android Development training course created by Google Developer Training.,134,34,Java,google-developer-training,Google Developer Training,Organization,,,,,,6466.0
+androidstarters/androidstarters.com,androidstarters.com,Kickstart your next Android Application in 10 seconds.,134,10,Java,androidstarters,Android Starters,Organization,Bangalore,,,,,6466.0
+wenzhihao123/Android-loginsmooth-master,Android-loginsmooth-master,android 登录页面平滑动画，监听键盘弹起与收起,133,31,Java,wenzhihao123,wenzhihao,User,北京市朝阳区,39.921469,116.44310700000001,,China,6507.0
+GeeJoe/EdgeSlidingBack,EdgeSlidingBack,An Android library help app with edge sliding back like ios,133,15,Java,GeeJoe,GeeJoe,User,China,35.86166,104.195397,,China,6507.0
+wongcain/okuki,okuki,"Okuki is a simple, hierarchical navigation bus and back stack for Android, with optional Rx bindings, and Toothpick DI integration.",133,17,Java,wongcain,Cain Wong,User,Bay Area,37.8271784,-122.2913078,,United States,6507.0
+XBean1024/MoreTextView,MoreTextView,:fire:”QQ：交流群 ：192268854。简介：1、在文本末尾，实现点击“展开”---展开所有文本，并把“展开”改为“收起”；点击“收起”，则收起文本； 2、“展开”和“收起”紧跟文本末尾。并且不换行。,133,19,Java,XBean1024,欧阳慕远,User,,,,,,6507.0
+dingjikerbo/Android-ToolKit,Android-ToolKit,我自己写的各类小工具，常用共同库,133,0,Java,dingjikerbo,dingjikerbo,User,Beijing,39.90419989999999,116.4073963,Beijing,China,6507.0
+fossasia/zooracle,zooracle,"Identify and classify animals, live! http://zooracle.com",132,6,Java,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6550.0
+sunnyxibei/HenCoderPractice,HenCoderPractice,HenCoder「仿写酷界面」活动 - Flipboard 红板报的翻页效果,132,19,Java,sunnyxibei,西贝,User,Beijing,39.90419989999999,116.4073963,Beijing,China,6550.0
+aws/aws-sdk-java-v2,aws-sdk-java-v2,The official AWS SDK for Java - Version 2 (Developer Preview),132,32,Java,aws,Amazon Web Services,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,6550.0
+dlemmermann/CalendarFX,CalendarFX,"A Java framework for creating sophisticated calendar views (JavaFX 8 and 9 (no modules, yet.)).",132,21,Java,dlemmermann,Dirk Lemmermann,User,"Zurich, Switzerland",,,,,6550.0
+18Gray/ProCamera,ProCamera,ProCamera是一款基于Camera2 API的相机，实现了相机的常用功能，力求不断挖掘Camera2的巨大潜力，锻造一款在功能和设计上完美的相机产品。,132,48,Java,18Gray,EighteenGray,User,Beijing,39.90419989999999,116.4073963,Beijing,China,6550.0
+rahulrj/Apple-Music-Animation,Apple-Music-Animation,Apple music animation demo in Android,132,17,Java,rahulrj,RAHUL RAJA,User,"Pittsburgh,Pennsylvania",40.44062479999999,-79.9958864,Pittsburgh,United States,6550.0
+xuningjack/ImageLoader,ImageLoader,"Custom interface picture loading module, which supports Glide and so on（自定义接口的图片加载工具module，支持 Glide等）",132,16,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,6550.0
+InflationX/ViewPump,ViewPump,View Inflation you can intercept.,132,4,Java,InflationX,,Organization,,,,,,6550.0
+floyd-fuh/JKS-private-key-cracker-hashcat,JKS-private-key-cracker-hashcat,Nail in the JKS coffin - Cracking passwords of private key entries in a JKS file,131,12,Java,floyd-fuh,floyd,User,,,,,,6600.0
+hnsugar/android-debugdata-webtool,android-debugdata-webtool,"android debug database SharedPreference FileManager 查看并修改手机数据库、共享参数和文件管理的工具，优化了好多细节功能和代码,部分重写",131,3,Java,hnsugar,晴空的一滴雨,User,北京,39.90419989999999,116.4073963,Beijing,China,6600.0
+cwenao/springboot_cwenao,springboot_cwenao,learn springboot/springcloud,131,85,Java,cwenao,cwenao,User,"Shanghai, China",,,,,6600.0
+hss01248/ImageLoader,ImageLoader,"图片加载框架的api封装,涵盖fresco,glide,picasso.最大程度优化内存,防止OOM.最牛逼的大图预览,再怎么大,再怎么轮播,这些大图占内存也只有20M(单张)-40M(轮播时) ",131,39,Java,hss01248,水牛,User,shenzhen,,,,,6600.0
+antoxa2584x/PinCodeView,PinCodeView,Pretty PinCode view,130,10,Java,antoxa2584x,Anton Artemov,User,"Ukrain, Kiev",,,,,6649.0
+MZCretin/AutoUpdateProject,AutoUpdateProject,App 内部更新 多种更新界面选择 强制更新 防止多次下载,130,30,Java,MZCretin,穆仙念,User,,,,,,6649.0
+hussien89aa/DataStructureAndAlgorithms,DataStructureAndAlgorithms,"Write code that run faster, use less memory and prepare for your Job Interview",130,478,Java,hussien89aa,Hussein Alr
