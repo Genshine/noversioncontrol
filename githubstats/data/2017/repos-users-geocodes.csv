@@ -2370,4 +2370,122 @@ xiong-it/EasyPay,EasyPay,"A simple frame for mobile pay in China, easy to use & 
 anupcowkur/here-be-dragons,here-be-dragons,An Intellij/Android Studio plugin to help visualise side effects in your code.,306,13,Java,anupcowkur,Anup Cowkur,User,,,,,,2786.5
 yale8848/RetrofitCache,RetrofitCache,RetrofitCache让retrofit2+okhttp3+rxjava配置缓存如此简单。通过注解配置，可以针对每一个接口灵活配置缓存策略；同时让每一个接口方便支持数据模拟，可以代码减小侵入性，模拟数据可以从内存，Assets，url轻松获取。,304,31,Java,yale8848,Yale,User,Xi'an China,34.341574,108.93977,Xi'an,China,2800.0
 fashare2015/StackLayout,StackLayout,Android 层叠卡片控件，仿'探探app',303,36,Java,fashare2015,梁山boy,User,Shang Hai,,,,,2809.0
-tiann/epic,epic,Epic is the continution of Dexposed on ART(Supporting 4.0~8.1).,303,64,Java,tiann,weishu,User,"Beijing, China",39.9
+tiann/epic,epic,Epic is the continution of Dexposed on ART(Supporting 4.0~8.1).,303,64,Java,tiann,weishu,User,"Beijing, China",39.904211,116.407395,Beijing,China,2809.0
+brevent/Brevent,Brevent,Black prevent without Root,302,92,Java,brevent,,Organization,,,,,,2819.0
+jiang111/CProgressButton,CProgressButton,a circle progress button like iOS ,302,37,Java,jiang111,NewTab,User,"wuxi,China",31.49117,120.31191000000001,Wuxi,China,2819.0
+Zweihui/RxFingerPrinter,RxFingerPrinter,用rxjava简单封装了指纹识别，顺便撸了一个指纹控件,301,41,Java,Zweihui,Weihui Zhang,User,,,,,,2828.5
+russelarms/OffsetAnimator,OffsetAnimator,Animations driven by finger movement,300,34,Java,russelarms,Russel Arms,User,,,,,,2838.0
+idoideas/XOutOf10,XOutOf10,"Simulate iPhone X's bump on your Android screen, no 999$ needed.",299,33,Java,idoideas,Ido Ideas,User,Israel,,,,,2847.0
+Applandeo/Material-Calendar-View,Material-Calendar-View,Material Calendar View for Android,299,30,Java,Applandeo,Applandeo,Organization,,,,,,2847.0
+StylingAndroid/ViewPagerAnimator,ViewPagerAnimator,"A lightweight, yet powerful ViewPager animation library for Android",298,19,Java,StylingAndroid,Mark Allison,User,"Hertfordshire, UK",,,,,2856.0
+MFlisar/DragSelectRecyclerView,DragSelectRecyclerView,TouchListener that can be attached to any RecyclerView and handles multi selection for you,298,29,Java,MFlisar,,User,Austria,,,,,2856.0
+evrencoskun/TableView,TableView,"TableView is a powerful Android library for displaying complex data structures and rendering tabular data composed of rows, columns and cells.",298,23,Java,evrencoskun,Evren Coşkun,User,Istanbul,,,,,2856.0
+Othershe/NiceDialog,NiceDialog," A nice dialog, that is based on DialogFragment",297,58,Java,Othershe,Othershe,User,Xi’an,34.341574,108.93977,Xi'an,China,2863.0
+jshvarts/OfflineSampleApp,OfflineSampleApp,"Sample Offline-First MVVM app that uses Android Priority Job Queue, Room, Retrofit2, LiveData, LifecycleObserver, RxJava2, Dagger Android",297,58,Java,jshvarts,James Shvarts,User,NYC,,,,,2863.0
+AllenCoder/SuperUtils,SuperUtils,The utils Project,295,71,Java,AllenCoder,Allen,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,2879.0
+HeZaiJin/AnimatedRecordingView,AnimatedRecordingView,Android animated recording view,293,47,Java,HeZaiJin,张浩,User,Shanghai,31.230415999999998,121.473701,Shanghai,China,2894.5
+ebanx/swipe-button,swipe-button,A button that activates by swipe instead of touch,292,51,Java,ebanx,EBANX,Organization,"Curitiba, Brazil",,,,,2903.5
+UniversaBlockchain/universa,universa,"Universa network, node, client and API",291,84,Java,UniversaBlockchain,Universa,Organization,,,,,,2915.0
+tronprotocol/java-tron,java-tron,Java implementation of the Tron whitepaper,287,56,Java,tronprotocol,,Organization,,,,,,2951.0
+Lauzy/PlayPauseView,PlayPauseView,PlayPauseView 让播放、暂停按钮优雅的过渡,286,37,Java,Lauzy,Lauzy,User,ShangHai,31.230390399999997,121.4737021,Shanghai,China,2961.5
+hongyangAndroid/FitAndroid7,FitAndroid7,一行代码完成Android 7 FileProvider适配~,285,43,Java,hongyangAndroid,张鸿洋,User,"Beijing,China",39.904211,116.407395,Beijing,China,2972.0
+vivchar/RendererRecyclerViewAdapter,RendererRecyclerViewAdapter,A single adapter with multiple view types for the whole project,285,39,Java,vivchar,Vitaly Vivchar,User,"Russian Federation, Tomsk",56.5010397,84.9924506,Tomsk,Russia,2972.0
+renjianan/RecyclerBanner,RecyclerBanner,用RecyclerView实现无限轮播图，有普通版和3d版,283,47,Java,renjianan,,User,,,,,,2997.0
+sunzq19931016/Android-Studio-Plugins-cn,Android-Studio-Plugins-cn,希望整理Android Studio 最全面的开发插件。,283,40,Java,sunzq19931016,charles,User,beijing,39.90419989999999,116.4073963,Beijing,China,2997.0
+TellH/RecyclerStickyHeaderView,RecyclerStickyHeaderView,Sticky header view or suspending view for RecyclerView.,283,44,Java,TellH,乐华,User,GuangDong,23.132191,113.266531,,China,2997.0
+wordplat/ikvStockChart,ikvStockChart,"A simple stock charting library for Android, supporting time-line, k-line, macd, kdj, rsi, boll index, and interactive gesture operation, including left and right sliding to refresh, scaling, highlighting",282,78,Java,wordplat,,User,,,,,,3011.0
+jiangdongguo/KeepingAppAlive,KeepingAppAlive,Android 6.0以上系统APP保活方法归纳,281,65,Java,jiangdongguo,蒋东国,User,Guangzhou,,,,,3024.5
+uavorg/uavstack,uavstack,UAVStack Open Source  All in One Repository,281,106,Java,uavorg,UAVStack,Organization,,,,,,3024.5
+amanjeetsingh150/UberCarAnimation,UberCarAnimation,A demo app showing movement of car on map like in Uber.,281,89,Java,amanjeetsingh150,Amanjeet Singh,User,New Delhi,28.6139391,77.20902120000001,New Delhi,India,3024.5
+Firedamp/Rudeness,Rudeness,一种粗暴快速的Android全屏幕适配方案,281,44,Java,Firedamp,,User,"Hangzhou, China",30.274084000000002,120.15507,Hangzhou,China,3024.5
+wotomas/VoiceRipple,VoiceRipple, Voice Record Button that has ripple effect with users voice,281,32,Java,wotomas,Jimmy Kim,User,"Seoul, South Korea",37.566534999999995,126.9779692,Seoul,South Korea,3024.5
+youngkaaa/YViewPagerDemo,YViewPagerDemo,"[停止维护]YViewPager,support horizontal and vertical,based on support.v4.view.ViewPager",279,42,Java,youngkaaa,杨宽同学,User,"shannxi,china",35.3939908,109.18800470000001,,China,3045.5
+DingMouRen/FallingView,FallingView,雪花飘落效果，可以实现自定义,276,51,Java,DingMouRen,钉某人,User,,,,,,3076.0
+lurbas/MaterialMasterDetail,MaterialMasterDetail,Android Application sample of how to implement Master/Detail pattern that follows Material Design visual language,276,66,Java,lurbas,Lucas Urbas,User,"Barcelona, Spain",,,,,3076.0
+mirrajabi/search-dialog,search-dialog,A fast and customizable search dialog,275,50,Java,mirrajabi,Mohammad Mirrajabi,User,The Hague - Netherlands,52.07049779999999,4.300699900000001,The Hague,Netherlands,3083.5
+timebusker/spring-boot,spring-boot,spring-boot 项目实践总结,274,163,Java,timebusker,timebusker,User,,,,,,3091.0
+hust201010701/XDanmuku,XDanmuku,一种支持多种弹幕样式的弹幕视图控件,272,60,Java,hust201010701,orzangleli,User,,,,,,3112.0
+YiiGuxing/CompositionAvatar,CompositionAvatar,Android composition avatar. 仿QQ讨论组头像,271,40,Java,YiiGuxing,Yii.Guxing,User,,,,,,3126.5
+songxiaoliang/ReactNativeApp,ReactNativeApp,🔥1. 原生 App 中集成React Native、实现Android与React Native3种交互方式、2. 使用google-diff-match-patch生成补丁包，实现 React Native 热部署，增量热更新、3. 封装ReactActivity，实现JsBundle预加载，界面秒开优化、4.自定义ReactDegelate，实现Android现有布局添加RN视图,271,77,Java,songxiaoliang,Song,User,Beijing,39.90419989999999,116.4073963,Beijing,China,3126.5
+SpringForAll/spring-boot-starter-swagger,spring-boot-starter-swagger,自制spring boot starter for swagger 2.x，来试试吧，很好用哦~,270,85,Java,SpringForAll,SpringForAll,Organization,shanghai,,,,,3142.5
+mari-linhares/mnist-android-tensorflow,mnist-android-tensorflow,Handwritten digits classification from MNIST with TensorFlow on Android; Featuring Tutorial!,268,50,Java,mari-linhares,Marianne Linhares Monteiro,User,"Brasil, Paraíba, Campina Grande",,,,,3167.0
+cyrilmottier/QueryHighlighter,QueryHighlighter,,268,24,Java,cyrilmottier,Cyril Mottier,User,France,,,,,3167.0
+ghuiii/Fruit,Fruit,Fruit for Html just like Gson for Json.,268,31,Java,ghuiii,ghui,User,Beijing,39.904211,116.407395,Beijing,China,3167.0
+yannecer/NCalendar,NCalendar,"一款仿miui，仿小米，日历，周日历，月日历，月视图、周视图滑动切换，农历,Andriod Calendar , MIUI Calendar,小米日历",267,72,Java,yannecer,,User,,,,,,3180.5
+bkhezry/ExtraMapUtils,ExtraMapUtils,:earth_africa: the simple utility for google maps in android,266,31,Java,bkhezry,Behrouz Khezry,User,,,,,,3191.5
+shazam/reflow-animator,reflow-animator,A library for easily transitioning between sibling TextViews.,266,23,Java,shazam,Shazam,Organization,,,,,,3191.5
+HelloChenJinJun/NewFastFrame,NewFastFrame,终极组件化框架项目方案,265,63,Java,HelloChenJinJun,,User,,,,,,3203.5
+PlutoArchitecture/Pluto-Android,Pluto-Android,Android应用开发通用框架-作者minggo,264,38,Java,PlutoArchitecture,PlutoArchitecture,Organization,,,,,,3215.5
+ericmaxwell2003/ticTacToe,ticTacToe,"A simple tic tac toe app, to illustrate the use of MVC, MVP, and MVVM architectures to organize the application.",264,112,Java,ericmaxwell2003,Eric Maxwell,User,Columbus,39.9611755,-82.99879419999998,Columbus,United States,3215.5
+Justson/DingDingHelper,DingDingHelper,"钉钉打卡工具, 是一款基于Android设备上班自动打卡工具,再也不怕迟到了",262,59,Java,Justson,Justson,User,shenzhen,22.543096,114.05786499999999,Shenzhen,China,3233.5
+MorochoRochaDarwin/OneCalendarView,OneCalendarView,CalendarView Personalizado para desarrolladores android,261,35,Java,MorochoRochaDarwin,Darwin Morocho,User,,,,,,3241.0
+nekocode/TriangulationDrawable,TriangulationDrawable,Low Ploy Triangulation Animation on Android.,260,19,Java,nekocode,nekocode,User,"Beijing, China",39.904211,116.407395,Beijing,China,3251.0
+abel533/guns,guns,"Guns基于SpringBoot,致力于做更简洁的后台管理系统,完美整合springmvc + shiro + 分页插件PageHelper + 通用Mapper + beetl!Guns项目代码简洁,注释丰富,上手容易,同时Guns包含许多基础模块(用户管理,角色管理,部门管理,字典管理等10个模块),可以直接作为一个后台管理系统的脚手架.",259,135,Java,abel533,Liuzh,User,China,,,,,3265.0
+wpcfan/spring-boot-tut,spring-boot-tut,My Spring Boot Tutorial -- Focusing on minimizing the learning curve and get personal thoughts about dev involved all over the tutorial. Spring Boot教程，一个掺杂着个人学习经验的不断生长的教程。,259,127,Java,wpcfan,Peng Wang,User,"Shenyang, China",41.805699,123.431472,Shenyang,China,3265.0
+hgDendi/ExpandableRecyclerView,ExpandableRecyclerView,Customized recyclerViewAdapter which shows items in a 2-level list.,258,21,Java,hgDendi,hg.Dendi,User,China,35.86166,104.195397,,China,3279.0
+ittianyu/POCenter,POCenter,整合多个软件外包平台项目信息，替你筛选优质项目。MVP + RxJava + Retrofit + Material Design,257,68,Java,ittianyu,ittianyu,User,,,,,,3293.5
+androidthings/sample-googleassistant,sample-googleassistant,Google Assistant API sample for Android Things,257,56,Java,androidthings,Android Things,Organization,,,,,,3293.5
+yegor256/cactoos,cactoos,"Object-Oriented Java primitives, as an alternative to Google Guava and Apache Commons",256,53,Java,yegor256,Yegor Bugayenko,User,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,3308.5
+huzenan/EasyTransition,EasyTransition,A light Shared Elements Transition lib for Android.,256,40,Java,huzenan,Hu Zenan,User,"Shenzhen, Guangdong, China",22.543096,114.05786499999999,Shenzhen,China,3308.5
+kollerlukas/Camera-Roll-Android-App,Camera-Roll-Android-App,"Simple Galley App for Android, with lovely Material Design.",255,42,Java,kollerlukas,Lukas Koller,User,"Munich, Bavaria, DE",,,,,3324.0
+yiyibb/Zhihu,Zhihu,高仿知乎日报 Material Design + MVP + RxJava + Retrofit for android,255,88,Java,yiyibb,,User,,,,,,3324.0
+songixan/Wallpaper,Wallpaper,透明屏幕,255,74,Java,songixan,淞贤,User,,,,,,3324.0
+Ilhasoft/data-binding-validator,data-binding-validator,Android fields validation library based on data binding adapters.,255,22,Java,Ilhasoft,Ilhasoft,Organization,Brasil,,,,,3324.0
+aliab/Two-Step-Picker-Dialog,Two-Step-Picker-Dialog,Two step wheel picker dialog for Android,253,25,Java,aliab,Ali Abdollahi,User,,36.26046229999999,59.6167549,Mashhad,Iran,3346.5
+maoruibin/OneDrawable,OneDrawable,Use only one image to set a background with a click effect for the View,252,25,Java,maoruibin,咕咚,User,Beijing,39.904211,116.407395,Beijing,China,3361.0
+baidu/openrasp,openrasp,Open source RASP solution,252,89,Java,baidu,Baidu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,3361.0
+yanyiqun001/ganguo,ganguo,干果——简洁易用的gank客户端,252,36,Java,yanyiqun001,yanyiqun,User,,,,,,3361.0
+dueros/dcs-sdk-java,dcs-sdk-java,,252,86,Java,dueros,,Organization,,,,,,3361.0
+xuningjack/ServiceKeep,ServiceKeep,Android Service保活模块（5.0以下使用c来fork进程，5.0以上使用JobScheduler来保活进程）,252,48,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,3361.0
+simplezhli/ChangeTabLayout,ChangeTabLayout,一款炫酷的TabLayout,251,32,Java,simplezhli,唯鹿,User,Xi'an China,34.341574,108.93977,Xi'an,China,3377.5
+facebookincubator/Battery-Metrics,Battery-Metrics,Library that helps in instrumenting battery related system metrics.,250,13,Java,facebookincubator,Facebook Incubator,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,3389.5
+didixyy/BilibiliSearchView,BilibiliSearchView,,248,38,Java,didixyy,PengYue,User,,,,,,3402.5
+alidili/Demos,Demos,Demo合集,248,136,Java,alidili,杨乐,User,"Beijing,China",,,,,3402.5
+googlesamples/android-AutofillFramework,android-AutofillFramework,"This sample demonstrates the use of the Autofill Framework. It includes implementations of client Activities with views that should be autofilled, and a Service that can provide autofill data to client Activities.",248,126,Java,googlesamples,Google Samples,Organization,,,,,,3402.5
+drakeet/ToastCompat,ToastCompat,An Android library to HOOK and FIX Toast BadTokenException,247,14,Java,drakeet,drakeet,User,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,3414.5
+hkk595/Resizer,Resizer,An image resizing library for Android,247,28,Java,hkk595,Kakit Ho,User,,,,,,3414.5
+mercyblitz/segmentfault-lessons,segmentfault-lessons,Segment Fault 在线讲堂 代码工程,245,124,Java,mercyblitz,Mercy,User,"Hangzhou, China",30.274084000000002,120.15507,Hangzhou,China,3446.5
+nanchen2251/AppManager,AppManager,:fire: An elegant exit application and restart mechanism management.,244,33,Java,nanchen2251,LiuShilin,User,Chengdu China,30.572815000000002,104.066801,Chengdu,China,3462.5
+chaokunyang/microservices-event-sourcing,microservices-event-sourcing,Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践,243,140,Java,chaokunyang,Chaokun Yang,User,Shenzhen China,22.543096,114.05786499999999,Shenzhen,China,3477.5
+rjsvieira/floatingMenu,floatingMenu,An orbit-like action button,243,28,Java,rjsvieira,Ricardo Vieira,User,Portugal,39.39987199999999,-8.224454,,Portugal,3477.5
+googlecodelabs/android-lifecycles,android-lifecycles,,243,94,Java,googlecodelabs,Google Codelabs,Organization,,,,,,3477.5
+dockersamples/atsea-sample-shop-app,atsea-sample-shop-app,A sample app that uses a Java Spring Boot backend connected to a database to display a fictitious art shop with a React front-end.,242,145,Java,dockersamples,Docker Samples,Organization,,,,,,3494.5
+PrivacyStreams/PrivacyStreams,PrivacyStreams,"Access and process various types of personal data in Android with a set of easy, uniform, and privacy-friendly APIs.",242,32,Java,PrivacyStreams,,Organization,,,,,,3494.5
+sergiiz/RxBasicsKata,RxBasicsKata,Practical challenges for RxJava learners,242,56,Java,sergiiz,Sergii Zhuk,User,Berlin,,,,,3494.5
+czy1121/bannerview,bannerview,横幅广告图片轮播控件,242,42,Java,czy1121,ezy,User,东莞,23.020673000000002,113.7518,Dongguan,China,3494.5
+myinnos/AlphabetIndex-Fast-Scroll-RecyclerView,AlphabetIndex-Fast-Scroll-RecyclerView,A Powerful AlphabetIndex FastScroller Library for Android's RecyclerView! ,241,41,Java,myinnos,Prabhakar Thota,User,Bangalore,,,,,3513.5
+santalu/mask-edittext,mask-edittext,A simple edittext with mask,240,18,Java,santalu,Fatih SANTALU,User,Istanbul/Turkey,41.0082376,28.978358899999996,Istanbul,Turkey,3531.0
+mybatis-book/book,book,MyBatis 从入门到精通,240,93,Java,mybatis-book,,Organization,,,,,,3531.0
+mylhyl/Android-CircleDialog,Android-CircleDialog,仿IOS圆角对话框、进度条、列表框、输入框，支持横竖屏切换,240,57,Java,mylhyl,石头,User,,,,,,3531.0
+Werb/MediaUtils,MediaUtils,MediaUtils : a demo of record audio and video.,240,59,Java,Werb,wanbo,User,"Beijing, China",,,,,3531.0
+lrannn/SimpleRecorder,SimpleRecorder,A simple recorder  for android.,239,19,Java,lrannn,最棒的然,User,,,,,,3547.5
+florent37/Android-NoSql,Android-NoSql,"Lightweight, simple structured NoSQL database for Android",239,25,Java,florent37,Florent CHAMPIGNY,User,"Paris, France",46.227638,2.213749,,France,3547.5
+frogermcs/Google-Actions-Java-SDK,Google-Actions-Java-SDK,Unofficial Google Actions Java SDK - for Android engineers and all Java lovers,237,20,Java,frogermcs,Mirosław Stanek,User,Cracow,50.06465009999999,19.9449799,Kraków,Poland,3576.5
+yangchaojiang/DemoLoadView,DemoLoadView,"切换加载中，加载失败，加载成功布局，定义一个LoadViewHelper所有界面通用，通同时也支持单个自定义无需添加布局中view, 大大降低耦合性",237,8,Java,yangchaojiang,,User,Beijing,,,,,3576.5
+WangGanxin/LoadDataLayout,LoadDataLayout,App公共组件：加载数据Layout，高效开发必备！,237,50,Java,WangGanxin,守望君,User,"Guangzhou,China",,,,,3576.5
+saschpe/android-customtabs,android-customtabs,Chrome CustomTabs for Android demystified. Simplifies development and provides higher level classes including fallback in case Chrome isn't available on device.,236,20,Java,saschpe,Sascha Peilicke,User,Germany,,,,,3591.5
+yangfuhai/jboot,jboot,Jboot是一个基于jfinal 和 undertow开发的微服务框架。提供了AOP、RPC、分布式缓存、限流、降级、熔断、统一配置中心、swagger api自动生成、Opentracing数据追踪、metrics数据监控、分布式session、代码生成器、shiro安全控制等功能。,236,86,Java,yangfuhai,Michael Yang,User,beijing,39.90419989999999,116.4073963,Beijing,China,3591.5
+daquexian/FlexibleRichTextView,FlexibleRichTextView,"A view showing LaTeX, images, codes... You can customize tags as you want",235,28,Java,daquexian,daquexian,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,3608.5
+pinterest/doctorkafka,doctorkafka,DoctorKafka is a service for Kafka cluster auto healing and workload balancing,234,28,Java,pinterest,Pinterest,Organization,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,3627.0
+rsksmart/rskj,rskj,RSKj is a Java implementation of the RSK protocol.,234,50,Java,rsksmart,RSK Labs,Organization,,,,,,3627.0
+alibaba/jvm-sandbox,jvm-sandbox,Real - time non-invasive AOP framework container based on JVM,234,66,Java,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,3627.0
+WanAndroid/LiveWallPaper,LiveWallPaper,【玩Android】【第一期】视频墙纸,234,145,Java,WanAndroid,,Organization,,,,,,3627.0
+zhangliangming/HappyPlayer5,HappyPlayer5,"乐乐音乐5.0主要是基于ijkplayer框架开发的Android音乐播放器，它支持多种音频格式(mp3,ape,flac等)和动感歌词(ksc,krc,hrcs等)、翻译和音译歌词，界面高仿酷狗。",234,77,Java,zhangliangming,,User,,,,,,3627.0
+chaychan/PowerfulViewLibrary,PowerfulViewLibrary,"Some powerful view,to be continued",234,50,Java,chaychan,chaychan,User,,,,,,3627.0
+TNG/ArchUnit,ArchUnit,"A Java architecture test library, to specify and assert architecture rules in plain Java",233,16,Java,TNG,TNG Technology Consulting GmbH,Organization,"Munich, Germany",,,,,3648.0
+PhilippC/keepass2android,keepass2android,Password manager app for Android,233,23,Java,PhilippC,,User,,,,,,3648.0
+jakebonk/BoardView,BoardView,A draggable boardview for java android (Kanban style),233,20,Java,jakebonk,Jacob Bonk,User,,,,,,3648.0
+mthli/Mount,Mount,"mount/umount apps that you don't like on Android, without root.",232,26,Java,mthli,李明亮,User,Beijing,39.90419989999999,116.4073963,Beijing,China,3667.0
+w568w/fuckView,fuckView,"Well,an app which can block anything you want to block in any app.It's experimental and has many bugs.",231,7,Java,w568w,w568w,User,"An Hui Province,The People's Republic of China,Asia",30.600677299999997,117.92490020000001,,China,3682.0
+548986/Pet,Pet,仿有宠商城APP,231,86,Java,548986,,User,,,,,,3682.0
+MonkeyMushroom/MiClockView,MiClockView,高仿小米时钟,231,43,Java,MonkeyMushroom,Mr.Monkey,User,Beijing China,,,,,3682.0
+fython/BreadcrumbsView,BreadcrumbsView,Material Design Breadcrumbs Navigation Widget on Android,230,12,Java,fython,Gwo Fung,User,"Canton, China",23.020673000000002,113.7518,Dongguan,China,3702.0
+iielse/DemoProjects,DemoProjects,为了更好的交互体验,229,71,Java,iielse,else,User,China ShangHai,31.230415999999998,121.473701,Shanghai,China,3720.5
+baidu/Elasticsearch,Elasticsearch,Baidu Elasticsearch,229,50,Java,baidu,Baidu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,3720.5
+wustor/GangedRecyclerview,GangedRecyclerview,Recyclerview实现双列表联动，列表悬停,229,60,Java,wustor,wustor,User,"ShangHai,China",31.230390399999997,121.4737021,Shanghai,China,3720.5
+fcannizzaro/jsoup-annotations,jsoup-annotations,Jsoup Annotations POJO ,228,15,Java,fcannizzaro,Francesco Saverio Cannizzaro,User,"Palermo , Italy",38.1156879,13.361267100000001,Palermo,Italy,3737.5
+Instagram/ig-lazy-module-loader,ig-lazy-module-loader,Library that implements module lazy loading. ,227,14,Java,Instagram,Instagram,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3753.5
+jahirfiquitiva/FABsMenu,FABsMenu,A simple library to use a menu of FloatingActionButtons from Design Support Library that follow Material Design Guidelines,226,19,Java,jahirfiquitiva,Jahir Fiquitiva,User,"Duitama, Colombia",5.8268951,-73.0329273,Duitama,Colombia,3770.5
+dianbaer/anychat,anychat,anychat是一个极简纯净的websocket聊天插件，支持对接任何身份系统，嵌入方只需提供三个API即可进行实时通讯。支持个人聊天、群聊天、上下线、查看聊天记录、离线消息推送等，服务器绝对控制权的推送机制，合理的线程设计，支持mongodb存储聊天记录，天生的嵌入式支持。,226,42,Java,dianbaer,电霸儿,User,,,,,,3770.5
+Karumi/Shot,Shot,Gradle plugin developed to facilitate screenshot testing for Android,226,14,Java,Karumi,Karumi,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain,3770.5
+OpenLiberty/open-liberty,open-liberty,"Open Liberty is a highly composable, fast to start, dynamic application
