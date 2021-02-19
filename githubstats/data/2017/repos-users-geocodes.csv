@@ -2488,4 +2488,121 @@ Instagram/ig-lazy-module-loader,ig-lazy-module-loader,Library that implements mo
 jahirfiquitiva/FABsMenu,FABsMenu,A simple library to use a menu of FloatingActionButtons from Design Support Library that follow Material Design Guidelines,226,19,Java,jahirfiquitiva,Jahir Fiquitiva,User,"Duitama, Colombia",5.8268951,-73.0329273,Duitama,Colombia,3770.5
 dianbaer/anychat,anychat,anychat是一个极简纯净的websocket聊天插件，支持对接任何身份系统，嵌入方只需提供三个API即可进行实时通讯。支持个人聊天、群聊天、上下线、查看聊天记录、离线消息推送等，服务器绝对控制权的推送机制，合理的线程设计，支持mongodb存储聊天记录，天生的嵌入式支持。,226,42,Java,dianbaer,电霸儿,User,,,,,,3770.5
 Karumi/Shot,Shot,Gradle plugin developed to facilitate screenshot testing for Android,226,14,Java,Karumi,Karumi,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain,3770.5
-OpenLiberty/open-liberty,open-liberty,"Open Liberty is a highly composable, fast to start, dynamic application
+OpenLiberty/open-liberty,open-liberty,"Open Liberty is a highly composable, fast to start, dynamic application server runtime environment ",226,197,Java,OpenLiberty,Open Liberty Project,Organization,Alpha Centauri,30.157255,-97.750585,Austin,United States,3770.5
+AAkira/CompoundIconTextView,CompoundIconTextView,An android library that is able to set a vector drawable at text view pre-Lollipop.,224,19,Java,AAkira,Akira Aratani,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,3803.0
+developer-shivam/ChanelView,ChanelView,,224,32,Java,developer-shivam,Shivam Satija,User,"New Delhi, India",28.6139391,77.20902120000001,New Delhi,India,3803.0
+ApplikeySolutions/OrionPreview,OrionPreview,🅾️ OrionPreview is a simple animation with tanslation or scale views written in Java.,222,33,Java,ApplikeySolutions,Applikey Solutions,Organization,"Ukraine, Kharkiv",,,,,3837.5
+rememberber/WeSync,WeSync,用Java Swing写的数据库同步软件,222,125,Java,rememberber,周波,User,China,,,,,3837.5
+pagehelper/pagehelper-spring-boot,pagehelper-spring-boot,pagehelper-spring-boot,221,64,Java,pagehelper,Liuzh,User,China,35.86166,104.195397,,China,3854.5
+rememberber/WePush,WePush,专注批量推送的小而美的工具，目前支持的消息类型：微信模板消息、微信客服消息、阿里大于模板短信 。,221,110,Java,rememberber,周波,User,China,,,,,3854.5
+fashare2015/MVVM-JueJin,MVVM-JueJin,高仿'掘金Android App': databinding + kotlin + rx 的优雅实践。(持续打磨中~),221,32,Java,fashare2015,梁山boy,User,Shang Hai,,,,,3854.5
+joyrun/MixPush,MixPush,Android融合推送MixPush集成多家推送平台，共享系统级推送，杀死APP也能收到推送,220,30,Java,joyrun,悦跑圈,Organization,广东 广州,23.12911,113.264385,Guangzhou,China,3872.5
+zhangxuyang321/StepView,StepView,流程步骤指示器 stepview,220,46,Java,zhangxuyang321,zhangxy,User,BeiJing,39.90419989999999,116.4073963,Beijing,China,3872.5
+NickstaDB/BaRMIe,BaRMIe,Java RMI enumeration and attack tool.,220,40,Java,NickstaDB,Nicky Bloor,User,United Kingdom,55.378051,-3.435973,,United Kingdom,3872.5
+livesun/GradientTextView,GradientTextView,一个颜色逐渐改变的textview，类似歌词效果,220,18,Java,livesun,孙俊卿,User,,,,,,3872.5
+florent37/RxGps,RxGps,Finding current location cannot be easier on Android !,219,16,Java,florent37,Florent CHAMPIGNY,User,"Paris, France",46.227638,2.213749,,France,3893.0
+youseries/urule,urule,URULE是一款基于RETE算法的纯Java规则引擎，提供规则集、决策表、决策树、评分卡，规则流等各种规则表现工具及基于网页的可视化设计器，可快速开发出各种复杂业务规则。,219,90,Java,youseries,高杰,User,中国上海,31.230390399999997,121.4737021,Shanghai,China,3893.0
+stylefeng/Guns,Guns,"Guns基于SpringBoot,致力于做更简洁的后台管理系统,完美整合springmvc + shiro + mybatis-plus + beetl!Guns项目代码简洁,注释丰富,上手容易,同时Guns包含许多基础模块(用户管理,角色管理,部门管理,字典管理等10个模块),可以直接作为一个后台管理系统的脚手架.Guns v3.0新增rest api服务,提供对接服务端接口的支持,并利用jwt token鉴权机制给予客户端的访问权限,传输数据进行md5签名保证传输过程数据的安全性!",219,150,Java,stylefeng,冯硕楠,User,,,,,,3893.0
+totond/BooheeRuler,BooheeRuler,仿写薄荷健康体重选择控件——Hencoder「仿写酷界面」活动,218,33,Java,totond,Yanzhikai,User,,,,,,3911.0
+mateuszk87/BadIntent,BadIntent,"Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite",218,39,Java,mateuszk87,Mateusz,User,"Berlin, DE",52.52000659999999,13.404954,Berlin,Germany,3911.0
+jcodeing/AnchorImageView,AnchorImageView,"课本点读 An ImageView that anchors points according to the pixels, locates the anchored area.",217,36,Java,jcodeing,K Sun,User,,,,,,3925.5
+jwpttcg66/NettyGameServer,NettyGameServer,"使用netty4.X实现的手机游戏服务器,支持tcp,udp,http,websocket链接，采用protobuf自定义协议栈进行网络通信,支持rpc远程调用,使用mybatis3支持db存储分库分表，支持异步mysql存储，db保存时同步更新reids缓存。 使用ExcelToCode工程，将excel数据生成java类和json数据字典，DictService直接读取json，减少数据字典部分代码。使用game-executor工程，增加游戏内的异步事件全局服务, 支持事件sharding,均衡的异步执行事件逻辑",217,129,Java,jwpttcg66,,User,,,,,,3925.5
+XingdongYu/QQNaviView,QQNaviView,模仿手机QQ底部导航栏Icon拖拽效果,216,48,Java,XingdongYu,,User,,,,,,3944.0
+yuantiku/ytk-learn,ytk-learn,"Ytk-learn is a distributed machine learning library which implements most of popular machine learning algorithms(GBDT, GBRT, Mixture Logistic Regression, Gradient Boosting Soft Tree, Factorization Machines, Field-aware Factorization Machines, Logistic Regression, Softmax, SVM).",215,52,Java,yuantiku,猿题库技术团队,Organization,Beijing,,,,,3967.0
+steelkiwi/SeparateShapesView,SeparateShapesView,Simple custom ViewGroup with two shapes inside and simple scale animation,215,31,Java,steelkiwi,Steelkiwi Inc.,Organization,"Ukraine, Odessa",46.482526,30.723309499999996,Odesa,Ukraine,3967.0
+frankodoom/MotionVehicleTracker,MotionVehicleTracker,This is a basic implementation of Location Tracker using Google Maps Api,215,69,Java,frankodoom,Frank Arkhurst Odoom,User,Accra,5.6037168,-0.1869644,Accra,Ghana,3967.0
+adityagohad/HorizontalPicker,HorizontalPicker,"A simple, customizable and easy to use picker where centre view is scaled up",214,22,Java,adityagohad,Aditya Gohad,User,Mumbai,,,,,3988.5
+tonyofrancis/Fetch,Fetch,A better in app Download Manager for Android,214,39,Java,tonyofrancis,Tonyo Francis,User,"New York, New York",36.102371500000004,-115.17455590000002,Las Vegas,United States,3988.5
+KingsMentor/Luhn,Luhn,"Smooth UI for Credit Card Entry on Android device, perform check for supported credit card types , pan length and luhn check. Inspired by Uber credit card entry interface",212,19,Java,KingsMentor,Nosakhare Belvi,User,"Lagos , Nigeria",6.5243793,3.3792057,Lagos,Nigeria,4022.0
+schibsted/strongbox,strongbox,A secret manager for AWS,212,11,Java,schibsted,Schibsted Media Group,Organization,All over,45.0216195,-93.4880164,Minneapolis,United States,4022.0
+hacktoberfest17/programming,programming,Code a program in a language of your choice. ,212,809,Java,hacktoberfest17,Hacktoberfest'17,Organization,"Bangalore, India",,,,,4022.0
+quangctkm9207/mvp-android-arch-component,mvp-android-arch-component,"Android MVP sample adapts with new Android architecture components (Lifecycle, Room).",211,54,Java,quangctkm9207,Quang Nguyen,User,"Kyoto, Japan",35.01163629999999,135.7680294,Kyoto,Japan,4046.0
+fossasia/pslab-android,pslab-android,PSLab Android App https://github.com/fossasia/pslab-android/raw/apk/app-debug.apk,211,104,Java,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,4046.0
+CNCoderX/WheelView,WheelView,The wheel widget for Android   滚轮选择控件,210,6,Java,CNCoderX,CNCoderX,User,China,35.86166,104.195397,,China,4067.0
+wolfboys/opencron,opencron,"opencron,a better crontab!Let's crontab easy!",209,75,Java,wolfboys,benjobs,User,,,,,,4089.0
+airsonic/airsonic,airsonic," :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)",209,40,Java,airsonic,,Organization,,,,,,4089.0
+OptionalDay/spring-cloud-vue,spring-cloud-vue,cloud-vue是一套基于springcloud + mybatis + vue全家桶（Vue2.x + Vue-router2.x + Vuex）的前后端分离框架. 使用Maven对项目进行模块化管理，提高项目的易开发性、扩展性。 系统包括分布式配置、eureka注册中心、服务中心、zipkin分布式跟踪等。 每个模块服务多系统部署，注册到同一个eureka集群服务注册中心，实现集群部署。,208,123,Java,OptionalDay,leo,User,china,,,,,4110.0
+yanbober/SlideLayout,SlideLayout,一个超级迷你轻量级全方向完美侧滑控件，兼容各种嵌套与被嵌套滑动控件。,208,27,Java,yanbober,yanbo,User,Zhuhai,22.270978,113.576678,Zhuhai,China,4110.0
+ziwenxie/leafer,leafer,面向WEB端的私人笔记管理平台,207,61,Java,ziwenxie,马俊杰,User,"ShangHai, China",,,,,4129.5
+santalu/diagonal-imageview,diagonal-imageview,A simple imageview which allows you to create diagonal cut views easily,207,25,Java,santalu,Fatih SANTALU,User,Istanbul/Turkey,41.0082376,28.978358899999996,Istanbul,Turkey,4129.5
+yu199195/happylifeplat-netty,happylifeplat-netty,,207,35,Java,yu199195,流浪诗人丶,User,深圳,22.543096,114.05786499999999,Shenzhen,China,4129.5
+yangchaojiang/UtilsDmo,UtilsDmo,jsonManager json解析 采用 fastjson  TimeUtils 时间类 除了时间格式化，提供用于视频的时长，和语音的时长的时间格式化  YUtils 类例如 获取屏幕宽,207,4,Java,yangchaojiang,,User,Beijing,,,,,4129.5
+FastBootWeixin/FastBootWeixin,FastBootWeixin,基于SpringBoot的微信公众号快速开发框架，注解方式处理全部逻辑，重新定义公众号开发,206,51,Java,FastBootWeixin,,Organization,,,,,,4151.5
+shellljx/FuckingVolumeSlider,FuckingVolumeSlider,android实现的反人类音量滑块,206,18,Java,shellljx,li jinxiang,User,"ShangHai,China",,,,,4151.5
+MyLifeMyTravel/CircleProgress,CircleProgress,Android自定义圆形进度条,205,53,Java,MyLifeMyTravel,厉圣杰,User,宁波大学,29.908581199999997,121.63723370000001,Ningbo Shi,China,4172.0
+vpaliyX/Material-Motion,Material-Motion,This repository contains examples of reveal animations.,205,18,Java,vpaliyX,Vasyl Paliy,User,Arkansas,35.20105,-91.83183340000001,,United States,4172.0
+xuningjack/ProcessKeep,ProcessKeep,Two Services are keeping each other alive. You can use this project. (使用双进程守护来实现2个Service的保活，2个进程相互监听。通过AIDL实现。),204,34,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,4194.0
+czy1121/sdk3rd,sdk3rd,第三方SDK集成库，授权/分享/支付,204,28,Java,czy1121,ezy,User,东莞,23.020673000000002,113.7518,Dongguan,China,4194.0
+robinhowlett/chart-parser,chart-parser,Parses horse racing result charts,204,12,Java,robinhowlett,Robin Howlett,User,"Boulder, CO",40.0149856,-105.2705456,Boulder,United States,4194.0
+781015928/AopUtils,AopUtils,,204,4,Java,781015928,czg,User,,,,,,4194.0
+groupon/grox,grox,Grox helps to maintain the state of Java / Android apps.,204,10,Java,groupon,Groupon,Organization,"Chicago, IL, USA",41.8781136,-87.62979820000001,Chicago,United States,4194.0
+ladingwu/ImageLoaderFramework,ImageLoaderFramework,"打造统一的图片加载框架，融合Glide，Fresco,不侵入业务代码",204,33,Java,ladingwu,ladingwu,User,China GuangZhou,23.12911,113.264385,Guangzhou,China,4194.0
+akarnokd/RxJava3-preview,RxJava3-preview,"Preview for version 3 of RxJava, the modern ReactiveX style library for composing (a)synchronous sequences of data and events",203,15,Java,akarnokd,David Karnok,User,"Budapest, Hungary",47.497912,19.040235,Budapest,Hungary,4213.0
+oubowu/StickyItemDecoration,StickyItemDecoration,强大的RecyclerView粘性头部,202,16,Java,oubowu,Ou Bowu,User,Guangzhou,23.12911,113.264385,Guangzhou,China,4226.5
+kevalpatel2106/EmoticonGIFKeyboard,EmoticonGIFKeyboard,An advance Emoticons & GIF keyboard.,201,29,Java,kevalpatel2106,Keval Patel,User,Ahemedabad,23.022505,72.57136209999999,Ahmedabad,India,4246.5
+iammert/dagger-android-injection,dagger-android-injection,Sample project explains Dependency Injection in Android using dagger-android framework. ,201,46,Java,iammert,Mert Şimşek,User,Istanbul,41.0082376,28.978358899999996,Istanbul,Turkey,4246.5
+XndroidDev/Xndroid,Xndroid,A proxy software for Android based on XX-Net and fqrouter.,200,36,Java,XndroidDev,,User,,,,,,4266.5
+MeetYouDevs/Android-Skin,Android-Skin,A dynamic skin framwork for Android,200,27,Java,MeetYouDevs,美柚,Organization,厦门,,,,,4266.5
+appwise-labs/NoInternetDialog,NoInternetDialog,A beautiful Dialog which appears when you have lost your internet connection.,200,34,Java,appwise-labs,Appwise,Organization,,,,,,4266.5
+JaceyRx/Examination_System,Examination_System,一个简单的教务查询系统（主要技术SpringMVC + Spring + Mybatis + Shiro + Bootstrap）,199,126,Java,JaceyRx,,User,,,,,,4286.0
+googlesamples/android-DownloadableFonts,android-DownloadableFonts,,199,44,Java,googlesamples,Google Samples,Organization,,,,,,4286.0
+superSp/RulerView,RulerView,一个可以滑动选择的尺子view，可以选择体重身高等信息，通过刷新当前屏幕模拟滑动效果，达到暂用内存最小的目的。。。,199,24,Java,superSp,lsp,User,山西省太原市,,,,,4286.0
+ThirtyDegreesRay/OpenHub,OpenHub,"An open source GitHub Android client app, faster and concise.",199,25,Java,ThirtyDegreesRay,30度的射线,User,"NanJing,China",32.060255,118.796877,Nanjing,China,4286.0
+Airsaid/AccountBook,AccountBook,一个数据存储使用的 Leancloud、架构采用 MVP 的记账本 APP。（目前正在不断完善中）,198,45,Java,Airsaid,Airsaid,User,"Beijing, China",,,,,4308.0
+michelelacorte/FlickLauncher,FlickLauncher,Pixel Launcher for everyone! ,198,63,Java,michelelacorte,Michele Lacorte,User,"Bologna, Italy",,,,,4308.0
+reenWYJ/aude-mvc,aude-mvc,轻量级的webMVC框架，IOC和AOP都包含其中,197,10,Java,reenWYJ,reen,User,成都,30.572815000000002,104.066801,Chengdu,China,4328.5
+CarGuo/CustomActionWebView,CustomActionWebView,自定义webview长按文本弹出选项，并且点击后返回选项与所选中的文本，你的webview不再只支持系统的复制等功能了，长按web文本实现文本一键收藏、分享，就是这么简单。Demo中附带对webView的详细使用：api详解，配置详解，js多种通信方式详解。,197,43,Java,CarGuo,Shuyu Guo,User,China,35.86166,104.195397,,China,4328.5
+kannan-anbu/glazy-viewpager,glazy-viewpager,Android ViewPager template with cool animation.,197,35,Java,kannan-anbu,Kannan Anbarasan,User,"Tamilnadu, India",11.1271225,78.65689420000001,,India,4328.5
+yaozs/ImageShowPicker,ImageShowPicker,单纯的上传图片展示控件,196,42,Java,yaozs,yaozs,User,,,,,,4350.0
+ihsanbal/Wiv,Wiv,Window image viewer,196,27,Java,ihsanbal,ihsan BAL,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,4350.0
+XiqingLiu/JesMVP,JesMVP,Android MVP框架,196,1,Java,XiqingLiu,Richard Liu,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,4350.0
+Vexigon/Material-Onboarding,Material-Onboarding,A short and simple library which allows easy replication of several* app onboarding techniques.,196,25,Java,Vexigon,"Vexigon, LLC",Organization,"Irvine, California, USA",33.6845673,-117.82650490000002,Irvine,United States,4350.0
+florent37/NewAndroidArchitecture-Component-Github,NewAndroidArchitecture-Component-Github,Sample project based on the new Android Component Architecture ,195,25,Java,florent37,Florent CHAMPIGNY,User,"Paris, France",46.227638,2.213749,,France,4375.0
+loonggg/RecyclerViewBanner,RecyclerViewBanner,使用RecyclerView做的轮播图,195,25,Java,loonggg,loonggg,User,帝都-非著名程序员,,,,,4375.0
+sickworm/MISportsConnectWidget,MISportsConnectWidget,【仿写酷界面】【HenCoder】仿小米运动的运动记录界面,195,30,Java,sickworm,Chen Hao,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,4375.0
+385841539/BarrageView,BarrageView,自定义弹幕View，简单实现安卓弹幕，一个类搞定，用法简单,195,4,Java,385841539,DingRui,User,,,,,,4375.0
+781015928/360xunlei,360xunlei,jav,195,3,Java,781015928,czg,User,,,,,,4375.0
+objectbox/objectbox-examples,objectbox-examples,"Examples for ObjectBox, the new mobile database",194,41,Java,objectbox,ObjectBox,Organization,London,51.5073509,-0.12775830000000002,London,United Kingdom,4401.5
+youzan/bugCatcher,bugCatcher,方便产品、开发、测试三方协同管理、测试、监控项目进度和质量，以持续交付。,194,93,Java,youzan,有赞,Organization,杭州,30.274084999999996,120.15507,Hangzhou,China,4401.5
+ChillingVan/AndroidInstantVideo,AndroidInstantVideo,"展现Android硬编码下的视频数据流动，可以对视频做处理，例如加滤镜，加水印等，做直播推流（用RTMP）。  Show the stream of Android video hardware encode, including video processing and video publishing by RTMP.",194,54,Java,ChillingVan,,User,HangZhou,,,,,4401.5
+YeDaxia/JApiDocs,JApiDocs,Api Docs Generator Tools For Java Web Developer. (Java 高效 API 接口文档生成工具),194,28,Java,YeDaxia,叶大侠,User,GuangZhou,23.12911,113.264385,Guangzhou,China,4401.5
+federicodotta/Brida,Brida,The new bridge between Burp Suite and Frida!,194,32,Java,federicodotta,,User,,,,,,4401.5
+hss01248/NotifyUtil,NotifyUtil,a better and more compatible api for android notification,194,40,Java,hss01248,水牛,User,shenzhen,,,,,4401.5
+UCodeUStory/S-MVP,S-MVP,"🔥🔥优化版MVP,使用注解泛型简化代码编写，使用模块化协议方便维护，APT过程使用注解解析器利用JavaPoet🌝完成重复模块的编写，利用ASpect+GradlePlugin 完成横向AOP编程+Javassist动态字节码注入+Tinker热修复",194,8,Java,UCodeUStory,UStory,User,,,,,,4401.5
+DroidsOnRoids/jspoon,jspoon,Annotation based HTML to Java parser + Retrofit converter,193,9,Java,DroidsOnRoids,Droids On Roids,Organization,"Wroclaw, Poland",51.1078852,17.0385376,Wrocław,Poland,4422.0
+SimonCherryGZ/ARCamera,ARCamera,"Android AR Camera (realtime filters, visual effects, 3d sticker, face swap) AR相机（包括滤镜、特效、3d贴纸、换脸等）",193,76,Java,SimonCherryGZ,Simon,User,"Guangzhou,CHINA",,,,,4422.0
+Canner/android-stepsview,android-stepsview,A more complete version of stepsViews in android,192,22,Java,Canner,Canner,Organization,"New Taipei, Taiwan",,,,,4441.5
+takahirom/material-element,material-element,An Android app which provides example of implementing material design animation.,192,23,Java,takahirom,Takahiro Menju,User,Japan,36.204824,138.252924,,Japan,4441.5
+limxing/Android-PromptDialog,Android-PromptDialog,"提示窗口，正在加载中，主页广告，IOS 底部弹出选择，确认对话框,轻量View，非组合框架",192,38,Java,limxing,Lifeng Li,User,Beijing China,,,,,4441.5
+xiaoxiangyeyuHeaven/Android-performance-optimization,Android-performance-optimization,android性能优化整理  本人学习使用 长期更新 欢迎star,191,10,Java,xiaoxiangyeyuHeaven,,User,,,,,,4463.5
+ImKarl/WaitView,WaitView,显示等待加载状态的View,191,34,Java,ImKarl,壳,User,"Guangzhou, China",,,,,4463.5
+781015928/HeadToast,HeadToast,,190,2,Java,781015928,czg,User,,,,,,4486.5
+BaronZ88/ModularizationProject,ModularizationProject,Android 模块化示例项目,189,56,Java,BaronZ88,张磊,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,4510.0
+yago-naga/yago3,yago3,"YAGO is a large semantic knowledge base, derived from Wikipedia, WordNet, WikiData, GeoNames, and other data sources",189,21,Java,yago-naga,,Organization,,,,,,4510.0
+WhiteDG/ProgressView,ProgressView,Styleable progress view,188,34,Java,WhiteDG,Wh1te,User,Guangzhou,,,,,4532.5
+wutongke/AndroidSkinAnimator,AndroidSkinAnimator,皮肤切换动画，支持全局View animation everywhere,188,39,Java,wutongke,梧桐,User,beijing,39.90419989999999,116.4073963,Beijing,China,4532.5
+wheat7/Cashew,Cashew,Cashew - Gank with Databinding ,187,24,Java,wheat7,Wheat7,User,"Dali,China",25.606486,100.267638,Dali,China,4561.5
+nanchen2251/CheerBanner,CheerBanner,CheerBanner：不止是图片，这是一款支持任意控件轮播的Banner控件，支持触摸暂停，任意定义高度。,187,26,Java,nanchen2251,LiuShilin,User,Chengdu China,30.572815000000002,104.066801,Chengdu,China,4561.5
+hencoder/PracticeDraw2,PracticeDraw2,《HenCoder Android 开发进阶：UI 1-2 Paint 详解》 的练习项目 http://hencoder.com/ui-1-2,187,251,Java,hencoder,HenCoder,Organization,,,,,,4561.5
+TangXiaoLv/Android-Router,Android-Router,"An android componentization protocol framework, used for decoupling complex project. Android高性能轻量级路由框架",187,24,Java,TangXiaoLv,Artist,User,beijing，china,39.904211,116.407395,Beijing,China,4561.5
+yogkin/LogUtil,LogUtil,Android日志上传 使用服务通过HTTP或E-MAIL方式，压缩文件上传，支持加密,187,6,Java,yogkin,,User,,,,,,4561.5
+WorksApplications/Sudachi,Sudachi,Sudachi is Japanese morphological analyzer,187,9,Java,WorksApplications,Works Applications ,Organization,"Japan, China and Singapore",1.3385141999999999,103.7261988,Singapore,Singapore,4561.5
+HelloChenJinJun/TestChat,TestChat,一个后台基于bmob的开源社交app,186,76,Java,HelloChenJinJun,,User,,,,,,4590.5
+xiaobailong24/MVVMArms,MVVMArms,Android MVVM Architecture Components based on MVPArms and Android Architecture Components.,186,34,Java,xiaobailong24,xiaobailong24,User,,,,,,4590.5
+1998lixin/Hardwarecode,Hardwarecode,基于xposed 修改硬件信息,186,109,Java,1998lixin,李欣,User,China,35.86166,104.195397,,China,4590.5
+shadowfaxtech/proSwipeButton,proSwipeButton,A swipe button for Android with a circular progress bar for async operations,185,28,Java,shadowfaxtech,Shadowfax Technologies,Organization,"Bengaluru, India",12.9715987,77.5945627,Bengaluru,India,4615.5
+sunysen/naivechain,naivechain,a blockchain implementation in 200 lines of code.,184,33,Java,sunysen,,User,,,,,,4639.0
+PandaQAQ/PandaEye,PandaEye,一款基于 mvp+rxjava+retrofit+Picasso 的应用，内容来自知乎日报，网易新闻，咪咕视频。实现了新闻列表的磁盘缓存,184,69,Java,PandaQAQ,PandaQ,User,四川·成都,,,,,4639.0
+aartikov/Alligator,Alligator,Alligator is a modern Android navigation library that will help to organize your navigation code in clean and testable way.,184,6,Java,aartikov,Artur Artikov,User,,,,,,4639.0
+peekler/GDG,GDG,Repository for Google Developer Group demos,183,35,Java,peekler,Péter Ekler,User,,,,,,4663.0
+1991wangliang/tx-lcn,tx-lcn,LCN分布式事务框架v3.0,183,61,Java,1991wangliang,lorne,User,中国 济南,36.6512,117.12009499999999,Jinan,China,4663.0
+noties/Markwon,Markwon,Android library for rendering markdown as system-native Spannables,183,25,Java,noties,Dimitry,User,,,,,,4663.0
+nomemory/mockneat,mockneat,MockNeat is a Java 8+ library that facilitates the generation of arbitrary data for your applications.,183,12,Java,nomemory,Andrei Ciobanu,User,"Bucharest, Romania",44.4267674,26.1025384,Bucharest,Romania,4663.0
+MindorksOpenSource/android-mvp-interactor-architecture,android-mvp-interactor-architecture,Extension of the android-mvp-architecture for very large projects.,182,44,Java,MindorksOpenSource,Mindorks,Organization,"Gurgaon, India",,,,,4693.0
+codehz/container,container,Android App Container Implement (Use VirtualApp framework),182,49,Java,codehz,Code Hz,User,,,,,,4693.0
+onlyliuxin/coding2017,coding2017,,181,771,Java,onlyliuxin,Andy,User,,,,,,4725.0
+zenglingchao/SmileView,SmileView,仿《最美有物》笑脸点赞控件,181,35,Java,zenglingchao,,User,,,,,,4725.0
+genius158/TVProjectUtils,TVProjectUtils,TV 项目常用工具(焦点问题，适配问题等.),181,23,Java,genius158,北纬34点8度,User,China,35.86166,104.195397,,China,4725.0
+rulebook-rules/rulebook,rulebook,"100% Java, Lambda Enabled, Lightweight Rules Engine with a Simple and Intuitive DSL ",181,34,Java,rulebook-rules,RuleBook,Organization,,,,,,4725.0
+dyc87112/SpringCloudBook,SpringCloudBook,《Spring Cloud微服务实战》配套示例代码，错误与答疑可至我博客的“知识交流”区,181,145,Java,dyc87112,程序猿DD-翟永超,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,4725.0
+RipMeApp/ripme,ripme,Downloads albums in bulk,181,38,Java,RipMeApp,,
