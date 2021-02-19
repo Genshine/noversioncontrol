@@ -2605,4 +2605,124 @@ zenglingchao/SmileView,SmileView,仿《最美有物》笑脸点赞控件,181,35,
 genius158/TVProjectUtils,TVProjectUtils,TV 项目常用工具(焦点问题，适配问题等.),181,23,Java,genius158,北纬34点8度,User,China,35.86166,104.195397,,China,4725.0
 rulebook-rules/rulebook,rulebook,"100% Java, Lambda Enabled, Lightweight Rules Engine with a Simple and Intuitive DSL ",181,34,Java,rulebook-rules,RuleBook,Organization,,,,,,4725.0
 dyc87112/SpringCloudBook,SpringCloudBook,《Spring Cloud微服务实战》配套示例代码，错误与答疑可至我博客的“知识交流”区,181,145,Java,dyc87112,程序猿DD-翟永超,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,4725.0
-RipMeApp/ripme,ripme,Downloads albums in bulk,181,38,Java,RipMeApp,,
+RipMeApp/ripme,ripme,Downloads albums in bulk,181,38,Java,RipMeApp,,Organization,,,,,,4725.0
+SusionSuc/Boring,Boring,"Android, Music Player, for graduation",180,40,Java,SusionSuc,susion,User,ShangHai,31.230390399999997,121.4737021,Shanghai,China,4753.0
+zhlucky/SaleProgressView,SaleProgressView,Android自定义 View - 仿淘宝 淘抢购进度条,180,26,Java,zhlucky,,User,,,,,,4753.0
+hypertrack/hyperlog-android,hyperlog-android,A utility logger library for storing a logs into database and push them to remote server for debugging.,180,14,Java,hypertrack,HyperTrack,Organization,San Francisco,,,,,4753.0
+UCodeUStory/RecordVoiceView,RecordVoiceView,"🔥自定义声音波纹，适合作录音应用的开发，模仿iPhone录音效果,模仿小米录音效果，其他录音效果录音效果",179,5,Java,UCodeUStory,UStory,User,,,,,,4778.0
+husthuke/trace4j,trace4j,基于注解的轻量级java流程跟踪工具,178,4,Java,husthuke,hooke,User,biejing,39.90419989999999,116.4073963,Beijing,China,4807.0
+eumji025/EumJi-blog,EumJi-blog,spring boot + thymeleaf 开发的个人博客系统，演示站,178,103,Java,eumji025,eumji025,User,Now in ShenZhen,,,,,4807.0
+google/samba-documents-provider,samba-documents-provider,Access network file shares directly from the Android Downloads/Files app,178,32,Java,google,Google,Organization,,,,,,4807.0
+mirsfang/ExamplesOfDesignPatterns,ExamplesOfDesignPatterns,设计模式的总结与例子（有XMind，Uml图和详细代码实现说明）,178,44,Java,mirsfang,Mirsfang,User,,,,,,4807.0
+FuZhucheng/SSM,SSM,J2EE项目系列（四）–SSM框架构建积分系统和基本商品检索系统（Spring+SpringMVC+MyBatis+Lucene+Redis+MAVEN）,177,93,Java,FuZhucheng,符柱成,User,广东工业大学,,,,,4839.0
+warkiz/IndicatorSeekBar,IndicatorSeekBar,"A  custom SeekBar on Android, which can be changed the size ,color , thumb drawable , tick drawable , tick text and indicator , also , will show an indicator view with progress above SeekBar when seeking.    自定义SeekBar, 能改变尺寸、颜色、滑块图片、刻度图片、刻度文字和气泡指示器，当滑动时显示带有进度的气泡指示器。",177,44,Java,warkiz,Chuang Guangquan,User,Shenzhen  China,,,,,4839.0
+jMavarez/MaterialCalendar,MaterialCalendar,A Material design calendar inspired on the CalendarView of School Diary.,177,26,Java,jMavarez,Josue Mavarez,User,"Zulia, Venezuela",9.967492,-72.5204827,,Venezuela,4839.0
+dhhAndroid/RxWebSocket,RxWebSocket,An auto reconnection-webSocket build with okhttp and rxJava,176,22,Java,dhhAndroid,,User,,,,,,4869.0
+JamesZBL/java_design_patterns,java_design_patterns,Java 实现的面向对象设计模式,176,39,Java,JamesZBL,James,User,China,,,,,4869.0
+free46000/MultiItem,MultiItem,一个优雅的实现多类型的RecyclerView类库 支持DataBinding Form表单录入 跨多个RecyclerView拖动,176,29,Java,free46000,魏子翔,User,北京,39.90419989999999,116.4073963,Beijing,China,4869.0
+jineshfrancs/LazyLoadingViews,LazyLoadingViews,Loading effect for the child views in Adapter View before binding data from service. ,175,25,Java,jineshfrancs,Jinesh Francis,User,"Banglore,India",12.9715987,77.5945627,Bengaluru,India,4897.0
+rakshakhegde/DaggerAndroidInjector,DaggerAndroidInjector,Dagger Sample Project on how to use the new dagger-android module for Dagger v2.11,175,16,Java,rakshakhegde,Rakshak R.Hegde,User,"Bangalore, Karnataka, India",12.9715987,77.5945627,Bengaluru,India,4897.0
+fujiyuu75/Sequent,Sequent,A simple continuous animation library for Android UI.,174,23,Java,fujiyuu75,Yuichi Fujikawa,User,"Tokyo, Japan",,,,,4932.5
+jmdhappy/xxpay-master,xxpay-master,XxPay聚合支付使用Java开发，包括spring-cloud、dubbo、spring-boot三个架构版本，已接入微信、支付宝等主流支付渠道，可直接用于生产环境,174,123,Java,jmdhappy,dingzhiwei,User,,,,,,4932.5
+guoxiaoxing/android-open-source-project-analysis,android-open-source-project-analysis,Android open source project analysis,174,13,Java,guoxiaoxing,郭孝星,User,杭州,30.274084000000002,120.15507,Hangzhou,China,4932.5
+JeffLi1993/springcloud-learning-example,springcloud-learning-example,spring cloud 实践学习案例，是 spring cloud 初学者及核心技术巩固的最佳实践。,173,95,Java,JeffLi1993,泥瓦匠BYSocket,User,"Shanghai, China",,,,,4974.5
+henrymorgen/android-advanced-light,android-advanced-light,the source code in advanced light of android development - 《Android进阶之光》源码 ,173,79,Java,henrymorgen,刘望舒,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,4974.5
+cnswan/MVPDocs,MVPDocs,,171,0,Java,cnswan,wan.chen,User,广东·深圳,22.543096,114.05786499999999,Shenzhen,China,5034.5
+dianbaer/epay,epay,epay是一个标准的支付平台，作为支付应用APP、第三方支付平台、身份系统三方对接的标准中间服务器。提供注册应用APP，创建用户订单，用户支付跳转，用户支付结果跳转与通知等功能。开发者只需关心1个创建订单接口、1个支付跳转url、1个支付结果回跳url、1个支付结果通知url即可。,170,27,Java,dianbaer,电霸儿,User,,,,,,5060.5
+joaomatosf/JavaDeserH2HC,JavaDeserH2HC,Sample codes written for the Hackers to Hackers Conference magazine 2017 (H2HC).,170,35,Java,joaomatosf,João F M Figueiredo,User,Brasil,,,,,5060.5
+kevalpatel2106/PasscodeView,PasscodeView,PasscodeView is an Android Library to easily and securely authenticate user with PIN code or using the fingerprint scanner.,170,33,Java,kevalpatel2106,Keval Patel,User,Ahemedabad,23.022505,72.57136209999999,Ahmedabad,India,5060.5
+mirrajabi/okhttp-json-mock,okhttp-json-mock,Mock your datas for Okhttp and Retrofit in json format in just a few moves,170,11,Java,mirrajabi,Mohammad Mirrajabi,User,The Hague - Netherlands,52.07049779999999,4.300699900000001,The Hague,Netherlands,5060.5
+5A59/MockNet,MockNet,以极简的方式在 Android 本地创建服务器用来接口测试和接口开发(An excellent tool for creating local server on Android.),169,35,Java,5A59,,User,,,,,,5091.0
+wiselyman/uaa-zuul,uaa-zuul,使用OAUTH2+Zuul实现认证和授权,169,106,Java,wiselyman,Yunfei Wang,User,"Hefei,China",,,,,5091.0
+nowandfurure/richeditor,richeditor,"RichEditor is a Editor base on Android WebView and JavaScript,which one can be easily taken to your Android project",168,4,Java,nowandfurure,owap,Organization,,,,,,5120.5
+javaee/javamail,javamail,JavaMail API Reference Implementation,168,58,Java,javaee,Java EE,Organization,,,,,,5120.5
+shineM/TreeView,TreeView,An android tree view with high performance and rich functions,168,39,Java,shineM,shineM Zhong,User,,,,,,5120.5
+liunian1004/vua,vua,Java : 单点登录、权限管理、基于Spring + SpringMVC + Mybatis 系统架构，实现集中式的单点登录与权限管理(Shiro进行认证和授权)，dubbo分布式服务构建，方便的为各类子系统提供登陆与授权服务。,167,6,Java,liunian1004,system,User,,,,,,5151.5
+miaoyongjun/MVideo,MVideo,"An imitation of WeChat circle of friends video effects, can drag and zoom ,video view,base on ijkplayer.",167,20,Java,miaoyongjun,miàoyǒngjùn,User,,,,,,5151.5
+apache/incubator-servicecomb-saga,incubator-servicecomb-saga,,167,67,Java,apache,The Apache Software Foundation,Organization,,,,,,5151.5
+maning0303/MNCalendar,MNCalendar,简单的日历控件，水平方向日历支持手势滑动切换，跳转月份；垂直方向日历选取区间范围。,167,26,Java,maning0303,马宁,User,武汉,39.92147,116.44310800000001,,China,5151.5
+ljqloveyou123/perfect-mvp,perfect-mvp,该库是一个对MVP模式的封装，主要目的解决MVP的内存泄露、代码冗余、Presenter的生命周期管理等问题,166,25,Java,ljqloveyou123,刘镓旗,User,,,,,,5180.5
+oci-pronghorn/GreenLightning,GreenLightning,Small Java HTTP/s server many times faster than Netty or NGINX,165,11,Java,oci-pronghorn,,Organization,,,,,,5211.0
+CNCoderX/RecyclerViewHelper,RecyclerViewHelper,RecyclerView功能拓展,165,0,Java,CNCoderX,CNCoderX,User,China,35.86166,104.195397,,China,5211.0
+quiin/UnifiedContactPicker,UnifiedContactPicker,,165,32,Java,quiin,Carlos R,User,,,,,,5211.0
+WakeHao/TransitionExample,TransitionExample,a demo of Transition Framework,164,20,Java,WakeHao,,User,,,,,,5245.0
+jpetitto/validator,validator,A tiny library for easily validating TextInputLayouts in Android,163,13,Java,jpetitto,John Petitto,User,"Los Angeles, CA",,,,,5276.5
+n26/N26AndroidSamples,N26AndroidSamples,A public repo to demo the Reactive Clean Architecture.,163,27,Java,n26,N26,Organization,Berlin,,,,,5276.5
+pinguo-zhouwei/AndroidTrainingSimples,AndroidTrainingSimples,Android Training Simples,162,29,Java,pinguo-zhouwei,JayZhou,User,成都,,,,,5308.0
+guangzq/StepDialog,StepDialog,一行代码实现ofo app首次注册时的步骤控件,162,19,Java,guangzq,guangzq,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5308.0
+Doctoror/ParticlesDrawable,ParticlesDrawable,Draws random flying particles in space forming constellations.,161,27,Java,Doctoror,Yaroslav Mytkalyk,User,"Lviv, Ukraine",49.839683,24.029717,Lviv,Ukraine,5336.5
+vbohush/geometric-progress-view,geometric-progress-view,Customizable progress indicator in the form of 2D geometric shapes,161,20,Java,vbohush,Viktor Bohush,User,"Lviv, Ukraine",,,,,5336.5
+jimersylee/DesignPattern,DesignPattern,<Head first :Design Pattern> 学习笔记,161,0,Java,jimersylee,Jimersy Lee,User,"Hangzhou,Zhe Jiang,China",30.274084000000002,120.15507,Hangzhou,China,5336.5
+retropiler/retropiler,retropiler,"Java8 Standard Library for Android, API version >= 15",161,13,Java,retropiler,The Retropiler Project,Organization,,,,,,5336.5
+1em0nsOft/LemonHello4Android,LemonHello4Android,妈妈说，问人问题要先说你好，那么咱这个全平台的理论上做的最牛逼的对话框（只是理论上）就叫LemonHello吧~,161,39,Java,1em0nsOft,1em0nsOft,User,DaLian Software Park,38.887415999999995,121.540094,Dalian Shi,China,5336.5
+cnswan/Juggle,Juggle,,160,0,Java,cnswan,wan.chen,User,广东·深圳,22.543096,114.05786499999999,Shenzhen,China,5371.0
+qintong91/InsLoadingAnimation,InsLoadingAnimation,Imitation of instagram and weibo avator animation of loading for Android.,160,27,Java,qintong91,,User,,,,,,5371.0
+rakshakhegde/Diffre,Diffre,Neon Progress indicator useful for event progress like views. Proof of concept.,160,22,Java,rakshakhegde,Rakshak R.Hegde,User,"Bangalore, Karnataka, India",12.9715987,77.5945627,Bengaluru,India,5371.0
+liaoziyang/ContentAssist,ContentAssist,A code assist plugin for Eclipse.,160,27,Java,liaoziyang,Ziyang Liao,User,Kyoto Japan,,,,,5371.0
+adib2149/BottomNavBar,BottomNavBar,Easily add four tabbed bottom navigation bar in your activity.,160,25,Java,adib2149,Riddhiman Adib,User,"Dhaka, Bangladesh",,,,,5371.0
+fighter-lee/SuperFrame,SuperFrame,主流框架研究,160,0,Java,fighter-lee,fighter_lee,User,ShangHai,31.230390399999997,121.4737021,Shanghai,China,5371.0
+jiangzepeng/MaterialAnim,MaterialAnim, 基于Android 系统的动画总结,160,10,Java,jiangzepeng,代码君,User,"china,xiamen",,,,,5371.0
+taoyimin/ACGN,ACGN,该项目作为本人的毕业设计课题，客户端和服务端均由本人独立实现。客户端遵循Google Material Design设计规范，大量使用到过渡动画、触摸反馈、圆形揭露等5.0新特性。网络请求采用Retrofit+RxJava实现，图片处理采用Glide框架。服务端使用Eclipse开发，数据的持久化层由MySql实现，业务逻辑的处理通过serverlet实现。由于租用的阿里云服务器已到期，所以项目中使用到的URL均已失效。,160,3,Java,taoyimin,,User,,,,,,5371.0
+vpaliyX/LoginConcept,LoginConcept,LogIn/SignUp Concept,159,40,Java,vpaliyX,Vasyl Paliy,User,Arkansas,35.20105,-91.83183340000001,,United States,5406.5
+wotomas/droid-vizu,droid-vizu,Droid-vizu aims to provide customized visualization effects by easily swapping Renderer to get cool effects,159,24,Java,wotomas,Jimmy Kim,User,"Seoul, South Korea",37.566534999999995,126.9779692,Seoul,South Korea,5406.5
+MindorksOpenSource/NYBus,NYBus,NYBus (RxBus) - A pub-sub library for Android and Java applications,159,33,Java,MindorksOpenSource,Mindorks,Organization,"Gurgaon, India",,,,,5406.5
+alibaba/QLExpress,QLExpress,"QLExpress is a powerful, lightweight, dynamic language for the Java platform aimed at improving developers’ productivity in different business scenes.",159,71,Java,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,5406.5
+jiajunhui/PlayerBase,PlayerBase,PlayerBase将播放器的繁杂功能其业务组件化处理的框架方案,159,16,Java,jiajunhui,贾俊辉,User,Beijing.China,,,,,5406.5
+MaksTuev/EasyAdapter,EasyAdapter,"This project demonstrates simple approach for implementation complex lists, based on RecyclerView.",159,16,Java,MaksTuev,,User,Voronezh,51.6754966,39.2088823,Voronezh,Russia,5406.5
+aiyaapp/AiyaEffectsAndroid,AiyaEffectsAndroid,"宝宝特效 SDK Android Demo，支持美颜，3D特效，3D动画特效，2D特效等，visual effects IOS demo, support 3D effect, 3D Animation, 2D effect",158,45,Java,aiyaapp,,User,,,,,,5442.0
+JamesZBL/FS-Blog,FS-Blog,FS-Blog 基于 SpringBoot 的个人博客系统,158,29,Java,JamesZBL,James,User,China,,,,,5442.0
+jamesisaac/react-native-background-task,react-native-background-task,"Periodic background tasks for React Native apps, cross-platform (iOS and Android), which run even when the app is closed.",158,12,Java,jamesisaac,James Isaac,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,5442.0
+xuningjack/year_month_wheel_dialog,year_month_wheel_dialog,Year Month Wheel Dialog is a view to choose year and month by double roller dialog （能够选择年月的双滚轮dialog）,158,17,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,5442.0
+wenwenwen888/SearchDialog,SearchDialog,仿bilibili搜索框效果(三句代码实现),158,34,Java,wenwenwen888,Won,User,China ,35.86166,104.195397,,China,5442.0
+JessYanCoding/LifecycleModel,LifecycleModel,"The LifecycleModel class is designed to store and manage UI-related data in a lifecycle conscious way, the LifecycleModel class allows data to survive configuration changes such as screen rotations,  it also handles the communication of the Activity / Fragment with the rest of the application, base on https://developer.android.google.cn/topic/libraries/architecture/viewmodel.html",158,20,Java,JessYanCoding,JessYan,User,"Chengdu,China",30.572815999999996,104.066801,Chengdu,China,5442.0
+fiveagency/Reedly,Reedly,Reedly RSS reading app to showcase Clean Architecture,157,38,Java,fiveagency,Five,Organization,,,,,,5481.0
+Dan-TD/SnappyRecyclerView,SnappyRecyclerView,"An extension to RecyclerView which will snap to child Views to the specified anchor, START, CENTER or END.",157,16,Java,Dan-TD,,User,,,,,,5481.0
+CodingBingo/FastReader,FastReader,一款移动端电子阅读器,157,48,Java,CodingBingo,CodingBingo,User,杭州,30.274084000000002,120.15507,Hangzhou,China,5481.0
+huangweicai/OkLibDemo,OkLibDemo,OkLib 一个专注于让开发更加简单的工具库,157,23,Java,huangweicai,天鬼,User,,,,,,5481.0
+llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android,A_Guide_to_Running_Tensorflow_Models_on_Android,This is the code for'A Guide to Running Tensorflow Models on Android' By SIraj Raval on Youtube,157,53,Java,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,5481.0
+CNCoderX/PhotoPicker,PhotoPicker,简洁、高效的Android图片选择库，支持图片压缩、裁剪，支持多图选择,157,0,Java,CNCoderX,CNCoderX,User,China,35.86166,104.195397,,China,5481.0
+shiyafeng/foolqq,foolqq,使用图像识别操作QQ收发消息，如果你读完readme觉得idea不错，请star,157,22,Java,shiyafeng,史亚风,User,,,,,,5481.0
+fighter-lee/EasyMqtt,EasyMqtt,简单稳定好用的mqtt库，链式调用。,157,1,Java,fighter-lee,fighter_lee,User,ShangHai,31.230390399999997,121.4737021,Shanghai,China,5481.0
+LiuGuiLinAndroid/LoveWallpaper,LoveWallpaper,高仿爱壁纸App |  Material Design,157,45,Java,LiuGuiLinAndroid,刘桂林,User,From China,40.713832000000004,-74.0000589,New York,United States,5481.0
+af913337456/WeChatVideoView,WeChatVideoView,"Android - 微信 - 朋友圈 - 小视频播放，wechat  friend-circle,small video play",156,29,Java,af913337456,LinGuanHong,User,"广东省阳江市(live in GuangDong-YangJiang,but work in ShenZhen)",,,,,5517.0
+MindorksOpenSource/SnapHelperExample,SnapHelperExample,SnapHelper Example for Android Application,156,29,Java,MindorksOpenSource,Mindorks,Organization,"Gurgaon, India",,,,,5517.0
+dingjikerbo/Android-OpenGL,Android-OpenGL,Android OpenGL,156,1,Java,dingjikerbo,dingjikerbo,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5517.0
+steelkiwi/IncrementProductView,IncrementProductView,Interesting concept of products incrementation,156,23,Java,steelkiwi,Steelkiwi Inc.,Organization,"Ukraine, Odessa",46.482526,30.723309499999996,Odesa,Ukraine,5517.0
+dingjikerbo/Android-RTSP,Android-RTSP,Android RTSP/VLC Related Demos and Researches,156,2,Java,dingjikerbo,dingjikerbo,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5517.0
+xiaoxiangyeyuHeaven/HeavenlyUpdate,HeavenlyUpdate,Heavenlyupdate是对下载apk以及安装的简单封装,156,13,Java,xiaoxiangyeyuHeaven,,User,,,,,,5517.0
+cnswan/DragInViewPager,DragInViewPager,Android for drag in viewpager,156,0,Java,cnswan,wan.chen,User,广东·深圳,22.543096,114.05786499999999,Shenzhen,China,5517.0
+ChenLittlePing/RecyclerCoverFlow,RecyclerCoverFlow,使用RecyclerView，自定义LayoutManager实现旋转木马相册效果,155,33,Java,ChenLittlePing,,User,,,,,,5552.0
+Justson/AgentWebX5,AgentWebX5,AgentWebX5 是基于腾讯X5 的一个Web库,155,32,Java,Justson,Justson,User,shenzhen,22.543096,114.05786499999999,Shenzhen,China,5552.0
+panacena/LottieTest,LottieTest,Lottie的demo例子,155,64,Java,panacena,zkk,User,南京,,,,,5552.0
+fengzhizi715/ProxyPool,ProxyPool,给爬虫使用的代理IP池,155,37,Java,fengzhizi715,Tony Shen,User,"shanghai,china",,,,,5552.0
+lexluthors/CompressTools-Android,CompressTools-Android,安卓图片压缩，尽可能保证图片质量，清晰度的压缩。,155,35,Java,lexluthors,liujie,User,,,,,,5552.0
+liuguangli/VerificationCodeInput,VerificationCodeInput,简洁验证码输入框，能自定义输入框个数和样式,154,42,Java,liuguangli,刘光利,User,guangzhou,23.12911,113.264385,Guangzhou,China,5589.5
+chuanzh/eop,eop,Easy Open Platform Framework,154,7,Java,chuanzh,chuan.zhang,User,,,,,,5589.5
+XiqingLiu/CustomBehavior,CustomBehavior,自定义Behavior，实现QQ联系人tab和header动画,154,1,Java,XiqingLiu,Richard Liu,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,5589.5
+riggaroo/android-arch-components-date-countdown,android-arch-components-date-countdown,,154,27,Java,riggaroo,Rebecca Franks,User,"Johannesburg, South Africa",,,,,5589.5
+googlesamples/android-NotificationChannels,android-NotificationChannels,,154,76,Java,googlesamples,Google Samples,Organization,,,,,,5589.5
+Zephery/newblog,newblog,:octocat: 个人博客，个人网站，blog,154,53,Java,Zephery,Zephery,User,Beijing,,,,,5589.5
+biodunalfet/SlidingSquaresLoader,SlidingSquaresLoader,A simple progress loader inspired by Can you Code this UI? Volume 6! - https://stories.uplabs.com/can-you-code-this-ui-volume-6-7bd09fa6dd92#.nyh2zhpvb,154,14,Java,biodunalfet,Hamza,User,"Lagos, Nigeria",,,,,5589.5
+zhoujingjie/xiaoyaoji,xiaoyaoji,"小幺鸡在线文档管理，支持在线测试，支持json,txt,xml,html,js,流,和 WebSocket ",154,91,Java,zhoujingjie,zhou jing jie,User,,,,,,5589.5
+tranleduy2000/ncalc,ncalc,Power calculator for Android. Solve some problem algebra  and calculus.,154,46,Java,tranleduy2000,Trần Lê Duy,User,An Giang - Viet Nam,,,,,5589.5
+leon2017/CoordinatortablayoutDemo,CoordinatortablayoutDemo,完全依靠官方自带的CoordinatorLayout实现的,154,21,Java,leon2017,leon,User,Shanghai,,,,,5589.5
+Allan5945/ssm,ssm,,153,0,Java,Allan5945,,User,,,,,,5622.5
+anilallewar/microservices-basics-spring-boot,microservices-basics-spring-boot,Basic architecture framework to create complete microservices using Spring boot and Spring cloud,153,93,Java,anilallewar,Anil Allewar,User,"San Francisco Bay Area, California",,,,,5622.5
+danicuestasuarez/NMapGUI,NMapGUI,Advanced Graphical User Interface for NMap,153,33,Java,danicuestasuarez,Daniel Cuesta,User,,,,,,5622.5
+dingjikerbo/Android-TechBlog,Android-TechBlog,,153,1,Java,dingjikerbo,dingjikerbo,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5622.5
+XiqingLiu/JesStatistics,JesStatistics,安卓基于反射无需埋点的事件统计,152,0,Java,XiqingLiu,Richard Liu,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,5657.0
+zhaohaihao/Java-Design-Patterns,Java-Design-Patterns,Java-设计模式,152,1,Java,zhaohaihao,LessCodeLessBug,User," Hangzhou, Zhejiang, China",,,,,5657.0
+dremio/dremio-oss,dremio-oss,Dremio - the missing link in modern data,152,25,Java,dremio,,Organization,,,,,,5657.0
+sevenshal/oksharedprefs,oksharedprefs,通过注解生成SharedPreferences包装类，解决跨进程数据访问不同步的问题。,152,1,Java,sevenshal,,User,,,,,,5657.0
+ImangazalievM/Bubbble,Bubbble,Sample app showcases the MVP pattern and Uncle Bob Martin's Clean Architecture approach.,152,14,Java,ImangazalievM,Mahach Imangazaliev,User,Russia,42.9666308,47.51262850000001,Makhachkala,Russia,5657.0
+arvinljw/ThumbUpSample,ThumbUpSample,HenCoder仿写活动－点赞效果,152,18,Java,arvinljw,arvinljw,User,成都,,,,,5657.0
+zhaohaihao/tourist-lovers-sns,tourist-lovers-sns,基于SpringBoot的旅游爱好者社交网站,152,5,Java,zhaohaihao,LessCodeLessBug,User," Hangzhou, Zhejiang, China",,,,,5657.0
+neo4j-contrib/neo4j-graph-algorithms,neo4j-graph-algorithms,Efficient Graph Algorithms for Neo4j,152,23,Java,neo4j-contrib,Neo4j Contrib,Organization,,,,,,5657.0
+Shazxue/KotlinTest,KotlinTest,,152,0,Java,Shazxue,,User,,,,,,5657.0
+caoym/jjvm,jjvm,A java-based JVM. 用Java实现的JAVA虚拟机，用于演示 JVM 的原理。非常简单，实际上简单得只够运行HelloWorld。虽然简单，但尽量符合 JVM 标准。,151,21,Java,caoym,cayman,User,,,,,,5699.5
+yanzhenjie/NoFragment,NoFragment,Fragment的封装，启动Fragment只需要调用startFragment(XXFragment.class);,151,22,Java,yanzhenjie,Zhenjie Yan,User,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,5699.5
+mikescamell/shared-element-transitions,shared-element-transitions,Source code for a blog post series on Shared Element Transitions in Android,151,33,Java,mikescamell,Michael Scamell,User,United Kingdom,,,,,5699.5
+XieShengda/FakeDouyu,FakeDouyu,,151,1,Java,XieShengda,Sender Xie,User,"Hangzhou, China",,,,,5699.5
+liyuhaolol/LightImmersionMode,LightImmersionMode,纯色沉浸式状态栏开发，兼容浅色状态栏自适应深色字体,151,1,Java,liyuhaolol,liyuhao,User,China-Beijing,,,,,5699.5
+wisdomtool/rest-client,rest-client,"WisdomTool REST client supports automated testing RESTful API, produced exquisite report, and automatically generating exquisite RESTful API documentation based on history cases.",151,43,Java,wisdomtool,WisdomTool.org,Organization,China,35.86166,104.195397,,China,5699.5
+casbin/jcasbin,jcasbin,"An authorization library that supports access control models like ACL, RBAC, ABAC in Java",151,5,Java,casbin,Casbin,Or
