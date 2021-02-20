@@ -2955,4 +2955,119 @@ itfsw/mybatis-generator-plugin,mybatis-generator-plugin,Mybatis Generator 代码
 godlikewangjun/dexknife-wj,dexknife-wj,apk加固插件 带签名校验、dex加密、资源混淆,113,38,Java,godlikewangjun,,User,,,,,,7670.5
 HotelsDotCom/styx,styx,"Programmable, asynchronous, event-based reverse proxy for JVM.",113,14,Java,HotelsDotCom,Hotels.com,Organization,"London, United Kingdom",,,,,7670.5
 liuyueyi/quick-media,quick-media,"mult-media(audio/image/qrcode) support web service (多媒体处理的web服务, 二维码, 音频, 图片服务支持)",113,42,Java,liuyueyi,yiHui,User,HangZhou.China,,,,,7670.5
-vestrel00/android-dagger-butterknife-mvp,android-dagger-butterknife-mvp,"Simple application using Dagger Android (2.11/2.12/2.13/2.14), Butterknife (8.7/8.8), an
+vestrel00/android-dagger-butterknife-mvp,android-dagger-butterknife-mvp,"Simple application using Dagger Android (2.11/2.12/2.13/2.14), Butterknife (8.7/8.8), and Model-View-Presenter (MVP) with support for Singleton, Activity, Fragment, and child Fragment scopes",113,25,Java,vestrel00,vandolf estrellado,User,,,,,,7670.5
+cesardeazevedo/react-native-collapsing-toolbar,react-native-collapsing-toolbar,react-native wrapper for android CollapsingToolbarLayout,113,10,Java,cesardeazevedo,César D Azevedo,User,São Paulo - Brasil,,,,,7670.5
+HauyuChen/TCP-Tester,TCP-Tester,Android App,112,26,Java,HauyuChen,Hov,User,"Guangzhou , China",23.12911,113.264385,Guangzhou,China,7748.0
+121880399/QuickMvp,QuickMvp,,112,0,Java,121880399,周正一,User,Beijing,39.90419989999999,116.4073963,Beijing,China,7748.0
+skydoves/PowerMenu,PowerMenu,A library that let you implement popup so easily. ,112,26,Java,skydoves,skydoves,User,"Seoul, Korea",,,,,7748.0
+TakuSemba/CropMe,CropMe,Extremely Smooth and Easy Cropping library for you,112,17,Java,TakuSemba,TakuSemba,User,"Tokyo, Japan",,,,,7748.0
+developerHaoz/WatermelonDiaryNew,WatermelonDiaryNew,十分简洁、优雅的日记APP,112,32,Java,developerHaoz,李泽浩,User,广州,23.12911,113.264385,Guangzhou,China,7748.0
+free46000/HybridFoundation,HybridFoundation,混合应用基础架构 跨平台热更新方案 Js双向通信 基础WebView,112,19,Java,free46000,魏子翔,User,北京,39.90419989999999,116.4073963,Beijing,China,7748.0
+afollestad/android-secure-storage,android-secure-storage,Encrypt and store data using the keystore APIs.,111,7,Java,afollestad,Aidan Follestad,User,"Saint Paul, MN",44.977753,-93.2650108,Minneapolis,United States,7820.0
+Jichensheng/BaiduWave,BaiduWave,百度Loading小球,111,33,Java,Jichensheng,,User,Suzhou,31.298973999999998,120.58528899999999,Suzhou,China,7820.0
+googlecodelabs/android-persistence,android-persistence,,111,52,Java,googlecodelabs,Google Codelabs,Organization,,,,,,7820.0
+littleRich/VirtualLocation,VirtualLocation,利用Hook技术对APP进行虚拟定位，可修改微信、QQ、以及一些打卡APP等软件，随意切换手机所处位置！,111,24,Java,littleRich,xuqingfu,User,"ChengDu, China",,,,,7820.0
+githubhaohao/MVVMRxJavaRetrofitSample,MVVMRxJavaRetrofitSample,MVVM RxJava Retrofit Sample,111,36,Java,githubhaohao,haohao,User,"Hangzhou, China",,,,,7820.0
+BobEve/Eve,Eve,Eve and Wall-e,111,18,Java,BobEve,走过,User,,,,,,7820.0
+lenovoDTC/dubbo-G,dubbo-G,lenovo dubbo degrade and developed,110,71,Java,lenovoDTC,,User,,,,,,7898.0
+OhMyLob/Paper-Launcher,Paper-Launcher,,110,10,Java,OhMyLob,Matteo Lobello,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,7898.0
+lovelyCoder/springboot-shiro,springboot-shiro,使用SpringBoot与shiro实现基于数据库的细粒度动态权限管理系统实例,110,100,Java,lovelyCoder,,User,,,,,,7898.0
+LUSHDigital/android-player-tv,android-player-tv,The Android TV version of LUSH Player,110,13,Java,LUSHDigital,LUSH Digital,Organization,Poole,50.71505,-1.987248,Poole,United Kingdom,7898.0
+yy1193889747/springboot-demo,springboot-demo,springboot学习,110,0,Java,yy1193889747,ocly,User,,,,,,7898.0
+AllenCoder/AppManager,AppManager,一款直接显示App所有信息的App,110,26,Java,AllenCoder,Allen,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,7898.0
+adorsys/secure-storage-android,secure-storage-android,Android Secure Storage Component,109,15,Java,adorsys,adorsys GmbH & Co. KG,Organization,Nuremberg / Germany,,,,,7981.5
+uptop/JavaWebSocket,JavaWebSocket,websockt & spring demo,109,44,Java,uptop,uptop1,User,,,,,,7981.5
+xiong-it/AutoInputAuthCode,AutoInputAuthCode,A library for inputing the verification code into EditText automatically in Android.Android开发中实现自动填写验证码的开源库。欢迎右上角start/fork！,109,22,Java,xiong-it,MichaelX,User,"Beijing,China",,,,,7981.5
+TangXiaoLv/Surgeon,Surgeon,Runtime function replace for android. Android方法热替换框架,109,17,Java,TangXiaoLv,Artist,User,beijing，china,39.904211,116.407395,Beijing,China,7981.5
+webfolderio/cdp4j,cdp4j,cdp4j - Chrome DevTools Protocol for Java,109,30,Java,webfolderio,WebFolder OÜ,User,Mars,,,,,7981.5
+Fueled/flowr,flowr,FlowR is a wrapper class around the Fragment Manager.,109,4,Java,Fueled,Fueled,Organization,"New York, NY",,,,,7981.5
+pinguo-zhouwei/CustomAdapter,CustomAdapter,"RV Adapter 优雅封装，抽取列表模版，可以快速的添加一个列表，使用组装的方式构建Adapter,抽象Cell 角色，负责创建ViewHolder，绑定数据和逻辑处理。Cell为一个独立的组件。",109,22,Java,pinguo-zhouwei,JayZhou,User,成都,,,,,7981.5
+xu649526275/MyMVPDemo,MyMVPDemo,16年学习mvp写的小demo，逻辑简单，便于理解，帮助刚接触mvp+rxjava的人。,109,39,Java,xu649526275,,User,,,,,,7981.5
+javaee/servlet-spec,servlet-spec,The API and Issue Tracker for the JCP Standard Java Servlet Specification,109,25,Java,javaee,Java EE,Organization,,,,,,7981.5
+bitrich-info/xchange-stream,xchange-stream,XChange-stream is a Java library providing a simple and consistent streaming API for interacting with Bitcoin and other crypto currency exchanges via WebSocket protocol.  It is build on top of of XChange library providing new interfaces for streaming API. User can subscribe for live updates via reactive streams of RxJava library.,109,51,Java,bitrich-info,,Organization,,,,,,7981.5
+cherryljr/LintCode,LintCode,LintCode刷题历程与总结,109,4,Java,cherryljr,,User,Japan; China,35.9955706,138.158893,Chino,Japan,7981.5
+Rkhcy/PhysicsBasedAnimation,PhysicsBasedAnimation,Google I/O '17 animation study demo,108,13,Java,Rkhcy,胡承阳,User,ChengDu,30.572815000000002,104.066801,Chengdu,China,8056.0
+iammert/Android-MVVM-Architecture,Android-MVVM-Architecture,Sample MVVM project uses instagram API,108,34,Java,iammert,Mert Şimşek,User,Istanbul,41.0082376,28.978358899999996,Istanbul,Turkey,8056.0
+nirhart/shortrain,shortrain,Run a train on your homescreen using the App Shortcuts API,108,11,Java,nirhart,Nir Hartmann,User,,,,,,8056.0
+linchaolong/ImagePicker,ImagePicker,Android下的图片选择与裁剪开源库（android image picker and cropper library）,108,27,Java,linchaolong,linchaolong,User,Guangzhou China,23.12911,113.264385,Guangzhou,China,8056.0
+MagicMashRoom/SuperShadow,SuperShadow,一个给任意view加阴影的库,108,20,Java,MagicMashRoom,MagicMashRoom,User,,,,,,8056.0
+Saka7/spring-boot-angular4-boilerplate,spring-boot-angular4-boilerplate,Quickstart for spring boot + angular 4 projects,108,58,Java,Saka7,Ihor Sakaylyuk,User,"Ivano-Frankivsk, Ukraine",,,,,8056.0
+yy1193889747/wechatocly,wechatocly,微信公众号开发,108,0,Java,yy1193889747,ocly,User,,,,,,8056.0
+xiaoyanger0825/Parallax,Parallax,MIUI拖动视差效果（阻尼效果/橡皮筋效果）,108,15,Java,xiaoyanger0825,XiaoJianjun,User,Chengdu,30.572815000000002,104.066801,Chengdu,China,8056.0
+AlexanderBartash/hybris-integration-intellij-idea-plugin,hybris-integration-intellij-idea-plugin,,108,2,Java,AlexanderBartash,Alexander Bartash,User,"Ukraine, Chernihiv",51.4982,31.28934989999999,Chernihiv,Ukraine,8056.0
+agusibrahim/YuuPlayer,YuuPlayer,"Android Youtube Player library without any dependency, webview based.",108,22,Java,agusibrahim,Agus Ibrahim,User,"Indramayu, Indonesia",-6.3373099999999996,108.32583290000001,,Indonesia,8056.0
+tinylcy/ClassAnalyzer,ClassAnalyzer,A Java Class File Disassembler,107,46,Java,tinylcy,Chenyang,User,"Guangzhou, China",,,,,8118.5
+bfwg/angular-spring-starter,angular-spring-starter,"Full stack starter kit featuring Angular 4, Spring boot and stateless JWT authentication.                              ",107,54,Java,bfwg,Fan Jin,User,Vancouver,49.282729100000005,-123.1207375,Vancouver,Canada,8118.5
+ryanlijianchang/Recyclerview-Gallery,Recyclerview-Gallery,用RecyclerView做一个小清新的Gallery效果,107,17,Java,ryanlijianchang,Ryane-Lee,User,Guangzhou,,,,,8118.5
+lijiankun24/ArchitecturePractice,ArchitecturePractice,Android 应用架构组件（Architecture Components）实践,107,21,Java,lijiankun24,李剑昆,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,8118.5
+yanjiabin/ExtendsRingPrigressBar,ExtendsRingPrigressBar,"一个可以用于文件上传和下载,倒计时等功能的进度条",107,2,Java,yanjiabin,,User,Shenzhen China,22.543096,114.05786499999999,Shenzhen,China,8118.5
+yhaolpz/SlideAdapter,SlideAdapter," 一句代码搞定 RecycleView 侧滑菜单、添加头部底部、加载更多 , 像 Glide 一样简洁的链式调用轻松实现 Adapter  ",107,28,Java,yhaolpz,王英豪,User,,,,,,8118.5
+Papka24/Papka24-core,Papka24-core,,107,56,Java,Papka24,,User,,,,,,8118.5
+Othershe/CalendarView,CalendarView,Android 自定义日历控件,107,15,Java,Othershe,Othershe,User,Xi’an,34.341574,108.93977,Xi'an,China,8118.5
+CysionLiu/SelfAdjointView,SelfAdjointView,Let view move/scale/transparency-change with its parent scrolling.,107,14,Java,CysionLiu,Cysion Liu,User,China,,,,,8118.5
+kongpengcheng/SmartRetrofit,SmartRetrofit,,107,0,Java,kongpengcheng,,User,,,,,,8118.5
+wen-fei/choice,choice,:truck:本人本科毕业设计，基于简单机器算法的考研择校智能推荐系统，实现了一些简单的机器学习算法的应用,107,18,Java,wen-fei,TengYun,User,南京,32.060255,118.796877,Nanjing,China,8118.5
+zibuyuqing/UCBrowser,UCBrowser,,107,7,Java,zibuyuqing,,User,,,,,,8118.5
+thenickdude/steal-chads-password,steal-chads-password,Code to brute-force a specific incomplete QR code,106,14,Java,thenickdude,Nicholas Sherlock,User,"Dunedin, New Zealand",,,,,8187.5
+florent37/RxLifecycle,RxLifecycle,"Rx binding of stock Android Activities & Fragment Lifecycle, avoiding memory leak",106,4,Java,florent37,Florent CHAMPIGNY,User,"Paris, France",46.227638,2.213749,,France,8187.5
+pudongqi/Operating-System,Operating-System,,106,18,Java,pudongqi,蒲东齐,User,"Wuhan,China",,,,,8187.5
+xuningjack/verticaltextview,verticaltextview,"Vertical TextView, text from down to up （竖版的TextView，文本从下往上展示）",106,17,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,8187.5
+susiai/susi_android_v1,susi_android_v1,,106,0,Java,susiai,Social Universe Super Intelligence,Organization,,,,,,8187.5
+kingschan1204/jblog,jblog,:trident:一个简洁漂亮的java blog :point_right:基于Spring /MVC+ Hibernate + MySQL + Bootstrap + freemarker. 实现 :rainbow:,106,59,Java,kingschan1204,kings.chan,User,"changsha,china",28.228209000000003,112.938814,Changsha,China,8187.5
+liuzhao2007/EasyRouter,EasyRouter,"A component routing framework simple, stable and high-performance, which supports UI, Method Calls, Interceptors, Callbacks and More than these.",106,4,Java,liuzhao2007,,User,Beijing in China,39.90419989999999,116.4073963,Beijing,China,8187.5
+CrowHawk/MagicToe,MagicToe,基于webmagic + springboot + mybatis的Java爬虫，使用Echarts进行数据可视化分析，提供了从爬虫获取数据到数据持久化、数据可视化分析以及构建简单的代理池等一整套解决方案模板。,106,32,Java,CrowHawk,王泽远,User,"Wuhan,China",30.592848999999998,114.305539,Wuhan,China,8187.5
+imflyn/Eyes,Eyes,Android修改状态栏颜色,106,30,Java,imflyn,Flyn,User,,,,,,8187.5
+chengdedeng/perseus,perseus,:zap:database read and write separation of java,106,39,Java,chengdedeng,杨果,User,beijing/shanghai china,31.235823999999997,121.479068,,China,8187.5
+sw950729/SWPullRecyclerLayout,SWPullRecyclerLayout,打造独一无二的刷新框架,105,22,Java,sw950729,马云飞,User,china shanghai,31.230390399999997,121.4737021,Shanghai,China,8277.5
+dunwen/JDSelector,JDSelector,仿京东的地址选择做的一个自定义深度的多级选择器,105,24,Java,dunwen,顿顿顿顿文,User,"Guangzhou,Chongqing",23.2303349,113.19273759999999,Guangzhou Shi,China,8277.5
+brunocvcunha/instagram4j,instagram4j,:camera: Java port to Instagram's private API,105,31,Java,brunocvcunha,Bruno Volpato,User,Worldwide,,,,,8277.5
+wolfking0608/CirquePieChart,CirquePieChart,圆形饼图,105,14,Java,wolfking0608,wangBaoDeng,User,shenzhen  China,,,,,8277.5
+panhongwei/TraceReader,TraceReader,"rebuild android java method order by trace file,more detailed than traceview.",105,58,Java,panhongwei,,User,,,,,,8277.5
+L316476844/springbootexample,springbootexample,"springboot例子, 包含druid数据源, druid的sql监控, druid过滤, mybatis xml配置, mybatis分页插件, logback日志配置, springboot多环境配置, 发送邮件, AOP拦截, 过滤器 spring拦截器, 全局异常, 统一响应, 自定义事务, 动态数据源, 读写分离, Redis Session, redis缓存, xml注入spring boot无法扫描到的bean, actuator监控, kafka消息队列, Swagger2配置, dubbo注解方式, elasticsearch搜索引擎,",105,60,Java,L316476844,jon lv ,User,shanghai,31.230390399999997,121.4737021,Shanghai,China,8277.5
+xuningjack/Character_Line_Feed_TextView,Character_Line_Feed_TextView,自定义TextView，一行末尾若是英文单词，不会自动换行。,105,15,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,8277.5
+sparrow007/CircularProgressbar,CircularProgressbar,CircularProgressbar project let you create circular progressbar in android,105,26,Java,sparrow007,Jack and phantom,User,India,,,,,8277.5
+guoxiaoxing/react-native,react-native,A user guide and principle analysis for React Native,104,18,Java,guoxiaoxing,郭孝星,User,杭州,30.274084000000002,120.15507,Hangzhou,China,8366.5
+fewtime/AndroidRSS,AndroidRSS,,104,2,Java,fewtime,,User,,,,,,8366.5
+open-android/Zxing,Zxing,谷歌Zxing：快捷生成二维码、扫码、支持扫描本地相册中的二维码。,104,32,Java,open-android,open-android,User,深圳,,,,,8366.5
+chanjarster/artemis-disruptor-miaosha,artemis-disruptor-miaosha,没有redis也能够支撑'小米在印度把亚马逊搞挂了'事件的秒杀解决方案,104,60,Java,chanjarster,Daniel Qian,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,8366.5
+lsjwzh/FastTextView,FastTextView,FastTextView,104,9,Java,lsjwzh,lsjwzh,User,Beijing China,39.90419989999999,116.4073963,Beijing,China,8366.5
+xuningjack/GuideView,GuideView,"Guidance of pages for application that is installed at the first time, which is encapsulated into a View (应用第一次安装后显示的引导页，封装到一个控件中)",104,16,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,8366.5
+softwaremill/kmq,kmq,Kafka-based message queue,103,12,Java,softwaremill,SoftwareMill,Organization,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,8444.0
+li-xiaojun/XRefreshLayout,XRefreshLayout,"A refresh layout(无侵入下拉刷新和加载布局), can refresh RecyclerView for all LayoutManager, NestedScrollView and Any View that implements NestedScrollChild!",103,24,Java,li-xiaojun,dance,User,深圳@china,22.543096,114.05786499999999,Shenzhen,China,8444.0
+cpacm/FloatingMusicMenu,FloatingMusicMenu,一款可用于音乐播放器的悬浮菜单按钮（A floating music menu）,103,21,Java,cpacm,cpacm,User,浙江省杭州市,30.274084000000002,120.15507,Hangzhou,China,8444.0
+jungilhan/awesome-blogs-android,awesome-blogs-android,어썸블로그 ・ 개발 블로그 모음 ・ 개발 잡덕들을 위한 본격 고퀄리티 개발 블로그 큐레이션 서비스 🕵️‍♀️,103,30,Java,jungilhan,Jungil Han,User,"Seoul, South Korea",37.566534999999995,126.9779692,Seoul,South Korea,8444.0
+KingsMentor/Droid-Snippet,Droid-Snippet,Android Utils Live Code Template for Android Studio,103,16,Java,KingsMentor,Nosakhare Belvi,User,"Lagos , Nigeria",6.5243793,3.3792057,Lagos,Nigeria,8444.0
+wolfking0608/AddressChoseDialog,AddressChoseDialog,"仿京东地址选择器,具备回显功能",103,14,Java,wolfking0608,wangBaoDeng,User,shenzhen  China,,,,,8444.0
+ernw/AndroTickler,AndroTickler,Penetration testing and auditing toolkit for Android apps.,103,16,Java,ernw,ERNW,Organization,"Heidelberg, Germany",49.3987524,8.6724335,Heidelberg,Germany,8444.0
+xuningjack/CoverFlow,CoverFlow,"Infinite loop photo wall, which support sliding around（无限循环照片墙，支持左右滑动）",103,15,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,8444.0
+itmuch/spring-cloud-docker-microservice-book-code-docker,spring-cloud-docker-microservice-book-code-docker,《Spring Cloud与Docker微服务架构实战》Docker章节配套源码。讨论QQ群：157525002（已满）、564840207,103,97,Java,itmuch,,Organization,,,,,,8444.0
+taki0112/Vector_Similarity,Vector_Similarity,"Python, Java implementation of TS-SS called from 'A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering'",102,14,Java,taki0112,Junho Kim (1993.01.12),User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,8520.0
+MinBZK/OperatieBRP,OperatieBRP,Broncode programmatuur operatie Basisregistratie Personen (BRP),102,55,Java,MinBZK,Ministerie van Binnenlandse Zaken en Koninkrijksrelaties,Organization,,,,,,8520.0
+xjtushilei/ScriptSpider,ScriptSpider,自主研发的一个java版本的分布式的通用爬虫，可以热插拔各个组件（提供默认的），自动切换代理，自动结构化数据与存储。使用redis，分布式调度等技术。,102,47,Java,xjtushilei,xjtushilei,User,"Xi'an, China",,,,,8520.0
+Lovelcp/spring-boot-mybatis-with-redis,spring-boot-mybatis-with-redis,spring-boot + mybatis + redis as second level cache,102,59,Java,Lovelcp,,User,,,,,,8520.0
+lingochamp/LingoRecorder,LingoRecorder,"LingoRecorder is a better recorder for Android, you can easily process pcm from it.",102,20,Java,lingochamp,LingoChamp Inc.,Organization,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,8520.0
+wang542413041/code2java,code2java,系统的Java学习流程,101,0,Java,wang542413041,王家伟,User,北京,39.90419989999999,116.4073963,Beijing,China,8590.0
+sebig3000/MachineLearning,MachineLearning,An easy neural network for Java!,101,17,Java,sebig3000,Sebastian Gössl,User,Austria,,,,,8590.0
+confluentinc/kafka-streams-examples,kafka-streams-examples,Demo applications and code examples for Apache Kafka's Streams API.,101,48,Java,confluentinc,Confluent Inc.,Organization,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,8590.0
+kingston-csj/jforgame,jforgame,"A mobile game server socket framework, including all the base functions.",101,30,Java,kingston-csj,kingston,User,,,,,,8590.0
+shellljx/CNode-android,CNode-android,a unofficial android client of https://cnodejs.org/,101,26,Java,shellljx,li jinxiang,User,"ShangHai,China",,,,,8590.0
+zyao89/ZLoading,ZLoading,这是一个自定义Loading View库。持续更新中,101,18,Java,zyao89,zyao89,User,,,,,,8590.0
+guanchao/apk_auto_enforce,apk_auto_enforce,APK一键自动化加固脚本,101,37,Java,guanchao,guanchao,User,,,,,,8590.0
+Sunybyjava/seckill,seckill,"一个整合SSM框架的高并发和商品秒杀项目,学习目前较流行的Java框架组合实现高并发秒杀API",100,64,Java,Sunybyjava,孙建荣,User,China,,,,,8660.0
+developerHaoz/SleepHelper,SleepHelper,一个专注睡前服务的 APP,100,23,Java,developerHaoz,李泽浩,User,广州,23.12911,113.264385,Guangzhou,China,8660.0
+xuningjack/email_auto_popupwindow,email_auto_popupwindow,Input email text when @ is written email address will be auto completed (自动下拉关联邮箱列表),100,14,Java,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,8660.0
+timqi/CollapsibleTextView,CollapsibleTextView,show or hide part of text only in a TextView,100,24,Java,timqi,Tim Qi,User,"Beijing,China",39.90419989999999,116.4073963,Beijing,China,8660.0
+shaileshmamgain5/Carousel-Notification,Carousel-Notification,Carousel-Notification lets you make carousel type notification where user can navigate within the notification. Selected item can be obtained using a broadcast receiver.,100,22,Java,shaileshmamgain5,Shailesh Mamgain,User,Gurgaon,28.459496500000004,77.02663829999999,Gurugram,India,8660.0
+Bigkoo/EasySideBar,EasySideBar,一款按字母排序库，已封装好城市数据，风格仿美团，可定制化强。,100,24,Java,Bigkoo,,Organization,,,,,,8660.0
+dfqin/PermissionGrantor,PermissionGrantor,一行代码搞定Android6.0动态权限授权、权限管理 || Android permission grantor util ,100,17,Java,dfqin,Abe,User,,,,,,8660.0
+TKkk-iOSer/WeChatPlugin-MacOS,WeChatPlugin-MacOS,mac OS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开、会话置底、免认证登录、窗口置顶、会话多选删除,2879,374,Objective-C,TKkk-iOSer,TK,User,,,,,,200.0
+pojala/electrino,electrino,"Desktop runtime for apps built on web technologies, using the system's own web browser engine",2854,60,Objective-C,pojala,Pauli Ojala,User,"Helsinki, Finland",,,,,202.5
+TextureGroup/Texture,Texture,Smooth asynchronous user interfaces for iOS apps.,2602,315,Objective-C,TextureGroup,,Organization,,,,,,230.0
+linkedin/bluepill,bluepill,Bluepill is a reliable iOS testing tool that runs UI tests using multiple simulators on a single machine,2513,151,Objective-C,linkedin,LinkedIn,Organization,"Mountain View, CA, USA",37.3860517,-122.08385109999999,Mountain View,United States,243.0
+Naituw/IPAPatch,IPAPatch,"Patch iOS Apps, The Easy Way, Without Jailbreak.",2160,308,Objective-C,Naituw,Wutian,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,297.0
+kpwn/yalu102,yalu102,incomplete iOS 10.2 jailbreak for 64 bit devices by qwertyoruiopz and marcograssi,1739,602,Objective-C,kpwn,,User,,,,,,409.0
+Sunnyyoung/WeChatTweak-macOS,WeChatTweak-macOS,A dynamic library tweak for WeChat macOS - 微信 macOS 客户端撤回拦截与多开,1470,157,Objective-C,Sunnyyoung,Sunnyyoung,User,Guangzhou,23.12911,113.264385,Guangzhou,China,499.0
+twitter/ios-twitter-image-pipeline,ios-twitter-image-pipeline,Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients,1448,58,Objective-C,twitter,"Twitter, Inc.",Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,509.0
+wangrui460/WRNavigationBar,WRNavigationBar,超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等    WRNavigationBar which allows you to change NavigationBar's appearance dynamically,1357,270,Objective-C,wangrui460,,User,ShangHai,31.230390399999997,121.4737021,Shanghai,China,551.5
+alibaba/LazyScrollView,LazyScrollView,An iOS ScrollView to resolve the problem of reusability in views.,1198,212,Objective-C,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,639.0
+AloneMonkey/Monk
