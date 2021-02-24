@@ -3259,4 +3259,123 @@ giveMeHug/SDWebView,SDWebView,"针对WKWebView进行的封装、支持和H5交�
 pudongqi/Objective-C,Objective-C,对Objective-C语言学习的练习,127,20,Objective-C,pudongqi,蒲东齐,User,"Wuhan,China",,,,,6796.5
 GREENBANYAN/PrivacyPermission,PrivacyPermission,PrivacyPermission is a library for accessing various system privacy permissions,127,31,Objective-C,GREENBANYAN,BANYAN,User,"Hangzhou,Zhejiang",,,,,6796.5
 kayanouriko/E-HentaiViewer,E-HentaiViewer,一个E-Hentai的iOS端阅读器,124,10,Objective-C,kayanouriko,kayanouriko,User,,,,,,6974.5
-tuyaohui/IM_iOS,IM_iOS,iOS即时通讯，从入门到“放弃”？,123,42,Objectiv
+tuyaohui/IM_iOS,IM_iOS,iOS即时通讯，从入门到“放弃”？,123,42,Objective-C,tuyaohui,,User,,,,,,7031.5
+opooc/iOSClientOfQFNU,iOSClientOfQFNU,iOS掌上曲园,123,4,Objective-C,opooc,opooc,User,,,,,,7031.5
+Naituw/CoreMLDemo,CoreMLDemo,Demo for CoreML & Vision Framework,123,29,Objective-C,Naituw,Wutian,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,7031.5
+ChavezChen/CWLateralSlide,CWLateralSlide,一行代码集成超低耦合的侧滑功能,121,24,Objective-C,ChavezChen,,User,,,,,,7141.5
+relatedcode/RCMessageKit,RCMessageKit,RCMessageKit is a light-weight and easy-to-use Chat user interface framework for iOS.,119,29,Objective-C,relatedcode,Related Code,User,Budapest - Wien,48.19093849999999,16.4141454,Wien,Austria,7265.0
+zanyfly/Dr.Light,Dr.Light,iOS safety kit to avoid crash in some cases(OC),118,11,Objective-C,zanyfly,Ivan,User,,,,,,7328.0
+tbl00c/ZZUIHelper,ZZUIHelper,UI代码自动生成工具,118,25,Objective-C,tbl00c,李伯坤,User,青岛大学,,,,,7328.0
+BAHome/BAWKWebView,BAWKWebView,用分类封装 WKWebView，一行代码搞定 request、URL、URLString、本地 HTML文件、HTMLString等请求，一个 block 搞定 title、progress、currentURL、当前网页的高度等等所需,117,19,Objective-C,BAHome,BAHome,Organization,,,,,,7392.5
+shunFSKi/FSScrollViewNestTableView,FSScrollViewNestTableView,这是一个scrollView嵌套tableView的手势冲突解决方案,116,27,Objective-C,shunFSKi,shunFSKi,User,hefei,,,,,7466.5
+wang542413041/GradientNavigation,GradientNavigation,颜色渐变的导航栏、位置可变的导航栏,114,1,Objective-C,wang542413041,王家伟,User,北京,39.90419989999999,116.4073963,Beijing,China,7593.5
+myl9361/MYLStockChartDemo,MYLStockChartDemo,一个在别的第三方基础上完成的，包含分时图(五档明细图)、五日、k线图(蜡烛图) 的项目，可横屏 、长按，捏合缩放、十字线拖动 ma5 、ma10、ma20 vol macd kdj rsi 等计算和绘制，基本满足股票类app 页面的实现,114,36,Objective-C,myl9361,穆玉林,User,深圳,22.543096,114.05786499999999,Shenzhen,China,7593.5
+efremidze/Animoji,Animoji,Animoji Generator 🦊 (Work in progress),113,11,Objective-C,efremidze,Lasha Efremidze,User,"Santa Monica, CA",34.01945429999999,-118.4911912,Santa Monica,United States,7670.5
+targetcloud/TGRefreshOC,TGRefreshOC,弹簧、橡皮筋下拉刷新控件，类似QQ下拉刷新效果，同时支持其他样式,113,28,Objective-C,targetcloud,targetcloud,User,pudong shanghai,,,,,7670.5
+stackhou/YJCategories,YJCategories,Objective-C 常用分类集合，支持Cocoapods,113,4,Objective-C,stackhou,shoo,User,Beijing,39.90419989999999,116.4073963,Beijing,China,7670.5
+chenliangloveyou/EasyNavigation,EasyNavigation,一款超级简单的导航条管理工具。完全自定义导航条。没有UINavigationBar 和 UINavigationItem 这两个类。完全是对UIView的操作。,113,22,Objective-C,chenliangloveyou,MrChen,User,China,35.86166,104.195397,,China,7670.5
+opooc/SmartCampus,SmartCampus,齐鲁软件设计大赛,113,0,Objective-C,opooc,opooc,User,,,,,,7670.5
+ReticentJohn/Amaroq,Amaroq,A floofy Mastodon companion for iOS,112,29,Objective-C,ReticentJohn,John Gabelmann,User,"Derry, NH",,,,,7748.0
+coderyi/DecouplingKit,DecouplingKit,decoupling between modules in your iOS Project. iOS模块化过程中模块间解耦方案,112,16,Objective-C,coderyi,coderyi,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,7748.0
+MrReality/MRCommon,MRCommon,A collection of many commonly used method,112,8,Objective-C,MrReality,刘入徵,User,,,,,,7748.0
+devapple/yalu103,yalu103,"incomplete iOS 10.3Betas jailbreak for 64 bit devices by qwertyoruiopz, marcograssi, and devapple (personal use)",111,89,Objective-C,devapple,devapple,User,Denver,39.739235799999996,-104.990251,Denver,United States,7820.0
+LJMagicCoder/LJMVVMTool,LJMVVMTool,一款基于rac实现的响应式编程工具类,110,2,Objective-C,LJMagicCoder,,User,,,,,,7898.0
+changsanjiang/SJSlider,SJSlider,滑块视图,110,11,Objective-C,changsanjiang,changsanjiang,User,China-ShangHai,,,,,7898.0
+Minecodecraft/TCP-IP-Model-Simulation,TCP-IP-Model-Simulation,"Computer Network: TCP/IP Five-Level Model Simulation Teaching Tool, based on Mac OS X",110,1,Objective-C,Minecodecraft,JunLin Bian,User,,,,,,7898.0
+halohily/LYSSPai,LYSSPai,高仿「少数派」iOS客户端 v1.1.2,110,36,Objective-C,halohily,Ian Liu,User,Beijing,,,,,7898.0
+2877025939/tabelVew-CollectionView,tabelVew-CollectionView,tabelVew视图嵌套CollectionView视图，导航栏，状态栏滑动变色。,110,10,Objective-C,2877025939,Baron,User,上海,31.230390399999997,121.4737021,Shanghai,China,7898.0
+agilie/DisPlayers-Audio-Visualizers,DisPlayers-Audio-Visualizers,DisPlayer is a customizable audio visualization component that works with recording and playing back audio files,109,11,Objective-C,agilie,Agilie Team,Organization,"Ukraine, Dnipropetrovsk",48.464717,35.046183,Dnipro,Ukraine,7981.5
+west-east/Safe,Safe,use method swizzling to lower APP crash,108,0,Objective-C,west-east,ticsmatic,User,Beijing,39.90419989999999,116.4073963,Beijing,China,8056.0
+China-meng/Runtime-demo,Runtime-demo,Runtime的实际使用场景,108,25,Objective-C,China-meng,孟孟,User,,,,,,8056.0
+niyaoyao/EasyResigny,EasyResigny,EasyResigny is an opensource resign IPA tool created by NY,108,5,Objective-C,niyaoyao,NY,User,China,35.86166,104.195397,,China,8056.0
+dsa28s/mac-hanguldesktop-clock,mac-hanguldesktop-clock,Hangul Desktop Clock for Mac,107,10,Objective-C,dsa28s,MR.LEE(LEE Sang Hun),User,,,,,,8118.5
+Hyman00/YJ3DTouch,YJ3DTouch,Adapt very easily to 3D Touch.,107,12,Objective-C,Hyman00,hyman,User,,,,,,8118.5
+Zuikyo/ZIKCellularAuthorization,ZIKCellularAuthorization,用于修复iOS 10首次安装app时，不会弹出'允许xxx使用数据？'授权框的bug；使用了私有API，已经经过混淆,107,13,Objective-C,Zuikyo,Zuik,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,8118.5
+chenliangloveyou/EasyBluetooth,EasyBluetooth,一款iOS BLE蓝牙调试工具，非常简单容易，也可以作为一个蓝牙库，快速集成和开发。 可以两步搞定蓝牙开发操作。 第一步连接设备，第二步特征读写数据。,106,14,Objective-C,chenliangloveyou,MrChen,User,China,35.86166,104.195397,,China,8187.5
+snail-z/ThemeManager,ThemeManager,ThemeManager is a lightweight library for application to switching themes. support more attributes and theme extensions. more easy and convenient to use.,106,16,Objective-C,snail-z,Zhang,User,"Shenzhen, China",,,,,8187.5
+herozhou/weex-xianyu,weex-xianyu,xianyu app based on weex(仿咸鱼app),105,11,Objective-C,herozhou,herozhou,User,"want to hangzhou,China",30.274084000000002,120.15507,Hangzhou,China,8277.5
+halohily/DriverEpoch,DriverEpoch,全端项目-汽车服务app「iOS」端,105,24,Objective-C,halohily,Ian Liu,User,Beijing,,,,,8277.5
+QuintGao/GKAudioPlayerDemo,GKAudioPlayerDemo,iOS使用MobileVLCKit实现仿网易云音乐播放音乐,104,25,Objective-C,QuintGao,高坤,User,北京市朝阳区,,,,,8366.5
+johnno1962/InjectionIII,InjectionIII,Re-write of Injection for Xcode in (mostly) Swift4,104,2,Objective-C,johnno1962,John Holdsworth,User,London Docklands,,,,,8366.5
+tuyaohui/CocoaAsyncSocketTip,CocoaAsyncSocketTip,iOS即时通讯进阶 - CoacoaAsyncSocket源码解析(源码注释),104,55,Objective-C,tuyaohui,,User,,,,,,8366.5
+npomfret/react-native-image-tools,react-native-image-tools,Image editing software powered by Abode Creative SDK for iOS and Android.,103,15,Objective-C,npomfret,Nick Pomfret,User,London,,,,,8444.0
+tangdiforx/TTAVPlayer,TTAVPlayer,基于AVPlayer的iOS视频播放器，支持预设模式：普通模式，竖屏模式，横屏模式，静音模式，自定义模式。接入成本低，支持丰富的手势操作以及UI自定义。,103,23,Objective-C,tangdiforx,Dylan Tang,User,HangZhou.china,,,,,8444.0
+pikacode/EBBannerView,EBBannerView,"Just 1 line：Show a banner the same as iOS  9/10/11 Notification, or show a custom view anyway. 只需一行代码：展示跟 iOS 系统一样的推送通知横幅，或展示一个自定义的 view。支持横屏、自动适应各种机型、自动声音/震动。",103,10,Objective-C,pikacode,pikacode,User,ShenZhen City in China,22.543096,114.05786499999999,Shenzhen,China,8444.0
+steventroughtonsmith/AlternateIconTest,AlternateIconTest,iOS 10.3 Alternate Icon sample,101,5,Objective-C,steventroughtonsmith,Steven Troughton-Smith,User,"Dublin, Ireland",53.34980529999999,-6.2603097000000005,Dublin,Ireland,8590.0
+YueWangChina/ZHHPTest,ZHHPTest,提示框  一句代码调用，方便使用,101,0,Objective-C,YueWangChina,老王,User,北京,,,,,8590.0
+louisdh/pointerkit,pointerkit,A proof of concept framework to use a pointing device on iOS,101,3,Objective-C,louisdh,Louis D'hauwe,User,Belgium,,,,,8590.0
+zhangchunyu2016/CYTabbar,CYTabbar,一个iOS底部控制器、中间按钮凸出的tabbar、支持CocoaPods,101,29,Objective-C,zhangchunyu2016,ChunyuZhang,User,BeiJing,,,,,8590.0
+yixiangboy/YXViewPager,YXViewPager,iOS中的viewpager,101,26,Objective-C,yixiangboy,,User,,,,,,8590.0
+MQZHot/MTransparentNav,MTransparentNav,Change NavigationBar's color and transparency  导航栏颜色渐变，通过给viewController添加属性，可方便控制title、item、导航栏颜色变化,100,16,Objective-C,MQZHot,MQZHot,User,Beijing,,,,,8660.0
+donnemartin/system-design-primer,system-design-primer,Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.,21780,2633,Python,donnemartin,Donne Martin,User,"Washington, D.C.",38.9071923,-77.03687070000001,Washington,United States,5.0
+python/cpython,cpython,The Python programming language,15060,3779,Python,python,Python,Organization,,,,,,9.0
+ageitgey/face_recognition,face_recognition,The world's simplest facial recognition api for Python and the command line,8487,1691,Python,ageitgey,Adam Geitgey,User,Various places,,,,,31.0
+tonybeltramelli/pix2code,pix2code,pix2code: Generating Code from a Graphical User Interface Screenshot,8037,605,Python,tonybeltramelli,Tony Beltramelli,User,Denmark,,,,,34.0
+google/python-fire,python-fire,Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.,7663,386,Python,google,Google,Organization,,,,,,36.0
+eriklindernoren/ML-From-Scratch,ML-From-Scratch,Python implementations of Machine Learning models and algorithms from scratch. Aims to cover everything from Data Mining techniques to Deep Learning.,7601,968,Python,eriklindernoren,Erik Linder-Norén,User,"Linköping, Sweden",,,,,38.0
+pypa/pipenv,pipenv, Python Development Workflow for Humans.,6985,353,Python,pypa,Python Packaging Authority,Organization,,,,,,47.0
+deepmind/sonnet,sonnet,TensorFlow-based neural network library,5702,720,Python,deepmind,DeepMind,Organization,London,,,,,66.0
+yandex/gixy,gixy,Nginx configuration static analyzer,5002,190,Python,yandex,Yandex,Organization,"Moscow, Russia",55.755826,37.6173,Moscow,Russia,78.0
+maxbbraun/trump2cash,trump2cash,A stock trading bot powered by Trump tweets,4115,566,Python,maxbbraun,Max Braun,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,100.0
+yunjey/pytorch-tutorial,pytorch-tutorial,PyTorch Tutorial for Deep Learning Researchers,4089,1040,Python,yunjey,Yunjey Choi,User,"Seoul, South Korea",,,,,103.0
+satwikkansal/wtfpython,wtfpython,"A collection of interesting, subtle, and tricky Python snippets.",4059,248,Python,satwikkansal,Satwik Kansal,User,"New Delhi, India",,,,,104.0
+rsms/inter,inter,The Inter UI font family,4049,71,Python,rsms,Rasmus,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,105.0
+youfou/wxpy,wxpy,微信机器人 / 可能是最优雅的微信个人号 API ✨✨,3854,778,Python,youfou,Youfou,User,"Shenzhen, China",,,,,115.0
+astorfi/TensorFlow-World,TensorFlow-World,:earth_americas: Simple and ready-to-use tutorials for TensorFlow,3675,289,Python,astorfi,Amirsina Torfi,User,"Morgantown, WV",39.629526,-79.95589679999998,Morgantown,United States,122.0
+deepmind/pysc2,pysc2,StarCraft II Learning Environment,3643,464,Python,deepmind,DeepMind,Organization,London,,,,,125.0
+SerpentAI/SerpentAI,SerpentAI,Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA,3363,271,Python,SerpentAI,SerpentAI,Organization,"Montreal, Canada",56.130366,-106.34677099999999,,Canada,140.0
+ufoym/deepo,deepo,A series of Docker images (and their generator) that allows you to quickly set up your deep learning research environment.,3360,268,Python,ufoym,Ming,User,"Guangzhou, China",,,,,142.0
+facebookresearch/visdom,visdom,"A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.",3325,356,Python,facebookresearch,,Organization,,,,,,145.0
+google/seq2seq,seq2seq,A general-purpose encoder-decoder framework for Tensorflow,3219,688,Python,google,Google,Organization,,,,,,155.0
+xoreaxeaxeax/sandsifter,sandsifter,The x86 processor fuzzer,3210,239,Python,xoreaxeaxeax,domas,User,,,,,,157.0
+xiyouMc/WebHubBot,WebHubBot,Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.  ,3131,753,Python,xiyouMc,Mark,User,ZheJiang hangzhou,30.274084000000002,120.15507,Hangzhou,China,162.0
+OmkarPathak/pygorithm,pygorithm,A Python module for learning all major algorithms,3127,287,Python,OmkarPathak,Omkar Pathak,User,"Pune, Maharashtra, India",,,,,163.0
+ansible/awx,awx,AWX Project,3065,420,Python,ansible,Ansible,Organization,,,,,,174.0
+misterch0c/shadowbroker,shadowbroker,The Shadow Brokers 'Lost In Translation' leak ,3006,2031,Python,misterch0c,,User,Belgium,,,,,178.0
+schollz/howmanypeoplearearound,howmanypeoplearearound,Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:,2983,121,Python,schollz,Zack,User,"Edmonton, CA",,,,,182.0
+openai/baselines,baselines,OpenAI Baselines: high-quality implementations of reinforcement learning algorithms,2979,716,Python,openai,OpenAI,Organization,,,,,,183.5
+encode/apistar,apistar,"A smart Web API framework, designed for Python 3. 🌟",2951,206,Python,encode,Encode,Organization,,,,,,186.0
+junyanz/pytorch-CycleGAN-and-pix2pix,pytorch-CycleGAN-and-pix2pix,"Image-to-image translation in PyTorch (e.g. horse2zebra, edges2cats, and more)",2796,546,Python,junyanz,Jun-Yan Zhu,User,"Berkeley, CA",37.87159260000001,-122.272747,Berkeley,United States,206.0
+zalandoresearch/fashion-mnist,fashion-mnist,A MNIST-like fashion product database. Benchmark :point_right: ,2776,314,Python,zalandoresearch,Zalando Research,Organization,,,,,,210.0
+LazoCoder/Pokemon-Terminal,Pokemon-Terminal,Pokemon terminal themes.,2659,118,Python,LazoCoder,Lazo,User,"Toronto, Canada",,,,,223.5
+facebookresearch/ParlAI,ParlAI,A framework for training and evaluating AI models on a variety of openly available dialog datasets.,2551,399,Python,facebookresearch,,Organization,,,,,,238.0
+Chaosthebot/Chaos,Chaos,A social coding experiment that updates its own code democratically.,2470,264,Python,Chaosthebot,Chaos,Organization,Github,40.0169197,-105.2779781,Boulder,United States,248.0
+evilsocket/opensnitch,opensnitch,OpenSnitch is a GNU/Linux port of the Little Snitch application firewall.,2401,88,Python,evilsocket,Simone Margaritelli,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,254.0
+wangshub/wechat_jump_game,wechat_jump_game,python 微信《跳一跳》辅助,2392,756,Python,wangshub,神奇的战士-王松,User,Shenzhen，China,22.543096,114.05786499999999,Shenzhen,China,255.0
+uber/pyro,pyro,Deep universal probabilistic programming with Python and PyTorch,2362,211,Python,uber,Uber Open Source,Organization,70+ countries and counting.,,,,,259.0
+kylemcdonald/FreeWifi,FreeWifi,How to get free wifi.,2289,165,Python,kylemcdonald,Kyle McDonald,User,"Los Angeles, California",34.0522342,-118.24368490000002,Los Angeles,United States,277.0
+Blizzard/s2client-proto,s2client-proto,StarCraft II Client - protocol definitions used to communicate with StarCraft II.,2253,238,Python,Blizzard,Blizzard Entertainment,Organization,"Irvine, CA",33.6845673,-117.82650490000002,Irvine,United States,280.0
+tensorflow/nmt,nmt,TensorFlow Neural Machine Translation Tutorial,2241,622,Python,tensorflow,,Organization,,,,,,284.0
+kennethreitz/setup.py,setup.py,📦 A Human's Ultimate Guide to setup.py.,2171,119,Python,kennethreitz,Kenneth Reitz,User,"Winchester, VA",39.1856597,-78.16333409999999,Winchester,United States,294.5
+Qix-/better-exceptions,better-exceptions,"Pretty and useful exceptions in Python, automatically.",2119,68,Python,Qix-,Qix,User,,,,,,308.5
+google/kubeflow,kubeflow,Machine Learning Toolkit for Kubernetes,2105,160,Python,google,Google,Organization,,,,,,313.0
+yahoo/TensorFlowOnSpark,TensorFlowOnSpark,TensorFlowOnSpark brings TensorFlow programs onto Apache Spark clusters,2037,527,Python,yahoo,Yahoo Inc.,Organization,"Sunnyvale, California",37.368829999999996,-122.03634960000001,Sunnyvale,United States,329.0
+huntergregal/mimipenguin,mimipenguin,A tool to dump the login password from the current linux user,1995,376,Python,huntergregal,Hunter Gregal,User,,,,,,339.0
+ecthros/uncaptcha,uncaptcha,Defeating Google's audio reCaptcha with 85% accuracy. ,1982,221,Python,ecthros,George Hughey,User,,,,,,340.0
+oarriaga/face_classification,face_classification,Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.,1956,371,Python,oarriaga,Octavio Arriaga,User,"Bremen, Germany",,,,,346.0
+hwalsuklee/tensorflow-generative-model-collections,tensorflow-generative-model-collections,Collection of generative models in Tensorflow,1944,333,Python,hwalsuklee,,User,,,,,,348.0
+yunjey/StarGAN,StarGAN,PyTorch Implemenation of 'StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation',1921,203,Python,yunjey,Yunjey Choi,User,"Seoul, South Korea",,,,,353.0
+pyecharts/pyecharts,pyecharts,Python Echarts Plotting Library,1913,450,Python,pyecharts,pyecharts,Organization,China,,,,,355.0
+jinfagang/weibo_terminater,weibo_terminater,"Final Weibo Crawler Scrap Anything From Weibo, comments, weibo contents, followers, anything. The Terminator ",1899,431,Python,jinfagang,JinTian,User,Sanfancisco,37.7749295,-122.4194155,San Francisco,United States,360.0
+naturomics/CapsNet-Tensorflow,CapsNet-Tensorflow,A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules,1871,536,Python,naturomics,Huadong Liao,User,"Chongqing, China",29.431586100000004,106.912251,,China,364.0
+vi3k6i5/flashtext,flashtext,Extract Keywords from sentence or Replace keywords in sentences.,1868,182,Python,vi3k6i5,Vikash Singh,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India,367.0
+facebookresearch/DrQA,DrQA,Reading Wikipedia to Answer Open-Domain Questions,1863,283,Python,facebookresearch,,Organization,,,,,,368.0
+Sentdex/pygta5,pygta5,Explorations of Using Python to play Grand Theft Auto 5.,1837,361,Python,Sentdex,Harrison,User,Texas,,,,,373.0
+deepmind/dnc,dnc,A TensorFlow implementation of the Differentiable Neural Computer.,1804,294,Python,deepmind,DeepMind,Organization,London,,,,,389.5
+CharlesShang/FastMaskRCNN,FastMaskRCNN,Mask RCNN in TensorFlow ,1762,666,Python,CharlesShang,Charles Shang,User,Beijing,,,,,402.0
+tkarras/progressive_growing_of_gans,progressive_growing_of_gans,"Progressive Growing of GANs for Improved Quality, Stability, and Variation",1736,207,Python,tkarras,Tero Karras,User,"Helsinki, Finland",60.16985569999999,24.938379100000002,Helsinki,Finland,410.0
+rlcode/reinforcement-learning,reinforcement-learning,Minimal and Clean Reinforcement Learning Examples,1629,320,Python,rlcode,RLCode,Organization,Seoul,,,,,437.5
+zhoubear/open-paperless,open-paperless," Scan, index, and archive all of your paper documents",1598,65,Python,zhoubear,Tina Zhou,User,,,,,,450.5
+boramalper/magnetico,magnetico,Autonomous (self-hosted) BitTorrent DHT search engine suite.,1591,185,Python,boramalper,Bora M. Alper,User,Dilijan,40.7405524,44.8625965,Dilijan,Armenia,453.0
+ManrajGrover/halo,halo,💫 Beautiful terminal spinners in Python,1556,53,Python,ManrajGrover,Manraj Singh,User,"Bangalore, India",12.9715987,77.5945627,Bengaluru,India,463.0
+Netflix/stethoscope,stethoscope,"Personalized, user-focused recommendations for employee information security.",1552,92,Python,Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",37.235807799999996,-121.96237509999999,Los Gatos,United States,466.0
+martinarjovsky/WassersteinGAN,WassersteinGAN,,1537,351,Python,martinarjovsky,,User,,,,,,471.0
+ofek/hatch,hatch,"A modern project, package, and virtual env manager for Python",1530,43,Python,ofek,Ofek Lev,User,Knowhere,32.842856,-117.27502379999999,San Diego,United States,476.0
+shadowsocksr-backup/shadowsocksr,shadowsocksr,Python port of ShadowsocksR,1492,1654,Python,shadowsocksr-backup,,Organization,,,,,,491.0
+AKSHAYUBHAT/DeepVideoAnalytics,DeepVideoAnalytics,A distributed visual search and visual data analytics platform.,1489,340,Python,AKSHAYUBHAT,Akshay Bhat,User,"New York, NY, USA",,,,,492.0
+GoogleCloudPlatform/distroless,distroless,"🥑  Language focused docker images, minus the operating system.  ",1462,77,Python,GoogleCloudPlatform,Google Cloud Platform,Organization,,,,,,504.5
+mli/gluon-tutorials-zh,gluon-tutorials-zh,通过MXNet/Gluon来动手学习深度学习,1460,383,Python,mli,Mu Li,User,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,506.0
+tensorflow/fold,fold,Deep learning with dynamic computation graphs in TensorFlow,1436,194,Python,tensorflow,,Organization,,,,,,511.0
+nanohop/sketch-to-react-native,sketch-to-react-native,Convert Sketch files into React Native components,1423,67,Python,nanohop,NanoHop,User,"Indianapolis, IN",39.768403,-86.158068,Indianapolis,United States,517.0
+hindupuravinash/the-gan-zoo,the-gan-zoo,A list of all named GANs!,1417,307,Python,hindupuravinash,Avinash Hindupur,User,New Delhi,,,,,520.5
+x0rz/tweets_analyzer,tweets_analyzer,Tweets metadata scraper & activity
