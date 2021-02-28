@@ -3378,4 +3378,114 @@ mli/gluon-tutorials-zh,gluon-tutorials-zh,通过MXNet/Gluon来动手学习深度
 tensorflow/fold,fold,Deep learning with dynamic computation graphs in TensorFlow,1436,194,Python,tensorflow,,Organization,,,,,,511.0
 nanohop/sketch-to-react-native,sketch-to-react-native,Convert Sketch files into React Native components,1423,67,Python,nanohop,NanoHop,User,"Indianapolis, IN",39.768403,-86.158068,Indianapolis,United States,517.0
 hindupuravinash/the-gan-zoo,the-gan-zoo,A list of all named GANs!,1417,307,Python,hindupuravinash,Avinash Hindupur,User,New Delhi,,,,,520.5
-x0rz/tweets_analyzer,tweets_analyzer,Tweets metadata scraper & activity
+x0rz/tweets_analyzer,tweets_analyzer,Tweets metadata scraper & activity analyzer,1402,291,Python,x0rz,,User,France,46.227638,2.213749,,France,528.0
+gaojiuli/toapi,toapi,Every web site provides APIs.,1400,70,Python,gaojiuli,Jiuli Gao,User,"Chengdu, China",30.572815000000002,104.066801,Chengdu,China,529.0
+overshard/timestrap,timestrap,Time tracking you can host anywhere. Full export support in multiple formats and easily extensible.,1399,68,Python,overshard,Isaac Bythewood,User,"Morganton, NC",,,,,530.5
+google/tangent,tangent,Source-to-Source Debuggable Derivatives in Pure Python,1380,83,Python,google,Google,Organization,,,,,,541.0
+jamesob/tinychain,tinychain,A pocket-sized implementation of Bitcoin,1270,86,Python,jamesob,James O'Beirne,User,,,,,,594.0
+nyaadevs/nyaa,nyaa,Bittorrent software for cats,1268,175,Python,nyaadevs,,Organization,,,,,,597.5
+x0rz/EQGRP_Lost_in_Translation,EQGRP_Lost_in_Translation,"Decrypted content of odd.tar.xz.gpg, swift.tar.xz.gpg and windows.tar.xz.gpg",1267,1151,Python,x0rz,,User,France,46.227638,2.213749,,France,599.0
+TuSimple/mx-maskrcnn,mx-maskrcnn,An MXNet implementation of Mask R-CNN,1262,453,Python,TuSimple,TuSimple,Organization,San Diego,32.715738,-117.1610838,San Diego,United States,602.0
+allenai/allennlp,allennlp,"An open-source NLP research library, built on PyTorch.",1251,150,Python,allenai,AI2,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,605.0
+SirCmpwn/evilpass,evilpass,Slightly evil password strength checker,1249,56,Python,SirCmpwn,Drew DeVault,User,,,,,,606.0
+hunkim/PyTorchZeroToAll,PyTorchZeroToAll,Simple PyTorch Tutorials Zero to ALL!,1195,301,Python,hunkim,Sung Kim,User,Hong Kong,22.396428,114.10949699999999,,Hong Kong,641.5
+taolei87/sru,sru,Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755),1188,169,Python,taolei87,Tao Lei,User,,,,,,650.0
+eldraco/domain_analyzer,domain_analyzer,Analyze the security of any domain by finding all the information possible. Made in python.,1174,112,Python,eldraco,Sebastian Garcia,User,,,,,,662.5
+NVIDIA/pix2pixHD,pix2pixHD,Synthesizing and manipulating 2048x1024 images with conditional GANs,1170,137,Python,NVIDIA,NVIDIA Corporation,Organization,"2701 San Tomas Expressway, Santa Clara, California, 95050",37.370012100000004,-121.96534950000002,Santa Clara,United States,668.0
+XifengGuo/CapsNet-Keras,CapsNet-Keras,A Keras implementation of CapsNet in NIPS2017 paper 'Dynamic Routing Between Capsules'. Now test error ＝ 0.34%. ,1139,265,Python,XifengGuo,Xifeng Guo,User,,,,,,692.5
+golbin/TensorFlow-Tutorials,TensorFlow-Tutorials,텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다,1115,453,Python,golbin,Jin Kim,User,Seoul,37.566534999999995,126.9779692,Seoul,South Korea,711.0
+mil-tokyo/webdnn,webdnn,The Fastest DNN Running Framework on Web Browser,1111,78,Python,mil-tokyo,Machine Intelligence Laboratory (The University of Tokyo),Organization,,,,,,716.0
+reinforceio/tensorforce,tensorforce,TensorForce: A TensorFlow library for applied reinforcement learning,1111,180,Python,reinforceio,reinforce.io,Organization,"Cambridge, United Kingdom",,,,,716.0
+jinfagang/tensorflow_poems,tensorflow_poems,中文古诗自动作诗机器人，屌炸天，基于tensorflow1.4 api，正在积极维护升级中，快star，保持更新！,1084,340,Python,jinfagang,JinTian,User,Sanfancisco,37.7749295,-122.4194155,San Francisco,United States,732.0
+joedicastro/vps-comparison,vps-comparison,A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone that wanted to compare these results to their own. All the tests results are available in order to provide independence and transparency.,1079,45,Python,joedicastro,joe di castro,User,"A Coruña, Spain",,,,,736.0
+1adrianb/face-alignment,face-alignment,:fire: 2D and 3D Face alignment library build using pytorch ,1077,198,Python,1adrianb,Adrian Bulat,User,,,,,,737.0
+QISKit/qiskit-sdk-py,qiskit-sdk-py,"Software development kit for writing quantum computing experiments,  programs, and applications.",1068,296,Python,QISKit,QISKit,Organization,,,,,,741.0
+pirate/bookmark-archiver,bookmark-archiver,🗄 Save an archived copy of all websites starred using Pocket/Pinboard/Bookmarks/RSS.  Outputs browseable html.,1062,55,Python,pirate,Nick Sweeting,User,"Medellín, Colombia",6.244203,-75.5812119,,Colombia,743.5
+Instagram/MonkeyType,MonkeyType,A system for Python that generates static type annotations by collecting runtime types,1060,29,Python,Instagram,Instagram,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,745.5
+msracver/Deformable-ConvNets,Deformable-ConvNets,Deformable Convolutional Networks,1059,369,Python,msracver,MSRA CVer,Organization,,,,,,747.0
+jcjohnson/pytorch-examples,pytorch-examples,Simple examples to introduce PyTorch,1049,218,Python,jcjohnson,Justin Johnson,User,,,,,,750.0
+tryolabs/luminoth,luminoth,Deep Learning toolkit for Computer Vision,1041,101,Python,tryolabs,Tryolabs,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,757.0
+endernewton/tf-faster-rcnn,tf-faster-rcnn,Tensorflow Faster RCNN for Object Detection,1032,473,Python,endernewton,Xinlei Chen,User,Pittsburgh,40.44062479999999,-79.9958864,Pittsburgh,United States,765.0
+brightmart/text_classification,text_classification,all kinds of text classificaiton models and more with deep learning,1026,371,Python,brightmart,brightmart,User,"hangzhou,china",30.274084000000002,120.15507,Hangzhou,China,771.0
+reiinakano/scikit-plot,scikit-plot,An intuitive library to add plotting functionality to scikit-learn objects.,1011,96,Python,reiinakano,Reiichiro Nakano,User,Tokyo,,,,,782.0
+airbnb/streamalert,streamalert,"StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.",1004,101,Python,airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,788.0
+gaojiuli/gain,gain,Web crawling framework  based on asyncio for everyone.,1003,66,Python,gaojiuli,Jiuli Gao,User,"Chengdu, China",30.572815000000002,104.066801,Chengdu,China,789.0
+hunkim/deep_architecture_genealogy,deep_architecture_genealogy,Deep Learning Architecture  Genealogy Project,993,162,Python,hunkim,Sung Kim,User,Hong Kong,22.396428,114.10949699999999,,Hong Kong,795.0
+vulnersCom/getsploit,getsploit,Command line utility for searching and downloading exploits,986,139,Python,vulnersCom,Vulners Team,User,"Russia, Moscow",55.755826,37.6172999,Moscow,Russia,804.0
+tensorflow/tensorboard,tensorboard,TensorFlow's Visualization Toolkit,982,246,Python,tensorflow,,Organization,,,,,,805.0
+reiinakano/xcessiv,xcessiv,"A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.",972,59,Python,reiinakano,Reiichiro Nakano,User,Tokyo,,,,,813.0
+nathanlopez/Stitch,Stitch,Python Remote Administration Tool (RAT),963,265,Python,nathanlopez,Nathan Lopez,User,,,,,,819.5
+dnouri/skorch,skorch,A scikit-learn compatible neural network library that wraps pytorch,962,73,Python,dnouri,Daniel Nouri,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,822.0
+CQFIO/PhotographicImageSynthesis,PhotographicImageSynthesis,Photographic Image Synthesis with Cascaded Refinement Networks,962,160,Python,CQFIO,Qifeng Chen,User,Silicon Valley & Hong Kong,12.969458300000001,77.6326306,Bengaluru,India,822.0
+AlexiaJM/Deep-learning-with-cats,Deep-learning-with-cats,Deep learning with cats (^._.^),959,127,Python,AlexiaJM,Alexia Jolicoeur-Martineau,User,"Montréal, Qc, Canada",45.5016889,-73.567256,Montreal,Canada,825.5
+facebookresearch/end-to-end-negotiator,end-to-end-negotiator,Deal or No Deal? End-to-End Learning for Negotiation Dialogues,959,192,Python,facebookresearch,,Organization,,,,,,825.5
+openai/roboschool,roboschool,"Open-source software for robot simulation, integrated with OpenAI Gym.",955,187,Python,openai,OpenAI,Organization,,,,,,829.5
+facebookresearch/fairseq-py,fairseq-py,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,954,143,Python,facebookresearch,,Organization,,,,,,832.5
+kootenpv/neural_complete,neural_complete,A neural network trained to help writing neural network code using autocomplete,953,99,Python,kootenpv,Pascal van Kooten,User,"Utrecht, Netherlands",52.09073739999999,5.121420099999999,Utrecht,Netherlands,834.5
+jtesta/ssh-mitm,ssh-mitm,SSH man-in-the-middle tool,953,107,Python,jtesta,Joe Testa,User,"Rochester, NY",43.16103,-77.61092190000001,Rochester,United States,834.5
+onejgordon/flow-dashboard,flow-dashboard,"A goal, task & habit tracker + personal dashboard to focus on what matters",952,72,Python,onejgordon,Jeremy Gordon,User,"Berkeley, CA",37.87159260000001,-122.272747,Berkeley,United States,836.0
+eth0izzle/bucket-stream,bucket-stream,Find interesting Amazon S3 Buckets by watching certificate transparency logs.,940,93,Python,eth0izzle,Paul,User,London,,,,,844.5
+daleroberts/itermplot,itermplot,"An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal.",940,30,Python,daleroberts,Dale Roberts,User,"Canberra, Australia",-35.2809368,149.1300092,Canberra,Australia,844.5
+ctfs/write-ups-2017,write-ups-2017,"Wiki-like CTF write-ups repository, maintained by the community. 2017",940,222,Python,ctfs,CTFs,Organization,,,,,,844.5
+google/glazier,glazier,A tool for automating the installation of the Microsoft Windows operating system on various device platforms.,937,60,Python,google,Google,Organization,,,,,,849.0
+has2k1/plotnine,plotnine,A grammar of graphics for Python,934,28,Python,has2k1,Hassan Kibirige,User,,,,,,851.0
+OsciiArt/DeepAA,DeepAA,make Ascii Art by Deep Learing,911,53,Python,OsciiArt,OsciiArt,User,Japan,36.204824,138.252924,,Japan,874.0
+hustcc/JS-Sorting-Algorithm,JS-Sorting-Algorithm,一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go 实现。,910,238,Python,hustcc,hustcc,User,"HangZhou, China",30.274084999999996,120.15507,Hangzhou,China,876.0
+MorvanZhou/Tensorflow-Tutorial,Tensorflow-Tutorial,Tensorflow tutorial from basic to hard,898,438,Python,MorvanZhou,Morvan,User,,,,,,889.0
+apple/coremltools,coremltools,Converter tools for Core ML.,896,68,Python,apple,Apple,Organization,"Cupertino, CA",37.322997799999996,-122.03218229999999,Cupertino,United States,892.0
+vesche/basicRAT,basicRAT,python remote access trojan,895,213,Python,vesche,Austin Jackson,User,USA,37.09024,-95.712891,,United States,894.0
+lanpa/tensorboard-pytorch,tensorboard-pytorch,tensorboard for pytorch,895,80,Python,lanpa,Tzu-Wei Huang,User,"Taipei, Taiwan",25.0329694,121.56541770000001,Taipei,Taiwan,894.0
+cdgriffith/Box,Box,Python dictionaries with advanced dot notation access,886,31,Python,cdgriffith,Chris Griffith,User,"San Antonio, TX",29.4241219,-98.4936282,San Antonio,United States,906.5
+iogf/sukhoi,sukhoi,Minimalist and powerful Web Crawler.,880,51,Python,iogf,Iury de oliveira gomes figueiredo,User,"Rio de janeiro, brasil",-22.9068467,-43.1728965,Rio de Janeiro,Brazil,915.0
+laike9m/pdir2,pdir2,Pretty dir() printing with joy:beer:,880,26,Python,laike9m,Yao Zuo,User,China,35.86166,104.195397,,China,915.0
+openai/generating-reviews-discovering-sentiment,generating-reviews-discovering-sentiment,Code for 'Learning to Generate Reviews and Discovering Sentiment',872,203,Python,openai,OpenAI,Organization,,,,,,925.5
+github/octodns,octodns,Tools for managing DNS across multiple providers,870,87,Python,github,GitHub,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,928.0
+sukeesh/Jarvis,Jarvis,Personal Assistant for Linux and macOS,864,203,Python,sukeesh,Sukeesh,User,"Hyderabad, India",,,,,934.0
+trailofbits/manticore,manticore,Symbolic execution tool,862,113,Python,trailofbits,Trail of Bits,Organization,"New York, New York",,,,,937.0
+MorvanZhou/Reinforcement-learning-with-tensorflow,Reinforcement-learning-with-tensorflow,Simple Reinforcement learning tutorials,860,542,Python,MorvanZhou,Morvan,User,,,,,,939.0
+mame82/P4wnP1,P4wnP1,"P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W.",859,170,Python,mame82,,User,,,,,,940.0
+countercept/doublepulsar-detection-script,doublepulsar-detection-script,A python2 script for sweeping a network to find windows systems compromised with the DOUBLEPULSAR implant.,858,287,Python,countercept,Countercept,User,"UK, New York, South Africa, Singapore",,,,,941.0
+igul222/improved_wgan_training,improved_wgan_training,Code for reproducing experiments in 'Improved Training of Wasserstein GANs',852,277,Python,igul222,Ishaan Gulrajani,User,,,,,,946.0
+andabi/deep-voice-conversion,deep-voice-conversion,Deep neural networks for voice conversion (voice style transfer) in Tensorflow,842,128,Python,andabi,Dabi Ahn,User,"Seoul, Korea",,,,,958.0
+OpenNMT/OpenNMT-py,OpenNMT-py,Open Source Neural Machine Translation in PyTorch,834,362,Python,OpenNMT,OpenNMT,Organization,,,,,,965.0
+zhedongzheng/finch,finch,TensorFlow for Deep NLP,833,252,Python,zhedongzheng,,User,,,,,,966.5
+merantix/picasso,picasso,:art: A CNN visualizer,816,98,Python,merantix,Merantix,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,978.0
+csujedihy/lc-all-solutions,lc-all-solutions,My own leetcode all solutions by python,814,163,Python,csujedihy,Jedihy,User,"Redmond, WA",,,,,979.5
+roxma/nvim-completion-manager,nvim-completion-manager," :zap: Fast, Extensible, Async Completion Framework for Neovim",803,37,Python,roxma,rox,User,china,,,,,989.0
+evilsocket/bleah,bleah,A BLE scanner for 'smart' devices hacking.,789,81,Python,evilsocket,Simone Margaritelli,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,1014.0
+Yorko/mlcourse_open,mlcourse_open,OpenDataScience Machine Learning course (yet Russian-only),770,810,Python,Yorko,Yury Kashnitskiy,User,Moscow,,,,,1047.5
+aaronduino/asciidots,asciidots,"AsciiDots - The result of combining ascii art, electrical engineering, and programming.",768,19,Python,aaronduino,Aaron Janse,User,San Jose,37.338208200000004,-121.88632859999998,San Jose,United States,1050.5
+eawsy/aws-lambda-go-shim,aws-lambda-go-shim,"Author your AWS Lambda functions in Go, effectively.",766,61,Python,eawsy,eawsy,Organization,Le Cloud,44.253170000000004,0.946484,,France,1053.0
+kaonashi-tyc/zi2zi,zi2zi,Learning Chinese Character style with conditional GAN,757,137,Python,kaonashi-tyc,Yuchen Tian,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,1072.0
+maciejkula/spotlight,spotlight,Deep recommender models using PyTorch.,754,103,Python,maciejkula,Maciej Kula,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,1079.0
+Franck-Dernoncourt/NeuroNER,NeuroNER,Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.,753,193,Python,Franck-Dernoncourt,Franck Dernoncourt,User,"San Jose, CA, USA",,,,,1080.0
+google/deepvariant,deepvariant,DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.,740,160,Python,google,Google,Organization,,,,,,1100.5
+kennethreitz/delegator.py,delegator.py,Subprocesses for Humans 2.0.,733,39,Python,kennethreitz,Kenneth Reitz,User,"Winchester, VA",39.1856597,-78.16333409999999,Winchester,United States,1121.5
+joshua-wu/deepfakes_faceswap,deepfakes_faceswap,from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/,730,216,Python,joshua-wu,,User,,,,,,1128.0
+RaRe-Technologies/bounter,bounter,Efficient Counter that uses a limited (bounded) amount of memory regardless of data size.,728,31,Python,RaRe-Technologies,RaRe Technologies,Organization,,,,,,1136.5
+wzpan/dingdang-robot,dingdang-robot,叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。,727,236,Python,wzpan,Joseph Pan,User,,,,,,1141.5
+Netflix/hubcommander,hubcommander,A Slack bot for GitHub organization management -- and other things too,727,94,Python,Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",37.235807799999996,-121.96237509999999,Los Gatos,United States,1141.5
+allanzelener/YAD2K,YAD2K,YAD2K: Yet Another Darknet 2 Keras,726,254,Python,allanzelener,,User,,,,,,1145.5
+openai/evolution-strategies-starter,evolution-strategies-starter,Starter code for Evolution Strategies,725,114,Python,openai,OpenAI,Organization,,,,,,1150.0
+Tylous/SniffAir,SniffAir,A framework for wireless pentesting.,724,72,Python,Tylous,Tylous,User,,,,,,1154.0
+tryolabs/requestium,requestium,Integration layer between Requests and Selenium for automation of web actions.,717,25,Python,tryolabs,Tryolabs,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1166.0
+mingyuliutw/UNIT,UNIT,unsupervised/unpaired image-to-image translation using Coupled GANs,703,107,Python,mingyuliutw,Ming-Yu Liu-------劉洺堉,User,United States,37.09024,-95.712891,,United States,1187.0
+infobyte/spoilerwall,spoilerwall,Spoilerwall introduces a brand new concept in the field of network hardening. Avoid being scanned by spoiling movies on all your ports!,702,29,Python,infobyte,Infobyte LLC,Organization,"Miami, FL",25.7616798,-80.1917902,Miami,United States,1189.0
+Kyubyong/tacotron,tacotron,A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model,701,168,Python,Kyubyong,Kyubyong Park,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,1190.5
+databricks/spark-deep-learning,spark-deep-learning,Deep Learning Pipelines for Apache Spark,694,148,Python,databricks,Databricks,Organization,"California, USA",36.778261,-119.4179324,,United States,1205.0
+Staffjoy/suite,suite,"Staffjoy V1, aka 'Suite' - a scheduling application for hundreds of workers",692,128,Python,Staffjoy,Staffjoy,Organization,"San Francisco, CA",,,,,1211.0
+vividvilla/csvtotable,csvtotable,Simple command-line utility to convert CSV files to searchable and sortable HTML table.,687,43,Python,vividvilla,Vivek R,User,Bengaluru,12.9715987,77.5945627,Bengaluru,India,1224.0
+dylanaraps/pywal,pywal,🎨 Generate and change colorschemes on the fly. A 'wal' rewrite in Python 3.,680,27,Python,dylanaraps,Dylan Araps,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia,1233.0
+aaron-xichen/pytorch-playground,pytorch-playground,"Base pretrained models and datasets in pytorch (MNIST, SVHN, CIFAR10, CIFAR100, STL10, AlexNet, VGG16, VGG19, ResNet, Inception, SqueezeNet)",677,147,Python,aaron-xichen,Aaron Chen,User,Beijing,39.90419989999999,116.4073963,Beijing,China,1244.5
+msracver/Deep-Feature-Flow,Deep-Feature-Flow,Deep Feature Flow for Video Recognition,672,158,Python,msracver,MSRA CVer,Organization,,,,,,1258.0
+D4Vinci/Cr3dOv3r,Cr3dOv3r,Know the dangers of credential reuse attacks.,671,117,Python,D4Vinci,Karim shoair,User,Egypt,,,,,1261.5
+Cadene/pretrained-models.pytorch,pretrained-models.pytorch,"Pretrained ConvNets for pytorch: NASNet, ResNeXt101, ResNet152, InceptionV4, InceptionResnetV2, etc.",670,78,Python,Cadene,Remi,User,Paris,,,,,1265.5
+SlapBot/stephanie-va,stephanie-va,Stephanie is an open-source platform built specifically for voice-controlled applications as well as to automate daily tasks imitating much of an virtual assistant's work.,670,94,Python,SlapBot,Ujjwal Gupta,User,"Kanpur, Uttar Pradesh, India",26.449923,80.3318736,Kanpur,India,1265.5
+csurfer/pyheatmagic,pyheatmagic,IPython magic command to profile and view your python code as a heat map.,666,15,Python,csurfer,Vishwas B Sharma,User,Sunnyvale,37.368829999999996,-122.03634960000001,Sunnyvale,United States,1272.5
+cr0hn/dockerscan,dockerscan,Docker security analysis & hacking tools,665,98,Python,cr0hn,cr0hn,User,Madrid,40.4167754,-3.7037902000000003,Madrid,Spain,1274.5
+D4Vinci/Dr0p1t-Framework,Dr0p1t-Framework,A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks,663,193,Python,D4Vinci,Karim shoair,User,Egypt,,,,,1278.5
+facebookresearch/InferSent,InferSent,Sentence embeddings (InferSent) and training code for NLI.,660,95,Python,facebookresearch,,Organization,,,,,,1283.5
+Zehaos/MobileNet,MobileNet,MobileNet build with Tensorflow,658,211,Python,Zehaos,Zehao Shi,User,,,,,,1288.5
+yhenon/keras-frcnn,keras-frcnn,,658,375,Python,yhenon,Yann Henon,User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,1288.5
+NVIDIA/DeepRecommender,DeepRecommender,Deep learning for recommender systems,657,82,Python,NVIDIA,NVIDIA Corporation,Organization,"2701 San Tomas Expressway, Santa Clara, California, 95050",37.370012100000004,-121.96534950000002,Santa Clara,United States,1293.0
+mikepound/mazesolving,mazesolving,A variety of algorithms to solve mazes from an i
