@@ -3599,4 +3599,113 @@ RasaHQ/rasa_core,rasa_core,machine learning based dialogue engine for conversati
 chrisranderson/beholder,beholder,A TensorBoard plugin for visualizing arbitrary tensors in a video as your network trains.,435,18,Python,chrisranderson,Chris Anderson,User,,,,,,1948.5
 AbenezerMamo/crypto-signal,crypto-signal,"Automated Crypto Technical Analysis (TA) for Bittrex, GDAX, and more! (250+ coins)",433,86,Python,AbenezerMamo,Abenezer Mamo,User,0xBitfinessin',,,,,1958.0
 uTensor/uTensor,uTensor,AI inference library based on mbed and TensorFlow,432,40,Python,uTensor,,Organization,,,,,,1962.0
-samrayleung/jd_spider
+samrayleung/jd_spider,jd_spider,两只蠢萌京东的分布式爬虫. ,430,117,Python,samrayleung,Samray,User,404 Not Found,,,,,1970.0
+datawire/telepresence,telepresence,Local development against a remote Kubernetes or OpenShift cluster,428,34,Python,datawire,datawire.io,Organization,"Cambridge, MA",42.373615799999996,-71.10973349999998,Cambridge,United States,1978.5
+howie6879/owllook,owllook,owllook-在线网络小说阅读网站&小说搜索引擎&小说推荐系统[搜索、追书、收藏、追更、小说API] - 基于Sanic,426,137,Python,howie6879,howie.hu,User,Xiamen,,,,,1991.0
+googlesamples/assistant-sdk-python,assistant-sdk-python,Samples and bindings for the Google Assistant API,425,107,Python,googlesamples,Google Samples,Organization,,,,,,1997.0
+iogf/crocs,crocs,Write regex using pure python class/function syntax and test it better. (Regex for humans).,424,24,Python,iogf,Iury de oliveira gomes figueiredo,User,"Rio de janeiro, brasil",-22.9068467,-43.1728965,Rio de Janeiro,Brazil,2005.0
+AxeldeRomblay/MLBox,MLBox,MLBox is a powerful Automated Machine Learning python library. ,415,96,Python,AxeldeRomblay,Axel,User,Paris,,,,,2042.0
+chubin/cheat.sh,cheat.sh,the fastest way to find {command options|code pieces} you need,414,23,Python,chubin,Igor Chubin,User,,,,,,2045.5
+kendricktan/misocoin,misocoin,Barebones bitcoin-like protocol implemented in Python 3.6,413,23,Python,kendricktan,Kendrick Tan,User,"Brisbane, Australia",-27.469770699999998,153.0251235,Brisbane,Australia,2048.5
+jonluca/Anubis,Anubis,Subdomain enumeration and information gathering tool,412,32,Python,jonluca,JonLuca De Caro,User,"Los Angeles, CA",,,,,2053.5
+timomernick/pytorch-capsule,pytorch-capsule,Pytorch implementation of Hinton's Dynamic Routing Between Capsules,411,63,Python,timomernick,Tim Omernick,User,,,,,,2059.5
+astorfi/speechpy,speechpy,:speech_balloon: SpeechPy - A Library for Speech Processing and Recognition,411,47,Python,astorfi,Amirsina Torfi,User,"Morgantown, WV",39.629526,-79.95589679999998,Morgantown,United States,2059.5
+szagoruyko/diracnets,diracnets,Training Very Deep Neural Networks Without Skip-Connections,406,53,Python,szagoruyko,Sergey Zagoruyko,User,,,,,,2080.5
+YadiraF/GAN,GAN,"Resources and Implementations of  Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN",406,172,Python,YadiraF,,User,,,,,,2080.5
+jarrekk/imgkit,imgkit,🎆 Wkhtmltoimage python wrapper to convert html to image,405,33,Python,jarrekk,jarrekk,User,,,,,,2085.5
+quiltdata/quilt,quilt,Quilt - manage data like code,405,17,Python,quiltdata,Quilt Data,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2085.5
+encode/uvicorn,uvicorn,"The lightning-fast asyncio server, for Python 3. 🦄",405,12,Python,encode,Encode,Organization,,,,,,2085.5
+jakebian/snaptile,snaptile,Versatile window tiling for X11 with powerful keyboard controls,404,10,Python,jakebian,Jake Bian,User,SF,37.7749295,-122.4194155,San Francisco,United States,2091.5
+lzjun567/crawler_html2pdf,crawler_html2pdf,,404,370,Python,lzjun567,liuzhijun,User,guangzhou,,,,,2091.5
+certsocietegenerale/fame,fame,FAME Automates Malware Evaluation,403,90,Python,certsocietegenerale,CERT Société Générale,User,,,,,,2097.0
+oddProton/Datastructures-and-Algorithms-notes,Datastructures-and-Algorithms-notes,,403,39,Python,oddProton,Stelios Tymvios,User,,,,,,2097.0
+MarcoPon/SeqBox,SeqBox,A single file container/archive that can be reconstructed even after total loss of file system structures,401,19,Python,MarcoPon,Marco Pontello,User,,,,,,2110.0
+facebookresearch/SentEval,SentEval,A python tool for evaluating the quality of sentence embeddings.,401,41,Python,facebookresearch,,Organization,,,,,,2110.0
+marin-m/pbtk,pbtk,A toolset for reverse engineering and fuzzing Protobuf-based apps,396,35,Python,marin-m,Marin,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,2132.0
+dataversioncontrol/dvc,dvc,Make your data science projects reproducible and shareable. https://dataversioncontrol.com,396,27,Python,dataversioncontrol,Data Version Control,Organization,"Foster City, CA",37.558546500000006,-122.2710788,Foster City,United States,2132.0
+sensepost/objection,objection,📱 objection - runtime mobile exploration,395,54,Python,sensepost,SensePost,Organization,South Africa,-30.559482,22.937506,,South Africa,2139.5
+meetshah1995/pytorch-semseg,pytorch-semseg,Semantic Segmentation Architectures Implemented in PyTorch,395,103,Python,meetshah1995,Meet Pragnesh Shah ,User,"Mumbai, India",19.0759837,72.87765590000001,Mumbai,India,2139.5
+felixlaumon/deform-conv,deform-conv,Deformable Convolution in TensorFlow / Keras,394,105,Python,felixlaumon,Felix Lau,User,,,,,,2149.5
+Jack-Cherish/python-spider,python-spider,Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说爬取；动漫下载；手机APP爬取；财务报表入库,388,187,Python,Jack-Cherish,Jack Cui,User,China,35.86166,104.195397,,China,2183.5
+DLTK/DLTK,DLTK,Deep Learning Toolkit for Medical Image Analysis,388,79,Python,DLTK,,Organization,,,,,,2183.5
+marcdacosta/ambient-shipping,ambient-shipping,This repo contains utilities for capturing AIS messages and joining them with shipping records.,388,23,Python,marcdacosta,Marc DaCosta,User,"New York, NY",,,,,2183.5
+thewhitetulip/build-app-with-python-antitextbook,build-app-with-python-antitextbook,Aims to teach Python3 by example,387,35,Python,thewhitetulip,Suraj Patil,User,Westeros,,,,,2192.0
+philipperemy/keras-attention-mechanism,keras-attention-mechanism,Attention mechanism Implementation for Keras.,387,97,Python,philipperemy,Philippe Rémy,User,"Tokyo, JP",35.6894875,139.69170640000002,Tokyo,Japan,2192.0
+olacabs/jackhammer,jackhammer,Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.,385,78,Python,olacabs,,Organization,,,,,,2203.0
+alibaba/gym-starcraft,gym-starcraft,"StarCraft environment for OpenAI Gym, based on Facebook's TorchCraft. (In progress) ",384,108,Python,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,2209.0
+100/Solid,Solid,🎯 A comprehensive gradient-free optimization framework written in Python,384,19,Python,100,Devin Soni,User,,,,,,2209.0
+crocs-muni/roca,roca,ROCA: Infineon RSA key vulnerability,383,71,Python,crocs-muni,CRoCS,Organization,"Faculty of Informatics, Masaryk University, Brno",49.2100047,16.598802,,Czechia,2216.5
+szq0214/DSOD,DSOD,DSOD: Learning Deeply Supervised Object Detectors from Scratch. In ICCV 2017.,383,130,Python,szq0214,Zhiqiang Shen,User,"Illinois, USA",,,,,2216.5
+0x09AL/raven,raven,raven is a Linkedin information gathering tool that  can be used by pentesters to gather information about an organization employees using Linkedin.,383,84,Python,0x09AL,Rio,User,,,,,,2216.5
+guohongze/adminset,adminset,自动化运维平台：CMDB、CD、DevOps、资产管理、任务编排、持续交付、系统监控、运维管理、配置管理,382,273,Python,guohongze,,User,Beijing,39.90419989999999,116.4073963,Beijing,China,2223.5
+anishathalye/seashells,seashells,The official client for Seashells.io 🐚,379,5,Python,anishathalye,Anish Athalye,User,"Cambridge, MA",42.373615799999996,-71.10973349999998,Cambridge,United States,2240.5
+AlessandroZ/BeRoot,BeRoot,Windows Privilege Escalation Tool,377,107,Python,AlessandroZ,,User,,,,,,2252.5
+kendricktan/iffse,iffse,Facial Feature Search Engine for Some Photo Sharing Website,377,53,Python,kendricktan,Kendrick Tan,User,"Brisbane, Australia",-27.469770699999998,153.0251235,Brisbane,Australia,2252.5
+IntelLabs/hpat,hpat,A compiler-based big data framework in Python,375,25,Python,IntelLabs,Intel Labs,Organization,Around the globe,,,,,2266.5
+chainer/chainerrl,chainerrl,ChainerRL is a deep reinforcement learning library built on top of Chainer.,372,81,Python,chainer,Chainer,Organization,,,,,,2283.5
+datascienceinc/Skater,Skater,Python Library for Model Agnostic Interpretation,370,41,Python,datascienceinc,DataScience.com,Organization,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,2295.5
+kragniz/anyprint,anyprint,Use any language's print statements in Python,370,26,Python,kragniz,Louis Taylor,User,"Bristol, United Kingdom",,,,,2295.5
+bloomberg/powerfulseal,powerfulseal,A powerful testing tool for Kubernetes clusters.,370,14,Python,bloomberg,Bloomberg,Organization,"New York, NY",,,,,2295.5
+LCTT/LCBot,LCBot,Linux 中国 微信群机器人（已经停止维护）,368,100,Python,LCTT,Linux.Cn Translation Team,Organization,China,35.86166,104.195397,,China,2311.0
+martin-gorner/tensorflow-rnn-shakespeare,tensorflow-rnn-shakespeare,"Code from the 'Tensorflow and deep learning - without a PhD, Part 2' session on Recurrent Neural Networks.",367,164,Python,martin-gorner,,User,,,,,,2322.0
+llSourcell/capsule_networks,capsule_networks,This is the code for 'Capsule Networks: An Improvement to Convolutional Networks' by Siraj Raval on Youtube,364,113,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2331.5
+palantir/python-language-server,python-language-server,An implementation of the Language Server Protocol for Python,363,41,Python,palantir,Palantir Technologies,Organization,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,2339.5
+abisee/pointer-generator,pointer-generator,Code for the ACL 2017 paper 'Get To The Point: Summarization with Pointer-Generator Networks',363,133,Python,abisee,Abi See,User,"Stanford, CA",,,,,2339.5
+khanrc/tf.gans-comparison,tf.gans-comparison,Implementations of (theoretical) generative adversarial networks and comparison without cherry-picking,361,42,Python,khanrc,Junbum Cha,User,,,,,,2349.5
+moxiegushi/zhihu,zhihu,知乎爬虫（验证码自动识别）,359,119,Python,moxiegushi,,User,,,,,,2359.5
+mrharicot/monodepth,monodepth,Unsupervised single image depth prediction with CNNs,358,141,Python,mrharicot,Clément Godard,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,2366.5
+embedi/CVE-2017-11882,CVE-2017-11882,Proof-of-Concept exploits for CVE-2017-11882,358,130,Python,embedi,Embedi,Organization,"2001 Addison Street Berkeley, California 94704",37.8711407,-122.2703807,Berkeley,United States,2366.5
+shivylp/pyschemes,pyschemes,PySchemes is a library for validating data structures in python,357,12,Python,shivylp,Shivaprasad Bhat,User,,,,,,2373.0
+alanzchen/rm-protection,rm-protection,A safe alternative for 'rm'.,357,29,Python,alanzchen,Alan Chan,User,Guangzhou & Shenzhen,23.1348174,113.230899,Guangzhou Shi,China,2373.0
+ruotianluo/pytorch-faster-rcnn,pytorch-faster-rcnn,I would appreciate if someone can retrain the model. The 'finetune from scratch' result should be better because the training details have been changed. (And mobilenet training not supported yet.),356,86,Python,ruotianluo,Ruotian(RT) Luo,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States,2378.5
+mricon/rev-proxy-grapher,rev-proxy-grapher,Reverse proxy grapher,355,25,Python,mricon,Konstantin Ryabitsev,User,"Montreal, Canada",45.5016889,-73.567256,Montreal,Canada,2383.5
+gpleiss/efficient_densenet_pytorch,efficient_densenet_pytorch,A memory-efficient implementation of DenseNets,353,70,Python,gpleiss,Geoff Pleiss,User,"Ithaca, NY",42.4439614,-76.5018807,Ithaca,United States,2392.5
+cloudreach/sceptre,sceptre,Build better AWS infrastructure,350,81,Python,cloudreach,Cloudreach,Organization,"London, Edinburgh, Amsterdam, Munich, Paris, Chicago, Vancouver, New York",,,,,2408.5
+QISKit/qiskit-api-py,qiskit-api-py,A Python library for the Quantum Experience API,350,71,Python,QISKit,QISKit,Organization,,,,,,2408.5
+PrajitR/fast-pixel-cnn,fast-pixel-cnn,Speed up PixelCNN++ image generation by up to a 183 times,350,46,Python,PrajitR,Prajit Ramachandran,User,,,,,,2408.5
+ojasookert/CVE-2017-0785,CVE-2017-0785,Blueborne CVE-2017-0785 Android information leak vulnerability,349,146,Python,ojasookert,Kert Ojasoo,User,,,,,,2419.0
+bfelbo/DeepMoji,DeepMoji,"State-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc.",349,44,Python,bfelbo,Bjarke Felbo,User,,,,,,2419.0
+keras-team/keras-contrib,keras-contrib,Keras community contributions,349,139,Python,keras-team,Keras,Organization,Worldwide,,,,,2419.0
+kuangliu/pytorch-cifar,pytorch-cifar,95.16% on CIFAR10 with PyTorch,349,148,Python,kuangliu,,User,"Hangzhou, China",30.274084000000002,120.15507,Hangzhou,China,2419.0
+0x4D31/honeyLambda,honeyLambda,"honeyλ - a simple, serverless application designed to create and monitor fake HTTP endpoints (i.e. URL honeytokens) automatically, on top of AWS Lambda and Amazon API Gateway",349,27,Python,0x4D31,Adel Ka,User,"Sydney, Australia",,,,,2419.0
+EvilCult/moviecatcher,moviecatcher,电影美剧搜索及在线观看离线下载软件，集成热门资源站，借助百度云实现离线下载以及在线播放功能。,348,44,Python,EvilCult,Ray H.,User,"Beijing, China",39.904211,116.407395,Beijing,China,2430.0
+awslabs/sockeye,sockeye,Sequence-to-sequence framework with a focus on Neural Machine Translation based on Apache MXNet,347,92,Python,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,2438.5
+csurfer/pyheat,pyheat,pprofile + matplotlib = Python program profiled as an awesome heatmap!,346,21,Python,csurfer,Vishwas B Sharma,User,Sunnyvale,37.368829999999996,-122.03634960000001,Sunnyvale,United States,2447.0
+jeffmer/micropython-upyphone,micropython-upyphone,A gsm phone using pyboard and sim800l,346,20,Python,jeffmer,,User,,,,,,2447.0
+paulgclark/waveconverter,waveconverter,An Open Source tool for RF reverse engineering.,346,40,Python,paulgclark,Paul Clark,User,,,,,,2447.0
+chris-chris/pysc2-examples,pysc2-examples,StarCraft II - pysc2 Deep Reinforcement Learning Examples,345,183,Python,chris-chris,Chris Hoyean Song,User,Korea,37.66399759999999,127.9784585,,,2458.5
+mmmwhy/ss-panel-and-ss-py-mu,ss-panel-and-ss-py-mu,ss-panel 和ss-panel v3 mod魔改版一键脚本,345,356,Python,mmmwhy,Wing lee,User,Suzhou. China,31.298973999999998,120.58528899999999,Suzhou,China,2458.5
+mehrdadn/SOTA-Py,SOTA-Py,A discrete-time Python-based solver for the Stochastic On-Time Arrival routing problem,345,29,Python,mehrdadn,,User,,,,,,2458.5
+TryCatchHCF/DumpsterFire,DumpsterFire,"'Security Incidents In A Box!'   A modular, menu-driven, cross-platform tool for building customized, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor / alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations. Build event sequences ('narratives') to simulate realistic scenarios and generate corresponding network and filesystem artifacts.",344,57,Python,TryCatchHCF,TryCatchHCF,User,,,,,,2470.5
+D35m0nd142/LFISuite,LFISuite,Totally Automatic LFI Exploiter (+ Reverse Shell) and Scanner ,344,102,Python,D35m0nd142,D35m0nd142,User,,,,,,2470.5
+mitre/caldera,caldera,The CALDERA automated adversary emulation system,344,54,Python,mitre,The MITRE Corporation,Organization,,,,,,2470.5
+gavin66/proxy_list,proxy_list,爬取免费可用代理，供爬虫等工具使用,343,59,Python,gavin66,Gavin,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,2479.5
+HttpRunner/HttpRunner,HttpRunner,"HTTP test runner, more than api test and load test.",343,145,Python,HttpRunner,HttpRunner,Organization,,,,,,2479.5
+roatienza/Deep-Learning-Experiments,Deep-Learning-Experiments,Notes and experiments to understand deep learning concepts,343,242,Python,roatienza,Rowel Atienza,User,Philippines,12.879721,121.77401699999999,,Philippines,2479.5
+DerekSelander/LLDB,LLDB,A collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions,342,44,Python,DerekSelander,Derek,User,Colorado,,,,,2488.0
+shanren7/real_time_face_recognition,real_time_face_recognition,Real time face detection and recognition base  on opencv/tensorflow/mtcnn/facenet,341,174,Python,shanren7,shanren7,User,,,,,,2495.5
+nopernik/sshpry,sshpry,Seamlessly spy on SSH session like it is your tty,340,38,Python,nopernik,Korznikov Alexander,User,Israel,,,,,2503.5
+sc0tfree/mentalist,mentalist,Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.,340,40,Python,sc0tfree,Henry Prince,User,,,,,,2503.5
+MaximumEntropy/Seq2Seq-PyTorch,Seq2Seq-PyTorch,Sequence to Sequence Models with PyTorch,340,92,Python,MaximumEntropy,Sandeep Subramanian,User,"Montreal, QC, Canada",45.5016889,-73.567256,Montreal,Canada,2503.5
+shekkizh/WassersteinGAN.tensorflow,WassersteinGAN.tensorflow,Tensorflow implementation of Wasserstein GAN - arxiv: https://arxiv.org/abs/1701.07875,339,108,Python,shekkizh,Sarath Shekkizhar,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,2511.5
+operatorequals/covertutils,covertutils,A framework for Backdoor development!,339,55,Python,operatorequals,John Torakis,User,Greece,39.074208,21.824312,,Greece,2511.5
+chenjiandongx/cup-size,cup-size,关于女性文胸尺码的深入探讨,338,50,Python,chenjiandongx,陈键冬,User,China,35.86166,104.195397,,China,2518.5
+juliandewit/kaggle_ndsb2017,kaggle_ndsb2017,Kaggle datascience bowl 2017,337,163,Python,juliandewit,Julian de Wit,User,,,,,,2526.0
+candlewill/Dialog_Corpus,Dialog_Corpus,用于训练中英文对话系统的语料库 Datasets for Training Chatbot System,336,138,Python,candlewill,Yunchao He,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,2533.5
+quantumlib/OpenFermion,OpenFermion,OpenFermion: The Electronic Structure Package For Quantum Computers.,334,77,Python,quantumlib,quantumlib,Organization,,,,,,2545.5
+SeanNaren/deepspeech.pytorch,deepspeech.pytorch,Speech Recognition using DeepSpeech2 and the CTC activation function. Edit,333,101,Python,SeanNaren,Sean Naren,User,"London, UK",,,,,2554.5
+ivelum/djangoql,djangoql,Advanced search language for Django,331,32,Python,ivelum,,Organization,,,,,,2570.0
+llSourcell/YOLO_Object_Detection,YOLO_Object_Detection,This is the code for 'YOLO Object Detection' by Siraj Raval on Youtube,331,124,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2570.0
+kingfengji/gcForest,gcForest,This is the official implementation for the paper 'Deep forest: Towards an alternative to deep neural networks',330,145,Python,kingfengji,Ji Feng,User,China,35.86166,104.195397,,China,2576.5
+Hironsan/anago,anago,Bidirectional LSTM-CRF for Sequence Labeling. Easy-to-use and state-of-the-art performance.,329,70,Python,Hironsan,Hiroki Nakayama,User,"Tokyo, Japan",35.6894875,139.69170640000002,,Japan,2586.0
+facebookincubator/bootstrapped,bootstrapped,Generate bootstrapped confidence intervals for A/B testing in Python.,329,33,Python,facebookincubator,Facebook Incubator,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,2586.0
+codingo/Reconnoitre,Reconnoitre,"A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing. Included virtual host scanner.",328,87,Python,codingo,Michael,User,"Brisbane, Australia",,,,,2596.5
+tensorflow/transform,transform,Input pipeline framework,328,49,Python,tensorflow,,Organization,,,,,,2596.5
+jordanpotti/AWSBucketDump,AWSBucketDump,Security Tool to Look For Interesting Files in S3 Buckets,327,56,Python,jordanpotti,JP,User,,,,,,2609.0
+tkipf/gae,gae,Implementation of Graph Auto-Encoders in TensorFlow,327,51,Python,tkipf,Thomas Kipf,User,Amsterdam,52.3702157,4.8951679000000015,Amsterdam,Netherlands,2609.0
+salesforce/awd-lstm-lm,awd-lstm-lm,,327,50,Python,salesforce,Salesforce,Organization,,,,,,2609.0
+keon/deep-q-learning,deep-q-learning,Minimal Deep Q Learning (DQN & DDQN) implementations in Keras,327,98,Python,keon,Keon,User,NYC,40.7127753,-74.0059728,New York,United States,2609.0
+Roshanson/TextInfoExp,TextInfoExp,自然语言处理相关实验（基于sougou数据集），包含文本特征提取（TF-IDF），文本分类，文本聚类，word2vec训练词向量及同义词词林中文词语相似度计算、文档自动摘要，信息抽取，情感分析与观点挖掘等。,327,226,Python,Roshanson,,User,,,,,,2609.0
+Deeplocal/mocktailsmixer,mocktailsmixer,Make a DIY Robotic Mocktails Mixer Powered by the Google Assistant SDK,323,45,Python,Deeplocal,"Deeplocal, Inc.",Organization,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States,2642.0
+openai/multiagent-competition,multiagent-competition,Repository for competitive multi-agent environments,320,52,Python,openai,OpenAI,Organization,,,,,,2663.5
+wwmm/pulseeffects,pulseeffects,"Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications",320,21,Python,wwmm,Welli
