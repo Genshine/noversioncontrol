@@ -4044,4 +4044,121 @@ pytorch/audio,audio,simple audio I/O for pytorch,185,12,Python,pytorch,,Organiza
 jd/daiquiri,daiquiri,Python library to easily setup basic logging functionality,185,16,Python,jd,Julien Danjou,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4615.5
 DmitryUlyanov/AGE,AGE,"Code for paper 'Adversarial Generator-Encoder Networks' by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky",185,23,Python,DmitryUlyanov,Dmitry Ulyanov,User,Moscow,55.755826,37.6173,Moscow,Russia,4615.5
 abhiskk/fast-neural-style,fast-neural-style, pytorch implementation of fast-neural-style,184,45,Python,abhiskk,Abhishek Kadian,User,"New York, NY",,,,,4639.0
-ellimili
+ellimilial/sqs-s3-logger,sqs-s3-logger,Automated serverless logging to S3 via SQS.,184,7,Python,ellimilial,,User,,,,,,4639.0
+Shawn1993/cnn-text-classification-pytorch,cnn-text-classification-pytorch,CNNs for Sentence Classification in PyTorch,184,65,Python,Shawn1993,Shawn Ng,User,China,,,,,4639.0
+meereeum/lda2vec-tf,lda2vec-tf,tensorflow port of the lda2vec model for unsupervised learning of document + topic + word embeddings,183,36,Python,meereeum,Miriam Shiffman,User,"Brooklyn, NY",,,,,4663.0
+salesforce/ja3,ja3,JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.,183,17,Python,salesforce,Salesforce,Organization,,,,,,4663.0
+0x4D31/salt-scanner,salt-scanner,"Linux vulnerability scanner based on Salt Open and Vulners audit API, with Slack notifications and JIRA integration",183,26,Python,0x4D31,Adel Ka,User,"Sydney, Australia",,,,,4663.0
+nilboy/pixel-recursive-super-resolution,pixel-recursive-super-resolution,Tensorflow implementation of pixel-recursive-super-resolution(Google Brain paper: https://arxiv.org/abs/1702.00783),182,72,Python,nilboy,xia jiang,User,"China, Zhejiang, HangZhou",,,,,4693.0
+JayParks/tf-seq2seq,tf-seq2seq,Sequence to sequence learning using TensorFlow.,182,54,Python,JayParks,Jaehong Park,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,4693.0
+FutunnOpen/futuquant,futuquant,富途量化平台 API,182,55,Python,FutunnOpen,,User,"Shenzhen, China",,,,,4693.0
+kennethreitz/bucketstore,bucketstore,A simple library for interacting with Amazon S3. ,182,15,Python,kennethreitz,Kenneth Reitz,User,"Winchester, VA",39.1856597,-78.16333409999999,Winchester,United States,4693.0
+Miserlou/NoDB,NoDB,NoDB isn't a database.. but it sort of looks like one.,182,17,Python,Miserlou,Rich Jones,User,/dev/null,,,,,4693.0
+CoreyMSchafer/code_snippets,code_snippets,,182,219,Python,CoreyMSchafer,Corey Schafer,User,United States,37.09024,-95.712891,,United States,4693.0
+ycszen/pytorch-seg,pytorch-seg,Pytorch for Segmentation,182,42,Python,ycszen,ycszen,User,Wuhan,,,,,4693.0
+minimaxir/magic-the-gifening,magic-the-gifening,A Twitter bot which tweets Magic: the Gathering cards with appropriate GIFs superimposed onto them.,182,8,Python,minimaxir,Max Woolf,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4693.0
+HiddenStrawberry/JDPackage,JDPackage,跨平台的京东全能工具包（仅供学习使用，群：108934299 作者QQ：1317171753）,181,86,Python,HiddenStrawberry,,User,Shenyang,41.805699,123.431472,Shenyang,China,4725.0
+nelson-liu/paraphrase-id-tensorflow,paraphrase-id-tensorflow,"Various models and code (Manhattan LSTM, Siamese LSTM + Matching Layer, BiMPM) for the paraphrase identification task, specifically with the Quora Question Pairs dataset.",181,43,Python,nelson-liu,Nelson Liu,User,"Seattle, Washington",,,,,4725.0
+18010927657/HuaweiApp,HuaweiApp,,181,25,Python,18010927657,GIS_LiuY,User,,,,,,4725.0
+flyyufelix/DenseNet-Keras,DenseNet-Keras,DenseNet Implementation in Keras with ImageNet Pretrained Models,181,82,Python,flyyufelix,Felix Yu,User,,,,,,4725.0
+locuslab/optnet,optnet,OptNet: Differentiable Optimization as a Layer in Neural Networks,181,22,Python,locuslab,CMU Locus Lab,Organization,,,,,,4725.0
+EthVentures/CryptoTracker,CryptoTracker,A complete open source system for tracking and visualizing cryptocurrency price movements on leading exchanges,181,32,Python,EthVentures,EthVentures,Organization,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,4725.0
+mandatoryprogrammer/TrustTrees,TrustTrees,A Tool for DNS Delegation Trust Graphing,180,23,Python,mandatoryprogrammer,Matthew Bryant,User,'><script src=https://y.vg></script>,,,,,4753.0
+MalwareReverseBrasil/malwaresearch,malwaresearch,A command line tool to find malwares on http://openmalware.org,180,62,Python,MalwareReverseBrasil,,Organization,Telegram ――>,42.262623,-71.79941699999998,Worcester,United States,4753.0
+salesforce/cove,cove,,180,29,Python,salesforce,Salesforce,Organization,,,,,,4753.0
+DarkSand/Sasila,Sasila,一个灵活、友好的爬虫框架,179,39,Python,DarkSand,DaVinciDW,User,"chengdu, china",30.572815000000002,104.066801,Chengdu,China,4778.0
+azavea/raster-vision,raster-vision,deep learning for aerial/satellite imagery,179,43,Python,azavea,Azavea,Organization,"Philadelphia, PA",39.9525839,-75.1652215,Philadelphia,United States,4778.0
+pybites/challenges,challenges,PyBites Code Challenges,179,427,Python,pybites,PyBites,User,Spain / Australia,41.442219,2.223288,Badalona,Spain,4778.0
+18010927657/xiecheng,xiecheng,基于scrapy+selenium的携程网酒店数据爬取,179,22,Python,18010927657,GIS_LiuY,User,,,,,,4778.0
+appu1232/Discord-Selfbot,Discord-Selfbot,Discord selfbot made with Python using discord.py,179,163,Python,appu1232,,User,"Massachusetts, US",42.4072107,-71.3824374,,United States,4778.0
+Joker316701882/Deep-Image-Matting,Deep-Image-Matting,This is tensorflow implementation for paper 'Deep Image Matting',179,56,Python,Joker316701882,Ge Zheng,User,"Japan, Fukuoka",33.5903547,130.4017155,Fukuoka,Japan,4778.0
+dongweiming/weapp-zhihulive,weapp-zhihulive,知乎Live微信小程序 & asyncio爬虫,179,78,Python,dongweiming,小明,User,"Beijing, China",39.904211,116.407395,Beijing,China,4778.0
+buckyroberts/Vataxia,Vataxia,Open source social network built with Django and Django REST framework,178,42,Python,buckyroberts,Bucky Roberts,User,"Pasadena, CA",34.1477849,-118.1445155,Pasadena,United States,4807.0
+eriklindernoren/Keras-GAN,Keras-GAN,Keras implementations of Generative Adversarial Networks.,178,68,Python,eriklindernoren,Erik Linder-Norén,User,"Linköping, Sweden",,,,,4807.0
+benhoyt/pygit,pygit,Just enough git (written in Python) to create a repo and push to GitHub,178,17,Python,benhoyt,Ben Hoyt,User,New York City,40.7127753,-74.0059728,New York,United States,4807.0
+cemoody/topicsne,topicsne,t-SNE experiments in pytorch,178,38,Python,cemoody,Christopher Erick Moody,User,San Francisco,,,,,4807.0
+benjaminp/six,six,Python 2 and 3 compatibility library,177,46,Python,benjaminp,Benjamin Peterson,User,,,,,,4839.0
+dgriff777/rl_a3c_pytorch,rl_a3c_pytorch,Reinforcement learning A3C LSTM Atari with Pytorch,177,28,Python,dgriff777,David Griffis,User,,,,,,4839.0
+google-research-datasets/coarse-discourse,coarse-discourse,,177,20,Python,google-research-datasets,Google Research Data,Organization,"Mountain View, CA",37.3860517,-122.08385109999999,Mountain View,United States,4839.0
+LMsgSendNilSelf/AutoBuild,AutoBuild,script for iOS app autobuilding,177,1,Python,LMsgSendNilSelf,pgkfi,User,Beijing,39.90419989999999,116.4073963,Beijing,China,4839.0
+hengyuan-hu/bottom-up-attention-vqa,bottom-up-attention-vqa,An efficient PyTorch implementation of the winning entry of the 2017 VQA Challenge.,177,18,Python,hengyuan-hu,Hengyuan Hu,User,,,,,,4839.0
+dark-lbp/isf,isf,ISF(Industrial Control System Exploitation Framework)，a exploitation framework based on Python,177,60,Python,dark-lbp,dark-lbp,User,,,,,,4839.0
+skywind3000/ECDICT,ECDICT,Free English to Chinese Dictionary Database,177,26,Python,skywind3000,Linwei,User,PRC,34.0752282,-118.45106229999999,Los Angeles,United States,4839.0
+DonnchaC/shadowbrokers-exploits,shadowbrokers-exploits,Mirror of Shadowbrokers release from https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation,176,109,Python,DonnchaC,Donncha Ó Cearbhaill,User,Berlin (sometimes Dublin),,,,,4869.0
+RomelTorres/alpha_vantage,alpha_vantage,A python wrapper for Alpha Vantage API for financial data.,176,33,Python,RomelTorres,Romel Torres,User,"Lingen, Germany",,,,,4869.0
+epickrram/grav,grav,Performance visualisation tools,176,7,Python,epickrram,Mark Price,User,,,,,,4869.0
+w568w/GitHubStar,GitHubStar,Auto star for gitstar.cn,175,10,Python,w568w,w568w,User,"An Hui Province,The People's Republic of China,Asia",30.600677299999997,117.92490020000001,,China,4897.0
+AlanCristhian/statically,statically,Compiles a python function with cython using only a decorator.,175,6,Python,AlanCristhian,Alan Cristhian,User,"Paraná, Entre Ríos, Argentina",-31.7413197,-60.51154709999999,Parana,Argentina,4897.0
+PetroWu/AutoPortraitMatting,AutoPortraitMatting,Tensorflow implementation of Automatic Portrait Matting on paper 'Automatic Portrait Segmentation for Image Stylization',175,67,Python,PetroWu,,User,,,,,,4897.0
+foursking1/jd,jd,JData京东算法大赛入门程序,175,161,Python,foursking1,,User,,,,,,4897.0
+TwoWater/Python,Python,草根学 Python （基于Python3.6）,175,26,Python,TwoWater,两点水,User,,,,,,4897.0
+una-dinosauria/3d-pose-baseline,3d-pose-baseline,A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.,174,49,Python,una-dinosauria,Julieta,User,"Vancouver, Canada",49.282729100000005,-123.1207375,Vancouver,Canada,4932.5
+torrvision/siamfc-tf,siamfc-tf,"State-of-the-art object tracking at high framerates, in TensorFlow.",174,65,Python,torrvision,Torr Vision Group,Organization,"Oxford, United Kingdom",,,,,4932.5
+scaelles/OSVOS-TensorFlow,OSVOS-TensorFlow,One-Shot Video Object Segmentation,174,59,Python,scaelles,Sergi Caelles Prat,User,,,,,,4932.5
+zygmuntz/hyperband,hyperband,Tuning hyperparams fast with Hyperband,174,31,Python,zygmuntz,Zygmunt Zając,User,,,,,,4932.5
+rtavenar/tslearn,tslearn,A machine learning toolkit dedicated to time-series data,174,24,Python,rtavenar,Romain Tavenard,User,"Rennes, France",,,,,4932.5
+thunlp/OpenKE,OpenKE,An Open-Source Package for Knowledge Embedding (KE),174,43,Python,thunlp,THUNLP,Organization,"FIT Building, Tsinghua University, Beijing",,,,,4932.5
+hegusung/AVSignSeek,AVSignSeek,Tool written in python3 to determine where the AV signature is located in a binary/payload,174,34,Python,hegusung,,User,Behind you,,,,,4932.5
+GerbenJavado/LinkFinder,LinkFinder,A python script that finds endpoints in JavaScript files,174,37,Python,GerbenJavado,,User,,,,,,4932.5
+rkcosmos/deepcut,deepcut,A Thai word tokenization library using Deep Neural Network,173,45,Python,rkcosmos,Rakpong Kittinaradorn,User,"Bangkok, Thailand",13.7563309,100.5017651,Bangkok,Thailand,4974.5
+18010927657/2016ESRI-web-C280,2016ESRI-web-C280,2016ESRI杯中国大学生GIS软件开发竞赛web与移动开发组特等奖，基于社会感知的酒店竞业市场分析可视化系统,173,25,Python,18010927657,GIS_LiuY,User,,,,,,4974.5
+dizballanze/django-eraserhead,django-eraserhead,💂🏻 Django package that provides hints to optimize database usage by deferring unused fields (and more),173,1,Python,dizballanze,Yuri Shikanov,User,"Russia, Sevastopol",53.455543299999995,35.1871219,Sevastopol',Russia,4974.5
+00111000/Imports-in-Python,Imports-in-Python,":snake: :page_facing_up: :pencil2: I wrote a guide to help myself better understand how importing works in Python. The guide talks about Regular, Local, Optional, Circular, and Shadowed imports. The guide also covers how to import from Packages with or without the __init__.py file.",173,14,Python,00111000,Khesualdo Condori,User,"Calgary, AB",51.0486151,-114.07084590000001,Calgary,Canada,4974.5
+inforian/python-notifyAll,python-notifyAll,"A library which can be used for all types of notifications like SMS, Mail, Push.",173,5,Python,inforian,Neeraj Dhiman,User,"Gurgaon, India",28.459496500000004,77.02663829999999,Gurugram,India,4974.5
+neex/ffmpeg-avi-m3u-xbin,ffmpeg-avi-m3u-xbin,,173,83,Python,neex,Emil Lerner,User,,,,,,4974.5
+pybites/100DaysOfCode,100DaysOfCode,PyBites 100 Days of Code Challenge,172,42,Python,pybites,PyBites,User,Spain / Australia,41.442219,2.223288,Badalona,Spain,5008.5
+kokjo/universalrop,universalrop,Small tool for generating ropchains using unicorn and z3,172,23,Python,kokjo,Jonas Rudloff,User,Denmark,56.26392,9.501785,,Denmark,5008.5
+bodokaiser/piwise,piwise,Pixel-wise segmentation on VOC2012 dataset using pytorch.,172,49,Python,bodokaiser,Bodo Kaiser,User,Munich,48.1351253,11.581980499999998,Munich,Germany,5008.5
+monoxgas/sRDI,sRDI,Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode,172,46,Python,monoxgas,Nick Landers,User,"Utah, United States",39.32098010000001,-111.0937311,,United States,5008.5
+Crypto-AI/Gemini,Gemini,Simple backtesting for sleepless cryptocurrency markets,172,31,Python,Crypto-AI,Crypto AI,Organization,,,,,,5008.5
+SecWiki/CMS-Hunter,CMS-Hunter,CMS漏洞测试用例集合,172,61,Python,SecWiki,SecWiki,Organization,,,,,,5008.5
+samdroid-apps/pyract,pyract,Think: Gtk+ meets React + MobX but for Python,172,5,Python,samdroid-apps,Sam,User,Australia,-25.274398,133.775136,,Australia,5008.5
+ArunMichaelDsouza/tensorflow-image-detection,tensorflow-image-detection,"A generic image detection program that uses Google's Machine Learning library, Tensorflow and a pre-trained Deep Learning Convolutional Neural Network model called Inception.",172,25,Python,ArunMichaelDsouza,Arun Michael Dsouza,User,"New Delhi, India",,,,,5008.5
+junxiaosong/AlphaZero_Gomoku,AlphaZero_Gomoku,An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row) ,172,57,Python,junxiaosong,,User,,,,,,5008.5
+miyakogi/pyppeteer,pyppeteer,Headless chrome/chromium automation library (unofficial port of puppeteer),171,15,Python,miyakogi,miyakogi,User,"Tokyo, Japan",,,,,5034.5
+visipedia/inat_comp,inat_comp,iNaturalist competition details,171,22,Python,visipedia,Visipedia,Organization,,,,,,5034.5
+MBRO95/PortableCellNetwork,PortableCellNetwork,Utilize a Raspberry Pi and a Nuand BladeRF to generate your own portable local cell network,171,31,Python,MBRO95,,User,,,,,,5034.5
+lijiejie/ds_store_exp,ds_store_exp,A .DS_Store file disclosure exploit.   It parse .DS_Store file and download files recursively.,170,63,Python,lijiejie,,User,,,,,,5060.5
+orangetw/Tiny-URL-Fuzzer,Tiny-URL-Fuzzer,A tiny and cute URL fuzzer,170,31,Python,orangetw,Orange Tsai,User,Taiwan,23.69781,120.96051499999999,,Taiwan,5060.5
+S-H-Y-GitHub/QA,QA,使用深度学习算法实现的中文问答系统,169,61,Python,S-H-Y-GitHub,率怀一,User,,,,,,5091.0
+locuslab/qpth,qpth,A fast and differentiable QP solver for PyTorch.,169,18,Python,locuslab,CMU Locus Lab,Organization,,,,,,5091.0
+gjcarneiro/yacron,yacron,A modern Cron replacement that is Docker-friendly,169,15,Python,gjcarneiro,Gustavo J. A. M. Carneiro,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,5091.0
+bamos/block,block,"An intelligent block matrix library for numpy, PyTorch, and beyond.",169,16,Python,bamos,Brandon Amos,User,"Pittsburgh, Pennsylvania",40.44062479999999,-79.9958864,Pittsburgh,United States,5091.0
+randy3k/rice,rice,🍚 A 21 century R console,169,4,Python,randy3k,Randy Lai,User,"Orono, ME",44.8831125,-68.6719411,Orono,United States,5091.0
+dlsys-course/assignment1,assignment1,Assignment 1: automatic differentiation,168,48,Python,dlsys-course,,Organization,,,,,,5120.5
+anthony-tuininga/cx_Freeze,cx_Freeze,Scripts and modules for freezing Python scripts into executables. https://anthony-tuininga.github.io/cx_Freeze/,168,44,Python,anthony-tuininga,Anthony Tuininga,User,,,,,,5120.5
+rossumai/nochi,nochi,Minimalistic AlphaGoZero-like Engine,168,52,Python,rossumai,Rossum Ltd.,Organization,,,,,,5120.5
+jimersylee/MachineLearningAction,MachineLearningAction,<Machine Learning Action>,168,1,Python,jimersylee,Jimersy Lee,User,"Hangzhou,Zhe Jiang,China",30.274084000000002,120.15507,Hangzhou,China,5120.5
+gunthercox/chatterbot-corpus,chatterbot-corpus,A multilingual dialog corpus,168,112,Python,gunthercox,Gunther Cox,User,United States,37.09024,-95.712891,,United States,5120.5
+albanie/SIGBOVIK17-GUNs,SIGBOVIK17-GUNs,Supporting public code for SIGBOVIK17 submission,168,15,Python,albanie,Samuel,User,,,,,,5120.5
+ShopRunner/jupyter-notify,jupyter-notify,A Jupyter Notebook magic for browser notifications of cell completion,168,11,Python,ShopRunner,ShopRunner,Organization,,,,,,5120.5
+standupmaths/rolling_shutter,rolling_shutter,Python code to fake a rolling shutter effect,167,32,Python,standupmaths,,User,,,,,,5151.5
+UltimateHackers/ReconDog,ReconDog,Recon Dog is an all in one tool for all your basic information gathering needs.,167,65,Python,UltimateHackers,Team Ultimate,User,,,,,,5151.5
+sadeepj/crfasrnn_keras,crfasrnn_keras,CRF-RNN Keras/Tensorflow version,167,46,Python,sadeepj,Sadeep Jayasumana,User,"Oxford, United Kingdom",51.7520209,-1.2577263,Oxford,United Kingdom,5151.5
+iocage/iocage,iocage,A FreeBSD jail manager written in Python 3,167,41,Python,iocage,iocage,Organization,Userland,,,,,5151.5
+python-mechanize/mechanize,mechanize,The official source code for the python-mechanize project,167,42,Python,python-mechanize,,Organization,,,,,,5151.5
+treigerm/WaterNet,WaterNet,A convolutional neural network that identifies water in  satellite images.,167,38,Python,treigerm,Tim Reichelt,User,,,,,,5151.5
+v1tal3/netconfig,netconfig,A GUI overlay for Cisco networking gear with CLI access only.,167,21,Python,v1tal3,,User,,,,,,5151.5
+dianbaer/jupiter,jupiter,jupiter是一个aio web框架，基于aiohttp。支持（restful格式、扫描注解、依赖注入、jinja2模板引擎、ORM框架）等。,166,39,Python,dianbaer,电霸儿,User,,,,,,5180.5
+wizyoung/googletranslate.popclipext,googletranslate.popclipext,一个免费的谷歌翻译popclip插件,166,9,Python,wizyoung,Wizyoung,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5180.5
+droope/pwlist,pwlist,Password lists obtained from strangers attempting to log in to my server.,166,55,Python,droope,Pedro Worcel,User,New Zealand,-40.900557,174.88597099999998,,New Zealand,5180.5
+Heumi/BEGAN-tensorflow,BEGAN-tensorflow,python3 / Implementation of Google Brain's BEGAN in Tensorflow,166,42,Python,Heumi,,User,,,,,,5180.5
+koz4k/dni-pytorch,dni-pytorch,Decoupled Neural Interfaces using Synthetic Gradients for PyTorch,166,16,Python,koz4k,Piotr Kozakowski,User,,,,,,5180.5
+timgrossmann/instagram-profilecrawl,instagram-profilecrawl,"📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.",165,35,Python,timgrossmann,Tim Großmann,User,"Palo Alto, CA",48.7758459,9.1829321,Stuttgart,Germany,5211.0
+gdelugre/ida-arm-system-highlight,ida-arm-system-highlight,IDA script for highlighting and decoding ARM system instructions,165,18,Python,gdelugre,Guillaume Delugré,User,France,46.227638,2.213749,,France,5211.0
+shuiqukeyou/E-HentaiCrawler,E-HentaiCrawler,,165,33,Python,shuiqukeyou,ShuiQU,User,,,,,,5211.0
+zhezhaoa/ngram2vec,ngram2vec,Four word embedding models implemented in Python. Supporting arbitrary context features,165,56,Python,zhezhaoa,,User,,,,,,5211.0
+dask/dask-ml,dask-ml,Distributed and parallel machine learning,165,27,Python,dask,,Organization,,,,,,5211.0
+jingweiz/pytorch-dnc,pytorch-dnc,Neural Turing Machine (NTM) & Differentiable Neural Computer (DNC) with pytorch & visdom,165,30,Python,jingweiz,Jingwei Zhang,User,,,,,,5211.0
+OpenNMT/OpenNMT-tf,OpenNMT-tf,Open Source Neural Machine Translation in TensorFlow,165,26,Python,OpenNMT,OpenNMT,Organization,,,,,,5211.0
+ricequant/rqalpha-mod-ctp,rqalpha-mod-ctp,RQAlpha 对接 ctp 的扩展 Mod。通过启用该 Mod 来实现期货策略的实盘交易,164,8,Python,ricequant,ricequant,Organization,,,,,,5245.0
+wh1100717/rqalpha-mod-ShiPanE,rqalpha-mod-ShiPanE,RQAlpha ShiPanE Mod to support stock realtime trading,164,4,Python,wh1100717,Eric Wang,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,5245.0
+zhanghang1989/PyTorch-Multi-Style-Transfer,PyTorch-Multi-Style-Transfer,Neural Style and MSG-Net,164,33,Python,zhanghang1989,Hang Zhang,User,,,,,,5245.0
+kanishka-linux/kawaii-player,kawaii-player,"Multimedia player, media library manager, peer-to-peer player and portable media server based on python3 and PyQt5.",164,11,Python,kanishka-linux,AAK,User,"Nagpur, India",,,,,5245.0
+dasguptar/treelstm.pytorch,treelstm.pytorch,Tree LSTM implementation in PyTorch,164,38,Python,dasguptar,Riddhiman Dasgupta,User,India,20.593684,78.96288,,India,5245.0
+markriedl/WikiPlots,WikiPlots,"A dataset containing story plots from Wikipedia (books, movies, etc.) and the code for the extractor.",163,18,Python,markriedl,,User,,,,,,5276.5
+skalavala/smarthome,smarthome,:thumbsup: Nothing But Smarthome Stuff! - By Mahasri Kalavala,163,24,Python,skalavala,Mahasri Kalavala,User,"Columbus, OH, USA",39.9611755,-82.99879419999998,Columbus,United States,5276.5
+fbessez/Tinder,Tinder,Official September 2017 Documentation for Tinder's API,163,37,Python,fbessez,fabien bessez,User,,,,,,5276.5
+robotattackorg/robot-detect,robot-detect,Detection script for the ROBOT vulnerability,162,38,Python,robotattackorg,,Organization,,,,,,5308.0
+awslabs/deeplearning-cfn,deeplearning-cfn,"Distributed Deep Learning on AWS Using CloudFormation (CFN), MXNet and TensorFlow",162,66,Python,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,5308.0
+ucsb-seclab/BootStomp,BootStomp,BootStomp: a bootloader vulnerability finder,162,36,Python,ucs
