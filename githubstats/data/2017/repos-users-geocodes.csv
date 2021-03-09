@@ -4269,4 +4269,116 @@ pfnet-research/chainer-chemistry,chainer-chemistry,Chainer Chemistry: A Library 
 channelcat/sanic-openapi,sanic-openapi,Easily document your Sanic API with a UI,144,26,Python,channelcat,Channel Cat,User,Los Angeles,34.0522342,-118.24368490000002,Los Angeles,United States,6016.0
 aleju/self-driving-truck,self-driving-truck,"Self-Driving Truck in Euro Truck Simulator 2, trained via Reinforcement Learning",143,39,Python,aleju,Alexander Jung,User,Germany,51.165690999999995,10.451526,,Germany,6066.5
 rougeth/bottery,bottery,:battery: A bot framework with batteries included,143,42,Python,rougeth,Marco Rougeth,User,Florianópolis,,,,,6066.5
-PaddlePaddle/models,models,
+PaddlePaddle/models,models,Model configurations,143,109,Python,PaddlePaddle,,Organization,,,,,,6066.5
+ac1235/python-QuickUI,python-QuickUI,Scientific One-Liner Interactive GUI Library,143,5,Python,ac1235,Anthony Cipriano,User,,,,,,6066.5
+LanceGin/haishoku,haishoku,A development tool for grabbing the dominant color or representative color palette from an image,143,7,Python,LanceGin,Gin,User,China,35.86166,104.195397,,China,6066.5
+chenjiandongx/torrent-cli,torrent-cli,磁力获取器命令行工具,143,28,Python,chenjiandongx,陈键冬,User,China,35.86166,104.195397,,China,6066.5
+lilianweng/stock-rnn,stock-rnn,Predict stock market prices using RNN model with multilayer LSTM cells + optional multi-stock embeddings.,143,74,Python,lilianweng,Lilian,User,,,,,,6066.5
+mgharbi/hdrnet_legacy,hdrnet_legacy,"An implementation of 'Deep Bilateral Learning for Real-Time Image Enhancements', SIGGRAPH 2017",143,50,Python,mgharbi,Michael Gharbi,User,,,,,,6066.5
+SectorLabs/django-postgres-extra,django-postgres-extra,Bringing all of PostgreSQL's awesomeness to Django.,142,7,Python,SectorLabs,Sector Labs,Organization,"Cluj-Napoca, Romania",46.771210100000005,23.6236353,Cluj-Napoca,Romania,6117.5
+artcg/BEGAN,BEGAN,Boundary Equibilibrium Generative Adversarial Networks Implementation in Tensorflow,142,36,Python,artcg,Arthur Goldberg,User,London,,,,,6117.5
+huyingxi/Synonyms,Synonyms,中文近义词工具包,142,36,Python,huyingxi,,User,Beijing,39.90419989999999,116.4073963,Beijing,China,6117.5
+studioml/studio,studio,Studio: Simplify and expedite model building process,142,22,Python,studioml,studio.ml,Organization,,,,,,6117.5
+clcarwin/sphereface_pytorch,sphereface_pytorch,A PyTorch Implementation of SphereFace.,142,33,Python,clcarwin,carwin,User,,,,,,6117.5
+bit4woo/Teemo,Teemo,A Domain Name & Email Address Collection Tool,142,52,Python,bit4woo,bit4,User,shenzhen,22.543096,114.05786499999999,Shenzhen,China,6117.5
+rajeshmajumdar/PloitKit,PloitKit,The Hacker's ToolBox,142,62,Python,rajeshmajumdar,Rajesh Majumdar,User,India,20.593684,78.96288,,India,6117.5
+niloofarkheirkhah/nili,nili,"Nili is a Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing.",142,29,Python,niloofarkheirkhah,Niloofar kheirkhah,User,,,,,,6117.5
+mailinneberg/BlueBorne,BlueBorne,Purpose only! The   dangers   of   Bluetooth   implementations:   Unveiling   zero   day vulnerabilities   and   security   flaws   in   modern   Bluetooth   stacks.,141,69,Python,mailinneberg,CODERUN,User,USA,,,,,6165.0
+abhishekkrthakur/clickbaits_revisited,clickbaits_revisited,Deep learning models to identify clickbaits taking content into consideration,141,28,Python,abhishekkrthakur,abhishek thakur,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,6165.0
+yaphone/RasWxNeteaseMusic,RasWxNeteaseMusic,微信-树莓派-网易云音乐,141,40,Python,yaphone,yaphone,User,中国,,,,,6165.0
+xhujoy/CycleGAN-tensorflow,CycleGAN-tensorflow,Tensorflow implementation for learning an image-to-image translation without input-output pairs. https://arxiv.org/pdf/1703.10593.pdf,141,79,Python,xhujoy,Xiaowei Hu,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,6165.0
+JackonYang/captcha-tensorflow,captcha-tensorflow,使用 tensorflow 做验证码识别,141,68,Python,JackonYang,Jackon Yang,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,6165.0
+yaqwsx/PcbDraw,PcbDraw,Convert your KiCAD board into a nice looking 2D drawing suitable for pinout diagrams,140,8,Python,yaqwsx,Jan Mrázek,User,Czech republic,,,,,6209.5
+jonlabelle/SublimeJsPrettier,SublimeJsPrettier,"JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.",140,18,Python,jonlabelle,Jon LaBelle,User,"Austin, TX",,,,,6209.5
+deepmind/kinetics-i3d,kinetics-i3d,Convolutional neural network model for video classification trained on the Kinetics dataset.,140,53,Python,deepmind,DeepMind,Organization,London,,,,,6209.5
+LouisScorpio/datamining,datamining,learn in datamining,140,263,Python,LouisScorpio,LouisScorpio,User,"Hangzhou,China",30.274084000000002,120.15507,Hangzhou,China,6209.5
+heroku/django-heroku,django-heroku,A Django library for Heroku apps. ,140,10,Python,heroku,Heroku,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6209.5
+Maluuba/nlg-eval,nlg-eval,Evaluation code for various unsupervised automated metrics for Natural Language Generation.,140,24,Python,Maluuba,Maluuba Inc.,Organization,"Montreal, Canada",,,,,6209.5
+securingsam/krackdetector,krackdetector,Detect and prevent KRACK attacks in your network,140,36,Python,securingsam,SAM Seamless Networks,Organization,,,,,,6209.5
+dengdan/seglink,seglink,An Implementation of the seglink alogrithm in paper Detecting Oriented Text in Natural Images by Linking Segments,140,61,Python,dengdan,dengdan,User,,,,,,6209.5
+llSourcell/linear_regression_live,linear_regression_live,This is the code for the 'How to Do Linear Regression the Right Way' live session by Siraj Raval on Youtube,140,242,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6209.5
+reswitched/CageTheUnicorn,CageTheUnicorn,Debugging/emulating environment for Switch code,139,20,Python,reswitched,ReSwitched Team,Organization,,,,,,6256.5
+akshaypai/tfClassifier,tfClassifier,"Tensorflow based training and classification scripts for text, images, etc",139,88,Python,akshaypai,Akshay Pai,User,India,,,,,6256.5
+yunjey/mnist-svhn-transfer,mnist-svhn-transfer,PyTorch Implementation of CycleGAN and SSGAN for Domain Transfer (Minimal),139,25,Python,yunjey,Yunjey Choi,User,"Seoul, South Korea",,,,,6256.5
+FakeNewsChallenge/fnc-1,fnc-1,,139,45,Python,FakeNewsChallenge,,Organization,,,,,,6256.5
+earthquake/XFLTReaT,XFLTReaT,XFLTReaT tunnelling framework:,138,23,Python,earthquake,Balazs Bucsay,User,,,,,,6298.5
+nahamsec/JSParser,JSParser,,138,30,Python,nahamsec,Ben Sadeghipour,User,,,,,,6298.5
+chakki-works/sumeval,sumeval,Well tested & Multi-language evaluation framework for text summarization.,138,11,Python,chakki-works,chakki,Organization,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,6298.5
+ematvey/hierarchical-attention-networks,hierarchical-attention-networks,Document classification with Hierarchical Attention Networks in TensorFlow,138,52,Python,ematvey,Matvey Ezhov,User,"Moscow, Russia",55.755826,37.6172999,Moscow,Russia,6298.5
+maldevel/canisrufus,canisrufus,A stealthy Python based Windows backdoor that uses Github as a command and control server,138,47,Python,maldevel,maldevel,User,Greece,40.7127837,-74.00594129999999,New York,United States,6298.5
+openai/multiagent-particle-envs,multiagent-particle-envs,,137,33,Python,openai,OpenAI,Organization,,,,,,6334.0
+ars-ashuha/variational-dropout-sparsifies-dnn,variational-dropout-sparsifies-dnn,"Sparse Variational Dropout, ICML 2017",137,20,Python,ars-ashuha,Arsenii Ashukha,User,Moscow & Amsterdam,,,,,6334.0
+burningion/poor-mans-deep-learning-camera,poor-mans-deep-learning-camera,"Build a thin client deep learning camera with the Raspberry Pi, Flask, and YOLO",137,26,Python,burningion,KP Kaiser,User,"Brooklyn, New York",40.6781784,-73.94415790000001,,United States,6334.0
+alexellis/docker-blinkt-workshop,docker-blinkt-workshop,Get into physical computing with Docker and Raspberry Pi,137,20,Python,alexellis,Alex Ellis,User,United Kingdom,55.378051,-3.435973,,United Kingdom,6334.0
+salesforce/WikiSQL,WikiSQL,A large annotated semantic parsing corpus for developing natural language interfaces.,137,33,Python,salesforce,Salesforce,Organization,,,,,,6334.0
+llSourcell/How_to_make_a_chatbot,How_to_make_a_chatbot,This is the code for 'How to Make a Chatbot - Intro to Deep Learning #12' by Siraj Raval on YouTube,137,70,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6334.0
+pichillilorenzo/JavaScriptEnhancements,JavaScriptEnhancements,"JavaScript Enhancements is a plugin for Sublime Text 3. It offers not only a smart javascript autocomplete but also a lot of features about creating, developing and managing javascript projects",137,4,Python,pichillilorenzo,Lorenzo Pichilli,User,"Teramo, Italy",42.661143100000004,13.6986639,Teramo,Italy,6334.0
+bfortuner/ml-cheatsheet,ml-cheatsheet,Machine learning cheatsheet,136,39,Python,bfortuner,Brendan Fortuner,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,6376.0
+ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding,Structured-Self-Attentive-Sentence-Embedding,An open-source implementation of the paper ``A Structured Self-Attentive Sentence Embedding'' published by IBM and MILA. ,136,18,Python,ExplorerFreda,Frederica Haoyue Shi,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,6376.0
+fossasia/susi_api_wrapper,susi_api_wrapper,SUSI AI API Wrapper http://susi.ai,136,7,Python,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6376.0
+hmishra2250/NTM-One-Shot-TF,NTM-One-Shot-TF,One Shot Learning using Memory-Augmented Neural Networks (MANN) based on Neural Turing Machine architecture in Tensorflow,136,44,Python,hmishra2250,Himadri Mishra,User,"Varanasi, India",,,,,6376.0
+mariusmotea/diyHue,diyHue,Philips Hue emulator that is able to control multiple types of lights,136,25,Python,mariusmotea,Motea Marius,User,Romania,45.943160999999996,24.96676,,Romania,6376.0
+shmuelamar/cbox,cbox,convert any python function to unix-style command,136,3,Python,shmuelamar,,User,,,,,,6376.0
+ajbouh/tfi,tfi,Use any TensorFlow model in a single line of code,136,7,Python,ajbouh,Adam Bouhenguel,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6376.0
+BIGBALLON/cifar-10-cnn,cifar-10-cnn,Using cifar-10 datasets to learn deep learning.,136,60,Python,BIGBALLON,Wei Li,User,,,,,,6376.0
+bndr/pycycle,pycycle,Tool for pinpointing circular imports in Python. Find cyclic imports in any project,135,5,Python,bndr,Vadim Kravcenko,User,"Darmstadt, Deutschland",49.872825299999995,8.6511929,Darmstadt,Germany,6420.5
+shivasiddharth/GassistPi,GassistPi,Google Assistant for all RPi Boards,135,38,Python,shivasiddharth,,User,,,,,,6420.5
+orppra/ropa,ropa,ropa is a Ropper-based GUI ROP gadget finder that streamlines crafting ROP chains. It provides a cleaner interface when using Ropper as compared to the command line.,135,22,Python,orppra,,Organization,,,,,,6420.5
+xiyouMc/ncmbot,ncmbot,NeteaseCloudMusic Bot for Philharmonic™. ✨🍰✨  网易云音乐 Python 组件库，用 Python 玩转网易云音乐 ,135,24,Python,xiyouMc,Mark,User,ZheJiang hangzhou,30.274084000000002,120.15507,Hangzhou,China,6420.5
+kelvinguu/neural-editor,neural-editor,Repository for 'Generating Sentences by Editing Prototypes',134,15,Python,kelvinguu,Kelvin Guu,User,"Stanford, CA",37.42410599999999,-122.1660756,Stanford,United States,6466.0
+guoylyy/uband-python-s1,uband-python-s1,,134,125,Python,guoylyy,锅蜀黍,User,"Shang Hai, China",31.230390399999997,121.4737021,Shanghai,China,6466.0
+jinfagang/pytorch_chatbot,pytorch_chatbot,A Marvelous ChatBot implement using PyTorch.,134,36,Python,jinfagang,JinTian,User,Sanfancisco,37.7749295,-122.4194155,San Francisco,United States,6466.0
+r26zhao/django-easy-comment,django-easy-comment," a simple comment app particularly for blog_project, provides hierarchy reply ",134,4,Python,r26zhao,Aaron Zhao,User,,,,,,6466.0
+anantzoid/Language-Modeling-GatedCNN,Language-Modeling-GatedCNN,Tensorflow implementation of 'Language Modeling with Gated Convolutional Networks',134,55,Python,anantzoid,Anant Gupta,User,,28.6139391,77.20902120000001,New Delhi,India,6466.0
+nethunteros/punter,punter,"Hunt domain names using DNSDumpster, WHOIS, Reverse WHOIS, Shodan, Crimeflare",134,25,Python,nethunteros,binkybear,User,,,,,,6466.0
+narimiran/tably,tably,Python command-line script for converting .csv data to LaTeX tables,134,5,Python,narimiran,,User,Croatia,45.1,15.200000099999999,,Croatia,6466.0
+JianyangZhang/Self-Driving-Car-AI,Self-Driving-Car-AI,A simple self-driving car AI python script using the deep Q-learning algorithm,133,41,Python,JianyangZhang,Jianyang Zhang,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,6507.0
+fregu856/segmentation,segmentation,"TensorFlow implementation of ENet, trained on the Cityscapes dataset.",133,27,Python,fregu856,Fredrik Gustafsson,User,"Linköping, Sweden.",58.41080700000001,15.6213728,Linköping,Sweden,6507.0
+natanielruiz/deep-head-pose,deep-head-pose,:fire::fire: Deep Learning Head Pose Estimation using PyTorch.,133,21,Python,natanielruiz,Nataniel Ruiz,User,Atlanta,33.7489954,-84.3879824,Atlanta,United States,6507.0
+uclatommy/tweetfeels,tweetfeels,Real-time sentiment analysis in Python using twitter's streaming api,132,21,Python,uclatommy,"Thomas Chen, ASA",User,Los Angeles,,,,,6550.0
+SQLab/symgdb,symgdb,SymGDB - symbolic execution plugin for gdb,132,14,Python,SQLab,NCTU Software Quality Lab,Organization,"NCTU, Hsinchu, Taiwan",24.7859852,120.9999097,,Taiwan,6550.0
+bhrigu123/Instant-Lyrics,Instant-Lyrics,"Shows lyrics of the currently playing Spotify song, or any song, instantly.",132,22,Python,bhrigu123,Bhrigu Srivastava,User,"New Delhi, India",,,,,6550.0
+openstack/ansible-hardening,ansible-hardening,Ansible role for security hardening,132,32,Python,openstack,mirrors of git.openstack.org/openstack,Organization,,,,,,6550.0
+hanbt/learn_dl,learn_dl,Deep learning algorithms source code for beginners,132,152,Python,hanbt,hanbingtao,User,"Tianjin, China",39.343357399999995,117.3616476,Tianjin,China,6550.0
+Netflix-Skunkworks/repulsive-grizzly,repulsive-grizzly,Application Layer DoS Testing Framework,132,18,Python,Netflix-Skunkworks,,Organization,,,,,,6550.0
+felixgwu/img_classification_pk_pytorch,img_classification_pk_pytorch,"Quickly comparing your image classification models with the state-of-the-art models (such as DenseNet, ResNet, ...)",132,32,Python,felixgwu,,User,,,,,,6550.0
+Edinburgh-Genome-Foundry/Flametree,Flametree,:fire: Python file and zip operations made easy,131,13,Python,Edinburgh-Genome-Foundry,Edinburgh Genome Foundry,Organization,"Edinburgh, UK",,,,,6600.0
+x25/coinhive-stratum-mining-proxy,coinhive-stratum-mining-proxy,Browser mining on any pool using CoinHive.js library,131,53,Python,x25,,User,localhost,39.9653813,-75.14257090000001,Philadelphia,United States,6600.0
+nathanpryor/donation_button,donation_button,,131,25,Python,nathanpryor,Nathan Pryor,User,,,,,,6600.0
+liaoziyang/Stanford-OpenIE-Spider,Stanford-OpenIE-Spider,Extract Information from web corpus using Stanford Open Information Extraction.,131,22,Python,liaoziyang,Ziyang Liao,User,Kyoto Japan,,,,,6600.0
+duo-labs/isthislegit,isthislegit,"Dashboard to collect, analyze, and respond to reported phishing emails.",131,20,Python,duo-labs,Duo Labs,Organization,"Ann Arbor, MI",42.2808256,-83.7430378,Ann Arbor,United States,6600.0
+ikhlestov/vision_networks,vision_networks,Repo about neural networks for images handling,131,75,Python,ikhlestov,Illarion,User,"Ukraine, Mariupol",,,,,6600.0
+keon/seq2seq,seq2seq,Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch,131,15,Python,keon,Keon,User,NYC,40.7127753,-74.0059728,New York,United States,6600.0
+hardikbansal/CycleGAN,CycleGAN,Tensorflow implementation of CycleGAN,130,71,Python,hardikbansal,Hardik Bansal,User,"Mumbai, India",19.0759837,72.87765590000001,Mumbai,India,6649.0
+fossasia/open-event-legacy,open-event-legacy,The Open Event legacy server currently running on https://eventyay.com,130,12,Python,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6649.0
+hclhkbu/dlbench,dlbench,Benchmarking State-of-the-Art Deep Learning Software Tools,130,37,Python,hclhkbu,,User,,,,,,6649.0
+mdibaiee/flappy-es,flappy-es,Playing Flappy Bird using Evolution Strategies,130,13,Python,mdibaiee,Mahdi Dibaiee,User,"Tehran, Iran",35.6891975,51.3889736,Tehran,Iran,6649.0
+NVISO-BE/binsnitch,binsnitch,Detect silent (unwanted) changes to files on your system,129,21,Python,NVISO-BE,NVISO,Organization,Belgium,50.503887,4.469936,,Belgium,6699.5
+limdauto/drf_openapi,drf_openapi,Beautiful Django Rest Framework API documentation autogeneration through OpenAPI standard,129,28,Python,limdauto,Lim H.,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,6699.5
+Microsoft/mssql-scripter,mssql-scripter,Repository for the new SQL cross-platform command line tools,129,26,Python,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,6699.5
+ajbrock/FreezeOut,FreezeOut,Accelerate Neural Net Training by Progressively Freezing Layers,129,15,Python,ajbrock,Andy Brock,User,,,,,,6699.5
+D-X-Y/ResNeXt-DenseNet,ResNeXt-DenseNet,"Pytorch Implementation for ResNet, Pre-Activation ResNet, ResNeXt and DenseNet",129,18,Python,D-X-Y,D-X-Y,User,"Sydney, Australia ",-33.8688197,151.2092955,Sydney,Australia,6699.5
+mazen160/server-status_PWN,server-status_PWN,A script that monitors and extracts requested URLs and clients connected to the service by exploiting publicly accessible Apache server-status instances.,129,30,Python,mazen160,Mazin Ahmed,User,,,,,,6699.5
+OmkarPathak/Python-Programs,Python-Programs,My collection of Python Programs,129,38,Python,OmkarPathak,Omkar Pathak,User,"Pune, Maharashtra, India",,,,,6699.5
+commaai/opendbc,opendbc,democratize access to car decoder rings,129,155,Python,commaai,,Organization,,,,,,6699.5
+liaoziyang/negapoji,negapoji,Japanese negative positive classification.日本語文書のネガポジを判定。,129,24,Python,liaoziyang,Ziyang Liao,User,Kyoto Japan,,,,,6699.5
+prlz77/ResNeXt.pytorch,ResNeXt.pytorch,Reproduces ResNet-V3 with pytorch,129,23,Python,prlz77,Pau Rodriguez,User,,,,,,6699.5
+kefirski/pytorch_RVAE,pytorch_RVAE,Recurrent Variational Autoencoder that generates sequential data implemented in pytorch,129,26,Python,kefirski,Daniil Gavrilov,User,Saint Petersburg,59.9342802,30.335098600000002,Saint Petersburg,Russia,6699.5
+nearai/pytorch-tools,pytorch-tools,Tools for PyTorch,128,8,Python,nearai,,Organization,,,,,,6749.0
+MarekKowalski/DeepAlignmentNetwork,DeepAlignmentNetwork,A deep neural network for face alignment,128,46,Python,MarekKowalski,Marek,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,6749.0
+asottile/future-fstrings,future-fstrings,A backport of fstrings to python<3.6,128,3,Python,asottile,Anthony Sottile,User,,,,,,6749.0
+zhiguowang/BiMPM,BiMPM,BiMPM: Bilateral Multi-Perspective Matching for Natural Language Sentences,128,63,Python,zhiguowang,,User,,,,,,6749.0
+ninijay/pycurity,pycurity,Python Security Scripts,128,17,Python,ninijay,Zanidd,User,,,,,,6749.0
+deepfakes/faceswap,faceswap,Non official project based on original /r/Deepfakes thread. Many thanks to him!,128,42,Python,deepfakes,,User,,,,,,6749.0
+4w4k3/Insanity-Framework,Insanity-Framework,Generate Payloads and Control Remote Machines.  [Discontinued],128,69,Python,4w4k3,Alisson Moretto,User,,,,,,6749.0
+llSourcell/How-to-Deploy-a-Tensorflow-Model-in-Production,How-to-Deploy-a-Tensorflow-Model-in-Production,This is the code for the 'How to Deploy a Tensorflow Model in Production' by Siraj Raval on YouTube,128,43,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6749.0
+UndeadSec/Debinject,Debinject,Inject malicious code into *.debs,128,31,Python,UndeadSec,Undead Sec,Organization,Brazil,-14.235004,-51.92528,,Brazil,6749.0
+toji/semilive,semilive,A Sublime Text plugin for 'Live' coding,128,6,Python,toji,Brandon Jones,User,"Mountain View, CA",37.3860517,-122.08385109999999,Mountain View,United States,6749.0
+HelloZeroNet/ZeroNet-kivy,ZeroNet-kivy,,128,28,Python,HelloZeroNet,ZeroNet,User,"Budapest, Hungary",,,,,6749.0
+mikeckennedy/python-switch,python-switch,Adds switch blocks to Python,128,7,Python,mikeckennedy,Michael Kennedy,User,"Portland, OR",45.523062200000005,-122.67648159999999,Portland,United States,6749.0
+chrizator/netattack2,netattack2,An advanced network scan and attack script based on GUI. 2nd version of no-GUI netattack. ,128,42,Python,chrizator,Christian Klein,User,,,,,,6749.0
+alibaba/derrick,derrick,🐳A tool to help you dockerizing application in seconds,127,19,Python,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,6796.5
+haccer/tweep,tweep,An Advanced Twitter Scraping Tool,127,43,Python,haccer,Cody Zacharias,User,,,,,,6796.5
+jcjohnson/pytorch-vgg,pytorch-vgg,,127,10,Python,jcjohnson,Justin Johnson,User,,,,,,6796.5
+swisskyrepo/Wordpresscan,Wordpresscan,WPScan rewritten in Python + some WPSeku ideas,127,53,Python,swisskyrepo,Swissky,User,,,,,,6796.5
+0x09AL/WordSteal,WordSteal,This script will create a POC that will steal NTML hashes from a remote computer. Do not use this for illegal pu
