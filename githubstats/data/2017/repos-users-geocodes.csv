@@ -4606,4 +4606,109 @@ Mr-Un1k0d3r/UniByAv,UniByAv,,105,31,Python,Mr-Un1k0d3r,Mr.Un1k0d3r,User,,,,,,827
 UltimateHackers/Breacher,Breacher,An advanced multithreaded admin panel finder written in python.,105,39,Python,UltimateHackers,Team Ultimate,User,,,,,,8277.5
 andabi/music-source-separation,music-source-separation,Separating singing voice from music based on deep neural networks in Tensorflow,104,20,Python,andabi,Dabi Ahn,User,"Seoul, Korea",,,,,8366.5
 pinterest/ptracer,ptracer,A library for ptrace-based tracing of Python programs,104,10,Python,pinterest,Pinterest,Organization,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,8366.5
-NeoVintageous/NeoVintageous,NeoVintageo
+NeoVintageous/NeoVintageous,NeoVintageous,An advanced Vim emulation layer for Sublime Text (Vintageous fork).,104,8,Python,NeoVintageous,NeoVintageous,Organization,,,,,,8366.5
+JihongJu/keras-fcn,keras-fcn,A playable implementation of Fully Convolutional Networks with Keras.,104,39,Python,JihongJu,JihongJu,User,,,,,,8366.5
+gnocchixyz/gnocchi,gnocchi,Timeseries database,104,28,Python,gnocchixyz,Gnocchi,Organization,,,,,,8366.5
+wylok/opsweb,opsweb,"运维综合管理平台（python+flask+cmdb+scheduler+gunicorn),模块化结构设计，基本能够实现日常运维80%以上的工作。由于依赖数据库动态生成菜单及相关数据，部署难度较高。",104,80,Python,wylok,,User,,,,,,8366.5
+chineseocr/chinese-ocr,chinese-ocr,"运用tensorflow实现自然场景文字检测,keras/pytorch实现crnn+ctc实现不定长中文OCR识别",104,50,Python,chineseocr,,Organization,,,,,,8366.5
+bil-elmoussaoui/nautilus-git,nautilus-git,Nautilus/Nemo extension to add important information about the current git directory,104,8,Python,bil-elmoussaoui,Bilal Elmoussaoui,User,Brussels,50.8503463,4.3517211,Brussels,Belgium,8366.5
+Cisco-Talos/mutiny-fuzzer,mutiny-fuzzer,,104,16,Python,Cisco-Talos,Cisco Talos,Organization,,,,,,8366.5
+kendricktan/drawlikebobross,drawlikebobross,Draw like Bob Ross using the power of Neural Networks (With PyTorch)!,104,19,Python,kendricktan,Kendrick Tan,User,"Brisbane, Australia",-27.469770699999998,153.0251235,Brisbane,Australia,8366.5
+okuchaiev/f-lm,f-lm,Language Modeling,104,23,Python,okuchaiev,Oleksii Kuchaiev,User,"Santa Clara, CA",37.354107899999995,-121.9552356,Santa Clara,United States,8366.5
+shaneshixiang/rllabplusplus,rllabplusplus,,104,25,Python,shaneshixiang,SG,User,,,,,,8366.5
+MrMimic/data-scientist-roadmap,data-scientist-roadmap,Toturial coming with 'data science roadmap' graphe.,103,54,Python,MrMimic,,User,France,46.227638,2.213749,,France,8444.0
+hugsy/binja-retdec,binja-retdec,Binary Ninja plugin to decompile binaries using RetDec API,103,17,Python,hugsy,crazy rabbidz,User,https://blahcat.github.io,,,,,8444.0
+anujshah1003/own_data_cnn_implementation_keras,own_data_cnn_implementation_keras,A complete tutorial on using own dataset to train a CNN from scratch in Keras (TF & Theano Backend)-,103,34,Python,anujshah1003,Anuj Shah,User,,,,,,8444.0
+mattmurray/juno_crawler,juno_crawler,Scrapy crawler to collect data on the back catalog of songs listed for sale.,103,35,Python,mattmurray,Matt Murray,User,London,,,,,8444.0
+erikrose/sphinx-js,sphinx-js,Autodoc-style extraction into Sphinx for your JS project,103,11,Python,erikrose,Erik Rose,User,"Mountain View, CA",,,,,8444.0
+github-pengge/PyTorch-progressive_growing_of_gans,PyTorch-progressive_growing_of_gans,"PyTorch implementation of Progressive Growing of GANs for Improved Quality, Stability, and Variation.",103,19,Python,github-pengge,,User,,,,,,8444.0
+PacktPublishing/TensorFlow-Machine-Learning-Cookbook,TensorFlow-Machine-Learning-Cookbook,Code repository for TensorFlow Machine Learning Cookbook by Packt,103,98,Python,PacktPublishing,Packt,Organization,"Birmingham, UK",52.48624299999999,-1.8904009999999998,Birmingham,United Kingdom,8444.0
+bosondata/chrome-prerender,chrome-prerender,Render JavaScript-rendered page as HTML/PDF/mhtml/png/jpeg using Headless Chrome,103,14,Python,bosondata,BosonData,Organization,Shanghai,31.230390399999997,121.4737021,Shanghai,China,8444.0
+mthbernardes/rsg,rsg,ReverShellGenerator - A tool to generate various ways to do a reverse shell,103,28,Python,mthbernardes,Matheus Bernardes,User,Campinas,,,,,8444.0
+lbp0200/PRCDNS,PRCDNS,准确、CDN友好,103,23,Python,lbp0200,Boping Liu,User,Beijing,,,,,8444.0
+CR-Gjx/LeakGAN,LeakGAN,The codes of paper 'Long Text Generation via Adversarial Training with Leaked Information'  on AAAI 2018.  Text generation using GAN and hierarchical reinforcement learning.,103,38,Python,CR-Gjx,,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,8444.0
+linheimx/Husky,Husky,Markdown to Html ,103,4,Python,linheimx,木子李,User,CHINA SH,31.230390399999997,121.4737021,Shanghai,China,8444.0
+c0nn3r/RetinaNet,RetinaNet,An implementation of RetinaNet in PyTorch.,103,9,Python,c0nn3r,Conner Vercellino,User, Bay Area / Santa Barbara,28.030819,-82.789996,Dunedin,United States,8444.0
+axi0mX/ipwndfu,ipwndfu,open-source jailbreaking tool for older iOS devices,103,36,Python,axi0mX,,User,,,,,,8444.0
+davidhalter/parso,parso,A Python Parser,103,14,Python,davidhalter,Dave Halter,User,Switzerland,,,,,8444.0
+jachris/cook,cook,"An Extensible, Dynamic, Fast and Cross-Platform Build System",103,2,Python,jachris,Jannis Christopher Köhl,User,Germany,,,,,8444.0
+panyang/Wikipedia_Word2vec,Wikipedia_Word2vec,Train Word2vec Model based on Wikipedia,103,83,Python,panyang,Pan Yang,User,,,,,,8444.0
+zulip/python-zulip-api,python-zulip-api,,102,65,Python,zulip,Zulip,Organization,,,,,,8520.0
+carlini/nn_robust_attacks,nn_robust_attacks,Robust evasion attacks against neural network to find adversarial examples,102,42,Python,carlini,Nicholas Carlini,User,,,,,,8520.0
+ofek/pypinfo,pypinfo,Easily view PyPI download statistics via Google's BigQuery.,102,7,Python,ofek,Ofek Lev,User,Knowhere,32.842856,-117.27502379999999,San Diego,United States,8520.0
+Plazmaz/LNKUp,LNKUp,Generates malicious LNK file payloads for data exfiltration,102,26,Python,Plazmaz,Dylan Katz,User,"Durango, Colorado, USA",37.27528,-107.88006670000001,Durango,United States,8520.0
+masasin/latexipy,latexipy,Generate beautiful plots for LaTeX using your existing matplotlib-based code.,102,12,Python,masasin,Jean Nassar,User,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,8520.0
+llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment,A-Guide-to-DeepMinds-StarCraft-AI-Environment,This is the code for 'A Guide to DeepMind's StarCraft AI Environment' by Siraj Raval on Youtube,102,33,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,8520.0
+fengju514/Face-Pose-Net,Face-Pose-Net,Estimate 3D face pose by a Convolutional Neural Network,102,25,Python,fengju514,Feng-Ju Chang,User,United States,,,,,8520.0
+falseen/shadowsocks-pyqt,shadowsocks-pyqt,"一个用PyQt5实现的shadowsocks 客户端, 可以在 windows、linux、OSX 等平台上运行",102,30,Python,falseen,Falseen,User,,,,,,8520.0
+tobyyouup/conv_seq2seq,conv_seq2seq,A tensorflow implementation of Fairseq Convolutional Sequence to Sequence Learning(Gehring et al. 2017),102,35,Python,tobyyouup,,User,,,,,,8520.0
+sergeytulyakov/mocogan,mocogan,MoCoGAN: Decomposing Motion and Content for Video Generation,102,24,Python,sergeytulyakov,Sergey Tulyakov,User,"Trento, Italy",46.074779299999996,11.121748599999998,Trento,Italy,8520.0
+duxingren14/DualGAN,DualGAN,DualGAN-tensorflow: tensorflow implementation of DualGAN,102,50,Python,duxingren14,Jack Yi,User,"Vancouver, BC, Canada",49.282729100000005,-123.1207375,Vancouver,Canada,8520.0
+lengseling/DistributedCrawling,DistributedCrawling,This is what I do with Pthon distributed crawler,101,0,Python,lengseling,张腾,User,,,,,,8590.0
+beda-software/drf-writable-nested,drf-writable-nested,Writable nested model serializer for Django REST Framework,101,18,Python,beda-software,beda.software,Organization,,,,,,8590.0
+thumt/THUMT,THUMT,an open-source neural machine translation toolkit developed by Tsinghua Natural Language Processing Group,101,39,Python,thumt,,User,,,,,,8590.0
+loftylabs/django-developer-panel,django-developer-panel,Debug Django applications directly in Google Chrome Devtools.,101,0,Python,loftylabs,Lofty Labs,Organization,"Fayetteville, AR",,,,,8590.0
+kislyuk/yq,yq,Command-line YAML processor - jq wrapper for YAML documents,101,6,Python,kislyuk,Andrey Kislyuk,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,8590.0
+BartyzalRadek/Multi-label-Inception-net,Multi-label-Inception-net,Multi-label image classification using pretrained Inception net.,101,41,Python,BartyzalRadek,Radek Bartyzal,User,"Czech Republic, Prague",50.0755381,14.4378005,Prague,Czechia,8590.0
+clcarwin/SFD_pytorch,SFD_pytorch,A PyTorch Implementation of Single Shot Scale-invariant Face Detector.,101,11,Python,clcarwin,carwin,User,,,,,,8590.0
+rajeshmajumdar/BruteXSS,BruteXSS,BruteXSS is a tool written in python simply to find XSS vulnerabilities in web application. This tool was originally developed by Shawar Khan in CLI. I just redesigned it and made it GUI for more convienience.,101,41,Python,rajeshmajumdar,Rajesh Majumdar,User,India,20.593684,78.96288,,India,8590.0
+Kismuz/btgym,btgym,OpenAI Gym environment for Backtrader trading platform ,100,30,Python,Kismuz,Andrew,User,,,,,,8660.0
+wen-fei/ML-IN-ACTION,ML-IN-ACTION,:rocket:机器学习实战书中代码，以及自己修正了书中的错误，保证每一个例子都可以运行,100,17,Python,wen-fei,TengYun,User,南京,32.060255,118.796877,Nanjing,China,8660.0
+renmengye/tensorflow-forward-ad,tensorflow-forward-ad,Forward-mode Automatic Differentiation for TensorFlow,100,13,Python,renmengye,Mengye Ren,User,Toronto,43.653226000000004,-79.3831843,Toronto,Canada,8660.0
+mazen160/GithubCloner,GithubCloner,A script that clones Github repositories of users and organizations.,100,22,Python,mazen160,Mazin Ahmed,User,,,,,,8660.0
+chenxuuu/24h-raspberry-live-on-bilibili,24h-raspberry-live-on-bilibili,树莓派驱动的b站直播弹幕点播台,100,26,Python,chenxuuu,晨旭,User,"Kunshan,Jiangsu,China",,,,,8660.0
+awslabs/ecs-blue-green-deployment,ecs-blue-green-deployment,Reference architecture for doing blue green deployments on ECS.,100,45,Python,awslabs,Amazon Web Services - Labs,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,8660.0
+emedvedev/attention-ocr,attention-ocr,A Tensorflow model for text recognition (CNN + seq2seq with visual attention) available as a Python package and compatible with Google Cloud ML Engine.,100,35,Python,emedvedev,Edward Medvedev,User,,,,,,8660.0
+explosion/spacy-models,spacy-models,💫  Models for the spaCy Natural Language Processing (NLP) library,100,18,Python,explosion,Explosion AI,Organization,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,8660.0
+llSourcell/How-to-Learn-from-Little-Data,How-to-Learn-from-Little-Data,This is the code for 'How to Learn from Little Data - Intro to Deep Learning #17' by Siraj Raval on YouTube,100,47,Python,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,8660.0
+awni/speech,speech,A PyTorch Implementation of End-to-End Models for Speech-to-Text,100,21,Python,awni,Awni Hannun,User,United States,37.09024,-95.712891,,United States,8660.0
+dimmg/dockselpy,dockselpy,"Dockerized Selenium and Python with support for Chrome, Firefox and PhantomJS",100,6,Python,dimmg,Gîra Dumitru,User,"Chișinău, Moldova",,,,,8660.0
+harvitronix/neural-network-genetic-algorithm,neural-network-genetic-algorithm,Evolving a neural network with a genetic algorithm.,100,40,Python,harvitronix,Matt Harvey,User,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,8660.0
+airbnb/Lona,Lona,"A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.",3867,96,Swift,airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,114.0
+olucurious/Awesome-ARKit,Awesome-ARKit,A curated list of awesome ARKit projects and resources. Feel free to contribute!,3623,347,Swift,olucurious,Emmanuel Adegbite,User,"Lagos, Nigeria",,,,,127.0
+ProjectDent/ARKit-CoreLocation,ARKit-CoreLocation,Combines the high accuracy of AR with the scale of GPS data.,3136,328,Swift,ProjectDent,Andrew Hart,User,United Kingdom,55.378051,-3.435973,,United Kingdom,161.0
+Juanpe/SkeletonView,SkeletonView,An elegant way to show users that something is happening and also prepare them to which contents he is waiting,3110,169,Swift,Juanpe,Juanpe Catalán,User,"Madrid, Sevilla",,,,,166.0
+artemnovichkov/iOS-11-by-Examples,iOS-11-by-Examples,👨🏻‍💻 Examples of new iOS 11 APIs,3054,286,Swift,artemnovichkov,Artem Novichkov,User,Omsk,54.9884804,73.3242361,Omsk,Russia,175.0
+louisdh/panelkit,panelkit,A UI framework that enables panels on iOS.,2944,81,Swift,louisdh,Louis D'hauwe,User,Belgium,,,,,187.0
+KelvinJin/AnimatedCollectionViewLayout,AnimatedCollectionViewLayout,A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting your existing code.,2873,206,Swift,KelvinJin,Jin Wang,User,Melbourne,-37.813627600000004,144.96305759999998,Melbourne,Australia,201.0
+zixun/GodEye,GodEye,"Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. Just like God opened his eyes",2818,199,Swift,zixun,陈奕龙(子循),User,"Hangzhou,ZheJiang,China",30.274084000000002,120.15507,Hangzhou,China,205.0
+roberthein/BouncyLayout,BouncyLayout,Make. It. Bounce.,2769,113,Swift,roberthein,Robert-Hein Hooijmans,User,The Netherlands,52.132633,5.2912659999999985,,Netherlands,212.0
+marcosgriselli/ViewAnimator,ViewAnimator,ViewAnimator brings your UI to life with just one line,2758,133,Swift,marcosgriselli,Marcos Griselli,User,"Buenos Aires, Argentina",,,,,214.0
+SwipeCellKit/SwipeCellKit,SwipeCellKit,"Swipeable UITableViewCell based on the stock Mail.app, implemented in Swift.",2673,215,Swift,SwipeCellKit,,Organization,,,,,,221.0
+WenchaoD/FSPagerView,FSPagerView,FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.,2558,250,Swift,WenchaoD,Wenchao Ding,User,Hangzhou,,,,,236.0
+EyreFree/EFQRCode,EFQRCode,A better way to operate quick response code in Swift.,2383,221,Swift,EyreFree,EyreFreeᵈᵉᵛ,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,256.0
+cruisediary/Pastel,Pastel,🎨 Gradient animation effect like Instagram,2361,115,Swift,cruisediary,Cruz,User,Seoul,37.566534999999995,126.9779692,Seoul,South Korea,260.0
+alexaubry/BulletinBoard,BulletinBoard,General-purpose contextual cards for iOS,2199,87,Swift,alexaubry,Alexis Aubry-Radanovic,User,"Paris, France",,,,,291.0
+roberthein/TinyConstraints,TinyConstraints,Nothing but sugar.,2193,94,Swift,roberthein,Robert-Hein Hooijmans,User,The Netherlands,52.132633,5.2912659999999985,,Netherlands,292.0
+PaoloCuscela/Cards,Cards,Awesome iOS 11 appstore cards in swift 4.,2157,95,Swift,PaoloCuscela,Paolo Cuscela,User,"Parma, IT",,,,,298.0
+shoheiyokoyama/Gemini,Gemini,"Gemini is rich scroll based animation framework for iOS, written in Swift.",2085,88,Swift,shoheiyokoyama,Shohei Yokoyama,User,Japan,36.204824,138.252924,,Japan,315.0
+fastred/Optimizing-Swift-Build-Times,Optimizing-Swift-Build-Times,Collection of advice on optimizing compile times of Swift projects.,1997,74,Swift,fastred,Arek Holko,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,337.5
+Touchwonders/Transition,Transition,Easy interactive interruptible custom ViewController transitions,1828,62,Swift,Touchwonders,Touchwonders,Organization,"Utrecht, the Netherlands",,,,,377.0
+ole/whats-new-in-swift-4,whats-new-in-swift-4,An Xcode playground showcasing the new features in Swift 4.0.,1826,137,Swift,ole,Ole Begemann,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,378.0
+HarshilShah/NotchKit,NotchKit,A simple way to hide the notch on the iPhone X,1796,64,Swift,HarshilShah,Harshil Shah,User,"Mumbai, India",19.0759837,72.87765590000001,Mumbai,India,392.5
+yapstudios/YapAnimator,YapAnimator,Your fast and friendly physics-based animation system.,1758,84,Swift,yapstudios,Yap Studios,Organization,"San Francisco, CA",,,,,404.0
+saoudrizwan/Disk,Disk,"Delightful framework for iOS to easily persist structs, images, and data",1750,54,Swift,saoudrizwan,Saoud Rizwan,User,"San Diego, CA",32.715738,-117.1610838,San Diego,United States,405.0
+IvanVorobei/RequestPermission,RequestPermission,simple permission request with beautiful UI,1698,104,Swift,IvanVorobei,Ivan Vorobei,User,"Belarus, Minsk",53.90453979999999,27.5615244,Minsk,Belarus,422.0
+SoySauceLab/CollectionKit,CollectionKit,A modern Swift framework for building reusable data-driven collection components.,1679,63,Swift,SoySauceLab,SoySauceLab,Organization,,,,,,424.0
+ChiliLabs/CHIPageControl,CHIPageControl,A set of cool animated page controls written in Swift to replace boring UIPageControl.,1657,95,Swift,ChiliLabs,Chili Labs,Organization,"Riga, Latvia",56.94964870000001,24.1051865,Riga,Latvia,429.0
+dani-gavrilov/GDPerformanceView-Swift,GDPerformanceView-Swift,"Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.",1602,85,Swift,dani-gavrilov,Gavrilov Daniil,User,"Saint-Petersburg, Russia",59.9342802,30.335098600000002,Saint Petersburg,Russia,449.0
+ApplikeySolutions/VegaScroll,VegaScroll,"↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.",1560,69,Swift,ApplikeySolutions,Applikey Solutions,Organization,"Ukraine, Kharkiv",,,,,461.0
+Daltron/NotificationBanner,NotificationBanner,The easiest way to display highly customizable in app notification banners in iOS,1553,135,Swift,Daltron,Dalton Hinterscher,User,Greater St. Louis Area,38.64126359999999,-90.2613413,St. Louis,United States,465.0
+loregr/LGButton,LGButton,A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.,1531,77,Swift,loregr,Lorenzo Greco,User,"Lecce, Italy",,,,,474.0
+TinyCrayon/TinyCrayon-iOS-SDK,TinyCrayon-iOS-SDK,A smart and easy-to-use image masking and cutout SDK for mobile apps.,1479,98,Swift,TinyCrayon,,Organization,,,,,,495.0
+MessageKit/MessageKit,MessageKit,In-progress: A community-driven replacement for JSQMessagesViewController,1430,159,Swift,MessageKit,MessageKit,Organization,,36.7233028,25.2822782,Ios,Greece,515.0
+krzysztofzablocki/LifetimeTracker,LifetimeTracker,Find retain cycles / memory leaks sooner.,1425,53,Swift,krzysztofzablocki,Krzysztof Zabłocki,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,516.0
+github/SoftU2F,SoftU2F,Software U2F authenticator for macOS,1388,74,Swift,github,GitHub,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,537.5
+onevcat/FengNiao,FengNiao,A command line tool for cleaning unused resources in Xcode.,1357,56,Swift,onevcat,Wei Wang,User,"Kawasaki, Japan/Shanghai, China",,,,,551.5
+JohnSundell/Marathon,Marathon,"Marathon makes it easy to write, run and manage your Swift scripts 🏃",1338,57,Swift,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,563.0
+xmartlabs/Bender,Bender,Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.,1317,63,Swift,xmartlabs,xmartlabs,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,576.5
+malcommac/Hydra,Hydra,"Lightweight full-featured Promises, Async & Await Library in Swift",1302,70,Swift,malcommac,Daniele Margutti,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,581.0
+makomori/Sharaku,Sharaku,Image filtering UI library like Instagram.,1292,114,Swift,makomori,Makoto Mori,User,Tokyo,35.6894875,139.69170640000002,Tokyo,Japan,586.0
+vhesener/Closures,Closures,Swifty closures for UIKit and Foundation,1263,48,Swift,vhesener,Vinnie Hesener,User,,,,,,601.0
+exyte/ARTetris,ARTetris,Augmented Reality Tetris made with ARKit and SceneKit,1236,130,Swift,exyte,Exyte,Organization,"Novosibirsk, Russia",55.00835259999999,82.9357327,Novosibirsk,Russia,612.0
+remirobert/Dotzu,Dotzu,":iphone::eyes: In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.",1235,90,Swift,remirobert,r é m i ,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,613.0
+BalestraPatrick/WhatsNew,WhatsNew,"Showcase new features after an app update similar to Pages, Numbers and Keynote.",1224,39,Swift,BalestraPatrick,Patrick Balestra,User,"Bellinzona, Switzerland",46.194621600000005,9.024412400000001,Bellinzona,Switzerland,624.0
+schibsted/layout,layout,A declarative UI framework for iOS,1214,46,Swift,schibsted,Schibsted Media Group,Organization,All over,45.0216195,-93.4880164,Minneapolis,United States,631.5
+JohnSundell/TestDrive,TestDrive,Quickly try out any Swift pod or framework in a playground,1201,30,Swift,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,637.0
+aslanyanhaik/Quick-Chat,Quick-Chat,Real time chat app written in Swift 3 using Firebase,1195,210,Swift,aslanyanhaik,Haik Aslanyan,User,,40.179185700000005,44.4991029,Yerevan,Armenia,641.5
+marty-suzuki/ReverseExtension,ReverseExtension,A UITableView ex
