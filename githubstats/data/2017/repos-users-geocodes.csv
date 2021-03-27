@@ -4711,4 +4711,114 @@ BalestraPatrick/WhatsNew,WhatsNew,"Showcase new features after an app update sim
 schibsted/layout,layout,A declarative UI framework for iOS,1214,46,Swift,schibsted,Schibsted Media Group,Organization,All over,45.0216195,-93.4880164,Minneapolis,United States,631.5
 JohnSundell/TestDrive,TestDrive,Quickly try out any Swift pod or framework in a playground,1201,30,Swift,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,637.0
 aslanyanhaik/Quick-Chat,Quick-Chat,Real time chat app written in Swift 3 using Firebase,1195,210,Swift,aslanyanhaik,Haik Aslanyan,User,,40.179185700000005,44.4991029,Yerevan,Armenia,641.5
-marty-suzuki/ReverseExtension,ReverseExtension,A UITableView ex
+marty-suzuki/ReverseExtension,ReverseExtension,A UITableView extension that enables cell insertion from the bottom of a table view.,1173,56,Swift,marty-suzuki,Taiki Suzuki,User,"Tokyo, Japan",35.6894875,139.69170640000002,,Japan,665.5
+duzexu/ARuler,ARuler,Mesure distance using apple ARKit,1143,124,Swift,duzexu,ZeXu Du,User,"Beijing,china",39.90419989999999,116.4073963,Beijing,China,686.0
+Luubra/EmojiIntelligence,EmojiIntelligence,Neural Network built in Apple Playground using Swift,1135,70,Swift,Luubra,Luubra,Organization,Germany,51.165690999999995,10.451526,,Germany,698.5
+Ramotion/gliding-collection,gliding-collection,":octocat: Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Swift Controller made by @Ramotion",1129,95,Swift,Ramotion,Ramotion,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,702.0
+tilltue/TLPhotoPicker,TLPhotoPicker,📷 multiple phassets picker for iOS lib. like a facebook,1114,86,Swift,tilltue,junhyi park,User,"seoul, South Korea",,,,,713.0
+Nonchalant/AppIcon,AppIcon,AppIcon generates *.appiconset contains each resolution image for iOS,1099,50,Swift,Nonchalant,Takeshi Ihara,User,Tokyo,35.6894875,139.69170640000002,Tokyo,Japan,721.0
+sergdort/CleanArchitectureRxSwift,CleanArchitectureRxSwift,Example of Clean Architecture of iOS app using RxSwift,1080,102,Swift,sergdort,,User,,,,,,734.5
+mono0926/LicensePlist,LicensePlist,A license list generator of all your dependencies for iOS applications,1049,27,Swift,mono0926,Masayuki Ono,User,Kawasaki,,,,,750.0
+overtake/TelegramSwift,TelegramSwift,Source code of Telegram for macos on Swift 4.0,1044,119,Swift,overtake,Mike,User,,,,,,754.0
+JohnSundell/ImagineEngine,ImagineEngine,A project to create a blazingly fast Swift game engine that is a joy to use 🚀,1043,47,Swift,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,755.0
+keitaoouchi/MarkdownView,MarkdownView,Markdown View for iOS.,1041,46,Swift,keitaoouchi,Keita Oouchi,User,Tokyo,35.6894875,139.69170640000002,,Japan,757.0
+younatics/MotionBook,MotionBook,📖 Awesome iOS UI/UX Application (Open Source),1027,90,Swift,younatics,Seungyoun Yi,User,"Seoul, Korea",,,,,769.5
+JohnSundell/Files,Files,A nicer way to handle files & folders in Swift,1023,54,Swift,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,775.0
+imwcl/WCLShineButton,WCLShineButton,This is a UI lib for iOS. Effects like shining.,1005,88,Swift,imwcl,W_C__L,User,杭州,30.274084000000002,120.15507,Hangzhou,China,785.5
+HamzaGhazouani/HGPlaceholders,HGPlaceholders,Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project,993,54,Swift,HamzaGhazouani,Hamza Ghazouani,User,Paris,48.856614,2.3522218999999995,Paris,France,795.0
+sobri909/ArcKit,ArcKit,"Location, motion, and activity recording framework for iOS",931,19,Swift,sobri909,Matt Greenfield,User,Bangkok,,,,,856.0
+toineheuvelmans/Metron,Metron,"Geometry, simplified.",928,21,Swift,toineheuvelmans,Toine Heuvelmans,User,"Maarssen, The Netherlands",52.1319071,5.0171019999999995,Maarssenbroek,Netherlands,861.0
+hollance/Forge,Forge,A neural network toolkit for Metal,913,112,Swift,hollance,Matthijs Hollemans,User,"Breda, Netherlands",,,,,873.0
+uias/Pageboy,Pageboy,"📖 A simple, highly informative page view controller.",908,41,Swift,uias,UI At Six,Organization,,,,,,881.0
+krzysztofzablocki/Traits,Traits,Modify your native iOS app in real time.,869,30,Swift,krzysztofzablocki,Krzysztof Zabłocki,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,930.0
+CosmicMind/Motion,Motion,A library used to create beautiful animations and transitions for Apple devices.,843,42,Swift,CosmicMind,CosmicMind,Organization,Toronto,43.653226000000004,-79.3831843,Toronto,Canada,955.0
+ReactorKit/ReactorKit,ReactorKit,A framework for a reactive and unidirectional Swift application architecture,841,53,Swift,ReactorKit,ReactorKit,Organization,,,,,,960.0
+weichsel/ZIPFoundation,ZIPFoundation,Effortless ZIP Handling in Swift,839,24,Swift,weichsel,Thomas Zoechling,User,"Vienna, Austria",,,,,962.5
+younatics/YNDropDownMenu,YNDropDownMenu,✨ Awesome Dropdown menu for iOS with Swift 3,820,70,Swift,younatics,Seungyoun Yi,User,"Seoul, Korea",,,,,976.5
+nmdias/DefaultsKit,DefaultsKit,"Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS",806,27,Swift,nmdias,Nuno Dias,User,"Lisbon, Portugal",,,,,984.0
+roberthein/Ease,Ease,Animate everything with Ease,795,13,Swift,roberthein,Robert-Hein Hooijmans,User,The Netherlands,52.132633,5.2912659999999985,,Netherlands,1000.0
+uias/Tabman,Tabman,™️ A powerful paging view controller with indicator bar.,789,69,Swift,uias,UI At Six,Organization,,,,,,1014.0
+davedelong/Chronology,Chronology,Building a better date/time library for Swift,788,24,Swift,davedelong,Dave DeLong,User,ZZ9 Plural Z Alpha,,,,,1017.0
+Nightonke/Gitee,Gitee,"Gitee, OS X status bar application for Github",783,24,Swift,Nightonke,Weiping Huang,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,1021.0
+efremidze/Cluster,Cluster,Easy Map Annotation Clustering 📍,778,62,Swift,efremidze,Lasha Efremidze,User,"Santa Monica, CA",34.01945429999999,-118.4911912,Santa Monica,United States,1032.0
+hanleyweng/CoreML-in-ARKit,CoreML-in-ARKit,Simple project to detect objects and display 3D labels above them in AR. This serves as a basic template for an ARKit project to use CoreML.,772,94,Swift,hanleyweng,Hanley,User,NYC / SFO / SD / SYD / MEL,,,,,1040.5
+scihant/CTPanoramaView,CTPanoramaView,A library that displays spherical or cylindrical panoramas with touch or motion based controls.,769,39,Swift,scihant,Salih Cihan Tek,User,"Istanbul, Turkey",,,,,1049.0
+mirego/PinLayout,PinLayout,"Fast Swift UIViews layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable.",767,37,Swift,mirego,Mirego,Organization,"Quebec City, QC, Canada",46.8138783,-71.2079809,Québec City,Canada,1052.0
+shu223/ARKit-Sampler,ARKit-Sampler,Code examples for ARKit.,739,53,Swift,shu223,Shuichi Tsutsumi,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1103.5
+efremidze/Magnetic,Magnetic,SpriteKit Floating Bubble Picker (inspired by Apple Music),738,39,Swift,efremidze,Lasha Efremidze,User,"Santa Monica, CA",34.01945429999999,-118.4911912,Santa Monica,United States,1107.0
+Boerworz/Gagat,Gagat,A delightful way to transition between visual styles in your iOS applications.,735,25,Swift,Boerworz,Tim Andersson,User,,,,,,1116.0
+farice/ARShooter,ARShooter,A demo Augmented Reality shooter made with ARKit in Swift (iOS 11),731,70,Swift,farice,Faris Sbahi,User,"Durham, NC",,,,,1125.0
+saoudrizwan/CardSlider,CardSlider,Innovative twist to Tinder cards for iOS.,729,49,Swift,saoudrizwan,Saoud Rizwan,User,"San Diego, CA",32.715738,-117.1610838,San Diego,United States,1132.0
+cyanzhong/TodayMind,TodayMind,Make Reminders Great Again,728,116,Swift,cyanzhong,Ying Zhong,User,Suzhou China,30.274084999999996,120.15507,Hangzhou,China,1136.5
+younatics/YNSearch,YNSearch,🔍 Awesome fully customize search view like Pinterest written in Swift 3 + Realm support!,728,58,Swift,younatics,Seungyoun Yi,User,"Seoul, Korea",,,,,1136.5
+SkrewEverything/Swift-Keylogger,Swift-Keylogger,Keylogger for mac written in Swift using HID,724,72,Swift,SkrewEverything,,User,,,,,,1154.0
+gragrance/CaptuocrToy,CaptuocrToy,A tool to capture screenshot and recognize text by online ocr apis ,720,65,Swift,gragrance,,User,,,,,,1162.0
+caiyue1993/IceCream,IceCream,Sync Realm Database with CloudKit,703,37,Swift,caiyue1993,Soledad,User,"Nanjing , China",32.060255,118.796877,Nanjing,China,1187.0
+FabrizioBrancati/Queuer,Queuer,"Queuer is a queue manager, built on top of OperationQueue and Dispatch (aka GCD).",699,22,Swift,FabrizioBrancati,Fabrizio Brancati,User,"Milan, Italy",,,,,1193.0
+swift-server/http,http,Repository for the development of cross-platform HTTP APIs,698,46,Swift,swift-server,,Organization,,,,,,1196.0
+square/Paralayout,Paralayout,,695,28,Swift,square,Square,Organization,,,,,,1201.5
+Ramotion/fluid-slider,fluid-slider,:octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Made by @Ramotion,694,40,Swift,Ramotion,Ramotion,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1205.0
+sindresorhus/touch-bar-simulator,touch-bar-simulator,Use the Touch Bar on any Mac,684,31,Swift,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,1228.0
+jeffreybergier/Blog-Getting-Started-with-Vision,Blog-Getting-Started-with-Vision,Blog: Getting Started with Vision on iOS 11,678,45,Swift,jeffreybergier,,User,,,,,,1238.5
+yonaskolb/XcodeGen,XcodeGen,Command line tool that generates your Xcode project from a spec file and your folder structure,673,36,Swift,yonaskolb,Yonas Kolb,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,1255.5
+gabrieloc/GIOVANNI,GIOVANNI,A Gameboy Emulator for the Apple Watch,670,46,Swift,gabrieloc,Gabriel O'Flaherty-Chan,User,Toronto,43.653226000000004,-79.3831843,Toronto,Canada,1265.5
+laanlabs/ARBrush,ARBrush,Quick demo of 3d drawing in ARKit using metal + SceneKit. NOTE: This is experimental code!,663,61,Swift,laanlabs,laan labs,User,sfo/nyc/berlin,,,,,1278.5
+younatics/Highlighter,Highlighter,🖍 Highlight whatever you want! ,659,32,Swift,younatics,Seungyoun Yi,User,"Seoul, Korea",,,,,1285.5
+google/xi-mac,xi-mac,,658,38,Swift,google,Google,Organization,,,,,,1288.5
+vanshg/MacAssistant,MacAssistant,Google Assistant for macOS!,657,48,Swift,vanshg,Vansh Gandhi,User,"Pleasanton, CA",37.6624312,-121.8746789,Pleasanton,United States,1293.0
+Ramotion/elongation-preview,elongation-preview,:octocat: ElongationPreview is an elegant UI push-pop style view controller made by @Ramotion,647,56,Swift,Ramotion,Ramotion,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1312.0
+kawoou/FlexibleImage,FlexibleImage,A simple way to play with the image!,640,29,Swift,kawoou,Jungwon An,User,"Seoul, South Korea",37.566534999999995,126.9779692,Seoul,South Korea,1319.5
+SteveBarnegren/TweenKit,TweenKit,Animation library for iOS in Swift,627,29,Swift,SteveBarnegren,Steve Barnegren,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,1344.0
+ApplikeySolutions/PandoraPlayer,PandoraPlayer,"🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.",616,54,Swift,ApplikeySolutions,Applikey Solutions,Organization,"Ukraine, Kharkiv",,,,,1368.5
+saoudrizwan/Dance,Dance,A radical & elegant animation library for iOS.,612,21,Swift,saoudrizwan,Saoud Rizwan,User,"San Diego, CA",32.715738,-117.1610838,San Diego,United States,1380.0
+dreymonde/Time,Time,"🕰 Type-safe time calculations in Swift, powered by generics",611,16,Swift,dreymonde,Oleg Dreyman,User,"Kharkiv, Ukraine",49.9935,36.230383,Kharkiv,Ukraine,1384.5
+AbhimanyuForiOS/GoogleNewsStandAnimation,GoogleNewsStandAnimation,It is same like Google News Stand Animation with Customise Configuration file in Swift iOS Technology.,611,39,Swift,AbhimanyuForiOS,Abhimanyu Rathore,User,,,,,,1384.5
+juanpablofernandez/SwiftyOnboard,SwiftyOnboard,A swifty iOS framework that allows developers to create beautiful onboarding experiences.,610,32,Swift,juanpablofernandez,Juan Pablo Fernandez,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,1388.0
+blueapron/Mandoline,Mandoline,An iOS picker view to serve all your 'picking' needs,607,17,Swift,blueapron,Blue Apron,Organization,"New York, NY",,,,,1391.5
+attaswift/Attabench,Attabench,Microbenchmarking app for Swift with nice log-log plots,595,16,Swift,attaswift,,Organization,,,,,,1417.5
+ZevEisenberg/ScrollSnake,ScrollSnake,What if scroll bars on the iPhone X worked like the game “Snake”?,583,25,Swift,ZevEisenberg,Zev Eisenberg,User,"Boston, MA",,,,,1445.5
+Boris-Em/ARCharts,ARCharts,Lovely Augmented Reality Charts for iOS - Built with ARKit,572,36,Swift,Boris-Em,Boris Emorine,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,1468.5
+fahidattique55/FAPanels,FAPanels,FAPanels - Swift,571,58,Swift,fahidattique55,Fahid Attique,User,"Lahore, Pakistan",31.5203696,74.35874729999998,Lahore,Pakistan,1472.0
+jindulys/ChainPageCollectionView,ChainPageCollectionView,A custom View with fancy collectionView animation,567,37,Swift,jindulys,Yansong Li,User,"toronto, ON, Canada",43.653226000000004,-79.3831843,Toronto,Canada,1483.0
+atomic14/VisionCoreMLSample,VisionCoreMLSample,Sample application using Vision Framework and Core ML,565,40,Swift,atomic14,atomic14,Organization,,,,,,1486.5
+rnystrom/GitHawk,GitHawk,A GitHub project manager app for iOS.,563,73,Swift,rnystrom,Ryan Nystrom,User,"New York, NY",40.7127753,-74.0059728,New York,United States,1493.0
+Caldis/Mos,Mos,"一个用于在MacOS上平滑你的鼠标滚动效果的小工具, 让你的滚轮爽如触控板    |    A simple tool to smooth and reverse your mouse scroll on MacOS",561,26,Swift,Caldis,Caldis,User,China,,,,,1497.5
+jhurray/SelectableTextView,SelectableTextView,A text view that supports selection and expansion,559,22,Swift,jhurray,Jeff Hurray,User,,,,,,1500.5
+Interactive-Studio/Windless,Windless,Windless makes it easy to implement invisible layout loading view.,558,29,Swift,Interactive-Studio,Interactive,Organization,South korea,,,,,1504.5
+kazuhiro4949/PagingKit,PagingKit,PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. ,557,24,Swift,kazuhiro4949,Kazuhiro Hayashi,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,1508.5
+intmain/HairPowder,HairPowder,Hair Powder for iPhoneX 'M' Shape pattern baldness design,557,24,Swift,intmain,intmain,User,korea,37.66399759999999,127.9784585,,,1508.5
+adamcichy/SwiftySound,SwiftySound,SwiftySound is a simple library that lets you play sounds with a single line of code.,541,30,Swift,adamcichy,Adam Cichy,User,,,,,,1555.0
+EnderTan/ETNavBarTransparent,ETNavBarTransparent,Change NavigationBar's transparency at pop gestrue and other situation,536,68,Swift,EnderTan,,User,,,,,,1571.5
+hollance/MobileNet-CoreML,MobileNet-CoreML,The MobileNet neural network using Apple's new CoreML framework,530,70,Swift,hollance,Matthijs Hollemans,User,"Breda, Netherlands",,,,,1589.5
+Minitour/AZDialogViewController,AZDialogViewController,A highly customizable alert dialog controller that mimics Snapchat's alert dialog.,528,19,Swift,Minitour,Antonio Zaitoun,User,Israel,31.046051000000002,34.851612,,Israel,1598.0
+c-Viorel/MBIcons,MBIcons,MBIcons contains over 200 icons that can be resized to any dimensions as they are drawn using NSBezierPath.,525,30,Swift,c-Viorel,Cornel Viorel,User,,,,,,1601.5
+darkerk/v2ex,v2ex,The unofficial V2EX app for iOS,525,65,Swift,darkerk,darker,User,,,,,,1601.5
+xcodeswift/xcproj,xcproj,Swift library for parsing Xcode projects,521,42,Swift,xcodeswift,xcode.swift,Organization,,,,,,1608.5
+Otbivnoe/CodableAlamofire,CodableAlamofire,An extension for Alamofire that converts JSON data into Decodable objects.,514,24,Swift,Otbivnoe,Nikita Ermolenko,User,Omsk,54.9884804,73.3242361,Omsk,Russia,1636.0
+avito-tech/Paparazzo,Paparazzo,Custom iOS camera and photo picker with editing capabilities,514,43,Swift,avito-tech,Avito Technology,Organization,Moscow,,,,,1636.0
+ddddxxx/LyricsX,LyricsX,"🎶 Lyrics for iTunes, Spotify and Vox",511,36,Swift,ddddxxx,ddddxxx,User,China,,,,,1642.5
+johnpatrickmorgan/wtfautolayout,wtfautolayout,"The source code for Why The Failure, Auto Layout?",510,11,Swift,johnpatrickmorgan,John Patrick Morgan,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,1647.0
+KrisYu/swift14macOSApps,swift14macOSApps,approaching macOS development using swift with 14 mini projects.,509,59,Swift,KrisYu,Xue Yu,User,San Jose,37.338208200000004,-121.88632859999998,San Jose,United States,1651.0
+KiranJasvanee/OnlyPictures,OnlyPictures,"A source of circular pictures, currently supports horizontal overlapping or distant pictures with great layout flexibility.",508,30,Swift,KiranJasvanee,Kiran Jasvanee,User,"Ahmedabad, Gujarat, India.",23.022505,72.57136209999999,Ahmedabad,India,1654.5
+fastred/DeallocationChecker,DeallocationChecker,Catch leaking view controllers without opening Instruments.,501,10,Swift,fastred,Arek Holko,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,1685.5
+kishikawakatsumi/Kuery,Kuery,A type-safe Core Data query API using Swift 4's Smart KeyPaths,489,9,Swift,kishikawakatsumi,Kishikawa Katsumi,User,Tokyo,35.6894875,139.69170640000002,,Japan,1732.5
+AFathi/ARVideoKit,ARVideoKit,"Capture & record ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆.",488,31,Swift,AFathi,Ahmed Fathi Bekhit,User,,,,,,1735.5
+DianQK/Flix,Flix,iOS form builder in Swift.,482,23,Swift,DianQK,DianQK,User,"Beijing, China",39.904211,116.407395,Beijing,China,1762.0
+oabdelkarim/ARPaint,ARPaint,Draw with bare fingers in the air using ARKit,472,49,Swift,oabdelkarim,,User,,,,,,1789.0
+blendle/Hanson,Hanson,Lightweight observations and bindings in Swift,466,14,Swift,blendle,Blendle,Organization,Utrecht,52.09073739999999,5.121420099999999,Utrecht,Netherlands,1820.0
+krisk/fuse-swift,fuse-swift,"A lightweight fuzzy-search library, with zero dependencies",452,23,Swift,krisk,Kirollos Risk,User,Toronto,43.653226000000004,-79.3831843,Toronto,Canada,1873.0
+NoTests/RxFeedback.swift,RxFeedback.swift,Architecture for RxSwift,451,26,Swift,NoTests,NoTests,Organization,,,,,,1878.0
+MarioIannotta/PullUpController,PullUpController,Pull up controller with multiple sticky points like in iOS Maps,447,27,Swift,MarioIannotta,Mario Iannotta,User,,,,,,1894.5
+1amageek/Bleu,Bleu,BLE (Bluetooth LE) for U🎁 Bleu is the best in the Bluetooth library.,446,29,Swift,1amageek,1amageek,User,Tokyo in Japan,,,,,1899.0
+ksmandersen/GoogleReporter,GoogleReporter,Easily integrate your app with Google Analytics,445,17,Swift,ksmandersen,Kristian Andersen,User,"Copenhagen, Denmark",55.676096799999996,12.568337199999998,Copenhagen,Denmark,1906.5
+Interactive-Studio/TransitionableTab,TransitionableTab,TransitionableTab makes it easy to animate when switching between tab.,445,23,Swift,Interactive-Studio,Interactive,Organization,South korea,,,,,1906.5
+Babylonpartners/DrawerKit,DrawerKit,DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works.,442,17,Swift,Babylonpartners,babylon health,Organization,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,1921.0
+rsrbk/SmileToUnlock,SmileToUnlock,This library uses ARKit Face Tracking in order to catch a user's smile.,434,19,Swift,rsrbk,Ruslan Serebriakov,User,"Amsterdam, The Netherlands",52.3702157,4.8951679000000015,Amsterdam,Netherlands,1954.0
+AAChartModel/AAChartKit-Swift,AAChartKit-Swift,"An elegant and friendly chart library for iOS developer who use Swift. Powerful,support the column chart、bar chart、area chart、areaspline chart、line chart、spline chart、radar chart、polar chart、pie chart、bubble chart、pyramid chart、funnel chart、columnrange chart and other graphics.",431,25,Swift,AAChartModel,An An,User,NanJing,32.060255,118.796877,Nanjing,China,1966.0
+agilie/AGCircularPicker,AGCircularPicker,AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter,428,25,Swift,agilie,Agilie Team,Organization,"Ukraine, Dnipropetrovsk",48.464717,35.046183,Dnipro,Ukraine,1978.5
+NovaTecConsulting/FaceRecognition-in-ARKit,FaceRecognition-in-ARKit,Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.,425,40,Swift,NovaTecConsulting,NovaTec Consulting GmbH,Organization,Leinfelden-Echterdingen,,,,,1997.0
+Kofktu/KUIPopOver,KUIPopOver,Easy to use PopOver in iOS,424,22,Swift,Kofktu,Taeun Kim,User,"Seoul, Korea",,,,,2005.0
+MillmanY/MMPlayerView,MMPlayerView,Custom AVPlayerLayer on view and transition player with good effect like youtube and facebook ,423,32,Swift,MillmanY,Millman Yang,User,"Taipei, Taiwan",25.032963600000002,121.5654268,,Taiwan,2011.5
+xmartlabs/Xniffer,Xniffer,A swift network profiler built on top of URLSession.,419,13,Swift,xmartlabs,xmartlabs,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2028.5
+stuffrabbit/SwiftSpreadsheet,SwiftSpreadsheet,Spreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶,411,21,Swift,stuffrabbit,Wojtek Kordylewski,User,Bremen,53.07929619999999,8.8016936,Bremen,Germany,2059.5
+CRAnimation/CRRefresh,CRRefresh,An easy way to use pull-to-refresh,410,50,Swift,CRAnimation,CRAnimation,Organizat
