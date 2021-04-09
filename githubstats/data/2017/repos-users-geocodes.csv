@@ -4928,4 +4928,115 @@ mzp/SlackStack,SlackStack,Multi-column/multi-row slack client for macOS,245,14,S
 foolsong/EasyChartsSwift,EasyChartsSwift,A simple chart lib used for iOS(Swift && Objective-c). :-),245,3,Swift,foolsong,宋永建,User,,,,,,3446.5
 devxoul/Umbrella,Umbrella,☂️ Analytics abstraction layer for Swift,244,8,Swift,devxoul,Jeon Suyeol,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,3462.5
 alexdrone/Dispatch,Dispatch,Multi-store Flux implementation in Swift.,244,11,Swift,alexdrone,Alex Usbergo,User,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden,3462.5
-February12/YLBaseChat,YLBaseChat,聊天界面封装，快速开发。(高度自定义),243,10,Swift,February12,F
+February12/YLBaseChat,YLBaseChat,聊天界面封装，快速开发。(高度自定义),243,10,Swift,February12,February12ᵈᵉᵛ,User,,,,,,3477.5
+thePsguy/ButtonProgressBar-iOS,ButtonProgressBar-iOS,"A small and flexible (well documented)  UIButton subclass with animated loading progress, and completion animation.",243,18,Swift,thePsguy,Pushkar Sharma,User,"New Delhi, India",,,,,3477.5
+wang542413041/Swift,Swift,swift 上手开发APP必备,242,4,Swift,wang542413041,王家伟,User,北京,39.90419989999999,116.4073963,Beijing,China,3494.5
+John-Connolly/SwiftQ,SwiftQ,Distributed Task Queue ,241,8,Swift,John-Connolly,John Connolly,User,"Halifax, Canada",44.64876350000001,-63.5752387,Halifax Regional Municipality,Canada,3513.5
+malcommac/UIWindowTransitions,UIWindowTransitions,Animated transitions for UIWindow's rootViewController property,240,9,Swift,malcommac,Daniele Margutti,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,3531.0
+eventtus/photo-editor,photo-editor,Photo editor with a lot of cool features ,240,53,Swift,eventtus,Eventtus,Organization,,,,,,3531.0
+1amageek/Sumo,Sumo,Sumo is a library that prepares for fast upload for iOS. It is effective when uploading by selecting images continuously.,236,14,Swift,1amageek,1amageek,User,Tokyo in Japan,,,,,3591.5
+xcodeswift/sake,sake,A make-like build utility for Swift.,236,14,Swift,xcodeswift,xcode.swift,Organization,,,,,,3591.5
+kuyawa/CodeEditor,CodeEditor,Macaw - Code editor with syntax highlighting,236,16,Swift,kuyawa,Kuyawa Kata,User,,,,,,3591.5
+AudioKit/ROMPlayer,ROMPlayer,"AudioKit Sample Player (ROM Player) - EXS24, Sound Font, Wave Player",235,24,Swift,AudioKit,AudioKit,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,3608.5
+chriseidhof/tea-in-swift,tea-in-swift,The Elm Architecture in Swift,234,9,Swift,chriseidhof,Chris Eidhof,User,Berlin,,,,,3627.0
+skx926/KSGuideController,KSGuideController,A beautiful animated novice guide controller written in Swift. 一个漂亮的新手引导库。,233,26,Swift,skx926,方人疋,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,3648.0
+100mango/SwiftCssParser,SwiftCssParser,"A Powerful , Extensible CSS Parser written in pure Swift.",232,12,Swift,100mango,,User,,,,,,3667.0
+PierrePerrin/ShadowView,ShadowView,An iOS Library that makes shadows management easy on UIView.,232,9,Swift,PierrePerrin,Pierre,User,,,,,,3667.0
+gao0122/ARKit-Example-by-Apple,ARKit-Example-by-Apple,Placing objects. This example can be downloaded from apple.com. ,231,64,Swift,gao0122,Yuchao,User,,,,,,3682.0
+mythkiven/DiffuseMenu_Swift,DiffuseMenu_Swift,"SDiffuseMenu: Swift版AwesomeMenu, 点击菜单弹射选项的动画效果",229,37,Swift,mythkiven,3行代码,User,,,,,,3720.5
+exyte/fan-menu,fan-menu,Menu with a circular layout based on Macaw,228,16,Swift,exyte,Exyte,Organization,"Novosibirsk, Russia",55.00835259999999,82.9357327,Novosibirsk,Russia,3737.5
+realm/RealmContent,RealmContent,Light Realm-powered content management system,226,10,Swift,realm,Realm,Organization,,,,,,3770.5
+February12/YLPhotoBrowser,YLPhotoBrowser,仿微信图片浏览器(定义转场动画、支持本地和网络gif、拖拽取消）,226,5,Swift,February12,February12ᵈᵉᵛ,User,,,,,,3770.5
+songkuixi/TouchBreakout,TouchBreakout,"Play Breakout game on your Touch Bar, using SpriteKit.",225,11,Swift,songkuixi,Kuixi Song,User,"Shanghai, China",,,,,3788.0
+gringoireDM/LNZCollectionLayouts,LNZCollectionLayouts,A collection of CollectionViewLayout.,223,12,Swift,gringoireDM,Giuseppe Lanza,User,Dublin (Ireland),53.34980529999999,-6.2603097000000005,Dublin,Ireland,3820.5
+TrustWallet/trust-wallet-ios,trust-wallet-ios,:iphone: Trust - Ethereum Wallet for iOS,222,31,Swift,TrustWallet,Trust,Organization,,,,,,3837.5
+spotify/SpotifyLogin,SpotifyLogin,Swift framework for authenticating with the Spotify API,221,13,Swift,spotify,Spotify,Organization,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden,3854.5
+BestSwift/JSUStockChat,JSUStockChat,JSUStockChat is a easy way to make stock chart with Auto Layout And StoryBoard!,220,29,Swift,BestSwift,,User,,,,,,3872.5
+jakemarsh/core-layout,core-layout,Flexbox & CSS-style Layout in Swift.,220,7,Swift,jakemarsh,Jake Marsh,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3872.5
+aliumujib/AppStoreiOS11,AppStoreiOS11,iOS 11 Appstore clone.. practise of laying out views purely programatically,220,40,Swift,aliumujib,Abdul-Mujib Aliu,User,"Nigeria, Lagos",6.5243793,3.3792057,Lagos,Nigeria,3872.5
+Nirma/UIDeviceComplete,UIDeviceComplete,UIDevice extensions that fill in the missing pieces.,219,10,Swift,Nirma,Nicholas Maccharoli ,User,,,,,,3893.0
+MindorksOpenSource/iOS-Viper-Architecture,iOS-Viper-Architecture,"This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.",216,65,Swift,MindorksOpenSource,Mindorks,Organization,"Gurgaon, India",,,,,3944.0
+LeFal/WaterDrops,WaterDrops,Simple water drops animation 💧,216,17,Swift,LeFal,Oh Hyung Jun,User,,,,,,3944.0
+kLike/ZhiHu-RxSwift,ZhiHu-RxSwift,知乎日报  with RxSwift,216,43,Swift,kLike,,User,WuHan,30.592848999999998,114.305539,Wuhan,China,3944.0
+aFrogleap/SimpleImageViewer,SimpleImageViewer,A snappy image viewer with zoom and interactive dismissal transition.,215,20,Swift,aFrogleap,aFrogleap BV,Organization,Amsterdam,52.3702157,4.8951679000000015,Amsterdam,Netherlands,3967.0
+JiongXing/PhotoBrowser,PhotoBrowser, Elegant photo browser in Swift. 图片浏览器，类似微信,214,34,Swift,JiongXing,梁炯幸,User,ShenZhen,22.543096,114.05786499999999,Shenzhen,China,3988.5
+songkuixi/ARGitHubCommits,ARGitHubCommits,Show your GitHub commit records in 3D with ARKit and SceneKit.,212,24,Swift,songkuixi,Kuixi Song,User,"Shanghai, China",,,,,4022.0
+SD10/Nora,Nora,Nora is a Firebase abstraction layer for FirebaseDatabase and FirebaseStorage,211,20,Swift,SD10,Steven Deutsch,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,4046.0
+RuiAAPeres/Receiver,Receiver,Swift µframework implementing the Observer pattern 📡,210,9,Swift,RuiAAPeres,Rui Peres,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,4067.0
+blueapron/styled-text,styled-text,Declarative text styles and streamlined Dynamic Type support for iOS,210,3,Swift,blueapron,Blue Apron,Organization,"New York, NY",,,,,4067.0
+efremidze/Haptica,Haptica,Easy Haptic Feedback Generator 📳,208,12,Swift,efremidze,Lasha Efremidze,User,"Santa Monica, CA",34.01945429999999,-118.4911912,Santa Monica,United States,4110.0
+EyreFree/EFMarkdown,EFMarkdown,A lightweight Markdown library for iOS.,208,15,Swift,EyreFree,EyreFreeᵈᵉᵛ,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,4110.0
+onmyway133/XcodeColorSense2,XcodeColorSense2,🍉 An Xcode source editor extension that shows hex color info,206,6,Swift,onmyway133,Khoa,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,4151.5
+JohnSundell/Require,Require,"Require optional values to be non-nil, or crash gracefully",206,5,Swift,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,4151.5
+KrauseFx/overkill-for-mac,overkill-for-mac,Stop iTunes from opening when you connect your iPhone,205,9,Swift,KrauseFx,Felix Krause,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4172.0
+VeinGuo/VGPlayer,VGPlayer,📺  A simple iOS video player by Vein.,204,35,Swift,VeinGuo,Wen Rong,User,"Xiamen, China",24.479833,118.089425,Xiamen,China,4194.0
+Raureif/WikipediaKit,WikipediaKit," API Client Framework for Swift 3 on macOS, iOS, watchOS, and tvOS",203,7,Swift,Raureif,,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,4213.0
+justeat/JustLog,JustLog,"JustLog brings logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort. Support for logz.io available.",201,27,Swift,justeat,JUST EAT,Organization,London UK,51.5073509,-0.12775830000000002,London,United Kingdom,4246.5
+tdscientist/ShelfView-iOS,ShelfView-iOS,iOS custom view to display books on shelf,200,17,Swift,tdscientist,Adeyinka Adediji,User,"Lagos, Nigeria",6.5243793,3.3792057,Lagos,Nigeria,4266.5
+younatics/ExpandableCell,ExpandableCell,"✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 3",198,22,Swift,younatics,Seungyoun Yi,User,"Seoul, Korea",,,,,4308.0
+lyft/set-simulator-location,set-simulator-location,CLI for setting location in the iOS simulator,196,8,Swift,lyft,Lyft,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4350.0
+codegeeker180/AVFonts,AVFonts,AVFonts for change/swap fontname throughout app.,194,12,Swift,codegeeker180,Arnav,User,,,,,,4401.5
+February12/YLImagePickerController,YLImagePickerController,选择相册和拍照 支持多种裁剪,194,7,Swift,February12,February12ᵈᵉᵛ,User,,,,,,4401.5
+freshOS/KeyboardLayoutGuide,KeyboardLayoutGuide,⌨️ Apple's missing KeyboardLayoutGuide,192,7,Swift,freshOS,freshOS,Organization,,,,,,4441.5
+pixelspark/catena,catena,"Catena is a distributed database based on a blockchain, accessible using SQL.",192,15,Swift,pixelspark,Tommy van der Vorst,User,The Netherlands,,,,,4441.5
+handsomecode/astrology-motion-ios,astrology-motion-ios,Astrology animation written in Swift 3,191,5,Swift,handsomecode,Handsome,Organization,"Austin, TX",,,,,4463.5
+onmyway133/FinderGo,FinderGo,🐢 Open terminal quickly from Finder,191,17,Swift,onmyway133,Khoa,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,4463.5
+DroidsOnRoids/VisionFaceDetection,VisionFaceDetection,An example of use a Vision framework for face landmarks detection in iOS 11,189,13,Swift,DroidsOnRoids,Droids On Roids,Organization,"Wroclaw, Poland",51.1078852,17.0385376,Wrocław,Poland,4510.0
+di2pra/D2PDatePicker,D2PDatePicker,Elegant and Easy-to-Use iOS Swift Date Picker,188,14,Swift,di2pra,DI2PRA,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4532.5
+D-32/SegmentedProgressBar,SegmentedProgressBar,Snapchat / Instagram Stories like progress indicator,187,16,Swift,D-32,Dylan Marriott,User,Switzerland,46.818188,8.227511999999999,,Switzerland,4561.5
+frankrausch/Typographizer,Typographizer,Fix dumb quotation marks and apostrophes in Swift,187,10,Swift,frankrausch,Frank Rausch,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,4561.5
+layoutBox/FlexLayout,FlexLayout,"FlexLayout adds a nice Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.",187,11,Swift,layoutBox,layoutBox,Organization,Montreal,,,,,4561.5
+phynet/iOS-URL-Schemes,iOS-URL-Schemes,iOS URL list schemes: This is a github solution from my gist of iOS list for urls schemes https://gist.github.com/phynet/471089a51b8f940f0fb4 a list of different URL Schemes for iOS (Swift 3 and Objc),187,16,Swift,phynet,Sofia Swidarowicz,User,Madrid,,,,,4561.5
+YJManager/YJSwiftExtensions,YJSwiftExtensions,YJExtensions,186,3,Swift,YJManager,houmanager,User,"BeiJing, China",39.90419989999999,116.4073963,Beijing,China,4590.5
+caiyue1993/Tiptoes,Tiptoes,"Simple navigation bar in the bottom, a beautiful discretion in your UI.",186,14,Swift,caiyue1993,Soledad,User,"Nanjing , China",32.060255,118.796877,Nanjing,China,4590.5
+onmyway133/DeepDiff,DeepDiff,🦀 Diff in Swift,185,6,Swift,onmyway133,Khoa,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,4615.5
+cruisediary/Passcode,Passcode,"🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example",185,13,Swift,cruisediary,Cruz,User,Seoul,37.566534999999995,126.9779692,Seoul,South Korea,4615.5
+hollance/CoreMLHelpers,CoreMLHelpers,Types and functions that make it a little easier to work with Core ML in Swift.,184,17,Swift,hollance,Matthijs Hollemans,User,"Breda, Netherlands",,,,,4639.0
+goldmoment/Bubble,Bubble,Inspired by Fruit Animation,183,10,Swift,goldmoment,Vien V.Nguyen,User,Sai Gon,10.8230989,106.6296638,Ho Chi Minh City,Vietnam,4663.0
+L-Zephyr/Drafter,Drafter,在iOS项目中自动生成类图和方法调用图 - Generate call graph in iOS project,182,22,Swift,L-Zephyr,LZephyr,User,Hangzhou China,30.274084000000002,120.15507,Hangzhou,China,4693.0
+orucanil/StringFormatter,StringFormatter,"Simple Text Formetter (Credit Card Number, Phone Number, Serial Number etc.) Can be used in all text inputs according to the format pattern. If desired, large minor character restrictions can be made in the format pattern.",182,12,Swift,orucanil,Anıl ORUÇ,User,Turkey,38.963745,35.243322,,Turkey,4693.0
+asiosldh/BMDragCellCollectionViewSwift,BMDragCellCollectionViewSwift,iOS UICollectionView UICollectionViewCell drag again arrangement framework Swift Version（支付宝我的应用编辑，今日头条我的频道编辑）,182,3,Swift,asiosldh,idhong,User,"Guangzhou , China",23.12911,113.264385,Guangzhou,China,4693.0
+wangrui460/WRNavigationBar_swift,WRNavigationBar_swift,WRNavigationBar which allows you to change NavigationBar's appearance dynamically,181,24,Swift,wangrui460,,User,ShangHai,31.230390399999997,121.4737021,Shanghai,China,4725.0
+spicyShrimp/U17,U17,精仿有妖气漫画(Swift4),181,47,Swift,spicyShrimp,Charles,User,"ShangHai,China",31.230390399999997,121.4737021,Shanghai,China,4725.0
+FortechRomania/ios-mvp-clean-architecture,ios-mvp-clean-architecture,Demo iOS application built to highlight MVP (Model View Presenter) and Clean Architecture concepts,180,31,Swift,FortechRomania,Fortech,Organization,,,,,,4753.0
+bjarnel/arkit-occlusion,arkit-occlusion,A demonstration of vertical planes 'tracking' and occlusions with ARKit+Scenekit,179,25,Swift,bjarnel,Bjarne Lundgren,User,"Odense, Denmark",,,,,4778.0
+balancemymoney/balance-open,balance-open,Balance Open: A GPL3-licensed macOS menu bar app for all the world’s currencies.,178,20,Swift,balancemymoney,Balance,Organization,San Francisco,,,,,4807.0
+Imputes/Instagram,Instagram,📱  💯  A simple imitation of Instagram  app .,178,10,Swift,Imputes,0x5f375a86,User,Beijing,39.90419989999999,116.4073963,Beijing,China,4807.0
+easyui/EZPlayer,EZPlayer,基于AVPlayer封装的视频播放器，功能丰富，快速集成，可定制性强，支持react-native。,178,36,Swift,easyui,Yangjun,User,,,,,,4807.0
+tiagomartinho/Reminders,Reminders,An iOS application written in Swift to demonstrate how to implement a Clean Architecture in iOS,178,12,Swift,tiagomartinho,Tiago Martinho,User,Barcelona,,,,,4807.0
+kishikawakatsumi/BookReader,BookReader,"Sample code for PDFKit on iOS 11, clone of iBooks.app built on top of PDFKit.",177,21,Swift,kishikawakatsumi,Kishikawa Katsumi,User,Tokyo,35.6894875,139.69170640000002,,Japan,4839.0
+DingdingKim/CoinNow,CoinNow,"💰 Provide current price of coins(BTC, ETH, DASH, LTC, ETC, XRP) in real time from Bithumb and Poloniex.",177,14,Swift,DingdingKim,DingdingKim,User,South korea,35.907757000000004,127.766922,,South Korea,4839.0
+MQZHot/ZLaunchAdVC,ZLaunchAdVC,"使用viewController集成启动广告,支持LaunchImage和LaunchScreen,支持GIF,支持本地图片,支持视图过渡动画",176,42,Swift,MQZHot,MQZHot,User,Beijing,,,,,4869.0
+ishkawa/DIKit,DIKit,An experimental project that provides static dependency injection by code generation.,176,8,Swift,ishkawa,Yosuke Ishikawa,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,4869.0
+nerdycat/Cupcake,Cupcake,An easy way to create and layout UI components for iOS (Swift version).,175,15,Swift,nerdycat,nerdycat,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,4897.0
+soffes/HotKey,HotKey,Simple global shortcuts in macOS,174,6,Swift,soffes,Sam Soffes,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4932.5
+nhatminh12369/BarChart,BarChart,,174,19,Swift,nhatminh12369,Minh Nguyen,User,,,,,,4932.5
+mpangburn/Expressions,Expressions,Arithmetic and logical expressions elegantly modeled and visualized using protocol-oriented binary trees. 🌳,174,8,Swift,mpangburn,Michael Pangburn,User,,,,,,4932.5
+bjarnel/arkit-smb-homage,arkit-smb-homage,An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.,174,30,Swift,bjarnel,Bjarne Lundgren,User,"Odense, Denmark",,,,,4932.5
+DroidsOnRoids/MeasureARKit,MeasureARKit,An example of measuring app with ARKit in iOS 11,173,36,Swift,DroidsOnRoids,Droids On Roids,Organization,"Wroclaw, Poland",51.1078852,17.0385376,Wrocław,Poland,4974.5
+agilie/AGImageControls,AGImageControls,cool tools for image edition,173,6,Swift,agilie,Agilie Team,Organization,"Ukraine, Dnipropetrovsk",48.464717,35.046183,Dnipro,Ukraine,4974.5
+mergesort/FeedbackEffect,FeedbackEffect,A library for playing sounds and providing haptic feedback with ease.,173,8,Swift,mergesort,Joe Fabisevich,User,New York City,40.7127837,-74.00594129999999,New York,United States,4974.5
+EthanSchatzline/DrawableView,DrawableView,A UIView subclass that allows the user to draw on it.,173,11,Swift,EthanSchatzline,Ethan Schatzline,User,San Francisco,,,,,4974.5
+intelygenz/Archit-iOS,Archit-iOS,Intelygenz iOS Architecture,172,12,Swift,intelygenz,Intelygenz,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain,5008.5
+onmyway133/Themes,Themes,👕👚 Theme management in Swift,171,5,Swift,onmyway133,Khoa,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,5034.5
+BalestraPatrick/Stryng,Stryng,Swift strings taken to a whole new syntax level.,171,9,Swift,BalestraPatrick,Patrick Balestra,User,"Bellinzona, Switzerland",46.194621600000005,9.024412400000001,Bellinzona,Switzerland,5034.5
+liugangios/SwiftShare,SwiftShare,SwiftShare是IFMShare的Swift版本，OC版戳https://github.com/liugangios/IFMShare,171,1,Swift,liugangios,,User,"Beijing, China",,,,,5034.5
+mythkiven/AD_Fastlane,AD_Fastlane,"一个Fastlane Demo 实现了:iOS App 自动化上传 AppStore ,一键部署 App",170,33,Swift,mythkiven,3行代码,User,,,,,,5060.5
+XiongJoJo/OFO,OFO,OFO共享单车(Swift版),170,58,Swift,XiongJoJo,,User,中国深圳,,,,,5060.5
+brokenhandsio/SteamPress,SteamPress,A Blogging Engine and Platform written in Swift for use with the Vapor Framework,169,18,Swift,brokenhandsio,Broken Hands,Organization,,,,,,5091.0
+riteshhgupta/RGListKit,RGListKit,RGListKit is a Protocol & MVVM based framework to easily populate a UITableView or UICollectionView via single api.,169,9,Swift,riteshhgupta,Ritesh Gupta,User,New Delhi,,,,,5091.0
+matsune/YMCalendar,YMCalendar,Monthly event calendar framework for iOS,169,11,Swift,matsune,Yuma Matsune,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,5091.0
+WorldDownTown/RangeSeekSlider,RangeSeekSlider,RangeSeedSlider provides a customizable range slider like a UISlider.,169,41,Swift,WorldDownTown,WorldDownTown,User,"Tokyo, Japan",,,,,5091.0
+ApacheExpress/ApacheExpress,ApacheExpress,Reliable Server Side Swift ✭ Make Apache great again!,168,2,Swift,ApacheExpress,The ApacheExpress Alliance,Organization,The Interwebs,,,,,5120.5
+StorageKit/StorageKit,StorageKit,Your Data Storage Troubleshooter 🛠,167,5,Swift,StorageKit,StorageKit,Organization,London,,,,,5151.5
+Shopify/FunctionalTableData,FunctionalTableData,Declarative UITableViewDataSource implementation,167,6,Swift,Shopify,Shopify,Organization,,,,,,5151.5
+smdls/C0,C0,2D Animation Tool for macOS.,167,13,Swift,smdls,S,User,,,,,,5151.5
+WorldDownTown/TapticEngine,TapticEngine,TapticEngine generates haptic feedback vibrations on iOS device.,166,11,Swift,WorldDownTown,WorldDownTown,User,"Tokyo, Japan",,,,,5180.5
+ignacio-chiazzo/ARKit,ARKit,ARKit Base Project. Place virtual objects based on WWDC example project,166,41,Swift,ignacio-chiazzo,Ignacio Chiazzo Cardarello,User,"Ottawa, ON, Canada.",45.42152960000001,-75.69719309999998,Ottawa,Canada,5180.5
+marcosgriselli/SwipeableTabBarController,SwipeableTabBarController,UITabBarController with swipe interaction between its tabs.,165,23,Swift,marcosgriselli,Marcos Griselli,User,"Buenos Aires, Argentina",,,,,5211.0
+alexruperez/LaunchScreenSnapshot,LaunchScreenSnapshot,Protects sensitive data in your app snapshot.,165,9,Swift,alexruperez,Alex Rupérez,User,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain,5211.0
+objcio/OptimizingCollections,OptimizingCollections,Home of my talk about Optimizing Collections in Swift,164,8,Swift,objcio,objc.io,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,5245.0
+dreymonde/Placeholders,Placeholders,🅿️ Define multiple placeholders for UITextField and animate their change,164,5,Swift,dreymonde,Oleg Dreyman,User,"Kharkiv, Ukraine",49.9935,36.230383,Kharkiv,Ukraine,5245.0
+IvanRublev/PersistentStorageSerializable,PersistentStorageSerializable,Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk.,162,4,Swift,IvanRublev,Ivan Rublev,User,Worldwide,,,,,5308.0
+roberthein/Observable,Observable,The easiest way to observe values in Swift.,160,12,Swift,roberthein,Robert-Hein Hooijmans,User,The Netherlands,52.132633,5.2912659999999985,,Netherlands,5371.0
+stackhou/SwiftProgressHUD,SwiftProgressHUD,SwiftProgressHUD is a user-friendly pure swift HUD. 支持Cocoapods 及 Carthage,160,31,Swift,stackhou,shoo,User,Beij
