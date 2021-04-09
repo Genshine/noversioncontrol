@@ -5039,4 +5039,114 @@ objcio/OptimizingCollections,OptimizingCollections,Home of my talk about Optimiz
 dreymonde/Placeholders,Placeholders,🅿️ Define multiple placeholders for UITextField and animate their change,164,5,Swift,dreymonde,Oleg Dreyman,User,"Kharkiv, Ukraine",49.9935,36.230383,Kharkiv,Ukraine,5245.0
 IvanRublev/PersistentStorageSerializable,PersistentStorageSerializable,Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk.,162,4,Swift,IvanRublev,Ivan Rublev,User,Worldwide,,,,,5308.0
 roberthein/Observable,Observable,The easiest way to observe values in Swift.,160,12,Swift,roberthein,Robert-Hein Hooijmans,User,The Netherlands,52.132633,5.2912659999999985,,Netherlands,5371.0
-stackhou/SwiftProgressHUD,SwiftProgressHUD,SwiftProgressHUD is a user-friendly pure swift HUD. 支持Cocoapods 及 Carthage,160,31,Swift,stackhou,shoo,User,Beij
+stackhou/SwiftProgressHUD,SwiftProgressHUD,SwiftProgressHUD is a user-friendly pure swift HUD. 支持Cocoapods 及 Carthage,160,31,Swift,stackhou,shoo,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5371.0
+agilie/AGVolumeControlView,AGVolumeControlView,Visual regulator can be connected to a player or other smart house’s device making the process of controlling the level of a particular characteristic,159,14,Swift,agilie,Agilie Team,Organization,"Ukraine, Dnipropetrovsk",48.464717,35.046183,Dnipro,Ukraine,5406.5
+netyouli/WHC_Scan,WHC_Scan,"高效强大扫描分析iOS和Android项目里没有使用的类Mac开源工具，清理项目垃圾类，让项目结构干净清爽，升级维护得心应手. Efficient and powerful scanning analysis iOS and Android project no classes used in Mac open source tools, cleaning rubbish class project, make project structure clean and relaxed, upgrade maintenance",158,24,Swift,netyouli,吴海超(WHC),User,China Shanghai,31.230415999999998,121.473701,Shanghai,China,5442.0
+asiosldh/UITableView-BMTemplateLayoutCellSwift,UITableView-BMTemplateLayoutCellSwift,Template auto layout cell for automatically UITableViewCell UITableViewHeaderFooterView calculating and cache height Swift,157,1,Swift,asiosldh,idhong,User,"Guangzhou , China",23.12911,113.264385,Guangzhou,China,5481.0
+dcordero/TvOSScribble,TvOSScribble,Handwriting numbers recognizer for Siri Remote,157,3,Swift,dcordero,David Cordero,User,"Zurich, Switzerland",47.376886600000006,8.541694,Zürich,Switzerland,5481.0
+uptechteam/AirBar,AirBar,iOS library - UIScrollView driven expandable menu. ,157,14,Swift,uptechteam,UPTech,Organization,"Ukraine, Kyiv",50.4501,30.5234,Kiev,Ukraine,5481.0
+wojteklu/logo,logo,A Logo interpreter written in Swift,156,12,Swift,wojteklu,Wojtek Lukaszuk,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,5517.0
+okhanokbay/ExpyTableView,ExpyTableView,Make your table view expandable just by implementing one method.,156,18,Swift,okhanokbay,Okhan Okbay,User,,,,,,5517.0
+azonov/ExpandableTable,ExpandableTable,AZExpandable is a lightweight proxy for UITableView to expand cells.,155,9,Swift,azonov,Andrey,User,Russia,,,,,5552.0
+freshOS/Komponents,Komponents,📦 React-inspired UIKit Components,155,8,Swift,freshOS,freshOS,Organization,,,,,,5552.0
+dev-labs-bg/swift-video-generator,swift-video-generator,,154,11,Swift,dev-labs-bg,Dev Labs,Organization,"Varna, Bulgaria",43.2140504,27.914733299999998,Varna,Bulgaria,5589.5
+takecian/SwiftShareBubbles,SwiftShareBubbles,Animated Social share buttons control for iOS written in Swift,154,14,Swift,takecian,Takeshi Fujiki,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,5589.5
+nicklockwood/Sprinter,Sprinter,A library for formatting strings on iOS and macOS,154,5,Swift,nicklockwood,Nick Lockwood,User,London,55.378051,-3.435973,,United Kingdom,5589.5
+LeonardoCardoso/SectionedSlider,SectionedSlider,iOS 11 Control Center Slider,153,10,Swift,LeonardoCardoso,Leonardo Cardoso,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,5622.5
+alkhokhlov/AnimatedGraph,AnimatedGraph,Animated Graph which you can include in your application to show information in more attractive way,152,14,Swift,alkhokhlov,Alexandr,User,Ukraine,48.379433,31.1655799,,Ukraine,5657.0
+KrisYu/Octobook,Octobook,A simple Gitbook App that offers offline/online gitbooks reading.,150,19,Swift,KrisYu,Xue Yu,User,San Jose,37.338208200000004,-121.88632859999998,San Jose,United States,5743.5
+react-native-community/react-native-text-input-mask,react-native-text-input-mask,"Text input mask for React Native, Android and iOS",149,15,Swift,react-native-community,React Native Community,Organization,,,,,,5787.0
+danger/danger-swift,danger-swift,⚠️ Stop saying 'you forgot to …' in code review,148,12,Swift,danger,Danger,Organization,GitHub,,,,,5827.5
+kawoou/AnyDate,AnyDate,Swifty Date & Time API inspired from Java 8 DateTime API.,147,8,Swift,kawoou,Jungwon An,User,"Seoul, South Korea",37.566534999999995,126.9779692,Seoul,South Korea,5872.0
+tzef/BmoViewPager,BmoViewPager,A ViewPager with NavigationBar component based on UIPageViewController and UICollectionView,146,16,Swift,tzef,LeeZheYu,User,,,,,,5920.0
+younatics/PowerMode,PowerMode,🎶 PowerMode in iOS!,146,15,Swift,younatics,Seungyoun Yi,User,"Seoul, Korea",,,,,5920.0
+notohiro/SwiftyVersionTracker,SwiftyVersionTracker,Track which versions previously installed,145,4,Swift,notohiro,Hiroshi Noto,User,,,,,,5968.0
+devxoul/UICollectionViewFlexLayout,UICollectionViewFlexLayout,A drop-in replacement for UICollectionViewFlowLayout,143,4,Swift,devxoul,Jeon Suyeol,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,6066.5
+Antondomashnev/FBSnapshotsViewer,FBSnapshotsViewer,A mac os application that shows the failing snapshot tests from FBSnapshotTestCase,142,7,Swift,Antondomashnev,Anton,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,6117.5
+Minecodecraft/50DaysOfSwift,50DaysOfSwift,"One demo a day, keep coding for 50 days with Swift. The struggle of a growing iOS developer",141,10,Swift,Minecodecraft,JunLin Bian,User,,,,,,6165.0
+jhurray/Ladybug,Ladybug,A powerful model framework for Swift 4 ,141,4,Swift,jhurray,Jeff Hurray,User,,,,,,6165.0
+cokaholic/Donut,Donut,Donut is a library for arranging views circularly like a donut.,138,8,Swift,cokaholic,Keisuke Tatsumi,User,"Tokyo, Japan",,,,,6298.5
+kiliankoe/CLISpinner,CLISpinner,Swifty Terminal Spinner,138,5,Swift,kiliankoe,Kilian Koeltzsch,User,"Dresden, Germany",51.0504088,13.737262099999999,Dresden,Germany,6298.5
+gametimesf/GTSheet,GTSheet,An easy to integrate solution for presenting UIViewControllers in a bottom sheet ,137,11,Swift,gametimesf,"Gametime United, Inc.",Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6334.0
+ejeinc/MetalScope,MetalScope,Metal-backed 360° panorama view for iOS,137,16,Swift,ejeinc,eje inc.,Organization,"Roppongi, Tokyo, Japan",,,,,6334.0
+gokulgovind/GLInAppPurchase,GLInAppPurchase,Tinder Style InApp Purchase Banner,136,15,Swift,gokulgovind,Gokul,User,Coimbatore,13.0826802,80.2707184,Chennai,India,6376.0
+kizitonwose/CountryPickerView,CountryPickerView,"A simple, customizable view for efficiently collecting country information in iOS apps.",136,10,Swift,kizitonwose,Kizito Nwose,User,"Lagos, Nigeria",6.458366099999999,7.546388499999999,Enugu,Nigeria,6376.0
+lexrus/Huahui,Huahui,｡.ﾟ✧:✿花༙྇灰༙྇✿:✧ﾟ.｡ - 灰化肥会发黑，花会化灰。又名『中国程序员常读错的英文单词的 App』,135,11,Swift,lexrus,Lex Tang,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,6420.5
+hufan-akari/WannaCry,WannaCry,Fake WannaCry on the macOS,135,25,Swift,hufan-akari,阿卡琳,User,Beijing,,,,,6420.5
+MQZHot/DaisyNet,DaisyNet,"1. - Alamofire与Cache封装 , 更容易存储请求数据. 2. - 封装Alamofire下载，使用更方便",135,33,Swift,MQZHot,MQZHot,User,Beijing,,,,,6420.5
+agilie/AGInterfaceInteraction,AGInterfaceInteraction,library performs interaction with UI interface,134,7,Swift,agilie,Agilie Team,Organization,"Ukraine, Dnipropetrovsk",48.464717,35.046183,Dnipro,Ukraine,6466.0
+nhatminh12369/LineChart,LineChart,,134,15,Swift,nhatminh12369,Minh Nguyen,User,,,,,,6466.0
+yulingtianxia/Core-ML-Sample,Core-ML-Sample,A Demo using Vision Framework building on Core ML Framework,134,29,Swift,yulingtianxia,杨萧玉,User,"Shenzhen,China",22.543096,114.05786499999999,Shenzhen,China,6466.0
+VictDog/PandaTV,PandaTV,Swift3.0之熊猫tv,133,30,Swift,VictDog,Younger,User,,,,,,6507.0
+KimDarren/AlternativeIcon-Example,AlternativeIcon-Example,:scream: Change your iOS application's icon programmatically since iOS 10.3,131,11,Swift,KimDarren,TAEJUN KIM,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,6600.0
+Minitour/EasySocialButton,EasySocialButton,An easy way to create beautiful social authentication buttons,131,10,Swift,Minitour,Antonio Zaitoun,User,Israel,31.046051000000002,34.851612,,Israel,6600.0
+lelandrichardson/recoil,recoil,Swift and Kotlin ports of React (Prototype),131,2,Swift,lelandrichardson,Leland Richardson,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6600.0
+AloneMonkey/RxSwiftStudy,RxSwiftStudy,RxSwift Article And  Study Demo ,130,13,Swift,AloneMonkey,Alone_Monkey,User,China,35.86166,104.195397,,China,6649.0
+richardxyx/BoardBank,BoardBank,iOS Money Manager for Board Games,130,21,Swift,richardxyx,Richard,User,"Dresden, Germany & Jackson, MI",,,,,6649.0
+hulizhen/cuImage,cuImage,cuImage - 图床利器,130,19,Swift,hulizhen,智多芯,User,Beijing,,,,,6649.0
+zadr/j2s,j2s,A macOS app to convert JSON objects into Swift structs (currently targets Swift 4 and Codable),129,7,Swift,zadr,Zachary Drayer,User,"415, 516",,,,,6699.5
+ispiropoulos/PRGRoundSlider,PRGRoundSlider,A fully customizable circular slider,128,17,Swift,ispiropoulos,Iannis Spiropoulos,User,,,,,,6749.0
+ninjaprox/Inkwell,Inkwell,An inkwell to use custom fonts on the fly.,128,5,Swift,ninjaprox,Vinh Nguyen,User,,,,,,6749.0
+Vegetarians/Lotusoot,Lotusoot,灵活的 Swift 组件解耦和通信工具,128,20,Swift,Vegetarians,,Organization,Shanghai,31.230390399999997,121.4737021,Shanghai,China,6749.0
+Interactive-Studio/ISPageControl,ISPageControl,A page control similar to that used in Instagram,128,8,Swift,Interactive-Studio,Interactive,Organization,South korea,,,,,6749.0
+saifhunk/TwitterAnimation,TwitterAnimation,Twiiter animation with strechty header and tableview cells with differnt type,126,21,Swift,saifhunk,,User,,,,,,6850.5
+ra1028/VueFlux,VueFlux,Unidirectional Data Flow State Management Architecture for Swift - Inspired by Vuex and Flux,126,5,Swift,ra1028,Ryo Aoyama,User,"Tokyo, Japan",,,,,6850.5
+Imputes/Nike-Collection,Nike-Collection,🏊  🏀  🏈  ⚽  A Nike collection items style app,126,0,Swift,Imputes,0x5f375a86,User,Beijing,39.90419989999999,116.4073963,Beijing,China,6850.5
+voyages-sncf-technologies/Collor,Collor,A MVVM data-oriented framework for UICollectionView with great and useful features.,125,10,Swift,voyages-sncf-technologies,Voyages-sncf Technologies,Organization,"Paris, France",48.856614,2.3522218999999995,Paris,France,6913.5
+Desgard/BannerHoverView,BannerHoverView,便于构建 Header 悬停效果,125,9,Swift,Desgard,Desgard_Duan,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,6913.5
+younatics/MotionBook-Source,MotionBook-Source,Official MotionBook Source Code,125,17,Swift,younatics,Seungyoun Yi,User,"Seoul, Korea",,,,,6913.5
+MQZHot/ZCycleView,ZCycleView,"This is a picture/text infinite-scroll library with UICollectionView, It can be very easy to help you make the banner you want 使用UICollectionView实现常见图片/文字无限轮播，支持自定义pageControl，自定义文字样式，以及轮播样式",125,21,Swift,MQZHot,MQZHot,User,Beijing,,,,,6913.5
+zntfdr/Selenops,Selenops,A stupid simple Swift Web Crawler 🕷,124,9,Swift,zntfdr,Federico Zanetello,User,"Bangkok, Thailand",13.7563309,100.5017651,Bangkok,Thailand,6974.5
+devxoul/graygram-ios,graygram-ios,[40시간만에 Swift로 iOS 앱 만들기] 흑백 사진 전용 소셜 미디어 앱,124,24,Swift,devxoul,Jeon Suyeol,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,6974.5
+targetcloud/TGTV,TGTV,用swift3.1编写的直播APP，运用protobuf,124,34,Swift,targetcloud,targetcloud,User,pudong shanghai,,,,,6974.5
+yuzushioh/RxIGListKit,RxIGListKit,IGListKit with RxSwift🚀,123,10,Swift,yuzushioh,Ryo Fukuda,User,Japan,36.204824,138.252924,,Japan,7031.5
+gkopel/nmoutlineview,nmoutlineview,Hierarchical Menu for iOS ,123,6,Swift,gkopel,Greg Kopel,User,"Bielsko-Biała, Poland",,,,,7031.5
+Joe0708/V2EX,V2EX,An iOS client written in Swift for V2EX,123,9,Swift,Joe0708,devjoe,User,GuangZhou,23.12911,113.264385,Guangzhou,China,7031.5
+ustwo/videoplayback-ios,videoplayback-ios,Swift AVPlayer wrapper using the VIPER architecture. Currently a work in progress ,121,5,Swift,ustwo,ustwo™,Organization,London / Malmo / New York / Sydney,,,,,7141.5
+dreymonde/TheGreatGame,TheGreatGame,🏆 Open-source first-class iOS app dedicated to Women’s Euro 2017,121,9,Swift,dreymonde,Oleg Dreyman,User,"Kharkiv, Ukraine",49.9935,36.230383,Kharkiv,Ukraine,7141.5
+MugunthKumar/LocationWithoutPrompt,LocationWithoutPrompt,A proof of concept to show how easy it is to get coarse location of the user without using Core Location,121,2,Swift,MugunthKumar,Mugunth Kumar,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia,7141.5
+kaunteya/Linex,Linex,Feature packed Xcode extension,120,6,Swift,kaunteya,Kaunteya Suryawanshi,User,"Pune, India",,,,,7203.0
+Minecodecraft/ARDoor,ARDoor,"Use AR technology to create a free and accessible door. Using ARKit, Swift 4.0",119,4,Swift,Minecodecraft,JunLin Bian,User,,,,,,7265.0
+NSExceptional/Runtime,Runtime,An Objective-C simulator written in Swift.,119,3,Swift,NSExceptional,Tanner Bennett,User,Texas,31.968598800000002,-99.9018131,,United States,7265.0
+Workable/swift-error-handler,swift-error-handler,Error handling library for Swift,118,6,Swift,Workable,,Organization,,,,,,7328.0
+cocoa-ai/FacesVisionDemo,FacesVisionDemo,👀 iOS11 demo application for age and gender classification of facial images.,118,16,Swift,cocoa-ai,Cocoa AI,Organization,Oslo,59.913868799999996,10.7522454,Oslo,Norway,7328.0
+phillfarrugia/appstore-clone,appstore-clone,An experimental clone of the new iOS 11 App Store app,117,16,Swift,phillfarrugia,Phill Farrugia,User,"San Francisco, CA",,,,,7392.5
+usecanvas/ios-v1,ios-v1,iOS app for Canvas V1,117,12,Swift,usecanvas,Canvas,Organization,SF/NYC,37.62131289999999,-122.3789554,San Francisco,United States,7392.5
+February12/YLDatePicker,YLDatePicker,时间选择器,116,1,Swift,February12,February12ᵈᵉᵛ,User,,,,,,7466.5
+prynt/PryntTrimmerView,PryntTrimmerView,"A set of tools to trim, crop and select frames inside a video",115,12,Swift,prynt,Prynt,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,7532.5
+johnjcsmith/iPhoneMoCapiOS,iPhoneMoCapiOS,,115,11,Swift,johnjcsmith,John Smith,User,"Adelaide, South Australia",,,,,7532.5
+targetcloud/TGPhotoPicker,TGPhotoPicker,the best photo picker plugin in swift,115,14,Swift,targetcloud,targetcloud,User,pudong shanghai,,,,,7532.5
+MillmanY/MMBannerLayout,MMBannerLayout,Custom Banner CollectionView Layout,114,9,Swift,MillmanY,Millman Yang,User,"Taipei, Taiwan",25.032963600000002,121.5654268,,Taiwan,7593.5
+fahidattique55/FAPaginationLayout,FAPaginationLayout,Collection view pagination layout,114,15,Swift,fahidattique55,Fahid Attique,User,"Lahore, Pakistan",31.5203696,74.35874729999998,Lahore,Pakistan,7593.5
+JohnSundell/XcodeTheme,XcodeTheme,My Xcode theme - Sundell's Colors,114,5,Swift,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,7593.5
+swift-evolution/backend,backend,Swift Evolution - Backend is responsible to provide data to Evolution App iOS,114,9,Swift,swift-evolution,Swift Evolution App,Organization,Everywhere,33.7589188,-84.3640829,Atlanta,United States,7593.5
+caiyue1993/PrefsMate,PrefsMate,🐣  Elegant UITableView generator for Swift.,114,5,Swift,caiyue1993,Soledad,User,"Nanjing , China",32.060255,118.796877,Nanjing,China,7593.5
+yichengchen/RabbitVpnDemo,RabbitVpnDemo,a demo project for testing iOS network extension with NEkit,114,67,Swift,yichengchen,陈奕程,User,Xiamen Fujian China,24.479833,118.089425,Xiamen,China,7593.5
+ijoshsmith/equatable-code-generator,equatable-code-generator,A Swift utility function that generates Equatable protocol code for any object.,114,2,Swift,ijoshsmith,Josh Smith,User,,,,,,7593.5
+strongself/MRefresh,MRefresh,This pod enables you to add pull-to-refresh mechanism to your scrollviews and tableviews and use svg patterns in your refreshing view's layers.,113,10,Swift,strongself,StrongSelf Foundation,Organization,"Russia, Moscow",55.755826,37.6172999,Moscow,Russia,7670.5
+intelygenz/Kommander-iOS,Kommander-iOS,"A lightweight, pure-Swift library for manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.",113,8,Swift,intelygenz,Intelygenz,Organization,"Madrid, Spain",40.4167754,-3.7037902000000003,Madrid,Spain,7670.5
+ezefranca/EFInternetIndicator,EFInternetIndicator,❌📱 A little swift Internet error status indicator using ReachabilitySwift,112,5,Swift,ezefranca,Ezequiel França dos Santos,User,São Paulo,,,,,7748.0
+gringoireDM/LNZTreeView,LNZTreeView,A swift TreeView ,112,11,Swift,gringoireDM,Giuseppe Lanza,User,Dublin (Ireland),53.34980529999999,-6.2603097000000005,Dublin,Ireland,7748.0
+onmyway133/Anchors,Anchors,"⚓️ Declarative, extensible, powerful Auto Layout",111,5,Swift,onmyway133,Khoa,User,"Oslo, Norway",59.913868799999996,10.7522454,Oslo,Norway,7820.0
+louisdh/lioness,lioness,The Lioness Programming Language,111,5,Swift,louisdh,Louis D'hauwe,User,Belgium,,,,,7820.0
+stripe/stripe-connect-rocketrides,stripe-connect-rocketrides,"Sample on-demand platform built on Stripe: Connect onboarding for pilots, iOS app for passengers to request rides.",110,39,Swift,stripe,Stripe,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,7898.0
+ezefranca/WatchNote,WatchNote,⌚️ 🤓 Controlling your Keynote using Apple Watch,110,10,Swift,ezefranca,Ezequiel França dos Santos,User,São Paulo,,,,,7898.0
+PerfectlySoft/Perfect-TensorFlow,Perfect-TensorFlow,TensorFlow C API Class Wrapper in Server Side Swift.,110,8,Swift,PerfectlySoft,PerfectlySoft Inc.,Organization,"Newmarket, Ontario, Canada",44.05918700000001,-79.46125599999998,Newmarket,Canada,7898.0
+regexident/Gestalt,Gestalt,An unintrusive & light-weight iOS app-theming library with support for animated theme switching.,109,4,Swift,regexident,Vincent Esche,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,7981.5
+VamshiIITBHU14/YouTubeClone,YouTubeClone,"This project is a clone of YouTube. But the main intention is to show how to write clean code, using proper MVC patterns and re-usable coding methodologies!",109,20,Swift,VamshiIITBHU14,Vamshi Krishna,User,"Bangalore, India",,,,,7981.5
+haoking/SwiftyUI,SwiftyUI,"High performance and lightweight UIView,  UIImage, UIImageView, UIlabel, UIButton, Promise and more.",109,8,Swift,haoking,Haoking,User,universe,42.7481821,-77.4146876,,United States,7981.5
+kingcos/WWDCHelper,WWDCHelper,⏬ A command line tool for helping you fetch WWDC infos.,108,7,Swift,kingcos,kingcos,User,Shanghai,,,,,8056.0
+Swift-AI/NeuralNet,NeuralNet,An artificial neural network written in Swift,107,23,Swift,Swift-AI,Swift AI,Organization,,,,,,8118.5
+fernandodelrio/SwiftColorGen,SwiftColorGen,"A tool that generate code for Swift projects, designed to improve the maintainability of UIColors",107,3,Swift,fernandodelrio,Fernando del Rio,User,"Campinas, SP, Brazil",-22.9098833,-47.062581200000004,,Brazil,8118.5
+nixzhu/Baby,Baby,"Create models from a JSON file, even a Baby can do it.",107,12,Swift,nixzhu,,User,,,,,,8118.5
+devxoul/RxViewController,RxViewController,RxSwift wrapper for UIViewController and NSViewController,106,3,Swift,devxoul,Jeon Suyeol,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,8187.5
+mapbox/mapbox-arkit-ios,mapbox-arkit-ios,Utilities for combining Mapbox maps and location services with ARKit in your applications.,106,18,Swift,mapbox,Mapbox,Organization,Washington DC,38.9071923,-77.03687070000001,Washington,United States,8187.5
+fahidattique55/FAImageCropper,FAImageCropper,Image Cropper like Instagram,105,13,Swift,fahidattique55,Fahid Attique,User,"Lahore, Pakistan",31.5203696,74.35874729999998,Lahore,Pakistan,8277.5
+shin8484/PopupWindow,PopupWindow,PopupWindow is a simple Popup using another UIWindow in Swift,104,6,Swift,shin8484,shinji hayashi,User,"Tokyo,Japan",,,,,8366.5
+lm2343635/MGKeyboardAccessory,MGKeyboardAccessory,Keyboard accessory to input special text to text field directly.,103,4,Swift,lm2343635,Meng Li,User,"Tsukuba, Ibaraki, Japan",36.083485700000004,140.07664230000003,Tsukuba,Japan,8444.0
+uptechteam/Coordinator-MVVM-Rx-Example,Coordinator-MVVM-Rx-Example,Example of MVVM-C architecture implemented with RxSwift,103,16,Swift,uptechteam,UPTech,Organization,"Ukraine, Kyiv",50.4501,30.5234,Kiev,Ukraine,8444.0
+partho-maple/PBTreeView,PBTreeView,An UITreeView implementation from UITableView that Apple missed in its UIKit framework. And it is in pure Swift.,102,7,Swift,partho-maple,Partho Biswas,User,"Dhaka, Bangladesh.",23.810332,90.4125181,Dhaka,Bangladesh,8520.0
+Stinkstudios/arkit-web,arkit-web,An experimental iOS app for rapidly prototyping ARKit experiences with WebGL.,102,8,Swift,Stinkstudios,Stink Studios,Organization,"London, Paris, Berlin, New York, Shanghai and Los Angeles",,,,,8520.0
+southpeak/ViewStyle,ViewStyle,ViewStyle provides a way to set UIView's visual appearance properties like CSS,102,11,Swift,southpeak,Minya,User,,,,,,8520.0
+kateinoigakukun/IBLinter,IBLinter,A linter tool for Interface Builder,101,2,Swift,kateinoigakukun,Yuta Saito,User,,,,,,8590.0
+Kuniwak/MirrorDi
