@@ -5763,4 +5763,122 @@ hasib32/rest-api-with-lumen,rest-api-with-lumen,Rest API boilerplate for Lumen m
 BKWLD/decoy,decoy,A Laravel model-based CMS,266,31,PHP,BKWLD,Bukwild,Organization,"Sacramento, CA",,,,,3191.5
 goodnesskay/Laravel-Open-Source-Projects,Laravel-Open-Source-Projects,A Web Artisan list of categorized OPEN SOURCE PROJECTS built with Laravel PHP Framework.,266,44,PHP,goodnesskay,Goodness Toluwanimi Kayode,User,"Abuja,Nigeria",9.0764785,7.398574000000001,Abuja,Nigeria,3191.5
 php-censor/php-censor,php-censor,PHP Censor is an open source self-hosted continuous integration server for PHP projects.,257,27,PHP,php-censor,PHP Censor,Organization,The Internet,,,,,3293.5
-infection/infection,infection,AST based PHP Mutation Testing Framework,255,19,PHP,infection,Infection - Mutation Testing Framework for PHP,Organization,,
+infection/infection,infection,AST based PHP Mutation Testing Framework,255,19,PHP,infection,Infection - Mutation Testing Framework for PHP,Organization,,,,,,3324.0
+imanghafoori1/laravel-widgetize,laravel-widgetize,A must have package to help you make your laravel application cleaner and faster.,255,15,PHP,imanghafoori1,Iman,User,Iran,,,,,3324.0
+paragonie/chronicle,chronicle,Public append-only ledger microservice built with Slim Framework,252,8,PHP,paragonie,Paragon Initiative Enterprises,Organization,"Florida, USA",28.5383355,-81.3792365,Orlando,United States,3361.0
+spatie/laravel-server-monitor,laravel-server-monitor,Don't let your servers just melt down,252,31,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,3361.0
+swoole/mysql-proxy,mysql-proxy,PHP程序员也能参与的MySQL中间件项目,251,32,PHP,swoole,,Organization,,,,,,3377.5
+spatie/image,image,Manipulate images with an expressive API,251,24,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,3377.5
+lijinma/laravel-scout-elastic-demo,laravel-scout-elastic-demo,笑来搜原型 Laravel Scout & ElasticSearch ik,250,58,PHP,lijinma,金马,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,3389.5
+paragonie/sapient,sapient,Secure API Toolkit,244,6,PHP,paragonie,Paragon Initiative Enterprises,Organization,"Florida, USA",28.5383355,-81.3792365,Orlando,United States,3462.5
+spatie/laravel-db-snapshots,laravel-db-snapshots,Quickly dump and load databases,242,18,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,3494.5
+spatie/phpunit-watcher,phpunit-watcher,A tool to automatically rerun PHPUnit tests when source code changes,240,12,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,3531.0
+richtabor/MerlinWP,MerlinWP,Better WordPress Theme Onboarding,239,45,PHP,richtabor,Rich Tabor,User,"Atlanta, Georgia",33.7489954,-84.3879824,Atlanta,United States,3547.5
+acquia/reservoir,reservoir,"A back end for your front end: a content repository. Powered by Drupal 8, JSON API and OAuth2.",238,31,PHP,acquia,Acquia,Organization,"Boston, Massachusetts, USA",42.360082500000004,-71.0588801,Boston,United States,3562.0
+ecjia/ecjia-daojia,ecjia-daojia,EC+（ecjia）到家是一款可开展O2O业务的移动电商系统。它包含：移动端APP，采用原生模式开发，覆盖使用iOS 及Android系统的移 动终端；后台系统，针对平台日常运营维护的平台后台，针对入驻店铺管理的商家后台，独立并行；移动端H5，能够灵活部署于微信及其他APP、网页等。,237,99,PHP,ecjia,ECJia Opensource Group,Organization,Shanghai China,,,,,3576.5
+metowolf/Meting,Meting,":lollipop:Wow, such a powerful music API framework",237,47,PHP,metowolf,METO,User,GuangDong China,,,,,3576.5
+CalvinPPD/ThinkPHP-wxpay,ThinkPHP-wxpay,20秒学会微信支付,231,10,PHP,CalvinPPD,DeeNehC,User,,,,,,3682.0
+SperkJJ/ThinkPHP5,ThinkPHP5,基于ThinkPHP5实现微信自动登录、微信支付、支付宝支付、Web推送、阿里云短信、极光推送、二维码生成,230,125,PHP,SperkJJ,曹进杰,User,,,,,,3702.0
+Labs64/laravel-boilerplate,laravel-boilerplate,Laravel 5 Boilerplate / Starter kit with Gentelella Admin Theme,229,101,PHP,Labs64,Labs64,Organization,"Munich, Germany",,,,,3720.5
+EasyCorp/easy-deploy-bundle,easy-deploy-bundle,The easiest way to deploy your Symfony applications,228,25,PHP,EasyCorp,EasyCorp,Organization,,,,,,3737.5
+dannyvankooten/vat.php,vat.php,PHP library for dealing with European VAT,223,7,PHP,dannyvankooten,Danny van Kooten,User,"Middelburg, The Netherlands",51.8125626,5.8372264000000005,Nijmegen,Netherlands,3820.5
+ConsoleTVs/Bootpack,Bootpack,Laravel 5 package bootstraper.,216,17,PHP,ConsoleTVs,Erik Campobadal,User,"Manresa, Spain",,,,,3944.0
+CalvinPPD/ExpressAPI,ExpressAPI,全国快递物流查询接口,211,4,PHP,CalvinPPD,DeeNehC,User,,,,,,4046.0
+symfony/recipes-contrib,recipes-contrib,Symfony Contrib Recipes Repositories,208,117,PHP,symfony,Symfony,Organization,The Internet,15.121994699999998,105.8021808,Pakse,Laos,4110.0
+overtrue/laravel-filesystem-qiniu,laravel-filesystem-qiniu,A Qiniu Storage filesystem for Laravel,206,11,PHP,overtrue,安正超,User,"Shenzhen,China",39.904211,116.407395,Beijing,China,4151.5
+interference-security/DVWS,DVWS,OWSAP Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.,202,30,PHP,interference-security,Interference Security,User,,,,,,4226.5
+spatie/laravel-html,laravel-html,Painless html generation,202,19,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,4226.5
+ganigeorgiev/presentator,presentator,Web design presentation and collaboration platform,201,20,PHP,ganigeorgiev,Gani Georgiev,User,,,,,,4246.5
+adamwathan/laracon2017,laracon2017,,200,34,PHP,adamwathan,Adam Wathan,User,"Ontario, Canada",51.253775,-85.32321390000001,,Canada,4266.5
+PHPJunior/laravel-video-chat,laravel-video-chat,Laravel Video Chat using Socket.IO and WebRTC,199,37,PHP,PHPJunior,Nyi Nyi Lwin,User,"Yangon , Myanmar ",16.866069399999997,96.19513200000002,Yangon,Myanmar (Burma),4286.0
+lizhichao/VicWord,VicWord, 一个纯php分词,198,29,PHP,lizhichao,vic,User,资阳,30.128901000000003,104.627636,Ziyang,China,4308.0
+asyncphp/paper,paper,Hassle-free HTML to PDF conversion abstraction library.,197,4,PHP,asyncphp,Async PHP,Organization,,,,,,4328.5
+hollodotme/fast-cgi-client,fast-cgi-client,A PHP fast CGI client for sending requests (a)synchronously to PHP-FPM,197,4,PHP,hollodotme,Holger Woltersdorf,User,"Dresden, Germany",,,,,4328.5
+yTakkar/Instagram-clone,Instagram-clone,An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️,196,68,PHP,yTakkar,Faiyaz Shaikh,User,Mumbai,19.0759837,72.87765590000001,Mumbai,India,4350.0
+DanielnetoDotCom/YouPHPTube,YouPHPTube,The Best YouTube Clone Script,195,102,PHP,DanielnetoDotCom,YouPHPTube,User,,,,,,4375.0
+povils/phpmnd,phpmnd,PHP Magic Number Detector,190,10,PHP,povils,Povilas Susinskas,User,"Manchester, United Kingdom",53.4807593,-2.2426305,Manchester,United Kingdom,4486.5
+slince/spike,spike,:mega: A fast reverse proxy written in PHP that helps to expose local services to the internet,188,25,PHP,slince,Taosikai,User,中国 南京,,,,,4532.5
+JellyBool/zhihu-app,zhihu-app,Laravel + Vue.js 开发知乎视频 ,186,60,PHP,JellyBool,CODECASTS,User,Shenzhen China,22.543096,114.05786499999999,Shenzhen,China,4590.5
+jimersylee/Andromeda,Andromeda,"This is a php framework,apply Di,Ioc,这是我写的一个使用了Di和Ioc的php框架",185,0,PHP,jimersylee,Jimersy Lee,User,"Hangzhou,Zhe Jiang,China",30.274084000000002,120.15507,Hangzhou,China,4615.5
+ambionics/phpggc,phpggc,,183,21,PHP,ambionics,Ambionics Security,Organization,,,,,,4663.0
+cuijun123/phpDhtSpider,phpDhtSpider,php实现的dht爬虫,182,33,PHP,cuijun123,灯火阑珊,User,,,,,,4693.0
+n7olkachev/laravel-computed-properties,laravel-computed-properties,Make your accessors smarter,178,3,PHP,n7olkachev,Nikita Tolkachev,User,Minsk,53.90453979999999,27.5615244,Minsk,Belarus,4807.0
+delight-im/PHP-PrivacyPolicy,PHP-PrivacyPolicy,Programmatically composable privacy policies for humans and machines,178,4,PHP,delight-im,delight.im,Organization,Germany,,,,,4807.0
+themsaid/forge-sdk,forge-sdk,PHP SDK for managing Laravel Forge servers,177,19,PHP,themsaid,Mohamed Said,User,"Hurghada, Egypt",26.820553000000004,30.802497999999996,,Egypt,4839.0
+kcloze/swoole-bot,swoole-bot,基于swoole实现的微信机器人，依赖vbot和微信网页版的功能，帮助管理微信群/聊天/踢人等,176,40,PHP,kcloze,kcloze,User,"GuangZhou,China",,,,,4869.0
+furey/tinx,tinx,"Reload your Laravel Tinker session from inside Tinker, plus automatic shortcuts for first(), find(), search, and more!",175,15,PHP,furey,James Furey,User,"Sydney, Australia",,,,,4897.0
+fucongcong/GroupCo,GroupCo,"优雅的PHP异步协程框架,支持SOA服务化调用,适用于API、Http Server、Rpc Server、构建微服务、中间件。适用于高并发，io密集型场景. 文档 https://fucongcong.gitbooks.io/group-co/content/",173,29,PHP,fucongcong,coco,User,杭州,30.274084000000002,120.15507,Hangzhou,China,4974.5
+spatie/dnsrecords.io,dnsrecords.io,A webapp to fetch dns records,172,24,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,5008.5
+ElfSundae/laravel-hashid,laravel-hashid,"Obfuscate your data by generating reversible, non-sequential, URL-safe identifiers.",171,10,PHP,ElfSundae,Elf Sundae,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,5034.5
+ksassnowski/laravel-shareable-models,laravel-shareable-models,Create shareable links from your eloquent models.,170,13,PHP,ksassnowski,Kai Sassnowski,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,5060.5
+basemkhirat/elasticsearch,elasticsearch,"The missing elasticsearch ORM for Laravel, Lumen and Native php applications",170,28,PHP,basemkhirat,Basem Khirat,User,"Egypt , Cairo",30.0444196,31.235711600000005,Cairo,Egypt,5060.5
+kilroyweb/homeboy,homeboy,Homestead site manager for quickly adding projects to your homestead vagrant and host file,168,16,PHP,kilroyweb,,User,,,,,,5120.5
+basicmi/Deep-Learning-Processor-List,Deep-Learning-Processor-List,"A list of ICs and IPs for AI, Machine Learning and Deep Learning.",165,37,PHP,basicmi,Shan Tang,User,Beijing,,,,,5211.0
+GeekGhc/zhihu-app,zhihu-app,laravel-vue-zhihu  :sparkles:,164,48,PHP,GeekGhc,JellyBean,User,Nanjing-China,,,,,5245.0
+Rianley/tool,tool,日常工具,163,0,PHP,Rianley,Rianley cheng,User,,,,,,5276.5
+yedincisenol/laravel-api-startup,laravel-api-startup,'Laravel api startup' is a Laravel template project for start build an Api quickly and perfectly!,163,25,PHP,yedincisenol,İbrahim Ş. Örencik,User,İstanbul,41.0082376,28.978358899999996,Istanbul,Turkey,5276.5
+spatie/async,async,Easily run code asynchronously,160,3,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,5371.0
+duoergun0729/1book,1book,《Web安全之机器学习入门》,158,93,PHP,duoergun0729,,User,,,,,,5442.0
+kfkme/kfkdock,kfkdock,Docker容器化应用，快速搭建PHP环境，包含PHP5.6，PHP7.1，Nginx，Mysql5.6，Mysql5.7，MongoDB，Redis，Memcached等服务,158,3,PHP,kfkme,开发库社区,Organization,,,,,,5442.0
+xu42/pay,pay,个人网站即时到账收款解决方案 / Personal website instant payment solution,155,25,PHP,xu42,Yangjie Xu,User,"Hangzhou, China",30.274084000000002,120.15507,Hangzhou,China,5552.0
+cybercog/laravel-ban,laravel-ban,Laravel Ban simplify blocking and banning Eloquent models.,154,12,PHP,cybercog,cybercog,Organization,,,,,,5589.5
+gstt/laravel-achievements,laravel-achievements,Achievements for Laravel 5.3+,152,7,PHP,gstt,,Organization,,,,,,5657.0
+spatie/murze.be,murze.be,The sourcecode of https://murze.be,152,35,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,5657.0
+daveearley/Email-Validation-Tool,Email-Validation-Tool,"An easy to use, accurate-ish & extensible email validation library for PHP 7+ 🖂",151,11,PHP,daveearley,Dave Earley,User,"Dublin, Ireland",,,,,5699.5
+antonioribeiro/version,version,Laravel App versioning,151,9,PHP,antonioribeiro,Antonio Carlos Ribeiro,User,"Rio de Janeiro, Brazil",,,,,5699.5
+apanly/mooc,mooc,慕课平台录课说明文件,151,90,PHP,apanly,郭威,User,shanghai,31.230390399999997,121.4737021,Shanghai,China,5699.5
+vamsiikrishna/vex,vex,vex is a small PHP app that sends some load to a web application,150,7,PHP,vamsiikrishna,Vamsi Krishna B,User,India,,,,,5743.5
+GDquest/Godot-30-days-tutorial-challenge-2017,Godot-30-days-tutorial-challenge-2017,Source files for the 30 days free tutorials challenge as part of the Make Professional 2d Games with Godot Kickstarter,150,29,PHP,GDquest,GDquest,Organization,France,46.227638,2.213749,,France,5743.5
+appstract/laravel-multisite,laravel-multisite,Multiple sites on one codebase,149,12,PHP,appstract,Appstract,Organization,The Netherlands,52.132633,5.2912659999999985,,Netherlands,5787.0
+symfony/dotenv,dotenv,[READ-ONLY] Subtree split of the Symfony Dotenv Component,149,3,PHP,symfony,Symfony,Organization,The Internet,15.121994699999998,105.8021808,Pakse,Laos,5787.0
+bvanhoekelen/performance,performance,"⏱ PHP performance tool analyser your script on time, memory usage and db query. Support Laravel and Composer for web, web console and command line interfaces.",149,9,PHP,bvanhoekelen,Bart van Hoekelen,User,"Leiden, The Netherlands ",52.1601144,4.4970097,Leiden,Netherlands,5787.0
+mdsimpson/contact-form-7-to-database-extension,contact-form-7-to-database-extension,CFDB - WordPress plugin to save form submissions into a database,149,27,PHP,mdsimpson,Michael Simpson,User,United States,37.09024,-95.712891,,United States,5787.0
+Yurunsoft/PaySDK,PaySDK,PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。可以轻松嵌入支持 PHP >= 5.4 的任何系统中。程序员聚集群：74401592,147,38,PHP,Yurunsoft,Yurun,User,,,,,,5872.0
+BrainMaestro/composer-git-hooks,composer-git-hooks,Easily manage git hooks in your composer config,147,6,PHP,BrainMaestro,Ezinwa Okpoechi,User,,,,,,5872.0
+liaoziyang/HolidayDateTime,HolidayDateTime,A php class to check Japanese holiday and weekend. 土日祝日を判定するphpクラス。,147,23,PHP,liaoziyang,Ziyang Liao,User,Kyoto Japan,,,,,5872.0
+ToyoDAdoubi/DirectoryLister,DirectoryLister,一个逗比魔改的Directory Lister~,147,93,PHP,ToyoDAdoubi,Toyo,User,,,,,,5872.0
+tuupola/server-timing-middleware,server-timing-middleware,PSR-7 & PSR-15 middleware to add  the Server-Timing header,146,2,PHP,tuupola,Mika Tuupola,User,"Estonia, Thailand, Finland",,,,,5920.0
+Shipu/themevel,themevel,Theme and asset management for laravel ,145,34,PHP,Shipu,Shipu Ahamed,User,"Dhaka,Bangladesh",,,,,5968.0
+jplhomer/laravel-realtime-chat-demo,laravel-realtime-chat-demo,"Realtime chat demo using Laravel 5.4, VueJS and Pusher",145,78,PHP,jplhomer,Josh Larson,User,"Des Moines, IA",,,,,5968.0
+BrandonShar/stack-overflow-buddy,stack-overflow-buddy,"A friendly, error prone coding companion",145,4,PHP,BrandonShar,Brandon Shar,User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,5968.0
+kjdion84/turtle,turtle,"Turtle is a Laravel 5.5 package with front & backend scaffolding including a CRUD generator, auth integration, roles, permissions, contact forms, reCAPTCHA, activity logs, demo mode, user timezones, AJAX CRUD/validation, Bootstrap 4, DataTables, & more!",144,12,PHP,kjdion84,,User,,,,,,6016.0
+InvidHead/PHer,PHer,The club searching system for PHer,144,0,PHP,InvidHead,InvidHead,Organization,Shanghai,31.230390399999997,121.4737021,Shanghai,China,6016.0
+soberwp/controller,controller,Composer package to enable a controller when using Blade with Sage 9,144,13,PHP,soberwp,Sober,Organization,,,,,,6016.0
+GenisysPro/GenisysPro,GenisysPro,"Discontinued Till Further Notice.                                                                        Feature-rich server software for Minecraft PE and Windows 10 Edition - v1.1.x. FYI: Being that this is NOT a PMMP fork, test your plugins first then submit issues to https://github.com/GenisysProPlugins",143,126,PHP,GenisysPro,GenisysPro,Organization,,,,,,6066.5
+kfkme/kfkcms,kfkcms,KFKCms基于 laravel、Vuejs、Element 开发的内容管理系统,141,0,PHP,kfkme,开发库社区,Organization,,,,,,6165.0
+spatie/laravel-migrate-fresh,laravel-migrate-fresh,An artisan command to build up a database from scratch,140,25,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,6209.5
+mark-gerarts/automapper-plus,automapper-plus,An AutoMapper for PHP,140,10,PHP,mark-gerarts,Mark Gerarts,User,Belgium,50.503887,4.469936,,Belgium,6209.5
+nystudio107/craft3-imageoptimize,craft3-imageoptimize,"Automatically create & optimize responsive image transforms, using either native Craft transforms or a service like Imgix, with zero template changes.",139,15,PHP,nystudio107,nystudio107,Organization,"Webster, NY",43.2122851,-77.4299939,Webster,United States,6256.5
+manton/jsonfeed-wp,jsonfeed-wp,WordPress plugin to add a JSON Feed to your site.,139,14,PHP,manton,Manton Reece,User,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States,6256.5
+inhere/php-console,php-console,"a php console library, provide console argument parse, console controller/command run, color style,user interactive, information show.",139,18,PHP,inhere,Inhere,User,"Chengdu,china",,,,,6256.5
+sebastianbergmann/object-reflector,object-reflector,"Allows reflection of object attributes, including inherited and non-public ones",139,0,PHP,sebastianbergmann,Sebastian Bergmann,User,"Siegburg, Germany",,,,,6256.5
+theseer/tokenizer,tokenizer,A small library for converting tokenized PHP source code into XML (and potentially other formats),137,0,PHP,theseer,Arne Blankerts,User,Hamburg,,,,,6334.0
+lambdacasserole/avogadrio,avogadrio,Worship your favorite molecule by setting it as your wallpaper.,136,6,PHP,lambdacasserole,Saul Johnson,User,"Middlesbrough, England",54.574227,-1.234956,Middlesbrough,United Kingdom,6376.0
+rectorphp/rector,rector,Upgrade your application with CLI without any deprecations knowledge,136,7,PHP,rectorphp,RectorPHP,Organization,,,,,,6376.0
+geesondog/rhaphp,rhaphp,微信公众号管理系统，也是一套微信公众号开发框架。支持移动管理，几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。 ,136,30,PHP,geesondog,,User,,,,,,6376.0
+2501224066/laravel5test,laravel5test,laravel study ,133,0,PHP,2501224066,world see me,User,,,,,,6507.0
+ly2513/YPPHP,YPPHP,"YPPHP是一个基于PHP开发的Web框架,  框架的详细文档地址： https://ly2513.gitbooks.io/youpin/content/  :cn:",133,1,PHP,ly2513,gaofeng,User,Beijing China,39.90419989999999,116.4073963,Beijing,China,6507.0
+guyueyingmu/avbook,avbook,Illegal vehicle from Red Castle.,132,24,PHP,guyueyingmu,,User,,,,,,6550.0
+Bo0oM/CVE-2017-5124,CVE-2017-5124,Chrome < 62 uxss exploit (CVE-2017-5124),131,23,PHP,Bo0oM,Anton Lopanitsyn,User,,,,,,6600.0
+guillaumebriday/laravel-blog,laravel-blog,"Laravel 5.5 blog example project with Vue.js, Docker, Redis and Socket.io",131,54,PHP,guillaumebriday,Guillaume Briday,User,Lyon,,,,,6600.0
+tomschlick/request-migrations,request-migrations,HTTP Request Migrations for API Versioning like Stripe,129,8,PHP,tomschlick,Tom Schlick,User,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States,6699.5
+josephernest/TinyAnalytics,TinyAnalytics,"TinyAnalytics is a lightweight analytics tool (unique visitors count, etc.)",129,8,PHP,josephernest,,User,Orleans (France),47.902964000000004,1.9092509999999998,Orléans,France,6699.5
+xcg340122/PHP300Framework2.0,PHP300Framework2.0,"The new revolution, to create a perfect framework",129,0,PHP,xcg340122,春贵,User,中国 安徽 合肥市,31.820590999999997,117.22721899999999,Hefei,China,6699.5
+spatie/laravel-http-logger,laravel-http-logger,Log HTTP requests in Laravel applications,128,3,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,6749.0
+contentacms/contenta_jsonapi,contenta_jsonapi,Contenta makes your content happy.,126,42,PHP,contentacms,Contenta CMS,Organization,,,,,,6850.5
+codekerala/spa-laravel-vuejs,spa-laravel-vuejs,Single Page Application with Laravel 5.3 and Vue.js 2.1.x,125,69,PHP,codekerala,Code Kerala,User,"Trivandrum, Kerala, India",8.524139100000001,76.9366376,Thiruvananthapuram,India,6913.5
+paragonie/certainty,certainty,Automated cacert.pem management for PHP projects,123,4,PHP,paragonie,Paragon Initiative Enterprises,Organization,"Florida, USA",28.5383355,-81.3792365,Orlando,United States,7031.5
+akiyamaSM/messager,messager,A convenient way to handle messages between users in a simple way,123,13,PHP,akiyamaSM,Inani El Houssain,User,"Morocco, Rabat ",33.9715904,-6.8498129,Rabat,Morocco,7031.5
+mpociot/laravel-face-auth,laravel-face-auth,Laravel Face authentication,122,11,PHP,mpociot,Marcel Pociot,User,Germany,51.165690999999995,10.451526,,Germany,7085.5
+DukeAnn/Laradmin,Laradmin,Laradmin后台管理系统,122,31,PHP,DukeAnn,DukeAnn,User,,,,,,7085.5
+HanSon/speedy,speedy,🚄A Laravel Admin Package to create a website quickly,121,9,PHP,HanSon,,User,"GuangZhou, China",23.12911,113.264385,Guangzhou,China,7141.5
+fondbot/framework,framework,Chatbot framework,121,12,PHP,fondbot,FondBot,Organization,,,,,,7141.5
+wilderborn/partyline,partyline,Output to Laravel's console from outside of your Command classes.,120,9,PHP,wilderborn,Wilderborn,Organization,The Wilderweb.,,,,,7203.0
+comfusion/hyperdrive,hyperdrive,:zap: Hyperdrive plugin for WordPress,119,13,PHP,comfusion,Comfusion,Organization,"Bali, Indonesia",-8.409517800000001,115.18891599999999,,Indonesia,7265.0
+thinkcmf/thinkcmfapi,thinkcmfapi,ThinkCMF5 API,118,47,PHP,thinkcmf,ThinkCMF,User,,,,,,7328.0
+dotneet/bpush,bpush,The  management system of web push notification. It also supports an Non-SSL site.,118,3,PHP,dotneet,Shinji Yamada,User,Fairyland,,,,,7328.0
+codecasts/laravel-jwt,laravel-jwt,"Dead simple, plug and play JWT API Authentication for Laravel (5.4+)",117,18,PHP,codecasts,CODECASTS,Organization,Brazil,-14.235004,-51.92528,,Brazil,7392.5
+kcloze/multiprocess,multiprocess,Easy to make the common PHP/Python/js...script change daemon and multi-process execution,117,10,PHP,kcloze,kcloze,User,"GuangZhou,China",,,,,7392.5
+qq8044023/taskPHP,taskPHP,"taskPHP基于原生态php开发的定时计划任务框架,利用多进程实现任务的分配和运行,利用原生态php内存共享实现进程间通信,支持linux和windows。有较好的伸缩性、扩展性、健壮稳定性而被多家公司使用，同时也希望开源爱好者一起贡献。",116,29,PHP,qq8044023,,User,,,,,,7466.5
+dauxio/daux.io,daux.io,Daux.io main repository,116,11,PHP,dauxio,Daux.io,Organization,,,,,,7466.5
+propelorm/Propel3,Propel3,Hig
