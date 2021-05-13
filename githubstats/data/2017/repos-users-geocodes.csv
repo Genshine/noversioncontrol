@@ -5881,4 +5881,113 @@ codecasts/laravel-jwt,laravel-jwt,"Dead simple, plug and play JWT API Authentica
 kcloze/multiprocess,multiprocess,Easy to make the common PHP/Python/js...script change daemon and multi-process execution,117,10,PHP,kcloze,kcloze,User,"GuangZhou,China",,,,,7392.5
 qq8044023/taskPHP,taskPHP,"taskPHP基于原生态php开发的定时计划任务框架,利用多进程实现任务的分配和运行,利用原生态php内存共享实现进程间通信,支持linux和windows。有较好的伸缩性、扩展性、健壮稳定性而被多家公司使用，同时也希望开源爱好者一起贡献。",116,29,PHP,qq8044023,,User,,,,,,7466.5
 dauxio/daux.io,daux.io,Daux.io main repository,116,11,PHP,dauxio,Daux.io,Organization,,,,,,7466.5
-propelorm/Propel3,Propel3,Hig
+propelorm/Propel3,Propel3,High performance data-mapper ORM with optional active-record traits for RAD and modern PHP 7.1+,115,21,PHP,propelorm,Propel,Organization,Everywhere,,,,,7532.5
+spatie/laravel-referer,laravel-referer,Remember a visitor's original referer,115,9,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,7532.5
+spatie/laravel-tinker-tools,laravel-tinker-tools,Use short class names in an Artisan tinker session,113,12,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,7670.5
+spatie/macroable,macroable,A trait to dynamically add methods to a class,113,8,PHP,spatie,Spatie,Organization,"Antwerp, Belgium",51.2194475,4.402464299999999,Antwerp,Belgium,7670.5
+WaitMoonMan/qrcodeplus,qrcodeplus,可以生成四色， 九色， 十六色， 背景图二维码， 彩色二维码！,113,6,PHP,WaitMoonMan,施国鹏,User,,,,,,7670.5
+xoco70/laravel-tournaments,laravel-tournaments,Laravel 5.4+ Package that allows you to generate customizable tournaments trees.,112,15,PHP,xoco70,Julien,User,,,,,,7748.0
+mumu731/yun,yun,,112,0,PHP,mumu731,吃鱼大神,User,,,,,,7748.0
+orgmanager/orgmanager,orgmanager,Invite System for GitHub Organizations,111,35,PHP,orgmanager,OrgManager,Organization,,,,,,7820.0
+overtrue/flysystem-qiniu,flysystem-qiniu,:floppy_disk: Flysystem adapter for the Qiniu storage.,111,14,PHP,overtrue,安正超,User,"Shenzhen,China",39.904211,116.407395,Beijing,China,7820.0
+nextcloud/deck,deck,"🍱 Kanban-style project & personal management tool for Nextcloud, similar to Trello",110,28,PHP,nextcloud,Nextcloud,Organization,The Internet,,,,,7898.0
+CakeDC/oven,oven,Welcome to Oven. The easiest way to install CakePHP.,109,24,PHP,CakeDC,Cake Development Corporation,Organization,"Las Vegas, Nevada",36.169941200000004,-115.13982959999998,Las Vegas,United States,7981.5
+DevMarketer/DevMarketer,DevMarketer,,109,62,PHP,DevMarketer,DevMarketer,Organization,Worldwide,29.5170728,-98.4170523,San Antonio,United States,7981.5
+reshadman/file-secretary,file-secretary,"Get rid of anything related to files in Laravel, This package handles all for you. Anything we mean.",109,7,PHP,reshadman,Reza Shadman,User,"Tehran, Iran",,,,,7981.5
+so2platform/LaraFly,LaraFly,Rapid Laravel UI Starter,109,16,PHP,so2platform,CodersMX,Organization,,,,,,7981.5
+yansongda/laravel-pay,laravel-pay,可能是我用过的最优雅的 Alipay 和 WeChat 的 laravel 支付扩展包了,109,19,PHP,yansongda,yansongda,User,"Guangdong,China",23.3790333,113.7632828,,China,7981.5
+devingray/laravel-api-boilerplate,laravel-api-boilerplate,A Boilerplate Project For Laravel API's,108,13,PHP,devingray,Devin Gray,User,South Africa ,-30.559482,22.937506,,South Africa,8056.0
+CatsSystem/CatApi,CatApi,全异步Swoole Http API开发框架，内置Promise，异步MySQL连接池，内存缓存管理，异步Task方案等,108,26,PHP,CatsSystem,CatSystem,Organization,,,,,,8056.0
+Seaony/Hunt,Hunt,This is laravel 5.5 + pjax the Hunt,107,13,PHP,Seaony,Seaony,User,"Chongqing,China",29.431586100000004,106.912251,,China,8118.5
+bennettfeely/csscreatures,csscreatures,Make a creature by tweeting to @csscreatures,106,12,PHP,bennettfeely,Bennett Feely,User,Pittsburgh,40.44062479999999,-79.9958864,Pittsburgh,United States,8187.5
+symfony/polyfill-php72,polyfill-php72,[READ-ONLY] Subtree split of the Symfony Polyfill for PHP 7.2,105,0,PHP,symfony,Symfony,Organization,The Internet,15.121994699999998,105.8021808,Pakse,Laos,8277.5
+Tms157/Statsy,Statsy,"Statsy is a easy to use open source PHP tool for developers, that allows you to return various types of information about your server.",105,8,PHP,Tms157,Tom Rouse,User,United Kingdom,55.378051,-3.435973,,United Kingdom,8277.5
+nrkbeta/nrkbetaquiz,nrkbetaquiz,Require the reader to pass a quiz before being able to comment on an article,105,13,PHP,nrkbeta,NRKBeta,User,"Oslo, Norway",,,,,8277.5
+danslo/CleanCheckout,CleanCheckout,A drop-in replacement for the Magento 2 checkout.,105,13,PHP,danslo,Daniel Sloof,User,"Rotterdam, Netherlands",51.9244201,4.4777325999999995,Rotterdam,Netherlands,8277.5
+samrap/acf-fluent,acf-fluent,A fluent interface for the Advanced Custom Fields WordPress plugin,105,0,PHP,samrap,Sam Rapaport,User,Southern California,,,,,8277.5
+overtrue/chinese-calendar,chinese-calendar,:date: 中国农历（阴历）与阳历（公历）转换与查询工具,105,17,PHP,overtrue,安正超,User,"Shenzhen,China",39.904211,116.407395,Beijing,China,8277.5
+ratiw/vuetable-2-with-laravel-5.4,vuetable-2-with-laravel-5.4,Sample project using Vuetable-2 in Laravel 5.4 and Laravel-Mix,105,38,PHP,ratiw,Rati Wannapanop,User,"Nonthaburi, Thailand",15.870032,100.992541,,Thailand,8277.5
+codekerala/laravel-and-vue.js-spa-Recipe-Box,laravel-and-vue.js-spa-Recipe-Box,Single Page Application with Laravel 5.4 and Vue.js 2 - Recipe Box,104,45,PHP,codekerala,Code Kerala,User,"Trivandrum, Kerala, India",8.524139100000001,76.9366376,Thiruvananthapuram,India,8366.5
+PortSwigger/hackability,hackability,Probe a rendering engine for vulnerabilities and other features,104,21,PHP,PortSwigger,PortSwigger Web Security,Organization,,,,,,8366.5
+maysrp/yunBT,yunBT,基于TP3.1的多用户BT离线下载,104,60,PHP,maysrp,Xiaosea,User,china,35.86166,104.195397,,China,8366.5
+summerblue/generator,generator,"Laravel 5.3+ Scaffold Generator, Support both bootstrap and Semantic UI",103,22,PHP,summerblue,Summer,User,ShenZhen China,22.543096,114.05786499999999,Shenzhen,China,8444.0
+Ucer/codehaoshi,codehaoshi,code 好事源代码,103,40,PHP,Ucer,Ucer,User,,,,,,8444.0
+michaeldyrynda/laravel-model-uuid,laravel-model-uuid,This package allows you to easily work with UUIDs in your Laravel models,103,9,PHP,michaeldyrynda,Michael Dyrynda,User,"Adelaide, Australia",-34.9284989,138.6007456,Adelaide,Australia,8444.0
+incredibleindishell/sqlite-lab,sqlite-lab,"This code is vulnerable to SQL Injection and having SQLite database. For SQLite database, SQL Injection payloads are different so it is for fun. Just enjoy it \m/",102,19,PHP,incredibleindishell,Incredible,User,IndiShell Lab,,,,,8520.0
+LibreTime/libretime,libretime,LibreTime: Radio Broadcast & Automation Platform,101,35,PHP,LibreTime,,Organization,,,,,,8590.0
+WaitMoonMan/easy-extends,easy-extends,一个简单快速安装PHP扩展的程序,101,8,PHP,WaitMoonMan,施国鹏,User,,,,,,8590.0
+antonioribeiro/google2fa-laravel,google2fa-laravel,"A One Time Password Authentication package, compatible with Google Authenticator for Laravel",101,21,PHP,antonioribeiro,Antonio Carlos Ribeiro,User,"Rio de Janeiro, Brazil",,,,,8590.0
+balping/laravel-hashslug,laravel-hashslug,Package providing a trait to use Hashids on a model,101,9,PHP,balping,Balázs Dura-Kovács,User,"Budapest, GMT+1",,,,,8590.0
+Bogdaan/viber-bot-php,viber-bot-php,Php bot interface to work with Viber API,100,42,PHP,Bogdaan,Bogdan,User,Ukraine,48.379433,31.1655799,,Ukraine,8660.0
+404labfr/laravel-auth-checker,laravel-auth-checker,"Laravel Auth Checker allows you to log users authentication, devices authenticated from and lock intrusions.",100,13,PHP,404labfr,404lab,Organization,"Toulouse, France",,,,,8660.0
+Microsoft/napajs,napajs,Napa.js: a multi-threaded JavaScript runtime,7379,232,C++,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,40.0
+ApolloAuto/apollo,apollo,An open autonomous driving platform,7010,1582,C++,ApolloAuto,Apollo Auto,Organization,,,,,,46.0
+brpc/brpc,brpc,"Industrial-grade RPC framework used throughout Baidu, with 600,000+ instances and 500+ kinds of services, called 'baidu-rpc' inside Baidu.",5739,1218,C++,brpc,,Organization,,,,,,64.0
+OpenGenus/cosmos,cosmos,Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter,5625,1736,C++,OpenGenus,"OpenGenus, The Open Group to help the needy",Organization,Earth,,,,,70.0
+apple/turicreate,turicreate,Turi Create simplifies the development of custom machine learning models.,5317,411,C++,apple,Apple,Organization,"Cupertino, CA",37.322997799999996,-122.03218229999999,Cupertino,United States,76.0
+CMU-Perceptual-Computing-Lab/openpose,openpose,"OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation",4204,1163,C++,CMU-Perceptual-Computing-Lab,,Organization,,,,,,94.0
+Microsoft/AirSim,AirSim,Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research,3829,824,C++,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,116.0
+abseil/abseil-cpp,abseil-cpp,Abseil Common Libraries (C++),3617,389,C++,abseil,Abseil,Organization,,,,,,128.0
+baidu/mobile-deep-learning,mobile-deep-learning,"This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. ",3508,623,C++,baidu,Baidu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,134.0
+avast-tl/retdec,retdec,RetDec is a retargetable machine-code decompiler based on LLVM.,3295,342,C++,avast-tl,Avast Threat Labs,Organization,Czech Republic,49.81749199999999,15.472961999999999,,Czechia,148.0
+Tencent/ncnn,ncnn,ncnn is a high-performance neural network inference framework optimized for the mobile platform,3099,653,C++,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,168.0
+Tencent/Tars,Tars,Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform.,2913,804,C++,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,193.0
+facebookresearch/faiss,faiss,A library for efficient similarity search and clustering of dense vectors.,2619,474,C++,facebookresearch,,Organization,,,,,,228.0
+catboost/catboost,catboost,"CatBoost is an open-source gradient boosting on decision trees library with categorical features support out of the box for Python, R",2301,285,C++,catboost,CatBoost,Organization,,,,,,270.0
+onnx/onnx,onnx,Open Neural Network Exchange,2147,193,C++,onnx,Open Neural Network Exchange,Organization,,,,,,300.0
+google-ar/arcore-android-sdk,arcore-android-sdk,Google ARCore SDK for Android Studio,2016,229,C++,google-ar,Google AR,Organization,,,,,,333.0
+sony/nnabla,nnabla,Neural Network Libraries,1869,187,C++,sony,Sony,Organization,"Minato-ku, Tokyo, Japan",35.6580681,139.7515992,Minato,Japan,366.0
+hteso/iaito,iaito,This project has been moved to:,1616,138,C++,hteso,Hugo Teso,User,,,,,,443.0
+mbasso/asm-dom,asm-dom,A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications),1603,47,C++,mbasso,Matteo Basso,User,"Milan, Italy",45.465421899999996,9.1859243,Milan,Italy,447.0
+arendst/Sonoff-Tasmota,Sonoff-Tasmota,"Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO",1597,377,C++,arendst,Theo Arends,User,Netherlands,52.132633,5.2912659999999985,,Netherlands,452.0
+gcp/leela-zero,leela-zero,"Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.",1525,293,C++,gcp,Gian-Carlo Pascutto,User,Belgium,50.503887,4.469936,,Belgium,477.0
+wangyu-/UDPspeeder,UDPspeeder,"A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)",1451,221,C++,wangyu-,,User,,,,,,508.0
+facebookresearch/StarSpace,StarSpace,"Learning embeddings for classification, retrieval and ranking.",1432,135,C++,facebookresearch,,Organization,,,,,,513.0
+jarulraj/sqlcheck,sqlcheck,Automatically identify anti-patterns in SQL queries,1431,43,C++,jarulraj,Joy Arulraj,User,Pixburgh,,,,,514.0
+ethereum-mining/ethminer,ethminer,"Ethereum miner with OpenCL, CUDA and stratum support",1422,370,C++,ethereum-mining,,Organization,,,,,,518.5
+aksnzhy/xlearn,xlearn,"High Performance, Easy-to-use, and Scalable Machine Learning Package (C++, Python, R)",1417,192,C++,aksnzhy,Chao Ma,User,Beijing,,,,,520.5
+koekeishiya/chunkwm,chunkwm,Tiling window manager for macOS based on plugin architecture,1390,51,C++,koekeishiya,Åsmund Vikane,User,Norway,60.47202399999999,8.468945999999999,,Norway,535.5
+facebookresearch/ELF,ELF,"An End-To-End, Lightweight and Flexible Platform for Game Research",1340,175,C++,facebookresearch,,Organization,,,,,,562.0
+milostosic/MTuner,MTuner,"MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 4, PlayStation 3, etc.",1323,81,C++,milostosic,Милош Тошић,User,"Belgrade, Serbia",44.786568,20.448921600000002,Belgrade,Serbia,570.0
+Tencent/phxqueue,phxqueue,"A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.",1321,215,C++,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,571.5
+mapd/mapd-core,mapd-core,The MapD Core database,1317,176,C++,mapd,MapD,Organization,,,,,,576.5
+wangyu-/udp2raw-tunnel,udp2raw-tunnel,"A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment),Anti-Replay-Attack",1316,273,C++,wangyu-,,User,,,,,,578.0
+TranslucentTB/TranslucentTB,TranslucentTB,A lightweight utility that makes the Windows taskbar translucent/transparent.,1227,118,C++,TranslucentTB,,Organization,,,,,,618.0
+rexdex/recompiler,recompiler,Xbox360 -> Windows executable converter,1225,72,C++,rexdex,Rex Dex,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,621.0
+ue4plugins/StreetMap,StreetMap,Import OpenStreetMap data into Unreal Engine 4,1217,130,C++,ue4plugins,UE4 Plug-ins,Organization,USA,37.09024,-95.712891,,United States,629.5
+google/sling,sling,SLING - A natural language frame semantics parser,1199,148,C++,google,Google,Organization,,,,,,638.0
+peterrudenko/helio-workstation,helio-workstation,"One music sequencer for all major platforms, both desktop and mobile",1177,33,C++,peterrudenko,Peter Rudenko,User,"Izhevsk, Russia",56.86186009999999,53.232428399999996,Izhevsk,Russia,658.0
+uber/horovod,horovod,Distributed training framework for TensorFlow.,1166,138,C++,uber,Uber Open Source,Organization,70+ countries and counting.,,,,,669.5
+Blizzard/s2client-api,s2client-api,"StarCraft II Client - C++ library supported on Windows, Linux and Mac designed for building scripted bots and research using the SC2API.",1156,181,C++,Blizzard,Blizzard Entertainment,Organization,"Irvine, CA",33.6845673,-117.82650490000002,Irvine,United States,677.0
+radareorg/cutter,cutter,A Qt and C++ GUI for radare2 reverse engineering framework,1072,89,C++,radareorg,radare org,Organization,,,,,,740.0
+Property404/fetlang,fetlang,Fetish-themed programming language,1028,27,C++,Property404,Dagan Martinez,User,,,,,,768.0
+fireice-uk/xmr-stak,xmr-stak,Unified All-in-one Monero miner,1005,421,C++,fireice-uk,,User,,,,,,785.5
+aguinet/wannakey,wannakey,Wannacry in-memory key recovery,979,149,C++,aguinet,Adrien Guinet,User,,,,,,807.0
+baidu/Familia,Familia,A Toolkit for Industrial Topic Modeling,964,256,C++,baidu,Baidu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,817.0
+fireice-uk/xmr-stak-cpu,xmr-stak-cpu,Monero CPU miner,890,451,C++,fireice-uk,,User,,,,,,902.0
+Hopson97/MineCraft-One-Week-Challenge,MineCraft-One-Week-Challenge,I challenged myself to see if I could create Minecraft in just one week... So lets go!,880,151,C++,Hopson97,Matthew Hopson,User,UK,55.378051,-3.435973,,United Kingdom,915.0
+Qihoo360/evpp,evpp,A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.,852,264,C++,Qihoo360,Qihoo 360,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,946.0
+ubisoftinc/massgate,massgate,"Massgate is the online backend server for the Massive Entertainment game World in Conflict, and is now open-source to make it possible for anyone to host their own Massgate server.",843,131,C++,ubisoftinc,Ubisoft,Organization,,,,,,955.0
+discordapp/lilliput,lilliput,Resize images and animated GIFs in Go,835,26,C++,discordapp,Discord,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,964.0
+google/sentencepiece,sentencepiece,Unsupervised text tokenizer for Neural Network-based text generation.,785,87,C++,google,Google,Organization,,,,,,1019.0
+xmrig/xmrig,xmrig,Monero (XMR) CPU miner,764,288,C++,xmrig,,User,,,,,,1056.0
+wangyu-/tinyFecVPN,tinyFecVPN,"A VPN Designed for Lossy Links, with Build-in Forward Error Correction Support. Improves your Network Quality on a High-latency Lossy Link.",750,134,C++,wangyu-,,User,,,,,,1086.0
+msracver/Deep-Image-Analogy,Deep-Image-Analogy,The source code of 'Visual Attribute Transfer through Deep Image Analogy'.,749,143,C++,msracver,MSRA CVer,Organization,,,,,,1089.0
+plaidml/plaidml,plaidml,PlaidML is a framework for making deep learning work everywhere.,748,46,C++,plaidml,PlaidML,Organization,,,,,,1091.5
+dwavesystems/qbsolv,qbsolv,"Qbsolv,a decomposing solver, finds a minimum value of a large quadratic unconstrained binary optimization (QUBO) problem by splitting it into pieces solved either via a D-Wave system or a classical tabu solver.   (Note that qbsolv by default uses its internal classical solver.  Access to a D-Wave system must be arranged separately.)",736,171,C++,dwavesystems,D-Wave Systems Inc.,Organization,,,,,,1113.5
+jacobdufault/cquery,cquery,"Low-latency language server supporting multi-million line C++ code-bases, powered by libclang. Works in any editor with language server support (vscode, emacs, vim, etc).",734,44,C++,jacobdufault,Jacob Dufault,User,,,,,,1118.0
+carla-simulator/carla,carla,Open-source simulator for autonomous driving research.,730,130,C++,carla-simulator,CARLA,Organization,,,,,,1128.0
+ctubio/Krypto-trading-bot,Krypto-trading-bot,"Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++",729,189,C++,ctubio,Carles Tubio,User,"Catalonia, Sector 001",41.18479,1.3383798999999998,La Cativera,Spain,1132.0
+shamadee/web-dsp,web-dsp,A client-side signal processing library utilizing the power of WebAssembly (.wasm),728,49,C++,shamadee,,Organization,,,,,,1136.5
+google/lullaby,lullaby,A collection of C++ libraries designed to help teams develop virtual and augmented reality experiences,695,94,C++,google,Google,Organization,,,,,,1201.5
+secrary/InjectProc,InjectProc,InjectProc - Process Injection Techniques,674,132,C++,secrary,Lasha Khasaia,User,https://keybase.io/khasaia,,,,,1253.0
+uNetworking/uTT,uTT,"Lightweight and efficient MQTT broker prototype (experimental taste test, not developed)",623,30,C++,uNetworking,,Organization,Sweden,60.12816100000001,18.643501,,Sweden,1350.5
+ARM-software/ComputeLibrary,ComputeLibrary,The ARM Computer Vision and Machine Learning library is a set of functions optimised for both ARM CPUs and GPUs using SIMD technologies.,611,186,C++,ARM-software,Arm Software,Organization,"Cambridge, UK",52.205337,0.12181700000000001,Cambridge,United Kingdom,1384.5
+google/clif,clif,Wrapper generator foundation to wrap C++ for Python and other languages using LLVM.,600,68,C++,google,Google,Organization,,,,,,1403.0
+baidu/bigflow,bigflow,"Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 5000 jobs every day.",583,94,C++,baidu,Baidu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,1445.5
+baidu/palo,palo,Palo，the MPP data warehouse,581,147,C++,baidu,Baidu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,1450.0
+HKUST-Aerial-Robotics/VINS-Mobile,VINS-Mobile,Monocular Visual-Inertial State Estimator on Mobile Phones,568,346,C++,HKUST-Aerial-Robotics,HKUST Aerial Robotics Group,Organization," CYT 2014A, HKUST, Clear Water Bay, Kowloon. Hong Kong",,,,,1479.5
+HKUST-Aerial-Robotics/VINS-Mono,VINS-Mono,A Robust and Versatile Monocular Visual-Inertial State Estimator,567,388,C++,HKUST-Aerial-Robotics,HKUST Aerial Robotics Group,Organization," CYT 2014A, HKUST, Clear Water Bay, Kowloon. Hong Kong",,,,,1483.0
+NathanCastle/BootShellCredentialProvider,BootShellCredentialProvider,Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.,548,23,C++,NathanCastle,Nathan Castle,User,"Redlands, CA",34.055569299999995,-117.1825381,Redlands,United States,1536.0
+lief-project/LIEF,LIEF,LIEF - Library to Instrument Executable Formats,543,63,C++,lief-project,LIEF,Organization,Quarkslab,,,,,1550.5
+qtumproject/qtum,qtum,Qtum Core Wallet,529,107,C++,qtump
