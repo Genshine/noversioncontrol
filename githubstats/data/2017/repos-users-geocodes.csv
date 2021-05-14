@@ -5990,4 +5990,124 @@ HKUST-Aerial-Robotics/VINS-Mobile,VINS-Mobile,Monocular Visual-Inertial State Es
 HKUST-Aerial-Robotics/VINS-Mono,VINS-Mono,A Robust and Versatile Monocular Visual-Inertial State Estimator,567,388,C++,HKUST-Aerial-Robotics,HKUST Aerial Robotics Group,Organization," CYT 2014A, HKUST, Clear Water Bay, Kowloon. Hong Kong",,,,,1483.0
 NathanCastle/BootShellCredentialProvider,BootShellCredentialProvider,Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.,548,23,C++,NathanCastle,Nathan Castle,User,"Redlands, CA",34.055569299999995,-117.1825381,Redlands,United States,1536.0
 lief-project/LIEF,LIEF,LIEF - Library to Instrument Executable Formats,543,63,C++,lief-project,LIEF,Organization,Quarkslab,,,,,1550.5
-qtumproject/qtum,qtum,Qtum Core Wallet,529,107,C++,qtump
+qtumproject/qtum,qtum,Qtum Core Wallet,529,107,C++,qtumproject,Qtum,Organization,Singapore,1.352083,103.819836,,Singapore,1594.5
+taurusai/kungfu,kungfu,Kungfu Master Trading System,523,180,C++,taurusai,,User,,,,,,1606.0
+google/pik,pik,,514,32,C++,google,Google,Organization,,,,,,1636.0
+swoole/PHP-X,PHP-X, C++ wrapper for Zend API,506,72,C++,swoole,,Organization,,,,,,1660.0
+yuanfengyun/qipai,qipai,棋牌的胡牌算法，包括麻将、跑胡子、扑克。实现lua、c++、c#、golang、js、java、python版本。(Mahjong algorithm),497,279,C++,yuanfengyun,云哥哥,User,深圳,,,,,1697.5
+zetavm/zetavm,zetavm,Multi-Language Platform for Dynamic Programming Languages,495,36,C++,zetavm,,Organization,,,,,,1708.5
+maxritter/DIY-Thermocam,DIY-Thermocam,"The DIY-Thermocam is a do-it-yourself infrared camera, based on the FLIR Lepton long-wave infrared sensor and the popular Teensy 3.6.",487,57,C++,maxritter,Max Ritter,User,"Munich, Germany",,,,,1738.5
+facebook/openr,openr,Distributed platform for building autonomic network functions.,483,89,C++,facebook,Facebook,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,1760.0
+aws/lumberyard,lumberyard,Amazon Lumberyard is a free AAA game engine deeply integrated with AWS and Twitch – with full source.,470,162,C++,aws,Amazon Web Services,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,1802.5
+BTCGPU/BTCGPU,BTCGPU,Current work on BTCGPU,469,239,C++,BTCGPU,BTCGPU,Organization,,,,,,1807.5
+justadudewhohacks/opencv4nodejs,opencv4nodejs,"Asynchronous OpenCV 3.x API for node.js, with examples for: Face Detection, Machine Learning, Deep Neural Nets, Hand Gesture Recognition, Object Tracking, Feature Matching, Image Histogram",464,61,C++,justadudewhohacks,,User,,,,,,1827.0
+googlecreativelab/paper-signals,paper-signals,Build your own voice controlled object.,450,48,C++,googlecreativelab,Google Creative Lab,Organization,,,,,,1884.5
+vit9696/Lilu,Lilu,Arbitrary kext and process patching on macOS,444,46,C++,vit9696,,User,,,,,,1913.0
+pierricgimmig/orbitprofiler,orbitprofiler,C/C++ Performance Profiler,433,16,C++,pierricgimmig,,User,"Montreal, Quebec",45.5016889,-73.567256,Montreal,Canada,1958.0
+Tencent/paxosstore,paxosstore,"PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.",427,93,C++,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,1985.0
+Kaldaien/FAR,FAR,Fix (NieR) Automata Resolution,424,78,C++,Kaldaien,Andon M. Coleman,User,"Cape Coral, FL",26.5628537,-81.94953309999998,Cape Coral,United States,2005.0
+Bitcoin-ABC/bitcoin-abc,bitcoin-abc,,416,207,C++,Bitcoin-ABC,Bitcoin ABC,Organization,,,,,,2038.0
+mmozeiko/RcloneBrowser,RcloneBrowser,Simple cross platform GUI for rclone,414,21,C++,mmozeiko,Mārtiņš Možeiko,User,"San Jose, CA",37.338208200000004,-121.88632859999998,San Jose,United States,2045.5
+ethz-asl/maplab,maplab,An open visual-inertial mapping framework.,412,131,C++,ethz-asl,ETHZ ASL,Organization,"Zurich, Switzerland",47.376886600000006,8.541694,Zürich,Switzerland,2053.5
+bcosorg/bcos,bcos,BCOS平台（BlockChainOpenSource）,400,178,C++,bcosorg,BCOS,Organization,,,,,,2115.5
+lmb-freiburg/flownet2,flownet2,FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks,393,143,C++,lmb-freiburg,"Computer Vision Group, Albert-Ludwigs-Universität Freiburg",Organization,"Freiburg, Germany",,,,,2155.5
+argman/EAST,EAST,A tensorflow implementation of EAST text detector,389,148,C++,argman,,User,,,,,,2175.0
+google-ar/WebARonTango,WebARonTango,A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top of WebVR built in Chromium.,357,40,C++,google-ar,Google AR,Organization,,,,,,2373.0
+Erkaman/vulkan_minimal_compute,vulkan_minimal_compute,Minimal Example of Using Vulkan for Compute Operations. Only ~400LOC.,357,15,C++,Erkaman,Eric Arnebäck,User,"Sweden, Gothenburg",57.70887,11.97456,Gothenburg,Sweden,2373.0
+rstudio/reticulate,reticulate,R Interface to Python,349,45,C++,rstudio,RStudio,Organization,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,2419.0
+nodeful/eqMac2,eqMac2,🎧  -  System-wide Audio Equalizer for the Mac,349,31,C++,nodeful,Roman,User,United Kingdom,,,,,2419.0
+comaeio/porosity,porosity,Decompiler for Blockchain-based Ethereum Smart-Contracts,346,70,C++,comaeio,Comae Technologies,Organization,"Dubai, UAE",,,,,2447.0
+skarupke/flat_hash_map,flat_hash_map,A very fast hashtable,326,29,C++,skarupke,,User,,,,,,2620.0
+HumbleNet/HumbleNet,HumbleNet,a cross-platform networking library that works in the browser,325,28,C++,HumbleNet,,Organization,,,,,,2627.5
+ApolloAuto/apollo-platform,apollo-platform,Collections of Apollo Platform Software,322,185,C++,ApolloAuto,Apollo Auto,Organization,,,,,,2650.0
+anbox/anbox,anbox,Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system ,322,46,C++,anbox,Anbox,Organization,,,,,,2650.0
+saantiaguilera/android-api-SecureKeys,android-api-SecureKeys,Store data in a simple and secure way,317,32,C++,saantiaguilera,Santi Aguilera,User,Buenos Aires,-34.6036844,-58.381559100000004,Buenos Aires,Argentina,2700.0
+Blockstream/satellite,satellite,Blockstream Satellite,312,30,C++,Blockstream,Blockstream,Organization,,,,,,2732.5
+mikesart/gpuvis,gpuvis,GPU Trace Visualizer,311,16,C++,mikesart,Michael Sartain,User,Colorado Springs,38.8338816,-104.82136340000001,Colorado Springs,United States,2740.5
+emmjaykay/stanford_self_driving_car_code,stanford_self_driving_car_code,Stanford Code From Cars That Entered DARPA Grand Challenges,306,133,C++,emmjaykay,,User,,,,,,2786.5
+rep-movsd/see-phit,see-phit,A C++ HTML template engine that uses compile time HTML parsing,303,13,C++,rep-movsd,Vivek,User,Bangalore,12.9715987,77.5945627,Bengaluru,India,2809.0
+facebookincubator/gloo,gloo,Collective communications library with various primitives for multi-machine training.,302,60,C++,facebookincubator,Facebook Incubator,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,2819.0
+facebookresearch/SparseConvNet,SparseConvNet,Submanifold sparse convolutional networks,301,48,C++,facebookresearch,,Organization,,,,,,2828.5
+codilime/veles,veles,Binary data analysis and visualization tool,294,29,C++,codilime,CodiLime Sp. z o.o.,Organization,"ul. Krańcowa 5, 02-493 Warsaw, Poland, VAT NO.: PL 527 265 74 78",,,,,2886.5
+zeusees/HyperLPR,HyperLPR,基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.,290,134,C++,zeusees,ZEUSEE,Organization,"Beijing, China",,,,,2924.0
+six-ddc/httpflow,httpflow,Packet capture and analysis utility similar to tcpdump for HTTP,288,37,C++,six-ddc,dongcheng,User,"Beijing, China",39.904211,116.407395,Beijing,China,2940.5
+ROCmSoftwarePlatform/MIOpen,MIOpen,AMD's Machine Intelligence Library,288,24,C++,ROCmSoftwarePlatform,ROCm Software Platform ,Organization,,,,,,2940.5
+jussihi/PUBG-map-hack,PUBG-map-hack,Map hack solution for PUBG,286,129,C++,jussihi,Jussi,User,Finland,,,,,2961.5
+citizenfx/fivem,fivem,The source code for the FiveM modification framework for GTA V.,284,98,C++,citizenfx,CitizenFX Collective,Organization,,,,,,2983.0
+numworks/epsilon,epsilon,Modern graphing calculator operating system.,279,58,C++,numworks,NumWorks,Organization,,,,,,3045.5
+vah13/extractTVpasswords,extractTVpasswords,tool to extract passwords from TeamViewer memory using Frida,272,69,C++,vah13,vah_13,User,,,,,,3112.0
+ZoranPandovski/al-go-rithms,al-go-rithms,:musical_note: Algorithms written in different programming languages -  https://zoranpandovski.github.io/al-go-rithms/,270,506,C++,ZoranPandovski,Zoran Pandovski,User,"Bitola, Macedonia",41.029677299999996,21.3292164,Bitola,Macedonia (FYROM),3142.5
+eldar/pose-tensorflow,pose-tensorflow, Human Pose estimation with TensorFlow framework ,269,107,C++,eldar,Eldar Insafutdinov,User,,,,,,3155.0
+davechurchill/commandcenter,commandcenter,Starcraft AI Bot,265,57,C++,davechurchill,David Churchill,User,,,,,,3203.5
+moovel/node-yolo,node-yolo,Node bindings for YOLO/Darknet image recognition library,265,35,C++,moovel,moovel,Organization,Stuttgart / Hamburg / Portland / Berlin / Cologne,,,,,3203.5
+intel/clDNN,clDNN,Compute Library for Deep Neural Networks (clDNN),261,41,C++,intel,Intel Corporation,Organization,,,,,,3241.0
+NVIDIA/cutlass,cutlass,CUDA Templates for Linear Algebra Subroutines,259,18,C++,NVIDIA,NVIDIA Corporation,Organization,"2701 San Tomas Expressway, Santa Clara, California, 95050",37.370012100000004,-121.96534950000002,Santa Clara,United States,3265.0
+NVIDIAGameWorks/Falcor,Falcor,Real-Time Rendering Framework,255,58,C++,NVIDIAGameWorks,NVIDIA GameWorks,Organization,,,,,,3324.0
+anhttran/3dmm_cnn,3dmm_cnn,Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network,245,96,C++,anhttran,,User,,,,,,3446.5
+cnkuangshi/LightCTR,LightCTR,"Lightweight and Scalable framework that combines mainstream algorithms of Click-Through-Rate prediction Based Machine Learning, Deep Learning and Philosophy of Parameter Server.",244,48,C++,cnkuangshi,Kuangshi,User,Beijing,39.90419989999999,116.4073963,Beijing,China,3462.5
+aiyaapp/AiyaEffectsIOS,AiyaEffectsIOS,"宝宝特效 SDK IOS Demo，支持美颜，3D特效，3D动画特效，2D特效等，visual effects IOS demo, support 3D effect, 3D Animation, 2D effect",242,53,C++,aiyaapp,,User,,,,,,3494.5
+ondrejbudai/hidviz,hidviz,A tool for in-depth analysis of USB HID devices communication,238,23,C++,ondrejbudai,Ondřej Budai,User,,,,,,3562.0
+fungos/cr,cr,cr.h: A Simple C Hot Reload Header-only Library,233,11,C++,fungos,Danny Angelo Carminati Grein,User,"Québec, Canada",46.8138783,-71.2079809,Québec City,Canada,3648.0
+fireice-uk/xmr-stak-nvidia,xmr-stak-nvidia,Monero NVIDIA miner,232,91,C++,fireice-uk,,User,,,,,,3667.0
+materialx/MaterialX,MaterialX,MaterialX C++ and Python libraries,232,43,C++,materialx,,Organization,,,,,,3667.0
+xiaohaoChen/rrc_detection,rrc_detection,Accurate Single Stage Detector Using Recurrent Rolling Convolution,230,88,C++,xiaohaoChen,,User,,,,,,3702.0
+Microsoft/EdgeML,EdgeML,This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.,230,26,C++,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,3702.0
+comaeio/OPCDE,OPCDE,OPCDE DXB 2017 Materials,228,55,C++,comaeio,Comae Technologies,Organization,"Dubai, UAE",,,,,3737.5
+foonathan/cppast,cppast,Library to parse and work with the C++ AST,227,12,C++,foonathan,Jonathan Müller,User,"Aachen, Germany",51.165690999999995,10.451526,,Germany,3753.5
+GoogleCloudPlatform/cloud-functions-go,cloud-functions-go,,224,17,C++,GoogleCloudPlatform,Google Cloud Platform,Organization,,,,,,3803.0
+gbevin/SendMIDI,SendMIDI,Multi-platform command-line tool to send out MIDI messages,220,13,C++,gbevin,Geert Bevin,User,Belgium,50.503887,4.469936,,Belgium,3872.5
+alexa/avs-device-sdk,avs-device-sdk,An SDK for commercial device makers to integrate Alexa directly into connected products.,219,93,C++,alexa,Alexa,Organization,,,,,,3893.0
+hpi-xnor/BMXNet,BMXNet,,217,58,C++,hpi-xnor,xnor enhanced neural nets // Hasso Plattner Institute,Organization,,,,,,3925.5
+zerosum0x0/WinREPL,WinREPL,x86 and x64 assembly 'read-eval-print loop' shell for Windows,215,31,C++,zerosum0x0,,User,USSA,36.2460189,-95.9061545,Tulsa,United States,3967.0
+joyieldInc/predixy,predixy,"A high performance and fully featured proxy for redis, support redis sentinel and redis cluster",214,17,C++,joyieldInc,,Organization,,,,,,3988.5
+chaoticbob/tinyrenderers,tinyrenderers,,214,13,C++,chaoticbob,Hai Nguyen,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,3988.5
+Microsoft/vswhere,vswhere,Locate Visual Studio 2017 and newer installations,211,21,C++,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,4046.0
+quarkslab/QBDI,QBDI,A Dynamic Binary Instrumentation framework based on LLVM.,211,17,C++,quarkslab,Quarkslab,Organization,,,,,,4046.0
+moszinet/BKKCrypt,BKKCrypt,An implementation of the famous BKKCrypt algorithm. Community contribution for other languages is highly appreciated.,210,100,C++,moszinet,Szilveszter Molnar,User,"Budapest, Hungary",47.497912,19.040235,Budapest,Hungary,4067.0
+sassalley/hexmapr,hexmapr,Turning geospatial polygons into regular or hexagonal grids,209,11,C++,sassalley,Joseph Bailey,User,,,,,,4089.0
+muellan/clipp,clipp,"easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation",208,7,C++,muellan,André Müller,User,"Wiesbaden, Germany",,,,,4110.0
+nvpro-pipeline/VkHLF,VkHLF,Experimental High Level Framework for Vulkan,207,17,C++,nvpro-pipeline,nvpro-pipeline,User,"Santa Clara, CA",37.354107899999995,-121.9552356,Santa Clara,United States,4129.5
+AlphaQi/MTCNN-light,MTCNN-light,"this repository is the implementation of MTCNN with no framework,  Just need opencv and openblas, support linux and windows",206,97,C++,AlphaQi,liqi,User,NanJing,32.060255,118.796877,Nanjing,China,4151.5
+solrex/caffe-mobile,caffe-mobile,Optimized (for size and speed) Caffe lib for iOS and Android with out-of-the-box demo APP.,204,83,C++,solrex,Wenbo Yang,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,4194.0
+topisani/OTTO,OTTO,An OP-1 inspired all-in-one synth/sequencer/sampler/recorder/more solution. Previously TOP-1,204,17,C++,topisani,,User,,,,,,4194.0
+cretz/doogie,doogie,A Chromium-based web browser with tree-style pages,201,7,C++,cretz,Chad Retz,User,"Dallas, TX",32.7766642,-96.7969879,Dallas,United States,4246.5
+kakao/n2,n2,TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets,201,22,C++,kakao,kakao,Organization,,,,,,4246.5
+gellin/TeamViewer_Permissions_Hook_V1,TeamViewer_Permissions_Hook_V1,"A proof of concept injectable C++ dll,  that uses naked inline hooking and direct memory modification to change your TeamViewer permissions.",201,46,C++,gellin,XPL0,User,"Denver, CO",,,,,4246.5
+GoSSIP-SJTU/Armariris,Armariris,孤挺花（Armariris） --  由上海交通大学密码与计算机安全实验室维护的LLVM混淆框架,200,60,C++,GoSSIP-SJTU,GoSSIP@SJTU,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,4266.5
+LiveAsynchronousVisualizedArchitecture/simdb,simdb,"A high performance, shared memory, lock free, cross platform, single file, no dependencies, C++11 key-value store",198,15,C++,LiveAsynchronousVisualizedArchitecture,,User,,,,,,4308.0
+miloyip/svpng,svpng,Minimalistic C function for saving RGB/RGBA image as uncompressed PNG.,198,42,C++,miloyip,Milo Yip,User,"Hong Kong, China",22.396428,114.10949699999999,,Hong Kong,4308.0
+evilsocket/librestd,librestd,A low dependencies and self contained library to create C++ RESTful API services.,194,16,C++,evilsocket,Simone Margaritelli,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,4401.5
+griegler/octnet,octnet,OctNet: Learning Deep 3D Representations at High Resolutions,193,51,C++,griegler,Gernot,User,,,,,,4422.0
+networknt/microservices-framework-benchmark,microservices-framework-benchmark,"Raw benchmarks on throughput, latency and transfer of Hello World on popular microservices frameworks",191,49,C++,networknt,,Organization,,,,,,4463.5
+cardash/react-native-openalpr,react-native-openalpr,An open-source React Native automatic license plate recognition package for OpenALPR,190,36,C++,cardash,CarDash,Organization,,,,,,4486.5
+abforce/xposed_art_n,xposed_art_n,ART module for a built-in enabled Xposed firmware based on AOSP 7,189,35,C++,abforce,Ali Reza Barkhordari,User,"Tehran, Iran",35.6891975,51.3889736,Tehran,Iran,4510.0
+discordapp/discord-rpc,discord-rpc,,189,44,C++,discordapp,Discord,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4510.0
+Tessil/hat-trie,hat-trie,C++ implementation of a fast and memory efficient HAT-trie,189,24,C++,Tessil,Thibaut,User,"Brussels, Belgium - Paris, France",50.8765824,4.4020108,Evere,Belgium,4510.0
+fuchsia-mirror/zircon,zircon,"Zircon Kernel, Core Drivers, and Services",186,22,C++,fuchsia-mirror,Fuchsia,Organization,#fuchsia on freenode.net,,,,,4590.5
+phiste/kengine,kengine,"The Koala engine is a type-safe and self-documenting implementation of an Entity-Component-System (ECS), with a focus on runtime extensibility and compile-time type safety and clarity.",186,8,C++,phiste,Nicolas Phister,User,"Paris, France",,,,,4590.5
+klesh/fu,fu,Cross-platform(win/mac/linux) app that allows user to upload images/files in Clipboard to a remote server in exchange for corresponding url with one simple click,185,2,C++,klesh,Klesh Wong,User,Shenzhen,22.543096,114.05786499999999,Shenzhen,China,4615.5
+intel/parallelstl,parallelstl,,185,7,C++,intel,Intel Corporation,Organization,,,,,,4615.5
+DustinHLand/vkDOOM3,vkDOOM3,Vulkan DOOM 3 port based on DOOM 3 BFG Edition,185,20,C++,DustinHLand,revenant,User,"Dallas, TX",32.7766642,-96.7969879,Dallas,United States,4615.5
+samhocevar/lolremez,lolremez,Polynomial Approximations using the Remez Algorithm,183,7,C++,samhocevar,Sam Hocevar,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4663.0
+dlunion/mtcnn,mtcnn,基于caffe的mtcnn训练实现，可以训练一个自己的有效的目标检测算法，非常容易非常简单，并且有配套的纯c++版本的mtcnn-light,183,95,C++,dlunion,dlunionXWK,User,,,,,,4663.0
+steven-michaud/HookCase,HookCase,Tool for reverse engineering macOS/OS X,182,27,C++,steven-michaud,Steven Michaud,User,,,,,,4693.0
+JLospinoso/gargoyle,gargoyle,A memory scanning evasion technique,182,33,C++,JLospinoso,Josh Lospinoso,User,"Washington, DC",,,,,4693.0
+in66-dev/In-Prestissimo,In-Prestissimo,A very fast neural network computing framework optimized for mobile platforms.QQ group: 676883532 ,182,52,C++,in66-dev,九言科技研发部,Organization,,,,,,4693.0
+farmingyard/ShuffleNet,ShuffleNet,This is a fast caffe implementation of ShuffleNet.,181,94,C++,farmingyard,法米,User,,,,,,4725.0
+niessner/BundleFusion,BundleFusion,BundleFusion: Real-time Globally Consistent 3D Reconstruction using Online Surface Re-integration,179,90,C++,niessner,,User,,,,,,4778.0
+keijiro/Pcx,Pcx,Point cloud importer & renderer for Unity,179,15,C++,keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan,4778.0
+NVIDIA-Jetson/redtail,redtail,AI framework for autonomous mobile robotics.,178,53,C++,NVIDIA-Jetson,NVIDIA Jetson,Organization,"Santa Clara, California",37.354107899999995,-121.9552356,Santa Clara,United States,4807.0
+sfzhang15/RefineDet,RefineDet,Single-Shot Refinement Neural Network for Object Detection,178,59,C++,sfzhang15,Shifeng Zhang,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,4807.0
+hatRiot/token-priv,token-priv,Token Privilege Research,176,28,C++,hatRiot,bryan alexander,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,4869.0
+trojan-gfw/trojan,trojan,An unidentifiable mechanism that helps you bypass GFW.,176,23,C++,trojan-gfw,Trojan-GFW,Organization,,,,,,4869.0
+everettjf/MachOExplorer,MachOExplorer,🍉(Alpha) Explore MachO File (Yet another MachOView),175,10,C++,everettjf,everettjf,User,Beijing,39.90419989999999,116.4073963,Beijing,China,4897.0
+senlinuc/caffe_ocr,caffe_ocr,主流ocr算法研究实验性的项目，目前实现了CNN+BLSTM+CTC架构,175,117,C++,senlinuc,senlinuc,User,Beijing,,,,,4897.0
+leonardvandriel/caffe2_cpp_tutorial,caffe2_cpp_tutorial,C++ transcripts of the Caffe2 Python tutorials and other C++ example code,174,44,C++,leonardvandriel,Leo Vandriel,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4932.5
+HauyuChen/LeetCode,LeetCode,LeetCode Solutions,173,25,C++,HauyuChen,Hov,User,"Guangzhou , China",23.12911,113.264385,Guangzhou,China,4974.5
+Haivision/srt,srt,"Secure, Reliable, Transport",169,58,C++,Haivision,Haivision,Organization,,,,,,5091.0
+lucasg/Dependencies,Dependencies,A rewrite of the old legacy software 'depends.exe' in C# for Windows devs to troubleshoot dll load dependencies issues.,169,9,C++,lucasg,,User,,,,,,5091.0
+Thuva4/Algorithms,Algorithms,Collection of algorithms in multiple programming languages.,169,316,C++,Thuva4,Thuvarakan Tharmarajasingam,User,,,,,,5091.0
+sidoh/esp8266_milight_hub,esp8266_milight_hub,Replacement for a Milight/LimitlessLED hub hosted on an ESP8266,166,41,C++,sidoh,Chris Mullins,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,5180.5
+secrary/InfectPE,InfectPE,InfectPE - Inject custom code into PE file,166,67,C++,secrary,Lasha Khasaia,User,https://keybase.io/khasaia,,,,,5180.5
+newsboat/newsboat,newsboat,An RSS/Atom feed reader for text terminals,165,17,C++,newsboat,,Organization,,,,,,5211.0
+Q
