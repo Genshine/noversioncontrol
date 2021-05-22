@@ -6356,4 +6356,132 @@ WireGuard/WireGuard,WireGuard,Read-only mirror of https://git.zx2c4.com/WireGuar
 hfiref0x/UPGDSED,UPGDSED,Universal PatchGuard and Driver Signature Enforcement Disable,215,87,C,hfiref0x,,User,,,,,,3967.0
 zdevito/ATen,ATen,ATen: A TENsor library for C++11,214,45,C,zdevito,Zachary DeVito,User,,,,,,3988.5
 pygame/pygame,pygame,pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library.,211,35,C,pygame,pygame,Organization,Internet,,,,,4046.0
-mologie/NVWebDriverLibValFix,NVWebDriverLibValFix,Fixes the NVIDIA web driver's blank window issue on macOS Sierra with a small and safe kernel patch,210,15,C,mologie,Oliver Kuckertz,User,Germany
+mologie/NVWebDriverLibValFix,NVWebDriverLibValFix,Fixes the NVIDIA web driver's blank window issue on macOS Sierra with a small and safe kernel patch,210,15,C,mologie,Oliver Kuckertz,User,Germany,51.165690999999995,10.451526,,Germany,4067.0
+blkchain/pg_blkchain,pg_blkchain,PostgreSQL Blockchain Extension,210,14,C,blkchain,,Organization,,,,,,4067.0
+switchbrew/libnx,libnx,Library for Switch Homebrew,210,13,C,switchbrew,,Organization,,,,,,4067.0
+hyln9/VIKIROOT,VIKIROOT,CVE-2016-5195 (Dirty COW) PoC for Android 6.0.1 Marshmallow,207,90,C,hyln9,Virgil Hou,User,,,,,,4129.5
+zerotier/toss,toss,Dead simple LAN file transfers from the command line,206,6,C,zerotier,"ZeroTier, Inc.",Organization,"Irvine, California",33.6845673,-117.82650490000002,Irvine,United States,4151.5
+swaywm/wlroots,wlroots,A modular Wayland compositor library,206,34,C,swaywm,Sway,Organization,,,,,,4151.5
+icing/mod_md,mod_md,Let's Encrypt (ACME) support for Apache httpd,204,11,C,icing,Stefan Eissing,User,"Münster, Germany",51.9606649,7.626134700000001,Münster,Germany,4194.0
+yourtion/LearningMasteringAlgorithms-C,LearningMasteringAlgorithms-C,Mastering Algorithms with C 《算法精解：C语言描述》源码及Xcode工程、Linux工程,204,69,C,yourtion,郭宇翔,User,Guangzhou China,,,,,4194.0
+jeff-1amstudios/restful-doom,restful-doom,HTTP+JSON API hosted inside the 1993 DOOM engine!,204,21,C,jeff-1amstudios,Jeff Harris,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4194.0
+Bodmer/TFT_eSPI,TFT_eSPI,Arduino and PlatformIO IDE compatible TFT library for the ESP8266 and ESP32 that supports different SPI driver chips,202,39,C,Bodmer,Bodmer,User,UK,55.378051,-3.435973,,United Kingdom,4226.5
+RUB-SysSec/OMEN,OMEN,OMEN: Ordered Markov ENumerator - Password Guesser,202,19,C,RUB-SysSec,Chair for Sys­tems Se­cu­ri­ty,User,"Bochum, Germany",51.4818445,7.2162362999999985,Bochum,Germany,4226.5
+iabem97/saigon,saigon,iOS 10.2.1 Jailbreak - Discontinued version,200,78,C,iabem97,Abraham Masri,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,4266.5
+chrisjmccormick/word2vec_commented,word2vec_commented,Commented (but unaltered) version of original word2vec C implementation.,198,75,C,chrisjmccormick,,User,,,,,,4308.0
+brannondorsey/naive-hashcat,naive-hashcat,Crack password hashes without the fuss :cat2:,195,21,C,brannondorsey,Brannon Dorsey,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,4375.0
+PyCon/2017-slides,2017-slides,Slides and talk assets from PyCon 2017,194,40,C,PyCon,PyCon,Organization,,,,,,4401.5
+owenliang/php7-extension-explore,php7-extension-explore,PHP7扩展开发 系列教程,192,26,C,owenliang,owenliang,User,china,,,,,4441.5
+Chion82/kcptun-raw,kcptun-raw,Simplified kcptun with raw socket and fake TCP headers.,192,42,C,Chion82,Chion Tang,User,"Guangzhou City,  China",23.12911,113.264385,Guangzhou,China,4441.5
+gen2brain/raylib-go,raylib-go,"Go bindings for raylib, a simple and easy-to-use library to learn videogames programming.",190,13,C,gen2brain,Milan Nikolic,User,"Belgrade, Serbia",44.786568,20.448921600000002,Belgrade,Serbia,4486.5
+lucyoa/kernel-exploits,kernel-exploits,,190,66,C,lucyoa,Marcin Bury,User,Your edge device,,,,,4486.5
+lh3/minimap2,minimap2,A versatile pairwise aligner for genomic and spliced nucleotide sequences,190,22,C,lh3,Heng Li,User,"Cambridge, MA, USA",,,,,4486.5
+lpan/viw,viw,"VI Worsened, a lightweight and fun VI clone.",190,12,C,lpan,Lawrence Pan,User,"Waterloo, Canada",43.4642578,-80.5204096,Waterloo,Canada,4486.5
+PikoRT/pikoRT,pikoRT,A tiny Linux-like real-time kernel optimized for ARM Cortex-M chips,190,30,C,PikoRT,Piko/RT,Organization,,,,,,4486.5
+WangShuo1143368701/FFmpegAndroid,FFmpegAndroid,"最新版ffmpeg3.3-android，并通过CMake方式移植到Android中,并实现编解码，转码，推拉流，滤镜等各种功能",187,47,C,WangShuo1143368701,,User,,,,,,4561.5
+bus1/dbus-broker,dbus-broker,Linux D-Bus Message Broker,186,17,C,bus1,,Organization,,,,,,4590.5
+vusec/vuzzer,vuzzer,,183,68,C,vusec,VUSec,Organization,,,,,,4663.0
+explosion/lightnet,lightnet,🌓 Bringing pjreddie's DarkNet out of the shadows #yolo,182,13,C,explosion,Explosion AI,Organization,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,4693.0
+mabeijianxi/FFmpeg4Android,FFmpeg4Android,,181,55,C,mabeijianxi,剑西,User,北京,39.904211,116.407395,Beijing,China,4725.0
+Paradoxis/PHP-Rootkit,PHP-Rootkit,Your interpreter isn’t safe anymore  —  The PHP module rootkit,179,58,C,Paradoxis,Luke Paris,User,The Netherlands,52.132633,5.2912659999999985,,Netherlands,4778.0
+nem0/OpenFBX,OpenFBX,Lightweight open source FBX importer,179,9,C,nem0,Mikulas Florek,User,"Slovakia, Bratislava",48.148596500000004,17.1077478,Bratislava,Slovakia,4778.0
+floooh/sokol,sokol,minimal 3D API wrapper as header-only C library,177,7,C,floooh,Andre Weissflog,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,4839.0
+xiph/rnnoise,rnnoise,Recurrent neural network for audio noise reduction,173,29,C,xiph,Xiph.Org Foundation,Organization,,,,,,4974.5
+d0k3/SafeB9SInstaller,SafeB9SInstaller,"Safe, simple, user-friendly installer for sighaxed FIRMs",172,13,C,d0k3,d0k3,User,,,,,,5008.5
+oracle/python-cx_Oracle,python-cx_Oracle,Python interface to Oracle Database conforming to the Python DB API 2.0 specification.,172,44,C,oracle,Oracle,Organization,"Redwood Shores, CA",37.536413399999994,-122.2455364,Redwood City,United States,5008.5
+theori-io/nrsc5,nrsc5,NRSC-5 receiver for rtl-sdr,171,21,C,theori-io,Theori,Organization,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States,5034.5
+m3liot/filewatcher,filewatcher,A simple auditing utility for macOS,171,26,C,m3liot,Alessio,User,,,,,,5034.5
+hgpvision/darknet,darknet,darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析,171,75,C,hgpvision,hgpvision,User,China,,,,,5034.5
+ferreiradaselva/mathc,mathc,Pure C math library for 2D and 3D game programming,170,10,C,ferreiradaselva,pengo,User,Antarctica,,,,,5060.5
+deadpixi/mtm,mtm,Perhaps the smallest useful terminal multiplexer in the world.,170,8,C,deadpixi,Rob King,User,,,,,,5060.5
+webcpp/hi-nginx,hi-nginx,"A fast and robust web server and application server for C++,Python,Lua ,Java and PHP7",169,39,C,webcpp,hi-nginx,User,earth,34.233137299999996,-102.4107493,Earth,United States,5091.0
+Jeija/esp32free80211,esp32free80211,Send arbitrary IEEE 802.11 frames with Espressif's ESP32,169,28,C,Jeija,Florian Euchner,User,"Nürtingen, Germany",48.624421000000005,9.3469069,Nürtingen,Germany,5091.0
+LPD-iOS/FlexBoxLayout,FlexBoxLayout,iOS Flexbox Layout,168,19,C,LPD-iOS,LPD-iOS,Organization,Shanghai,31.230390399999997,121.4737021,Shanghai,China,5120.5
+sacert/Gameboy,Gameboy,,167,6,C,sacert,Stephen Kang,User,"Toronto, ON",49.282729100000005,-123.1207375,Vancouver,Canada,5151.5
+artkond/Invoke-Vnc,Invoke-Vnc,Powershell VNC injector,166,33,C,artkond,Artem Kondratenko,User,,,,,,5180.5
+tobegit3hub/miniflow,miniflow,Minimal numerical computation library with TensorFlow APIs,165,32,C,tobegit3hub,tobe,User,China,35.86166,104.195397,,China,5211.0
+bindecy/HugeDirtyCowPOC,HugeDirtyCowPOC,A POC for the Huge Dirty Cow vulnerability (CVE-2017-1000405),164,47,C,bindecy,,User,Tel Aviv,32.0852999,34.78176759999999,Tel Aviv-Yafo,Israel,5245.0
+xerub/img4lib,img4lib,image4 vfs,164,49,C,xerub,,User,,,,,,5245.0
+S-March/dEEbugger_PUBLIC,dEEbugger_PUBLIC,The dEEbugger is an ESP8266 based keychain swiss army knife for electronics,163,12,C,S-March,,User,,,,,,5276.5
+JingchengLi/swapdb,swapdb,https://github.com/JingchengLi/swapdb/wiki,163,31,C,JingchengLi,lijingcheng,User,"China, Hangzhou",30.274084000000002,120.15507,Hangzhou,China,5276.5
+feiskyer/sdn-handbook,sdn-handbook,SDN网络指南（SDN Handbook）,162,38,C,feiskyer,Pengfei Ni,User,Shanghai,,,,,5308.0
+lixiaoshaxing/MultiMediaLearn,MultiMediaLearn,多媒体学习：图片处理，音视频处理，相机使用，OpenGL，OpenSL，OpenCV，FFMpeg等学习，代码尽量不封装，一般由一个类完成功能，并添加相关资料，方便学习。,160,10,C,lixiaoshaxing,lx,User,hangzhou,,,,,5371.0
+suoyuesmile/full-stack-developer,full-stack-developer,:fox_face:锁的全栈工程师之路fighting ,160,3,C,suoyuesmile,suosmile,User,moon ,,,,,5371.0
+linw7/Skill-Tree,Skill-Tree,准备秋招，欢迎来树上取果实,160,74,C,linw7,TeeKee,User,"GuangZhou, China",,,,,5371.0
+LoupVaillant/Monocypher,Monocypher,"An easy to use, easy to deploy crypto library",158,14,C,LoupVaillant,Loup Vaillant,User,,,,,,5442.0
+TheOfficialFloW/NoNpDrm,NoNpDrm,A plugin that allows you to bypass DRM protection on any PS Vita content,158,16,C,TheOfficialFloW,,User,,,,,,5442.0
+espressif/ESP8266_NONOS_SDK,ESP8266_NONOS_SDK,ESP8266 nonOS SDK,155,97,C,espressif,Espressif Systems,Organization,"Shanghai,China",31.230415999999998,121.473701,Shanghai,China,5552.0
+baoleiji/QilinBaoleiji,QilinBaoleiji,堡垒机-麒麟堡垒机，集堡垒机、SSLVPN-堡垒机内置、动态口令-堡垒机内置、应用审计-堡垒机内置、数据库审计-堡垒机内置、CA证书-堡垒机内置-堡垒机内置、云桌面-堡垒机内置、密码自动修改为一体的堡垒机系统,155,14,C,baoleiji,,User,,,,,,5552.0
+wolfgangfengel/GPUZen,GPUZen,contains the source code accompanying the book GPU Zen.,151,16,C,wolfgangfengel,Wolfgang Engel,User,,,,,,5699.5
+jedisct1/libhydrogen,libhydrogen,"A lightweight, secure, easy-to-use crypto library suitable for constrained environments.",151,7,C,jedisct1,Frank Denis,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,5699.5
+pmem/syscall_intercept,syscall_intercept,The system call intercepting library,149,27,C,pmem,Persistent Memory Programming,Organization,,,,,,5787.0
+keijiro/Lasp,Lasp,Low-latency Audio Signal Processing plugin for Unity,148,8,C,keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan,5827.5
+zhaojh329/libuhttpd,libuhttpd,a very tiny and fast HTTP server library based on libubox for Embedded Linux.,148,8,C,zhaojh329,Jianhui Zhao,User,ChengDu China,30.572815000000002,104.066801,Chengdu,China,5827.5
+viest/php-excel-writer,php-excel-writer,A PHP Extension for creating Excel XLSX files.,148,20,C,viest,王杰新,User,kunming,24.880095,102.832891,Kunming,China,5827.5
+mwrlabs/OSXFuzz,OSXFuzz,macOS Kernel Fuzzer,147,35,C,mwrlabs,MWR Labs,Organization,"Basingstoke, Johannesburg, London, Manchester, Singapore, Dubai",,,,,5872.0
+facebookarchive/RiftDK2,RiftDK2,"Firmware, Schematics, and Mechanicals for the Oculus Rift Development Kit 2",147,33,C,facebookarchive,Facebook Archive,Organization,,,,,,5872.0
+limneos/MobileMiner,MobileMiner,CPU Miner for ARM64 iOS Devices,147,32,C,limneos,Elias Limneos,User,,,,,,5872.0
+scottcgi/Mojoc,Mojoc,"Open-Source, Cross-Platform, Pure C  Game Engine",146,30,C,scottcgi,scott.cgi,User,"China, HeFei",31.820590999999997,117.22721899999999,Hefei,China,5920.0
+RKX1209/kernel_exploit_world,kernel_exploit_world,Tutorial for writing kernel exploits,146,24,C,RKX1209,Ren Kimura,User,Japan,,,,,5920.0
+froggey/Iota,Iota,LLVM to Common Lisp transpiler.,145,9,C,froggey,Henry Harrington,User,,,,,,5968.0
+fossasia/pslab-firmware,pslab-firmware,Firmware for PSLab Hardware http://pslab.fossasia.org,145,10,C,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,5968.0
+Erblocker/YRSSF,YRSSF,一个分布式(p2p)云教学/云课堂/直播平台系统CMS，睿易派的开源替代品,144,13,C,Erblocker,Erblocker Studio,Organization,,,,,,6016.0
+xerub/extra_recipe,extra_recipe,Exception-oriented exploitation by Ian Beer,144,75,C,xerub,,User,,,,,,6016.0
+rk700/YAHFA,YAHFA,Yet Another Hook Framework for ART,144,59,C,rk700,Ruikai Liu,User,,,,,,6016.0
+ninjaprawn/async_wake-fun,async_wake-fun,async_wake with a bit of fun! - async_awake by Ian Beer (https://bugs.chromium.org/p/project-zero/issues/detail?id=1417#c3),143,58,C,ninjaprawn,George Dan,User,Australia,-25.274398,133.775136,,Australia,6066.5
+cyrus-and/mysql-unsha1,mysql-unsha1,Authenticate against a MySQL server without knowing the cleartext password,143,27,C,cyrus-and,Andrea Cardaci,User,Pisa / Tuscany / Italy,43.7228386,10.4016888,Pisa,Italy,6066.5
+KunTengRom/xfrp,xfrp,xfrps&frp client for openwrt&LEDE,143,18,C,KunTengRom,KunTeng Cooperation,Organization,127.0.0.1,,,,,6066.5
+nongiach/CVE,CVE,,142,29,C,nongiach,,User,,,,,,6117.5
+mrlitong/TWAIN-SDK,TWAIN-SDK,A cross-platform protocol sdk based on TWAIN.Provide the implementation of both desktop development and dynamic web development.,141,5,C,mrlitong,Tung Li,User,Beijing,,,,,6165.0
+TiniVi/safehax,safehax,My implementation of safefirmhax: https://3dbrew.org/wiki/3DS_System_Flaws#Process9,141,14,C,TiniVi,Andres Puel,User,,,,,,6165.0
+gentilkiwi/wanadecrypt,wanadecrypt,A decryptor for Wanacry (you need the private key!),141,50,C,gentilkiwi,Benjamin DELPY,User,France,46.227638,2.213749,,France,6165.0
+r-a-w/TorProxy,TorProxy,TorProxy is a tool which uses netfilter hooks in the linux kernel to route all network traffic through the Tor network,140,13,C,r-a-w,Patrick,User,,,,,,6209.5
+chucklefish/rlua,rlua,High level Lua bindings to Rust,139,11,C,chucklefish,chucklefish,Organization,,,,,,6256.5
+peperunas/injectopi,injectopi,A set of tutorials about code injection for Windows.,139,35,C,peperunas,Giulio De Pasquale,User,Milan,45.464203499999996,9.189982,Milan,Italy,6256.5
+fincs/new-hbmenu,new-hbmenu,The New 3DS Homebrew Menu (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ ,138,14,C,fincs,,User,Spain,40.46366700000001,-3.7492199999999998,,Spain,6298.5
+LCTF/LCTF2017,LCTF2017,"Source code, writeups and exps in LCTF2017.",138,26,C,LCTF,L-Team,User,,,,,,6298.5
+jakeday/linux-surface,linux-surface,Linux Kernel for Surface Devices,136,16,C,jakeday,Jake Day,User,,,,,,6376.0
+DhavalKapil/libdheap,libdheap,A shared (dynamic) library that can be transparently injected into different processes to detect memory corruption in glibc heap,136,15,C,DhavalKapil,Dhaval Kapil,User,"Atlanta, GA",33.7489954,-84.3879824,Atlanta,United States,6376.0
+alecmuffett/onion-sites-that-dont-suck,onion-sites-that-dont-suck,Onion Sites That Don't Suck,135,19,C,alecmuffett,Alec Muffett,User,"Fleet, Hampshire, UK",51.277283000000004,-0.8426549999999999,Fleet,United Kingdom,6420.5
+raptorjit/raptorjit,raptorjit,RaptorJIT: LuaJIT fork for predictable high performance,135,5,C,raptorjit,,Organization,,,,,,6420.5
+BernardoGiordano/Checkpoint,Checkpoint,A fast and simple save manager for cfw/Rosalina-based Homebrew Launchers written in C++.,133,5,C,BernardoGiordano,Bernardo Giordano,User,Italy,41.87194,12.56738,,Italy,6507.0
+Har-Kuun/DomainMegaBot,DomainMegaBot,A domain name bulk search bot with support of over 200 top-level domains.,132,45,C,Har-Kuun,Har-Kuun,User,,,,,,6550.0
+ortegaalfredo/kscope,kscope,,132,20,C,ortegaalfredo,Alfredo Ortega,User,"Buenos Aires, Argentina",,,,,6550.0
+ZerBea/hcxtools,hcxtools,"Solution for capturing wlan traffic and conversion to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = capture, convert and calculate candidates, x = different hashtypes",130,31,C,ZerBea,,User,planet Earth (Solar System),33.45105,-117.60596799999999,San Clemente,United States,6649.0
+gkdr/lurch,lurch,OMEMO for libpurple - interoperable with other OMEMO clients.,130,15,C,gkdr,Richard Bayerle,User,,,,,,6649.0
+arut/nginx-ts-module,nginx-ts-module,NGINX MPEG-TS Live Module,128,20,C,arut,Roman Arutyunyan,User,Moscow,55.755826,37.6172999,Moscow,Russia,6749.0
+gopro/cineform-sdk,cineform-sdk,The GoPro® CineForm video codec SDK.,128,18,C,gopro,GoPro,Organization,,,,,,6749.0
+zhaojh329/wifidog-ng,wifidog-ng,Next generation WifiDog,127,2,C,zhaojh329,Jianhui Zhao,User,ChengDu China,30.572815000000002,104.066801,Chengdu,China,6796.5
+sheredom/process.h,process.h,A simple one header solution to launching processes and interacting with them for C/C++.,126,6,C,sheredom,Neil Henning,User,Scotland,56.49067119999999,-4.2026458,,United Kingdom,6850.5
+XadillaX/byakuren,byakuren,🎭 A theme color extracting library implemented by C.,126,5,C,XadillaX,Khaidi Chu,User,"Hangzhou, China",,,,,6850.5
+JerryWisdom/disk-management,disk-management,,126,0,C,JerryWisdom,Zhi Rao,User,"Hangzhou, Zhejiang, China",,,,,6850.5
+airbus-seclab/crashos,crashos,,125,12,C,airbus-seclab,,Organization,,,,,,6913.5
+agraef/purr-data,purr-data,Purr Data - Jonathan Wilkes' cross-platform Pd-l2ork version,125,17,C,agraef,Albert Graef,User,,,,,,6913.5
+zerosum0x0/defcon-25-workshop,defcon-25-workshop,Windows Post-Exploitation / Malware Forward Engineering DEF CON 25 Workshop,124,51,C,zerosum0x0,,User,USSA,36.2460189,-95.9061545,Tulsa,United States,6974.5
+astsam/rtl8812au,rtl8812au,RTL8812AU/21AU and RTL8814AU driver with monitor mode and frame injection,124,90,C,astsam,,User,,,,,,6974.5
+libexpat/libexpat,libexpat,Expat library: Fast streaming XML parser written in C; in the process of migrating from SourceForge to GitHub,124,69,C,libexpat,Expat development team,Organization,,,,,,6974.5
+facebook/360-Capture-SDK,360-Capture-SDK,A developer focused sample SDK that allows game and virtual Reality devs to be able to easily and quickly integrate 360 photo/video capture capability into their game apps.,123,28,C,facebook,Facebook,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,7031.5
+mmozeiko/pkgi,pkgi,pkg download & installation directly on Vita,123,14,C,mmozeiko,Mārtiņš Možeiko,User,"San Jose, CA",37.338208200000004,-121.88632859999998,San Jose,United States,7031.5
+astronautlevel2/Anemone3DS,Anemone3DS,A theme and boot splash manager for the Nintendo 3DS console,123,18,C,astronautlevel2,Alex Taber,User,United States,37.09024,-95.712891,,United States,7031.5
+rasmusbarr/nudge,nudge,A small data-oriented and SIMD-optimized 3D rigid body physics library.,121,3,C,rasmusbarr,,User,,,,,,7141.5
+torvalds/test-tlb,test-tlb,Stupid memory latency and TLB tester,121,31,C,torvalds,Linus Torvalds,User,"Portland, OR",45.523062200000005,-122.6764815,Portland,United States,7141.5
+philippe44/AirConnect,AirConnect,Use AirPlay to stream to UPnP/Sonos & Chromecast devices,120,12,C,philippe44,,User,,,,,,7203.0
+rawrtc/rawrtc,rawrtc,WebRTC and ORTC with a little bit of RAWR!,120,8,C,rawrtc,RAWRTC,Organization,,,,,,7203.0
+pudongqi/My_Compiler,My_Compiler,An open-source projects about how to develop a compiler,119,17,C,pudongqi,蒲东齐,User,"Wuhan,China",,,,,7265.0
+diegomacario/Poor-Fox,Poor-Fox,A beautiful command-line application designed to help you keep track of your expenses.,117,4,C,diegomacario,Diego Macario,User,"Montreal, Quebec",45.5016889,-73.567256,Montreal,Canada,7392.5
+ngtcp2/ngtcp2,ngtcp2,ngtcp2 project is an effort to implement IETF QUIC protocol,117,12,C,ngtcp2,,Organization,,,,,,7392.5
+opsxcq/exploit-CVE-2017-7494,exploit-CVE-2017-7494,SambaCry exploit and vulnerable container (CVE-2017-7494),117,41,C,opsxcq,,User,,,,,,7392.5
+lichuang/Lua-5.1.4-codedump,Lua-5.1.4-codedump,Lua 5.1.4版本代码注释,116,34,C,lichuang,codedump,User,Guangzhou,23.12911,113.264385,Guangzhou,China,7466.5
+minexew/Shrine,Shrine,"NOTE: Active development is currently (somewhat) suspended. Feel free to submit issues, PRs or fork the project.",116,4,C,minexew,Minexew,User,Czech Republic,49.81749199999999,15.472961999999999,,Czechia,7466.5
+Leandros/WindowsHModular,WindowsHModular,A modular Windows.h Header. Licensed under Public Domain & MIT.,116,5,C,Leandros,Arvid Gerstmann,User,"Hamburg, Germany",,,,,7466.5
+joric/ts100tris,ts100tris,Tetris for TS100 soldering iron (and a few feature branches),115,3,C,joric,,User,,,,,,7532.5
+xmrMiner/xmrMiner,xmrMiner,:ant: A CUDA based miner for Monero,115,55,C,xmrMiner,,Organization,,,,,,7532.5
+zhaojh329/wifi-portal,wifi-portal,wifi-portal is an very efficient captive portal solution for wireless router which with embeded linux(LEDE/Openwrt) system and it's using the Lua language.,114,8,C,zhaojh329,Jianhui Zhao,User,ChengDu China,30.572815000000002,104.066801,Chengdu,China,7593.5
+ocornut/imgui_club,imgui_club,Nice things to use along dear imgui,114,16,C,ocornut,omar,User,"Paris, London, Kyoto",48.8459505,2.2851154,Paris,France,7593.5
+dmlc/dlpack,dlpack,RFC for common in-memory tensor structure and operator interface for deep learning system,114,15,C,dmlc,Distributed (Deep) Machine Learning Community,Organization,,,,,,7593.5
+eterrao/ScreenRecorder,ScreenRecorder,"A demo of Android screen recorder, no root but SDK version should more than Android 5.0 API 21.",114,45,C,eterrao,Codios,User,"Beijing,China",39.90419989999999,116.4073963,Beijing,China,7593.5
+travisgoodspeed/goodwatch,goodwatch,Designing myself a good watch.,113,9,C,travisgoodspeed,Travis Goodspeed,User,,,,,,7670.5
+KunTengRom/kunteng-lede-17.01.4,kunteng-lede-17.01.4,或许是大中华区编译最快的LEDE 17.01.4开发环境,113,17,C,KunTengRom,KunTeng Cooperation,Organization,127.0.0.1,,,,,7670.5
+google/kmsan,kmsan,"KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel",113,13,C,google,Google,Organization,,,,,,7670.5
+hsoft/icemu,icemu,Emulate Integrated Circuits at the logic level,113,6,C,hsoft,Virgil Dupras,User,"Québec, Canada",46.8138783,-71.2079809,Québec City,Canada,7670.5
+layumi/2016_person_re-ID,2016_person_re-ID,TOMM20
