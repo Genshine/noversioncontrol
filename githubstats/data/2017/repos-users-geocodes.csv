@@ -6231,4 +6231,129 @@ doitsujin/dxvk,dxvk,Vulkan-based D3D11 implementation for Linux / Wine,105,3,C++
 roachspray/opcde2017,opcde2017,Slides and very basic examples,105,19,C++,roachspray,Andrew R. Reiter,User,,,,,,8277.5
 ivildeed/vmw_vmx_overloader,vmw_vmx_overloader,Loading unsigned code into kernel in Windows 10 (64) with help of VMware Workstation Pro/Player design flaw,104,29,C++,ivildeed,,User,,,,,,8366.5
 Intel-Media-SDK/MediaSDK,MediaSDK,,104,45,C++,Intel-Media-SDK,,Organization,"Hillsboro, OR",,,,,8366.5
-google/functionsimsearch,functionsimsearch,Some C++ example code to demonstra
+google/functionsimsearch,functionsimsearch,Some C++ example code to demonstrate how to perform code similarity searches using SimHashing.,104,18,C++,google,Google,Organization,,,,,,8366.5
+goldsborough/clang-expand,clang-expand,:dragon: A clang tool for happy refactoring without source-code gymnastics,104,1,C++,goldsborough,Peter Goldsborough,User,"Menlo Park, CA",37.4529598,-122.1817252,Menlo Park,United States,8366.5
+acdemiralp/gl,gl,C++11 Wrapper for OpenGL 4.6 Core Profile.,103,6,C++,acdemiralp,Ali Can Demiralp,User,Aachen,50.7753455,6.083886800000001,Aachen,Germany,8444.0
+wapiflapi/veles,veles,Visual reverse engineering tool.,102,10,C++,wapiflapi,Wannes Rombouts,User,France,46.227638,2.213749,,France,8520.0
+JochenBaier/fastwindowswitcher,fastwindowswitcher,A fast window switcher for Windows using the keyboard.,102,9,C++,JochenBaier,Jochen Baier,User,,,,,,8520.0
+vit9696/WhateverGreen,WhateverGreen,Various patches necessary for certain ATI/AMD GPUs,102,15,C++,vit9696,,User,,,,,,8520.0
+CrimsonAS/gtkplatform,gtkplatform,Run Qt applications using gtk+ as a windowing system.,101,7,C++,CrimsonAS,Crimson AS,Organization,Norway & Everywhere.,,,,,8590.0
+programmerjake/vulkan-cpu,vulkan-cpu,work-in-progress for Vulkan implementation on cpu,101,1,C++,programmerjake,Jacob Lifshay,User,,,,,,8590.0
+ALSchwalm/dwarfexport,dwarfexport,Export dwarf debug information from IDA Pro,101,19,C++,ALSchwalm,Adam Schwalm,User,"Huntsville, AL",34.730368799999994,-86.5861037,Huntsville,United States,8590.0
+ucsb-seclab/difuze,difuze,Fuzzer for Linux Kernel Drivers,101,33,C++,ucsb-seclab,seclab,Organization,Santa Barbara,,,,,8590.0
+magnificus/Procedural-Cities,Procedural-Cities,master thesis,100,18,C++,magnificus,Tobias Elinder,User,"Lund, Sweden",55.704660100000005,13.1910073,Lund,Sweden,8660.0
+silverf0x/RpcView,RpcView,,100,21,C++,silverf0x,,User,,,,,,8660.0
+google-ar/arcore-unreal-sdk,arcore-unreal-sdk,Google AR SDK for Unreal,100,33,C++,google-ar,Google AR,Organization,,,,,,8660.0
+apple/darwin-xnu,darwin-xnu,The Darwin Kernel (mirror),5931,794,C,apple,Apple,Organization,"Cupertino, CA",37.322997799999996,-122.03218229999999,Cupertino,United States,59.0
+Tencent/wcdb,wcdb,WCDB is a cross-platform database framework developed by WeChat.,4594,568,C,Tencent,Tencent,Organization,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,86.0
+reactos/reactos,reactos,A free Windows-compatible Operating System,3004,161,C,reactos,ReactOS,Organization,,,,,,179.0
+marcobambini/gravity,gravity,Gravity Programming Language,2306,91,C,marcobambini,Marco Bambini,User,Italy,,,,,268.0
+taviso/loadlibrary,loadlibrary,Porting Windows Dynamic Link Libraries to Linux,2263,145,C,taviso,Tavis Ormandy,User,,,,,,279.0
+spacehuhn/esp8266_deauther,esp8266_deauther,ESP8266 deauther,2171,571,C,spacehuhn,Stefan Kremser,User,Germany,,,,,294.5
+seclab-ucr/INTANG,INTANG,,2111,494,C,seclab-ucr,UCR Security Lab,User,,,,,,312.0
+vanhoefm/krackattacks-scripts,krackattacks-scripts,,2084,488,C,vanhoefm,,User,,,,,,316.0
+Meituan-Dianping/SQLAdvisor,SQLAdvisor,输入SQL，输出索引优化建议,2031,458,C,Meituan-Dianping,美团点评,Organization,中国,35.86166,104.195397,,China,330.0
+cstack/db_tutorial,db_tutorial,Writing a sqlite clone from scratch in C,1539,89,C,cstack,Connor Stack,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,470.0
+dekuNukem/Nintendo_Switch_Reverse_Engineering,Nintendo_Switch_Reverse_Engineering,A look at inner workings of Joycon and Nintendo Switch,1349,51,C,dekuNukem,,User,,,,,,557.0
+diracdeltas/FastestWebsiteEver,FastestWebsiteEver,ultrafast single TCP packet audio/visual experience,1228,77,C,diracdeltas,yan,User,SF usually,,,,,616.5
+nginx/unit,unit,An official read-only mirror of http://hg.nginx.org/unit/,1225,73,C,nginx,nginx,Organization,,,,,,621.0
+F-Stack/f-stack,f-stack,"F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.",1217,236,C,F-Stack,,Organization,,,,,,629.5
+SecWiki/linux-kernel-exploits,linux-kernel-exploits,linux-kernel-exploits Linux平台提权漏洞集合,1139,453,C,SecWiki,SecWiki,Organization,,,,,,692.5
+SecWiki/windows-kernel-exploits,windows-kernel-exploits,windows-kernel-exploits   Windows平台提权漏洞集合,1136,525,C,SecWiki,SecWiki,Organization,,,,,,696.5
+cr-marcstevens/sha1collisiondetection,sha1collisiondetection,Library and command line tool to detect SHA-1 collision in a file,945,90,C,cr-marcstevens,Marc Stevens,User,"Amsterdam, The Netherlands",52.3702157,4.8951679000000015,Amsterdam,Netherlands,842.0
+node-on-mobile/node-on-android,node-on-android,Make Node.JS apps for Android,800,46,C,node-on-mobile,Node on Mobile,Organization,,,,,,994.5
+ValdikSS/GoodbyeDPI,GoodbyeDPI,GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows),791,84,C,ValdikSS,ValdikSS,User,Russia,61.52401,105.31875600000001,,Russia,1007.0
+Cisco-Talos/pyrebox,pyrebox,"Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU",786,122,C,Cisco-Talos,Cisco Talos,Organization,,,,,,1018.0
+Cybellum/DoubleAgent,DoubleAgent,Zero-Day Code Injection and Persistence Technique,751,259,C,Cybellum,Cybellum,Organization,"Tel Aviv, Israel",32.0852999,34.78176759999999,Tel Aviv-Yafo,Israel,1083.5
+zeffy/wufuc,wufuc,"Disables the 'Unsupported Hardware' message in Windows Update, and allows you to continue installing updates on Windows 7 and 8.1 systems with Intel Kaby Lake, AMD Ryzen, or other unsupported processors.",725,98,C,zeffy,,User,wuaueng.dll,,,,,1150.0
+alibaba/AliOS-Things,AliOS-Things,AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT). ,724,217,C,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,1154.0
+alibaba/ApsaraCache,ApsaraCache,ApsaraCache is a Redis branch originated from Alibaba Group. ,694,103,C,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,1205.0
+gentilkiwi/wanakiwi,wanakiwi,Automated wanadecrypt with key recovery if lucky,693,180,C,gentilkiwi,Benjamin DELPY,User,France,46.227638,2.213749,,France,1208.0
+bloomberg/comdb2,comdb2,Bloomberg's distributed RDBMS,687,75,C,bloomberg,Bloomberg,Organization,"New York, NY",,,,,1224.0
+DhavalKapil/heap-exploitation,heap-exploitation,This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure. ,686,54,C,DhavalKapil,Dhaval Kapil,User,"Atlanta, GA",33.7489954,-84.3879824,Atlanta,United States,1227.0
+Morgan-Stanley/hobbes,hobbes,A language and an embedded JIT compiler,665,39,C,Morgan-Stanley,,Organization,,,,,,1274.5
+okbob/pspg,pspg,Postgres Pager,604,27,C,okbob,Pavel Stehule,User,,,,,,1394.0
+viabtc/viabtc_exchange_server,viabtc_exchange_server,A trading engine with high-speed performance and real-time notification,592,378,C,viabtc,ViaBTC,Organization,China,,,,,1424.0
+nmikhailov/Validity90,Validity90,Reverse engineering of Validity/Synaptics 138a:009X fingerprint reader protocol,574,25,C,nmikhailov,Nikita Mikhailov,User,,,,,,1462.5
+nesbox/TIC-80,TIC-80,"TIC-80 is a fantasy computer for making, playing and sharing tiny games.",568,50,C,nesbox,Vadim Grigoruk,User,"Brest, Belarus",52.09762139999999,23.7340503,Brest,Belarus,1479.5
+iqiyi/dpvs,dpvs,DPVS is a high performance Layer-4 load balancer based on DPDK.,558,148,C,iqiyi,iQIYI,Organization,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,1504.5
+Microsoft/ProcDump-for-Linux,ProcDump-for-Linux,A Linux version of the ProcDump Sysinternals tool,558,49,C,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,1504.5
+unamer/vmware_escape,vmware_escape,VMware Escape Exploit before VMware WorkStation 12.5.5,553,293,C,unamer,nonick,User,C:\Windows\,,,,,1522.5
+kovidgoyal/html5-parser,html5-parser,Fast C based HTML 5 parsing for python,540,13,C,kovidgoyal,Kovid Goyal,User,"Mumbai, India",19.0759837,72.87765590000001,Mumbai,India,1557.5
+vozlt/nginx-module-sysguard,nginx-module-sysguard,Nginx sysguard module,539,16,C,vozlt,YoungJoo.Kim,User,"Seoul, Korea",,,,,1562.0
+CCareaga/heap_allocator,heap_allocator,A simple heap memory allocator in ~200 lines.,532,32,C,CCareaga,Chris Careaga,User,Western Washington University,,,,,1582.5
+zserge/webview,webview,Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows),520,35,C,zserge,Serge Zaitsev,User,Ukraine,48.379433,31.1655799,,Ukraine,1612.5
+vvanders/wasm_lua,wasm_lua,Lua VM running in a WASM environment,503,22,C,vvanders,Val V,User,"Washington, USA",,,,,1673.0
+gnif/LookingGlass,LookingGlass,An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.,496,23,C,gnif,Geoffrey McRae,User,"Australia, NSW",-31.2532183,146.921099,,Australia,1703.0
+coolsnowwolf/lede,lede,Lean's lede source,496,289,C,coolsnowwolf,,User,,,,,,1703.0
+systemd/casync,casync,Content-Addressable Data Synchronization Tool,483,46,C,systemd,systemd,Organization,,,,,,1760.0
+Meituan-Dianping/MyFlash,MyFlash,flashback mysql data to any point,471,97,C,Meituan-Dianping,美团点评,Organization,中国,35.86166,104.195397,,China,1796.0
+govolution/avet,avet,AntiVirus Evasion Tool,468,156,C,govolution,,User,,,,,,1812.5
+dcodeIO/webassembly,webassembly,A minimal toolkit and runtime to produce and run WebAssembly modules.,451,17,C,dcodeIO,Daniel Wirtz,User,The web / Germany,48.5865257,9.4457706,Owen,Germany,1878.0
+carld/micro-lisp,micro-lisp,"🎄A very small Lisp programming language, in under 200 lines of C🎄",439,32,C,carld,Carl Douglas,User,,,,,,1931.0
+lmatteis/torrent-net,torrent-net,Distributed search engines using BitTorrent and SQLite,436,25,C,lmatteis,Luca Matteis,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,1943.0
+lemon-lang/lemon,lemon,"Lemon is open source, embeddable, lightweight programming language http://www.lemon-lang.org",426,26,C,lemon-lang,,Organization,,,,,,1991.0
+spacehuhn/wifi_ducky,wifi_ducky,"Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4",417,95,C,spacehuhn,Stefan Kremser,User,Germany,,,,,2033.5
+intel/haxm,haxm,Intel® Hardware Accelerated Execution Manager (Intel® HAXM),412,61,C,intel,Intel Corporation,Organization,,,,,,2053.5
+MarilynDafa/Bulllord-Engine,Bulllord-Engine,lightspeed lightweight elegant  game engine in pure c,410,6,C,MarilynDafa,MarilynDafa,User,,,,,,2064.5
+commaai/panda,panda,code powering the comma.ai panda,389,121,C,commaai,,Organization,,,,,,2175.0
+brendan-rius/c-jwt-cracker,c-jwt-cracker,JWT brute force cracker written in C,388,30,C,brendan-rius,Brendan Rius,User,"Paris, France",,,,,2183.5
+symisc/ascii_art,ascii_art,Real-Time ASCII Art Rendering Library,387,45,C,symisc,Symisc Systems,User,,,,,,2192.0
+Dunedan/mbp-2016-linux,mbp-2016-linux,State of Linux on the MacBook Pro 2016,385,21,C,Dunedan,Daniel Roschka,User,Hamburg,,,,,2203.0
+hellerve/e,e,A dead simple editor,375,15,C,hellerve,Veit Heller,User,Berlin,,,,,2266.5
+spencerdodd/kernelpop,kernelpop,kernel privilege escalation enumeration and exploitation framework,375,77,C,spencerdodd,spencerdodd,User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,2266.5
+s0lst1c3/eaphammer,eaphammer,Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.,364,70,C,s0lst1c3,Gabriel Ryan,User,"New York, New York",36.102371500000004,-115.17455590000002,Las Vegas,United States,2331.5
+Qihoo360/mysql-sniffer,mysql-sniffer,"mysql-sniffer is a network traffic analyzer tool for mysql, it is developed by Qihoo DBA and infrastructure team",359,122,C,Qihoo360,Qihoo 360,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,2359.5
+mjg59/mei-amt-check,mei-amt-check,Check whether AMT is enabled and provisioned under Linux,337,26,C,mjg59,Matthew Garrett,User,Oakland,37.8043637,-122.27111370000002,Oakland,United States,2526.0
+InsomniacGames/ig-cachesim,ig-cachesim,,329,25,C,InsomniacGames,Insomniac Games,User,,,,,,2586.0
+youzan/zan,zan,高效稳定、安全易用、线上实时验证的全异步高性能网络库，通过PHP扩展方式使用。,322,51,C,youzan,有赞,Organization,杭州,30.274084999999996,120.15507,Hangzhou,China,2650.0
+aws/amazon-freertos,amazon-freertos,Cloud-native IoT operating system for microcontrollers. ,311,66,C,aws,Amazon Web Services,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,2740.5
+FireyFly/pixd,pixd,Colourful visualization tool for binary files,309,17,C,FireyFly,Jonas,User,Sweden,,,,,2761.5
+illinoisjackson/even-better-ls,even-better-ls,LS + Icons + Formatting,294,14,C,illinoisjackson,,User,,,,,,2886.5
+chuan-yun/Molten,Molten,php probe for zipkin and opentracing,291,55,C,chuan-yun,ChuanYun,Organization,,,,,,2915.0
+SciresM/boot9strap,boot9strap,Boot9/Boot11 code execution.,291,36,C,SciresM,,User,,,,,,2915.0
+liudf0716/xkcptun,xkcptun,"xkcptun is kcp tunnel for OpenWRT&LEDE, implemented in c language",291,62,C,liudf0716,Dengfeng Liu,User,127.0.0.1,,,,,2915.0
+fdiskyou/injectAllTheThings,injectAllTheThings,Seven different DLL injection techniques in one single project.,289,90,C,fdiskyou,,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,2931.0
+flang-compiler/flang,flang,,287,33,C,flang-compiler,,Organization,,,,,,2951.0
+vusec/revanc,revanc,Reverse Engineering Page Table Caches in Your Processor,285,45,C,vusec,VUSec,Organization,,,,,,2972.0
+devio/Walruss,Walruss,PC-Wahl 10 Hacking Tools,282,23,C,devio,Thorsten Schröder,User,Hamburg,53.5510846,9.9936819,Hamburg,Germany,3011.0
+nategri/nematoduino,nematoduino,Arduino UNO-compatible robotic simulation of the C. elegans nematode,281,28,C,nategri,Nathan Griffith,User,Silicon Valley,37.387474,-122.05754340000001,,United States,3024.5
+f0rb1dd3n/Reptile,Reptile,LKM Linux rootkit,279,67,C,f0rb1dd3n,Ighor Augusto,User,,,,,,3045.5
+openzfsonwindows/ZFSin,ZFSin,OpenZFS ports,272,11,C,openzfsonwindows,,Organization,,,,,,3112.0
+tomwimmenhove/subarufobrob,subarufobrob,Hijack a Subaru's key fob and steal all the things,271,57,C,tomwimmenhove,Tom Wimmenhove,User,,,,,,3126.5
+emmericp/ixy,ixy,Simple userspace packet processing for educational purposes 🎓,268,17,C,emmericp,Paul Emmerich,User,"Munich, Germany",48.1351253,11.581980499999998,Munich,Germany,3167.0
+skeeto/enchive,enchive,Encrypted personal archives,266,13,C,skeeto,Christopher Wellons,User,Maryland,39.0457549,-76.64127119999998,,United States,3191.5
+cameronswinoga/yabfc,yabfc,Yet Another Brainfuck Compiler; No dependencies and from the ground up,264,16,C,cameronswinoga,Cameron Swinoga,User,"Oakville, Ontario",,,,,3215.5
+skeeto/branchless-utf8,branchless-utf8,Branchless UTF-8 decoder,263,17,C,skeeto,Christopher Wellons,User,Maryland,39.0457549,-76.64127119999998,,United States,3225.5
+fireeye/rvmi,rvmi,rVMI - A New Paradigm For Full System Analysis,262,33,C,fireeye,FireEye,Organization,"Milpitas, CA",37.4323341,-121.8995741,Milpitas,United States,3233.5
+NoiseByNorthwest/php-spx,php-spx,A simple & straight-to-the-point PHP profiling extension,261,10,C,NoiseByNorthwest,,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,3241.0
+jmpews/HookZz,HookZz,a hook framwork for arm/arm64/ios/android,260,71,C,jmpews,jmpews,User,,,,,,3251.0
+TheOfficialFloW/Adrenaline,Adrenaline,Custom Firmware 6.61 Adrenaline for 3.60 HENkaku,256,35,C,TheOfficialFloW,,User,,,,,,3308.5
+antirez/rax,rax,A radix tree implementation in ANSI C,255,23,C,antirez,Salvatore Sanfilippo,User,"Campobello di Licata, Sicily, Italy",37.2588435,13.917697,Campobello di Licata,Italy,3324.0
+EmmyLua/IntelliJ-EmmyLua,IntelliJ-EmmyLua,Lua IDE/Debugger Plugin for IntelliJ IDEA,252,55,C,EmmyLua,IntelliJ-EmmyLua,Organization,,,,,,3361.0
+jiangwenyuan/nuster,nuster,A web caching proxy server based on HAProxy,248,15,C,jiangwenyuan,,User,,,,,,3402.5
+copperhead/linux-hardened,linux-hardened,Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Changes from PaX/grsecurity are marked as such. IRC: irc.freenode.net ##linux-hardened,244,19,C,copperhead,Copperhead,Organization,"Toronto, Ontario, Canada",,,,,3462.5
+samdenty99/Wi-PWN,Wi-PWN,ESP8266 Deauther ​with advanced features and material interface ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​   ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​  ,243,69,C,samdenty99,Sam Denty,User,United Kingdom,,,,,3477.5
+k0kubun/llrb,llrb,LLVM-based JIT Compiler for Ruby,242,3,C,k0kubun,Takashi Kokubun,User,"Tokyo, Japan",,,,,3494.5
+IAIK/CJAG,CJAG,CJAG is an open-source implementation of our cache-based jamming agreement.,239,20,C,IAIK,Institute of Applied Information Processing and Communications (IAIK),Organization,,,,,,3547.5
+shadowsocksr-backup/shadowsocksr-libev,shadowsocksr-libev,libev port of ShadowsocksR,232,582,C,shadowsocksr-backup,,Organization,,,,,,3667.0
+soveran/clac,clac,"A command line, stack-based calculator with postfix notation",230,14,C,soveran,Michel Martens,User,,,,,,3702.0
+shadow-1/yi-hack-v3,yi-hack-v3,Alternative Firmware for Xiaomi Cameras based on Hi3518e Chipset,230,31,C,shadow-1,,User,,,,,,3702.0
+781015928/BlurLib,BlurLib,Jni高斯模糊,228,3,C,781015928,czg,User,,,,,,3737.5
+PipeWire/pipewire,pipewire,Multimedia processing graphs,228,25,C,PipeWire,PipeWire,Organization,,,,,,3737.5
+OLIMEX/DIY-LAPTOP,DIY-LAPTOP,Do It Yourself Open Source Hardware and Software Modular Hacker's Friendly Laptop,228,27,C,OLIMEX,OLIMEX LTD BULGARIA,Organization,Bulgaria,,,,,3737.5
+zhaojh329/evmongoose,evmongoose,"Evmongoose is an asynchronous, event(libev) based multi-protocol embedded networking library with functions including TCP, HTTP, WebSocket, MQTT and much more. It's based on mongoose and libev implementation and it's support Lua API.",226,32,C,zhaojh329,Jianhui Zhao,User,ChengDu China,30.572815000000002,104.066801,Chengdu,China,3770.5
+ufoym/RecursiveBF,RecursiveBF,"A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. 'Recursive bilateral filtering'. European Conference on Computer Vision, 2012].",225,29,C,ufoym,Ming,User,"Guangzhou, China",,,,,3788.0
+lowlevel86/3D-Game-Programming,3D-Game-Programming,3D using bitblting in Windows.,221,15,C,lowlevel86,C Mogged,User,,,,,,3854.5
+networkprotocol/reliable.io,reliable.io,A simple reliability layer for UDP-based protocols,221,22,C,networkprotocol,The Network Protocol Company,Organization,"Santa Monica, CA",34.01945429999999,-118.4911912,Santa Monica,United States,3854.5
+fstpackage/fst,fst,Lightning Fast Serialization of Data Frames for R,221,21,C,fstpackage,fst package,User,Netherlands,52.132633,5.2912659999999985,,Netherlands,3854.5
+HaJaeKyung/KittyExtension,KittyExtension,Fan add-on for https://www.cryptokitties.co,219,98,C,HaJaeKyung,Ha Jae Kyung,User,South Korea ✈️ USA,34.056790500000005,-118.2728487,Los Angeles,United States,3893.0
+QuickBox/QB,QB,"QuickBox is much more than a ‘seedbox installer script’, it is a simplistic approach to achieving easy seedbox and services management from a beautifully designed dashboard. Allowing users the ability to interact with their seedbox and server on a professional grade level.",218,69,C,QuickBox,QuickBox.io,Organization,,,,,,3911.0
+miloyip/light2d,light2d,Light rendering in 2D,217,33,C,miloyip,Milo Yip,User,"Hong Kong, China",22.396428,114.10949699999999,,Hong Kong,3925.5
+kanflo/opendps,opendps,Give your DPS5005 the upgrade it deserves,216,23,C,kanflo,Johan Kanflo,User,,,,,,3944.0
+nurupo/rootkit,rootkit,"Linux rootkit for Ubuntu 16.04 and 10.04 (Linux Kernels 4.4.0 and 2.6.32), both i386 and amd64",216,47,C,nurupo,,User,nurupo at irc://chat.freenode.net,,,,,3944.0
+WireGuard/WireGuard,WireGuard,Read-only mirror of https://git.zx2c4.com/WireGuard - https://www.wireguard.com/ . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes is via the mailing list; see https://lists.zx2c4.com/mailman/listinfo/wireguard .,215,17,C,WireGuard,WireGuard,Organization,,,,,,3967.0
+hfiref0x/UPGDSED,UPGDSED,Universal PatchGuard and Driver Signature Enforcement Disable,215,87,C,hfiref0x,,User,,,,,,3967.0
+zdevito/ATen,ATen,ATen: A TENsor library for C++11,214,45,C,zdevito,Zachary DeVito,User,,,,,,3988.5
+pygame/pygame,pygame,pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library.,211,35,C,pygame,pygame,Organization,Internet,,,,,4046.0
+mologie/NVWebDriverLibValFix,NVWebDriverLibValFix,Fixes the NVIDIA web driver's blank window issue on macOS Sierra with a small and safe kernel patch,210,15,C,mologie,Oliver Kuckertz,User,Germany
