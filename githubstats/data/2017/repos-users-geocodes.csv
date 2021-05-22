@@ -6110,4 +6110,125 @@ Thuva4/Algorithms,Algorithms,Collection of algorithms in multiple programming la
 sidoh/esp8266_milight_hub,esp8266_milight_hub,Replacement for a Milight/LimitlessLED hub hosted on an ESP8266,166,41,C++,sidoh,Chris Mullins,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,5180.5
 secrary/InfectPE,InfectPE,InfectPE - Inject custom code into PE file,166,67,C++,secrary,Lasha Khasaia,User,https://keybase.io/khasaia,,,,,5180.5
 newsboat/newsboat,newsboat,An RSS/Atom feed reader for text terminals,165,17,C++,newsboat,,Organization,,,,,,5211.0
-Q
+Qihoo360/zendAPI,zendAPI,The C++ wrapper of zend engine,165,22,C++,Qihoo360,Qihoo 360,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,5211.0
+xuningjack/apikeylib,apikeylib,Generating sign when access the Internet. (访问网络时签名的生成) ,165,26,C++,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,5211.0
+fireice-uk/xmr-stak-amd,xmr-stak-amd,Monero AMD miner,164,115,C++,fireice-uk,,User,,,,,,5245.0
+ucsb-seclab/dr_checker,dr_checker,DR.CHECKER : A Soundy Vulnerability Detection Tool for Linux Kernel Drivers,163,35,C++,ucsb-seclab,seclab,Organization,Santa Barbara,,,,,5276.5
+MrBuddyCasino/ESP32_MP3_Decoder,ESP32_MP3_Decoder,A internet radio and bluetooth speaker project for the Espressif ESP32,163,45,C++,MrBuddyCasino,Michael Böckling,User,"Munich, Germany",,,,,5276.5
+xmrig/xmrig-nvidia,xmrig-nvidia,Monero (XMR) NVIDIA miner,162,57,C++,xmrig,,User,,,,,,5308.0
+Jomes/sand,sand,Using JNI to achieve Sobel operator image edge detection使用JNI实现Sobel算子图像边缘检测 https://github.com/Jomes/sand,160,34,C++,Jomes,Jomeslu,User,Beijing city Zhongguancun Sohu media building,39.9813947,116.3282654,,China,5371.0
+QuantStack/xeus-cling,xeus-cling,Jupyter Kernel for C++ based on xeus and cling,159,11,C++,QuantStack,,Organization,,,,,,5406.5
+lmb-freiburg/demon,demon,DeMoN: Depth and Motion Network,159,56,C++,lmb-freiburg,"Computer Vision Group, Albert-Ludwigs-Universität Freiburg",Organization,"Freiburg, Germany",,,,,5406.5
+werkamsus/Lilith,Lilith,"Lilith, The Open Source C++ Remote Administration Tool (RAT)",159,48,C++,werkamsus,Nick Raziborsky,User,Bavaria,48.7904472,11.497889500000001,,Germany,5406.5
+GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator,VulkanMemoryAllocator,Easy to integrate Vulkan memory allocation library,158,17,C++,GPUOpen-LibrariesAndSDKs,GPUOpen Libraries & SDKs,Organization,,,,,,5442.0
+warmspringwinds/pytorch-cpp,pytorch-cpp,Pytorch C++ Library,158,22,C++,warmspringwinds,Daniil Pakhomov,User,,,,,,5442.0
+ebruneton/precomputed_atmospheric_scattering,precomputed_atmospheric_scattering,This project provides a new implementation of our EGSR 2008 paper 'Precomputed Atmospheric Scattering',158,18,C++,ebruneton,,User,,,,,,5442.0
+pippy360/transformationInvariantImageSearch,transformationInvariantImageSearch,A reverse image search algorithm which performs 2D affine transformation-invariant partial image-matching in sublinear time,157,20,C++,pippy360,Tom Murphy,User,"Dublin, Ireland",,,,,5481.0
+nfrechette/acl,acl,Animation Compression Library,154,8,C++,nfrechette,Nicholas Frechette,User,Canada,56.130366,-106.34677099999999,,Canada,5589.5
+lumpyzhu/ustd,ustd,thinking rust in C++,153,17,C++,lumpyzhu,lumpyzhu,User,"Shenyang, China",,,,,5622.5
+lupoDharkael/flameshot,flameshot,Powerful yet simple to use screenshot software,152,15,C++,lupoDharkael,Dharkael,User,,,,,,5657.0
+baidu-research/tensorflow-allreduce,tensorflow-allreduce,,152,29,C++,baidu-research,,Organization,,,,,,5657.0
+SOUI2/soui,soui,DirectUI,151,66,C++,SOUI2,soui,Organization,China,35.86166,104.195397,,China,5699.5
+bee13oy/AV_Kernel_Vulns,AV_Kernel_Vulns,Pocs for Antivirus Software‘s Kernel Vulnerabilities,150,42,C++,bee13oy,bee13oy,User,,,,,,5743.5
+idea4good/GuiLite,GuiLite,"UI framework is nothing more than 6,000 lines code",150,40,C++,idea4good,,User,,,,,,5743.5
+vmware/chap,chap,"chap analyzes un-instrumented core files for leaks, memory growth, and corruption",150,13,C++,vmware,VMware ,Organization,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,5743.5
+jackullrich/ShellcodeStdio,ShellcodeStdio,An extensible framework for easily writing compiler optimized position independent x86 shellcode for windows platforms.,149,36,C++,jackullrich,Jack Ullrich,User,,,,,,5787.0
+epfml/sent2vec,sent2vec,General purpose unsupervised sentence representations ,148,37,C++,epfml,EPFL Machine Learning and Optimization Laboratory,Organization,"Lausanne, Switzerland",,,,,5827.5
+OAID/CaffeOnACL,CaffeOnACL,"Using ARM Compute Library (NEON+GPU) to speed up caffe; Providing utilities to debug, profile and tune application performance",147,62,C++,OAID,OAID,Organization,,,,,,5872.0
+lrz/mono-wasm,mono-wasm,,147,7,C++,lrz,Laurent Sansonetti,User,Belgium,50.503887,4.469936,,Belgium,5872.0
+leohotfn/Reuzel,Reuzel,A tiny C++ thread pool,147,38,C++,leohotfn,Jiawei Feng,User,China,,,,,5872.0
+JezaChen/Data-Stucture-Libraries,Data-Stucture-Libraries,Data-Structure Exercises,147,0,C++,JezaChen,Chen Jianzhang,User,"South China University of China, Guangzhou, China",23.151326,113.344683,Guangzhou Shi,China,5872.0
+mfosse/JoyCon-Driver,JoyCon-Driver,A vJoy feeder for the Nintendo Switch JoyCons,146,25,C++,mfosse,Matthew Fosse,User,"Orlando, Florida",28.5383355,-81.3792365,Orlando,United States,5920.0
+mangoszero/server,server,Mangos ZERO is a server for World of Warcraft. The server serves full world content including authentication & scripts support. Compatible with World of Warcraft clients 1.12.1-1.12.3 - Report all issues at https://www.getmangos.eu/bug-tracker/mangos-zero/,146,95,C++,mangoszero,MaNGOS Zero,Organization,US/Europe,,,,,5920.0
+TatsuyaShirakawa/poincare-embedding,poincare-embedding,Poincaré Embedding,146,16,C++,TatsuyaShirakawa,Tatsuya Shirakawa,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,5920.0
+YugaByte/yugabyte-db,yugabyte-db,"YugaByte Database, Community Edition",146,14,C++,YugaByte,yugabyte,Organization,"Sunnyvale, CA",37.368829999999996,-122.03634960000001,Sunnyvale,United States,5920.0
+mbbill/JSC.js,JSC.js,JavaScriptCore on WebAssembly,145,3,C++,mbbill,"Ming, Bai",User,BJ,9.30769,2.315834,,Benin,5968.0
+unity3d-jp/NormalPainter,NormalPainter,vertex normal editor for Unity,145,12,C++,unity3d-jp,Unity Technologies Japan,Organization,Tokyo,35.6894875,139.69170640000002,Tokyo,Japan,5968.0
+facebookresearch/House3D,House3D,a Realistic and Rich 3D Environment,145,17,C++,facebookresearch,,Organization,,,,,,5968.0
+martinruenz/co-fusion,co-fusion,"Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects",144,53,C++,martinruenz,Martin Rünz,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,6016.0
+MortenSchenk/BHUSA2017,BHUSA2017,Content from presentation at BHUSA 2017,143,44,C++,MortenSchenk,,User,,,,,,6066.5
+TheTriones/Megrez,Megrez,A data serialize tool.,143,3,C++,TheTriones,Triones,Organization,,,,,,6066.5
+Professor-plum/Reflective-Driver-Loader,Reflective-Driver-Loader,,142,63,C++,Professor-plum,,User,,,,,,6117.5
+lewissbaker/cppcoro,cppcoro,A library of C++ coroutine abstractions for the coroutines TS,142,16,C++,lewissbaker,Lewis Baker,User,,,,,,6117.5
+garbear/kodi-steamlink,kodi-steamlink,Steam Link port of Kodi,141,7,C++,garbear,Garrett Brown,User,city of angels,34.0522342,-118.24368490000002,Los Angeles,United States,6165.0
+FutunnOpen/FTPluginServer,FTPluginServer,futuquant c++插件源码,141,66,C++,FutunnOpen,,User,"Shenzhen, China",,,,,6165.0
+JezaChen/Algorithms_Exercises,Algorithms_Exercises,算法书籍的一些代码,139,0,C++,JezaChen,Chen Jianzhang,User,"South China University of China, Guangzhou, China",23.151326,113.344683,Guangzhou Shi,China,6256.5
+nodejs/node-addon-api,node-addon-api,,137,25,C++,nodejs,Node.js Foundation,Organization,,,,,,6334.0
+secrary/makin,makin,makin - reveal anti-debugging tricks,137,24,C++,secrary,Lasha Khasaia,User,https://keybase.io/khasaia,,,,,6334.0
+mpark/patterns,patterns,Pattern Matching in C++,136,7,C++,mpark,Michael Park,User,San Francisco,,,,,6376.0
+medooze/media-server,media-server,WebRTC Media Server,136,49,C++,medooze,,Organization,,,,,,6376.0
+hihozhou/php-opencv,php-opencv,PHP extensions for OpenCV,136,22,C++,hihozhou,周海浩,User,,,,,,6376.0
+coddec/Classic-Shell,Classic-Shell,"Original code of Classic Shell (v4.3.1), original author Ivo Beltchev",135,28,C++,coddec,,User,,,,,,6420.5
+ddiakopoulos/tinygizmo,tinygizmo,":triangular_ruler: An immediate mode 3D gimzo (translation, rotation, scale for scene editing) in ~1200 LoC",135,5,C++,ddiakopoulos,Dimitri Diakopoulos,User,"Bay Area, CA",37.8271784,-122.2913078,,United States,6420.5
+JuncoJet/unlimited-landeng-for-win,unlimited-landeng-for-win,无限流量灯，你懂的，我不解释,134,31,C++,JuncoJet,,User,,,,,,6466.0
+mujx/nheko,nheko,Desktop client for the Matrix protocol,134,24,C++,mujx,,User,,,,,,6466.0
+DGA-MI-SSI/YaCo,YaCo,"YaCo is an Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.",134,17,C++,DGA-MI-SSI,DGA/MI SSI,Organization,,,,,,6466.0
+CLIUtils/CLI11,CLI11,Command line parser for C++11,133,11,C++,CLIUtils,,Organization,,,,,,6507.0
+KleinYuan/Caffe2-iOS,Caffe2-iOS,Caffe2 on iOS Real-time Demo. Test with Your Own Model and Photos.,133,31,C++,KleinYuan,Kaiwen Yuan,User,Canada,,,,,6507.0
+codectile/crappy-esp,crappy-esp,simple esp for Playerunknown's Battlegrounds,132,91,C++,codectile,codectile,User,,,,,,6550.0
+YuvalNirkin/face_swap,face_swap,"End-to-end, automatic face swapping pipeline",131,43,C++,YuvalNirkin,Yuval Nirkin,User,"Tel Aviv, Israel",32.0852999,34.78176759999999,Tel Aviv-Yafo,Israel,6600.0
+arximboldi/ewig,ewig,The eternal text editor — Didactic Ersatz Emacs to show immutable data-structures and the single-atom architecture,131,13,C++,arximboldi,,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,6600.0
+liunian1004/TcpCmdTransfer,TcpCmdTransfer,Qt开发Tcp包转发程序,131,0,C++,liunian1004,system,User,,,,,,6600.0
+LightsHope/server,server,,130,115,C++,LightsHope,Light's Hope,Organization,,,,,,6649.0
+milohr/babe-qt,babe-qt,Babe is now hosted and developed at KDE Phabricator,130,15,C++,milohr,Camilo Higuita,User,"Medellin, Colombia",6.244203,-75.5812119,,Colombia,6649.0
+avast-tl/retdec-idaplugin,retdec-idaplugin,IDA plugin for RetDec.,130,28,C++,avast-tl,Avast Threat Labs,Organization,Czech Republic,49.81749199999999,15.472961999999999,,Czechia,6649.0
+BalazsJako/ImGuiColorTextEdit,ImGuiColorTextEdit,Colorizing text editor for ImGui,129,9,C++,BalazsJako,,User,,,,,,6699.5
+pschlan/cron-job.org,cron-job.org,cron-job.org Open Source project,129,46,C++,pschlan,Patrick Schlangen,User,,,,,,6699.5
+qcoreteam/zendapi,zendapi,The C++ wrapper of zend engine,128,17,C++,qcoreteam,qcoreteam,User,国际电子城总部,,,,,6749.0
+facebookincubator/FBX2glTF,FBX2glTF,A command-line tool for the conversion of 3D model assets on the FBX file format to the glTF file format.,128,12,C++,facebookincubator,Facebook Incubator,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,6749.0
+Erblocker/atulocher,atulocher,人工智能。本来是YRSSF的附属项目，结果越玩越大，现在连逻辑思维都有了。,127,2,C++,Erblocker,Erblocker Studio,Organization,,,,,,6796.5
+ldenoue/pdftojson,pdftojson,"using XPDF, pdftojson extracts text from PDF files as JSON, including word bounding boxes.",126,8,C++,ldenoue,Laurent Denoue,User,"Palo Alto, CA and Verona, Italy",,,,,6850.5
+928675268/alphaquant,alphaquant,AlphaQuant: 股票实盘交易SDK，支持华泰，广发等70多个券商,125,84,C++,928675268,,User,,,,,,6913.5
+yun-liu/rcf,rcf,Richer Convolutional Features for Edge Detection,125,66,C++,yun-liu,,User,,,,,,6913.5
+grishka/libtgvoip,libtgvoip,VoIP library for Telegram clients,125,33,C++,grishka,Gregory K,User,"Saint Petersburg, Russia",,,,,6913.5
+Cararasu/holodec,holodec,Decompiler for x86 and x86-64 ELF binaries,124,10,C++,Cararasu,,User,,,,,,6974.5
+Themaister/Granite,Granite,My personal Vulkan renderer,124,4,C++,Themaister,Hans-Kristian Arntzen,User,"Trondheim, Norway",63.4305149,10.3950528,Trondheim,Norway,6974.5
+yuanzhubi/call_in_stack,call_in_stack,Call a function in a new stack that allocated anywhere. Do not be afraid of stack limit in your coroutines! Try to make your stack shareable between all coroutines!,123,23,C++,yuanzhubi,,User,,,,,,7031.5
+osrf/car_demo,car_demo,,122,58,C++,osrf,Open Source Robotics Foundation,Organization,"Mountain View, CA",37.3860517,-122.08385109999999,Mountain View,United States,7085.5
+GPUOpen-Tools/RGA,RGA,"The Radeon GPU Analyzer (RGA) is a command line utility providing an offline compiler and performance analysis tool for DirectX shaders, OpenGL shaders, Vulkan shaders and OpenCL kernels.",122,6,C++,GPUOpen-Tools,,Organization,,,,,,7085.5
+ZhaofanQiu/pseudo-3d-residual-networks,pseudo-3d-residual-networks,Pseudo-3D Convolutional Residual Networks for Video Representation Learning,122,46,C++,ZhaofanQiu,Zhaofan Qiu,User,,,,,,7085.5
+serge-sans-paille/frozen,frozen,"a header-only, constexpr alternative to gperf for C++14 users",122,11,C++,serge-sans-paille,,User,,,,,,7085.5
+tpys/face-everthing,face-everthing,face detection alignment recognition reconstruction ...,119,43,C++,tpys,Lei Chen,User,,,,,,7265.0
+intelpt/WindowsIntelPT,WindowsIntelPT,This driver implements the Intel Processor Trace functionality in Intel Skylake architecture for Microsoft Windows,118,33,C++,intelpt,,Organization,,,,,,7328.0
+PolygonTek/BlueshiftEngine,BlueshiftEngine,"Blueshift is a cross-platform 3D game engine. it's free, open-source, and works on Windows, macOS, iOS, and Android. The project is currently in an early stage of development.",118,13,C++,PolygonTek,,Organization,,,,,,7328.0
+phaistos-networks/Trinity,Trinity,Trinity IR Infrastructure,117,11,C++,phaistos-networks,Phaistos Networks,Organization,"Crete, Greece",35.240117,24.8092691,,Greece,7392.5
+oun111/zas,zas,"Access MYSQL database with other sql languages(for example, ORACLE's sql)",117,2,C++,oun111,Yuwen Zhou,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,7392.5
+PikachuHy/shadowsocks-client,shadowsocks-client,"If you want to keep a secret, you must also hide it from yourself.",117,16,C++,PikachuHy,大黄老鼠,User,,,,,,7392.5
+gaoxiang12/ORB-YGZ-SLAM,ORB-YGZ-SLAM,,117,76,C++,gaoxiang12,Xiang Gao,User,"Munich, Germany",48.1351253,11.581980499999998,Munich,Germany,7392.5
+dangbo/ncnn-mobile,ncnn-mobile,use ncnn in Android(Android Studio) and iOS,117,41,C++,dangbo,党博,User,ShenZhen.Guangdong.China,22.543096,114.05786499999999,Shenzhen,China,7392.5
+spacehuhn/ArduinoPcap,ArduinoPcap,A library for creating and sending .pcap files for Wireshark and other programms.,116,18,C++,spacehuhn,Stefan Kremser,User,Germany,,,,,7466.5
+matzman666/OpenVR-InputEmulator,OpenVR-InputEmulator,"An OpenVR driver that allows to create virtual controllers, emulate controller input, manipulate poses of existing controllers and remap buttons. A client-side library that communicates with the driver via shared-memory is also included.",116,20,C++,matzman666,,User,,,,,,7466.5
+oun111/myproxy,myproxy,A sharding proxy for MYSQL databases,114,2,C++,oun111,Yuwen Zhou,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,7593.5
+julian-poidevin/MBPMid2010_GPUFix,MBPMid2010_GPUFix,"MBPMid2010_GPUFix is an utility program that allows to fix MacBook Pro (15-inch, Mid 2010) intermittent black screen or loss of video. The algorithm is based on a solution provided by user fabioroberto on MacRumors forums.",114,9,C++,julian-poidevin,Julian Poidevin,User,"Bordeaux, France.",44.837789,-0.57918,Bordeaux,France,7593.5
+nepluno/libWetHair,libWetHair,A Multi-Scale Model for Simulating Liquid-Hair Interactions,114,33,C++,nepluno,Raymond Yun Fei,User,"New York, NY, USA",40.7127753,-74.0059728,New York,United States,7593.5
+google/pawn,pawn,Extract BIOS firmware from Intel-based workstations and laptops,114,25,C++,google,Google,Organization,,,,,,7593.5
+Emanem/nettop,nettop,Utility to show network traffic (both TCP and UDP v4 and v6) split by process and remote host,113,4,C++,Emanem,,User,,,,,,7670.5
+JarveeLee/SynthText_Chinese_version,SynthText_Chinese_version,Modify from https://github.com/ankush-me/SynthText.git to generate chinese character,113,52,C++,JarveeLee,Jarvee Lee,User,,,,,,7670.5
+ymgaq/AQ,AQ,Computer Go Program. Download: http://github.com/ymgaq/AQ/releases,113,28,C++,ymgaq,,User,,,,,,7670.5
+sam-b/windows_kernel_address_leaks,windows_kernel_address_leaks,Examples of leaking Kernel Mode information from User Mode on Windows,112,52,C++,sam-b,Sam Brown,User,UK,55.378051,-3.435973,,United Kingdom,7748.0
+junyanz/light-field-video,light-field-video," Light field video applications (e.g. video refocusing, focus tracking, changing aperture and view) ",112,13,C++,junyanz,Jun-Yan Zhu,User,"Berkeley, CA",37.87159260000001,-122.272747,Berkeley,United States,7748.0
+ErmanSayin/Themely,Themely,A beautiful theme manager for Nintendo 3DS,112,66,C++,ErmanSayin,Erman,User,brussels-capital region,,,,,7748.0
+OAID/YSQfastfd,YSQfastfd,"A fast binary library for face detection and face landmark detection in images.  No float point operations, especially suit for low cost Arm CPUs, The highest accuracy on FDDB among non deep learning methods",111,27,C++,OAID,OAID,Organization,,,,,,7820.0
+veyon/veyon,veyon,Veyon - Free and Open Source computer monitoring and classroom management,111,32,C++,veyon,,Organization,,,,,,7820.0
+bwasti/AICamera,AICamera,Demonstration of using Caffe2 inside an Android application.,111,68,C++,bwasti,Bram Wasti,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,7820.0
+hasherezade/pe-sieve,pe-sieve,a small tool for investigating inline hooks (and other in-memory code patches),111,24,C++,hasherezade,@hasherezade,User,Poland,51.919438,19.145135999999997,,Poland,7820.0
+Yijunmaverick/GenerativeFaceCompletion,GenerativeFaceCompletion,The source code of CVPR17 'Generative Face Completion'.,111,38,C++,Yijunmaverick,Yijun Li,User,USA,,,,,7820.0
+camel007/Caffe-ShuffleNet,Caffe-ShuffleNet,This is re-implementation of 'ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices',110,45,C++,camel007,张垚,User,Xia Men,24.479833,118.089425,Xiamen,China,7898.0
+pplux/px_sched,px_sched,Single Header C++11 Task Scheduler ,110,6,C++,pplux,PpluX,User,,,,,,7898.0
+thedmd/imgui-node-editor,imgui-node-editor,Node Editor using ImGui prototype,110,8,C++,thedmd,Michał Cichoń,User,,,,,,7898.0
+tuananh/camaro,camaro,"camaro is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.",109,6,C++,tuananh,Tuan Anh Tran,User,"Hanoi, Vietnam",,,,,7981.5
+gongminmin/Dilithium,Dilithium,Dilithium is a bidirectional shader converter for converting between DXIL and SPIR-V.,109,8,C++,gongminmin,Minmin Gong,User,"Redmond, WA, US",47.6739881,-122.12151200000001,Redmond,United States,7981.5
+slankdev/cuishark,cuishark,A protocol analyzer like a wireshark on CUI/TUI,108,4,C++,slankdev,Hiroki SHIROKURA,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,8056.0
+qicosmos/iguana,iguana,universal serialization engine,107,19,C++,qicosmos,nanolog,User,,,,,,8118.5
+Helidium/Mitol,Mitol,Lightweight NodeJS http server,107,2,C++,Helidium,Marko Biškup,User,,,,,,8118.5
+samizzo/hexed,hexed,Windows console-based hex editor,106,10,C++,samizzo,Sam Izzo,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia,8187.5
+richkmeli/Richkware,Richkware,"Framework for building Windows malware, written in C++",106,38,C++,richkmeli,Riccardo Melioli,User,"Milan, Italy",45.464203499999996,9.189982,Milan,Italy,8187.5
+yuanfengyun/mj_client,mj_client,纯cocos2d-lua编写的麻将游戏,106,131,C++,yuanfengyun,云哥哥,User,深圳,,,,,8187.5
+libcg/bfp,bfp,Beyond Floating Point - Posit C/C++ implementation,106,9,C++,libcg,Clément Guérin,User,Oakland,37.8043637,-122.27111370000002,Oakland,United States,8187.5
+AnimalLogic/AL_USDMaya,AL_USDMaya,,105,26,C++,AnimalLogic,Animal Logic,Organization,,,,,,8277.5
+otakuto/crazydiskinfo,crazydiskinfo,CrazyDiskInfo is an interactive TUI S.M.A.R.T viewer for Unix systems.,105,4,C++,otakuto,,User,,,,,,8277.5
+doitsujin/dxvk,dxvk,Vulkan-based D3D11 implementation for Linux / Wine,105,3,C++,doitsujin,Philip Rebohle,User,Germany,51.165690999999995,10.451526,,Germany,8277.5
+roachspray/opcde2017,opcde2017,Slides and very basic examples,105,19,C++,roachspray,Andrew R. Reiter,User,,,,,,8277.5
+ivildeed/vmw_vmx_overloader,vmw_vmx_overloader,Loading unsigned code into kernel in Windows 10 (64) with help of VMware Workstation Pro/Player design flaw,104,29,C++,ivildeed,,User,,,,,,8366.5
+Intel-Media-SDK/MediaSDK,MediaSDK,,104,45,C++,Intel-Media-SDK,,Organization,"Hillsboro, OR",,,,,8366.5
+google/functionsimsearch,functionsimsearch,Some C++ example code to demonstra
