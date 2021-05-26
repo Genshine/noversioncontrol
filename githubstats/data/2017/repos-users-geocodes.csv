@@ -6606,4 +6606,123 @@ LineageOS/lineage_wiki,lineage_wiki,,169,209,CSS,LineageOS,LineageOS,Organizatio
 chenjiahan/vodal,vodal,A vue modal with animations.,167,29,CSS,chenjiahan,neverland,User,Hangzhou China,30.274084000000002,120.15507,Hangzhou,China,5151.5
 beeth0ven/RxSwift-Chinese-Documentation,RxSwift-Chinese-Documentation,RxSwift 中文文档,165,13,CSS,beeth0ven,beeth0ven,User,China WuHan,,,,,5211.0
 HackerThemes/theme-machine,theme-machine,A collection of stylized Bootstrap 4 Themes by HackerThemes,162,15,CSS,HackerThemes,HackerThemes,Organization,"Barcelona, Spain",,,,,5308.0
-overdodactyl/ShadowFox,Shado
+overdodactyl/ShadowFox,ShadowFox,A universal dark theme for Firefox,159,8,CSS,overdodactyl,,User,,,,,,5406.5
+stkevintan/hexo-theme-material-flow,hexo-theme-material-flow,Yet Another Material-Design-Style Hexo Theme,157,49,CSS,stkevintan,Kevin Tan,User,China,35.86166,104.195397,,China,5481.0
+nrandecker/particle,particle,A simple portfolio Jekyll theme:,157,347,CSS,nrandecker,Nathan Randecker,User,,,,,,5481.0
+fossasia/meilix-generator,meilix-generator,WebApp for generating ISO image https://meilix-generator.herokuapp.com/,156,20,CSS,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,5517.0
+CoderSavior/CoderSavior.github.io,CoderSavior.github.io,Gaoanze's blog.,155,0,CSS,CoderSavior,,User,,,,,,5552.0
+laizimo/h5-demo,h5-demo,this is my jobs project demo(h5 page),155,0,CSS,laizimo,Lay zimo,User,浙江 杭州,30.274084000000002,120.15507,Hangzhou,China,5552.0
+asciinema/asciicast2gif,asciicast2gif,Generate GIF animations from asciicasts (asciinema recordings),150,13,CSS,asciinema,asciinema,Organization,Terminal & Browser,28.627201,77.279671,New Delhi,India,5743.5
+Eun/ctf.tf,ctf.tf,A database of collected CTFs and their solutions.,148,29,CSS,Eun,Tobias Salzmann,User,Berlin (Germany),52.52000659999999,13.404954,Berlin,Germany,5827.5
+tiagohm/CodeView,CodeView,Android Code Highlighter,146,11,CSS,tiagohm,Tiago,User,"Itajubá - MG, Brazil",,,,,5920.0
+StephenGrider/WebpackCasts,WebpackCasts,Completed Code Examples from Webpack 2: The Complete Developer's Guide,146,105,CSS,StephenGrider,Stephen Grider,User,,,,,,5920.0
+notwaldorf/picasso,picasso,🎨🗓 A pretty Google Calendar theme,145,12,CSS,notwaldorf,Monica Dinculescu,User,Sun Funcisco ☀️,,,,,5968.0
+michaelampr/jam,jam,"Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in both font & svg versions. Licensed under MIT",144,3,CSS,michaelampr,Michael Amprimo,User,,,,,,6016.0
+gozman/chatform,chatform,Form bot for Smooch,143,25,CSS,gozman,Mike Gozzo,User,"Montreal, Quebec, Canada",,,,,6066.5
+EyreFree/EFArticles,EFArticles,EyreFree's articles.,143,21,CSS,EyreFree,EyreFreeᵈᵉᵛ,User,Shanghai,31.230390399999997,121.4737021,Shanghai,China,6066.5
+wesbos/cobalt2-vscode,cobalt2-vscode,Cobalt2 Theme for VS Code,141,43,CSS,wesbos,Wes Bos,User,"Hamilton, Ontario",43.255720600000004,-79.87110240000001,Hamilton,Canada,6165.0
+fossasia/susi.ai,susi.ai,SUSI AI Start Page http://susi.ai,140,20,CSS,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6209.5
+mmistakes/jekyll-theme-basically-basic,jekyll-theme-basically-basic,Your new Jekyll default theme,140,165,CSS,mmistakes,Michael Rose,User,"Buffalo, New York",,,,,6209.5
+vmcreative/Hexi-Flexi-Grid,Hexi-Flexi-Grid,"An SCSS partial that builds flexible, modular hex grids using CSS Grid",139,10,CSS,vmcreative,Vincent Martin,User,,,,,,6256.5
+apollographql/graphql-tutorial,graphql-tutorial,"Full-stack GraphQL tutorial with React, Redux and Apollo",139,81,CSS,apollographql,Apollo GraphQL,Organization,,,,,,6256.5
+CreditEaseDBA/Themis,Themis,数据库审核平台,133,66,CSS,CreditEaseDBA,,Organization,,,,,,6507.0
+gurayyarar/NodeJsPackageManager,NodeJsPackageManager,An organizer of your npm and bower packages,132,14,CSS,gurayyarar,Güray Yarar,User,,,,,,6550.0
+kenangundogan/fontisto,fontisto,"The iconic font and CSS toolkit. Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.",131,11,CSS,kenangundogan,Kenan Gündoğan,User,istanbul/Turkey,41.0082376,28.978358899999996,Istanbul,Turkey,6600.0
+DXY-F2E/dxy-ui,dxy-ui,一套适用于桌面端的前端UI库，囊括了基础样式以及十余个基础组件。,130,12,CSS,DXY-F2E,丁香园前端组,Organization,杭州,30.274084000000002,120.15507,Hangzhou,China,6649.0
+lvleihere/robot,robot,"this is a robot ,her name is xiaoyun",130,0,CSS,lvleihere,吕雷,User,cn,35.86166,104.195397,,China,6649.0
+shenliyang/hexo-theme-snippet,hexo-theme-snippet,Snippet 简洁而不简单，也许是一款你寻找已久的hexo主题,129,42,CSS,shenliyang,,User,china,,,,,6699.5
+JD342/arc-thunderbird-integration,arc-thunderbird-integration,Arc Theme integration for Thunderbird,129,4,CSS,JD342,,User,,,,,,6699.5
+fomenyesu/egg-restapi-module-tool,egg-restapi-module-tool,"a example of eggjs, react, antd, dva, webpack, mysql, restful api and other stuff made it work...",128,27,CSS,fomenyesu,dll0,User,shenzhen,,,,,6749.0
+vue-foundation/vue-foundation,vue-foundation,VueJS + Foundation + Vue-Router + Webpack,127,16,CSS,vue-foundation,,Organization,,,,,,6796.5
+pkjoebinbin/GreativeStudio-Landing-Page,GreativeStudio-Landing-Page,GreativeStudio Landing Page最后定稿,127,3,CSS,pkjoebinbin,SteveJoe,User,"GuangZhou,China",,,,,6796.5
+onlurking/category-theory-for-programmers,category-theory-for-programmers,e-book version of Bartosz Milewski's Category Theory for Programmers,126,7,CSS,onlurking,Diogo Felix,User,São José dos Campos,-23.223701000000002,-45.900907399999994,São José dos Campos,Brazil,6850.5
+chesterhow/tale,tale,Minimal Jekyll theme for storytellers,125,175,CSS,chesterhow,Chester How,User,Singapore,1.352083,103.819836,,Singapore,6913.5
+czue/django-wedding-website,django-wedding-website,A django-powered wedding website and guest-management system,125,50,CSS,czue,Cory Zue,User,"Cape Town, South Africa",-33.9248685,18.424055300000003,Cape Town,South Africa,6913.5
+dsternlicht/RESTool,RESTool,RESTool is an open source UI tool for managing RESTful APIs. It could save you time developing your own internal tools. Here's an example of how it looks like:,124,7,CSS,dsternlicht,Daniel Sternlicht,User,Israel,,,,,6974.5
+CodeandoMexico/terremoto-cdmx,terremoto-cdmx,Respuesta rápida ante el terremoto de la CDMX,124,126,CSS,CodeandoMexico,Codeando México,Organization,Mexico,,,,,6974.5
+fossasia/opentechsummit.cn,opentechsummit.cn,Website for OpenTechSummit China http://opentechsummit.cn,124,6,CSS,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6974.5
+fossasia/2016.codeheat.org,2016.codeheat.org,Codeheat Coding Contest 2016 http://2016.codeheat.org,123,0,CSS,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7031.5
+NigelOToole/direction-reveal,direction-reveal,Direction aware content reveals,123,10,CSS,NigelOToole,,User,"London, UK",,,,,7031.5
+appsecco/dvna,dvna,Damn Vulnerable NodeJS Application,122,26,CSS,appsecco,Appsecco ,Organization,"London, Bangalore, Boston",,,,,7085.5
+OpnTec/2018.opentechsummit.net,2018.opentechsummit.net,OpenTechSummit 2018 http://2018.opentechsummit.net,121,0,CSS,OpnTec,OpnTec,Organization,Berlin,,,,,7141.5
+fossasia/pcode,pcode,pcode,121,3,CSS,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7141.5
+LeaVerou/duoload,duoload,"Simple, client-side comparison of website loading behavior",121,14,CSS,LeaVerou,Lea Verou,User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,7141.5
+korywakefield/iota,iota,A responsive micro-framework for the grid spec powered by CSS custom properties.,120,8,CSS,korywakefield,Kory Wakefield,User,"Fort Worth, TX",,,,,7203.0
+gnosis/MultiSigWallet,MultiSigWallet,Allows multiple parties to agree on transactions before execution. ,120,73,CSS,gnosis,Gnosis Prediction Markets,Organization,Earth,,,,,7203.0
+wookayin/TensorFlowKR-2017-talk-bestpractice,TensorFlowKR-2017-talk-bestpractice,💬 Slides and Tutorial Codes for the talk 'Toward Best Practices of TensorFlow Code Patterns' (2017),120,14,CSS,wookayin,Jongwook Choi,User,"Ann Arbor, MI",37.566534999999995,126.9779692,Seoul,South Korea,7203.0
+loup-brun/buttons,buttons,A collection of CSS buttons.,119,8,CSS,loup-brun,,User,,,,,,7265.0
+lin-xin/vue-toast,vue-toast,A mobile toast plugin for vue2.,118,39,CSS,lin-xin,林鑫,User,"Dongguan, China",23.020673000000002,113.751799,Dongguan,China,7328.0
+hellocassiell/vue-duitang-spa,vue-duitang-spa,:lollipop: vue单页应用-仿堆糖app,115,20,CSS,hellocassiell,Despacito,User,Jiangxi,,,,,7532.5
+zthxxx/hexo-theme-Wikitten,hexo-theme-Wikitten,A theme of Hexo for Wiki seem like Wikitten style.,113,22,CSS,zthxxx,Tian,User,"Chengdu, China",,,,,7670.5
+erictreacy/mimic.css,mimic.css, A CSS Animations Class Library Because Everyone Else Is Doing It. ,113,15,CSS,erictreacy,Eric Treacy,User,"Marquette, Michigan, USA",46.547582500000004,-87.39559539999998,Marquette,United States,7670.5
+renrenio/renren-security-boot,renren-security-boot,该项目是renren-secutiry的Spring Boot版，现已合并到renren-security分支上了，请访问：https://github.com/sunlightcs/renren-security/tree/renren-security-boot,113,69,CSS,renrenio,人人开源,Organization,,,,,,7670.5
+pop-os/gtk-theme,gtk-theme,System76 Pop GTK+ Theme,113,15,CSS,pop-os,Pop!_OS,Organization,,,,,,7670.5
+HFO4/HideByPixel,HideByPixel,一个利用像素隐藏文字的程序,112,27,CSS,HFO4,AaronLiu,User,"Fuyang,Anhui",32.890479,115.814504,Fuyang,China,7748.0
+jonasschmedtmann/advanced-css-course,advanced-css-course,"Starter files, final projects and FAQ for my Advanced CSS course",111,121,CSS,jonasschmedtmann,Jonas Schmedtmann,User,"Lisbon, Portugal",38.722252399999995,-9.1393366,Lisbon,Portugal,7820.0
+neo-project/docs,docs,NEO Documentation,109,151,CSS,neo-project,The Neo Project,Organization,,,,,,7981.5
+MBMIT/mbmit.github.io,mbmit.github.io,Website at http://mbmit.com,109,0,CSS,MBMIT,MBM,Organization,,,,,,7981.5
+shankariyerr/griddd,griddd,"A dead simple, customisable, flexbox-based griddd",109,5,CSS,shankariyerr,Shankar,User,Chennai,,,,,7981.5
+OnebugIS/React---project,React---project,基于React构造的桐乡网,107,0,CSS,OnebugIS,,User,,,,,,8118.5
+BioMaRu/biomatic,biomatic,A Flexible Atomic-Focused CSS Framework,106,5,CSS,BioMaRu,Theerapong Laowrungrat,User,Thailand,15.870032,100.992541,,Thailand,8187.5
+Iconscout/logodrop,logodrop,A Sketch Plugin to get brand logos right into Sketch App.,105,4,CSS,Iconscout,Iconscout,Organization,India,20.593684,78.96288,,India,8277.5
+Azure/kashti,kashti,Kashti is a dashboard for your Brigade pipelines.,103,13,CSS,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",,,,,8444.0
+cognitom/keiyaku-css,keiyaku-css,Crazy Style Formatter for Japanese Contract Document,103,3,CSS,cognitom,Tsutomu Kawamura,User,Tokyo,35.6894875,139.69170640000002,,Japan,8444.0
+ruanyf/road,road,博客文集《前方的路》,100,31,CSS,ruanyf,Ruan YiFeng,User,"Shanghai, China",31.230415999999998,121.473701,Shanghai,China,8660.0
+greengerong/rebirth-ng,rebirth-ng,rebirth-ng is a ui framework for Angular & bootstrap.,100,20,CSS,greengerong,green,User,china chengdu,,,,,8660.0
+froala/design-blocks,design-blocks,A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.,9217,662,HTML,froala,Froala,Organization,"Bucharest, Romania",44.4267674,26.1025384,Bucharest,Romania,26.0
+edent/SuperTinyIcons,SuperTinyIcons,Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos,6055,245,HTML,edent,Terence Eden,User,UK,55.378051,-3.435973,,United Kingdom,56.0
+ElemeFE/node-interview,node-interview,How to pass the Node.js interview of ElemeFE.,5935,1042,HTML,ElemeFE,饿了么前端,Organization,Shanghai,31.230415999999998,121.473701,Shanghai,China,58.0
+Spandan-Madan/DeepLearningProject,DeepLearningProject,An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.,2785,420,HTML,Spandan-Madan,Spandan Madan,User,"Cambridge, MA",,,,,208.0
+s-macke/VoxelSpace,VoxelSpace,Terrain rendering algorithm in less than 20 lines of code,2640,99,HTML,s-macke,Sebastian Macke,User,München,48.1351253,11.581980499999998,Munich,Germany,226.0
+iliakan/javascript-tutorial-en,javascript-tutorial-en,Modern JavaScript Tutorial ,2357,465,HTML,iliakan,Ilya Kantor,User,,,,,,261.0
+kishikawakatsumi/SpreadsheetView,SpreadsheetView,"Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel.",2131,158,HTML,kishikawakatsumi,Kishikawa Katsumi,User,Tokyo,35.6894875,139.69170640000002,,Japan,305.0
+likedan/Awesome-CoreML-Models,Awesome-CoreML-Models,Largest list of models for Core ML (for iOS 11+),2063,103,HTML,likedan,Kedan Li,User,,,,,,320.5
+callstack/haul,haul,Haul is a command line tool for developing React Native apps,1965,88,HTML,callstack,Callstack,Organization,Europe,,,,,344.0
+apachecn/MachineLearning,MachineLearning,Machine Learning in Action（机器学习实战）,1946,628,HTML,apachecn,ApacheCN,Organization,中国,,,,,347.0
+papercss/papercss,papercss,The Less Formal CSS Framework,1531,75,HTML,papercss,PaperCSS,Organization,,,,,,474.0
+robinmoisson/staticrypt,staticrypt,Password protect a static HTML page,1519,92,HTML,robinmoisson,Robin Moisson,User,Paris,48.856614,2.3522218999999995,Paris,France,479.0
+WebReflection/hyperHTML,hyperHTML,A Fast & Light Virtual DOM Alternative,1319,37,HTML,WebReflection,Andrea Giammarchi,User,London,,,,,575.0
+aws/aws-amplify,aws-amplify,A declarative library for application development using Cloud services with JavaScript,1311,61,HTML,aws,Amazon Web Services,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,580.0
+vanhoefm/krackattacks,krackattacks,,1293,174,HTML,vanhoefm,,User,,,,,,584.5
+phodal/fe,fe,《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer,1286,176,HTML,phodal,Phodal Huang,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,588.0
+huzidaha/react-naive-book,react-naive-book,开源、免费、专业、简单的 React.js 在线教程,1244,192,HTML,huzidaha,胡子大哈,User,深圳,,,,,608.5
+CHYbeta/Web-Security-Learning,Web-Security-Learning,Web-Security-Learning,1080,299,HTML,CHYbeta,chybeta,User,Xiamen,,,,,734.5
+kentcdodds/advanced-react-patterns,advanced-react-patterns,The course material for my advanced react patterns course on Egghead.io,830,96,HTML,kentcdodds,Kent C. Dodds,User,"Salt Lake City, Utah, USA",40.760779299999996,-111.89104740000002,Salt Lake City,United States,969.5
+ghosh/micromodal,micromodal,⭕ Tiny javascript library for creating accessible modal dialogs,797,33,HTML,ghosh,Indrashish Ghosh,User,Bangalore,12.9715987,77.5945627,Bengaluru,India,998.5
+LRH1993/android_interview,android_interview,gitbook地址,790,232,HTML,LRH1993,Ruheng,User,"HangZhou,China",30.274084000000002,120.15507,Hangzhou,China,1010.0
+sruda/steroidesign,steroidesign,"Themes based on the biggest StartUps (buttons, color palette, components, etc.) ready to use in your own projects.",759,22,HTML,sruda,sergio ruiz,User,Portland,,,,,1067.5
+cipchk/ng-alain,ng-alain,ng-zorro-antd  admin panel front-end framework,725,205,HTML,cipchk,卡色,User,"shanghai, china",31.230390399999997,121.4737021,Shanghai,China,1150.0
+KrauseFx/user.activity,user.activity,Raising awareness of what you can do with a smartphones gyro sensors in web browsers,693,39,HTML,KrauseFx,Felix Krause,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,1208.0
+vuejs-tips/cheatsheet,cheatsheet,Vue.js 2.2 complete API cheatsheet,677,64,HTML,vuejs-tips,Vue.js Tips,Organization,,,,,,1244.5
+munificent/craftinginterpreters,craftinginterpreters,Repository for the book 'Crafting Interpreters',674,86,HTML,munificent,Bob Nystrom,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,1253.0
+tc39/proposal-optional-chaining,proposal-optional-chaining,,650,9,HTML,tc39,Ecma TC39,Organization,The web,,,,,1306.0
+Kivy-CN/Stanford-CS-229-CN,Stanford-CS-229-CN,A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译,635,203,HTML,Kivy-CN,Kivy Developers From China,Organization,BeiJing,39.90419989999999,116.4073963,Beijing,China,1331.5
+bitdust/WamaCry,WamaCry,a fake WannaCry,573,68,HTML,bitdust,bitdust,User,China,35.86166,104.195397,,China,1465.0
+hunzaboy/CSS-Checkbox-Library,CSS-Checkbox-Library,A huge library of CSS Checkboxes for every taste.,554,42,HTML,hunzaboy,Aslam Shah,User,Islamabad,33.6600365,73.2293542,Islamabad,Pakistan,1519.0
+EliotAndres/kaggle-past-solutions,kaggle-past-solutions,A searchable compilation of Kaggle past solutions,520,147,HTML,EliotAndres,Eliot Andres,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,1612.5
+brentsimmons/Evergreen,Evergreen,Feed reader for macOS.,502,39,HTML,brentsimmons,Brent Simmons,User,,,,,,1680.0
+pkozul/ha-floorplan,ha-floorplan,Floorplan for Home Assistant,471,66,HTML,pkozul,Petar Kozul,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia,1796.0
+jenil/bulmaswatch,bulmaswatch,Themes for Bulma,463,41,HTML,jenil,Jenil Gogari,User,New York,,,,,1833.5
+mjavascript/mastering-modular-javascript,mastering-modular-javascript,"📦 Module thinking, principles, design patterns and best practices.",459,21,HTML,mjavascript,Modular JavaScript Book Series,Organization,,,,,,1847.0
+ReactTraining/react-idle,react-idle,Notifies your app when the user is idle.,458,22,HTML,ReactTraining,React Training,Organization,,,,,,1850.0
+shahariarrabby/deeplearning.ai,deeplearning.ai,"deeplearning.ai , By Andrew Ng, All slide and notebook + data (without solution) and video link ",455,289,HTML,shahariarrabby,Shahariar Rabby,User,Bangladesh,23.684994,90.35633100000001,,Bangladesh,1859.0
+zachleat/web-font-loading-recipes,web-font-loading-recipes,A bunch of demos for different web font loading strategies. Companion to https://www.zachleat.com/web/comprehensive-webfonts/ Read more: https://www.zachleat.com/web/recipes/,446,14,HTML,zachleat,Zach Leatherman,User,,,,,,1899.0
+DroidKaigi/conference-app-2017,conference-app-2017,The Official Conference App for DroidKaigi 2017 Tokyo,434,156,HTML,DroidKaigi,DroidKaigi,Organization,"Tokyo, Japan",,,,,1954.0
+rust-lang-nursery/rust-cookbook,rust-cookbook,https://rust-lang-nursery.github.io/rust-cookbook,432,95,HTML,rust-lang-nursery,,Organization,,,,,,1962.0
+linsir6/AndroidNote,AndroidNote,Android基础知识、Android进阶知识、Android自定义View相关、面试相关的知识，欢迎fork，star～,412,99,HTML,linsir6,关玮琳@linsir.top,User,Beijing,39.90419989999999,116.4073963,Beijing,China,2053.5
+Muyangmin/glide-docs-cn,glide-docs-cn,Glide简体中文文档站点托管项目。,386,16,HTML,Muyangmin,Muyangmin,User,"Chengdu, Sichuan, China.",30.572815999999996,104.066801,Chengdu,China,2197.5
+mburakerman/hrjs,hrjs,Tiny JavaScript plugin for highlighting and replacing text in the DOM,384,28,HTML,mburakerman,Mehmet Burak Erman,User,"Istanbul, Turkey",41.0082376,28.978358899999996,Istanbul,Turkey,2209.0
+fengdu78/Coursera-ML-AndrewNg-Notes,Coursera-ML-AndrewNg-Notes,吴恩达老师的机器学习课程个人笔记,381,192,HTML,fengdu78,huang haiguang,User,"Qingdao,China",36.067108000000005,120.382609,Qingdao,China,2229.5
+anfederico/Flaskex,Flaskex,Simple flask example for quick prototypes and small applications,378,43,HTML,anfederico,Anthony Federico,User,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,2246.5
+ant-design/antd-mobile-samples,antd-mobile-samples,antd-mobile samples,378,363,HTML,ant-design,,Organization,,,,,,2246.5
+ustayready/CredSniper,CredSniper,CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.,378,77,HTML,ustayready,ustayready,User,,,,,,2246.5
+tmc/pqstream,pqstream,pqstream turns your postgres database into an event stream,372,16,HTML,tmc,Travis Cline,User,Earth,,,,,2283.5
+CHYbeta/Software-Security-Learning,Software-Security-Learning,Software-Security-Learning,370,95,HTML,CHYbeta,chybeta,User,Xiamen,,,,,2295.5
+securedorg/securedorg.github.io,securedorg.github.io,,364,112,HTML,securedorg,SECURED.ORG,User,San Francisco,,,,,2331.5
+github-serendipity/github-serendipity.github.io,github-serendipity.github.io,"快速找到流行开源项目 browse and find high quality repo quickly and elegantly, with trending, rank, awesome, topics, similar dimensions",364,34,HTML,github-serendipity,,Organization,,,,,,2331.5
+certsimple/nginx-http2-load-balancing-config,nginx-http2-load-balancing-config,An nginx config for your first million users,355,33,HTML,certsimple,CertSimple,Organization,London,51.5073509,-0.12775830000000002,London,United Kingdom,2383.5
+javaee/javaee-spec,javaee-spec,Java EE Platform Specification,345,62,HTML,javaee,Java EE,Organization,,,,,,2458.5
+ropenscilabs/skimr,skimr,"A frictionless, pipeable approach to dealing with summary statistics",342,28,HTML,ropenscilabs,rOpenSci Labs,Organization,,,,,,2488.0
+gouguoyin/phprap,phprap,PHPRAP，是一个PHP轻量级开源API接口文档管理系统，致力于减少前后端沟通成本，提高团队协作开发效率，打造PHP版的RAP。如果您觉得PHPRAP对您有用的话，别忘了给点个赞哦^_^ ！,339,56,HTML,gouguoyin,gouguoyin,User,,,,,,2511.5
+codrops/StackMotionHoverEffects,StackMotionHoverEffects,Experimental hover effects that reveal a stack of multiple colored cards behind the hovered item.,332,47,HTML,codrops,Codrops,Organization,,,,,,2563.0
+clong/DetectionLab,DetectionLab,Vagrant & Packer scripts to build a lab environment comple
