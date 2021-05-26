@@ -6484,4 +6484,126 @@ travisgoodspeed/goodwatch,goodwatch,Designing myself a good watch.,113,9,C,travi
 KunTengRom/kunteng-lede-17.01.4,kunteng-lede-17.01.4,或许是大中华区编译最快的LEDE 17.01.4开发环境,113,17,C,KunTengRom,KunTeng Cooperation,Organization,127.0.0.1,,,,,7670.5
 google/kmsan,kmsan,"KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel",113,13,C,google,Google,Organization,,,,,,7670.5
 hsoft/icemu,icemu,Emulate Integrated Circuits at the logic level,113,6,C,hsoft,Virgil Dupras,User,"Québec, Canada",46.8138783,-71.2079809,Québec City,Canada,7670.5
-layumi/2016_person_re-ID,2016_person_re-ID,TOMM20
+layumi/2016_person_re-ID,2016_person_re-ID,TOMM2017 A Discriminatively Learned CNN Embedding for Person Re-identification,113,71,C,layumi,Zhedong Zheng,User,Sydney,,,,,7670.5
+44670/NTR,NTR,,113,38,C,44670,,User,,,,,,7670.5
+minipli/linux-unofficial_grsec,linux-unofficial_grsec,Unofficial forward ports of the last publicly available grsecurity patch,112,16,C,minipli,,User,,,,,,7748.0
+movidius/ncsdk,ncsdk,Software Development Kit for the Neural Compute Stick,112,42,C,movidius,Movidius Ltd,Organization,,,,,,7748.0
+Samsung/TizenRT,TizenRT,Tizen RT is a lightweight RTOS-based platform to support low-end IoT devices,110,136,C,Samsung,Samsung,Organization,,,,,,7898.0
+rxi/log.c,log.c,A simple logging library implemented in C99,110,13,C,rxi,,User,,,,,,7898.0
+DavidBuchanan314/TARDIS,TARDIS,"Trace And Rewrite Delays In Syscalls: Hooking time-related Linux syscalls to warp a process's perspective of time, using ptrace.",110,4,C,DavidBuchanan314,David Buchanan,User,,,,,,7898.0
+blueberryCoder/LiveStream,LiveStream,一个实现直播的解决方案，视频采用H264编码、音频采用ACC编码、传输采用Rtmp协议,110,56,C,blueberryCoder,BlueBerry,User,"Shanghai,China",,,,,7898.0
+ands/seamoptimizer,seamoptimizer,A C/C++ single-file library that minimizes the hard transition errors of disjoint edges in lightmaps.,109,6,C,ands,ands,User,"Cologne, Germany",51.165690999999995,10.451526,,Germany,7981.5
+msqrt/shader-printf,shader-printf,Simple printf functionality for GLSL.,108,5,C,msqrt,,User,,,,,,8056.0
+xamarin/flex,flex,"Flex is a flexible box layout system written in C, designed to be easy to consume from other languages",108,10,C,xamarin,Xamarin,Organization,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,8056.0
+nikita36078/J2ME-Loader,J2ME-Loader,A J2ME emulator for Android.,107,23,C,nikita36078,Nikita Shakarun,User,"Russia, Saint-Petersburg",59.9342802,30.335098600000002,Saint Petersburg,Russia,8118.5
+SymbioticLab/infiniswap,infiniswap,Efficient Memory Disaggregation with Infiniswap,106,10,C,SymbioticLab,,Organization,,,,,,8187.5
+sklivvz/cthulhu,cthulhu,Extend Redis with JavaScript modules,106,4,C,sklivvz,Marco Cecconi,User,"Trento, IT",,,,,8187.5
+denandz/fuzzotron,fuzzotron,A TCP/UDP based network daemon fuzzer,106,24,C,denandz,DoI,User,"Auckland, New Zealand",-36.8484597,174.7633315,Auckland,New Zealand,8187.5
+netwarm007/GameEngineFromScratch,GameEngineFromScratch,配合我的知乎专栏写的项目,106,21,C,netwarm007,Chen Wenli,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,8187.5
+zhaojh329/vuci,vuci,VUCI - Web user interface based on vuejs2 and iView for OpenWrt.,105,4,C,zhaojh329,Jianhui Zhao,User,ChengDu China,30.572815000000002,104.066801,Chengdu,China,8277.5
+stonedreamforest/NaiHeQiao,NaiHeQiao,open-source x86/x64 usermode anti-anti-debug plugin,105,36,C,stonedreamforest,Tennn,User,"113.980687,22.543031",,,,,8277.5
+wujunze/nginx-http-echo-module,nginx-http-echo-module,A simple Nginx echo module ,105,24,C,wujunze,wujunze,User,beijing,,,,,8277.5
+xuningjack/JCrash,JCrash,Android自定义异常处理模块（Based on KSCrash）,105,16,C,xuningjack,Jack Xu,User,Android Star,34.092074100000005,-118.3665519,Los Angeles,United States,8277.5
+roecrew/nymph,nymph,A slightly different version of C.,105,4,C,roecrew,Brandon Barber,User,Chicago,,,,,8277.5
+LedgerHQ/blue-app-monero,blue-app-monero,Monero wallet application for Ledger Blue and Nano S,104,12,C,LedgerHQ,Ledger,Organization,"Paris, San Francisco",,,,,8366.5
+Shies/PHP7-forp,PHP7-forp,"用c语言编写forp PHP分析器是一个轻量级的PHP扩展提供脚本的调用堆栈,CPU和内存使用",104,13,C,Shies,Kai Gu,User,ShangHai,31.230390399999997,121.4737021,Shanghai,China,8366.5
+exploitagency/vanitygen-plus,vanitygen-plus,"Vanitygen PLUS! Generate vanity address for 90+ cryptocoins including: BTC, LTC, LBRY, UNO, DASH, DIAMOND, DOGE, FEATHER, GROESTL, MONA, PEERCOIN, VERTCOIN, ZIFTR, CROWN, GAME, PINK and MORE!  Removed the prefix length limit, now capable of searching for longer prefixes...  Altcoin encryption and decryption of private keys is also supported.",104,34,C,exploitagency,Corey Harding,User,Exploit.Agency,,,,,8366.5
+attractivechaos/kann,kann,A lightweight C library for artificial neural networks,103,19,C,attractivechaos,Attractive Chaos,User,,,,,,8444.0
+imbushuo/mac-precision-touchpad,mac-precision-touchpad,Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad,103,7,C,imbushuo,Bingxing Wang,User,"San Francisco, CA, United States",37.7749295,-122.4194155,San Francisco,United States,8444.0
+odzhan/wanafork,wanafork,WanaCryptor file encryption/decryption,102,27,C,odzhan,,User,,,,,,8520.0
+fletcher/MultiMarkdown-6,MultiMarkdown-6,"Lightweight markup processor to produce HTML, LaTeX, and more.",102,16,C,fletcher,Fletcher T. Penney,User,"Charleston, SC",32.776474900000004,-79.93105120000001,Charleston,United States,8520.0
+pavel-odintsov/drop_watch,drop_watch,Monitor reasons why and where linux drops UDP packets,102,10,C,pavel-odintsov,Pavel Odintsov,User,"UK, London",,,,,8520.0
+jayflatland/HighFrequencyTwister,HighFrequencyTwister,Rubik's cube solving robot that set a world record,101,27,C,jayflatland,,User,,,,,,8590.0
+baoleiji/Qilin-SSLVPN,Qilin-SSLVPN,VPN系统，麒麟SSL VPN系统，为openvpn开发的前台，并重新开发VPN客户端,100,3,C,baoleiji,,User,,,,,,8660.0
+anhkgg/multi_wechat_pc,multi_wechat_pc,微信电脑客户端多开工具,100,38,C,anhkgg,Anhkgg,User,USA,37.09024,-95.712891,,United States,8660.0
+kocsis1david/font-demo,font-demo,Text rendering in Vulkan by estimating signed distance,100,3,C,kocsis1david,Dávid Kocsis,User,Szeged,,,,,8660.0
+walesey/binPipe,binPipe,,100,3,C,walesey,Joshua Wales,User,,,,,,8660.0
+tailwindcss/tailwindcss,tailwindcss,A utility-first CSS framework for rapid UI development.,3362,172,CSS,tailwindcss,Tailwind CSS,Organization,,,,,,141.0
+webkul/coolhue,coolhue,Coolest Gradient Hues and Swatches by UVdesk,2134,99,CSS,webkul,Webkul,User,"Noida , India",28.535516100000002,77.3910265,Noida,India,304.0
+tastejs/hacker-news-pwas,hacker-news-pwas,HNPWA - Hacker News readers as Progressive Web Apps 📱,1637,112,CSS,tastejs,TasteJS,Organization,From a galaxy far far away,,,,,434.0
+RyanFitzgerald/devportfolio,devportfolio,"A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass",1586,412,CSS,RyanFitzgerald,Ryan Fitzgerald,User,"Ottawa, ON, Canada",,,,,455.0
+claviska/shoelace-css,shoelace-css,A back to the basics CSS starter kit.,1505,95,CSS,claviska,Cory LaViska,User,Orlando,28.5383355,-81.3792365,Orlando,United States,485.5
+android/kotlin-guides,kotlin-guides,A set of guides for writing Kotlin for Android.,1397,87,CSS,android,Android,Organization,,,,,,532.0
+IBM/type,type,"The package of IBM’s new typeface, IBM Plex, and accompanying typography code.",1395,72,CSS,IBM,International Business Machines,Organization,"Armonk, New York, U.S.",41.1264849,-73.71401949999998,Armonk,United States,533.0
+GoogleChrome/essential-image-optimization,essential-image-optimization,Essential Image Optimization - an eBook,1326,74,CSS,GoogleChrome,,Organization,,,,,,567.5
+creativetimofficial/now-ui-kit,now-ui-kit,Now UI Kit Bootstrap 4 - Designed by Invision. Coded by Creative Tim,1269,123,CSS,creativetimofficial,Creative Tim,Organization,,,,,,595.5
+Martz90/vivify,vivify,Vivify is free CSS animation library.,1234,84,CSS,Martz90,Martin Kníže,User,"Prague, Czech Republic",,,,,614.0
+Chalarangelo/mocka,mocka,"Simple, elegant content placeholder",1183,41,CSS,Chalarangelo,Angelos Chalaris,User,"Athens, Greece",37.9838096,23.7275388,Athens,Greece,655.0
+Microsoft/TypeScript-Node-Starter,TypeScript-Node-Starter,A starter template for TypeScript and Node with a detailed README describing how to use the two together.,1180,294,CSS,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,657.0
+waylybaye/HyperApp-Guide,HyperApp-Guide,HyperApp user's manual ,1098,276,CSS,waylybaye,Baye,User,China,35.86166,104.195397,,China,722.0
+itmeo/webgradients,webgradients,"A curated collection of splendid gradients made in CSS3, .sketch and .PSD formats.",1086,59,CSS,itmeo,itmeo,Organization,Saint Petersburg,,,,,731.0
+DennisSnijder/MakeGithubGreatAgain,MakeGithubGreatAgain,Extension for making GitHub great again,1025,45,CSS,DennisSnijder,Dennis Snijder,User,Netherlands,,,,,772.5
+OYsun/VueCircleMenu,VueCircleMenu,:rabbit:A beautiful circle menu powered by Vue.js,929,142,CSS,OYsun,OY森,User,北京,,,,,860.0
+picturepan2/devices.css,devices.css,Devices.css - Modern devices in pure CSS,874,58,CSS,picturepan2,Yan Zhu,User,Shanghai & Seattle,,,,,923.5
+C-JSN/D3-ID3,D3-ID3,iD3: an Integrated Development Environment for D3.js,781,46,CSS,C-JSN,,Organization,,,,,,1027.0
+alexgreene/WikiQuiz,WikiQuiz,Generates a quiz for a Wikipedia page using parts of speech and text chunking.,730,49,CSS,alexgreene,Alex Greene,User,"Palo Alto, CA",,,,,1128.0
+ghosh/microtip,microtip,"💬  Modern, minimal, a11y enabled, ultra lightweight css tooltip library. Just 1kb.",682,33,CSS,ghosh,Indrashish Ghosh,User,Bangalore,12.9715987,77.5945627,Bengaluru,India,1230.5
+benbrignell/principles.design,principles.design,Work in progress repository of design principles and methods.,673,61,CSS,benbrignell,Ben Brignell,User,London,,,,,1255.5
+raymestalez/nulis,nulis,Tree editor for writers,671,38,CSS,raymestalez,Ray Alez,User,,,,,,1261.5
+spymastermatt/thunderbird-monterail,thunderbird-monterail,A set of themes for thunderbird inspired by a Monterail blog post,659,35,CSS,spymastermatt,,User,,,,,,1285.5
+brentsimmons/JSONFeed,JSONFeed,The JSONFeed.org website,652,48,CSS,brentsimmons,Brent Simmons,User,,,,,,1302.5
+AnomalyInnovations/serverless-stack-com,serverless-stack-com,Source for Serverless-Stack.com,637,70,CSS,AnomalyInnovations,Anomaly Innovations,Organization,,,,,,1325.5
+picturepan2/instagram.css,instagram.css,Complete set of Instagram filters in pure CSS,614,18,CSS,picturepan2,Yan Zhu,User,Shanghai & Seattle,,,,,1372.5
+lucasgruwez/waffle-grid,waffle-grid,An easy to use flexbox grid system.,587,51,CSS,lucasgruwez,Lucas Gruwez,User,,,,,,1437.5
+ermongroup/cs228-notes,cs228-notes,Course notes for CS228: Probabilistic Graphical Models.,564,113,CSS,ermongroup,,Organization,Stanford,,,,,1489.5
+crazychicken/t-scroll,t-scroll,A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal),549,39,CSS,crazychicken,tu truong,User,Viet Nam,,,,,1532.0
+DesignRevision/shards-ui,shards-ui,Shards is a free and modern Bootstrap 4 UI toolkit.,547,39,CSS,DesignRevision,DesignRevision,Organization,Europe,,,,,1539.5
+BretFisher/udemy-docker-mastery,udemy-docker-mastery,"Udemy Course to build, compose, deploy, and manage containers from local development to high-availability in the cloud",533,485,CSS,BretFisher,Bret Fisher,User,"Virginia Beach, VA, USA",,,,,1578.0
+balzss/luxbar,luxbar,":cocktail: Featherweight, Responsive, CSS Only Navigation Bar",533,30,CSS,balzss,Balazs Saros,User,"Budapest, Hungary",,,,,1578.0
+lin-xin/blog,blog,林鑫的个人博客，用于总结平时工作和学习中的经验。,525,158,CSS,lin-xin,林鑫,User,"Dongguan, China",23.020673000000002,113.751799,Dongguan,China,1601.5
+widget-/slack-black-theme,slack-black-theme,"A darker, more contrasty, Slack theme.",506,109,CSS,widget-,Bryan Keller,User,"Chicago, IL",,,,,1660.0
+boxug/trape,trape,"People tracker on the Internet: Learn to track the world, to avoid being traced.",499,108,CSS,boxug,Boxug,Organization,World,,,,,1691.0
+miukimiu/react-kawaii,react-kawaii,Cute React UI Components,497,18,CSS,miukimiu,Elizabet Oliveira,User,"Dublin, Ireland",53.34980529999999,-6.2603097000000005,Dublin,Ireland,1697.5
+xiangsudian/CaoMei,CaoMei,🍓CaoMei Icon - Designed for developers http://chuangzaoshi.com/icon/,484,32,CSS,xiangsudian,像素君,User,,,,,,1756.0
+Tanibox/tania,tania,"A PHP based, free, and open source farming management system.",474,73,CSS,Tanibox,Tanibox,Organization,Estonia & Indonesia,,,,,1783.5
+OYsun/VueStar,VueStar,:sparkles:A like button with delightful star animation powered by Vue.js,437,48,CSS,OYsun,OY森,User,北京,,,,,1937.5
+luangjokaj/wordpressify,wordpressify,🎈 A build system designed to automate your WordPress development workflow.,415,27,CSS,luangjokaj,Luan Gjokaj,User,"Zürich, Switzerland.",,,,,2042.0
+romannurik/SlidesCodeHighlighter,SlidesCodeHighlighter,A little web app that helps you copy+paste syntax-highlighted code into slide decks.,382,18,CSS,romannurik,Roman Nurik,User,"New York, NY",40.7127837,-74.00594129999999,New York,United States,2223.5
+unix121/i3wm-themer,i3wm-themer,My collection of Themes for i3-wm,381,46,CSS,unix121,> lvthn@vortex $,User,Greece,39.074208,21.824312,,Greece,2229.5
+Aris-t2/CustomCSSforFx,CustomCSSforFx,Custom CSS tweaks for Firefox 57+,374,29,CSS,Aris-t2,Aris,User,,,,,,2272.5
+jessekorzan/expodal,expodal,The Most Explosive Modal on The Web.,338,19,CSS,jessekorzan,Jesse Korzan,User,"Kelowna, BC, CANADA",49.8879519,-119.49601059999999,Kelowna,Canada,2518.5
+fullstackreact/30-days-of-react,30-days-of-react,30 days of react content and code source,331,144,CSS,fullstackreact,Fullstack React,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,2570.0
+damln/localtower,localtower,"Manage your Ruby On Rails models, relations, and migrations from a simple UI.",328,18,CSS,damln,Damian Le Nouaille,User,Paris,48.856614,2.3522218999999995,Paris,France,2596.5
+tholman/obnoxious.css,obnoxious.css,"Animations for the strong of heart, and stupid of mind.",324,16,CSS,tholman,Tim Holman,User,,,,,,2635.0
+sitetent/tentcss,tentcss,:herb: A CSS survival kit. Includes only the essentials to make camp.,320,21,CSS,sitetent,Site Tent,Organization,,,,,,2663.5
+Varin6/Hover-Buttons,Hover-Buttons,Animated CSS/SCSS Buttons,318,42,CSS,Varin6,Kamil Kuklinski,User,"Newbury, UK",,,,,2686.0
+lazarljubenovic/grassy,grassy,Build layout through ASCII art in Sass (and more). No pre-built CSS. No additional markup.,315,9,CSS,lazarljubenovic,Lazar Ljubenović,User,"Niš, Serbia",43.320902200000006,21.895758899999997,Niš,Serbia,2718.0
+wizardforcel/llthw-zh,llthw-zh,:book: [译] 笨办法学 Linux,301,42,CSS,wizardforcel,Wizard Zhang,User,Beijing,31.230415999999998,121.473701,Shanghai,China,2828.5
+godlyranchdressing/United-GNOME,United-GNOME,GTK2/3 + GNOME Shell theme based on a Ubuntu 18.04 design concept. ,281,14,CSS,godlyranchdressing,Aaron Papin,User,Trinidad & Tobago,,,,,3024.5
+haskellcamargo/pragmatic-functional-javascript,pragmatic-functional-javascript,The 'Pragmatic Functional JavaScript' book,272,12,CSS,haskellcamargo,Marcelo Camargo,User,Joinville / SC - Brazil,-26.304408399999996,-48.84638320000001,Joinville,Brazil,3112.0
+damoqiongqiu/NiceFish,NiceFish,NiceFish（美人鱼）是一个系列教学项目，全面示范了Angular新版本在浏览器、移动端、Electron环境中的用法。,271,52,CSS,damoqiongqiu,大漠穷秋,User,"Nanjing, China",32.060255,118.796877,Nanjing,China,3126.5
+Timvde/UserChrome-Tweaks,UserChrome-Tweaks,A community maintained repository of userChrome.css tweaks for Firefox,269,39,CSS,Timvde,Tim Van den Eynde,User,,,,,,3155.0
+ConstraintLayout/constraintlayout.github.io,constraintlayout.github.io,,268,11,CSS,ConstraintLayout,Constraint Layout,User,,,,,,3167.0
+shankariyerr/tinyreset,tinyreset,Tiny CSS reset for the modern web,251,11,CSS,shankariyerr,Shankar,User,Chennai,,,,,3377.5
+xiaobinwu/Wuji,Wuji,使用vue+vuex+vue-router技术栈开发的吾记网页版（纯前端），有时间会持续更新，欢迎star,238,54,CSS,xiaobinwu,wuxiaobin,User,ShenZhen China,22.543096,114.05786499999999,Shenzhen,China,3562.0
+vuejs-tips/vue-the-mask,vue-the-mask,Tiny (<2k gzipped) and dependency free mask input for Vue.js,235,27,CSS,vuejs-tips,Vue.js Tips,Organization,,,,,,3608.5
+kaeyleo/jekyll-theme-H2O,jekyll-theme-H2O, 🎉 A clean and delicate Jekyll theme. Jekyll博客主题,234,82,CSS,kaeyleo,悟空,User,"Beijing, China",,,,,3627.0
+cehfisher/a11y-style-guide,a11y-style-guide,A11Y Style Guide,228,38,CSS,cehfisher,Carie Fisher,User,,,,,,3737.5
+argyleink/ragrid,ragrid,Intrinsic first auto-layout flexbox grid,227,11,CSS,argyleink,Adam Argyle,User,Seattle,,,,,3753.5
+wizardforcel/think-dast-zh,think-dast-zh,:book: [译] 数据结构思维,226,40,CSS,wizardforcel,Wizard Zhang,User,Beijing,31.230415999999998,121.473701,Shanghai,China,3770.5
+zeeshanu/emoji-awesome,emoji-awesome,"Cross platform, easy to use, no-javascript solution for the emoji awesomeness :sunglasses:",221,6,CSS,zeeshanu,Zeeshan Ahmad,User,Pakistan,31.4187142,73.07910729999998,Faisalabad,Pakistan,3854.5
+iRaul/pushy-buttons,pushy-buttons,CSS Pressable 3D Buttons. 👇,215,22,CSS,iRaul,Dronca Raul,User,"Romania, Arad",46.1865606,21.3122677,Arad,Romania,3967.0
+cristijora/vue-light-bootstrap-dashboard,vue-light-bootstrap-dashboard,Vue light bootstrap dashboard,215,25,CSS,cristijora,Cristi Jora,User,Cluj-Napoca,46.771210100000005,23.6236353,Cluj-Napoca,Romania,3967.0
+Ben02/hexo-theme-Anatole,hexo-theme-Anatole,"A white and simple Hexo theme, originated from a Farbox theme",210,72,CSS,Ben02,Ben Wong,User,"Guangdong, China",23.3790333,113.7632828,,China,4067.0
+codrops/CSSGlitchEffect,CSSGlitchEffect,An experimental glitch effect powered by CSS animations and the clip-path property. Inspired by the technique seen on the speakers page of the 404 conference.,204,22,CSS,codrops,Codrops,Organization,,,,,,4194.0
+amarofashion/react-credit-cards,react-credit-cards,Beautiful credit cards for your payment forms,204,25,CSS,amarofashion,AMARO,Organization,"São Paulo, SP",-23.550519899999998,-46.63330939999999,São Paulo,Brazil,4194.0
+larryqin/larrycms,larrycms,,202,78,CSS,larryqin,,User,,,,,,4226.5
+LinxGem33/OSX-Arc-Darker,OSX-Arc-Darker,"a flat theme collection based on arc with transparent elements for GTK 3, GTK 2 and Unity,  Pantheon, XFCE, Mate, etc.",201,21,CSS,LinxGem33,Andy C,User,United Kingdom,,,,,4246.5
+javaee/javaee.github.io,javaee.github.io,Java Enterprise Edition Development,195,11,CSS,javaee,Java EE,Organization,,,,,,4375.0
+XingxingHuang/deeplearning.ai,deeplearning.ai,"The notes of Adrew Ng's coursera course: deeplearning.ai. Glad to answer any related questions, just email me.",194,120,CSS,XingxingHuang,Xingxing Huang,User,"Palo Alto, CA",,,,,4401.5
+simurai/one-vibrancy,one-vibrancy,Vibrancy effect for Atom One themes,193,9,CSS,simurai,simurai,User,"Sapporo, Japan",43.0620958,141.3543763,Sapporo,Japan,4422.0
+iotacss/iotacss,iotacss,"Smart, open-source, SASS based OCSS framework built for scale.",190,13,CSS,iotacss,iotaCSS,Organization,,,,,,4486.5
+mor10/kuhn,kuhn,WordPress theme featuring CSS Grid layouts via aggressive progressive enhancement. Proof of concept to get the conversation about what CSS Grid means for WordPress themes started. Currently running live at https://mor10.com,184,52,CSS,mor10,Morten Rand-Hendriksen,User,"Burnaby, BC",49.2488091,-122.9805104,Burnaby,Canada,4639.0
+PunitGr/QuickBill,QuickBill,Create unlimited invoices for free.,182,27,CSS,PunitGr,Punit Grover,User,"New Delhi, India",,,,,4693.0
+BlueHatbRit/mdpdf,mdpdf,Markdown to PDF command line app with support for stylesheets,179,10,CSS,BlueHatbRit,Elliot Blackburn,User,"Bristol, UK",51.454513,-2.58791,Bristol,United Kingdom,4778.0
+MehediH/Tweeten,Tweeten,An intuitive and powerful Twitter experience built for those who get real work done.,177,9,CSS,MehediH,Mehedi Hassan,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,4839.0
+mhausenblas/reshifter,reshifter,Kubernetes cluster state management,176,15,CSS,mhausenblas,Michael Hausenblas,User,"Galway, Ireland",53.27066800000001,-9.0567905,Galway,Ireland,4869.0
+cinoliu/node-admin-,node-admin-,vue+node+mysql 电商平台(为小程序提供后台管理）,176,7,CSS,cinoliu,刘宗宇,User,"Guangzhou,China",23.12911,113.264385,Guangzhou,China,4869.0
+Angelmmiguel/graaf,graaf,A collection of pure CSS grids for designing your new projects,176,14,CSS,Angelmmiguel,Ángel M,User,"Sevilla, Andalucía",37.3890924,-5.984458900000001,Seville,Spain,4869.0
+gledos/jekyll-minimal-theme-zh-cmn-hans,jekyll-minimal-theme-zh-cmn-hans,jekyll-minimal-theme的中文简体化，一款极简(风格)的 jekyll 主题,175,1,CSS,gledos,gledos,User,,,,,,4897.0
+mdbootstrap/Angular-Bootstrap-with-Material-Design,Angular-Bootstrap-with-Material-Design,,173,61,CSS,mdbootstrap,MDBootstrap,User,,,,,,4974.5
+LineageOS/lineage_wiki,lineage_wiki,,169,209,CSS,LineageOS,LineageOS,Organization,,,,,,5091.0
+chenjiahan/vodal,vodal,A vue modal with animations.,167,29,CSS,chenjiahan,neverland,User,Hangzhou China,30.274084000000002,120.15507,Hangzhou,China,5151.5
+beeth0ven/RxSwift-Chinese-Documentation,RxSwift-Chinese-Documentation,RxSwift 中文文档,165,13,CSS,beeth0ven,beeth0ven,User,China WuHan,,,,,5211.0
+HackerThemes/theme-machine,theme-machine,A collection of stylized Bootstrap 4 Themes by HackerThemes,162,15,CSS,HackerThemes,HackerThemes,Organization,"Barcelona, Spain",,,,,5308.0
+overdodactyl/ShadowFox,Shado
