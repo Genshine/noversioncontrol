@@ -6725,4 +6725,123 @@ javaee/javaee-spec,javaee-spec,Java EE Platform Specification,345,62,HTML,javaee
 ropenscilabs/skimr,skimr,"A frictionless, pipeable approach to dealing with summary statistics",342,28,HTML,ropenscilabs,rOpenSci Labs,Organization,,,,,,2488.0
 gouguoyin/phprap,phprap,PHPRAP，是一个PHP轻量级开源API接口文档管理系统，致力于减少前后端沟通成本，提高团队协作开发效率，打造PHP版的RAP。如果您觉得PHPRAP对您有用的话，别忘了给点个赞哦^_^ ！,339,56,HTML,gouguoyin,gouguoyin,User,,,,,,2511.5
 codrops/StackMotionHoverEffects,StackMotionHoverEffects,Experimental hover effects that reveal a stack of multiple colored cards behind the hovered item.,332,47,HTML,codrops,Codrops,Organization,,,,,,2563.0
-clong/DetectionLab,DetectionLab,Vagrant & Packer scripts to build a lab environment comple
+clong/DetectionLab,DetectionLab,Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices,329,40,HTML,clong,Chris Long,User,United States,,,,,2586.0
+JPCERTCC/LogonTracer,LogonTracer,Investigate malicious Windows logon by visualizing and analyzing Windows event log,328,38,HTML,JPCERTCC,JPCERT Coordination Center,Organization,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,2596.5
+AliceWonderland/hacktoberfest,hacktoberfest,Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest,327,2402,HTML,AliceWonderland,Alice Chuang,User,"New York, NY",40.7127753,-74.0059728,New York,United States,2609.0
+lubusIN/laravel-decomposer,laravel-decomposer,"A Laravel package to decompose your installed packages, their dependencies, your app & server environment",320,20,HTML,lubusIN,LUBUS,Organization,"Mumbai, India",,,,,2663.5
+materialdoc/materialdoc-web,materialdoc-web,Material Design - The development documentation,310,35,HTML,materialdoc,Materialdoc,Organization,,,,,,2750.0
+clauswilke/ggjoy,ggjoy,Deprecated. Please use ggridges.,307,25,HTML,clauswilke,Claus Wilke,User,,,,,,2778.5
+yo-op/sketchcachecleaner,sketchcachecleaner,💻 Sketch Cache Cleaner,303,10,HTML,yo-op,YOOP,Organization,London - Stuttgart,,,,,2809.0
+mrholek/CoreUI-Angular,CoreUI-Angular,CoreUI Angular is free Angular 2+ admin template based on Bootstrap 4,296,141,HTML,mrholek,Łukasz Holeczek,User,Poland,51.919438,19.145135999999997,,Poland,2871.0
+ireade/alix,alix,"Alix, a browser extension for a11y.css",289,17,HTML,ireade,Ire Aderinokun,User,"Lagos, Nigeria",6.5243793,3.3792057,Lagos,Nigeria,2931.0
+minisllc/domainhunter,domainhunter,"Checks expired domains, bluecoat categorization, and Archive.org history to determine good candidates for phishing and C2 domain names",289,65,HTML,minisllc,MINIS,Organization,,,,,,2931.0
+193Eric/vue-node-demo,vue-node-demo,用Node vuejs和Mysql搭建一个 个人博客后台网站,287,85,HTML,193Eric,likai,User,China,35.86166,104.195397,,China,2951.0
+ReactTraining/react-network,react-network,Notifies your app when the network goes offline and back online.,281,11,HTML,ReactTraining,React Training,Organization,,,,,,3024.5
+JockDaRock/Time2Code,Time2Code,Portable Scalable web code editor to integrate into your sites and learning experiences,281,11,HTML,JockDaRock,Jock Reed,User,"Austin, Tx",30.267153000000004,-97.7430608,Austin,United States,3024.5
+codrops/GridLoadingAnimations,GridLoadingAnimations,Some inspiration for loading effects on grid items.,280,41,HTML,codrops,Codrops,Organization,,,,,,3035.5
+zhoushengmufc/es6,es6,ECMAScript® 2016 语言规范 中文版,279,12,HTML,zhoushengmufc,zhousheng,User,shanghai,31.230415999999998,121.473701,Shanghai,China,3045.5
+cytle/wechat_web_devtools,wechat_web_devtools,微信开发者工具(微信小程序)linux完美支持,278,54,HTML,cytle,炒饭,User,hangzhou,,,,,3059.0
+manfredsteyer/angular-oauth2-oidc,angular-oauth2-oidc,Support for OAuth 2 and OpenId Connect (OIDC) in Angular. ,270,113,HTML,manfredsteyer,Manfred Steyer,User,"Graz, Austria",,,,,3142.5
+vintasoftware/python-api-checklist,python-api-checklist,"Useful checklist for building good Python library APIs, based on 'How to make a good library API' PyCon 2017 talk: https://www.youtube.com/watch?v=4mkFfce46zE",268,33,HTML,vintasoftware,Vinta Software,Organization,"Recife, PE, Brazil",,,,,3167.0
+troydo42/CIA-Hacking-Tools,CIA-Hacking-Tools,WikiLeaks Vault 7 CIA Hacking Tools ,268,192,HTML,troydo42,Troy Do ,User,Las Vegas,36.169941200000004,-115.13982959999998,Las Vegas,United States,3167.0
+rstudio/keras,keras,R Interface to Keras,264,73,HTML,rstudio,RStudio,Organization,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,3215.5
+arxiv-vanity/engrafo,engrafo,Converts LaTeX documents into beautiful responsive web pages.,261,8,HTML,arxiv-vanity,Arxiv Vanity,Organization,,,,,,3241.0
+wi-fi-analyzer/fluxion,fluxion,Offical repo for fluxion,260,138,HTML,wi-fi-analyzer,,Organization,,,,,,3251.0
+tc39/proposal-class-fields,proposal-class-fields,Orthogonally-informed combination of public and private fields proposals,260,13,HTML,tc39,Ecma TC39,Organization,The web,,,,,3251.0
+mkiser/WTFJHT,WTFJHT,Logging the daily shock and awe in national politics. Read in moderation.,244,121,HTML,mkiser,Matt Kiser,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,3462.5
+ptabriz/FOSS4G_workshop,FOSS4G_workshop,,243,17,HTML,ptabriz,payam tabrizian,User,Raleigh,,,,,3477.5
+apex/up-examples,up-examples,"Example apps, apis, and sites for Up.",242,26,HTML,apex,Apex,Organization,Victoria BC,48.428420700000004,-123.36564440000001,Victoria,Canada,3494.5
+SangKa/MobX-Docs-CN,MobX-Docs-CN,MobX 中文文档,237,54,HTML,SangKa,SangKa.Z,User,"Dalian, China",38.91400300000001,121.614682,Dalian,China,3576.5
+EmailThis/typographic-email,typographic-email,Responsive email template that is optimised for readability.,233,17,HTML,EmailThis,EmailThis,Organization,,,,,,3648.0
+summerblue/larabbs,larabbs,A forum project base on Laravel 5.5.,233,56,HTML,summerblue,Summer,User,ShenZhen China,22.543096,114.05786499999999,Shenzhen,China,3648.0
+intezer/linux-explorer,linux-explorer,Easy-to-use live forensics toolbox for Linux endpoints,232,31,HTML,intezer,Intezer Labs,Organization,,,,,,3667.0
+ceshu/ceshu.github.io,ceshu.github.io,策叔的博客,227,0,HTML,ceshu,策叔,User,,,,,,3753.5
+google/tacotron,tacotron,Audio samples from the paper 'Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model'.,225,33,HTML,google,Google,Organization,,,,,,3788.0
+LaravelDaily/laravel-roles-permissions-manager,laravel-roles-permissions-manager,Laravel 5.4 adminpanel starter boilerplate project with roles-permissions management.,224,66,HTML,LaravelDaily,Laravel Daily,User,,,,,,3803.0
+xiadd/zhuishushenqi,zhuishushenqi,追书神器 接口分析包装,223,52,HTML,xiadd,xia,User,china nanjing,32.060255,118.796877,Nanjing,China,3820.5
+mars/heroku-cra-node,heroku-cra-node,How to use create-react-app with a custom Node server on Heroku,222,49,HTML,mars,Mars Hall,User,"San Francisco, CA, US",37.7749295,-122.4194155,San Francisco,United States,3837.5
+caspervonb/toneofsorting,toneofsorting,Tone of Sorting is an interactive visualisation of sorting algorithms with sound,220,19,HTML,caspervonb,Casper Beyer,User,,,,,,3872.5
+c8r/lab,lab,React UI component design tool,217,6,HTML,c8r,Compositor,Organization,NYC / ID / LDN,,,,,3925.5
+mburakerman/numscrubberjs,numscrubberjs,Let's change values of input numbers by dragging the mouse left & right,215,17,HTML,mburakerman,Mehmet Burak Erman,User,"Istanbul, Turkey",41.0082376,28.978358899999996,Istanbul,Turkey,3967.0
+poppinss/youch,youch,Pretty error reporting for Node.js :rocket:,213,2,HTML,poppinss,,Organization,,,,,,4003.0
+Elvenisboy/RNBook,RNBook,《React Native小书》,212,34,HTML,Elvenisboy,Fuling,User,,,,,,4022.0
+dudeonthehorse/normalize.email.css,normalize.email.css,Email-ready CSS Reset,211,11,HTML,dudeonthehorse,Arthur Koch,User,St. Petersburg,,,,,4046.0
+zhongzhong0505/CodeBe,CodeBe,"CodeBe(码B)是一个是使用angular2整合各种插件的项目，包括（layer，bootstrap-table，markdown编辑器，highcharts，ckeditor，高德地图,fullcalendar 等等）。如果你有什么想要集成的插件，请告诉我，我来加进去。(请给我加个星，谢谢。)",211,46,HTML,zhongzhong0505,zhongzhong,User,Shenzhen,22.543096,114.05786499999999,Shenzhen,China,4046.0
+earthchie/jquery.Thailand.js,jquery.Thailand.js,ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side!,210,85,HTML,earthchie,Thanarat Kuawattanaphan,User,"Chiang Mai, Thailand",18.7060641,98.98171629999999,Chiang Mai,Thailand,4067.0
+qiubaiying/qiubaiying.github.io,qiubaiying.github.io,BY Blog ->,209,853,HTML,qiubaiying,BY,User,Xiamen·China,,,,,4089.0
+andrey-git/home-assistant-custom-ui,home-assistant-custom-ui,Custom UI elements for https://home-assistant.io,205,30,HTML,andrey-git,Andrey,User,,,,,,4172.0
+codrops/GridLayoutSlideshow,GridLayoutSlideshow,A slideshow where each slide has an individual CSS grid layout and a reveal effect when navigating.,200,52,HTML,codrops,Codrops,Organization,,,,,,4266.5
+wangdicoder/angular-material-dashboard,angular-material-dashboard,a material-design dashboard by using angular,199,39,HTML,wangdicoder,Di Wang,User,"Melbourne, VIC, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia,4286.0
+ykob/shape-overlays,shape-overlays,Multi-layered SVG shape overlays with adjustable values for a variety of effects. By Yoichi Kobayashi.,199,40,HTML,ykob,yoichi kobayashi,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,4286.0
+facebook/DelegatedRecoverySpecification,DelegatedRecoverySpecification,Allows an application to delegate the capability to recover an account to an account controlled by the same user or entity at a third party service provider.,196,39,HTML,facebook,Facebook,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,4350.0
+codrops/SearchUIEffects,SearchUIEffects,"A couple of schematic, inspirational proof-of-concepts for how to show the search interface on a website using CSS animations.",195,34,HTML,codrops,Codrops,Organization,,,,,,4375.0
+gowebexamples/gowebexamples,gowebexamples,Go Web Examples Generator,195,18,HTML,gowebexamples,,Organization,,,,,,4375.0
+craigbuckler/progressive-image.js,progressive-image.js,A lazy-loading progressive image similar to those seen on Facebook and Medium.,195,22,HTML,craigbuckler,Craig Buckler,User,UK,55.378051,-3.435973,,United Kingdom,4375.0
+pqrs-org/KE-complex_modifications,KE-complex_modifications,,194,171,HTML,pqrs-org,,Organization,,,,,,4401.5
+WebReflection/viperHTML,viperHTML,Isomorphic hyperHTML,194,4,HTML,WebReflection,Andrea Giammarchi,User,London,,,,,4401.5
+DominikSerafin/vuebar,vuebar," Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies. Used successfully in production on https://ggather.com",194,26,HTML,DominikSerafin,Dominik Serafin,User,"Rzeszów, Poland.",,,,,4401.5
+everettjf/AppleTrace,AppleTrace,🍎Trace tool for iOS/macOS (similar to systrace for Android),193,23,HTML,everettjf,everettjf,User,Beijing,39.90419989999999,116.4073963,Beijing,China,4422.0
+stripe/elements-examples,elements-examples,Stripe Elements examples.,191,58,HTML,stripe,Stripe,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4463.5
+demopark/electron-api-demos-Zh_CN,electron-api-demos-Zh_CN,"这是 electron-api-demos 的中文版本, 更新至 v1.3.0",189,46,HTML,demopark,Jonas Zhang,User,"Qingdao,CN",36.067108000000005,120.382609,Qingdao,China,4510.0
+ctf0/Laravel-Media-Manager,Laravel-Media-Manager,A 'Vuejs & Laravel' Media Manager With Tons of Features,186,52,HTML,ctf0,Muah,User,Cairo,,,,,4590.5
+DivanteLtd/open-loyalty,open-loyalty,Open Loyalty is technology for loyalty solutions for starting new loyalty projects.,185,48,HTML,DivanteLtd,Divante Ltd.,Organization,"Wrocław, Poland",51.1078852,17.0385376,Wrocław,Poland,4615.5
+openshift-evangelists/kbe,kbe,Kubernetes By Example,185,40,HTML,openshift-evangelists,OpenShift Evangelism Team,Organization,world-wide,,,,,4615.5
+HauyuChen/hauyuchen.github.io,hauyuchen.github.io,✨ SITE: chenhy.com,185,2,HTML,HauyuChen,Hov,User,"Guangzhou , China",23.12911,113.264385,Guangzhou,China,4615.5
+pinecreativelabs/Brutalist-Framework,Brutalist-Framework,A framework for the brutalist web design trend.,184,14,HTML,pinecreativelabs,Pine Creative Labs,User,,,,,,4639.0
+NetSPI/SQLInjectionWiki,SQLInjectionWiki,A wiki focusing on aggregating and documenting various SQL injection methods,183,23,HTML,NetSPI,,Organization,,,,,,4663.0
+rbuckton/proposal-partial-application,proposal-partial-application,Proposal to add partial application to ECMAScript,182,5,HTML,rbuckton,Ron Buckton,User,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,4693.0
+LasseRafn/ui-avatars,ui-avatars,,181,10,HTML,LasseRafn,Lasse Rafn,User,"Denmark, Copenhagen",,,,,4725.0
+KaiserY/trpl-zh-cn,trpl-zh-cn,Rust 程序设计语言（第二版）,180,46,HTML,KaiserY,KaiserY,User,Tianjin China,,,,,4753.0
+qiyeboy/SpiderBook,SpiderBook,<<python爬虫开发与项目实战>>书籍配套源码和说明,179,120,HTML,qiyeboy,qiye,User,,,,,,4778.0
+Jack-Cherish/Machine-Learning,Machine-Learning,机器学习实战（Python3）,178,164,HTML,Jack-Cherish,Jack Cui,User,China,35.86166,104.195397,,China,4807.0
+PolymerLabs/wizzywid,wizzywid,"What you see is what you deserve: a visual getting-started-tool for HTML, Custom Elements, and Polymer.",178,43,HTML,PolymerLabs,,Organization,,,,,,4807.0
+codrops/MirrorEffect,MirrorEffect,"Mirror effect as seen around the Web lately, i.e. on Corentin Fardeau's and Method's website. The idea is to mirror an image and animate it within the context of a slideshow.",176,37,HTML,codrops,Codrops,Organization,,,,,,4869.0
+jimersylee/jimersylee.github.io,jimersylee.github.io,个人博客,174,0,HTML,jimersylee,Jimersy Lee,User,"Hangzhou,Zhe Jiang,China",30.274084000000002,120.15507,Hangzhou,China,4932.5
+tc39/proposal-bigint,proposal-bigint,Arbitrary precision integers in JavaScript,174,12,HTML,tc39,Ecma TC39,Organization,The web,,,,,4932.5
+hunzaboy/Light-Modal,Light-Modal,"A new lightweight, powerful and easy to use CSS Modal.",174,14,HTML,hunzaboy,Aslam Shah,User,Islamabad,33.6600365,73.2293542,Islamabad,Pakistan,4932.5
+LiveOverflow/lo_nintendoswitch,lo_nintendoswitch,Some of my PoC stuff for the Nintendo Switch,173,26,HTML,LiveOverflow,,User,,,,,,4974.5
+Ehco1996/Python-crawler,Python-crawler,从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6 ,173,81,HTML,Ehco1996,Ehco,User,,,,,,4974.5
+Pizzacus/satania.moe,satania.moe,"Satania IS the BEST waifu, no really, she is, if you don't believe me, this website will convince you",173,28,HTML,Pizzacus,,User,,,,,,4974.5
+khan4019/angular-interview-questions,angular-interview-questions,Most extensive Angular interview questions based on your level.,173,37,HTML,khan4019,That JS Dude,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States,4974.5
+okaychen/minbus,minbus,a minbus system [ArcGIS API],171,1,HTML,okaychen,okaychen,User,China,35.86166,104.195397,,China,5034.5
+modulz/modulz,modulz,"An open-source design system for building scalable, responsive websites and applications.",168,9,HTML,modulz,Modulz,Organization,,,,,,5120.5
+gledos/gledos.github.io,gledos.github.io,这是gledos的博客，不过里面没有什么值钱的东西,167,0,HTML,gledos,gledos,User,,,,,,5151.5
+cod3rcursos/curso-react-redux,curso-react-redux,,167,94,HTML,cod3rcursos,,Organization,,,,,,5151.5
+puikinsh/Adminator-admin-dashboard,Adminator-admin-dashboard,"Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more",167,91,HTML,puikinsh,Aigars Silkalns,User,"Riga, Latvia",56.94964870000001,24.1051865,Riga,Latvia,5151.5
+lvleihere/jobhere,jobhere,"Personal works here Mengchuang technology to provide support for individuals to create a recruitment process, you can see the recruitment information and create a personal recruitment process",166,1,HTML,lvleihere,吕雷,User,cn,35.86166,104.195397,,China,5180.5
+yous/whiteglass,whiteglass,"Minimal, responsive Jekyll theme for hackers",165,85,HTML,yous,Chayoung You,User,Republic of Korea,,,,,5211.0
+codrops/MenuHoverEffects,MenuHoverEffects,Some inspiration for menu hover effects.,162,32,HTML,codrops,Codrops,Organization,,,,,,5308.0
+HarrisJT/web-launch-checklist,web-launch-checklist,:clipboard: A simple website launch checklist to keep track of the most important enrichment possibilities for a website.,162,32,HTML,HarrisJT,Harris Thompson,User,"Madison, WI",43.07305170000001,-89.4012302,Madison,United States,5308.0
+CoderSavior/uniqueArrayMethods,uniqueArrayMethods,数组去重的方法总结,162,0,HTML,CoderSavior,,User,,,,,,5308.0
+jackschaedler/jazzari,jazzari,Programmable Band in Your Browser,160,11,HTML,jackschaedler,Jack Schaedler,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,5371.0
+Kay-MalwareBenchmark/kay-malwarebenchmark.github.io,kay-malwarebenchmark.github.io,A blog focuses on security,160,0,HTML,Kay-MalwareBenchmark,Kay,User,,,,,,5371.0
+ThomasBerends/symfony-certification-preparation-list,symfony-certification-preparation-list,List of topic-specific resources to help you prepare for Symfony certification,156,27,HTML,ThomasBerends,Thomas Berends,User,"Nijmegen, Netherlands",51.8125626,5.8372264000000005,Nijmegen,Netherlands,5517.0
+SoCreate/angular-playground,angular-playground,A drop in app module for working on Angular components in isolation (Angular version 2.x and above).,155,14,HTML,SoCreate,SoCreate,Organization,,,,,,5552.0
+okaychen/NTEJ,NTEJ,[project] a webapp is based on mui,155,1,HTML,okaychen,okaychen,User,China,35.86166,104.195397,,China,5552.0
+halhen/viz-pub,viz-pub,A place to publish data-vizes,153,28,HTML,halhen,Henrik Lindberg,User,"Gothenburg, Sweden",57.70887,11.97456,Gothenburg,Sweden,5622.5
+martme/webaudio-modem,webaudio-modem,Encode and decode text using the Web Audio API to enable offline data transfer between devices.,151,17,HTML,martme,Martin Kirkholt Melhus,User,,,,,,5699.5
+CoderSavior/deepCopy,deepCopy,深拷贝,150,1,HTML,CoderSavior,,User,,,,,,5743.5
+mercyblitz/jsr,jsr,Java Specification Requests,150,106,HTML,mercyblitz,Mercy,User,"Hangzhou, China",30.274084000000002,120.15507,Hangzhou,China,5743.5
+MrQianJinSi/poetry_analyzer,poetry_analyzer,诗歌分析程序,149,71,HTML,MrQianJinSi,MrQianjinsi,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5787.0
+worrydream/ClimateChange,ClimateChange,What can a technologist do about climate change? A personal view,149,8,HTML,worrydream,bret,User,,,,,,5787.0
+jackrugile/3d-particle-explorations,3d-particle-explorations,Particle animation explorations in 3D space with three.js,148,16,HTML,jackrugile,Jack Rugile,User,"Denver, CO",39.739235799999996,-104.990251,Denver,United States,5827.5
+CoderSavior/jsonpDemo,jsonpDemo,高氏极简jsonp demo,147,0,HTML,CoderSavior,,User,,,,,,5872.0
+jenil/chota,chota,A micro (3kb) CSS framework,147,16,HTML,jenil,Jenil Gogari,User,New York,,,,,5872.0
+Polymer/hn-polymer-2,hn-polymer-2,Polymer Hacker News clone,147,19,HTML,Polymer,polymer,Organization,,,,,,5872.0
+Mamboleoo/DecorativeBackgrounds,DecorativeBackgrounds,A collection of decorative animated background shapes powered by WebGL and TweenMax,146,32,HTML,Mamboleoo,Louis Hoebregts,User,Belgium,50.503887,4.469936,,Belgium,5920.0
+cinoliu/Highcharts-vuejs,Highcharts-vuejs,Highcharts+vuejs 让数据可视化更简单,146,0,HTML,cinoliu,刘宗宇,User,"Guangzhou,China",23.12911,113.264385,Guangzhou,China,5920.0
+lvleihere/xiaomi,xiaomi,2天仿写小米官网,145,0,HTML,lvleihere,吕雷,User,cn,35.86166,104.195397,,China,5968.0
+kitsunekyo/internet-speed-log,internet-speed-log,Log and display speedtests with shell script and nodejs,143,20,HTML,kitsunekyo,Alexander Spieslechner,User,Österreich,47.516231,14.550072,,Austria,6066.5
+CoderSavior/es6ExtendsAnalysis,es6ExtendsAnalysis,利用babel分析es6和es5中继承的实现,142,1,HTML,CoderSavior,,User,,,,,,6117.5
+smakosh/unnamed-css-framework,unnamed-css-framework,A colorful css framework made by a human not an Ai,141,15,HTML,smakosh,ismail ghallou ,User,Morocco,,,,,6165.0
+lvleihere/jsonp-baidu-dropdown,jsonp-baidu-dropdown,百度搜索下拉,141,0,HTML,lvleihere,吕雷,User,cn,35.86166,104.195397,,China,6165.0
+schollz/pluck,pluck,Pluck text in a fast and intuitive way :rooster:,141,2,HTML,schollz,Zack,User,"Edmonton, CA",,,,,6165.0
+kfkme/kfkweb,kfkweb,KFKWeb 是一个前端功能集合,140,0,HTML,kfkme,开发库社区,Organization,,,,,,6209.5
+liaoziyang/chrome_url2qrcode,chrome_url2qrcode,Chrome plugin that can convert current URL into QR code.,140,19,HTML,liaoziyang,Ziyang Liao,User,Kyoto Japan,,,,,6209.5
+codrops/ScrollSpiral,ScrollSpiral,WebGL Scroll Spiral,139,22,HTML,codrops,Codrops,Organization,,,,,,6256.5
+lvleihere/drap_drop_2,drap_drop_2,图片移来移去~,138,0,HTML,lvleihere,吕雷,User,cn,35.86166,104.195397,,China,6298.5
+bl4de/security_whitepapers,security_whitepapers,"Collection of misc IT Security related whitepapers, presentations, slides - hacking, bug bounty, web application security, XSS, CSRF, SQLi ",138,25,HTML,bl4de,Rafal Janicki,User,"Dublin, Ireland",,,,,6298.5
+airbnb/lottie,lottie,Lottie documentation.,136,27,HTML,airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,6376.0
+deepakkumar1984/SiaNet,SiaNet,A C# deep learning wrapper with CNTK backend,136,45,HTML,deepakkumar1984,Deepak Kumar Battini,User,"Adelaide, Australia",-34.9284989,138.6007456,Adelaide,Australia,6376.0
+codrops/LetterInteractions,LetterInteractions,Some inspiration for playful typographical effects and hover interactions on letters.,136,26,HTML,codrops,Codrops,Organization,,,,,,6376.0
+ThePacielloGroup/cupper,cupper,Example site for an inclusive pattern library theme,135,36,HTML,ThePacielloGroup,The Paciello Group,Organization,"USA, UK, IE, NL, NZ, FR, CA, CO, TX, MD, MA, Canada",,,,,642
