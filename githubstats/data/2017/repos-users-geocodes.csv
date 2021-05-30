@@ -7077,4 +7077,116 @@ TheMasonX/UnityPCSS,UnityPCSS,Nvidia's PCSS soft shadow algorithm implemented in
 praeclarum/Ooui,Ooui,A small cross-platform UI library that brings the simplicity of native UI development to the web,218,22,C#,praeclarum,Frank A. Krueger,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,3911.0
 geffzhang/NanoFabric,NanoFabric,基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架,213,78,C#,geffzhang,geffzhang,User,"Shenzhen,China",22.543096,114.05786499999999,Shenzhen,China,4003.0
 Maarten88/rrod,rrod,"Exploring a new web architecture with React, Redux, Orleans and Dotnet Core",213,56,C#,Maarten88,Maarten Sikkema,User,"Amsterdam, NL",52.3702157,4.8951679000000015,Amsterdam,Netherlands,4003.0
-lidarr/Lidarr,Lidarr,Looks and smells like Sonarr b
+lidarr/Lidarr,Lidarr,Looks and smells like Sonarr but made for music. ***IN DEVELOPMENT DO NOT TRY TO USE.***,212,16,C#,lidarr,Lidarr,Organization,,,,,,4022.0
+Microsoft/BotFramework-Samples,BotFramework-Samples,Welcome to the Bot Framework samples repository. Here you will find sample bots that take advantage of Bot Framework capabilities. ,210,106,C#,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,4067.0
+pardeike/Harmony,Harmony,"A library for patching, replacing and decorating .NET and Mono methods during runtime",209,37,C#,pardeike,Andreas Pardeike,User,"Stockholm, Sweden",,,,,4089.0
+sparkfunX/Skimmer_Scanner,Skimmer_Scanner,A mobile app for detecting bluetooth gas pump credit card skimmers,206,32,C#,sparkfunX,SparkX,Organization,,,,,,4151.5
+Unity-Technologies/2d-extras,2d-extras,Fun 2D Stuff that we'd like to share!,201,24,C#,Unity-Technologies,Unity Technologies,Organization,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,4246.5
+VenusInterns/BlogTemplate,BlogTemplate,,198,35,C#,VenusInterns,,Organization,,,,,,4308.0
+Microsoft/workbooks,workbooks,"Workbooks is an interactive programming environment that’s perfect for experimentation, learning, and documentation: an educational tool for learning the myriad of .NET platforms, APIs, and libraries.",198,31,C#,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,4308.0
+ElevenPaths/FOCA,FOCA,,188,41,C#,ElevenPaths,Eleven Paths,Organization,,,,,,4532.5
+JacekKosciesza/StarWars,StarWars,"GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core",187,27,C#,JacekKosciesza,Jacek Kościesza,User,"Poland, Gliwice",50.29449229999999,18.671380199999998,Gliwice,Poland,4561.5
+NateShoffner/Disable-Nvidia-Telemetry,Disable-Nvidia-Telemetry,Windows utility to disable Nvidia's telemetry services,187,4,C#,NateShoffner,Nate Shoffner,User,United States,37.09024,-95.712891,,United States,4561.5
+hlldz/SpookFlare,SpookFlare,Meterpreter loader generator with multiple features for bypassing client-side and network-side countermeasures.,186,42,C#,hlldz,Halil Dalabasmaz,User,"İstanbul, Türkiye",41.0082376,28.978358899999996,Istanbul,Turkey,4590.5
+Unity-Technologies/DeLightingTool,DeLightingTool,De-Lighting tool,185,19,C#,Unity-Technologies,Unity Technologies,Organization,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,4615.5
+SkyChenSky/Framework.Toolkits,Framework.Toolkits,发布,177,116,C#,SkyChenSky,陈珙,User,广东江门,,,,,4839.0
+dxflatline/flatpipes,flatpipes,A TCP proxy over named pipes. Originally created for maintaining a meterpreter session over 445 for less network alarms.,176,23,C#,dxflatline,Dixie Flatline,User,,,,,,4869.0
+ValveSoftware/steamvr_unity_plugin,steamvr_unity_plugin,,174,51,C#,ValveSoftware,Valve Software,Organization,,,,,,4932.5
+pwntester/ysoserial.net,ysoserial.net,Deserialization payload generator for a variety of .NET formatters,173,27,C#,pwntester,Alvaro,User,Madrid,,,,,4974.5
+keijiro/Swarm,Swarm,An example of use of compute shaders and procedural instancing.,171,24,C#,keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan,5034.5
+Microsoft/BuildCast,BuildCast,Example UWP Media Application to show best practices,168,43,C#,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,5120.5
+relativty/wrmhl,wrmhl,⚡️ Super fast communication beetwen Unity3D and Arduino. Create Interactive experiences in a minute ⏱,168,9,C#,relativty,Relativty,Organization,Global,33.969435,-84.26191690000002,Norcross,United States,5120.5
+gothinkster/aspnetcore-realworld-example-app,aspnetcore-realworld-example-app,ASP.NET Core backend implementation for RealWorld,167,27,C#,gothinkster,Thinkster,Organization,,,,,,5151.5
+Varorbc/ICanPay,ICanPay,ICanPay是一个支持多商户多种支付方式的跨平台网关处理类库，使用ICanPay可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。目前支持的支付网关有：支付宝(Alipay)、微信支付(Wechatpay)、银联支付(Unionpay),167,49,C#,Varorbc,Varorbc,User,,,,,,5151.5
+JamesBear/vive_ik_demo,vive_ik_demo,A full body tracking demo using HTC Vive and Trackers,167,42,C#,JamesBear,James Bear,User,,,,,,5151.5
+allisterb/jemalloc.NET,jemalloc.NET,A native memory manager for .NET,166,5,C#,allisterb,Allister Beharry,User,Trinidad W.I.,10.691803,-61.222503,,Trinidad and Tobago,5180.5
+Azure99/ShadowSocksRCsM,ShadowSocksRCsM,SSRC#魔改版，修复原版链接并进行人性化修改,164,45,C#,Azure99,Azure,User,SDNU,,,,,5245.0
+VelcroPhysics/VelcroPhysics,VelcroPhysics,High performance 2D collision detection system with realistic physics responses.,164,22,C#,VelcroPhysics,,Organization,,,,,,5245.0
+keijiro/VideoPlayerEffects,VideoPlayerEffects,Experimental special effects for VideoPlayer (Unity 5.6 new feature),162,28,C#,keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan,5308.0
+Tsume/Maple-Tree,Maple-Tree,AIO tool for Cemu,162,16,C#,Tsume,Tsume,User,Louisiana,30.984297700000003,-91.9623327,,United States,5308.0
+OpenMined/OpenMined,OpenMined,The OpenMined Unity Application,160,57,C#,OpenMined,OpenMined,Organization,,,,,,5371.0
+Microsoft/OpenAPI.NET,OpenAPI.NET,The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.,158,7,C#,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,5442.0
+anydream/il2cpp,il2cpp,A MSIL/C# to C++ converter. 目标是在 1/8 的内存开销下执行速度超越 CoreCLR.,156,18,C#,anydream,Any,User,China,35.86166,104.195397,,China,5517.0
+JasonHein/Game-Eye-2D,Game-Eye-2D,A component based orthographic camera extension for unity that tracks 2D environments. ,155,18,C#,JasonHein,Jason Hein,User,"Ottawa, Ontario, Canda",45.42152960000001,-75.69719309999998,Ottawa,Canada,5552.0
+NormalVR/CutieKeys,CutieKeys,A basic drum keyboard that anyone can use in their own VR project.,155,17,C#,NormalVR,Normal,Organization,,,,,,5552.0
+setchi/FancyScrollView,FancyScrollView,A scrollview component that can implement highly flexible animation.,152,21,C#,setchi,setchi,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,5657.0
+andydbc/HologramShader,HologramShader,Hologram Shader and Material Editor for Unity,152,20,C#,andydbc,Andy Duboc,User,"Montreal, QC, Canada",45.5016889,-73.567256,Montreal,Canada,5657.0
+chkr1011/MQTTnet,MQTTnet,MQTTnet is a high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker). The implementation is based on the documentation from http://mqtt.org/.,151,49,C#,chkr1011,Christian,User,Germany,51.165690999999995,10.451526,,Germany,5699.5
+mapbox/mapbox-unity-sdk,mapbox-unity-sdk,Mapbox Unity SDK - https://www.mapbox.com/unity/,150,42,C#,mapbox,Mapbox,Organization,Washington DC,38.9071923,-77.03687070000001,Washington,United States,5743.5
+DogusTeknoloji/BatMap,BatMap,"🦇 Convention-based, fast object mapper.",150,16,C#,DogusTeknoloji,Doğuş Teknoloji,Organization,,,,,,5743.5
+huwb/crest-oceanrender,crest-oceanrender,Novel ocean rendering techniques (Unity3D),149,15,C#,huwb,Huw Bowles,User,,,,,,5787.0
+gkngkc/UnityStandaloneFileBrowser,UnityStandaloneFileBrowser,A Native file browser for unity standalone platforms,149,27,C#,gkngkc,Gökhan Gökçe,User,Istanbul,41.0082376,28.978358899999996,Istanbul,Turkey,5787.0
+DDoSolitary/LxRunOffline,LxRunOffline,An offline installer for Windows Subsystem for Linux (WSL),148,10,C#,DDoSolitary,DDoSolitary,User,"Shaoxing, Zhejiang, China",29.995762,120.58610900000001,Shaoxing,China,5827.5
+spetz/asp-net-core-samples,asp-net-core-samples,,147,46,C#,spetz,Piotr Gankiewicz,User,Kraków,50.06465009999999,19.9449799,Kraków,Poland,5872.0
+metaparticle-io/package,package,"Metaparticle/Package: Language Fluent Containerization and Deployment in Java, .NET and Javascript (and more coming soon)",146,27,C#,metaparticle-io,Metaparticle.io,Organization,,,,,,5920.0
+Elestriel/TaskbarTools,TaskbarTools,Grants the ability to set the Windows Taskbar to any opacity and colour desired.,146,13,C#,Elestriel,Emily Maxwell,User,,,,,,5920.0
+Jfaler/soup,soup,📞 Open source call flooder using Twilio API.,145,55,C#,Jfaler,Justin Faler,User,"Menifee, California",33.6971468,-117.185294,Menifee,United States,5968.0
+RyanLamansky/dotnet-webassembly,dotnet-webassembly,"Create, read, modify, write and execute WebAssembly (WASM) files from .NET-based applications.",145,10,C#,RyanLamansky,Ryan Lamansky ,User,"Minnesota, USA",,,,,5968.0
+nea/MarkdownViewerPlusPlus,MarkdownViewerPlusPlus,A Notepad++ Plugin to view a Markdown file rendered on-the-fly,144,18,C#,nea,Savas Ziplies,User,Germany,51.165690999999995,10.451526,,Germany,6016.0
+ravibpatel/AutoUpdater.NET,AutoUpdater.NET,AutoUpdater.NET is a class library that allows .NET developers to easily add auto update functionality to their classic desktop application projects.,143,62,C#,ravibpatel,Ravi Patel,User,,,,,,6066.5
+jackmott/LinqFaster,LinqFaster,Linq-like extension functions for arrays and List<T> that are faster and allocate less.,143,7,C#,jackmott,Jack Mott,User,"Texas,USA",31.968598800000002,-99.9018131,,United States,6066.5
+kkokosa/Tune,Tune,The Ultimate .NET Experiment,142,9,C#,kkokosa,Konrad Kokosa,User,Poland,51.919438,19.145135999999997,,Poland,6117.5
+G-E-N-E-S-I-S/TslGame_MULTI_HACK,TslGame_MULTI_HACK,PlayerUnknowns Battlegrounds external multihack (trash code),141,91,C#,G-E-N-E-S-I-S,striek,User,dat dere fæderland,,,,,6165.0
+PokemonUnity/PokemonUnity,PokemonUnity,Pokémon Unity by IIcolour Spectrum,141,63,C#,PokemonUnity,Pokémon Unity,Organization,Canada,,,,,6165.0
+BilgisayarKavramlari/Programlamaya-Giris,Programlamaya-Giris,Her Dil için Programlamaya Giriş Antreman Soruları ve Çözümleri,141,395,C#,BilgisayarKavramlari,Sadi Evren SEKER,User,,,,,,6165.0
+RainwayApp/warden,warden,Warden.NET is an easy to use process management library for keeping track of processes on Windows. ,140,9,C#,RainwayApp,Rainway,Organization,,,,,,6209.5
+dotnetGame/MineCase,MineCase,A distributed minecraft server in dotnet core,140,13,C#,dotnetGame,.Net Game,Organization,,,,,,6209.5
+KevinWG/OSS.PaySdk,OSS.PaySdk,开源支付SDK(标准库)，主要打造微信支付，支付宝支付，标准库项目，同时支持.net framework和.net core,140,76,C#,KevinWG,Kevin,User,北京六坏内,,,,,6209.5
+xamarin/KimonoDesigner,KimonoDesigner,Paint application using Xamarin.Mac and SkiaSharp,139,29,C#,xamarin,Xamarin,Organization,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,6256.5
+yuzd/DingtalkChatbotSdk,DingtalkChatbotSdk,钉钉群机器人(.net跨平台),138,21,C#,yuzd,nainaigu,User,China Shanghai,31.230390399999997,121.4737021,Shanghai,China,6298.5
+jongallant/DungeonGenerator,DungeonGenerator,A dungeon generator for Unity,137,16,C#,jongallant,Jon,User,Canada,,,,,6334.0
+keijiro/Cloner,Cloner,An example of use of procedural instancing.,137,17,C#,keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan,6334.0
+ClockGet/SimpleIOCPServer,SimpleIOCPServer,"A simple I/O Completion Port Server and Client, use the Task-based Asynchronous Pattern with Async and Await.",137,1,C#,ClockGet,,User,"Xi'an City, Shaanxi Province, PRC",34.341574,108.93977,Xi'an,China,6334.0
+nuke-build/nuke,nuke,Cross-platform build automation system,135,9,C#,nuke-build,nuke-build,Organization,Internet,,,,,6420.5
+ligershark/WebOptimizer,WebOptimizer,A bundler and minifier for ASP.NET Core,134,13,C#,ligershark,LigerShark,Organization,Seattle,,,,,6466.0
+javaSwing/MusicAPI,MusicAPI,网易云音乐网页版API接口,132,36,C#,javaSwing,javaSwing,User,,,,,,6550.0
+chengkehan/GPUSkinning,GPUSkinning,,132,45,C#,chengkehan,Jim Cheng,User,Suzhou Jiangsu China,31.298973999999998,120.58528899999999,Suzhou,China,6550.0
+jongallant/LiquidSimulator,LiquidSimulator,Cellular Automaton 2D Liquid Simulator for Unity,131,15,C#,jongallant,Jon,User,Canada,,,,,6600.0
+Azure/azure-functions-cli,azure-functions-cli,Command line tool for Azure Function,130,47,C#,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",,,,,6649.0
+zodiacon/KernelExplorer,KernelExplorer,,130,29,C#,zodiacon,Pavel Yosifovich,User,,,,,,6649.0
+Immortalt/imt-wanke-client,imt-wanke-client,不朽玩客云客户端(Immortalt Wanke Client),129,61,C#,Immortalt,Immortalt,User,,,,,,6699.5
+tawnkramer/sdsandbox,sdsandbox,This provides a sandbox simulator for training a self-driving car. This uses Unity for simulation and Python with Keras and Tensorflow for training. Recently updated to work on Python 3.4+ and Keras 2+,129,36,C#,tawnkramer,Tawn Kramer,User,"San Diego, CA",32.715738,-117.1610838,San Diego,United States,6699.5
+jiangjinnan/Dora,Dora,,127,35,C#,jiangjinnan,Jiang Jin Nan,User,,,,,,6796.5
+DamonMohammadbagher/NativePayload_DNS,NativePayload_DNS,C# code for Backdoor Payloads transfer by DNS Traffic and Bypassing Anti-viruses  ,126,58,C#,DamonMohammadbagher,Damon Mohammadbagher,User,,,,,,6850.5
+RandomationGames/Randomation-Vehicle-Physics,Randomation-Vehicle-Physics,Vehicle physics system for the Unity engine.,125,38,C#,RandomationGames,Justin Couch,User,,,,,,6913.5
+endgameinc/Py2ExeDecompiler,Py2ExeDecompiler,,125,26,C#,endgameinc,ENDGAME,Organization,"Washington, DC",,,,,6913.5
+ClockGet/AutoCopy,AutoCopy,A automatic object-object copyer,125,3,C#,ClockGet,,User,"Xi'an City, Shaanxi Province, PRC",34.341574,108.93977,Xi'an,China,6913.5
+apache/logging-log4net,logging-log4net,Mirror of This is the Apache log4net logging project git repository.,125,46,C#,apache,The Apache Software Foundation,Organization,,,,,,6913.5
+ArthurBrussee/Vapor,Vapor,Volumetric Fog for Unity,122,5,C#,ArthurBrussee,Arthur Brussee,User,,,,,,7085.5
+x41sec/browser-security-whitepaper-2017,browser-security-whitepaper-2017,X41 Browser Security White Paper - Tools and PoCs,122,26,C#,x41sec,,User,,,,,,7085.5
+Tyrrrz/CliWrap,CliWrap,Wrapper for command line interfaces,120,7,C#,Tyrrrz,Alexey Golub,User,"Kyiv, Ukraine",50.4501,30.5234,Kyiv,Ukraine,7203.0
+dreling8/Nop.Framework,Nop.Framework,c# asp.net mvc  base development framework from nopCommerce。,119,35,C#,dreling8,mike,User,"Shenzhen City, Guangdong Province, PRC",,,,,7265.0
+jchannon/Botwin,Botwin,Botwin is a library that allows Nancy-esque routing for use with ASP.Net Core.,119,23,C#,jchannon,Jonathan Channon,User,UK,55.378051,-3.435973,,United Kingdom,7265.0
+Azure/service-fabric-services-and-actors-dotnet,service-fabric-services-and-actors-dotnet,Reliable Services and Reliable Actors are Service Fabric application frameworks for building highly-scalable distributed cloud applications.,118,40,C#,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",,,,,7328.0
+jacksondunstan/UnityNativeScripting,UnityNativeScripting,Unity Scripting in C++,118,8,C#,jacksondunstan,Jackson Dunstan,User,"Los Angeles, CA",34.0522342,-118.24368490000002,Los Angeles,United States,7328.0
+malwareinfosec/EKFiddle,EKFiddle,A framework to study Exploit Kits,118,26,C#,malwareinfosec,Jérôme Segura,User,,,,,,7328.0
+zodiacon/DriverMon,DriverMon,Monitor activity of any driver,118,22,C#,zodiacon,Pavel Yosifovich,User,,,,,,7328.0
+keijiro/CosineGradient,CosineGradient,Cosine gradient generator for Unity,117,11,C#,keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan,7392.5
+keijiro/RDSystem,RDSystem,Reaction-diffusion system with CustomRenderTexture.,116,9,C#,keijiro,Keijiro Takahashi,User,Japan,36.204824,138.252924,,Japan,7466.5
+azchohfi/LottieUWP,LottieUWP,UWP port of Lottie(https://github.com/airbnb/lottie-android),116,13,C#,azchohfi,Alexandre Zollinger Chohfi,User,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,7466.5
+shanselman/TinyOS,TinyOS,TinyOS in C#,116,15,C#,shanselman,Scott Hanselman,User,"Portland, OR",,,,,7466.5
+OmniGUI/OmniGUI,OmniGUI,A cross-platform GUI framework from scratch just to learn,115,6,C#,OmniGUI,OmniGUI Platform,Organization,,,,,,7532.5
+Dynatrace/superdump,superdump,A service for automated crash-dump analysis,114,20,C#,Dynatrace,Dynatrace,Organization,"Waltham, Boston",42.3948159,-71.2598509,Waltham,United States,7593.5
+G-E-N-E-S-I-S/loadlibrayy,loadlibrayy,x64 manualmapper with kernel elevation and thread hijacking capabilities to bypass anticheats,114,77,C#,G-E-N-E-S-I-S,striek,User,dat dere fæderland,,,,,7593.5
+btcpayserver/btcpayserver,btcpayserver,"A cross platform, self-hosted server compatible with Bitpay API ",114,19,C#,btcpayserver,BTCPay Server,Organization,,,,,,7593.5
+valit-stack/Valit,Valit,Valit is dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!,113,6,C#,valit-stack,Valit,Organization,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,7670.5
+dotnet/platform-compat,platform-compat,Roslyn analyzer that finds usages of APIs that will throw PlatformNotSupportedException on certain platforms.,113,9,C#,dotnet,.NET Foundation,Organization,,,,,,7670.5
+chenjd/Render-Crowd-Of-Animated-Characters,Render-Crowd-Of-Animated-Characters,利用GPU实现大规模动画角色的渲染。 anim map for vertex shader to modify the vertex position of the mesh at runtime. use gpu instancing to reduce draw call.,113,42,C#,chenjd,jiadong chen,User,,,,,,7670.5
+gibbed/SteamAchievementManager,SteamAchievementManager,A manager for game achievements in Steam.,112,27,C#,gibbed,Rick Gibbed,User,,,,,,7748.0
+ClockGet/AsyncMiddleWare,AsyncMiddleWare,模仿.net core mvc中间件的设计模式（简化版），实现参考了asp.net core的代码HttpAbstractions和nodejs的开源库koa,112,2,C#,ClockGet,,User,"Xi'an City, Shaanxi Province, PRC",34.341574,108.93977,Xi'an,China,7748.0
+mapbox/mapbox-ar-unity,mapbox-ar-unity,"A place to create/learn with Unity, ARKit/ARCore, and Mapbox!",112,12,C#,mapbox,Mapbox,Organization,Washington DC,38.9071923,-77.03687070000001,Washington,United States,7748.0
+Bin4ry/deejayeye-modder,deejayeye-modder,,112,70,C#,Bin4ry,,User,,,,,,7748.0
+1217950746/Arthas-WPFUI,Arthas-WPFUI,这是一个WPF的UI库（实际应该算个控件库吧）,112,39,C#,1217950746,ONEO,User,,,,,,7748.0
+liuziangexit/HEIF-Utility,HEIF-Utility,HEIF 实用工具 - 在 Windows 上查看/转换 Apple HEIF 图片。 ,111,12,C#,liuziangexit,liuziangexit,User,GuangZhou,23.12911,113.264385,Guangzhou,China,7820.0
+nccgroup/WMIcmd,WMIcmd,A command shell wrapper using only WMI for Microsoft Windows,109,32,C#,nccgroup,NCC Group Plc,Organization,Global,,,,,7981.5
+BloodHoundAD/SharpHound,SharpHound,The BloodHound C# Ingestor,108,15,C#,BloodHoundAD,,Organization,,,,,,8056.0
+kphillpotts/XamarinFormsLayoutChallenges,XamarinFormsLayoutChallenges,Sample Layouts for Xamarin Forms,108,43,C#,kphillpotts,Kym Phillpotts,User,Melbourne,-37.813627600000004,144.96305759999998,Melbourne,Australia,8056.0
+KhronosGroup/UnityGLTF,UnityGLTF,Runtime GLTF Loader for Unity3D,107,44,C#,KhronosGroup,The Khronos Group,Organization,Beaverton OR,45.48706199999999,-122.8037102,Beaverton,United States,8118.5
+wokhansoft/WFN,WFN,This repository hosts source code for the WFN tool (previously on codeplex). You can also find binary releases at https://github.com/wokhansoft/WFN/releases.,107,13,C#,wokhansoft,Wokhan Solutions,Organization,,,,,,8118.5
+IKende/Beetle.DT,Beetle.DT,分布式压力测试工具,106,29,C#,IKende,泥水佬,User,guangzhou of china,,,,,8187.5
+rjth/Punchkeyboard,Punchkeyboard,"Punchkeyboard is an open-source keyboard for virtual reality, enhanced with autocomplete and next word prediction functionality for a swift typing experience.",106,18,C#,rjth,Jonathan Ravasz,User,,,,,,8187.5
+MarekKowalski/LiveScan3D-Hololens,LiveScan3D-Hololens,A Unity application for receiving and rendering point clouds on Hololens and other devices.,105,43,C#,MarekKowalski,Marek,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,8277.5
+mzomparelli/zVirtualDesktop,zVirtualDesktop,"Windows 10 Virtual Desktop Hotkeys, System Tray Icon, and Wallpapers",105,10,C#,mzomparelli,Michael,User,"Chicago, IL, USA",41.8781136,-87.62979820000001,Chicago,United States,8277.5
+cesarsouza/keras-sharp,keras-sharp,"An ongoing effort to port the Keras deep learning library to C#, supporting both TensorFlow and CNTK",104,18,C#,cesarsouza,César Souza,User,"Grenoble, France",45.188528999999996,5.724524,Grenoble,France,8366.5
+ElderJames/shriek-fx,shriek-fx,"⚡️A ddd+cqrs+es framework for .NET Core 2.0 that would make you shriek! Simple,elegant and useful!一个使用 .NET Core 2.0 开发的简单易用的领域驱动设计分层框架（DDD+CQRS），宗旨是让小型应用也能用DDD的思想去开发，使开发者告别对领域驱动设计的复杂认识。",102,16,C#,ElderJames,James Yeung,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,8520.0
+jongalloway/aspnetcore-app-workshop,aspnetcore-app-workshop,This workshop has been migra
