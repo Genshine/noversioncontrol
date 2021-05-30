@@ -6844,4 +6844,126 @@ bl4de/security_whitepapers,security_whitepapers,"Collection of misc IT Security 
 airbnb/lottie,lottie,Lottie documentation.,136,27,HTML,airbnb,Airbnb,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,6376.0
 deepakkumar1984/SiaNet,SiaNet,A C# deep learning wrapper with CNTK backend,136,45,HTML,deepakkumar1984,Deepak Kumar Battini,User,"Adelaide, Australia",-34.9284989,138.6007456,Adelaide,Australia,6376.0
 codrops/LetterInteractions,LetterInteractions,Some inspiration for playful typographical effects and hover interactions on letters.,136,26,HTML,codrops,Codrops,Organization,,,,,,6376.0
-ThePacielloGroup/cupper,cupper,Example site for an inclusive pattern library theme,135,36,HTML,ThePacielloGroup,The Paciello Group,Organization,"USA, UK, IE, NL, NZ, FR, CA, CO, TX, MD, MA, Canada",,,,,642
+ThePacielloGroup/cupper,cupper,Example site for an inclusive pattern library theme,135,36,HTML,ThePacielloGroup,The Paciello Group,Organization,"USA, UK, IE, NL, NZ, FR, CA, CO, TX, MD, MA, Canada",,,,,6420.5
+secmob/pwnfest2016,pwnfest2016,"full exploit of pwnfest2016, slide and full text of syscan2017",135,41,HTML,secmob,,User,,,,,,6420.5
+hzlshen/learning-algorithm,learning-algorithm,Data structure and algorithm book study,134,0,HTML,hzlshen,,User,深圳,22.543096,114.05786499999999,Shenzhen,China,6466.0
+lvleihere/jd.com,jd.com,手写京动网站,134,0,HTML,lvleihere,吕雷,User,cn,35.86166,104.195397,,China,6466.0
+CodeBrauer/100daysofcode,100daysofcode,A repo with small projects,132,10,HTML,CodeBrauer,Gabriel Wanzek,User,"Mannheim, Germany",49.4874592,8.466039499999999,Mannheim,Germany,6550.0
+nisrulz/app-privacy-policy-generator,app-privacy-policy-generator,Simple web app to generate a generic privacy policy for apps,132,22,HTML,nisrulz,Nishant Srivastava,User,"Vancouver, BC",49.282729100000005,-123.1207375,Vancouver,Canada,6550.0
+tgomilar/paroller.js,paroller.js,Parallax scrolling jQuery plugin,131,38,HTML,tgomilar,,User,,,,,,6600.0
+phodal/serverless,serverless,Serverless 架构应用开发指南 - Serverless Architecture Application Development Guide with Serverless Framework.,130,15,HTML,phodal,Phodal Huang,User,"Shenzhen, China",22.543096,114.05786499999999,Shenzhen,China,6649.0
+CyclejsCN/cyclejs.cn,cyclejs.cn,The Cycle.js Chinese documentation website.,130,26,HTML,CyclejsCN,,Organization,,,,,,6649.0
+actions-on-google/actionssdk-smart-home-nodejs,actionssdk-smart-home-nodejs,A sample of the Smart Home device control APIs in Actions on Google,129,58,HTML,actions-on-google,Actions on Google,Organization,,,,,,6699.5
+fossasia/2017.codeheat.org,2017.codeheat.org,Codeheat 2017 Website http://2017.codeheat.org,127,4,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6796.5
+petewarden/open-speech-recording,open-speech-recording,Web application to record speech for an open data set,127,37,HTML,petewarden,Pete Warden,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,6796.5
+fossasia/jobs.fossasia.org,jobs.fossasia.org,FOSSASIA Jobs site at http://jobs.fossasia.org,127,4,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6796.5
+isellsoap/specificity-visualizer,specificity-visualizer,📈 A visual way to analyze the specificity of selectors in CSS.,126,4,HTML,isellsoap,Francesco Schwarz,User,"Munich, Germany",48.1351253,11.581980499999998,Munich,Germany,6850.5
+codrops/FolderPreviewIdeas,FolderPreviewIdeas,"Some ideas for interacting, previewing or just playing with folders on hover",126,25,HTML,codrops,Codrops,Organization,,,,,,6850.5
+gwuhaolin/dive-into-webpack,dive-into-webpack,全面的Webpack教程《深入浅出Webpack》,126,32,HTML,gwuhaolin,浩麟,User,成都,,,,,6850.5
+codrops/MorphingBackgroundShapes,MorphingBackgroundShapes,A decorative website background effect where SVG shapes morph and transform on scroll.,126,29,HTML,codrops,Codrops,Organization,,,,,,6850.5
+fossasia/Flask_Simple_Form,Flask_Simple_Form,Flask app with a Simple Form,126,29,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6850.5
+hzlshen/webapp,webapp,jqm实现简单的手机查询练手,125,0,HTML,hzlshen,,User,深圳,22.543096,114.05786499999999,Shenzhen,China,6913.5
+zhovner/zaborona_help,zaborona_help,Бесплатный сервис для обхода блокировок сайтов в Украине — https://zaborona.help,125,44,HTML,zhovner,Pavel Zhovner,User,"Russia, Moscow",55.755826,37.6172999,Moscow,Russia,6913.5
+fossasia/sphinx_fossasia_theme,sphinx_fossasia_theme,Theme for Sphinx/Yaydoc,125,2,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6913.5
+iliakan/javascript-tutorial-ru,javascript-tutorial-ru,Современный учебник JavaScript,124,131,HTML,iliakan,Ilya Kantor,User,,,,,,6974.5
+tc39/proposal-cancellation,proposal-cancellation,Proposal for a Cancellation API for ECMAScript,124,2,HTML,tc39,Ecma TC39,Organization,The web,,,,,6974.5
+roboryantron/Unite2017,Unite2017,Sample project for Game Architecture with Scriptable Objects from Unite Austin 2017,124,12,HTML,roboryantron,,User,,,,,,6974.5
+fossasia/loklak.net,loklak.net,loklak.net,124,0,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6974.5
+home-assistant/hassio,hassio,:house_with_garden: First private cloud OS for home automation,124,30,HTML,home-assistant,Home Assistant,Organization,Your home,,,,,6974.5
+fossasia/opendesign.asia,opendesign.asia,Website for OpenDesign.Asia http://opendesign.asia,124,4,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6974.5
+Asing1001/universiade-ticket,universiade-ticket,Advanced Universiade ticket system,124,20,HTML,Asing1001,Sing,User,"Taipei,Taiwan",25.0329694,121.56541770000001,Taipei,Taiwan,6974.5
+promosis/file-upload-with-preview,file-upload-with-preview,A simple file-upload utility that shows a preview of the uploaded image. Written in pure JavaScript. No dependencies. Works well with Bootstrap 4 or without a framework.,123,8,HTML,promosis,"Promosis, Inc.",Organization,Massachusetts,,,,,7031.5
+liunian1004/Resume,Resume,个人简历,123,0,HTML,liunian1004,system,User,,,,,,7031.5
+Mr-houzi/Mr-houzi.github.io,Mr-houzi.github.io,Blog,123,0,HTML,Mr-houzi,,User,,,,,,7031.5
+fossasia/sphinx_phimpme_theme,sphinx_phimpme_theme,Sphinx Phimpme Theme,123,0,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7031.5
+fossasia/sphinx_susiai_theme,sphinx_susiai_theme,sphinx_susiai_theme,123,9,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7031.5
+fossasia/sciencetech.asia,sciencetech.asia,Website for ScienceTech.Asia http://sciencetech.asia,123,0,HTML,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7031.5
+dengbaoling/TODOLIST,TODOLIST,TODOLIST做的增添和删除,121,0,HTML,dengbaoling,dengbaoling,User,,,,,,7141.5
+refscn/rplibs,rplibs,Refs.cn 原型设计元件库，基于Axure RP 8，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。,120,28,HTML,refscn,Refs.cn,Organization,,,,,,7203.0
+pkjoebinbin/hitsis-Landing-Page,hitsis-Landing-Page,hitsis Landing Page最后定稿,119,1,HTML,pkjoebinbin,SteveJoe,User,"GuangZhou,China",,,,,7265.0
+loklak/dev.loklak.org,dev.loklak.org,Loklak Documentation Repository http://dev.loklak.org,119,7,HTML,loklak,loklak,Organization,,,,,,7265.0
+krishnakumarsekar/awesome-quantum-machine-learning,awesome-quantum-machine-learning,"Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web",119,31,HTML,krishnakumarsekar,krishna kumar sekar,User,,,,,,7265.0
+CoderSavior/wechatRedPacket,wechatRedPacket,模拟微信抢红包,118,2,HTML,CoderSavior,,User,,,,,,7328.0
+OnebugIS/React-https-m.maizuo.com-v4-,React-https-m.maizuo.com-v4-,用React构造的https://m.maizuo.com/v4/,118,5,HTML,OnebugIS,,User,,,,,,7328.0
+loklak/sphinx_loklak_theme,sphinx_loklak_theme,,118,0,HTML,loklak,loklak,Organization,,,,,,7328.0
+notwaldorf/lazy-image,lazy-image,A custom image element that lets you load resources on demand,118,8,HTML,notwaldorf,Monica Dinculescu,User,Sun Funcisco ☀️,,,,,7328.0
+mattzeunert/CSS-Todo-App,CSS-Todo-App,Basic todo app functionality without using JavaScript,117,22,HTML,mattzeunert,Matt Zeunert,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,7392.5
+vuejs-tips/vuex-cheatsheet,vuex-cheatsheet,Vuex Complete API CheatSheet,116,11,HTML,vuejs-tips,Vue.js Tips,Organization,,,,,,7466.5
+bjango/Hugs,Hugs,🤗 A super simple starting point for Hugo websites.,116,4,HTML,bjango,,Organization,Australia.,-25.274398,133.775136,,Australia,7466.5
+omersiar/esp-rfid,esp-rfid,"MFRC522 RFID on ESP8266 featuring WebSocket, JSON, NTP Client, Javascript , SPIFFS",116,38,HTML,omersiar,,User,,,,,,7466.5
+tomhodgins/reprocss,reprocss,A flexible <style>-tag based CSS reprocessor,116,1,HTML,tomhodgins,Tommy Hodgins,User,"Toronto, Canada",,,,,7466.5
+theori-io/chakra-2016-11,chakra-2016-11,Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201),115,47,HTML,theori-io,Theori,Organization,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States,7532.5
+YUUXIAO/webProject,webProject,记录我在学习前端过程中做过的小demo，js部分全用源生js实现，此项目会持续更新。,115,51,HTML,YUUXIAO,YuXiao,User,,,,,,7532.5
+jiayisheji/jianshu,jianshu,仿简书nodejs+express+mongodb+vue2+angular4+爬虫,114,37,HTML,jiayisheji,jiayi,User,,,,,,7593.5
+jimmysong/programmingbitcoin,programmingbitcoin,Repository for the book,114,8,HTML,jimmysong,Jimmy Song,User,,,,,,7593.5
+FirefoxUX/photon,photon,Firefox’s Photon Design System.,114,29,HTML,FirefoxUX,Firefox UX,Organization,,,,,,7593.5
+alflennik/au7,au7,Aurelia Framework7: A Lightweight Mobile App Platform,113,11,HTML,alflennik,Alexander Flenniken,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,7670.5
+yacy/yacy_grid_ui,yacy_grid_ui,Home Page of yacygrid.com,113,0,HTML,yacy,YaCy Search Engine,Organization,,,,,,7670.5
+nowa-webpack/nowa-gui,nowa-gui,,113,14,HTML,nowa-webpack,nowa,Organization,,,,,,7670.5
+MunifTanjim/minimo,minimo,Minimo - Minimalist theme for Hugo,113,63,HTML,MunifTanjim,Munif Tanjim,User,"Dhaka, Bangladesh",23.810332,90.4125181,Dhaka,Bangladesh,7670.5
+Konstantin8105/Effective_Go_RU,Effective_Go_RU,Перевод - Эффективный Go,112,29,HTML,Konstantin8105,Konstantin,User,"Russia, Sainkt-Peterburg",59.9342802,30.335098600000002,Saint Petersburg,Russia,7748.0
+tc39/proposal-do-expressions,proposal-do-expressions,Proposal for `do` expressions,112,1,HTML,tc39,Ecma TC39,Organization,The web,,,,,7748.0
+renoirfaria/hardpath,hardpath,Teclado online para traduzir criptografia deixada por Bruno Silva Borges. https://glo.bo/2oSMn6C,110,52,HTML,renoirfaria,Renoir dos Reis,User,"São Paulo, Brazil",-23.550519899999998,-46.63330939999999,São Paulo,Brazil,7898.0
+tobiasahlin/moving-letters,moving-letters,Text animated with anime.js,109,4,HTML,tobiasahlin,Tobias Ahlin,User,Sweden,60.12816100000001,18.643501,,Sweden,7981.5
+real-ai/realai.org,realai.org,,107,28,HTML,real-ai,Real AI,Organization,Hong Kong,,,,,8118.5
+Meadowcottage/gitmoji,gitmoji,:stuck_out_tongue_winking_eye: Menubar client for the gitmoji guide,107,9,HTML,Meadowcottage,[MEADOW_DEV],User,UK,,,,,8118.5
+stitchfix/algorithms-tour,algorithms-tour,How data science is woven into the fabric of Stitch Fix,106,26,HTML,stitchfix,Stitch Fix Technology,Organization,Everywhere,,,,,8187.5
+appstract/laravel-bootstrap-components,laravel-bootstrap-components,Bootstrap components as Laravel components,106,4,HTML,appstract,Appstract,Organization,The Netherlands,52.132633,5.2912659999999985,,Netherlands,8187.5
+nicehash/excavator,excavator,NiceHash's proprietary low-level CUDA and OpenCL miner,105,41,HTML,nicehash,NiceHash.com,Organization,,,,,,8277.5
+nyu-dl/SearchQA,SearchQA,,105,9,HTML,nyu-dl,,Organization,,,,,,8277.5
+OnebugIS/cart-search,cart-search,https://github.com/OnebugIS/React-https-m.maizuo.com-v4-新增模拟cart/search,105,0,HTML,OnebugIS,,User,,,,,,8277.5
+ChinaSilence/any-chat,any-chat,Spring Boot + WebSocket 开发 WEB即时通信工具,105,50,HTML,ChinaSilence,杨远东,User,,,,,,8277.5
+xbresson/graph_convnets_pytorch,graph_convnets_pytorch,"PyTorch implementation of graph ConvNets, NIPS’16",105,16,HTML,xbresson,Xavier Bresson,User,,,,,,8277.5
+OnebugIS/vue-leparject,vue-leparject,基于vue重构http://m.1c10.cn/,104,2,HTML,OnebugIS,,User,,,,,,8366.5
+IBM/elasticsearch-spark-recommender,elasticsearch-spark-recommender,Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch,104,27,HTML,IBM,International Business Machines,Organization,"Armonk, New York, U.S.",41.1264849,-73.71401949999998,Armonk,United States,8366.5
+MI2DataLab/randomForestExplainer,randomForestExplainer,A set of tools to understand what is happening inside a Random Forest,103,6,HTML,MI2DataLab,MI^2 DataLab,Organization,,,,,,8444.0
+tc39/proposal-decorators,proposal-decorators,Decorators for ES6 classes,103,7,HTML,tc39,Ecma TC39,Organization,The web,,,,,8444.0
+OnebugIS/nodejs--project,nodejs--project,"基于nodejs,Robomong数据库开发的博客后台管理系统",102,2,HTML,OnebugIS,,User,,,,,,8520.0
+reasonml/reasonml.github.io,reasonml.github.io,Reason's documentation site,102,157,HTML,reasonml,,Organization,,,,,,8520.0
+mrdoob/daydream-controller.js,daydream-controller.js,Daydream Controller with WebBluetooth,102,17,HTML,mrdoob,Mr.doob,User,,,,,,8520.0
+OnebugIS/vue-project,vue-project,http://m.maizuo.com/v4/?co=maizuo卖座网vue的实现,101,1,HTML,OnebugIS,,User,,,,,,8590.0
+rstudio/rstudio-conf,rstudio-conf,Materials for rstudio::conf,101,71,HTML,rstudio,RStudio,Organization,"Boston, MA",42.360082500000004,-71.0588801,Boston,United States,8590.0
+codrops/MorphingPageTransition,MorphingPageTransition,A simple morphing page transition effect where an SVG path gets morphed into another while the current page moves up.,101,21,HTML,codrops,Codrops,Organization,,,,,,8590.0
+pudongqi/Laboratory-reservation-management-system,Laboratory-reservation-management-system,华中师范大学计算机学院实验室预约管理系统（作业）,101,17,HTML,pudongqi,蒲东齐,User,"Wuhan,China",,,,,8590.0
+green-android/green-android.github.io,green-android.github.io,Web portal,101,2,HTML,green-android,,Organization,,,,,,8590.0
+Arno0x/EmbedInHTML,EmbedInHTML,Embed and hide any file in an HTML file,100,24,HTML,Arno0x,,User,,,,,,8660.0
+YenYuHsuan/hexo-theme-beantech,hexo-theme-beantech,":sparkles: Ported theme of Hux Blog by Kaijun, Modified by YuHsuan :sparkles:",100,28,HTML,YenYuHsuan,Yu Hsuan Yen,User,Taiwan,23.69781,120.96051499999999,,Taiwan,8660.0
+atech/postal,postal,📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail,7493,349,Ruby,atech,aTech Media,Organization,UK,,,,,39.0
+brunofacca/zen-rails-security-checklist,zen-rails-security-checklist,Checklist of security precautions for Ruby on Rails applications.,1378,106,Ruby,brunofacca,Bruno Facca,User,Brazil,-14.235004,-51.92528,,Brazil,542.0
+Shopify/bootsnap,bootsnap,Boot large Ruby/Rails apps faster,1374,53,Ruby,Shopify,Shopify,Organization,,,,,,543.0
+athityakumar/colorls,colorls,"A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:",1273,80,Ruby,athityakumar,Athitya Kumar,User,Kharagpur,22.34601,87.2319753,Kharagpur,India,592.5
+openblockchains/awesome-blockchains,awesome-blockchains,A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. ,1225,74,Ruby,openblockchains,Blockchain! Blockchain! Blockchain!,Organization,,,,,,621.0
+arbox/machine-learning-with-ruby,machine-learning-with-ruby,Curated list: Resources for machine learning in Ruby.,779,62,Ruby,arbox,Andrei Beliankou,User,Germany,51.165690999999995,10.451526,,Germany,1030.5
+brunofacca/zen-rails-base-app,zen-rails-base-app,Base application for Ruby on Rails 5 projects. Built to  minimize the time spent writing boilerplate code and performing repetitive  setup tasks. ,602,89,Ruby,brunofacca,Bruno Facca,User,Brazil,-14.235004,-51.92528,,Brazil,1398.0
+ankane/dexter,dexter,The automatic indexer for Postgres,520,10,Ruby,ankane,Andrew Kane,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1612.5
+ElevenPaths/Eternalblue-Doublepulsar-Metasploit,Eternalblue-Doublepulsar-Metasploit,,451,286,Ruby,ElevenPaths,Eleven Paths,Organization,,,,,,1878.0
+pluosi/app-host,app-host,应用内网发布 | iOS OTA (Over-the-Air) | APP publish website like fir.im  | 适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包,444,45,Ruby,pluosi,Beijing Prosper Investment Consulting Company Ltd.,Organization,Beijing,,,,,1913.0
+arbox/data-science-with-ruby,data-science-with-ruby,Practical Data Science with Ruby based tools.,362,24,Ruby,arbox,Andrei Beliankou,User,Germany,51.165690999999995,10.451526,,Germany,2344.5
+kbsecret/kbsecret,kbsecret,A secret manager backed by Keybase and KBFS.,360,14,Ruby,kbsecret,KBSecret,Organization,,,,,,2354.5
+palkan/test-prof,test-prof,Ruby Tests Profiling Toolbox,332,23,Ruby,palkan,Vladimir Dementyev,User,,,,,,2563.0
+aderyabin/sniffer,sniffer,Log and Analyze Outgoing HTTP Requests,309,14,Ruby,aderyabin,Andrey Deryabin,User,,,,,,2761.5
+exAspArk/batch-loader,batch-loader,:zap: Powerful tool to avoid N+1 DB or HTTP queries,303,8,Ruby,exAspArk,,User,,,,,,2809.0
+Shopify/kubernetes-deploy,kubernetes-deploy,A command-line tool that helps you ship changes to a Kubernetes namespace and understand the result,302,15,Ruby,Shopify,Shopify,Organization,,,,,,2819.0
+david942j/one_gadget,one_gadget,A tool for you easy to find the one gadget RCE in libc.so.6,301,38,Ruby,david942j,david942j,User,Taiwan,23.69781,120.96051499999999,,Taiwan,2828.5
+jamis/castaway,castaway,System for building screencasts and video presentations,297,3,Ruby,jamis,Jamis Buck,User,"Smithfield, Utah, USA",41.8382622,-111.83272290000001,Smithfield,United States,2863.0
+Anupam-dagar/awesome-first-timers,awesome-first-timers,Place to contribute if you are a first timer,288,548,Ruby,Anupam-dagar,Anupam Dagar,User,"Allahabad,India",,,,,2940.5
+basecamp/geared_pagination,geared_pagination,Paginate Active Record sets at variable speeds,274,4,Ruby,basecamp,Basecamp,Organization,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,3091.0
+shioyama/mobility,mobility,Pluggable Ruby translation framework,272,10,Ruby,shioyama,Chris Salzberg,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,3112.0
+Sliim/pentest-lab,pentest-lab,"Pentest Lab on OpenStack with Heat, Chef provisioning and Docker",255,56,Ruby,Sliim,Sliim,User,,,,,,3324.0
+ankane/multiverse,multiverse,Multiple databases for Rails :tada:,247,4,Ruby,ankane,Andrew Kane,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3414.5
+gmontard/dockrails,dockrails,Simple CLI to Generate and Run a Rails environment with Docker (in Development) !,247,13,Ruby,gmontard,Guillaume Montard,User,Paris,48.856614,2.3522218999999995,Paris,France,3414.5
+HatBashBR/HatCloud,HatCloud,Bypass CloudFlare with Ruby,241,87,Ruby,HatBashBR,HatBashBR,Organization,Brazil,,,,,3513.5
+jcs/bitwarden-ruby,bitwarden-ruby,A Bitwarden-compatible API server written in Ruby (Sinatra),238,16,Ruby,jcs,joshua stein,User,"chicago, illinois",41.8781136,-87.62979820000001,Chicago,United States,3562.0
+jobertabma/ground-control,ground-control,"A collection of scripts that run on my web server. Mainly for debugging SSRF, blind XSS, and XXE vulnerabilities.",232,54,Ruby,jobertabma,Jobert Abma,User,San Francisco / Groningen,,,,,3667.0
+bkuhlmann/git-cop,git-cop,Enforces consistent Git commits.,231,7,Ruby,bkuhlmann,Brooke Kuhlmann,User,"Boulder, CO USA",40.0149856,-105.2705456,Boulder,United States,3682.0
+rails-engine/action-store,action-store,"Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.",212,12,Ruby,rails-engine,Rails Engine,Organization,,,,,,4022.0
+tombenner/reports_kit,reports_kit,"Beautiful, interactive charts and tables for Ruby on Rails",209,7,Ruby,tombenner,Tom Benner,User,"San Francisco, CA",,,,,4089.0
+janlelis/uniscribe,uniscribe,Debug help for Unicode strings,198,4,Ruby,janlelis,Jan Lelis,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,4308.0
+exAspArk/graphql-guard,graphql-guard,Simple authorization gem for GraphQL :lock:,195,7,Ruby,exAspArk,,User,,,,,,4375.0
+github/explore,explore,Community-curated topic pages on GitHub,195,91,Ruby,github,GitHub,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4375.0
+basecamp/google_sign_in,google_sign_in,Sign in (or up) with Google for Rails applications,194,8,Ruby,basecamp,Basecamp,Organization,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,4401.5
+danielwestendorf/get_schwifty,get_schwifty,Render portions of your Rails view in a background job queue. ActiveJob + ActionCable.,177,1,Ruby,danielwestendorf,Daniel Westendorf,User,"Sun Valley, ID",43.6971294,-114.3517172,Sun Valley,United States,4839.0
+mikker/passwordless,passwordless,🗝 Add authentication to your Rails app without all the icky-ness of passwords,174,9,Ruby,mikker,Mikkel Malmberg,User,"Copenhagen, Denmark",55.676096799999996,12.568337199999998,Copenhagen,Denmark,4932.5
+jakewmeyer/Ruby-Scripts,Ruby-Scripts,A collection of ruby scripts for those who live in the command line,171,19,Ruby,jakewmeyer,Jake Meyer,User,"Austin, Texas",30.267153000000004,-97.7430608,Austin,United States,5034.5
+rubytoolbox/rubytoolbox,rubytoolbox,The Ruby Toolbox,170,6,Ruby,rubytoolbox,The Ruby Toolbox,Organization,"Hamburg, Germany",,,,,5060.5
+khiav223577/deep_p
