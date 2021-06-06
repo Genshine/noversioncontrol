@@ -7303,4 +7303,118 @@ dunglas/symfony-docker,symfony-docker,A Docker-based installer and runtime for S
 allgamesallfree/ScreenType,ScreenType,Easily distinguish between iPhone models in Objective-C and Swift,149,11,Shell,allgamesallfree,Max Stein,User,NYC,,,,,5787.0
 PapirusDevelopmentTeam/adapta-kde,adapta-kde,Adapta KDE customization,149,10,Shell,PapirusDevelopmentTeam,Papirus Development Team,Organization,,,,,,5787.0
 aliasmee/alpine-ikev2-vpn,alpine-ikev2-vpn,Small Simple Free runing container's IKEv2 VPN base alpine image.,149,19,Shell,aliasmee,飞走不可,User,,,,,,5787.0
-corbindavenpor
+corbindavenport/creative-cloud-linux,creative-cloud-linux,PlayOnLinux install script for Adobe Creative Cloud,149,11,Shell,corbindavenport,Corbin Davenport,User,"Georgia, USA",,,,,5787.0
+spiffe/spiffe,spiffe,The SPIFFE Project,149,8,Shell,spiffe,SPIFFE,Organization,,,,,,5787.0
+Cleafy/sxkdvm,sxkdvm,SXKDVM - OSX Docker KVM / Run an OSX KVM virtual machine inside a Docker container.,149,14,Shell,Cleafy,.Cleafy,Organization,Worldwide,29.5170728,-98.4170523,San Antonio,United States,5787.0
+sebmarkbage/ocamlrun-wasm,ocamlrun-wasm,OCamlrun WebAssembly - OCaml Bytecode Interpreter in WASM,148,9,Shell,sebmarkbage,Sebastian Markbåge,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,5827.5
+Admin9705/PlexGuide.com-The-Awesome-Plex-Server,PlexGuide.com-The-Awesome-Plex-Server,Welcome to PlexGuide.com! Create an automated Plex Server with unlimited storage on an Ubuntu 16.04/17.04,148,20,Shell,Admin9705,Admin9705,User,USA,,,,,5827.5
+mozilla/zilla-slab,zilla-slab,Mozilla's Zilla Slab Type Family,145,13,Shell,mozilla,Mozilla,Organization,"Mountain View, California",37.3860517,-122.08385109999999,Mountain View,United States,5968.0
+joshlong/flux-flix-service,flux-flix-service,this is the code for a talk on reactive Spring jointly developed by Mark Heckler @mkheck and me @starbuxman,144,66,Shell,joshlong,Josh Long,User,"San Francisco, CA",,,,,6016.0
+geraldoramos/pigeon,pigeon,Pigeon is a simple 3D printed cloud home surveillance camera project that uses the new Raspberry Pi Zero W,141,10,Shell,geraldoramos,Geraldo Ramos,User,,,,,,6165.0
+node-on-mobile/androidify,androidify,,140,1,Shell,node-on-mobile,Node on Mobile,Organization,,,,,,6209.5
+sobolevn/dotfiles,dotfiles,"dotfiles for the developer happiness: zsh, brew, sublime, python, node, elixir",135,17,Shell,sobolevn,Nikita Sobolev,User,"Moscow, Russia",55.755826,37.6173,Moscow,Russia,6420.5
+r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL,Meterpreter_Paranoid_Mode-SSL,Meterpreter Paranoid Mode - SSL/TLS connections,134,43,Shell,r00t-3xp10it,pedro ubuntu,User,Lisbon - portugal,38.722252399999995,-9.1393366,Lisbon,Portugal,6466.0
+EOSIO/eos-token-distribution,eos-token-distribution,,133,58,Shell,EOSIO,,Organization,,,,,,6507.0
+M4sc3r4n0/Evil-Droid,Evil-Droid,,132,45,Shell,M4sc3r4n0,Mascerano bachir,User,algeria,28.033886,1.6596259999999998,,Algeria,6550.0
+jgamblin/MacOS-Maid,MacOS-Maid,Shell Script I Use To Automatically Clean Up My Mac.,132,12,Shell,jgamblin,Jerry Gamblin,User,United States,37.09024,-95.712891,,United States,6550.0
+fossasia/mew,mew,Package Manager Translator,129,10,Shell,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6699.5
+bitvijays/Pentest-Scripts,Pentest-Scripts,Github for the scripts utilised during Penetration test,128,38,Shell,bitvijays,Vijay Kumar,User,,,,,,6749.0
+GeekCloud-Team/geekcloud-ssh,geekcloud-ssh,SSH登陆显示脚本,128,17,Shell,GeekCloud-Team,GeekCloud Open Source Community,Organization,,,,,,6749.0
+changyuheng/fz,fz,"Cli shell plugin, the missing fuzzy tab completion feature of z",127,5,Shell,changyuheng,Henry Chang,User,Los Angeles,34.0522342,-118.24368490000002,Los Angeles,United States,6796.5
+dapphub/dapp,dapp,Simple tool for creating Ethereum-based dapps,127,25,Shell,dapphub,DappHub,Organization,Distributed,28.68575,-81.33723739999998,Longwood,United States,6796.5
+fossasia/arch-travis,arch-travis,,126,1,Shell,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6850.5
+Orientsoft/kubekit,kubekit,A Kubernetes deployment toolkit for offline environment.,126,46,Shell,Orientsoft,,Organization,,,,,,6850.5
+maldevel/PenTestKit,PenTestKit,Useful tools and scripts used during Penetration Tests.,123,49,Shell,maldevel,maldevel,User,Greece,40.7127837,-74.00594129999999,New York,United States,7031.5
+Mr-Linus/Install-Python3-Bash,Install-Python3-Bash,Centos6/7  一键安装Python3脚本,121,2,Shell,Mr-Linus,Linus Lee ,User,"YangZhou,China",,,,,7141.5
+suaefar/ryzen-test,ryzen-test,Tools to reproduce randomly crashing processes under load on AMD Ryzen processors on Linux,120,31,Shell,suaefar,Marc,User,,,,,,7203.0
+1N3/ReverseAPK,ReverseAPK,Quickly analyze and reverse engineer Android packages,120,34,Shell,1N3,1N3,User,,,,,,7203.0
+elizabethsiegle/Bay_Area_tech_meetups,Bay_Area_tech_meetups,"iOS, Android, web, hardware, bots...you name it, there's a meetup for you!",119,9,Shell,elizabethsiegle,Lizzie Siegle,User,"Bryn Mawr, PA",40.0230237,-75.3151772,Bryn Mawr,United States,7265.0
+MichaelAquilina/zsh-you-should-use,zsh-you-should-use,ZSH plugin that reminds you to use existing aliases for commands you just typed,118,3,Shell,MichaelAquilina,Michael Aquilina,User,"London, United Kingdom",51.5073509,-0.12775830000000002,London,United Kingdom,7328.0
+xl-tech/OpenVPN-easy-setup,OpenVPN-easy-setup,Bash script for easy and fast OpenVPN deploy,117,46,Shell,xl-tech,,User,,,,,,7392.5
+sindresorhus/macos-lock,macos-lock,Lock your Mac from the command-line,117,5,Shell,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,7392.5
+lavalamp-/ws-docker-community,ws-docker-community,Web Sight Docker Deployment,116,20,Shell,lavalamp-,_lavalamp,User,ATL,,,,,7466.5
+OMGZui/bash-step-to-step,bash-step-to-step,👀bash命令和语法--带你升级打boss,115,18,Shell,OMGZui,小粽子,User,"HangZhou, China",,,,,7532.5
+addy-dclxvi/almighty-dotfiles,almighty-dotfiles,My personal backup of my dotfiles (Arch Linux).,115,4,Shell,addy-dclxvi,Adhi Pambudi,User,"East Java, ID",,,,,7532.5
+daliansky/XiaoMi-Pro,XiaoMi-Pro,XiaoMi NoteBook Pro for macOS High Sierra & Sierra ,114,23,Shell,daliansky,daliansky,User,China,35.86166,104.195397,,China,7593.5
+oooldking/script,script,Some Linux scripts,114,70,Shell,oooldking,Oldking,User,"Chengdu,China",30.572815000000002,104.066801,Chengdu,China,7593.5
+docker/docker-install,docker-install,Docker installation script,114,42,Shell,docker,Docker,Organization,,,,,,7593.5
+groupon/ansible-silo,ansible-silo,Ansible in a self-contained environment via Docker.,113,14,Shell,groupon,Groupon,Organization,"Chicago, IL, USA",41.8781136,-87.62979820000001,Chicago,United States,7670.5
+Unbinilium/Twist,Twist,A Light Script For You To Setup Shadowsocks-libev Server with High-Speed Connections,112,38,Shell,Unbinilium,Unbinilium,User,Tokyo,35.6894875,139.69170640000002,Tokyo,Japan,7748.0
+SecurityFTW/cs-suite,cs-suite,Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.,112,35,Shell,SecurityFTW,,Organization,,,,,,7748.0
+bats-core/bats-core,bats-core,Bash Automated Testing System 2017,112,27,Shell,bats-core,Bats,Organization,,,,,,7748.0
+LisonFan/china_ip_list,china_ip_list,China IP,111,20,Shell,LisonFan,,User,,,,,,7820.0
+Screetsec/BruteSploit,BruteSploit,"BruteSploit is a collection of method for automated Generate, Bruteforce and Manipulation wordlist with interactive shell. That can be used during a penetration test to enumerate and maybe can be used in CTF for manipulation,combine,transform and permutation some words or file text :p",111,41,Shell,Screetsec,Edo Maland ,User,INDONESIA,-0.789275,113.921327,,Indonesia,7820.0
+FunctionClub/YankeeBBR,YankeeBBR,来自Loc大佬Yankee魔改的BBR的Debian一键安装包,111,97,Shell,FunctionClub,Function Club,Organization,China,,,,,7820.0
+futuresimple/helm-secrets,helm-secrets,A helm plugin that help manage secrets with Git workflow and store them anywhere,110,14,Shell,futuresimple,Base,Organization,"Kraków, PL",,,,,7898.0
+stefanprodan/swarmprom,swarmprom,"Docker Swarm instrumentation with  Prometheus, Grafana, cAdvisor, Node Exporter and Alert Manager",110,34,Shell,stefanprodan,Stefan Prodan,User,Bucharest,44.4267674,26.1025384,Bucharest,Romania,7898.0
+zx2c4/password-store,password-store,Read-only mirror of https://git.zx2c4.com/password-store - https://www.passwordstore.org/ . Pull requests and issues on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes is via the mailing list; see https://lists.zx2c4.com/mailman/listinfo/password-store .,110,10,Shell,zx2c4,Jason A. Donenfeld,User,,,,,,7898.0
+wismna/HackPi,HackPi,Hacking tool inside a Raspberry Pi zero,109,22,Shell,wismna,,User,Montréal,,,,,7981.5
+003random/003Recon,003Recon,Some tools to automate recon - 003random,109,31,Shell,003random,003random,User,poc-server.com,46.852158,-96.8711584,Fargo,United States,7981.5
+snipsco/tensorflow-build,tensorflow-build,A set of scripts to (cross-)build the Tensorflow C lib for various architectures / OS,108,17,Shell,snipsco,Snips,Organization,"Paris, France",48.856614,2.3522218999999995,Paris,France,8056.0
+rainglow/jetbrains,jetbrains,"250+ color themes for JetBrains IDEs including PHPStorm, Webstorm and more.",108,4,Shell,rainglow,,Organization,,,,,,8056.0
+Fakerr/goto,goto,Navigate long command lines using a minimalistic char-based decision tree.,106,4,Shell,Fakerr,Walid Berrahal,User,Tunisia,33.886917,9.537499,,Tunisia,8187.5
+rolandguelle/razer-blade-stealth-linux,razer-blade-stealth-linux,Install and run Linux on a Razer Blade Stealth (late 2016) and Razer Core.,104,15,Shell,rolandguelle,Roland Guelle,User,Cologne,44.76888889999999,-93.7805556,Cologne,United States,8366.5
+turkenh/ansible-interactive-tutorial,ansible-interactive-tutorial,Interactive Ansible tutorials with dead simple setup via Docker,104,12,Shell,turkenh,,User,,,,,,8366.5
+peterpt/eternal_scanner,eternal_scanner,An internet scanner for exploit CVE-2017-0144 (Eternal Blue) & CVE-2017-0145 (Eternal Romance),102,39,Shell,peterpt,peterpt,User,Portugal,,,,,8520.0
+trustedsec/hardcidr,hardcidr,"hardCIDR is a Linux Bash script, but also functions under macOS. Your mileage may vary on other distros. The script with no specified options will query ARIN and a pool of BGP route servers. The route server is selected at random at runtime. ",102,14,Shell,trustedsec,trustedsec,User,"Cleveland, Ohio",41.499320000000004,-81.6943605,Cleveland,United States,8520.0
+kahkhang/kube-linode,kube-linode,:whale: Provision a Kubernetes/CoreOS cluster on Linode,102,20,Shell,kahkhang,Andrew Low,User,"Pittsburgh, Pennsylvania",,,,,8520.0
+diguage/mysql-notes,mysql-notes,MySQL 学习笔记,102,35,Shell,diguage,D瓜哥,User,Beijing,39.90419989999999,116.4073963,Beijing,China,8520.0
+reg-viz/reg-suit,reg-suit,:recycle: Visual Regression Testing tool,101,5,Shell,reg-viz,reg-viz,Organization,,,,,,8590.0
+Cisco-Talos/vboxhardening,vboxhardening,,100,21,Shell,Cisco-Talos,Cisco Talos,Organization,,,,,,8660.0
+shipcod3/mazda_getInfo,mazda_getInfo,A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made,100,19,Shell,shipcod3,Jay Turla,User,Philippines,12.879721,121.77401699999999,,Philippines,8660.0
+historicvally/springcloudComplete,springcloudComplete,,100,0,Shell,historicvally,historic vally,User,,,,,,8660.0
+twitter/reasonable-scala,reasonable-scala,Experimental Scala compiler focused on compilation speed,1088,22,Scala,twitter,"Twitter, Inc.",Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,729.0
+Azure/mmlspark,mmlspark,Microsoft Machine Learning for Apache Spark,545,109,Scala,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",,,,,1545.5
+softwaremill/sttp,sttp,The Scala HTTP client you always wanted!,349,23,Scala,softwaremill,SoftwareMill,Organization,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,2419.0
+typelevel/cats-effect,cats-effect,The IO monad for cats,211,33,Scala,typelevel,typelevel.scala,Organization,,,,,,4046.0
+open-korean-text/open-korean-text,open-korean-text,Open Korean Text Processor - An Open-source Korean Text Processor,202,22,Scala,open-korean-text,open-korean-text,Organization,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4226.5
+JohnSnowLabs/spark-nlp,spark-nlp,Natural Language Understanding Library for Apache Spark.,197,49,Scala,JohnSnowLabs,John Snow Labs,Organization,,,,,,4328.5
+eaplatanios/tensorflow_scala,tensorflow_scala,TensorFlow API for the Scala Programming Language,191,23,Scala,eaplatanios,Anthony Platanios,User,"Pittsburgh, PA",,,,,4463.5
+shadowsocks/kcptun-android,kcptun-android,kcptun for Android.,176,69,Scala,shadowsocks,shadowsocks,Organization,,,,,,4869.0
+pauljamescleary/scala-pet-store,scala-pet-store,An implementation of the java pet store using FP techniques in scala,162,30,Scala,pauljamescleary,Paul Cleary,User,,,,,,5308.0
+Duhemm/sbt-errors-summary,sbt-errors-summary,sbt plugin to show a summary of compilation messages.,152,7,Scala,Duhemm,Martin Duhem,User,Switzerland,46.818188,8.227511999999999,,Switzerland,5657.0
+kenbot/goggles,goggles,"Pleasant, yet principled Scala optics DSL",150,5,Scala,kenbot,Ken Scambler,User,"Melbourne, Australia",-37.813627600000004,144.96305759999998,Melbourne,Australia,5743.5
+TheHive-Project/Cortex,Cortex,Powerful Observable Analysis Engine,147,19,Scala,TheHive-Project,TheHive Project,Organization,,,,,,5872.0
+monadless/monadless,monadless,Syntactic sugar for monad composition in Scala,147,4,Scala,monadless,,Organization,,,,,,5872.0
+fosskers/scalaz-and-cats,scalaz-and-cats,Usage examples and benchmarks between Scalaz and Cats (w/ Haskell ground-truth).,144,5,Scala,fosskers,Colin Woodbury,User,"Vancouver, Canada",,,,,6016.0
+getnelson/nelson,nelson,"Automated, multi-region container deployment",143,23,Scala,getnelson,Nelson,Organization,"San Jose, CA",,,,,6066.5
+to-ithaca/libra,libra,A dimensional analysis library based on dependent types,132,15,Scala,to-ithaca,,Organization,,,,,,6550.0
+typelevel/CT_from_Programmers.scala,CT_from_Programmers.scala,Scala sample code for Bartosz Milewski's CT for Programmers,129,15,Scala,typelevel,typelevel.scala,Organization,,,,,,6699.5
+spotify/featran,featran,A Scala feature transformation library for data science and machine learning,119,16,Scala,spotify,Spotify,Organization,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden,7265.0
+propensive/magnolia,magnolia,A better generic macro for Scala,115,19,Scala,propensive,Jon Pretty,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,7532.5
+scalacenter/bloop,bloop,A hot bloop for your productivity,113,6,Scala,scalacenter,Scala Center,Organization,,,,,,7670.5
+djspiewak/parseback,parseback,A Scala implementation of parsing with derivatives,110,9,Scala,djspiewak,Daniel Spiewak,User,"Boulder, CO",40.0149856,-105.2705456,Boulder,United States,7898.0
+databricks/Spark-The-Definitive-Guide,Spark-The-Definitive-Guide,Spark: The Definitive Guide's Code Repository,110,61,Scala,databricks,Databricks,Organization,"California, USA",36.778261,-119.4179324,,United States,7898.0
+scalacenter/macros,macros,SCP-014 Towards production ready Scala Macros,108,14,Scala,scalacenter,Scala Center,Organization,,,,,,8056.0
+uber/sql-differential-privacy,sql-differential-privacy,Dataflow analysis & differential privacy for SQL queries,104,10,Scala,uber,Uber Open Source,Organization,70+ countries and counting.,,,,,8366.5
+fommil/fpmortals,fpmortals,Functional Programming for Mortals with Scalaz (leanpub doesn't support gitlab),104,9,Scala,fommil,Sam Halliday,User,"Auchterarder, Scotland",56.300621,-3.700041,Auchterarder,United Kingdom,8366.5
+lucidsoftware/neo-sbt-scalafmt,neo-sbt-scalafmt,Scalafmt SBT plugin,103,19,Scala,lucidsoftware,"Lucid Software, Inc",Organization,"South Jordan, UT",40.5621704,-111.929658,South Jordan,United States,8444.0
+dundalek/closh,closh,Bash-like shell based on Clojure,909,18,Clojure,dundalek,Jakub Dundalek,User,,,,,,879.0
+walmartlabs/lacinia,lacinia,GraphQL implementation in pure Clojure,759,54,Clojure,walmartlabs,Walmart Labs,Organization,"Bay Area, CA",37.8271784,-122.2913078,,United States,1067.5
+clojurecademy/clojurecademy,clojurecademy,Clojurecademy Web Application,439,32,Clojure,clojurecademy,Clojurecademy,Organization,"Istanbul, Turkey",,,,,1931.0
+CoNarrative/precept,precept,A declarative programming framework,439,15,Clojure,CoNarrative,CoNarrative,Organization,Sacramento Area (California),38.5815719,-121.49439960000001,Sacramento,United States,1931.0
+defndaines/meiro,meiro,"Maze generation code, inspired by Mazes for Programmers.",412,14,Clojure,defndaines,Michael S. Daines,User,"Culver City, CA",34.021122399999996,-118.3964665,Culver City,United States,2053.5
+bhb/expound,expound,Human-optimized error messages for clojure.spec,305,4,Clojure,bhb,Ben Brinckerhoff,User,"Denver, Colorado",39.739235799999996,-104.990251,Denver,United States,2794.0
+swarmpit/swarmpit,swarmpit,Lightweight Docker Swarm management UI,272,12,Clojure,swarmpit,swarmpit,Organization,Prague,50.0755381,14.4378005,Prague,Czechia,3112.0
+oakes/Lightmod,Lightmod,An all-in-one tool for full stack Clojure,205,8,Clojure,oakes,Zach Oakes,User,,32.776474900000004,-79.93105120000001,Charleston,United States,4172.0
+jeaye/orchestra,orchestra,Complete instrumentation for clojure.spec,184,4,Clojure,jeaye,Jeaye Wilkerson,User,San Francisco Bay Area,,,,,4639.0
+eggsyntax/datawalk,datawalk,Interactively explore complex data structures at the REPL with minimum keystrokes,178,2,Clojure,eggsyntax,Egg Syntax,User,"Asheville, NC",35.5950581,-82.5514869,Asheville,United States,4807.0
+fulcrologic/fulcro,fulcro,A library for development of single-page full-stack web applications in clj/cljs,177,30,Clojure,fulcrologic,Fulcrologic,Organization,,,,,,4839.0
+aria42/flare,flare,"Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)",167,12,Clojure,aria42,Aria Haghighi,User,"Seattle, CA",,,,,5151.5
+igrishaev/etaoin,etaoin,Pure Clojure Webdriver protocol implementation,157,13,Clojure,igrishaev,Ivan Grishaev,User,"Russia, Voronezh",51.6754966,39.2088823,Voronezh,Russia,5481.0
+roman01la/cljss,cljss,Clojure Style Sheets — CSS-in-JS for ClojureScript,156,8,Clojure,roman01la,Roman Liutikov,User,"Kyiv, Ukraine",50.4501,30.5234,Kiev,Ukraine,5517.0
+metabase/toucan,toucan,A classy high-level Clojure library for defining application models and retrieving them from a DB,149,10,Clojure,metabase,Metabase,Organization,,,,,,5787.0
+roman01la/citrus,citrus,State management library for Rum,139,11,Clojure,roman01la,Roman Liutikov,User,"Kyiv, Ukraine",50.4501,30.5234,Kiev,Ukraine,6256.5
+oakes/Dynadoc,Dynadoc,Dynamic documentation for Clojure(Script),132,0,Clojure,oakes,Zach Oakes,User,,32.776474900000004,-79.93105120000001,Charleston,United States,6550.0
+Unrepl/unrepl,unrepl,A common ground for better Clojure REPLs,129,7,Clojure,Unrepl,UNREPL,Organization,,,,,,6699.5
+fekr/postagga,postagga,A Library to parse natural language in pure Clojure and ClojureScript,126,14,Clojure,fekr,Fekr,Organization,Tunis,36.806494799999996,10.1815316,Tunis,Tunisia,6850.5
+denistakeda/re-posh,re-posh,Use your re-frame with DataScript as a data storage,124,6,Clojure,denistakeda,Denis Krivosheev,User,"Magnitogorsk, Russia",53.4129429,59.00162330000001,Magnitogorsk,Russia,6974.5
+alexanderkiel/phrase,phrase,Clojure(Script) library for phrasing spec problems.,124,2,Clojure,alexanderkiel,Alexander Kiel,User,"Leipzig, Germany",51.339695500000005,12.373074699999998,Leipzig,Germany,6974.5
+cognitect-labs/transcriptor,transcriptor,Convert REPL interactions into example-based tests.,111,1,Clojure,cognitect-labs,,Organization,,,,,,7820.0
+retro/graphql-builder,graphql-builder,GraphQL client library for Clojure and ClojureScript,104,2,Clojure,retro,Mihael Konjević,User,Zagreb,45.815010799999996,15.981918900000002,Zagreb,Croatia,8366.5
+priornix/antizer,antizer,ClojureScript library for Ant Design React UI components,104,6,Clojure,priornix,Michael Lim,User,Singapore,1.352083,103.819836,,Singapore,8366.5
+alibaba/Thera,Thera,"Thera is an integrated development environment(IDE) powered by Alibaba.com aimed for improving  mobile hybrid solution develop experience, such as weex, luaview, react native.",239,18,CoffeeScript,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,3547.5
+increments/kobito-oss,kobito-oss,Markdown Processor built on Electron based on kobito-for-windows,183,7,CoffeeScript,increments,Increments Inc.,Organization,"Tokyo, Japan",,,,,4663.0
+Microsoft/windows-framer-toolkit,windows-framer-toolkit,Windows 10 UWP framer prototyping toolkit. ,129,29,CoffeeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,6699.5
+72/lottie-framer,lottie-framer,A Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files),120,2,CoffeeScript,72,JL Flores-Mena,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,7203.0
+yuki540net/satella.io,satella.io,Live2Dライクなオープンソースソフトウェア「satella
