@@ -7417,4 +7417,124 @@ alibaba/Thera,Thera,"Thera is an integrated development environment(IDE) powered
 increments/kobito-oss,kobito-oss,Markdown Processor built on Electron based on kobito-for-windows,183,7,CoffeeScript,increments,Increments Inc.,Organization,"Tokyo, Japan",,,,,4663.0
 Microsoft/windows-framer-toolkit,windows-framer-toolkit,Windows 10 UWP framer prototyping toolkit. ,129,29,CoffeeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,6699.5
 72/lottie-framer,lottie-framer,A Framer module that uses AirBnb's Lottie-Web to render animations exported from After Effects (JSON files),120,2,CoffeeScript,72,JL Flores-Mena,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,7203.0
-yuki540net/satella.io,satella.io,Live2Dライクなオープンソースソフトウェア「satella
+yuki540net/satella.io,satella.io,Live2Dライクなオープンソースソフトウェア「satella.io」,113,6,CoffeeScript,yuki540net,yuki540,User,"Wakayama, Japan",,,,,7670.5
+sakejs/sake-cli,sake-cli,🍶 Sake is a build tool for JavaScript.,110,6,CoffeeScript,sakejs,Sake,Organization,"Kansas City, MO",39.0997265,-94.5785667,Kansas City,United States,7898.0
+junyanz/CycleGAN,CycleGAN,"Software that can generate photos from paintings,  turn horses into zebras,  perform style transfer, and more.",5414,691,Lua,junyanz,Jun-Yan Zhu,User,"Berkeley, CA",37.87159260000001,-122.272747,Berkeley,United States,74.0
+facebookresearch/fairseq,fairseq,Facebook AI Research Sequence-to-Sequence Toolkit,2565,409,Lua,facebookresearch,,Organization,,,,,,234.5
+facebookresearch/ResNeXt,ResNeXt,Implementation of a classification framework from the paper Aggregated Residual Transformations for Deep Neural Networks,1037,150,Lua,facebookresearch,,Organization,,,,,,761.0
+leehomyc/Faster-High-Res-Neural-Inpainting,Faster-High-Res-Neural-Inpainting,High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis,892,118,Lua,leehomyc,Harry Yang,User,,,,,,898.5
+vulnersCom/nmap-vulners,nmap-vulners,NSE script based on Vulners.com API,679,48,Lua,vulnersCom,Vulners Team,User,"Russia, Moscow",55.755826,37.6172999,Moscow,Russia,1235.0
+jiweil/Neural-Dialogue-Generation,Neural-Dialogue-Generation,,530,147,Lua,jiweil,Jiwei Li,User,"Stanford, CA",37.42410599999999,-122.1660756,Stanford,United States,1589.5
+scipag/vulscan,vulscan,Advanced vulnerability scanning with Nmap NSE,485,117,Lua,scipag,scip AG,Organization,Zurich,,,,,1750.0
+hypebeast/micro-auth,micro-auth,A microservice that makes adding authentication with Google and Github to your application easy.,441,20,Lua,hypebeast,Sebastian Ruml,User,Munich,48.1351253,11.581980499999998,Munich,Germany,1925.0
+xunhuang1995/AdaIN-style,AdaIN-style,Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization,368,63,Lua,xunhuang1995,Xun Huang,User,Ithaca,42.4439614,-76.5018807,Ithaca,United States,2311.0
+1adrianb/2D-and-3D-face-alignment,2D-and-3D-face-alignment,"This repository implements a demo of the networks described in 'How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)' paper.",331,108,Lua,1adrianb,Adrian Bulat,User,,,,,,2570.0
+yuanfengyun/mj_server,mj_server,房卡类麻将服务器,296,205,Lua,yuanfengyun,云哥哥,User,深圳,,,,,2871.0
+lifrordi/DeepStack-Leduc,DeepStack-Leduc,Example implementation of the DeepStack algorithm for no-limit Leduc poker,244,65,Lua,lifrordi,Martin Schmid,User,,,,,,3462.5
+LimBee/NTIRE2017,NTIRE2017,Torch implementation of 'Enhanced Deep Residual Networks for Single Image Super-Resolution',211,48,Lua,LimBee,limbee,User,,,,,,4046.0
+facebookresearch/wav2letter,wav2letter,Facebook AI Research Automatic Speech Recognition Toolkit,204,15,Lua,facebookresearch,,Organization,,,,,,4194.0
+Yijunmaverick/UniversalStyleTransfer,UniversalStyleTransfer,The source code of NIPS17 'Universal Style Transfer via Feature Transforms'.,194,21,Lua,Yijunmaverick,Yijun Li,User,USA,,,,,4401.5
+xgastaldi/shake-shake,shake-shake,2.86% and 15.85% on CIFAR-10 and CIFAR-100,169,15,Lua,xgastaldi,Xavier Gastaldi,User,,,,,,5091.0
+rameshvarun/NeuralKart,NeuralKart,"A Real-time Mario Kart AI using CNNs, Offline Search, and DAGGER",158,21,Lua,rameshvarun,Varun Ramesh,User,"Stanford, California",,,,,5442.0
+stormraiser/GAN-weight-norm,GAN-weight-norm,Code for 'On the Effects of Batch and Weight Normalization in Generative Adversarial Networks',156,24,Lua,stormraiser,Sitao Xiang,User,"Los Angeles, CA",,,,,5517.0
+deepmind/dqn,dqn,"Lua/Torch implementation of DQN (Nature, 2015)",154,49,Lua,deepmind,DeepMind,Organization,London,,,,,5589.5
+robbiebarrat/art-DCGAN,art-DCGAN,"Modified implementation of DCGAN focused on generative art. Includes pre-trained models for landscapes, nude-portraits, and others.",139,13,Lua,robbiebarrat,Robbie Barrat,User,"Bay Area, CA",38.59762620000001,-80.4549026,,United States,6256.5
+gaohuang/MSDNet,MSDNet,Multi-Scale Dense Convolutional Networks for Efficient Prediction,137,29,Lua,gaohuang,Gao Huang,User,,,,,,6334.0
+batra-mlp-lab/visdial,visdial,[CVPR 2017] Torch code for Visual Dialog,135,48,Lua,batra-mlp-lab,,Organization,,,,,,6420.5
+BeyondTeam/BDReborn,BDReborn,An administration bot based on ➣ https://valtman.name/telegram-cli :),131,200,Lua,BeyondTeam,Beyond Team,Organization,Iran,,,,,6600.0
+jakezhaojb/ARAE,ARAE,"Code for the paper 'Adversarially Regularized Autoencoders for Generating Discrete Structures' by Zhao, Kim, Zhang, Rush and LeCun",130,39,Lua,jakezhaojb,Junbo (Jake) Zhao,User,New York City,,,,,6649.0
+w3h/icsmaster,icsmaster,ICS/SCADA Security Resource（整合工控安全相关资源）,128,50,Lua,w3h,w3h,User,,,,,,6749.0
+zhanghang1989/MSG-Net,MSG-Net,Multi-style Generative Network for Real-time Transfer,122,29,Lua,zhanghang1989,Hang Zhang,User,,,,,,7085.5
+liantian-cn/logitech-pubg,logitech-pubg,PUBG no recoil script for Logitech gaming mouse / 绝地求生 罗技 鼠标宏,120,70,Lua,liantian-cn,liantian,User,"beijing,china",,,,,7203.0
+OpenAngelArena/oaa,oaa,A really great Dota 2 game mode.,117,182,Lua,OpenAngelArena,Open Angel Arena,Organization,,,,,,7392.5
+tanjiti/icstools,icstools,ics security tools,115,49,Lua,tanjiti,tanjiti,User,,,,,,7532.5
+1adrianb/binary-human-pose-estimation,binary-human-pose-estimation,This code implements a demo of the Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face Alignment with Limited Resources paper by Adrian Bulat and Georgios Tzimiropoulos.,107,44,Lua,1adrianb,Adrian Bulat,User,,,,,,8118.5
+ddtm/deep-smile-warp,deep-smile-warp,DeepWarp for Facial Expression Manipulation,105,20,Lua,ddtm,Yaroslav Ganin,User,Montreal,,,,,8277.5
+wireapp/wire-server,wire-server,🇪🇺 Wire back-end services,1410,152,Haskell,wireapp,Wire Swiss GmbH,Organization,,,,,,523.0
+facebook/duckling,duckling,"Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",1246,145,Haskell,facebook,Facebook,Organization,"Menlo Park, California",37.4529598,-122.1817252,Menlo Park,United States,607.0
+tdietert/nanocoin,nanocoin,"A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based, public distributed ledger.",688,51,Haskell,tdietert,Thomas Dietert,User,United States,,,,,1220.5
+aviaviavi/legion,legion,Simple blockchain server written in haskell. Feedback welcome.,587,38,Haskell,aviaviavi,Avi Press,User,,,,,,1437.5
+def-/time.gif,time.gif,GIF that always shows the current time in UTC,408,19,Haskell,def-,Dennis Felsing,User,"Heidelberg, Germany",49.3987524,8.6724335,Heidelberg,Germany,2075.5
+seagreen/Son,Son,A minimal subset of JSON for machine-to-machine communication,363,6,Haskell,seagreen,Ian Jeffries,User,,,,,,2339.5
+ollef/sixten,sixten,Functional programming with fewer indirections,312,14,Haskell,ollef,Olle Fredriksson,User,Norway,,,,,2732.5
+theam/haskell-do,haskell-do,:pencil2: :bar_chart: - The Haskell code editor focused on interactive development.,289,26,Haskell,theam,theam.,Organization,Spain,40.46366700000001,-3.7492199999999998,,Spain,2931.0
+iostreamer-X/FuncShell,FuncShell,Improve your shell by making it functional through Haskell! (An update to Awkward),284,7,Haskell,iostreamer-X,Rahul Ramteke,User,New Delhi,28.6139391,77.20902120000001,New Delhi,India,2983.0
+chrisdone/jl,jl,Functional sed for JSON,273,7,Haskell,chrisdone,Chris Done,User,"Manchester, England",53.4807593,-2.2426305,Manchester,United Kingdom,3099.5
+hedgehogqa/haskell-hedgehog,haskell-hedgehog,Hedgehog will eat all your bugs.,233,23,Haskell,hedgehogqa,Hedgehog QA,Organization,"Sydney, Australia",-33.8688197,151.2092955,Sydney,Australia,3648.0
+nstack/nstack,nstack,"Type-safe, composable microservices for data analytics",211,10,Haskell,nstack,NStack,Organization,London,51.5073509,-0.12775830000000002,London,United Kingdom,4046.0
+valderman/selda,selda,"A type-safe, high-level SQL library for Haskell",207,17,Haskell,valderman,Anton Ekblad,User,"Gothenburg, Sweden",57.70887,11.97456,Gothenburg,Sweden,4129.5
+adjoint-io/nanochain,nanochain,A minimal viable blockchain,180,12,Haskell,adjoint-io,Adjoint Inc.,Organization,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,4753.0
+chrisdone/vado,vado,A web browser engine written in Haskell,175,5,Haskell,chrisdone,Chris Done,User,"Manchester, England",53.4807593,-2.2426305,Manchester,United Kingdom,4897.0
+SimulaVR/Simula,Simula,3D Window Manager for Linux,159,7,Haskell,SimulaVR,SimulaVR,Organization,,,,,,5406.5
+llvm-hs/llvm-hs,llvm-hs,Haskell bindings for LLVM,149,25,Haskell,llvm-hs,,Organization,,,,,,5787.0
+jonascarpay/apecs,apecs,"a fast, type driven, extensible ECS for game engine development, in pure Haskell",132,6,Haskell,jonascarpay,Jonas Carpay,User,"Delft, NL",52.01157689999999,4.3570677,Delft,Netherlands,6550.0
+lettier/movie-monad,movie-monad,A desktop video player built with Haskell that uses GStreamer and GTK+.,129,6,Haskell,lettier,Lettier,User,New York,,,,,6699.5
+Ongy/waymonad,waymonad,A wayland compositor based on ideas from and inspired by xmonad,118,1,Haskell,Ongy,,User,,,,,,7328.0
+seagreen/plate,plate,Language-agnostic schemas based on Haskell's type system,116,7,Haskell,seagreen,Ian Jeffries,User,,,,,,7466.5
+GU-CLASP/TypedFlow,TypedFlow,Typed frontend to TensorFlow and higher-order deep learning,116,9,Haskell,GU-CLASP,CLASP,Organization,Gothenburg,,,,,7466.5
+nomeata/ghc-proofs,ghc-proofs,Let GHC prove program equations for you,113,6,Haskell,nomeata,Joachim Breitner,User,"Philadelphia, USA",39.9525839,-75.1652215,Philadelphia,United States,7670.5
+Bose/Smudge,Smudge,A domain-specific language for state machines.,109,5,Haskell,Bose,Bose Corporation,Organization,"Framingham, MA",42.279286,-71.4161565,Framingham,United States,7981.5
+forest-lang/core,core,A multi-syntax functional programming language that compiles to WebAssembly.,109,2,Haskell,forest-lang,,Organization,,,,,,7981.5
+hot-leaf-juice/gotta-go-fast,gotta-go-fast,A command line utility for practicing typing and measuring your WPM and accuracy.,105,4,Haskell,hot-leaf-juice,Callum Oakley,User,London,,,,,8277.5
+samtay/tetris,tetris,A terminal interface for Tetris,105,5,Haskell,samtay,Sam Tay,User,"Charleston, SC",32.776474900000004,-79.93105120000001,Charleston,United States,8277.5
+owickstrom/idris-vimscript,idris-vimscript,"Compile Idris to Vimscript, like you always wanted.",105,4,Haskell,owickstrom,Oskar Wickström,User,"Malmö, Sweden",55.604981,13.003822,Malmö,Sweden,8277.5
+altercation/dotfiles-tilingwm,dotfiles-tilingwm,"Tiling window manager related files (XMonad / i3) including configuration for components that create a good, minimal desktop-environment replacement.",103,11,Haskell,altercation,Ethan Schoonover,User,Seattle,,,,,8444.0
+bollu/tiny-optimising-compiler,tiny-optimising-compiler,A tiny *optimising* compiler for an imperative programming language written in haskell,102,2,Haskell,bollu,Siddharth,User,Hyderabad,17.385044,78.486671,Hyderabad,India,8520.0
+goldenlynx/jsn,jsn,An absolutely simple & terse CLI app to manipulate JSON data,102,2,Haskell,goldenlynx,Golden Lynx,Organization,,,,,,8520.0
+ocharles/micro-ci,micro-ci,A tiny CI server built around GitHub and Nix,100,5,Haskell,ocharles,Oliver Charles,User,London,,,,,8660.0
+johngrib/vim-game-code-break,vim-game-code-break,Block-breaking game in vim 8.0,1282,33,Vim script,johngrib,이종립,User,"Seoul, South Korea",37.566534999999995,126.9779692,Seoul,South Korea,589.0
+wsdjeg/vim-galore-zh_cn,vim-galore-zh_cn,:paperclip: A chinese version of vim-galore,930,153,Vim script,wsdjeg,Wang Shidong,User,/dev/null,,,,,858.5
+dodie/vim-disapprove-deep-indentation,vim-disapprove-deep-indentation,ಠ_ಠ Vim plugin to disapprove deeply indented code. ಠ_ಠ,539,10,Vim script,dodie,Dávid Csákvári,User,Hungary,,,,,1562.0
+arithran/vim-pizza,vim-pizza,My initial attempt at trying to order pizza from within vim.,409,13,Vim script,arithran,Arithran Thurairetnam,User,Los Angeles,34.0522342,-118.24368490000002,Los Angeles,United States,2071.0
+jodosha/vim-godebug,vim-godebug,Go debugging for Vim ,345,19,Vim script,jodosha,Luca Guidi,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,2458.5
+LukeSmithxyz/voidrice,voidrice,My dotfiles for my Linux rice,241,58,Vim script,LukeSmithxyz,Luke Smith,User,,,,,,3513.5
+prettier/vim-prettier,vim-prettier,A vim plugin wrapper for prettier,223,15,Vim script,prettier,Prettier,Organization,,,,,,3820.5
+thiagoalessio/rainbow_levels.vim,rainbow_levels.vim,A different approach to code highlighting.,219,5,Vim script,thiagoalessio,thiagoalessio,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,3893.0
+k-takata/minpac,minpac,A minimal package manager for Vim 8 (and Neovim),201,4,Vim script,k-takata,K.Takata,User,,,,,,4246.5
+prabirshrestha/asyncomplete.vim,asyncomplete.vim,async completion in pure vim script for vim8 and neovim,166,12,Vim script,prabirshrestha,Prabir Shrestha,User,"Redmond, WA",,,,,5180.5
+skywind3000/quickmenu.vim,quickmenu.vim,A nice customizable popup menu for vim,164,3,Vim script,skywind3000,Linwei,User,PRC,34.0752282,-118.45106229999999,Los Angeles,United States,5245.0
+chr4/nginx.vim,nginx.vim,Improved nginx vim plugin (incl. syntax highlighting),139,8,Vim script,chr4,Chris Aumann,User,,,,,,6256.5
+ajmwagar/vim-deus,vim-deus,A better color scheme for the late night coder,136,10,Vim script,ajmwagar,Avery Wagar,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,6376.0
+haya14busa/is.vim,is.vim,incremental search improved - successor of incsearch.vim,107,0,Vim script,haya14busa,haya14busa,User,"Tokyo, Japan",35.01163629999999,135.7680294,Kyoto,Japan,8118.5
+Alok/notational-fzf-vim,notational-fzf-vim,,106,8,Vim script,Alok,Alok Singh,User,"Berkeley, CA",37.87159260000001,-122.272747,Berkeley,United States,8187.5
+dbmrq/vim-redacted,vim-redacted,:no_mouth: The best way to ████ the ████,100,2,Vim script,dbmrq,Daniel Marques,User,Brazil,-14.235004,-51.92528,,Brazil,8660.0
+chr4/sslsecure.vim,sslsecure.vim,"Highlight insecure SSL configuration in Vim (works for all OpenSSL/ LibreSSL cipher strings, independent of the filetype)",100,6,Vim script,chr4,Chris Aumann,User,,,,,,8660.0
+thomasp85/patchwork,patchwork,The Composer of ggplots,347,21,R,thomasp85,Thomas Lin Pedersen,User,Copenhagen,55.676096799999996,12.568337099999999,Copenhagen,Denmark,2438.5
+pzhaonet/mindr,mindr,"an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)",343,27,R,pzhaonet,Peng Zhao,User,"Innsbruck, Austria",47.2692124,11.404102400000001,Innsbruck,Austria,2479.5
+hrbrmstr/hrbrthemes,hrbrthemes,":lock_with_ink_pen: Opinionated, typographic-centric ggplot2 themes and theme components",324,31,R,hrbrmstr,boB Rudis,User,Maine,43.26831989999999,-70.8635506,Berwick,United States,2635.0
+EmilHvitfeldt/ggpage,ggpage,Creates Page Layout Visualizations in R,191,10,R,EmilHvitfeldt,,User,,,,,,4463.5
+thomasp85/lime,lime,Local Interpretable Model-Agnostic Explanations (R port of original Python package),160,25,R,thomasp85,Thomas Lin Pedersen,User,Copenhagen,55.676096799999996,12.568337099999999,Copenhagen,Denmark,5371.0
+cwickham/purrr-tutorial,purrr-tutorial,A introduction to purrr,146,35,R,cwickham,Charlotte Wickham,User,"Corvallis, OR",,,,,5920.0
+hafen/geofacet,geofacet,R package for geographical faceting with ggplot2,144,10,R,hafen,,User,"WA, USA",,,,,6016.0
+hadley/emo,emo,Easily insert emoji into R and RMarkdown,142,13,R,hadley,Hadley Wickham,User,"Houston, TX",29.7604267,-95.36980279999999,Houston,United States,6117.5
+hadley/strict,strict,Make R a little bit stricter,141,6,R,hadley,Hadley Wickham,User,"Houston, TX",29.7604267,-95.36980279999999,Houston,United States,6165.0
+r-lib/styler,styler,Non-invasive pretty printing of R code,135,12,R,r-lib,R infrastructure,Organization,,,,,,6420.5
+walkerke/tidycensus,tidycensus,Load US Census boundary and attribute data as 'tidyverse' and 'sf'-ready data frames in R,133,14,R,walkerke,Kyle Walker,User,"Fort Worth, Texas",,,,,6507.0
+benmarwick/rrtools,rrtools,rrtools: Tools for Writing Reproducible Research in R,130,13,R,benmarwick,Ben Marwick,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,6649.0
+thomasp85/tidygraph,tidygraph,A tidy API for graph manipulation,124,8,R,thomasp85,Thomas Lin Pedersen,User,Copenhagen,55.676096799999996,12.568337099999999,Copenhagen,Denmark,6974.5
+ropensci/iheatmapr,iheatmapr,"Complex, interactive heatmaps in R",122,20,R,ropensci,rOpenSci,Organization,"Berkeley, CA",37.87159260000001,-122.272747,Berkeley,United States,7085.5
+prouast/cryptocurrency-analysis,cryptocurrency-analysis,Analysis and visualisation of the cryptocurrency market,119,28,R,prouast,Philipp Rouast,User,"Newcastle, Australia",-32.9282712,151.78168019999998,Newcastle,Australia,7265.0
+yihui/tinytex,tinytex,"A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live",113,5,R,yihui,Yihui Xie,User,"Omaha, NE",41.25236339999999,-95.9979883,Omaha,United States,7670.5
+tidyverse/dbplyr,dbplyr,Database (DBI) backend for dplyr,110,48,R,tidyverse,tidyverse,Organization,,,,,,7898.0
+jonocarroll/mathpix,mathpix,Query the mathpix API to convert math images to LaTeX,108,10,R,jonocarroll,Jonathan Carroll,User,"Adelaide, South Australia",-34.9284989,138.6007456,Adelaide,Australia,8056.0
+ThinkR-open/remedy,remedy,RStudio Addins to Simplify Markdown Writing,107,8,R,ThinkR-open,ThinkR,Organization,France,46.227638,2.213749,,France,8118.5
+andrewgbruce/statistics-for-data-scientists,statistics-for-data-scientists,Code and data associated with the book 'Statistics for Data Scientists: 50 Essential Concepts',107,80,R,andrewgbruce,,User,,,,,,8118.5
+jtanwk/nytcrossword,nytcrossword,Exploration of NYT Crossword answers from 1994-2017,105,5,R,jtanwk,Jonathan Tan,User,"New York, NY",,,,,8277.5
+x0rz/EQGRP,EQGRP,Decrypted content of eqgrp-auction-file.tar.xz,3340,2052,Perl,x0rz,,User,France,46.227638,2.213749,,France,144.0
+Moham3dRiahi/XAttacker,XAttacker,X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter,218,86,Perl,Moham3dRiahi,Mohamed Riahi,User,Tunisia,33.886917,9.537499,,Tunisia,3911.0
+takaaki-kasai/git-foresta,git-foresta,git-foresta: Text-based git log graph viewer,132,2,Perl,takaaki-kasai,Takaaki Kasai,User,,,,,,6550.0
+MarkWheadon/velocity-painting,velocity-painting,#VelocityPainting: patterning 3D prints by modulating the print speed,102,15,Perl,MarkWheadon,Mark Wheadon,User,"Kent, UK",51.2787075,0.5217254000000001,,United Kingdom,8520.0
+memoiry/LightML.jl,LightML.jl,Minimal and clean examples of machine learning algorithms implemented in Julia,139,31,Julia,memoiry,Guodong Xu,User,,,,,,6256.5
+timholy/Revise.jl,Revise.jl,Automatically update function definitions in a running Julia session,106,10,Julia,timholy,Tim Holy,User,"St. Louis, Missouri, USA",38.6270025,-90.1994042,St. Louis,United States,8187.5
+sharkdp/fd,fd,"A simple, fast and user-friendly alternative to find.",4000,102,Rust,sharkdp,David Peter,User,"Stuttgart, Germany",,,,,109.0
+DenisKolodin/yew,yew,Rust framework for making client web apps,2699,61,Rust,DenisKolodin,Denis Kolodin,User,,,,,,218.0
+EbTech/rust-algorithms,rust-algorithms,Common data structures and algorithms in Rust,1629,70,Rust,EbTech,Aram Ebtekar,User,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,437.5
+koute/stdweb,stdweb,A standard library for the client-side Web,1005,46,Rust,koute,Koute,User,,,,,,785.5
+m4b/bingrep,bingrep,"like ~~grep~~ UBER, but for binaries",962,55,Rust,m4b,,User,,,,,,822.0
+PumpkinDB/PumpkinDB,PumpkinDB,Immutable Ordered Key-Value Database Engine,939,41,Rust,PumpkinDB,,Organization,,,,,,847.0
+nbp/holyjit,holyjit,Generic purpose Just-In-time compiler for Rust.,907,20,Rust,nbp,Nicolas B. Pierron,User,,,,,,882.0
+ntrippar/sekey,sekey,Use Touch ID / Secure Enclave for SSH Authentication!,833,17,Rust,ntrippar,Nicolas Trippar,User,"Buenos Aires, Argentina",-34.6036844,-58.381559100000004,Buenos Aires,Argentina,966.5
+pcwalton/pathfinder,pathfinder,"A fast, practical GPU rasterizer for fonts and vector graphics",774,35,Rust,pcwalton,Patrick Walton,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1036.0
+zboxfs/zbox,zbox,"Zero-details, privacy-focused embeddable file system.",699,18,Rust,zboxfs,Zbox,Organization,,,,,,1193.0
+autozimu/LanguageClient-neovim,LanguageClient-neovim,Language Server Protocol (LSP) support for vim and neovim.,687,66,Rust,autozimu,Junfeng Li,User,Vancouver,49.282729100000005,-123.1207375,Vancouver,Canada,1224.0
+oracle/railcar,railcar,RailCar: Rust implementation of the Open Containers Initiative oci-runtim
