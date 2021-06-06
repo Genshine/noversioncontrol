@@ -7189,4 +7189,118 @@ MarekKowalski/LiveScan3D-Hololens,LiveScan3D-Hololens,A Unity application for re
 mzomparelli/zVirtualDesktop,zVirtualDesktop,"Windows 10 Virtual Desktop Hotkeys, System Tray Icon, and Wallpapers",105,10,C#,mzomparelli,Michael,User,"Chicago, IL, USA",41.8781136,-87.62979820000001,Chicago,United States,8277.5
 cesarsouza/keras-sharp,keras-sharp,"An ongoing effort to port the Keras deep learning library to C#, supporting both TensorFlow and CNTK",104,18,C#,cesarsouza,César Souza,User,"Grenoble, France",45.188528999999996,5.724524,Grenoble,France,8366.5
 ElderJames/shriek-fx,shriek-fx,"⚡️A ddd+cqrs+es framework for .NET Core 2.0 that would make you shriek! Simple,elegant and useful!一个使用 .NET Core 2.0 开发的简单易用的领域驱动设计分层框架（DDD+CQRS），宗旨是让小型应用也能用DDD的思想去开发，使开发者告别对领域驱动设计的复杂认识。",102,16,C#,ElderJames,James Yeung,User,"Guangzhou, China",23.12911,113.264385,Guangzhou,China,8520.0
-jongalloway/aspnetcore-app-workshop,aspnetcore-app-workshop,This workshop has been migra
+jongalloway/aspnetcore-app-workshop,aspnetcore-app-workshop,This workshop has been migrated to https://github.com/dotnet-presentations/aspnetcore-app-workshop,102,39,C#,jongalloway,Jon Galloway,User,"Jamul, CA",32.7169988,-116.87613470000001,Jamul,United States,8520.0
+AndyBobBean/PathFinding,PathFinding,C# Windows Forms application demonstrating several common path finding algorithms traversing a 2D maze.,102,7,C#,AndyBobBean,,User,,,,,,8520.0
+Unity-Technologies/SimpleAnimation,SimpleAnimation,A simple Animation Component that leverages PlayableGraphs,102,13,C#,Unity-Technologies,Unity Technologies,Organization,"Copenhagen, Denmark",55.676096799999996,12.568337099999999,Copenhagen,Denmark,8520.0
+blogifierdotnet/Blogifier,Blogifier,"Blogifier is simple, beautiful, light-weight open source blog written in ASP.NET Core",102,33,C#,blogifierdotnet,Blogifier,Organization,,,,,,8520.0
+lengseling/DesignPattern,DesignPattern,This is my case in learning design patterns using C#,101,1,C#,lengseling,张腾,User,,,,,,8590.0
+Zaphyk/project-skylines,project-skylines,procedural retro 3d game for the GitHub Gameoff 2017,100,19,C#,Zaphyk,Maxi Levi,User,Argentina,,,,,8660.0
+commandlineparser/commandline,commandline,C# command line parser for .NET with F# support,100,20,C#,commandlineparser,,Organization,,,,,,8660.0
+k4m4/movies-for-hackers,movies-for-hackers,🎬 A curated list of movies every hacker & cyberpunk must watch.,6069,457,Shell,k4m4,Nikolaos Kamarinakis,User,"Athens, Greece",37.9838096,23.7275388,Athens,Greece,55.0
+alexanderepstein/Bash-Snippets,Bash-Snippets,A collection of small bash scripts for heavy terminal users,5801,374,Shell,alexanderepstein,Alex Epstein,User,NYC/Boston,40.8586661,-73.86768640000001,,United States,61.0
+k4m4/terminals-are-sexy,terminals-are-sexy,"💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.",5658,275,Shell,k4m4,Nikolaos Kamarinakis,User,"Athens, Greece",37.9838096,23.7275388,Athens,Greece,68.0
+learnbyexample/Command-line-text-processing,Command-line-text-processing,":zap: From finding text to search and replace, from sorting to beautifying text and more :art:",5441,298,Shell,learnbyexample,Sundeep Agarwal,User,,,,,,73.0
+MichielDerhaeg/build-linux,build-linux,A short tutorial about building Linux based operating systems.,4524,234,Shell,MichielDerhaeg,Michiel Derhaeg,User,Belgium,,,,,88.0
+marcan/takeover.sh,takeover.sh,"Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.",3647,206,Shell,marcan,Hector Martin,User,"Shibuya, Tokyo, Japan",35.6617773,139.70405060000002,Shibuya,Japan,124.0
+SangKa/PWA-Book-CN,PWA-Book-CN,第一本 PWA 中文书,2114,231,Shell,SangKa,SangKa.Z,User,"Dalian, China",38.91400300000001,121.614682,Dalian,China,311.0
+Fakerr/git-recall,git-recall,An interactive way to peruse your git history from the terminal ,1906,51,Shell,Fakerr,Walid Berrahal,User,Tunisia,33.886917,9.537499,,Tunisia,357.0
+jstpcs/lnxpcs,lnxpcs,Linux Pics,1613,71,Shell,jstpcs,jstpcs,User,,,,,,444.0
+arzzen/git-quick-stats,git-quick-stats,▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.,1390,60,Shell,arzzen,Lukáš Mešťan,User,"Zilina, Slovakia",49.21944980000001,18.7408001,Žilina,Slovakia,535.5
+vulhub/vulhub,vulhub,Docker-Compose file for vulnerability environment,1225,425,Shell,vulhub,The Vulnerabilities Hub,Organization,,,,,,621.0
+forezp/SpringCloudLearning,SpringCloudLearning,project for spring cloud learning,1194,825,Shell,forezp,方志朋,User,"ShenZhen,China",30.593099,114.305393,Wuhan,China,643.5
+opsnull/follow-me-install-kubernetes-cluster,follow-me-install-kubernetes-cluster,和我一步步部署 kubernetes 集群,1183,639,Shell,opsnull,ZhangJun,User,Beijing,39.90419989999999,116.4073963,Beijing,China,655.0
+pch/welder,welder,👨‍🏭Set up your Linux server with plain shell scripts,1138,34,Shell,pch,Piotr Chmolowski,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,695.0
+adieuadieu/serverless-chrome,serverless-chrome,"Run headless Chrome/Chromium on AWS Lambda (maybe Azure, & GCP later)",1049,70,Shell,adieuadieu,Marco Lüthy,User,Anywhere,47.602201,-122.333481,Seattle,United States,750.0
+rootsongjc/kubernetes-handbook,kubernetes-handbook,Kubernetes中文指南/实践手册 https://jimmysong.io/kubernetes-handbook,1034,348,Shell,rootsongjc,Jimmy Song,User,"Beijing,China",,,,,764.0
+robertfoss/audio_shop,audio_shop,Your friendly neighbourhood script for mangling images or video using audio editing tools,844,28,Shell,robertfoss,Robert Foss,User,,,,,,952.5
+ivanilves/xiringuito,xiringuito,SSH-based 'VPN for poors',770,30,Shell,ivanilves,Ivan Ilves,User,"Barcelona, Spain",,,,,1047.5
+samtap/fang-hacks,fang-hacks,Collection of modifications for the XiaoFang WiFi Camera,764,133,Shell,samtap,PatrickM,User,The Netherlands,,,,,1056.0
+postmarketOS/pmbootstrap,pmbootstrap,Sophisticated chroot/build/flash tool to develop and install postmarketOS,763,102,Shell,postmarketOS,,Organization,,,,,,1058.0
+FluxionNetwork/fluxion,fluxion,Fluxion is a remake of linset by vk496 with less bugs and enhanced functionality.,690,268,Shell,FluxionNetwork,Fluxion,Organization,,,,,,1216.5
+ToyoDAdoubi/doubi,doubi,一个逗比写的各种逗比脚本~,678,487,Shell,ToyoDAdoubi,Toyo,User,,,,,,1238.5
+jasonGeng88/blog,blog,随写工作中遇到的问题、学习的心得，于己总结回顾，与他分享讨论。。。,638,119,Shell,jasonGeng88,Jason,User,Shanghai,,,,,1323.0
+arismelachroinos/lscript,lscript,"The LAZY script will make your life easier, and of course faster.",607,188,Shell,arismelachroinos,,User,,,,,,1391.5
+Cyclenerd/ethereum_nvidia_miner,ethereum_nvidia_miner,💰 USB flash drive ISO image for Ethereum mining with NVIDIA graphics cards and Ubuntu GNU/Linux (headless),549,99,Shell,Cyclenerd,Nils,User,"Hamburg, Germany, Earth",53.5510846,9.993681800000001,Hamburg,Germany,1532.0
+fatihacet/turkcekaynaklar-com,turkcekaynaklar-com,Özenle seçilmiş Türkçe kaynaklar listesi En: Curated list of Turkish resources ,496,160,Shell,fatihacet,Fatih Acet,User,"Amsterdam, NL",52.3702157,4.8951679000000015,Amsterdam,Netherlands,1703.0
+slashiee/cemu_graphic_packs,cemu_graphic_packs,Community Graphic Packs for Cemu,483,551,Shell,slashiee,Michael,User,,,,,,1760.0
+jcsalterego/historian,historian,Command-line utility for managing shell history in a SQLite database.,472,28,Shell,jcsalterego,Jerry Chen,User,"Austin, TX",30.267153000000004,-97.7430608,Austin,United States,1789.0
+10up/wp-local-docker,wp-local-docker,A simple Docker based development environment for WordPress.,459,86,Shell,10up,10up,Organization,United States,,,,,1847.0
+DenizParlak/Zeus,Zeus,AWS Auditing & Hardening Tool,457,49,Shell,DenizParlak,Deniz Parlak,User,,,,,,1854.0
+fractalwrench/ApkGolf,ApkGolf,The smallest Android APK in the world,435,32,Shell,fractalwrench,Jamie Lynch,User,Bath,43.910635299999996,-69.82060229999999,Bath,United States,1948.5
+Langhalsdino/Kubernetes-GPU-Guide,Kubernetes-GPU-Guide,This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.,425,51,Shell,Langhalsdino,Frederic Tausch,User,"Karlsruhe, Germany",49.0068901,8.403652699999999,Karlsruhe,Germany,1997.0
+reinterpretcat/lfs,lfs,Docker configuration for building Linux From Scratch system,423,19,Shell,reinterpretcat,Ilya Builuk,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,2011.5
+larkery/zsh-histdb,zsh-histdb,A slightly better history for zsh,409,12,Shell,larkery,Tom Hinton,User,,,,,,2071.0
+rainglow/vscode,vscode,250+ color themes for Visual Studio Code.,391,10,Shell,rainglow,,Organization,,,,,,2164.5
+ahmetb/kubectx,kubectx,Switch between clusters and namespaces in kubectl.,388,22,Shell,ahmetb,Ahmet Alp Balkan,User,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,2183.5
+shipping-docker/vessel,vessel,Up and running with small Docker environments,381,31,Shell,shipping-docker,Shipping Docker,Organization,,,,,,2229.5
+flplv/ssh-allow-friend,ssh-allow-friend,A shell script to temporary allow ssh logins for friends,367,12,Shell,flplv,Felipe Lavratti,User,"Porto Alegre, Brazil",-30.0346471,-51.2176584,Porto Alegre,Brazil,2322.0
+onekeyshell/kcptun_for_ss_ssr,kcptun_for_ss_ssr,kcptun for XX,359,202,Shell,onekeyshell,,User,,,,,,2359.5
+kubernetes/examples,examples,Kubernetes application example tutorials,353,292,Shell,kubernetes,Kubernetes,Organization,,,,,,2392.5
+vincentchu/eth-private-net,eth-private-net,Create your own Ethereum private net,350,31,Shell,vincentchu,Vincent Chu,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2408.5
+forezp/SpringBootLearning,SpringBootLearning,,348,208,Shell,forezp,方志朋,User,"ShenZhen,China",30.593099,114.305393,Wuhan,China,2430.0
+rust-lang-nursery/api-guidelines,api-guidelines,Rust API guidelines,344,21,Shell,rust-lang-nursery,,Organization,,,,,,2470.5
+jessfraz/k8s-snowflake,k8s-snowflake,Configs and scripts for bootstrapping an opinionated Kubernetes cluster anywhere.,337,22,Shell,jessfraz,Jess Frazelle,User,PID 1,,,,,2526.0
+goreliu/zshguide,zshguide,Zsh 开发指南,325,37,Shell,goreliu,Gore Liu,User,,,,,,2627.5
+gradle/gradle-completion,gradle-completion,Gradle tab completion for bash and zsh,325,33,Shell,gradle,Gradle,Organization,,,,,,2627.5
+wangdoc/javascript-tutorial,javascript-tutorial,JavaScript 教程,311,21,Shell,wangdoc,,Organization,,,,,,2740.5
+vmavromatis/gnome-layout-manager,gnome-layout-manager,"A bash script that batch installs and tweaks GNOME extensions as well as GTK/Shell themes. There are currently three options available: Unity, Windows and macOS.",295,22,Shell,vmavromatis,Vasilis Mavromatis,User,"Palma de Mallorca, Spain",39.5696005,2.6501603,Palma,Spain,2879.0
+Screetsec/Microsploit,Microsploit,"Fast and easy create backdoor office exploitation using module metasploit packet , Microsoft Office , Open Office , Macro attack , Buffer Overflow",282,72,Shell,Screetsec,Edo Maland ,User,INDONESIA,-0.789275,113.921327,,Indonesia,3011.0
+keith/swift-staticlibs,swift-staticlibs,Scripts to allow Swift static libraries to be compiled in Xcode,279,13,Shell,keith,Keith Smiley,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3045.5
+kalbhor/thirsty,thirsty,Reminds you to drink water - on your terminal.,272,19,Shell,kalbhor,Lakshay Kalbhor,User,New Delhi / Manipal,,,,,3112.0
+dtcooper/raspotify,raspotify,Raspotify - Spotify Connect client for the Raspberry Pi that Just Works™,272,12,Shell,dtcooper,David Cooper,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3112.0
+0xM3R/cgPwn,cgPwn,"A lightweight VM for hardware hacking, RE (fuzzing, symEx, exploiting etc) and wargaming tasks",271,56,Shell,0xM3R,,User,,,,,,3126.5
+ApolloAuto/apollo-kernel,apollo-kernel,Collections of Apollo Kernels,267,166,Shell,ApolloAuto,Apollo Auto,Organization,,,,,,3180.5
+MycroftAI/enclosure-picroft,enclosure-picroft,Mycroft interface for Raspberry Pi environment,246,40,Shell,MycroftAI,Mycroft,Organization,"Kansas City, MO",38.971668900000004,-95.23525009999999,Lawrence,United States,3430.5
+kuoruan/shell-scripts,shell-scripts,Linux Shell Scripts,244,139,Shell,kuoruan,Xingwang Liao,User,China,,,,,3462.5
+vitaly-kamluk/bitscout,bitscout,Remote forensics meta tool,236,53,Shell,vitaly-kamluk,,User,,,,,,3591.5
+DylanHamer/DebianKindle,DebianKindle,Scripts to install Debian on your Kindle,235,9,Shell,DylanHamer,Dylan Hamer,User,"Carlisle, Cumbria",,,,,3608.5
+milesrichardson/docker-onion-nmap,docker-onion-nmap,"Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq in a minimal alpine Docker container.",232,39,Shell,milesrichardson,Miles Richardson,User,,,,,,3667.0
+greymd/tmux-xpanes,tmux-xpanes,Awesome way to create multiple tmux panes.,232,4,Shell,greymd,Yasuhiro Yamada,User,"Tokyo, Japan",,,,,3667.0
+evertramos/docker-compose-letsencrypt-nginx-proxy-companion,docker-compose-letsencrypt-nginx-proxy-companion,Automated docker nginx proxy integrated with letsencrypt.,231,72,Shell,evertramos,Evert Ramos,User,Brasil,,,,,3682.0
+jkpang/PPAutoPackageScript,PPAutoPackageScript,Automatic packing script after Xcode8 - Xcode8以后的自动打包脚本,224,50,Shell,jkpang,jkpang,User,"Shenzhen & Changde, China",22.543096,114.05786499999999,Shenzhen,China,3803.0
+vuejs/vue-ssr-docs,vue-ssr-docs,Vue.js Server-Side Rendering Guide,222,117,Shell,vuejs,vuejs,Organization,All Over the World,,,,,3837.5
+nenadg/docker-unity3d,docker-unity3d,Docker container for Unity,217,9,Shell,nenadg,Nenad Golubovic,User,"Banja Luka, Bosnia and Herzegovina",44.7721811,17.191,Banja Luka,Bosnia and Herzegovina,3925.5
+cryptolok/ASLRay,ASLRay,Linux ELF x32/x64 ASLR DEP/NX bypass exploit with stack-spraying,216,54,Shell,cryptolok,Maksym Zaitsev,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,3944.0
+FlowCI/docker,docker,Start flow.ci via docker,215,13,Shell,FlowCI,flow.ci,Organization,,,,,,3967.0
+studygolang/GCTT,GCTT,GCTT Go中文网翻译组。,212,85,Shell,studygolang,,Organization,Beijing China,,,,,4022.0
+stockmind/gpd-pocket-ubuntu-respin,gpd-pocket-ubuntu-respin,Collection of scripts and tweaks to adapt Ubuntu and Linux Mint ISO images to let them run smooth on GPD Pocket,211,24,Shell,stockmind,,User,Italy,41.87194,12.56738,,Italy,4046.0
+NYTimes/Register,Register,Android Library and App for testing Play Store billing,210,9,Shell,NYTimes,The New York Times,Organization,"New York, NY",40.7127837,-74.00594129999999,New York,United States,4067.0
+cokebar/gfwlist2dnsmasq,gfwlist2dnsmasq,A shell script which convert gfwlist into dnsmasq rules. Python version: https://github.com/cokebar/gfwlist2dnsmasq_python,210,73,Shell,cokebar,Cokebar Chi,User,,,,,,4067.0
+elastic/stack-docker,stack-docker,"The Elastic Stack, on Docker, right now.",204,73,Shell,elastic,elastic,Organization,,,,,,4194.0
+r00t-3xp10it/FakeImageExploiter,FakeImageExploiter,Use a Fake image.jpg (hide known file extensions) to exploit targets,204,102,Shell,r00t-3xp10it,pedro ubuntu,User,Lisbon - portugal,38.722252399999995,-9.1393366,Lisbon,Portugal,4194.0
+gjmzj/kubeasz,kubeasz,使用Ansible脚本二进制方式安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响,200,81,Shell,gjmzj,,User,,,,,,4266.5
+iam4x/zsh-iterm-touchbar,zsh-iterm-touchbar,Display feedback of terminal in the 🍏 Touchbar,200,26,Shell,iam4x,Maxime Janton,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4266.5
+marcosscriven/galeforce,galeforce,GaleForce is a project to customise the Google Wifi router,199,24,Shell,marcosscriven,Marcos Scriven,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,4286.0
+sebastiencs/icons-in-terminal,icons-in-terminal,Use any fonts in the terminal without replacing or patching ,195,6,Shell,sebastiencs,Sebastien Chapuis,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4375.0
+njhartwell/pw3nage,pw3nage,"If you get pw3ned, might want to fix your shell",194,7,Shell,njhartwell,Nathan Hartwell,User,"St. Paul, MN",44.953702899999996,-93.0899578,Saint Paul,United States,4401.5
+yukinying/chrome-headless-browser-docker,chrome-headless-browser-docker,Continuously building Chrome Docker image for Linux.,194,35,Shell,yukinying,Albert Yu,User,California,,,,,4401.5
+BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install,Super-Simple-Raspberry-Pi-Audio-Receiver-Install,Super Easy installation to make your Raspberry Pi an Audio Receiver,194,31,Shell,BaReinhard,Brett Reinhard,User,Los Angeles,34.0522342,-118.24368490000002,Los Angeles,United States,4401.5
+cryptolok/GhostInTheNet,GhostInTheNet,Ultimate Network Stealther that makes Linux a Ghost In The Net and protects from MITM/DOS/scan,184,44,Shell,cryptolok,Maksym Zaitsev,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4639.0
+Xeoncross/macappshell,macappshell,"Creates a Mac OSX .app folder (complete with icons) ready for your binary file. Perfect for Golang, Rust, C++, etc..",182,5,Shell,Xeoncross,David Pennington,User,"Dallas, Texas",32.7766642,-96.7969879,Dallas,United States,4693.0
+ChristopherA/Learning-Bitcoin-from-the-Command-Line,Learning-Bitcoin-from-the-Command-Line,"The best way to learn to learn deeply about bitcoin is to avoid GUIs (even bitcoin-qt), and instead learn it from the command line.",180,38,Shell,ChristopherA,Christopher Allen,User,"Berkeley, CA",37.87159260000001,-122.272747,Berkeley,United States,4753.0
+jakewmeyer/Geo,Geo,":earth_americas: A Bash utility for easy wan, lan, router, dns, mac address, and geolocation output, with clean stdout for piping",176,14,Shell,jakewmeyer,Jake Meyer,User,"Austin, Texas",30.267153000000004,-97.7430608,Austin,United States,4869.0
+cryptolok/CryKeX,CryKeX,Linux Memory Cryptographic Keys Extractor,174,26,Shell,cryptolok,Maksym Zaitsev,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,4932.5
+kelseyhightower/nomad-on-kubernetes,nomad-on-kubernetes,Tutorial on running Nomad on Kubernetes.,173,19,Shell,kelseyhightower,Kelsey Hightower,User,"Portland, OR",45.523062200000005,-122.67648159999999,Portland,United States,4974.5
+deepmind/narrativeqa,narrativeqa,,173,19,Shell,deepmind,DeepMind,Organization,London,,,,,4974.5
+coinbase/assume-role,assume-role,assume-role: a CLI tool making it easy to assume IAM roles through an AWS Bastion account,171,14,Shell,coinbase,,Organization,,,,,,5034.5
+offensive-security/exploit-database-papers,exploit-database-papers,exploit-database-papers,170,40,Shell,offensive-security,Offensive Security,User,,,,,,5060.5
+CheckPointSW/android_unpacker,android_unpacker,A (hopefully) generic unpacker for packed Android apps.,169,33,Shell,CheckPointSW,Check Point Software Technologies LTD.,Organization,,,,,,5091.0
+justeat/ScrollingStackViewController,ScrollingStackViewController,A view controller that uses root views of child view controllers as views in a UIStackView.,168,8,Shell,justeat,JUST EAT,Organization,London UK,51.5073509,-0.12775830000000002,London,United Kingdom,5120.5
+gaoyifan/china-operator-ip,china-operator-ip,中国运营商IP地址库(每日更新),168,25,Shell,gaoyifan,Yifan Gao,User,,,,,,5120.5
+bntzio/wipe-modules,wipe-modules,A little agent that removes the node_modules folder of non-active projects 🗑️ (bash + cron),163,0,Shell,bntzio,Enrique Benitez,User,Remote,43.0059455,-123.89259080000001,Remote,United States,5276.5
+nextcloud/nextcloudpi,nextcloudpi,Build code for NextCloudPi Raspberry Pi image and docker container,162,29,Shell,nextcloud,Nextcloud,Organization,The Internet,,,,,5308.0
+ajkis/scripts,scripts,Ajki's scripts & guides,162,41,Shell,ajkis,Ajki,User,Europe,54.52596139999999,15.2551187,,,5308.0
+linhua55/lkl_study,lkl_study,study the LKL(linux kernel library)   https://github.com/lkl/linux,162,66,Shell,linhua55,,User,,,,,,5308.0
+stackhou/AutoPacking-iOS,AutoPacking-iOS,iOS自动打包脚本 多项选择 一行上传指定位置,160,29,Shell,stackhou,shoo,User,Beijing,39.90419989999999,116.4073963,Beijing,China,5371.0
+gy-games/elves,elves,开源自动化运维开发平台(IT Automatic Develop Platform),160,63,Shell,gy-games,光宇开源,Organization,,,,,,5371.0
+jobertabma/recon.sh,recon.sh,A toolset to track and organize output of reconnaissance tools,159,29,Shell,jobertabma,Jobert Abma,User,San Francisco / Groningen,,,,,5406.5
+kelseyhightower/istio-ingress-tutorial,istio-ingress-tutorial,How to run the Istio Ingress Controller on Kubernetes,156,17,Shell,kelseyhightower,Kelsey Hightower,User,"Portland, OR",45.523062200000005,-122.67648159999999,Portland,United States,5517.0
+zdharma/fast-syntax-highlighting,fast-syntax-highlighting,Optimized and extended zsh-syntax-highlighting,155,7,Shell,zdharma,Zdharma Initiative,Organization,,,,,,5552.0
+pavanjadhaw/betterlockscreen,betterlockscreen,Lockscreen script depended on i3lock,151,19,Shell,pavanjadhaw,Pavan Jadhaw,User,"Nagpur, India",,,,,5699.5
+Cyclenerd/static_status,static_status,🚦Bash script to generate a static status page.,151,9,Shell,Cyclenerd,Nils,User,"Hamburg, Germany, Earth",53.5510846,9.993681800000001,Hamburg,Germany,5699.5
+tadfisher/pass-otp,pass-otp,A pass extension for managing one-time-password (OTP) tokens,150,11,Shell,tadfisher,Tad Fisher,User,"Portland, OR",45.523062200000005,-122.6764815,Portland,United States,5743.5
+dunglas/symfony-docker,symfony-docker,A Docker-based installer and runtime for Symfony Flex. Install: download and `docker-compose up`.,149,23,Shell,dunglas,Kévin Dunglas,User,"Lille, France",50.62925,3.057256,Lille,France,5787.0
+allgamesallfree/ScreenType,ScreenType,Easily distinguish between iPhone models in Objective-C and Swift,149,11,Shell,allgamesallfree,Max Stein,User,NYC,,,,,5787.0
+PapirusDevelopmentTeam/adapta-kde,adapta-kde,Adapta KDE customization,149,10,Shell,PapirusDevelopmentTeam,Papirus Development Team,Organization,,,,,,5787.0
+aliasmee/alpine-ikev2-vpn,alpine-ikev2-vpn,Small Simple Free runing container's IKEv2 VPN base alpine image.,149,19,Shell,aliasmee,飞走不可,User,,,,,,5787.0
+corbindavenpor
