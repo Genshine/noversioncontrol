@@ -7537,4 +7537,125 @@ ntrippar/sekey,sekey,Use Touch ID / Secure Enclave for SSH Authentication!,833,1
 pcwalton/pathfinder,pathfinder,"A fast, practical GPU rasterizer for fonts and vector graphics",774,35,Rust,pcwalton,Patrick Walton,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1036.0
 zboxfs/zbox,zbox,"Zero-details, privacy-focused embeddable file system.",699,18,Rust,zboxfs,Zbox,Organization,,,,,,1193.0
 autozimu/LanguageClient-neovim,LanguageClient-neovim,Language Server Protocol (LSP) support for vim and neovim.,687,66,Rust,autozimu,Junfeng Li,User,Vancouver,49.282729100000005,-123.1207375,Vancouver,Canada,1224.0
-oracle/railcar,railcar,RailCar: Rust implementation of the Open Containers Initiative oci-runtim
+oracle/railcar,railcar,RailCar: Rust implementation of the Open Containers Initiative oci-runtime,662,40,Rust,oracle,Oracle,Organization,"Redwood Shores, CA",37.536413399999994,-122.2455364,Redwood City,United States,1281.0
+AdamNiederer/faster,faster,SIMD for humans,614,14,Rust,AdamNiederer,Adam Niederer,User,,,,,,1372.5
+runconduit/conduit,conduit,The ultralight service mesh for Kubernetes,600,26,Rust,runconduit,Conduit,Organization,,,,,,1403.0
+antoyo/relm,relm,"Asynchronous, GTK+-based, GUI library, inspired by Elm, written in Rust",565,14,Rust,antoyo,,User,Montreal,45.5016889,-73.567256,Montreal,Canada,1486.5
+gotham-rs/gotham,gotham,"A flexible web framework, built on stable Rust, that does not sacrifice safety, security or speed.",542,21,Rust,gotham-rs,Gotham,Organization,,,,,,1553.0
+PyO3/pyo3,pyo3,Rust bindings for the Python interpreter,540,17,Rust,PyO3,PyO3,Organization,,,,,,1557.5
+p-e-w/ternimal,ternimal,Simulate a lifeform in the terminal,499,11,Rust,p-e-w,Philipp Emanuel Weidmann,User,Anywhere the Internet is,,,,,1691.0
+withoutboats/failure,failure,Error management,490,36,Rust,withoutboats,boats,User,,,,,,1728.5
+ImageOptim/gifski,gifski,"GIF encoder based on libimagequant (pngquant, gifquant?). Squeezes maximum possible quality from the awful GIF format.",474,10,Rust,ImageOptim,ImageOptim,Organization,,,,,,1783.5
+japaric/steed,steed,"[WIP] Rust's standard library, free of C dependencies, for Linux systems",454,15,Rust,japaric,Jorge Aparicio,User,"Karlsruhe, Germany",,,,,1862.5
+jD91mZM2/termplay,termplay,Play an image/video in your terminal!,432,13,Rust,jD91mZM2,jD91mZM2,User,127.0.0.1,,,,,1962.0
+sozu-proxy/sozu,sozu,"Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It will be awesome when it will be ready. Not So Secret Project! Ping us on gitter to know more",429,40,Rust,sozu-proxy,sōzu,Organization,,,,,,1974.0
+mitsuhiko/indicatif,indicatif,A command line progress reporting library for Rust,425,17,Rust,mitsuhiko,Armin Ronacher,User,Austria,,,,,1997.0
+alexcrichton/futures-await,futures-await,,422,22,Rust,alexcrichton,Alex Crichton,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2016.0
+pikkr/pikkr,pikkr,JSON parser which picks up values directly without performing tokenization in Rust,405,5,Rust,pikkr,Pikkr,Organization,,,,,,2085.5
+mitnk/cicada,cicada,A simple Unix shell written in Rust,383,13,Rust,mitnk,Hugo Wang,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,2216.5
+Drakulix/fireplace,fireplace,Modular wayland window manager written in rust,373,18,Rust,Drakulix,Victor Brekenfeld,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,2278.0
+carllerche/h2,h2,HTTP 2.0 client & server implementation for Rust.,346,16,Rust,carllerche,Carl Lerche,User,"Portland, OR",45.523062200000005,-122.6764815,Portland,United States,2447.0
+exonum/exonum,exonum,Exonum core repository,332,47,Rust,exonum,Exonum,Organization,,,,,,2563.0
+neithernut/git-dit,git-dit,Decentralized Issue Tracking for git,322,14,Rust,neithernut,Julian Ganz,User,,,,,,2650.0
+Xudong-Huang/may,may,rust stackful coroutine library,311,8,Rust,Xudong-Huang,Xudong Huang,User,Beijing,39.90419989999999,116.4073963,Beijing,China,2740.5
+TeXitoi/structopt,structopt,Parse command line argument by defining a struct.,305,8,Rust,TeXitoi,Guillaume P.,User,France,46.227638,2.213749,,France,2794.0
+facebookexperimental/mononoke,mononoke,"A Mercurial source control server, specifically designed to support large monorepos.",292,9,Rust,facebookexperimental,Facebook Experimental,Organization,"Menlo Park, California",,,,,2903.5
+greshake/i3status-rust,i3status-rust,"Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust",261,37,Rust,greshake,Kai Greshake,User,,,,,,3241.0
+danburkert/prost,prost,PROST! a Protocol Buffers implementation for the Rust Language,247,16,Rust,danburkert,Dan Burkert,User,San Francisco,,,,,3414.5
+hyperium/http,http,Rust HTTP types,246,22,Rust,hyperium,,Organization,,,,,,3430.5
+rust-fuzz/cargo-fuzz,cargo-fuzz,Command line helpers for fuzzing,241,25,Rust,rust-fuzz,Rust Fuzzing Authority,Organization,,,,,,3513.5
+cryptape/cita,cita,A fast and scalable blockchain for enterprise users.,233,37,Rust,cryptape,Cryptape,Organization,"Hangzhou, China",30.274084000000002,120.15507,Hangzhou,China,3648.0
+japaric/nvptx,nvptx,How to: Run Rust code on your NVIDIA GPU,230,10,Rust,japaric,Jorge Aparicio,User,"Karlsruhe, Germany",,,,,3702.0
+google/rerast,rerast,A tool for transforming Rust code using rules,223,9,Rust,google,Google,Organization,,,,,,3820.5
+mehcode/shio-rs,shio-rs,"Shio is a fast, simple, and asynchronous micro web-framework for Rust.",222,11,Rust,mehcode,Ryan Leckey,User,"Sacramento, CA, USA",38.5815719,-121.49439960000001,Sacramento,United States,3837.5
+aochagavia/rocket_wasm,rocket_wasm,"The Rocket game, now compiling to WASM",216,15,Rust,aochagavia,Adolfo Ochagavía,User,Utrecht,52.09073739999999,5.121420099999999,Utrecht,Netherlands,3944.0
+christolliday/limn,limn,Cross platform GUI Library,207,12,Rust,christolliday,Chris Tolliday,User,Vancouver,49.282729100000005,-123.1207375,Vancouver,Canada,4129.5
+pingcap/grpc-rs,grpc-rs,The gRPC library for Rust built on C Core library and futures,200,21,Rust,pingcap,PingCAP,Organization,,,,,,4266.5
+xd009642/tarpaulin,tarpaulin,A code coverage tool for Rust projects,196,11,Rust,xd009642,,User,,,,,,4350.0
+afshinm/juggernaut,juggernaut,Neural Network in Rust,194,9,Rust,afshinm,Afshin Mehrabani,User,Dublin,,,,,4401.5
+oracle/crashcart,crashcart,CrashCart: sideload binaries into a running container,192,16,Rust,oracle,Oracle,Organization,"Redwood Shores, CA",37.536413399999994,-122.2455364,Redwood City,United States,4441.5
+koute/cargo-web,cargo-web,A Cargo subcommand for the client-side Web,189,10,Rust,koute,Koute,User,,,,,,4510.0
+redox-os/kernel,kernel,The Redox microkernel,188,42,Rust,redox-os,Redox OS,Organization,,,,,,4532.5
+dwrensha/seer,seer,symbolic execution engine for Rust,187,2,Rust,dwrensha,David Renshaw,User,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States,4561.5
+PyO3/tokio,tokio,Asyncio event loop written in Rust language,181,6,Rust,PyO3,PyO3,Organization,,,,,,4725.0
+Arvanaghi/CheckPlease,CheckPlease,"Implant security modules written in Python, PowerShell, Go, Ruby, C, C#, Perl, and Rust.",179,25,Rust,Arvanaghi,Brandon Arvanaghi,User,New York City,40.7127753,-74.0059728,New York,United States,4778.0
+mehcode/config-rs,config-rs,⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).,177,21,Rust,mehcode,Ryan Leckey,User,"Sacramento, CA, USA",38.5815719,-121.49439960000001,Sacramento,United States,4839.0
+mrmekon/toucHNews,toucHNews,Hacker News (YCombinator) news feed for the Mac Touch Bar,173,7,Rust,mrmekon,Trevor Bentley,User,"Stockholm, Sweden",59.329323499999994,18.068580800000003,Stockholm,Sweden,4974.5
+AdamNiederer/base100,base100,base💯 - Encode your data into emoji,159,6,Rust,AdamNiederer,Adam Niederer,User,,,,,,5406.5
+subzerocloud/pg-amqp-bridge,pg-amqp-bridge,Send messages to RabbitMQ from PostgreSQL,156,12,Rust,subzerocloud,subZero,Organization,,,,,,5517.0
+spearow/juice,juice,The Hacker's Machine Learning Engine (formerly known as leaf),152,13,Rust,spearow,spearow,Organization,,,,,,5657.0
+fitzgen/state_machine_future,state_machine_future,Easily create type-safe `Future`s from state machines — without the boilerplate.,149,5,Rust,fitzgen,Nick Fitzgerald,User,right behind you,,,,,5787.0
+baidu/rust-sgx-sdk,rust-sgx-sdk,Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.,148,24,Rust,baidu,Baidu,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,5827.5
+frewsxcv/alert-after,alert-after,Get a desktop notification after a command finishes executing.,147,12,Rust,frewsxcv,Corey Farwell,User,New York City,40.7127753,-74.0059728,New York,United States,5872.0
+lord/backtalk,backtalk,HTTP/Websockets API microframework,142,0,Rust,lord,Robert Lord,User,SF / NYC / MN,,,,,6117.5
+JacobEberhardt/ZoKrates,ZoKrates,A toolbox for zkSNARKS on Ethereum,138,26,Rust,JacobEberhardt,,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,6298.5
+millardjn/rusty_sr,rusty_sr,Deep learning super-resolution in pure rust,137,12,Rust,millardjn,zza,User,,,,,,6334.0
+falconre/falcon,falcon,Formal Binary Analysis Framework in Rust,136,14,Rust,falconre,,Organization,,,,,,6376.0
+FGRibreau/spinners,spinners,🛎 60+ Elegant terminal spinners for Rust,133,1,Rust,FGRibreau,Francois-Guillaume Ribreau,User,"Rennes, Nantes, France",47.218371000000005,-1.553621,Nantes,France,6507.0
+google/fancy-regex,fancy-regex,,127,11,Rust,google,Google,Organization,,,,,,6796.5
+colin-kiegel/rust-pretty-assertions,rust-pretty-assertions,"Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.",126,8,Rust,colin-kiegel,Colin Kiegel,User,,,,,,6850.5
+kmcallister/tunapanel,tunapanel,Autogenerate live Web-based control panels for Rust programs,123,4,Rust,kmcallister,Keegan McAllister,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,7031.5
+ezrosent/allocators-rs,allocators-rs,Allocators in Rust,122,19,Rust,ezrosent,Eli Rosenthal,User,,,,,,7085.5
+trailofbits/flying-sandbox-monster,flying-sandbox-monster,"Sandboxed, Rust-based, Windows Defender Client",121,12,Rust,trailofbits,Trail of Bits,Organization,"New York, New York",,,,,7141.5
+Thinkofname/stylish,stylish,A webrender based UI system,117,7,Rust,Thinkofname,Matthew Collins,User,,,,,,7392.5
+jtomschroeder/cedar,cedar,Framework for building functional-reactive applications,117,4,Rust,jtomschroeder,Tom Schroeder,User,Chicago,41.8781136,-87.62979820000001,Chicago,United States,7392.5
+actix/actix,actix,Actor framework for Rust,113,9,Rust,actix,Actix,Organization,,,,,,7670.5
+eqrion/cbindgen,cbindgen,A project for generating C bindings from Rust code,110,15,Rust,eqrion,Ryan Hunt,User,"Minnesota, USA",,,,,7898.0
+qmonnet/rbpf,rbpf,Rust virtual machine and JIT compiler for eBPF programs,110,8,Rust,qmonnet,Quentin Monnet,User,"Cambridge, UK",52.205337,0.12181700000000001,Cambridge,United Kingdom,7898.0
+japaric/rust-san,rust-san,How-to: Sanitize your Rust code!,109,1,Rust,japaric,Jorge Aparicio,User,"Karlsruhe, Germany",,,,,7981.5
+tokio-rs/tokio-io,tokio-io,Core I/O primitives for asynchronous I/O in Rust.,107,30,Rust,tokio-rs,Tokio,Organization,,,,,,8118.5
+bwasty/learn-opengl-rs,learn-opengl-rs,Rust port of https://github.com/JoeyDeVries/LearnOpenGL,106,6,Rust,bwasty,Benjamin Wasty,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,8187.5
+ozkriff/zemeroth,zemeroth,Zemeroth is a 2D turn-based hexagonal strategy game in Rust,105,10,Rust,ozkriff,Andrey Lesnikov,User,"Russia, Saint-Petersburg, Devyatkino",60.050189,30.442632,Murino,Russia,8277.5
+MackieLoeffel/avr-vm,avr-vm,VM with JIT-compiler for ATMega32 written in Rust,105,1,Rust,MackieLoeffel,,User,Germany,51.165690999999995,10.451526,,Germany,8277.5
+softprops/cargo-thanks,cargo-thanks,💖  🦀  give thanks to your fellow Rustaceans,105,4,Rust,softprops,doug tangren,User,nyc,,,,,8277.5
+hjr3/php-rpm,php-rpm,PHP Rust Process Manager,104,2,Rust,hjr3,Herman J. Radtke III,User,Downtown Los Angeles,,,,,8366.5
+RustSec/cargo-audit,cargo-audit,Audit Cargo.lock for crates with security vulnerabilities,104,1,Rust,RustSec,,Organization,,,,,,8366.5
+sunjay/turtle,turtle,Create Animated Drawings in Rust,104,6,Rust,sunjay,Sunjay Varma,User,@sunjay03 on Twitter,,,,,8366.5
+three-rs/three,three,Totally not inspired Rust 3D library,100,17,Rust,three-rs,,Organization,,,,,,8660.0
+Netflix/vectorflow,vectorflow,,892,67,D,Netflix,"Netflix, Inc.",Organization,"Los Gatos, California",37.235807799999996,-121.96237509999999,Los Gatos,United States,898.5
+graphcool/chromeless,chromeless,🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.,11516,422,TypeScript,graphcool,Graphcool,Organization,,,,,,14.0
+Microsoft/reactxp,reactxp,Library for cross-platform app development.,5642,364,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,69.0
+PAIR-code/deeplearnjs,deeplearnjs,Hardware-accelerated deep learning // machine learning // NumPy library for the web.,5403,472,TypeScript,PAIR-code,PAIR code,Organization,,,,,,75.0
+jaredpalmer/formik,formik,"Build forms in React, without the tears 😭 ",4094,131,TypeScript,jaredpalmer,Jared Palmer,User,"New York, NY",40.7127837,-74.00594129999999,New York,United States,101.0
+Microsoft/TypeScript-React-Starter,TypeScript-React-Starter,A starter template for TypeScript and React with a detailed README describing how to use the two together.,3670,268,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,123.0
+nestjs/nest,nest,A progressive Node.js framework for building efficient and scalable server-side applications on top of TypeScript & JavaScript (ES6 / ES7 / ES8) heavily inspired by Angular :rocket: :zap:,2975,184,TypeScript,nestjs,nestjs,Organization,Poland,,,,,185.0
+Microsoft/sqlopsstudio,sqlopsstudio,"SQL Operations Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.",2825,125,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,204.0
+AssemblyScript/prototype,prototype,[deprecated] The initial AssemblyScript prototype based on TypeScript's compiler API.,2246,59,TypeScript,AssemblyScript,,Organization,The Web,,,,,281.0
+jaredpalmer/react-fns,react-fns,Browser API's turned into declarative React components and HoC's,2227,51,TypeScript,jaredpalmer,Jared Palmer,User,"New York, NY",40.7127837,-74.00594129999999,New York,United States,287.0
+NG-ZORRO/ng-zorro-antd,ng-zorro-antd,An enterprise-class UI components based on Ant Design and Angular. 🐜 ,2059,324,TypeScript,NG-ZORRO,NG-ZORRO,Organization,,,,,,323.0
+howtographql/howtographql,howtographql,The Fullstack Tutorial for GraphQL,2029,262,TypeScript,howtographql,How to GraphQL,Organization,,,,,,331.0
+jiayihu/pretty-algorithms,pretty-algorithms,"🌊 Pretty, common and useful algorithms with modern JS and beautiful tests",1943,83,TypeScript,jiayihu,Jiayi Hu,User,"Padova, Italy",45.4064349,11.8767611,Padua,Italy,349.0
+ionic-team/stencil,stencil,Stencil: A Compiler for Web Components,1807,72,TypeScript,ionic-team,Ionic,Organization,"Madison, Boston",35.8406347,-93.601299,Boston,United States,386.5
+ngrx/platform,platform,Monorepo for ngrx codebase,1716,462,TypeScript,ngrx,ngrx,Organization,,,,,,415.0
+PolymerLabs/lit-html,lit-html,HTML template literals in JavaScript,1637,77,TypeScript,PolymerLabs,,Organization,,,,,,434.0
+meetalva/alva,alva,Alva is a radically new design tool that enables cross-functional teams to design digital products.,1484,43,TypeScript,meetalva,Meet Alva,Organization,"Hamburg, Germany",53.5510846,9.9936819,Hamburg,Germany,494.0
+concretesolutions/redux-zero,redux-zero,A lightweight state container based on Redux ,1422,38,TypeScript,concretesolutions,Concrete,Organization,"São Paulo, Sp, Brazil",-23.550519899999998,-46.63330939999999,São Paulo,Brazil,518.5
+graphcool/graphql-playground,graphql-playground,"🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)",1293,67,TypeScript,graphcool,Graphcool,Organization,,,,,,584.5
+palantir/react-mosaic,react-mosaic,A React tiling window manager,1223,55,TypeScript,palantir,Palantir Technologies,Organization,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,625.5
+sonarwhal/sonarwhal,sonarwhal,A linting tool for the web,1191,83,TypeScript,sonarwhal,sonarwhal,Organization,,,,,,645.5
+Shopify/polaris,polaris,Shopify’s product component library,1117,141,TypeScript,Shopify,Shopify,Organization,,,,,,710.0
+reiinakano/fast-style-transfer-deeplearnjs,fast-style-transfer-deeplearnjs,Demo of in-browser Fast Neural Style Transfer with deeplearn.js library,1062,65,TypeScript,reiinakano,Reiichiro Nakano,User,Tokyo,,,,,743.5
+akveo/nebular,nebular,Nebular is a set of essential modules for your next Angular application.,989,199,TypeScript,akveo,,Organization,Minsk,53.90453979999999,27.5615244,Minsk,Belarus,799.0
+cherow/cherow,cherow,"Very fast, standards-compliant, self-hosted ECMAScript parser with high focus on both performance and stability",820,25,TypeScript,cherow,Cherow,Organization,,,,,,976.5
+firebase/firebase-js-sdk,firebase-js-sdk,Firebase Javascript SDK,791,97,TypeScript,firebase,Firebase,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,1007.0
+kactus-io/kactus,kactus,:cactus: A true version control tool for designers,760,25,TypeScript,kactus-io,Kactus,Organization,,,,,,1063.5
+prettier/prettier-vscode,prettier-vscode,Visual Studio Code plugin for Prettier,740,67,TypeScript,prettier,Prettier,Organization,,,,,,1100.5
+mozilla/voice-web,voice-web,"Common Voice: Our responsive web, Android and iOS apps for collecting public voice data.",707,155,TypeScript,mozilla,Mozilla,Organization,"Mountain View, California",37.3860517,-122.08385109999999,Mountain View,United States,1177.0
+joelgriffith/navalia,navalia,"A bullet-proof, fast, and reliable headless browser API",705,22,TypeScript,joelgriffith,Joel Griffith,User,"Portland, OR",45.523062200000005,-122.6764815,Portland,United States,1180.5
+aviabird/angularspree,angularspree,Angular(4.2) E-Commerce front-end framework,678,273,TypeScript,aviabird,Aviabird,Organization,Pune,,,,,1238.5
+Microsoft/vscode-recipes,vscode-recipes,,630,40,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,1340.0
+laoqiren/mlhelper,mlhelper,Algorithms and utils for Machine Learning in JavaScript.,628,35,TypeScript,laoqiren,Xia Luo,User,"Hangzhou,China",,,,,1341.5
+clauderic/react-tiny-virtual-list,react-tiny-virtual-list,"A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, scrolling to index, and more!",610,35,TypeScript,clauderic,Claudéric Demers,User,"Montreal, Canada",45.5016889,-73.567256,Montreal,Canada,1388.0
+cmcaine/tridactyl,tridactyl,Implementing Vimperator/Pentadactyl as a WebExtension.,610,63,TypeScript,cmcaine,Colin Caine,User,Manchester,53.4807593,-2.2426305,Manchester,United Kingdom,1388.0
+alexjoverm/typescript-library-starter,typescript-library-starter,"Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!",601,93,TypeScript,alexjoverm,Alex Jover,User,Alicante,38.345996299999996,-0.49068549999999994,Alicante,Spain,1400.0
+pd4d10/octohint,octohint,The missing IntelliSense hint feature for GitHub,589,18,TypeScript,pd4d10,pd4d10,User,,,,,,1431.5
+elbywan/wretch,wretch,A tiny wrapper built around fetch with an intuitive syntax. :shipit: ,515,13,TypeScript,elbywan,Julien Elbaz,User,"Paris, France",48.856614,2.3522218999999995,Paris,France,1631.0
+camwest/react-slot-fill,react-slot-fill,Slot & Fill component for merging React subtrees together. Portal on steroids.,503,21,TypeScript,camwest,Cameron Westland,User,"San Francisco, California",,,,,1673.0
+APIs-guru/graphql-faker,graphql-faker,🎲 Mock or extend your GraphQL API with faked data. No coding required.,492,28,TypeScript,APIs-guru,,Organization,,,,,,1720.5
+finchalyzer/slinky,slinky,Export your Sketch designs as HTML email templates,476,20,TypeScript,finchalyzer,Finch.io,User,Latvia,56.879635,24.603189,,Latvia,1778.0
+jaystack/repatch,repatch,Dispatch reducers,463,9,TypeScript,jaystack,JayStack Enterprises,Organization,,,,,,1833.5
+coinbase/gdax-tt,gdax-tt,The GDAX trading toolkit,458,103,TypeScript,coinbase,,Organization,,,,,,1850.0
+ducksoupdev/vue-webpack-typescript,vue-webpack-typescript,"A Vue 2, Webpack 3 and Typescript 2 setup with hot reload, dynamic imports, unit testing, code coverage, sass and bundling/minification.",450,67,TypeScript,ducksoupdev,Matt Levy,User,"Herne Bay, UK",,,,,1884.5
+theia-ide/theia,theia,Theia is a cloud & desktop IDE framework implemented in TypeScript.,449,70,TypeScript,theia-ide,theia-ide,Organization,,,,,,1890.0
+google/ts-style,ts-style,"☂️ TypeScript style guide, formatter, and linter.  ",444,19,TypeScript,google,Google,Organization,,,,,,1913.0
+bitjson/typesc
