@@ -7658,4 +7658,111 @@ coinbase/gdax-tt,gdax-tt,The GDAX trading toolkit,458,103,TypeScript,coinbase,,O
 ducksoupdev/vue-webpack-typescript,vue-webpack-typescript,"A Vue 2, Webpack 3 and Typescript 2 setup with hot reload, dynamic imports, unit testing, code coverage, sass and bundling/minification.",450,67,TypeScript,ducksoupdev,Matt Levy,User,"Herne Bay, UK",,,,,1884.5
 theia-ide/theia,theia,Theia is a cloud & desktop IDE framework implemented in TypeScript.,449,70,TypeScript,theia-ide,theia-ide,Organization,,,,,,1890.0
 google/ts-style,ts-style,"☂️ TypeScript style guide, formatter, and linter.  ",444,19,TypeScript,google,Google,Organization,,,,,,1913.0
-bitjson/typesc
+bitjson/typescript-starter,typescript-starter,A typescript boilerplate for building javascript libraries and projects,441,38,TypeScript,bitjson,Jason Dreyzehner,User,"Atlanta, GA",,,,,1925.0
+mgechev/ngrev,ngrev,Tool for reverse engineering of Angular applications,429,25,TypeScript,mgechev,Minko Gechev,User,"California, USA",36.778261,-119.4179324,,United States,1974.0
+sindresorhus/is,is,Type check values: `is.string('🦄') //=> true`,427,26,TypeScript,sindresorhus,Sindre Sorhus,User,° ☾ ☆ ¸. ¸　★  :.　 . • ○ ° ★,,,,,1985.0
+gcanti/fp-ts,fp-ts,Functional programming in TypeScript / Flowtype,427,30,TypeScript,gcanti,Giulio Canti,User,"Milan, Italy",45.465421899999996,9.1859243,Milan,Italy,1985.0
+matthewgonzalez/fontplop,fontplop,"Fast, Simple, & Free Open Source Webfont Converter",425,12,TypeScript,matthewgonzalez,Matthew Gonzalez,User,,,,,,1997.0
+graphcool/graphql-request,graphql-request,📡  Minimal GraphQL client supporting Node and browsers for scripts or simple apps,416,18,TypeScript,graphcool,Graphcool,Organization,,,,,,2038.0
+myxvisual/react-uwp,react-uwp,📱⌨️ React Components that Implement Microsoft's UWP Design & Fluent Design.,416,32,TypeScript,myxvisual,myxvisual,User,shenzhen,,,,,2038.0
+wcandillon/react-native-img-cache,react-native-img-cache,Image Cache for React Native,404,62,TypeScript,wcandillon,William Candillon,User,Zürich,,,,,2091.5
+strongloop/loopback-next,loopback-next,LoopBack makes it easy to build modern applications that require complex integrations.,401,34,TypeScript,strongloop,StrongLoop and IBM API Connect,Organization,,,,,,2110.0
+apollographql/apollo-link,apollo-link,:link: Interface for fetching and modifying control flow of GraphQL requests,390,76,TypeScript,apollographql,Apollo GraphQL,Organization,,,,,,2171.0
+APIs-guru/graphql-lodash,graphql-lodash,🛠 Data manipulation for GraphQL queries with lodash syntax,382,16,TypeScript,APIs-guru,,Organization,,,,,,2223.5
+Microsoft/TypeScript-React-Native-Starter,TypeScript-React-Native-Starter,A starter template for TypeScript and React Native with a detailed README describing how to use the two together.,374,50,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,2272.5
+dherges/ng-packagr,ng-packagr,Transpile your libraries to Angular Package Format,368,54,TypeScript,dherges,David Herges,User,European,,,,,2311.0
+apollographql/apollo-fetch,apollo-fetch,:dog: Lightweight GraphQL client that supports middleware and afterware,368,17,TypeScript,apollographql,Apollo GraphQL,Organization,,,,,,2311.0
+online-go/online-go.com,online-go.com,Source code for the Online-Go.com web interface,359,89,TypeScript,online-go,online-go.com,Organization,Wyoming,43.075967799999994,-107.29028390000002,,United States,2359.5
+ForbesLindesay/taxi-rank,taxi-rank,A JSDom based Selenium Webdriver API,354,12,TypeScript,ForbesLindesay,Forbes Lindesay,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,2388.0
+orizens/echoes-player,echoes-player,"Echoes Player: Media Player for Youtube - Built with Angular (+5), ngrx (+5), Angular CLI, Boostrap (SASS), Youtube api",352,130,TypeScript,orizens,Oren Farhi,User,Israel,31.046051000000002,34.851612,,Israel,2399.0
+ng-seed/universal,universal,"Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Material Design & Flexbox, Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, @ngrx/store, config, cache, i18n, SEO, angulartics2 and TSLint/codelyzer",352,83,TypeScript,ng-seed,ng-seed,Organization,"Antalya, Turkey",36.8968908,30.7133233,Antalya,Turkey,2399.0
+eleme/element-angular,element-angular,Element for Angular,350,53,TypeScript,eleme,eleme,Organization,Shanghai,31.230415999999998,121.473701,Shanghai,China,2408.5
+zyra/ionic2-super-tabs,ionic2-super-tabs,Swipeable Tabs for Ionic 3,350,106,TypeScript,zyra,Zyra Media,Organization,"Toronto, ON",43.653226000000004,-79.3831843,Toronto,Canada,2408.5
+Microsoft/YamUI,YamUI,Reusable component framework for Yammer.com,345,27,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,2458.5
+williamngan/pts,pts,Compose and visualize points in spaces,343,11,TypeScript,williamngan,William Ngan,User,,,,,,2479.5
+brakmic/BlockchainStore,BlockchainStore,:moneybag: Retail Store that runs on Ethereum ,343,24,TypeScript,brakmic,Harris Brakmić,User,"Troisdorf, Germany",50.817747100000005,7.1430245999999995,Troisdorf,Germany,2479.5
+dicallc/ionic3_angular4_JD,ionic3_angular4_JD,使用ionic3/ag4编写模仿京东商城的demo,338,126,TypeScript,dicallc,,User,SZ,-26.522503000000004,31.465866,,Swaziland,2518.5
+mgechev/injection-js,injection-js,"Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested.",337,20,TypeScript,mgechev,Minko Gechev,User,"California, USA",36.778261,-119.4179324,,United States,2526.0
+midwayjs/pandora,pandora,An Ops First Application Manager for Node.js Applications powered by TypeScript.,336,19,TypeScript,midwayjs,Taobao MidwayJS Team,Organization,"China, Taobao.com, Alibaba",,,,,2533.5
+threema-ch/threema-web,threema-web,The Threema Web application.,333,42,TypeScript,threema-ch,Threema GmbH,Organization,Switzerland,46.818188,8.227511999999999,,Switzerland,2554.5
+dobjs/dob,dob, Light and fast 🚀 state management tool.,327,9,TypeScript,dobjs,,Organization,,,,,,2609.0
+gcanti/io-ts,io-ts,TypeScript / Flowtype compatible runtime type system for IO validation,320,14,TypeScript,gcanti,Giulio Canti,User,"Milan, Italy",45.465421899999996,9.1859243,Milan,Italy,2663.5
+apollographql/apollo-link-state,apollo-link-state,✨ Manage your application state with Apollo!,318,23,TypeScript,apollographql,Apollo GraphQL,Organization,,,,,,2686.0
+YePpHa/maia-yt,maia-yt,Currently codenamed maia-yt is a userscript (and browser extension) that enhances the user's experience on YouTube.,316,7,TypeScript,YePpHa,Jeppe Rune Mortensen,User,,,,,,2710.5
+UltimateAngular/ngx-errors,ngx-errors,A declarative validation errors module for reactive forms.,315,22,TypeScript,UltimateAngular,Ultimate Angular,Organization,,,,,,2718.0
+jinmingjian/sde,sde,Swift Development Environment based on VS Code,309,15,TypeScript,jinmingjian,Jin Mingjian,User,Beijing,39.90419989999999,116.4073963,Beijing,China,2761.5
+funfix/funfix,funfix,"Functional Programming Library for JavaScript, TypeScript and Flow ✨⚡️",305,13,TypeScript,funfix,Funfix,Organization,,,,,,2794.0
+graphcool/graphql-yoga,graphql-yoga,"🧘 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience",305,18,TypeScript,graphcool,Graphcool,Organization,,,,,,2794.0
+rhysd/Mstdn,Mstdn,Tiny web-based mastodon client for your desktop,300,12,TypeScript,rhysd,Linda_pp,User,"Tokyo, Japan",35.6894875,139.69170640000002,,Japan,2838.0
+pagarme/superbowleto,superbowleto,":football: A microservice to issue, register and manage boletos",299,38,TypeScript,pagarme,Pagar.me,Organization,Brazil,-14.235004,-51.92528,,Brazil,2847.0
+nrwl/nx,nx,Nrwl Extensions for Angular,299,45,TypeScript,nrwl,Nrwl,Organization,"Mountain View, CA",,,,,2847.0
+emonney/QuickApp,QuickApp,"ASP.NET Core / Angular5 startup project template with complete login, user and role management. Plus other useful services for Quick Application Development",293,110,TypeScript,emonney,Ebenezer Monney,User,Ghana,7.946527000000001,-1.0231940000000002,,Ghana,2894.5
+surebot/Eventline,Eventline,Micro-framework for routing and handling events for bots and applications 🤖. IFTTT for developers 👩‍💻👨‍💻,292,15,TypeScript,surebot,Sure,Organization,"London, United Kingdom",51.5073509,-0.12775830000000002,London,United Kingdom,2903.5
+samccone/fidgetspin.xyz,fidgetspin.xyz,,292,21,TypeScript,samccone,Sam Saccone,User,∆∆∆,,,,,2903.5
+quicktype/quicktype,quicktype,"Generate types and converters from JSON, Schema, and GraphQL",288,18,TypeScript,quicktype,quicktype,Organization,San Francisco,,,,,2940.5
+michalyao/evermonkey,evermonkey,Evernote Editing. Redefined.,287,23,TypeScript,michalyao,karun!a,User,"Hangzhou,Zhejiang ",30.274084000000002,120.15507,Hangzhou,China,2951.0
+RxJS-CN/RxJS-Docs-CN,RxJS-Docs-CN,RxJS 5 中文文档,287,39,TypeScript,RxJS-CN,RxJS 中文社区,Organization,China,,,,,2951.0
+grammarly/focal,focal,Program user interfaces the FRP way.,286,13,TypeScript,grammarly,Grammarly,Organization,San Francisco and Kyiv,,,,,2961.5
+trainline/react-skeletor,react-skeletor,Skeleton loading for React,285,9,TypeScript,trainline,trainline engineering,Organization,"London, Paris, Bangalore",,,,,2972.0
+FinNLP/en-inflectors,en-inflectors,"📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation.",283,9,TypeScript,FinNLP,fin,Organization,,,,,,2997.0
+westy92/html-pdf-chrome,html-pdf-chrome,HTML to PDF converter via Chrome/Chromium,279,23,TypeScript,westy92,Seth Westphal,User,"Madison, WI",43.07305170000001,-89.4012302,Madison,United States,3045.5
+miscreant/miscreant,miscreant,Misuse-resistant symmetric encryption library with AES-SIV (RFC 5297) and AES-PMAC-SIV support,273,15,TypeScript,miscreant,miscreant.,Organization,,,,,,3099.5
+shprink/ionic-angular-twitter-pwa,ionic-angular-twitter-pwa,mobile.twitter.com PWA rewritten with Ionic-Angular,269,40,TypeScript,shprink,Julien Renaux,User,"Toulouse, France",43.604652,1.444209,Toulouse,France,3155.0
+alexjlockwood/avdo,avdo,Vector Drawable & Animated Vector Drawable optimization tool,268,11,TypeScript,alexjlockwood,Alex Lockwood,User,"San Francisco, CA",40.783060299999995,-73.9712488,New York,United States,3167.0
+wix/stylable,stylable,Stylable - CSS for components ,264,12,TypeScript,wix,Wix.com,Organization,"Tel Aviv, Vilnius, Dnipropetrovsk, Kiev, San Francisco, Miami, NYC",,,,,3215.5
+robwormald/ng-universal-demo,ng-universal-demo,,263,159,TypeScript,robwormald,Rob Wormald,User,Mountain View CA,37.3860517,-122.08385109999999,Mountain View,United States,3225.5
+WhitestormJS/whitestorm-typescript-boilerplate,whitestorm-typescript-boilerplate,📦 🚀 TypeScript boilerplate for WhitestormJS using react/redux ⚛,263,9,TypeScript,WhitestormJS,WhitestormJS Framework,Organization,Global,33.969435,-84.26191690000002,Norcross,United States,3225.5
+angular/devkit,devkit,,257,82,TypeScript,angular,Angular,Organization,,,,,,3293.5
+ds300/patch-package,patch-package,Fix broken node modules with no fuss 📦👌,256,5,TypeScript,ds300,David Sheldrick,User,"London, England",,,,,3308.5
+meowtec/Imagine,Imagine,"🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.",254,22,TypeScript,meowtec,Berton Zhu,User,Hangzhou,,,,,3336.0
+codediodeio/angular-firestarter,angular-firestarter,Angular + Firebase Progressive Web App Starter,254,132,TypeScript,codediodeio,Jeff Delaney,User,"Phoenix, AZ",,,,,3336.0
+kristoferbaxter/preact-hn,preact-hn,Demonstration of Preact used to build Hacker News as a PWA.,253,21,TypeScript,kristoferbaxter,Kristofer Baxter,User,"Santa Cruz, CA",36.9741171,-122.0307963,Santa Cruz,United States,3346.5
+ionic-team/ionic-unit-testing-example,ionic-unit-testing-example,Example of adding unit testing in your Ionic 2.x or greater apps with Karma and Jasmine,252,81,TypeScript,ionic-team,Ionic,Organization,"Madison, Boston",35.8406347,-93.601299,Boston,United States,3361.0
+fabiospampinato/cliflix,cliflix,"Watch anything instantaneously, just write its name.",251,11,TypeScript,fabiospampinato,Fabio Spampinato,User,"Catania, Italy",37.5078772,15.0830304,Catania,Italy,3377.5
+EYHN/hexo-theme-one,hexo-theme-one,hexo单页面炫酷主题,246,24,TypeScript,EYHN,EEEEEEYHN,User,china,35.86166,104.195397,,China,3430.5
+0xProject/contracts,contracts,0x smart contracts and tests.,246,54,TypeScript,0xProject,0x,Organization,,,,,,3430.5
+infinitered/solidarity,solidarity,Solidarity is an environment checker for project dependencies across multiple machines.,242,26,TypeScript,infinitered,"Infinite Red, Inc.",Organization,San Francisco & Portland,14.0938235,120.8393121,Alfonso,Philippines,3494.5
+rangle/angular-ssr,angular-ssr,"Angular 4+ server-side rendering solution compatible with @angular/material, jQuery, and other libraries that touch the DOM (as well as providing a rich feature set!)",242,42,TypeScript,rangle,rangle.io,Organization,Toronto,,,,,3494.5
+tomastrajan/angular-ngrx-material-starter,angular-ngrx-material-starter,Angular NgRx & Angular Material Starter Project,240,44,TypeScript,tomastrajan,Tomas Trajan,User,"Zürich, Switzerland",47.376886600000006,8.541694,Zürich,Switzerland,3531.0
+Polymer/prpl-server-node,prpl-server-node,An HTTP server for Node designed to serve PRPL apps in production.,240,18,TypeScript,Polymer,polymer,Organization,,,,,,3531.0
+jeffijoe/typesync,typesync,Install missing TypeScript typings for dependencies in your package.json.,240,3,TypeScript,jeffijoe,Jeff Hansen,User,"Aabenraa, Denmark",,,,,3531.0
+glimmerjs/glimmer.js,glimmer.js,Central repository for the Glimmer.js project,237,10,TypeScript,glimmerjs,Glimmer.js,Organization,,,,,,3576.5
+line/line-bot-sdk-nodejs,line-bot-sdk-nodejs,Node.js SDK for LINE Messaging API,236,71,TypeScript,line,LINE,Organization,"Tokyo, Japan",35.6894875,139.69170640000002,,Japan,3591.5
+reiinakano/gan-playground,gan-playground,GAN Playground - Experiment with Generative Adversarial Nets in your browser. An introduction to GANs.,235,29,TypeScript,reiinakano,Reiichiro Nakano,User,Tokyo,,,,,3608.5
+Bloomca/redux-tiles,redux-tiles,Composable way to create less verbose Redux code,231,7,TypeScript,Bloomca,Seva Zaikov,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,3682.0
+0xProject/0x.js,0x.js,0x protocol TypeScript monorepo,230,39,TypeScript,0xProject,0x,Organization,,,,,,3702.0
+fossasia/susper.com,susper.com,Susper Decentralised Search Engine http://susper.com,230,174,TypeScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,3702.0
+epiqueras/getsy,getsy,A simple browser/client-side web scraper.,225,11,TypeScript,epiqueras,Enrique Piqueras,User,Los Angeles,,,,,3788.0
+HsuanXyz/ion2-calendar,ion2-calendar,📅 A date picker components for ionic2 ／ionic3,215,90,TypeScript,HsuanXyz,Hsuan Lee,User," Chengdu, China",30.572815000000002,104.066801,Chengdu,China,3967.0
+Flipkart/recyclerlistview,recyclerlistview,High performance listview for React Native and web!,214,23,TypeScript,Flipkart,Flipkart,Organization,Bangalore,,,,,3988.5
+rdkmaster/jigsaw,jigsaw,Jigsaw七巧板 provides a set of web components based on Angular5+. The main purpose of Jigsaw is to help the application developers to construct complex & intensive interacting & user friendly web pages. Jigsaw is supporting the development of all applications of Big Data Product of ZTE.,212,36,TypeScript,rdkmaster,陈旭,User,,,,,,4022.0
+meili/min-cli,min-cli,Min 小程序组件化解决方案,212,30,TypeScript,meili,Meili Inc.,Organization,"Hangzhou, China",,,,,4022.0
+cazala/coin-hive-stratum,coin-hive-stratum,use CoinHive's JavaScript miner on any stratum pool,209,274,TypeScript,cazala,Juan Cazala,User,"Buenos Aires, Argentina",,,,,4089.0
+pkamenarsky/leerraum.js,leerraum.js,A PDF typesetting library with exact positioning and hyphenated line breaking,208,5,TypeScript,pkamenarsky,Philip Kamenarsky,User,"Vienna, Austria",,,,,4110.0
+BabylonJS/Spector.js,Spector.js,Explore and Troubleshoot your WebGL scenes with ease.,208,25,TypeScript,BabylonJS,Babylon.js,Organization,,,,,,4110.0
+AlgusDark/bloomer,bloomer,A set of React components for Bulma CSS Framework,205,14,TypeScript,AlgusDark,Carlos Pérez Gutiérrez,User,"Lázaro Cárdenas, Michoacán",17.9567646,-102.1943485,Lázaro Cárdenas,Mexico,4172.0
+HsuanXyz/ionic3-chat,ionic3-chat, ionic3 chat example,204,84,TypeScript,HsuanXyz,Hsuan Lee,User," Chengdu, China",30.572815000000002,104.066801,Chengdu,China,4194.0
+equinusocio/vsc-material-theme,vsc-material-theme,"Material Theme, the most epic theme for Visual Studio Code",201,26,TypeScript,equinusocio,Mattia Astorino,User,Monza,45.5845001,9.2744485,Monza,Italy,4246.5
+staltz/mmmmm-mobile,mmmmm-mobile,A mobile app for secure-scuttlebutt,201,9,TypeScript,staltz,André Staltz,User,"Helsinki, Finland",60.16985569999999,24.938379,Helsinki,Finland,4246.5
+fex-team/swiper,swiper,轻量的移动端 H5 翻页库,199,34,TypeScript,fex-team,Baidu FEX team,Organization,beijing,39.904211,116.407395,Beijing,China,4286.0
+myopenresources/cc,cc,一个基于angular5.0.0+ng-bootstrap1.0.0-beta.8+bootstrap4.0.0-beta.2+scss的后台管理系统界面(没基础的同学请先自学基础，谢谢！),199,108,TypeScript,myopenresources,无人看管机器人,User,阿斯拉达纳星/宇宙,,,,,4286.0
+zixia/node-facenet,node-facenet,"Solve face verification, recognition and clustering problems: A TensorFlow backed FaceNet implementation for Node.js.",199,25,TypeScript,zixia,Huan LI,User,Beijing,39.90419989999999,116.4073963,Beijing,China,4286.0
+Microsoft/TypeScript-React-Conversion-Guide,TypeScript-React-Conversion-Guide,A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.,198,35,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,4308.0
+graphql-cli/graphql-cli,graphql-cli,📟  Command line tool for common GraphQL development workflows,196,23,TypeScript,graphql-cli,GraphQL CLI,Organization,,,,,,4350.0
+ClusterWS/ClusterWS,ClusterWS,"Lightweight, fast and powerful framework for building horizontally & vertically scalable WebSocket applications in Node.js.",191,6,TypeScript,ClusterWS,ClusterWS,Organization,,,,,,4463.5
+IronPans/freeng,freeng,UI Components for Angular.,191,46,TypeScript,IronPans,TG,User,China,35.86166,104.195397,,China,4463.5
+firebase/firebase-admin-node,firebase-admin-node,Firebase Admin Node.js SDK,186,33,TypeScript,firebase,Firebase,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,4590.5
+scniro/react-codemirror2,react-codemirror2,Codemirror integrated components for React,185,23,TypeScript,scniro,Sal Niro,User,"Saratoga Springs, NY",42.88644679999999,-78.8783689,Buffalo,United States,4615.5
+thundernet8/AlipayOrdersSupervisor,AlipayOrdersSupervisor,:sparkles: 使用Node监视支付宝订单，即时通知服务器以实现免签约支付接口,185,54,TypeScript,thundernet8,Touchumind,User,Shanghai,,,,,4615.5
+stardustjs/stardust-core,stardust-core,Stardust: Create GPU-based Visualizations,182,9,TypeScript,stardustjs,,Organization,,,,,,4693.0
+coatue-oss/react2angular,react2angular,The easiest way to embed React components in Angular 1 apps.,180,21,TypeScript,coatue-oss,Opensource @ Coatue,Organization,Menlo Park,37.4529598,-122.1817252,Menlo Park,United States,4753.0
+adriancarriger/angularfire2-offline,angularfire2-offline,"🔌 A simple wrapper for AngularFire2 to read and write to Firebase while offline, even after a complete refresh.",180,37,TypeScript,adriancarriger,Adrian Carriger,User,United States,37.09024,-95.712891,,United States,4753.0
+cartant/rxjs-spy,rxjs-spy,A debugging library for RxJS,179,2,TypeScript,cartant,Nicholas Jamieson,User,Australia,-25.274398,133.775136,,Australia,4778.0
+rsms/wasm-util,wasm-util,WebAssembly utilities,179,12,TypeScript,rsms,Rasmus,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,4778.0
+kee-org/browser-addon,browser-addon,"Kee adds free, secure and easy password management features to your browser which save time and keep your private data more secure.",178,16,TypeScript,kee-org,Kee,Organization,,,,,,4807.0
+Azure/aci-connector-k8s,aci-connector-k8s,Azure Container Instances Connector for Kubernetes,177,37,TypeScript,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",,,,,4839.0
+bitrinjani/r2,r2,R2 Bitcoin Arbitrager is an automatic arbitrage trading system powered by Node.js + TypeScript.,175,62,TypeScript,bitrinjani,Project Rinjani,User,"Tokyo, Japan",,,,,4897.0
+alexjoverm/tslint-config-prettier,tslint-config-prettier,Use tslint with prettier without any conflict,175,11,TypeScript,alexjoverm,Alex Jover,User,Alicante,38.345996299999996,-0.49068549999999994,Alicante,Spain,4897.0
+imolorhe/altair,altair,The only graphQL client editor you will need - Postman for GraphQL.,174,13,TypeScript,imolorhe,Samuel,User,"Lagos, NG",6.5243793,3.3792057,Lagos,Nigeria,4932.5
+AssemblyScript/assemblyscript,assemblyscript,A TypeScript to WebAssembly compiler.,174,5,TypeScript,AssemblyScript,,Organization,The Web,,,,,4932.5
+vsavkin/state_management_ngrx4,state_management_ngrx4,,173,44,TypeScript,vsavkin,Victor Savkin,User,Tor
