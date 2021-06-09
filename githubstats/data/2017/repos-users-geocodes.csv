@@ -7765,4 +7765,112 @@ bitrinjani/r2,r2,R2 Bitcoin Arbitrager is an automatic arbitrage trading system 
 alexjoverm/tslint-config-prettier,tslint-config-prettier,Use tslint with prettier without any conflict,175,11,TypeScript,alexjoverm,Alex Jover,User,Alicante,38.345996299999996,-0.49068549999999994,Alicante,Spain,4897.0
 imolorhe/altair,altair,The only graphQL client editor you will need - Postman for GraphQL.,174,13,TypeScript,imolorhe,Samuel,User,"Lagos, NG",6.5243793,3.3792057,Lagos,Nigeria,4932.5
 AssemblyScript/assemblyscript,assemblyscript,A TypeScript to WebAssembly compiler.,174,5,TypeScript,AssemblyScript,,Organization,The Web,,,,,4932.5
-vsavkin/state_management_ngrx4,state_management_ngrx4,,173,44,TypeScript,vsavkin,Victor Savkin,User,Tor
+vsavkin/state_management_ngrx4,state_management_ngrx4,,173,44,TypeScript,vsavkin,Victor Savkin,User,Toronto,43.653226000000004,-79.3831843,Toronto,Canada,4974.5
+harksys/npmvet,npmvet,A simple CLI tool for vetting npm package versions,172,2,TypeScript,harksys,Hark.,Organization,United Kingdom,55.378051,-3.435973,,United Kingdom,5008.5
+react-mdc/react-material-components-web,react-material-components-web,React wrapper of Google's Material Components Web,172,16,TypeScript,react-mdc,,Organization,,,,,,5008.5
+xieziyu/ngx-echarts,ngx-echarts,An angular (ver >= 2.x) directive for ECharts v3.x,172,40,TypeScript,xieziyu,"Xie, Ziyu",User,,,,,,5008.5
+chenhaozhi/Cpage.js,Cpage.js,Cpage.js是一款轻量级的Mvvm框架，使用TypeScript开发，可以方便地进行组件化开发，语法统一、简介明了，不依赖于第三方框架，适合中小项目开发。框架同时支持es5与es6语法，可参考example中示例。,172,1,TypeScript,chenhaozhi,,User,,,,,,5008.5
+cipchk/ngx-weui,ngx-weui,weui for angular,165,40,TypeScript,cipchk,卡色,User,"shanghai, china",31.230390399999997,121.4737021,Shanghai,China,5211.0
+lyft/universal-async-component,universal-async-component,React Universal Async Component that works with server side rendering,165,9,TypeScript,lyft,Lyft,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,5211.0
+jiayihu/ng-animate,ng-animate,"🌙 A collection of cool, reusable and flexible animations for Angular 4.2+",163,15,TypeScript,jiayihu,Jiayi Hu,User,"Padova, Italy",45.4064349,11.8767611,Padua,Italy,5276.5
+staltz/html-looks-like,html-looks-like,Assert that an HTML string looks approximately the same as another HTML,163,6,TypeScript,staltz,André Staltz,User,"Helsinki, Finland",60.16985569999999,24.938379,Helsinki,Finland,5276.5
+bougarfaoui/ng-socket-io,ng-socket-io,Socket.IO module for Angular ,163,32,TypeScript,bougarfaoui,Bougarfaoui El houcine,User,Morocco,,,,,5276.5
+hzlshen/angular-cli-mvc,angular-cli-mvc,angular4+bootstrap3写的web应用,161,0,TypeScript,hzlshen,,User,深圳,22.543096,114.05786499999999,Shenzhen,China,5336.5
+ktsn/vuex-class,vuex-class,Binding helpers for Vuex and vue-class-component,160,9,TypeScript,ktsn,katashin,User,"Tokyo, Japan",,,,,5371.0
+TeamMaestro/angular-native-seed,angular-native-seed,Build web apps and NativeScript applications from one codebase using the AngularCLI.,158,37,TypeScript,TeamMaestro,,Organization,,,,,,5442.0
+swimlane/ngx-dnd,ngx-dnd,"🕶  Drag, Drop and Sorting Library for Angular2 and beyond!",158,26,TypeScript,swimlane,Swimlane,Organization,"Denver, CO",39.739235799999996,-104.990251,Denver,United States,5442.0
+felixfbecker/iterare,iterare,Array methods + ES6 Iterators = :heart:,155,3,TypeScript,felixfbecker,Felix Becker,User,San Francisco,,,,,5552.0
+viserjs/viser,viser,viser is a toolkit fit for data vis engineer.,155,14,TypeScript,viserjs,,Organization,,,,,,5552.0
+k0204/LuaIde,LuaIde,,150,72,TypeScript,k0204,,User,,,,,,5743.5
+gigobyte/ui-stack,ui-stack,:mag: A Chrome extension that lets you see a website's framework and libraries,150,13,TypeScript,gigobyte,Stanislav Iliev,User,"Sofia, Bulgaria",42.69770820000001,23.3218675,Sofia,Bulgaria,5743.5
+JumpFm/jumpfm,jumpfm,A file manager that lets you jump.,150,15,TypeScript,JumpFm,JumpFm,Organization,,,,,,5743.5
+gdnmobilelab/png-pong,png-pong,An image manipulation library with a very specific set of skills.,148,5,TypeScript,gdnmobilelab,Guardian Mobile Innovation Lab,Organization,"New York, USA",40.7127753,-74.0059728,New York,United States,5827.5
+thymikee/jest-preset-angular,jest-preset-angular,Jest configuration preset for Angular projects.,147,28,TypeScript,thymikee,Michał Pierzchała,User,"Krakow/Wroclaw, Poland",50.0808814,19.8701813,Kraków,Poland,5872.0
+Quramy/ts-graphql-plugin,ts-graphql-plugin,TypeScript Language Service Plugin for GraphQL developers,146,5,TypeScript,Quramy,Yosuke Kurami,User,"Tokyo, Japan",35.6894875,139.69170640000002,Tokyo,Japan,5920.0
+ionic-team/stencil-app-starter,stencil-app-starter,Minimal starter project for building web components (or apps!) with Stencil,145,38,TypeScript,ionic-team,Ionic,Organization,"Madison, Boston",35.8406347,-93.601299,Boston,United States,5968.0
+toomuchdesign/re-reselect,re-reselect,Retrieve computed data by querying a dynamically created/memoized collection of reselect selectors. Now with optional custom cache management.,144,12,TypeScript,toomuchdesign,Andrea Carraro,User,Hamburg,53.5510846,9.9936819,Hamburg,Germany,6016.0
+artemsky/vue-snotify,vue-snotify,Vuejs 2 Notification Center,142,10,TypeScript,artemsky,Artem Kuznetsov,User,"Kiev, UA",50.4501,30.5234,Kyiv,Ukraine,6117.5
+acekyd/made-in-nigeria,made-in-nigeria,It is rumored that Nigerians only know how to consume tools and not create them. Here is a curation of awesome tools built by Nigerians that can be used by anybody and from anywhere in the world.,142,85,TypeScript,acekyd,Abati Adewale,User,"Lagos, Nigeria",,,,,6117.5
+ivy-lang/ivy-bitcoin,ivy-bitcoin,A high-level language and IDE for writing Bitcoin smart contracts.,142,11,TypeScript,ivy-lang,Ivy,Organization,,,,,,6117.5
+matsko/ng4-animations-preview,ng4-animations-preview,,141,49,TypeScript,matsko,Matias Niemelä,User,"San Francisco, California",37.7749295,-122.4194155,San Francisco,United States,6165.0
+react-native-training/create-xp-app,create-xp-app,ReactXP Project Generator,138,10,TypeScript,react-native-training,React Native Training,Organization,"Madison, MS",,,,,6298.5
+convoyinc/apollo-cache-hermes,apollo-cache-hermes,"A cache implementation for Apollo Client, tuned for performance",137,10,TypeScript,convoyinc,Convoy,Organization,"Seattle, WA",47.6062095,-122.33207079999998,Seattle,United States,6334.0
+staltz/dat-installer,dat-installer,"Download, install, and update Android apps through Dat",137,4,TypeScript,staltz,André Staltz,User,"Helsinki, Finland",60.16985569999999,24.938379,Helsinki,Finland,6334.0
+typesoft/container-ioc,container-ioc,Inversion of Control  container & Dependency Injection for Javascript and Node.js apps powered by Typescript.,137,20,TypeScript,typesoft,Typesoft,Organization,,,,,,6334.0
+Microsoft/TypeScript-WeChat-Starter,TypeScript-WeChat-Starter,A starter template for TypeScript and WeChat with a detailed README describing how to use the two together.,137,30,TypeScript,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,6334.0
+electron-userland/electron-webpack,electron-webpack,Scripts and configurations to compile Electron applications using webpack,137,18,TypeScript,electron-userland,Electron Userland,Organization,,,,,,6334.0
+MichaReiser/speedy.js,speedy.js,Accelerate JavaScript Applications by Compiling to WebAssembly,133,9,TypeScript,MichaReiser,Micha Reiser,User,Zürich,47.376886600000006,8.541694,Zürich,Switzerland,6507.0
+szokodiakos/typegoose,typegoose,Typegoose - Define Mongoose models using TypeScript classes.,133,32,TypeScript,szokodiakos,Akos Szokodi,User,,,,,,6507.0
+FrogTheFrog/steam-rom-manager,steam-rom-manager,An app for managing ROMs in Steam,132,11,TypeScript,FrogTheFrog,Lukas Senionis,User,,,,,,6550.0
+artemsky/ng-snotify,ng-snotify,Angular 2 Notification Center,132,20,TypeScript,artemsky,Artem Kuznetsov,User,"Kiev, UA",50.4501,30.5234,Kyiv,Ukraine,6550.0
+1backend/1backend,1backend,Self hostable platform for running lambdas and microservices.,132,6,TypeScript,1backend,,Organization,,,,,,6550.0
+fossasia/MMM-SUSI-AI,MMM-SUSI-AI,SUSI.AI implementation for Magic Mirror,132,6,TypeScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6550.0
+AlexKhymenko/ngx-permissions,ngx-permissions,"Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)",130,16,TypeScript,AlexKhymenko,,User,,,,,,6649.0
+graphcool/serverless-plugin-typescript,serverless-plugin-typescript,Serverless plugin for zero-config Typescript support,129,29,TypeScript,graphcool,Graphcool,Organization,,,,,,6699.5
+ThorstenHans/ngx-electron,ngx-electron,angular wrapper for electron renderer apis,128,13,TypeScript,ThorstenHans,Thorsten Hans,User,Germany,51.165690999999995,10.451526,,Germany,6749.0
+NodeArt/angular-commerce,angular-commerce,Angular components for scaffolding online store,127,36,TypeScript,NodeArt,NodeArt,Organization,"Kiev, Ukraine",50.4501,30.5234,Kyiv,Ukraine,6796.5
+patrys/vscode-code-outline,vscode-code-outline,A symbol outline for Visual Studio Code,126,16,TypeScript,patrys,Patryk Zawadzki,User,"Wrocław, Poland",51.1078852,17.0385376,Wrocław,Poland,6850.5
+doodyparizada/word2vec-spam-filter,word2vec-spam-filter,Using word vectors to classify spam messages,126,12,TypeScript,doodyparizada,Doody Parizada,User,Israel,,,,,6850.5
+salemdar/ngx-cookie,ngx-cookie,Implementation of Angular 1.x $cookies service to Angular 2,125,28,TypeScript,salemdar,Samet Alemdar,User,Germany,51.165690999999995,10.451526,,Germany,6913.5
+GoogleChrome/chrome-launcher,chrome-launcher,Launch Google Chrome with ease from node.,125,26,TypeScript,GoogleChrome,,Organization,,,,,,6913.5
+fossasia/loklak_publisher,loklak_publisher,,125,2,TypeScript,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6913.5
+rawrmaan/restyped,restyped,End-to-end typing for REST APIs with TypeScript,125,2,TypeScript,rawrmaan,Arman Dezfuli-Arjomandi,User,"Philadelphia, PA",39.9525839,-75.1652215,Philadelphia,United States,6913.5
+ionic-team/stencil-site,stencil-site,Stencil site source.,125,46,TypeScript,ionic-team,Ionic,Organization,"Madison, Boston",35.8406347,-93.601299,Boston,United States,6913.5
+Chillee/VSCodeNeovim,VSCodeNeovim,"A rewrite of VSCodeVim, backed by neovim. Still in development, not meant for use.",124,2,TypeScript,Chillee,Horace He,User,,,,,,6974.5
+avatsaev/angular-contacts-app-example,angular-contacts-app-example,Angular & NgRx Contact Book CRUD example app,123,29,TypeScript,avatsaev,Aslan Vatsaev,User,"France, Strasbourg",,,,,7031.5
+UltimateAngular/aot-loader,aot-loader,⚠️ [Deprecated] Ahead-of-Time Compiler for Webpack.,122,6,TypeScript,UltimateAngular,Ultimate Angular,Organization,,,,,,7085.5
+jest-community/jest-snapshots-svg,jest-snapshots-svg,"Take a React Native component tree, and render it into an SVG.",122,5,TypeScript,jest-community,Jest Community,Organization,,,,,,7085.5
+Neufund/TypeChain,TypeChain,🔌 Typescript bindings for Ethereum smartcontracts,122,7,TypeScript,Neufund,Neufund,Organization,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,7085.5
+apollographql/apollo-cache-persist,apollo-cache-persist,🎏 Simple persistence for all Apollo Cache implementations,121,8,TypeScript,apollographql,Apollo GraphQL,Organization,,,,,,7141.5
+toddmotto/reactive-pizza,reactive-pizza,"Angular v4.1.1 - Reactive Forms, Observables, Component Architecture. Pizza. 🍕",121,32,TypeScript,toddmotto,Todd Motto,User,"England, UK",52.3555177,-1.1743197,,United Kingdom,7141.5
+improbable-eng/ts-protoc-gen,ts-protoc-gen,Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.,120,18,TypeScript,improbable-eng,Improbable Engineering ,Organization,London,51.5073509,-0.12775830000000002,London,United Kingdom,7203.0
+johnpapa/pwa-angular,pwa-angular,PWA Example,117,26,TypeScript,johnpapa,John Papa,User,"Orlando, FL",28.5383355,-81.3792365,Orlando,United States,7392.5
+DhyanaChina/simpler-paper,simpler-paper,A very simple document generator,116,16,TypeScript,DhyanaChina,DhyanaChina,Organization,China,35.86166,104.195397,,China,7466.5
+lifenautjoe/noel,noel,"A universal, human-centric, replayable javascript event emitter.",116,2,TypeScript,lifenautjoe,Joel Hernández,User,"Amsterdam, NL",52.3702157,4.8951679000000015,Amsterdam,Netherlands,7466.5
+chipto/regexly,regexly,WYSIWYG Regex playground for those who JavaScript,116,1,TypeScript,chipto,,Organization,,,,,,7466.5
+davewasmer/devcert,devcert,,114,8,TypeScript,davewasmer,Dave Wasmer,User,"Colorado Springs, CO",38.8338816,-104.82136340000001,Colorado Springs,United States,7593.5
+andersonba/yve-bot,yve-bot,Smart rule-based bot. For Browser & Node.,114,14,TypeScript,andersonba,Anderson de Oliveira,User,"Salvador, Brazil",-12.972218400000001,-38.5014136,,Brazil,7593.5
+trekhleb/angular-library-seed,angular-library-seed,Seed project for Angular libraries that are AOT/JIT compatible and that use external SCSS-styles and HTML-templates,113,65,TypeScript,trekhleb,Oleksii Trekhleb,User,"Lviv, Ukraine",49.839683,24.029717,Lviv,Ukraine,7670.5
+Realytics/fork-ts-checker-webpack-plugin,fork-ts-checker-webpack-plugin,Webpack plugin that runs typescript type checker on a separate process.,113,19,TypeScript,Realytics,Realytics,Organization,"Paris, France",48.856614,2.3522218999999995,Paris,France,7670.5
+kevinjhanna/input-autocomplete,input-autocomplete,Tiny react input component with autocomplete.,112,6,TypeScript,kevinjhanna,Kevin J. Hanna,User,Argentina,,,,,7748.0
+alxhub/io17,io17,,112,27,TypeScript,alxhub,Alex Rickabaugh,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,7748.0
+toddmotto/angular-dynamic-forms,angular-dynamic-forms,Configurable Reactive Forms in Angular with dynamic components,111,51,TypeScript,toddmotto,Todd Motto,User,"England, UK",52.3555177,-1.1743197,,United Kingdom,7820.0
+staltz/easy-ssb-pub,easy-ssb-pub,An easy-to-host server that runs an SSB 'Pub',111,16,TypeScript,staltz,André Staltz,User,"Helsinki, Finland",60.16985569999999,24.938379,Helsinki,Finland,7820.0
+angelozerr/tslint-language-service,tslint-language-service,TypeScript 2.2.1 plugin for tslint,110,13,TypeScript,angelozerr,Angelo,User,France,46.227638,2.213749,,France,7898.0
+imdada/overwatch,overwatch,Overwatch is a general RPC monitoring system.,110,15,TypeScript,imdada,,Organization,,,,,,7898.0
+sean-perkins/angular-electron-seed,angular-electron-seed,"An Angular (4+) seed with Electron, Live-reload, AngularCLI, etc.",109,42,TypeScript,sean-perkins,Sean Perkins,User,"Kalamazoo, MI",,,,,7981.5
+nikini/ionic-gallery-modal,ionic-gallery-modal,Ionic Gallery Modal (to show all your photos),108,41,TypeScript,nikini,Ciprian Mocanu,User,"Amsterdam, Netherlands",52.3702157,4.8951679000000015,Amsterdam,Netherlands,8056.0
+stbui/angular-material-app,angular-material-app,基于最新Angular 5框架与Material 2技术的web企业级通用管理系统快速开发框架，可以帮助企业提高工作效率，节省开发成本，提升品牌形象。,108,48,TypeScript,stbui,bright,User,,,,,,8056.0
+swimlane/ngx-graph,ngx-graph,Graph visualization library for angular (FKA ngx-charts-dag),107,27,TypeScript,swimlane,Swimlane,Organization,"Denver, CO",39.739235799999996,-104.990251,Denver,United States,8118.5
+zefoy/ngx-color-picker,ngx-color-picker,Color picker widget for the Angular (version 2 and newer),107,42,TypeScript,zefoy,ZEF Oy,Organization,"Oulu, Finland",,,,,8118.5
+davideast/hnpwa-firebase,hnpwa-firebase,A super fast HNPWA built on Firebase Dynamic Hosting,107,6,TypeScript,davideast,David East,User,"Denver, CO",,,,,8118.5
+yunzaifei/ImgShow-client,ImgShow-client,使用Angular开发的图片视频展示网站,105,1,TypeScript,yunzaifei,yunzaifei,User,,,,,,8277.5
+ngx-rocket/starter-kit,starter-kit,Angular 5+ starter kit for enterprise-grade projects,105,34,TypeScript,ngx-rocket,ngX-Rocket,Organization,The Universe,25.175556,55.153889,Dubai,United Arab Emirates,8277.5
+Prisma/mobile-app,mobile-app,Color your memories,105,1,TypeScript,Prisma,Prisma,Organization,,,,,,8277.5
+hotforfeature/origami,origami,Angular + Polymer,104,17,TypeScript,hotforfeature,Andrew Mitchell,User,"Frisco, TX",33.1506744,-96.8236116,Frisco,United States,8366.5
+w3tecch/express-typescript-boilerplate,express-typescript-boilerplate,A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch,104,28,TypeScript,w3tecch,w3tecch,Organization,,,,,,8366.5
+hoovercj/vscode-power-mode,vscode-power-mode,"Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.",104,6,TypeScript,hoovercj,Cody Hoover,User,"Copenhagen, Denmark",55.676096799999996,12.568337199999998,Copenhagen,Denmark,8366.5
+Apress/pro-angular-2ed,pro-angular-2ed,Source code for 'Pro Angular' by Adam Freeman,104,108,TypeScript,Apress,Apress,Organization,New York,,,,,8366.5
+robwormald/angular-elements,angular-elements,,103,16,TypeScript,robwormald,Rob Wormald,User,Mountain View CA,37.3860517,-122.08385109999999,Mountain View,United States,8444.0
+dsherret/ts-simple-ast,ts-simple-ast,TypeScript compiler wrapper for AST navigation and code manipulation.,103,10,TypeScript,dsherret,David Sherret,User,"Toronto, Canada",,,,,8444.0
+jeneser/ionic-super-bar,ionic-super-bar,Transparent statusBar and awesome toolBar DEMO in ionic,103,20,TypeScript,jeneser,yazhe wang,User,China,,,,,8444.0
+mgechev/ngresizable,ngresizable,"Simple, tree-shakable, AoT, Universal and Web Worker friendly resizable component for Angular (2 and beyond).",102,20,TypeScript,mgechev,Minko Gechev,User,"California, USA",36.778261,-119.4179324,,United States,8520.0
+lunchclass/bacardi,bacardi,Bacardi project is an effort to provide multi-language binding for Node.js native layer.,101,16,TypeScript,lunchclass,Lunch Class,Organization,"Suwon, Korea",37.263572700000005,127.02860090000001,Suwon-si,South Korea,8590.0
+nestjs/nest-cli,nest-cli,CLI tool for Nestjs applications,101,11,TypeScript,nestjs,nestjs,Organization,Poland,,,,,8590.0
+mtdvio/every-programmer-should-know,every-programmer-should-know,A collection of (mostly) technical things every software developer should know,31084,2554,,mtdvio,MTDV,Organization,Berlin,,,,,1.0
+kamranahmedse/developer-roadmap,developer-roadmap,Roadmap to becoming a web developer in 2017,29028,4043,,kamranahmedse,Kamran Ahmed,User,Dubai,25.204849300000003,55.2707828,Dubai,United Arab Emirates,2.0
+sdmg15/Best-websites-a-programmer-should-visit,Best-websites-a-programmer-should-visit,:link: Some useful websites for programmers.,20982,2114,,sdmg15,Sonkeng Maldini ,User,"Dschang, Cameroon",,,,,6.0
+kamranahmedse/design-patterns-for-humans,design-patterns-for-humans,Design Patterns for Humans™ - An ultra-simplified explanation,18868,1514,,kamranahmedse,Kamran Ahmed,User,Dubai,25.204849300000003,55.2707828,Dubai,United Arab Emirates,7.0
+mbeaudru/modern-js-cheatsheet,modern-js-cheatsheet,Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.,15003,1166,,mbeaudru,BEAUDRU Manuel,User,,,,,,10.0
+zeeshanu/learn-regex,learn-regex,Learn regex the easy way,13675,1240,,zeeshanu,Zeeshan Ahmad,User,Pakistan,31.4187142,73.07910729999998,Faisalabad,Pakistan,12.0
+i0natan/nodebestpractices,nodebestpractices,The largest Node.JS best practices list. Curated from the top ranked articles and always updated,11443,624,,i0natan,Yoni Goldberg,User,,,,,,15.0
+oxford-cs-deepnlp-2017/lectures,lectures, Oxford Deep NLP 2017 course,10759,2176,,oxford-cs-deepnlp-2017,,Organization,,,,,,17.0
+shieldfy/API-Security-Checklist,API-Security-Checklist,"Checklist of the most important security countermeasures when designing, testing, and releasing your API",10228,816,,shieldfy,Shieldfy,Organization,,,,,,19.0
+bmorelli25/Become-A-Full-Stack-Web-Developer,Become-A-Full-Stack-Web-Developer,Free resources for learning Full Stack Web Development,9478,1368,,bmorelli25,Brandon Morelli,User,"Boston, Ma",42.360082500000004,-71.0588801,Boston,United States,24.0
+dexteryy/spellbook-of-modern-webdev,spellbook-of-modern-webdev,"A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",9137,625,,dexteryy,Dexter Yang,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,27.0
+kailashahirwar/cheatsheets-ai,cheatsheets-ai,Essential Cheat Sheets for deep learning and machine learning researchers,8499,1709,,kailashahirwar,Kailash Ahirwar,User,Bangalore India,,,,,30.0
+Idnan/bash-guide,bash-guide,A guide to learn bash,8159,639,,Idnan,Adnan Ahmed,User,"Dubai, United Arab Emirates",25.204849300000003,55.2707828,Dubai,United Arab Emirates,33.0
+byoungd/English-level-up-tips-for-Chinese,English-level-up-tips-for-Chinese,可能是让你受益匪浅的英语进阶指南,6974,747,,byoungd,han,User,,,,,,48.0
+vahidk/EffectiveTensorflow,EffectiveTensorflow,TensorFlow tutorials and best practices.,6687,602,,vahidk,Vahid Kazemi,User,California,,,,,51.0
+brannondorsey/wifi-cracking,wifi-cracking,Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧,6656,497,,brannondorsey,Brannon Dorsey,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,52.0
+vitalysim/Awesome-Hacking-Resources,Awesome-Hacking-Resources,A collection of hacking / penetration testing resources to make you better!,6459,639,,vitalysim,VS,User,,,,,,54
