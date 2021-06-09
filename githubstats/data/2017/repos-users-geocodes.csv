@@ -7873,4 +7873,115 @@ Idnan/bash-guide,bash-guide,A guide to learn bash,8159,639,,Idnan,Adnan Ahmed,Us
 byoungd/English-level-up-tips-for-Chinese,English-level-up-tips-for-Chinese,可能是让你受益匪浅的英语进阶指南,6974,747,,byoungd,han,User,,,,,,48.0
 vahidk/EffectiveTensorflow,EffectiveTensorflow,TensorFlow tutorials and best practices.,6687,602,,vahidk,Vahid Kazemi,User,California,,,,,51.0
 brannondorsey/wifi-cracking,wifi-cracking,Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧,6656,497,,brannondorsey,Brannon Dorsey,User,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,52.0
-vitalysim/Awesome-Hacking-Resources,Awesome-Hacking-Resources,A collection of hacking / penetration testing resources to make you better!,6459,639,,vitalysim,VS,User,,,,,,54
+vitalysim/Awesome-Hacking-Resources,Awesome-Hacking-Resources,A collection of hacking / penetration testing resources to make you better!,6459,639,,vitalysim,VS,User,,,,,,54.0
+alexpate/awesome-design-systems,awesome-design-systems,💅🏻 ⚒ A collection of awesome design systems,5773,271,,alexpate,Alex Pate,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,62.0
+RedditSota/state-of-the-art-result-for-machine-learning-problems,state-of-the-art-result-for-machine-learning-problems,"This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.",5769,841,,RedditSota,,User,,,,,,63.0
+tuvtran/project-based-learning,project-based-learning,Curated list of project-based tutorials,5718,556,,tuvtran,Tu Tran,User,"Philadelphia, Pennsylvania",39.9525839,-75.1652215,Philadelphia,United States,65.0
+gurugio/lowlevelprogramming-university,lowlevelprogramming-university,How to be low-level programmer,4876,293,,gurugio,gurugio,User,,,,,,81.0
+LisaDziuba/Marketing-for-Engineers,Marketing-for-Engineers,A curated collection of marketing articles & tools to grow your product. ,4232,212,,LisaDziuba,Lisa Dziuba,User,"Ukraine, Kiev",50.4501,30.5234,Kyiv,Ukraine,93.0
+karllhughes/side-project-marketing,side-project-marketing,A checklist of tactics for marketing your side projects.,4185,356,,karllhughes,Karl L. Hughes,User,"Chicago, IL",,,,,95.0
+mezod/awesome-indie,awesome-indie,Resources for independent developers to make money,4171,150,,mezod,Joan Boixadós,User,"Barcelona, Catalonia",,,,,96.0
+mqyqingfeng/Blog,Blog,冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。,4144,660,,mqyqingfeng,冴羽,User,"Beijing, China",,,,,99.0
+Alibaba-Technology/hangzhouYunQi2017ppt,hangzhouYunQi2017ppt,,4015,1653,,Alibaba-Technology,阿里技术,User,,,,,,106.0
+opendigg/awesome-github-vue,awesome-github-vue,Vue相关开源项目库汇总,4007,1095,,opendigg,OpenDigg,User,,,,,,107.0
+forter/security-101-for-saas-startups,security-101-for-saas-startups,security tips for startups,3783,203,,forter,Forter,Organization,,,,,,118.0
+berzerk0/Probable-Wordlists,Probable-Wordlists,Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!,3695,536,,berzerk0,Ben,User,New York City,40.7127753,-74.0059728,New York,United States,119.0
+basecamp/handbook,handbook,Basecamp Employee Handbook,3565,328,,basecamp,Basecamp,Organization,"Chicago, IL",41.8781136,-87.62979820000001,Chicago,United States,130.0
+TonnyL/Awesome_APIs,Awesome_APIs,:octocat: A collection of APIs,3511,424,,TonnyL,Li Zhao Tai Lang,User,"Changsha, China",,,,,133.0
+shimohq/chinese-programmer-wrong-pronunciation,chinese-programmer-wrong-pronunciation,中国程序员容易发音错误的单词,3323,298,,shimohq,Shimo Docs,Organization,China,35.86166,104.195397,,China,147.0
+open-android/Android,Android,"GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频",3047,976,,open-android,open-android,User,深圳,,,,,176.0
+wtsxDev/reverse-engineering,reverse-engineering,List of awesome reverse engineering resources,2998,300,,wtsxDev,KaliTut,User,,,,,,181.0
+dformoso/machine-learning-mindmap,machine-learning-mindmap,"A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.",2912,404,,dformoso,Daniel Martinez,User,"Sydney, Australia",-33.8688197,151.2092955,Sydney,Australia,194.0
+opendigg/awesome-github-wechat-weapp,awesome-github-wechat-weapp,微信小程序开源项目库汇总,2719,644,,opendigg,OpenDigg,User,,,,,,217.0
+Scanate/EthList,EthList,The Comprehensive Ethereum Reading List,2584,235,,Scanate,Scanate,Organization,,,,,,231.0
+hobby-kube/guide,guide, Kubernetes clusters for the hobbyist.,2570,99,,hobby-kube,Hobby Kube,Organization,,,,,,232.0
+teesloane/Auth-Boss,Auth-Boss,Become an Auth Boss. Learn about different authentication methodologies on the web.,2569,104,,teesloane,Tyler,User,Toronto,,,,,233.0
+jokermonn/-Api,-Api,:book:「一个」、「Time 时光」、「开眼」、「一席」、「梨视频」、「微软必应词典」、「金山词典」、「豆瓣电影」、「中央天气」、「魅族天气」、「每日一文」、「12306」、「途牛」、「快递100」、「快递」应用 Api。仅供学习，禁止商业使用，侵权请联系删除。,2510,688,,jokermonn,joker,User,"Shanghai, China",28.675696999999996,115.909228,,China,244.0
+webpack-china/awesome-webpack-cn,awesome-webpack-cn,webpack优秀中文文章,2344,424,,webpack-china,webpack中文,Organization,China,35.86166,104.195397,,China,262.0
+SamDeepLearning/The-Terrible-Deep-Learning-List,The-Terrible-Deep-Learning-List,15 working examples to get you started with Deep Learning without learning any of the math.,2316,110,,SamDeepLearning,Sam,User,United States,37.09024,-95.712891,,United States,266.0
+kennethreitz/awesome-coins,awesome-coins,₿ A guide (for humans!) to cryto-currencies and their algos.,2315,103,,kennethreitz,Kenneth Reitz,User,"Winchester, VA",39.1856597,-78.16333409999999,Winchester,United States,267.0
+eon01/DockerCheatSheet,DockerCheatSheet,🐋 Docker Cheat Sheet 🐋,2299,153,,eon01,Aymen EL Amri,User,Paris,48.856614,2.3522218999999995,Paris,France,271.0
+shovanch/fullstack-web-developer-path,fullstack-web-developer-path,📚 A learning path for Full-stack web development,2165,336,,shovanch,Shovan Chatterjee,User,"Kolkata, India",,,,,296.0
+opendigg/awesome-github-android-ui,awesome-github-android-ui,安卓UI相关开源项目库汇总 ,2130,514,,opendigg,OpenDigg,User,,,,,,306.0
+P1xt/p1xt-guides,p1xt-guides,Programming curricula,2040,563,,P1xt,P1xt,User,,,,,,326.0
+niezhiyang/open_source_team,open_source_team,国内顶尖团队的开源地址,1933,246,,niezhiyang,聂志洋,User,BeiJing China,39.90419989999999,116.4073963,Beijing,China,350.0
+pirate/sites-using-cloudflare,sites-using-cloudflare,:broken_heart: Archived list of domains using Cloudflare DNS at the time of the CloudBleed announcement.,1924,253,,pirate,Nick Sweeting,User,"Medellín, Colombia",6.244203,-75.5812119,,Colombia,352.0
+ritchieng/the-incredible-pytorch,the-incredible-pytorch,"The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. ",1884,320,,ritchieng,Ritchie Ng,User,Singapore,1.352083,103.819836,,Singapore,362.0
+thedaviddias/Resources-Front-End-Beginner,Resources-Front-End-Beginner,💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷),1855,193,,thedaviddias,David Dias,User,"France, Mauritius, Canada",,,,,369.0
+jeromedalbert/real-world-react-apps,real-world-react-apps,Real world React apps and their open source codebases for developers to learn from,1849,106,,jeromedalbert,Jerome Dalbert,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,371.0
+brillout/awesome-angular-components,awesome-angular-components,Catalog of Angular 2+ Components & Libraries,1772,193,,brillout,Romuald Brillout,User,,,,,,398.5
+DocsHome/microservices,microservices,Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》,1741,236,,DocsHome,,Organization,,,,,,407.0
+pablohpsilva/vuejs-component-style-guide,vuejs-component-style-guide,Vue.js Component Style Guide,1721,220,,pablohpsilva,Pablo Henrique,User,"Uberlândia, Minas Gerais, Brazil",,,,,412.5
+Kyubyong/nlp_tasks,nlp_tasks,Natural Language Processing Tasks and References,1618,244,,Kyubyong,Kyubyong Park,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,442.0
+janishar/mit-deep-learning-book-pdf,mit-deep-learning-book-pdf,"MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville",1543,342,,janishar,Ali,User,"Gurgaon, India",28.459496500000004,77.02663829999999,Gurugram,India,468.0
+jamesroutley/write-a-hash-table,write-a-hash-table,✏️ Learn how to write a hash table in C,1471,101,,jamesroutley,James 明良 Routley,User,London,51.5073509,-0.12775830000000002,London,United Kingdom,497.0
+mbasso/awesome-wasm,awesome-wasm,😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.,1470,70,,mbasso,Matteo Basso,User,"Milan, Italy",45.465421899999996,9.1859243,Milan,Italy,499.0
+googlecreativelab/quickdraw-dataset,quickdraw-dataset,"Documentation on how to access and use the Quick, Draw! Dataset.",1351,143,,googlecreativelab,Google Creative Lab,Organization,,,,,,554.5
+uanders/react-redux-cheatsheet,react-redux-cheatsheet,React Redux Cheat Sheet on Workflow & Concept,1260,96,,uanders,Ulrich Anders,User,Germany,,,,,603.0
+Jackathan/MarcLaidlaw-Epistle3,MarcLaidlaw-Epistle3,Just being archived for posterity.,1244,339,,Jackathan,,User,,,,,,608.5
+iRaul/awesome-portfolios,awesome-portfolios,A curated list of Awesome Creative Portfolios. 🎨 ,1221,87,,iRaul,Dronca Raul,User,"Romania, Arad",46.1865606,21.3122677,Arad,Romania,627.0
+deptofdefense/code.mil,code.mil,An experiment in open source,1206,91,,deptofdefense,U.S. Dept of Defense,Organization,The Pentagon,,,,,633.5
+Blankj/AndroidStandardDevelop,AndroidStandardDevelop,:star2: Best practices in Android develop(final).,1206,258,,Blankj,布兰柯基,User,Hangzhou,30.274084999999996,120.15507,Hangzhou,China,633.5
+stared/science-based-games-list,science-based-games-list,Science-based games - a collaborative list,1175,65,,stared,Piotr Migdał,User,"Warsaw, Poland",52.2296756,21.012228699999998,Warsaw,Poland,659.5
+aftertheflood/spark,spark,A typeface for creating sparklines in text without code.,1164,33,,aftertheflood,After the flood,Organization,London,51.5073509,-0.12775830000000002,London,United Kingdom,672.0
+GetStoryline/awesome-bots,awesome-bots,The most awesome list about bots ⭐️🤖,1160,209,,GetStoryline,Storyline,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,675.5
+facert/python-data-structure-cn,python-data-structure-cn,problem-solving-with-algorithms-and-data-structure-using-python 中文版,1147,305,,facert,,User,,,,,,682.0
+mattharrison/Tiny-Python-3.6-Notebook,Tiny-Python-3.6-Notebook,This repository contains the text for the Tiny Python 3.6 Notebook.,1144,108,,mattharrison,matt harrison,User,Utah,39.32098010000001,-111.0937311,,United States,683.5
+stormzhang/android-interview-questions-cn,android-interview-questions-cn,最全面的高质量 Android 面试指南。,1143,242,,stormzhang,stormzhang,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,686.0
+nightrome/really-awesome-gan,really-awesome-gan,A list of papers on Generative Adversarial (Neural) Networks,1139,235,,nightrome,Holger Caesar,User,Zurich,47.376886600000006,8.541694,Zürich,Switzerland,692.5
+michelpereira/awesome-gamesofcoding,awesome-gamesofcoding,A curated list of games that can teach you how to learn a programming language.,1109,57,,michelpereira,Michel Pereira,User,Brasil,-14.235004,-51.92528,,Brazil,718.0
+tc39/proposal-pattern-matching,proposal-pattern-matching,Pattern matching syntax for ECMAScript,1107,17,,tc39,Ecma TC39,Organization,The web,,,,,719.0
+chenshenhai/koa2-note,koa2-note,《Koa2进阶学习笔记》持续更新...,1096,332,,chenshenhai,ChenShenhai,User,,,,,,724.0
+jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development,Sublime-Text-Plugins-for-Frontend-Web-Development,📝 A Collection of Plugins for Frontend Web Development.,1089,59,,jfilter,Johannes Filter,User,Europe,,,,,727.5
+MarnoDev/react-native-open-project,react-native-open-project,可能是目前最用心收集的 React Native 优秀开源项目大全，公众号【aMarno】www.marno.cn,1045,232,,MarnoDev,Marno,User,,,,,,752.5
+bharathgs/Awesome-pytorch-list,Awesome-pytorch-list,"A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",1012,173,,bharathgs,bharath g s,User,bengaluru,,,,,780.5
+tuchk4/awesome-create-react-app,awesome-create-react-app,Awesome list of Create React App articles / tutorials / videos and FAQ,987,54,,tuchk4,Valerii Sorokobatko,User,Kharkiv,49.9935,36.230383,Kharkiv,Ukraine,802.0
+LappleApple/feedmereadmes,feedmereadmes,Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.,954,38,,LappleApple,Lauri Apple,User,Berlin; Twitter @lauritaapplez,,,,,832.5
+Jobeir/front-end-interview-preparation-guide,front-end-interview-preparation-guide,The single source for preparing for a Frontend interview,938,36,,Jobeir,Jobeir,Organization,Vancouver,49.282729100000005,-123.1207375,Vancouver,Canada,848.0
+qazbnm456/awesome-web-security,awesome-web-security,🐶 A curated list of Web Security materials and resources.,909,211,,qazbnm456,Boik,User,Taiwan,23.69781,120.96051499999999,,Taiwan,879.0
+gostor/awesome-go-storage,awesome-go-storage,A curated list of awesome Go storage projects and libraries,894,81,,gostor,,Organization,,,,,,896.0
+devlinkcn/ppts_for_php2017,ppts_for_php2017,2017 第三届PHP全球开发者大会PPT/Keynote,881,278,,devlinkcn,DevLink,Organization,Beijing,39.904211,116.407395,Beijing,China,913.0
+toolswatch/blackhat-arsenal-tools,blackhat-arsenal-tools,Official Black Hat Arsenal Security Tools Repository,872,281,,toolswatch,NJ. Ouchn,User,cloud,,,,,925.5
+cctanfujun/android-tips-tricks-cn,android-tips-tricks-cn,震惊！这么多的安卓开发Tips,863,110,,cctanfujun,谈釜君,User,"ShenZhen,China",22.270978,113.576678,Zhuhai,China,935.0
+dustinvtran/ml-videos,ml-videos,A collection of video resources for machine learning,849,111,,dustinvtran,Dustin Tran,User,"New York, NY",40.7127753,-74.0059728,New York,United States,950.0
+LFeh/frontend-challenges,frontend-challenges,:boom: Listing some playful open-source's challenges of jobs to test your knowledge,831,135,,LFeh,Felipe Fialho,User,Sao Paulo - Brazil,-23.550519899999998,-46.63330939999999,São Paulo,Brazil,968.0
+dastergon/awesome-chaos-engineering,awesome-chaos-engineering,A curated list of awesome Chaos Engineering resources.,823,36,,dastergon,Pavlos Ratis,User,,,,,,973.5
+bluscreenofjeff/Red-Team-Infrastructure-Wiki,Red-Team-Infrastructure-Wiki,Wiki to collect Red Team infrastructure hardening resources,814,172,,bluscreenofjeff,Jeff Dimmock,User,,,,,,979.5
+bnb/awesome-awesome-nodejs,awesome-awesome-nodejs,🐢🚀 An Awesome list of Awesome lists related to Node.js.,803,27,,bnb,Tierney Cyren,User,"Little Falls, NY",43.0434039,-74.8595957,Little Falls,United States,989.0
+justjavac/the-front-end-knowledge-you-may-dont-know,the-front-end-knowledge-you-may-dont-know,:innocent: 你可能不知道的前端知识点,783,45,,justjavac,迷渡,User,"Tianjin, China",39.084158,117.20098300000001,Tianjin,China,1021.0
+barretlee/performance-column,performance-column,🚅 性能专栏（Performance Column）,782,76,,barretlee,小胡子哥,User,"Hangzhou,China",30.274084999999996,120.15507,Hangzhou,China,1023.5
+JohnSundell/SwiftTips,SwiftTips,A collection of Swift tips & tricks that I've shared on Twitter,781,36,,JohnSundell,John Sundell,User,Poland / Norway / Sweden,,,,,1027.0
+wtsxDev/Raspberry-Pi,Raspberry-Pi,Raspberry Pi A to Z List,781,37,,wtsxDev,KaliTut,User,,,,,,1027.0
+LappleApple/awesome-leading-and-managing,awesome-leading-and-managing,"Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.",771,75,,LappleApple,Lauri Apple,User,Berlin; Twitter @lauritaapplez,,,,,1044.5
+dt-fe/weekly,weekly,前端精读周刊,764,68,,dt-fe,DT-FE,Organization,,,,,,1056.0
+DeveloperLx/macOS_Development_Tutorials_translation,macOS_Development_Tutorials_translation,Translation of macOS development tutorials.,760,85,,DeveloperLx,DeveloperLx,User,"Beijing, China.",,,,,1063.5
+github-beta/unity-preview,unity-preview,"GitHub for Unity, the Preview!",760,46,,github-beta,,Organization,,,,,,1063.5
+rails/activestorage,activestorage,Store files in Rails applications,759,60,,rails,Ruby on Rails,Organization,,,,,,1067.5
+SwiftOnSecurity/sysmon-config,sysmon-config,Sysmon configuration file template with default high-quality event tracing,759,192,,SwiftOnSecurity,,User,,,,,,1067.5
+tootsuite/documentation,documentation,Full documentation repository for Mastodon,756,412,,tootsuite,TootSuite,Organization,,,,,,1075.5
+ruiqimao/keyboard-pcb-guide,keyboard-pcb-guide,Guide on how to design keyboard PCBs with KiCad,750,47,,ruiqimao,Ruiqi Mao,User,,,,,,1086.0
+qazbnm456/awesome-cve-poc,awesome-cve-poc,✍️ A curated list of CVE PoCs.,749,215,,qazbnm456,Boik,User,Taiwan,23.69781,120.96051499999999,,Taiwan,1089.0
+yoshuawuyts/tiny-guide-to-non-fancy-node,tiny-guide-to-non-fancy-node,"A tiny guide to non fancy, high-value Node.js things",742,21,,yoshuawuyts,Yoshua Wuyts,User,"Berlin, Germany",52.52000659999999,13.404954,Berlin,Germany,1098.0
+shadowsocksr-backup/shadowsocksr-android,shadowsocksr-android,A ShadowsocksR client for Android,733,693,,shadowsocksr-backup,,Organization,,,,,,1121.5
+southpeak/iOS-tech-set,iOS-tech-set,iOS知识小集,727,96,,southpeak,Minya,User,,,,,,1141.5
+tuteng/Best-websites-a-programmer-should-visit-zh,Best-websites-a-programmer-should-visit-zh,程序员应该访问的最佳网站中文版,726,126,,tuteng,,User,beijing,39.90419989999999,116.4073963,Beijing,China,1145.5
+Te-k/flexidie,flexidie,Source code and binaries of FlexiSpy from the Flexidie dump,712,755,,Te-k,Tek,User,,,,,,1172.5
+src-d/awesome-machine-learning-on-source-code,awesome-machine-learning-on-source-code,Interesting links & research papers related to Machine Learning applied to source code,712,62,,src-d,source{d},Organization,"Madrid, Spain",,,,,1172.5
+securitytxt/security-txt,security-txt,A 'standard' that allows websites to define security policies.,710,32,,securitytxt,security.txt,Organization,,,,,,1174.0
+Microsoft/xaml-standard,xaml-standard,XAML Standard : a set of principles that drive XAML dialect alignment,709,36,,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,1175.0
+ShaunSheep/Android_100_TOP-Projects,Android_100_TOP-Projects,Android 100 TOP Projects all over the github (Android百大框架排行榜),698,121,,ShaunSheep,JackYoung,User,beijing,39.90419989999999,116.4073963,Beijing,China,1196.0
+tvaneerd/cpp17_in_TTs,cpp17_in_TTs,"Descriptions of C++17 features, presented mostly in 'Tony Tables' (hey, the name wasn't my idea)",691,68,,tvaneerd,Tony Van Eerd,User,Canada,,,,,1214.0
+atConf/atswift-2017-resources,atswift-2017-resources,"Resource files for atswift conference 2017, including pdf, source projects or playgrounds. 2017 中国 Swift 开发者大会源文件，包括 pdf 和源工程文件 http://atswift.io",691,100,,atConf,@Conf,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,1214.0
+shadowsocksr-backup/shadowsocks-rss,shadowsocks-rss,"ShadowsocksR update rss, SSR organization ",689,665,,shadowsocksr-backup,,Organization,,,,,,1218.5
+ACL4SSR/ACL4SSR,ACL4SSR,SS/SSR 去广告ACL规则，Telegram频道订阅地址,677,170,,ACL4SSR,ACL4SSR,Organization,,,,,,1244.5
+kristate/krackinfo,krackinfo,Vendor Response Matrix for KRACK WPA2 (Key Reinstallation Attack),677,127,,kristate,kristopher tate,User,"Kyoto, Japan",35.01163629999999,135.7680294,Kyoto,Japan,1244.5
+reactjs/rfcs,rfcs,RFCs for changes to React,674,25,,reactjs,React Community,Organization,Everywhere,,,,,1253.0
+robi56/Deep-Learning-for-Recommendation-Systems,Deep-Learning-for-Recommendation-Systems,"This repository contains Deep Learning based articles , paper and repositories for Recommender Systems",672,203,,robi56,Rabindra Nath Nandi,User,"Dhaka, Bangladesh",23.810332,90.4125181,Dhaka,Bangladesh,1258.0
+davidgf/design-patterns-in-ruby,design-patterns-in-ruby,GoF design patterns in Ruby,667,68,,davidgf,David García,User,A Coruña,43.362343599999996,-8.4115401,A Coruña,Spain,1270.5
+alivebao/clean-code-js,clean-code-js,JavaScript风格指南,664,131,,alivebao,Miao,User,China,35.86166,104.195397,,China,1276.5
+felixgr/secure-ios-app-dev,secure-ios-app-dev,Collection of the most common vulnerabilities found in iOS applications,657,49,,felixgr,Felix Gröbert,User,Switzerland,46.818188,8.227511999999999,,Switzerland,1293.0
+Cyb3rWard0g/ThreatHunter-Playbook,ThreatHunter-Playbook,A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.,657,139,,Cyb3rWard0g,Roberto Rodriguez,User,,,,,,1293.0
+cloudframeworks-springcloud/user-guide-springcloud,user-guide-springcloud,[Cloudframeworks]Microservices Architecture with Spring Cloud - user guide ／ [云框架]基于Spring Cloud的微服务架构-用户指南,656,259,,cloudframeworks-springcloud,cloudframeworks-springcloud,Organization,,,,,,1296.5
+hindupuravinash/nips2017,nips2017,"A list of resources for all invited talks, tutorials, workshops and presentations at NIPS 2017",646,142,,hindupuravinash,Avinash Hindupur,User,New Delhi,,,,,1314.0
+Yukong/Deeplearning.ai-Solutions,Deeplearning.ai-Solutions,Solutions of assignments and translation to Chinese,641,113,,Yukong,Xuanwei Guo,User,,,,,,1318.0
+williamFalcon/DeepRLHacks,DeepRLHacks,Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp  (Aug 2017),635,78,,williamFalcon,William Falcon,User,"
