@@ -8097,4 +8097,117 @@ Data4Democracy/read-this-first,read-this-first,Start here!,317,38,,Data4Democrac
 bjango/Color-Creator,Color-Creator,"Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.",315,16,,bjango,,Organization,Australia.,-25.274398,133.775136,,Australia,2718.0
 songrotek/Meta-Learning-Papers,Meta-Learning-Papers,Meta Learning / Learning to Learn / One Shot Learning / Few Shot Learning,312,71,,songrotek,Flood Sung,User,China,35.86166,104.195397,,China,2732.5
 gergo-/missed-optimizations,missed-optimizations,Missed optimizations in C compilers,311,12,,gergo-,Gergö Barany,User,,,,,,2740.5
-aozhimin/awesome-iOS-resource,awesome-iOS-resource,":iphone: A curated list of awesome iOS resources, including conferences, books, blogs, articles, w
+aozhimin/awesome-iOS-resource,awesome-iOS-resource,":iphone: A curated list of awesome iOS resources, including conferences, books, blogs, articles, websites and documentations",309,71,,aozhimin,Alex Ao,User,"Shanghai, China",31.230390399999997,121.4737021,Shanghai,China,2761.5
+coinpride/CryptoList,CryptoList,Curated collection of blockchain & cryptocurrency resources.,309,56,,coinpride,CoinPride,User,Blockchain,40.7205144,-74.00392289999998,New York,United States,2761.5
+dhall-lang/dhall-lang,dhall-lang,A configuration language guaranteed to terminate,308,11,,dhall-lang,Dhall,Organization,,,,,,2771.0
+strangeparts/niubi-headphones,niubi-headphones,Flexible circuit board design for adding a headphone jack to an iPhone 7,307,33,,strangeparts,Strange Parts,Organization,,,,,,2778.5
+b-mueller/android_app_security_checklist,android_app_security_checklist,Android App Security Checklist,304,64,,b-mueller,Bernhard Mueller,User,Singapore,1.352083,103.819836,,Singapore,2800.0
+LantaoYu/MARL-Papers,MARL-Papers,Paper list of multi-agent reinforcement learning (MARL),303,65,,LantaoYu,Lantao Yu,User,Shanghai,31.230415999999998,121.473701,Shanghai,China,2809.0
+reactkr/learn-react-in-korean,learn-react-in-korean,Let's learn React in Korean!!! (⚛ + 🇰🇷 = 😈 😈 😈),303,51,,reactkr,React KR Users,Organization,,,,,,2809.0
+wtsxDev/Penetration-Testing,Penetration-Testing,"List of awesome penetration testing resources, tools and other shiny things",301,93,,wtsxDev,KaliTut,User,,,,,,2828.5
+mengxianliang/XLUIKit,XLUIKit,iOS UI工具集,301,81,,mengxianliang,XianLiang Meng,User,"BeiJing,China",39.90419989999999,116.4073963,Beijing,China,2828.5
+mli/cvpr17,cvpr17,CVPR 2017 Tutorial,299,57,,mli,Mu Li,User,"Palo Alto, CA",37.441883399999995,-122.14301950000001,Palo Alto,United States,2847.0
+v2-dev/awesome-social-engineering,awesome-social-engineering,A curated list of awesome social engineering resources.,297,66,,v2-dev,Giulia,User,,,,,,2863.0
+llSourcell/The_Math_of_Intelligence,The_Math_of_Intelligence,This is the Syllabus for Siraj Raval's new course 'The Math of Intelligence',295,129,,llSourcell,Siraj,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,2879.0
+GeekyAnts/react-native-seed,react-native-seed,Get your favorite boilerplate of React Native,294,4,,GeekyAnts,GeekyAnts,Organization,"Bangalore, India",,,,,2886.5
+SwiftBrain/awesome-CoreML-models,awesome-CoreML-models,Collection of models for Core ML ,293,23,,SwiftBrain,Swift Brain,Organization,,,,,,2894.5
+jkup/javascript-interview,javascript-interview,A list of JavaScript interview resources,292,21,,jkup,Jon Kuperman,User,"San Francisco, CA",,,,,2903.5
+alibaba/Alibaba-Java-Coding-Guidelines,Alibaba-Java-Coding-Guidelines,Gitbook for AJCG,292,40,,alibaba,Alibaba,Organization,"Hangzhou, China",30.274084999999996,120.15507,Hangzhou,China,2903.5
+hwayne/awesome-cold-showers,awesome-cold-showers,For when people get too hyped up about things,291,1,,hwayne,Hillel Wayne,User,Wild Onion,44.9397809,-93.1331041,Saint Paul,United States,2915.0
+aototo/blog,blog,凹凸的博客,290,61,,aototo,凹凸,User,,,,,,2924.0
+MarcBruins/awesome-xamarin,awesome-xamarin,"A curated list of awesome Xamarin iOS/Android and Xamarin Forms bindings, ports, frameworks and much more!",290,50,,MarcBruins,Marc Bruins,User,Utrecht,52.09073739999999,5.121420099999999,Utrecht,Netherlands,2924.0
+c-rainstorm/blog,blog,本仓库存放个人博客的 markdown 源文件,289,73,,c-rainstorm,Rainstorm,User,"Beijing, China",,,,,2931.0
+solarrust/junior-friendly,junior-friendly,"Список компаний, которые готовы брать на работу или стажировку молодых разработчиков.",287,29,,solarrust,Alena Batitskaya,User,St. P,,,,,2951.0
+TensorFlowKR/MLJejuCamp,MLJejuCamp,Machine Learning Jeju Camp,284,44,,TensorFlowKR,,Organization,,,,,,2983.0
+andreia/awesome-symfony,awesome-symfony,A collection of useful Symfony snippets.,283,17,,andreia,Andréia Bohner,User,Pale Blue Dot,,,,,2997.0
+conversationai/perspectiveapi,perspectiveapi,Perspective is an API that uses machine learning models to score the perceived impact a comment might have on a conversation.,283,24,,conversationai,Conversation AI,Organization,,,,,,2997.0
+ValveSoftware/SteamVR-for-Linux,SteamVR-for-Linux,Issue tracker for the Linux port of SteamVR,280,13,,ValveSoftware,Valve Software,Organization,,,,,,3035.5
+hyy1115/ES6-learning,ES6-learning,《深入理解ES6》教程学习笔记,280,93,,hyy1115,二月,User,深圳,,,,,3035.5
+brickspert/blog,blog,个人技术博客，博文写在 Issues 里。,279,82,,brickspert,砖家,User,杭州,30.274084000000002,120.15507,Hangzhou,China,3045.5
+cn0xroot/RFSec-ToolKit,RFSec-ToolKit,RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools.,276,75,,cn0xroot,cn0xroot,User,,,,,,3076.0
+learn-anything/macos-apps,macos-apps,💻 Interesting macOS apps,275,12,,learn-anything,learn-anything.xyz,Organization,global,,,,,3083.5
+magoo/redteam-plan,redteam-plan,Issues to consider when planning a red team exercise.,275,47,,magoo,Ryan McGeehan,User,,,,,,3083.5
+DavidLambauer/awesome-magento2,awesome-magento2,"Curated list of awesome Magento 2 Extensions, Resources and other Highlights",273,57,,DavidLambauer,DavidLamabuer,User,Germany,51.165690999999995,10.451526,,Germany,3099.5
+nushackers/notes-to-cs-freshmen-from-the-future,notes-to-cs-freshmen-from-the-future,"Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)",273,30,,nushackers,NUS Hackers,Organization,Singapore,1.352083,103.819836,,Singapore,3099.5
+grillitype/web-fonts-guide,web-fonts-guide,,272,2,,grillitype,Grilli Type,User,"Zurich, Switzerland",,,,,3112.0
+appcypher/awesome-wasm-langs,awesome-wasm-langs,😎 A curated list of languages that compile directly to or have their VMs in WebAssembly,272,2,,appcypher,Steve Akinyemi,User,"Lagos, Nigeria",6.5243793,3.3792057,Lagos,Nigeria,3112.0
+nashory/gans-awesome-applications,gans-awesome-applications,Curated list of awesome GAN applications and demo,272,39,,nashory,Minchul Shin,User,"South Korea, Seoul",37.566534999999995,126.9779692,Seoul,South Korea,3112.0
+Youpinadi/netflix-categories,netflix-categories,Netflix links to all hidden categories,270,11,,Youpinadi,Nadir Kadem,User,Paris,48.856614,2.3522218999999995,Paris,France,3142.5
+DockStation/dockstation,dockstation,"DockStation is developer-centric application to managing projects based on Docker. Instead of lots of CLI commands you can monitor, configure, and manage services and containers using just a GUI.",270,12,,DockStation,DockStation,Organization,"Minsk, Belarus",,,,,3142.5
+wtsxDev/Malware-Analysis,Malware-Analysis,List of awesome malware analysis tools and resources,270,81,,wtsxDev,KaliTut,User,,,,,,3142.5
+Katee/git-bomb,git-bomb,A (nearly) uncloneable repo,270,31,,Katee,Kate Murphy,User,"NYC ← Cambridge, MA ← Toronto",,,,,3142.5
+KrauseFx/steal.password,steal.password,"Easily get the user's Apple ID password, just by asking",267,19,,KrauseFx,Felix Krause,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,3180.5
+m0l1ce/wooyunallbugs,wooyunallbugs,wooyun_all_bugs,266,105,,m0l1ce,,User,,,,,,3191.5
+devSchacht/translations,translations,Переводы от devSchacht,265,49,,devSchacht,devSchacht,Organization,,,,,,3203.5
+KeKe-Li/tutorial,tutorial,Algorithms Tutorial,265,34,,KeKe-Li,keke,User,shanghai,31.230390399999997,121.4737021,Shanghai,China,3203.5
+PGSSoft/AndroidSDKPoster,AndroidSDKPoster,"Wall poster with detailed changelog of Android SDK versions 14-27, broken down into 30 categories",265,10,,PGSSoft,PGS Software,Organization,POLAND,51.919438,19.145135999999997,,Poland,3203.5
+AndroidArchitecture/AndroidArchitectureBook,AndroidArchitectureBook,,264,25,,AndroidArchitecture,Android Architecture,Organization,Moscow,55.755826,37.6172999,Moscow,Russia,3215.5
+mojoaxel/awesome-regression-testing,awesome-regression-testing,🕶️ A curated list of resources around the topic: visual regression testing,264,17,,mojoaxel,Alexander Wunschik,User,"Fürth, Germany",,,,,3215.5
+emluque/golang-internals-resources,golang-internals-resources,A collection of articles and videos to understand Golang internals.,264,21,,emluque,Emiliano Martínez Luque,User,,,,,,3215.5
+high-speed-downloader/high-speed-downloader,high-speed-downloader,百度网盘不限速下载 支持Windows和Mac,263,26,,high-speed-downloader,,User,,,,,,3225.5
+Bungie-net/api,api,Resources for the Bungie.Net API,260,17,,Bungie-net,"Bungie, Inc.",Organization,"Bellevue, WA",47.6101497,-122.2015159,Bellevue,United States,3251.0
+davisonio/awesome-gif,awesome-gif,:sunglasses: A curated list of awesome GIF resources,259,12,,davisonio,Craig Davison,User,"Hampshire, UK",51.05769480000001,-1.3080629,,United Kingdom,3265.0
+niuwang/guide,guide,"前言  成为一名专业程序员的道路上，需要坚持练习、学习与积累，技术方面既要有一定的广度，更要有自己的深度。  笔者作为一位tool mad，将工作以来用到的各种优秀资料、神器及框架整理在此，毕竟好记性不如烂键盘，此项目可以作为自己的不时之需。  本人喜欢折腾，记录的东西也比较杂，各方面都会有一些，内容按重要等级排序，大家各取所需。  这里的东西会持续积累下去，欢迎Star，也欢迎发PR给我。  目录  资料篇 技术站点 必看书籍 大牛博客 GitHub篇 工具篇 平台工具 常用工具 第三方服务 爬虫相关(好玩的工具) 安全相关 Web服务器性能/压力测试工具/负载均衡器 大数据处理/数据分析/分布式工具 Web前端 语言篇 Scala Java Python Swift .NET C & C++ 其他 游戏开发相关 日志聚合，分布式日志收集 RTP,实时传输协议与音视频 资料篇  技术站点  在线学习：Coursera、edX、Udacity、MIT公开课、MOOC学院、慕课网 Hacker News：非常棒的针对编程的链接聚合网站 Techmeme：美国知名科技新闻和博客聚集网站，类似的还有（Panda, Hacker & Designer News） Reddit - Programming板块：同上 Java牛人必备：Program Creek Stack Overflow：IT技术问答网站 SegmentFault：中文的技术问答社区 GitHub：全球最大的源代码管理平台，很多知名开源项目都在上面，如Linux内核，OpenStack等 码云：支持中文可免费创建私有项目的代码托管平台，可作为备选 LeetCode：来做做这些题吧，看看自己的算法水平如何？这可比什么面试宝典强多了。 LintCode：支持中文的编程题在线训练平台，可作为备选 Kaggle,Topcoder: 机器学习、大数据竞赛 掘金：高质量的技术社区 开发者头条 InfoQ：企业级应用，关注软件开发领域 V2EX: way to explore 国内老牌技术社区：OSChina、博客园、CSDN、51CTO 免费的it电子书：http://it-ebooks.info/ 在线学习：http://www.udemy.com/ 优质学习资源：http://plus.mojiax.com/ 代码练习：http://exercism.io/ a",258,126,,niuwang,niuwang,User,,,,,,3279.0
+sidristij/dotnetbook,dotnetbook,,258,18,,sidristij,Stanislav Sidristij,User,"Saint-Petersburg, Russia",59.9342802,30.335098600000002,Saint Petersburg,Russia,3279.0
+overtrue/weibo-dogs-killer,weibo-dogs-killer,一段屏蔽 HWB（微博监督员） 的 js 小脚本,258,34,,overtrue,安正超,User,"Shenzhen,China",39.904211,116.407395,Beijing,China,3279.0
+caocuong0306/awesome-object-proposals,awesome-object-proposals,A curated list of object proposals resources for object detection,257,123,,caocuong0306,Cuong Cao Pham,User,,,,,,3293.5
+jaybosamiya/security-notes,security-notes,:notebook: Some security related notes,256,27,,jaybosamiya,Jay Bosamiya,User,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States,3308.5
+adeshpande3/Machine-Learning-Links-And-Lessons-Learned,Machine-Learning-Links-And-Lessons-Learned,"List of all the lessons learned, best practices, and links from my time studying machine learning ",255,66,,adeshpande3,Adit Deshpande,User,"San Jose, CA",37.338208200000004,-121.88632859999998,San Jose,United States,3324.0
+virajkulkarni14/WebDeveloperSecurityChecklist,WebDeveloperSecurityChecklist,A checklist of important security issues you should consider when creating a web application.,253,34,,virajkulkarni14,Viraj G. Kulkarni (विराज गु. कुलकर्णी),User,"Columbus, Ohio",,,,,3346.5
+stacygohyunsi/algorithms-primer,algorithms-primer,A consolidated collection of resources for you to learn and understand algorithms and data structures easily. ,253,44,,stacygohyunsi,Stacy Goh,User,Singapore,,,,,3346.5
+jrothrock/server_notes,server_notes,Building a Server on Digital Ocean With Ubuntu and Nginx,252,11,,jrothrock,Jack Rothrock,User,,,,,,3361.0
+Nealyang/YOU-SHOULD-KNOW-JS,YOU-SHOULD-KNOW-JS,:fire: something about js that you should know :runner:,252,31,,Nealyang,Nealyang,User,北京,,,,,3361.0
+ycjing/Neural-Style-Transfer-Papers,Neural-Style-Transfer-Papers,:pencil2: Neural Style Transfer: A Review,251,70,,ycjing,Yongcheng Jing,User,,,,,,3377.5
+xiaolai/INB-Principles,INB-Principles,Blockchain related ICO Investing Principles by INBlockchain,251,78,,xiaolai,xiaolai,User,beijing,,,,,3377.5
+yeyuqiudeng/reading-zepto,reading-zepto,读 Zepto 源码，分析 Zepto 源码,250,44,,yeyuqiudeng,Hefty,User,"广州,天河",,,,,3389.5
+zachflower/awesome-open-source-supporters,awesome-open-source-supporters,⭐️ A curated list of companies that offer their services for free to Open Source projects,249,24,,zachflower,Zachary Flower,User,"Boulder, CO",40.0149856,-105.2705456,Boulder,United States,3395.5
+larahogan/ally-resources,ally-resources,"A handful of things that were helpful to me, or that I developed with other allies, while working at Etsy.",247,4,,larahogan,,User,,,,,,3414.5
+Azure/service-fabric,service-fabric,This repository is the starting point to engage in and learn about Service Fabric open source projects from Microsoft.,247,16,,Azure,Microsoft Azure,Organization,"Redmond, WA & the cloud",,,,,3414.5
+SherlockLiao/Roadmap-of-DL-and-ML,Roadmap-of-DL-and-ML,"Roadmap of DL and ML, some courses, study notes and paper summary",246,75,,SherlockLiao,liao xingyu,User,"anhui,hefei,china",,,,,3430.5
+ludios/unfixed-security-bugs,unfixed-security-bugs,A list of publicly known but unfixed security bugs,245,27,,ludios,ludios,Organization,,,,,,3446.5
+buzzfeed/design,design,A public collection of BuzzFeed Design documentation.,244,26,,buzzfeed,BuzzFeed,Organization,"New York, NY",40.7127753,-74.0059728,New York,United States,3462.5
+JMccormick264/PPAppsIPARepo,PPAppsIPARepo,This is where the Updated ++ Sideloaded IPAs that I update when Unlimapps updates the IPAs will be,244,54,,JMccormick264,JMccormick264,User,,,,,,3462.5
+imbaniac/awesome-blockchain,awesome-blockchain,Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥,243,34,,imbaniac,Tim Reznich,User,"Kiev, Ukraine",50.4501,30.5234,Kyiv,Ukraine,3477.5
+Naetw/CTF-pwn-tips,CTF-pwn-tips,Here records some tips about pwn.,242,31,,Naetw,,User,Hsinchu/Taiwan,24.8138287,120.96747979999999,Hsinchu,Taiwan,3494.5
+CHYbeta/Code-Audit-Challenges,Code-Audit-Challenges,Code-Audit-Challenges,241,62,,CHYbeta,chybeta,User,Xiamen,,,,,3513.5
+adi0x90/attifyos,attifyos,Attify OS - Distro for pentesting IoT devices ,240,38,,adi0x90,Aditya Gupta,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,3531.0
+Maksims/web-udp-public,web-udp-public,Public demand for Web UDP,240,3,,Maksims,moka,User,London,,,,,3531.0
+Voulnet/CVE-2017-8759-Exploit-sample,CVE-2017-8759-Exploit-sample,Running CVE-2017-8759 exploit sample.,239,92,,Voulnet,Mohammed ALDOUB,User,Kuwait,29.311659999999996,47.481766,,Kuwait,3547.5
+CirclesUBI/docs,docs,,239,15,,CirclesUBI,,Organization,,,,,,3547.5
+asciidisco/web-conferences-2018,web-conferences-2018,A list of Web & JavaScript related conferences happening in 2018.,237,36,,asciidisco,Sebastian Golasch,User,"Cologne, Germany",50.937531,6.9602786,Cologne,Germany,3576.5
+everyleaf/el-training,el-training,株式会社万葉の新入社員教育用カリキュラム,235,20,,everyleaf,Everyleaf,Organization,Japan,36.204824,138.252924,,Japan,3608.5
+Shadowsocks-Wiki/shadowsocks,shadowsocks,shadowsocks.wiki,234,55,,Shadowsocks-Wiki,,User,,,,,,3627.0
+nbarbettini/little-aspnetcore-book,little-aspnetcore-book,The Little ASP.NET Core Book,234,27,,nbarbettini,Nate Barbettini,User,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3627.0
+DocsHome/nginx-docs,nginx-docs,Nginx document translation. Nginx 文档中文译版 http://nginx.org/en/docs/,233,38,,DocsHome,,Organization,,,,,,3648.0
+abhineet123/Deep-Learning-for-Tracking-and-Detection,Deep-Learning-for-Tracking-and-Detection,Collection of papers and other resources for object tracking and detection using deep learning,233,50,,abhineet123,Abhineet Singh,User,Edmonton,,,,,3648.0
+shfshanyue/fp-jargon-zh,fp-jargon-zh,函数式编程术语及示例。本项目译自 https://github.com/hemanth/functional-programming-jargon,231,27,,shfshanyue,shanyue,User,,,,,,3682.0
+machinomy/awesome-non-financial-blockchain,awesome-non-financial-blockchain,Curated list of projects that build non-financial applications of blockchain,230,24,,machinomy,Machinomy,Organization,,,,,,3702.0
+LightningJimmyJoeJohnson/Anime-Girls-Holding-Programming-Books,Anime-Girls-Holding-Programming-Books,Anime Girls Holding Programming Books,229,24,,LightningJimmyJoeJohnson,Meyer Hallot,User,,,,,,3720.5
+OpenMined/Docs,Docs,Documentation for the OpenMined Ecosystem of Libraries,225,44,,OpenMined,OpenMined,Organization,,,,,,3788.0
+m4ll0k/Awesome-Hacking-Tools,Awesome-Hacking-Tools,Awesome Hacking Tools,225,84,,m4ll0k,m4ll0k,User,"Rimini, Italy",44.067828799999994,12.569515800000001,Rimini,Italy,3788.0
+fiber-god/react-native-bet,react-native-bet,A growing list of organizations that are betting on React Native 💪🏿,224,61,,fiber-god,Juwan Wheatley,User,"Baltimore, MD",39.2903848,-76.6121893,Baltimore,United States,3803.0
+Captainarash/The_Holy_Book_of_X86,The_Holy_Book_of_X86,"A complete guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS.... ",223,51,,Captainarash,Arash T.C.,User,"Helsinki, Finland",60.16985569999999,24.938379100000002,Helsinki,Finland,3820.5
+mind/wheels,wheels,"Performance-optimized wheels for TensorFlow (SSE, AVX, FMA, XLA, MPI)",223,15,,mind,TinyMind,Organization,"San Francisco, CA",37.7749295,-122.4194155,San Francisco,United States,3820.5
+k-tamura/cocha-icons,cocha-icons,Free usable icon set,223,4,,k-tamura,Kohei Tamura,User,Tokyo,35.6894875,139.69170640000002,Tokyo,Japan,3820.5
+mathisonian/awesome-visualization-research,awesome-visualization-research,A list of recommended research papers and other readings on data visualization,222,23,,mathisonian,Matthew Conlen,User,Seattle,47.6062095,-122.33207079999998,Seattle,United States,3837.5
+ept/ddia-references,ddia-references,Literature references for “Designing Data-Intensive Applications”,221,37,,ept,Martin Kleppmann,User,"Cambridge, UK",,,,,3854.5
+nightrome/really-awesome-semantic-segmentation,really-awesome-semantic-segmentation,A list of papers on Semantic Segmentation.,221,63,,nightrome,Holger Caesar,User,Zurich,47.376886600000006,8.541694,Zürich,Switzerland,3854.5
+sergey-pronin/Awesome-Vulnerability-Research,Awesome-Vulnerability-Research,🦄 A curated list of the awesome resources about the Vulnerability Research,221,44,,sergey-pronin,иiиoяꟼ,User,getCurrentPosition();,,,,,3854.5
+George66/Textbook,Textbook,Учебник теории категорий,221,14,,George66,,User,,,,,,3854.5
+MHaggis/sysmon-dfir,sysmon-dfir,"Sources, configuration and how to detect evil things utilizing Microsoft Sysmon. ",220,51,,MHaggis,Michael Haag,User,,,,,,3872.5
+cbovis/awesome-digital-nomads,awesome-digital-nomads,🏝 A curated list of awesome resources for Digital Nomads.,220,18,,cbovis,Craig Bovis,User,"Melbourne, Australia",,,,,3872.5
+nikgraf/awesome-react-vr,awesome-react-vr,Awesome list of React VR resources,219,22,,nikgraf,Nik Graf,User,Vienna / San Francisco,37.719601000000004,-122.431207,San Francisco,United States,3893.0
+tuchk4/awesome-css-in-js,awesome-css-in-js, Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision,218,12,,tuchk4,Valerii Sorokobatko,User,Kharkiv,49.9935,36.230383,Kharkiv,Ukraine,3911.0
+HAPENLY/ReactNative-Error-Warning,ReactNative-Error-Warning,注：本文是我在开发过程中遇到问题解决方法的总结，之后会持续更新，希望帮助到更多的学习者。文中有不妥的地方希望指出共同学习，同时欢迎大神补充。,218,5,,HAPENLY,ZPengs,User,,,,,,3911.0
+panxl6/Kotlin-in-action,Kotlin-in-action,《Kotlin实战》翻译,216,89,,panxl6,,User,ShenZhen GuangDong,,,,,3944.0
+folkswhocode/awesome-diversity,awesome-diversity,"A curated list of amazingly awesome articles, websites and resources about diversity in technology.",216,21,,folkswhocode,Folks Who Code,Organization,"Gijón, Asturias",,,,,3944.0
+apachecn/spark-doc-zh,spark-doc-zh,Apache Spark 官方文档中文版,216,85,,apachecn,ApacheCN,Organization,中国,,,,,3944.0
+wengjq/Blog,Blog,翁坚铨的个人博客,215,26,,wengjq,翁坚铨,User,guangzhou,23.12911,113.264385,Guangzhou,China,3967.0
+fabrimagic72/malware-samples,malware-samples,A collection of malware samples caught by several honeypots i manage,214,53,,fabrimagic72,Fabrizio Monaco,User,"Rome, Italy",41.902783500000005,12.4963655,Rome,Italy,3988.5
+robi56/awesome-bayesian-deep-learning,awesome-bayesian-deep-learning, A curated list of resources dedicated to bayesian deep learning,213,41,,robi56,Rabindra Nath Nandi,User,"Dhaka, Bangladesh",23.810332,90.4125181,Dhaka,Bangladesh,4003.0
+wagamamaz/tensorlayer-tricks,tensorlayer-tricks,How to use TensorLayer,213,41,,wagamamaz,zhangrui,User,Beijing,,,,,4003.0
+SupportIntelligence/Icewater,Icewater,"12,805 Free Yara rules created by",213,35,,SupportIntelligence,,Organization,,,,,,4003.0
+mhagiwara/100-nlp-papers,100-nlp-papers,100 Must-Read NLProc Papers,212,55,,mhagiwara,Masato Hagiwara,User,"Pittsburgh, PA",40.44062479999999,-79.9958864,Pittsburgh,United States,4022.0
+tigerneil/awesome-deep-rl,awesome-deep-rl,This project is for learning and researching on DRL. Any suggestion/improvement is welcomed. ,211,63,,tigerneil,Xiaohu Zhu,User,Shanghai,,,,,4046.0
+casbin/awesome-auth,awesome-auth,📊 Software and Libraries for Authentication & Authorization,211,1,,casbin,Casbin,Organization,"San Fransisco, CA",,,,,4046.0
+antvis/g6,g6,Rel
