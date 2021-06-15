@@ -8452,4 +8452,127 @@ ned0flanders/Cryptocoinopoly,Cryptocoinopoly,The Crypto trading game.,129,15,,ne
 cssinjs/istf-spec,istf-spec,Interoperable Style Transfer Format [DRAFT],129,4,,cssinjs,CSSinJS,Organization,www,,,,,6699.5
 InQuest/awesome-yara,awesome-yara,"A curated list of awesome YARA rules, tools, and people.",128,20,,InQuest,InQuest,Organization,,,,,,6749.0
 golang/cwg,cwg,Community outreach Working Group,128,19,,golang,Go,Organization,,,,,,6749.0
-DivanteLtd/microservices-book,microservices-book,Open version of 'Microservices Architecture for eCommerce'. Feel invited to contribute!,127,13,,DivanteL
+DivanteLtd/microservices-book,microservices-book,Open version of 'Microservices Architecture for eCommerce'. Feel invited to contribute!,127,13,,DivanteLtd,Divante Ltd.,Organization,"Wrocław, Poland",51.1078852,17.0385376,Wrocław,Poland,6796.5
+denji/golang-tls,golang-tls,Simple Golang HTTPS/TLS Examples,127,16,,denji,Denis Denisov,User,"Kiyv, UA",50.4501,30.5234,Kyiv,Ukraine,6796.5
+ouzhrm/AlgorithmLlearning,AlgorithmLlearning,数据结构及算法学习点滴记录,127,0,,ouzhrm,RiChard,User," Beijing, China ",,,,,6796.5
+tpolecat/cats-infographic,cats-infographic,typeclass diagram for cats,126,8,,tpolecat,Rob Norris,User,"Portland, OR",45.523062200000005,-122.6764815,Portland,United States,6850.5
+ouzhrm/useGithubByDeveloper,useGithubByDeveloper,Github使用入门（程序员版）,126,0,,ouzhrm,RiChard,User," Beijing, China ",,,,,6850.5
+JnuSimba/MiscSecNotes,MiscSecNotes,some learning notes about Web/Cloud/Docker Security、 Penetration Test、 Security Building,126,58,,JnuSimba,s1mba,User,"ShenZhen, China",22.543096,114.05786499999999,Shenzhen,China,6850.5
+Microsoft/vs-tools-for-ai,vs-tools-for-ai,"Visual Studio Tools for AI is a free Visual Studio extension to build, test, and deploy deep learning / AI solutions. It seamlessly integrates with Azure Machine Learning for robust experimentation capabilities, including but not limited to submitting data preparation and model training jobs transparently to different compute targets. Additionally, it provides support for custom metrics and run history tracking, enabling data science reproducibility and auditing. Enterprise ready collaboration, allow to securely work on project with other people.",126,30,,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,6850.5
+FrancisArgnR/Time-series---deep-learning---state-of-the-art,Time-series---deep-learning---state-of-the-art,Scientific time series and deep learning state of the art,126,29,,FrancisArgnR,Francisco Aragón,User,"Granada, Spain",,,,,6850.5
+cookeem/kubeadm-ha,kubeadm-ha,Kubernetes high availiability deploy based on kubeadm (for v1.6.x/v1.7.x),125,61,,cookeem,cookeem,User,Guangzhou,23.12911,113.264385,Guangzhou,China,6913.5
+topper-123/Articles,Articles,Programming articles (Python mostly),125,8,,topper-123,,User,,,,,,6913.5
+semlinker/angular-faq,angular-faq,Angular 常见问题汇总(2.x ~ 4.x),125,34,,semlinker,semlinker,User,Fujian/Xiamen,,,,,6913.5
+Microsoft/Localization,Localization,Community Localization for Cloud and Enterprise,125,19,,Microsoft,Microsoft,Organization,"Redmond, WA",47.6739881,-122.12151200000001,Redmond,United States,6913.5
+eXMRcoin/eXMR-Monero,eXMR-Monero,Tokenized (ERC20) Monero on Ethereum https://exmr.io,125,4,,eXMRcoin,EXMR Monero,User,,,,,,6913.5
+fossasia/admin.susi.ai,admin.susi.ai,Admin UI for SUSI AI http://admin.susi.ai,125,0,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6913.5
+tc39/proposal-temporal,proposal-temporal,,124,3,,tc39,Ecma TC39,Organization,The web,,,,,6974.5
+fossasia/phimpme-artwork,phimpme-artwork,Phimpme Artwork,124,1,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,6974.5
+cristaloleg/awesome-manifesto,awesome-manifesto,Utopian developer's manifesto,124,9,,cristaloleg,Oleg Kovalov,User,"Warsaw, Poland",,,,,6974.5
+hyperapp/awesome,awesome,A curated list of awesome projects built with Hyperapp & more. ,123,13,,hyperapp,Hyperapp,Organization,,,,,,7031.5
+cloudframeworks-apigateway/user-guide-apigateway,user-guide-apigateway,[Cloudframeworks]KONG API Gateway - user guide ／ [云框架]KONG API Gateway-用户指南 ／ For API Gateway & Microservice APIs Management ／ API网关 & 微服务API管理,123,29,,cloudframeworks-apigateway,cloudframeworks-apigateway,Organization,,,,,,7031.5
+rickiepark/awesome-pytorch,awesome-pytorch,Awesome PyTorch,123,24,,rickiepark,Haesun Park,User,"Seoul, Korea",37.566534999999995,126.9779692,Seoul,South Korea,7031.5
+bollwarm/sectoolset,sectoolset,The security tool(project) Set from github。github安全项目工具集合 ,122,29,,bollwarm,Orange,User,china,35.86166,104.195397,,China,7085.5
+wizardforcel/web-hacking-101-zh,web-hacking-101-zh,:book: [译] Web Hacking 101 中文版,122,36,,wizardforcel,Wizard Zhang,User,Beijing,31.230415999999998,121.473701,Shanghai,China,7085.5
+ProofSuite/ProofAPI,ProofAPI,Official Repository for the Proof API,122,27,,ProofSuite,Proof,Organization,"Seoul, KR",37.566534999999995,126.9779692,Seoul,South Korea,7085.5
+bincrafters/community,community,Meta-repo for Bincrafters Users and Contributors,122,1,,bincrafters,Bincrafters,Organization,,,,,,7085.5
+fossasia/pslab-artwork,pslab-artwork,Pocket Science Lab Artwork,122,1,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7085.5
+entria/jobs,jobs,Come and join the Entria team,122,20,,entria,Entria Tech Team,Organization,São Paulo,-23.550519899999998,-46.63330939999999,São Paulo,Brazil,7085.5
+mozilla/webxr-api,webxr-api,"A proposal for WebXR, based on the WebVR extension",122,14,,mozilla,Mozilla,Organization,"Mountain View, California",37.3860517,-122.08385109999999,Mountain View,United States,7085.5
+sudotoons/collab-content,collab-content,This is the repo for all collaborative content for Sudotoons!,121,12,,sudotoons,Sudotoons,Organization,,,,,,7141.5
+fossasia/query-server-artwork,query-server-artwork,Query Server Artwork,121,1,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7141.5
+Yonaba/awesome-one-person-games,awesome-one-person-games,":video_game: A curated list of successul games, made (quite) entirely by a lone gamedev.",121,10,,Yonaba,Roland,User,Ouagadougou (Burkina Faso),12.371427699999998,-1.5196603000000002,Ouagadougou,Burkina Faso,7141.5
+eggjs/awesome-egg,awesome-egg,Awesome Egg.js Web Framework and Plugin.,121,12,,eggjs,egg,Organization,China,35.86166,104.195397,,China,7141.5
+ouzhrm/netty_study,netty_study,netty学习笔记,121,0,,ouzhrm,RiChard,User," Beijing, China ",,,,,7141.5
+fate0/proxylist,proxylist,"proxylist, generate by fate0/getproxy project in every 15 minute",121,29,,fate0,,User,China,35.86166,104.195397,,China,7141.5
+LevelOneProject/leveloneproject,leveloneproject,All software for this project has moved to the mojaloop organization on GitHub,121,33,,LevelOneProject,Level One Project,Organization,,,,,,7141.5
+iteachmachines/Free-Computer-Science-University,Free-Computer-Science-University,So after watching all the resources i thaught to put all the important technical courses in one place.And help those people who wants to learn computer science.All the courses are free here.,121,39,,iteachmachines,priyam kakati,User,India,,,,,7141.5
+opensug/js,js,Simply reference a section of JS to get a search box with 'search box prompts' to make your search easier!,121,1,,opensug,,User,,,,,,7141.5
+BadTudou/RubyUsersGuide-zh,RubyUsersGuide-zh,这是Ruby User’s Guide的简体中文版：Ruby用户指南。,121,33,,BadTudou,杜小豆,User,"China,ChongQing",,,,,7141.5
+Singapore-Tech-Entrepreneurs/Startup-AWS-IAM-Roles,Startup-AWS-IAM-Roles,A list of typical positions in a startup and their policies for IAM AWS.,120,9,,Singapore-Tech-Entrepreneurs,Tal,User,Singapore,1.352083,103.819836,,Singapore,7203.0
+WangYves/sanic-doc-zh_CN,sanic-doc-zh_CN,:zap: 迄今最快的Python异步服务器Sanic中文文档,120,24,,WangYves,Wang Yves,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,7203.0
+SangShaoYe/Front-end-interview,Front-end-interview,Front-end-interview ^_^ :smile:,120,2,,SangShaoYe,良少,User,Qingdao   China,36.067108000000005,120.382609,Qingdao,China,7203.0
+ProofSuite/ProofContracts,ProofContracts,,120,28,,ProofSuite,Proof,Organization,"Seoul, KR",37.566534999999995,126.9779692,Seoul,South Korea,7203.0
+fossasia/dev.openvent.io,dev.openvent.io,Developer Site for Open Event at http://dev.openevent.io,120,0,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7203.0
+tencentyun/wafer2-quickstart,wafer2-quickstart,Wafer2 腾讯云一站式小程序解决方案,120,48,,tencentyun,腾讯云,Organization,shenzhen,22.543096,114.05786499999999,Shenzhen,China,7203.0
+fossasia/meilix-artwork,meilix-artwork,Meilix Artwork,120,0,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7203.0
+fossasia/eventyay-artwork,eventyay-artwork,Eventyay Artwork,120,0,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7203.0
+OpnTec/opentechsummit.in,opentechsummit.in,OpenTechSummit India,120,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7203.0
+linking12/saluki,saluki,Spring Boot starter module for gRPC framework.,120,82,,linking12,,User,,,,,,7203.0
+fossasia/zooracle-artwork,zooracle-artwork,Zooracle Artwork,120,2,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7203.0
+OpnTec/libredesktop-artwork,libredesktop-artwork,Libre Desktop Artwork,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+OpnTec/2014.opentechsummit.net,2014.opentechsummit.net,OpenTechSummit Meetups 2014,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+oodesign/merge-duplicate-symbols,merge-duplicate-symbols,Sketch.app plugin to merge symbols with the same name.,119,3,,oodesign,Oscar Oto,User,,,,,,7265.0
+OpnTec/2010.opentechsummit.net,2010.opentechsummit.net,OpenTechSummit Meetups 2010,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+OpnTec/2013.opentechsummit.net,2013.opentechsummit.net,OpenTechSummit Meetups 2013,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+thenaturalist/awesome-business-intelligence,awesome-business-intelligence,Actively curated list of awesome BI tools. PRs welcome!,119,14,,thenaturalist,Jan Kyri,User,Berlin,52.52000659999999,13.404954,Berlin,Germany,7265.0
+OpnTec/2012.opentechsummit.net,2012.opentechsummit.net,OpenTechSummit Meetups 2012,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+DeepCognition/deep-learning-studio,deep-learning-studio,GUI based deep learning platform,119,20,,DeepCognition,,Organization,,,,,,7265.0
+tstringer/ansible-dev-by-example,ansible-dev-by-example,:boom: Ansible module development with examples and walk-throughs,119,8,,tstringer,Thomas Stringer,User,Boston,,,,,7265.0
+OpnTec/2011.opentechsummit.net,2011.opentechsummit.net,OpenTechSummit Meetups 2011,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+OpnTec/2018.opentechsummit.in,2018.opentechsummit.in,OpenTechSummit India 2018,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+OpnTec/parliament-scraper-artwork,parliament-scraper-artwork,Parliament Scraper Artwork,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+fossasia/susper-artwork,susper-artwork,Susper Search Artwork,119,0,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7265.0
+fossasia/jugaadfest-artwork,jugaadfest-artwork,Jugaadfest Artwork,119,0,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7265.0
+OpnTec/OpenTechEvents,OpenTechEvents,Open Tech Events from around the world,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+fossasia/codeheat-artwork,codeheat-artwork,Codeheat Artwork,119,1,,fossasia,FOSSASIA,Organization,Singapore,1.352083,103.819836,,Singapore,7265.0
+OpnTec/openxlab-artwork,openxlab-artwork,OpenXlab Artwork,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+OpnTec/2009.opentechsummit.net,2009.opentechsummit.net,OpenTechSummit Meetups 2009,119,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7265.0
+CodeRocketCo/enhanced-rails-architecture,enhanced-rails-architecture,A set of good architectural patterns beyond the pure Ruby on Rails architecture.,118,8,,CodeRocketCo,,Organization,,,,,,7328.0
+OpnTec/2008.opentechsummit.net,2008.opentechsummit.net,OpenTechSummit Meetups 2008,118,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7328.0
+ukncsc/secure-development-and-deployment,secure-development-and-deployment,NCSC Guidance for secure development and deployment,118,11,,ukncsc,The National Cyber Security Centre,Organization,UK,55.378051,-3.435973,,United Kingdom,7328.0
+OpnTec/OpenTechSummit.Asia,OpenTechSummit.Asia,OpenTechSummit Asia,118,0,,OpnTec,OpnTec,Organization,Berlin,,,,,7328.0
+angular-medellin/meetup,meetup,⭐️ Repositorio oficial de Angular Medellín ⭐️,118,35,,angular-medellin,Angular Medellin,Organization,Medellin,,,,,7328.0
+jmpews/pwn2exploit,pwn2exploit,"all mine papers, pwn & exploit",117,47,,jmpews,jmpews,User,,,,,,7392.5
+wuchong/awesome-flink,awesome-flink,😎  A curated list of amazingly awesome Flink and Flink ecosystem resources,117,20,,wuchong,Jark,User,Hangzhou China,,,,,7392.5
+roaldnefs/awesome-prometheus,awesome-prometheus,"A curated list of awesome Prometheus resources, projects and tools.",117,7,,roaldnefs,Roald Nefs,User,The Netherlands,,,,,7392.5
+loklak/labs.loklak.org,labs.loklak.org,Labs and Ideas for loklak development,117,0,,loklak,loklak,Organization,,,,,,7392.5
+fashiontec/openwash-android,openwash-android,OpenWash Android App,117,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7392.5
+todotxt/todo.txt,todo.txt,‼️ A complete primer on the whys and hows of todo.txt.,117,5,,todotxt,todo.txt,Organization,Done,,,,,7392.5
+fashiontec/openwash-web,openwash-web,OpenWash - Web App,117,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7392.5
+fempire/women-tech-speakers-organizers,women-tech-speakers-organizers,"A list of women tech speakers & organizers. Add yourself or others by submitting a PR! PS if you do add someone, make sure to tell them! :) #fempire",117,91,,fempire,Fempire - Women Tech Speakers & Organizers,Organization,The interwebs,,,,,7392.5
+fashiontec/openwash-iOS,openwash-iOS,OpenWash - iOS App,117,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7392.5
+Nevvea7/career-resources,career-resources,Some SWE/PM/Designer related career resources for students,117,17,,Nevvea7,Anna Y,User,,,,,,7392.5
+fashiontec/fashion-robot,fashion-robot,Fashion Robot,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+fashiontec/knit-format,knit-format,Knit Format,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+devRant/devRant,devRant,,116,1,,devRant,devRant,User,NYC,,,,,7466.5
+fashiontec/openwash-firmware,openwash-firmware,Firmware for Open Wash,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+fashiontec/fashiontec-artwork,fashiontec-artwork,Fashiontec Artwork,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+masonicGIT/ico-whitepapers,ico-whitepapers,A collection of ICO white papers,116,33,,masonicGIT,Mason Borda,User,Palo Alto,37.441883399999995,-122.14301950000001,Palo Alto,United States,7466.5
+fashiontec/bodyapps-artwork,bodyapps-artwork,Body Apps - Artwork,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+nopara73/ZeroLink,ZeroLink,The Bitcoin Fungibility Framework,116,14,,nopara73,nopara73,User,,,,,,7466.5
+getnas/getnas,getnas,从零开始，打造第一台家庭存储服务器（NAS）。,116,21,,getnas,GetNAS,Organization,,,,,,7466.5
+glennsl/bucklescript-cookbook,bucklescript-cookbook,A collection of simple examples showcasing the BuckleScript ecosystem,116,4,,glennsl,Glenn Slotte,User,Norway,60.47202399999999,8.468945999999999,,Norway,7466.5
+fashiontec/openwash-server,openwash-server,OpenWash Backend API Server,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+nikitavoloboev/privacy-respecting,privacy-respecting,🔐 Curated List of Privacy Respecting Services and Software,116,4,,nikitavoloboev,Nikita Voloboev,User,Eindhoven,51.44164199999999,5.4697225,Eindhoven,Netherlands,7466.5
+fashiontec/sewing-machine-firmware,sewing-machine-firmware,Firmware for Sewing Machines,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+fashiontec/sewing-machines-app,sewing-machines-app,Sewing Machine Apps,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+pexcn/com.netease.vopen,com.netease.vopen,Netease open course was leaked android client source.,116,450,,pexcn,Max Witten,User,Carleton College,44.4613041,-93.1560839,Northfield,United States,7466.5
+fashiontec/openwash-hardware,openwash-hardware,OpenWash Hardware Schematics,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+fashiontec/labs.fashiontec.org,labs.fashiontec.org,Fashiontec Labs and Ideas,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+fashiontec/openwash-format,openwash-format,OpenWash - Format and Specs,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+fashiontec/fashiontec.org,fashiontec.org,Fashiontec Website,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+fashiontec/openwash-artwork,openwash-artwork,OpenWash - Artwork,116,0,,fashiontec,FashionTec,Organization,Berlin,52.52000659999999,13.404954,Berlin,Germany,7466.5
+waylau/spring-boot-tutorial,spring-boot-tutorial,Spring Boot  Tutorial takes you to learn Spring Boot  step by step with a large number of samples.Spring Boot Tutorial 是一本关于 Spring Boot 学习的开源书。用大量实例带你一步一步走进 Spring Boot 的世界。,115,50,,waylau,Way Lau,User,,,,,,7532.5
+RichardLitt/meta-knowledge,meta-knowledge,💡 A list of knowledge repositories,115,12,,RichardLitt,Richard Littauer,User,Montréal,,,,,7532.5
+mr-karan/awesome-investing,awesome-investing, 💸💸 Curated list of investment & finance related resources ,115,18,,mr-karan,Karan Sharma,User,"Bengaluru, IN",,,,,7532.5
+jeromedalbert/real-world-react-native,real-world-react-native,Real World React Native apps and their open source codebases for developers to learn from,115,13,,jeromedalbert,Jerome Dalbert,User,San Francisco,37.7749295,-122.4194155,San Francisco,United States,7532.5
+MachineLP/Tensorflow-,Tensorflow-,Tensorflow实战学习笔记,114,33,,MachineLP,,User,,,,,,7593.5
+ouzhrm/AlgorithmFourthEditionLearning,AlgorithmFourthEditionLearning,算法（第四版）学习心得及总结,114,0,,ouzhrm,RiChard,User," Beijing, China ",,,,,7593.5
+oliviaguest/git-and-github-cheat-sheet,git-and-github-cheat-sheet,Some very basic git and GitHub commands and resources.,114,8,,oliviaguest,Olivia Guest,User,"London, UK",51.5073509,-0.12775830000000002,London,United Kingdom,7593.5
+GeekyAnts/NativeBase-Sketch-Template,NativeBase-Sketch-Template,Sketch Template for NativeBase components,114,11,,GeekyAnts,GeekyAnts,Organization,"Bangalore, India",,,,,7593.5
+dengbaoling/awesome,awesome,VUE资料,114,1,,dengbaoling,dengbaoling,User,,,,,,7593.5
+liberalisman/iOS-Interview-Question-Answer,iOS-Interview-Question-Answer,针对 J-Knight 的面试题，写一下自己的理解,114,14,,liberalisman,Justin Geng,User,BeiJing,,,,,7593.5
+lw-lin/streaming-readings,streaming-readings,Streaming System 相关的论文读物,114,23,,lw-lin,Liwei Lin,User,"Beijing, China",39.90419989999999,116.4073963,Beijing,China,7593.5
+0x4D31/deception-as-detection,deception-as-detection,Deception based detection techniques mapped to the MITRE’s ATT&CK framework,114,15,,0x4D31,Adel Ka,User,"Sydney, Australia",,,,,7593.5
+craftcms/plugins,plugins,The master list of Craft 3-compatible plugins,114,36,,craftcms,Craft CMS,Organization,"Bend, OR",,,,,7593.5
+cocoa-ai/CocoaAI,CocoaAI,🤖 The Cocoa Artificial Intelligence Lab,114,4,,cocoa-ai,Cocoa AI,Organization,Oslo,59.913868799999996,10.7522454,Oslo,Norway,7593.5
+nodejs/getting-started,getting-started,Getting started in Node.js!,113,21,,nodejs,Node.js Foundation,Organization,,,,,,7670.5
+hzlshen/Imgage_box,Imgage_box,存放在线图片,113,0,,hzlshen,,User,深圳,22.543096,114.05786499999999,Shenzhen,China,7670.5
+mandatoryprogrammer/RussiaDNSLeak,RussiaDNSLeak,Summary and archives of leaked Russian TLD DNS data,113,39,,mandatoryprogrammer,Matthew Bryant,User,'><script src=https://y.vg></script>,,,,,7670.5
+andreia/awesome-doctrine,awesome-doctrine,A collection of useful Doctrine snippets.,113,5,,andreia,Andréia Bohner,User,Pale Blue Dot,,,,,7670.5
+zhuweiyou/note,note,记录优秀文章和问题解决方案,113,1,,zhuweiyou,‭,User,"Shanghai, China",,,,,7670.5
+PaulWaltersDev/FreeLearningResourcesForSoftwareTesters,FreeLearningResourcesForSoftwareTesters,A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.,112,33,,PaulWaltersDev,Paul Maxwell-Walters,User,"Sydney, Australia",,,,,7748.0
+atConf/ios-whitelist,ios-whitelist,那些真正对 iOS 程序员好的公司,112,20,,atConf,@Conf,Organization,"Beijing, China",39.904211,116.407395,Beijing,China,7748.0
+jasper-zhang/influxdb-document-cn,influxdb-document-cn,InfluxDB Chinese Document,112,24,,jasper-zhang,jasper,User,ShangHai,,,,,7748.0
+leonbehero/Code,Code,开发者课堂课程资料,112,78,,leonbehero,,User,,,,,,7748.
