@@ -1,0 +1,188 @@
+
+id, name, type, location, lat, long, city, country
+anvaka, "Andrei Kashcha", User, "Seattle ", 47.6062095, -122.3320708, Seattle, United States
+kickstarter, "Kickstarter", Organization, "Brooklyn, NY", 40.6781784, -73.9441579, , United States
+xinghongfei, "Maat红飞", User, "Beijing,China", 39.904211, 116.407395, Beijing, China
+eawsy, "eawsy", Organization, "Le Cloud", 44.25317, 0.9464840000000001, , France
+MartinRGB, "MartinRGB", User, "Beijing,China", 39.904211, 116.407395, Beijing, China
+ijry, "jry", User, "", , , , 
+mathisonian, "Matthew Conlen", User, "Seattle", 47.6062095, -122.3320708, Seattle, United States
+jochasinga, "Joe Chasinga", User, "New York City", 40.7127837, -74.0059413, New York, United States
+alexjlockwood, "Alex Lockwood", User, "Manhattan, NY", 40.7830603, -73.9712488, New York, United States
+MicheleBertoli, "Michele Bertoli", User, "London, UK", 51.5073509, -0.1277583, London, United Kingdom
+tingxins, "tingxins", User, "", , , , 
+Herb-Sun, "Herb", User, "", , , , 
+jinSasaki, "Jin Sasaki", User, "Tokyo", 35.6894875, 139.6917064, , Japan
+gdgbeijing, "GDG Beijing", Organization, "Beijing, China", 39.904211, 116.407395, Beijing, China
+tee4it, "tee4it.com", User, "", , , , 
+matrixxun, "xwhy", User, "HangZhou China", 30.274085, 120.15507, Hangzhou, China
+qiuncheng, "Qiun Cheng", User, "China", 35.86166, 104.195397, , China
+cncf, "Cloud Native Computing Foundation", Organization, "", , , , 
+dudu90, "", User, "Beijing", 39.904211, 116.407395, Beijing, China
+Heydon, "Heydon Pickering", User, "Norwich, UK", 52.6308859, 1.297355, Norwich, United Kingdom
+hamzasood, "Hamza Sood", User, "", , , , 
+openai, "", Organization, "", , , , 
+material-components, "Material Components", Organization, "", , , , 
+yuttie, "Yuta Taniguchi", User, "", , , , 
+vipshop, "唯品会", Organization, "Guangzhou China", 23.12911, 113.264385, Guangzhou, China
+krzysztofzablocki, "Krzysztof Zabłocki", User, "Warsaw, Poland", 52.2296756, 21.0122287, Warsaw, Poland
+RebeccaHanjw, "Rebecca Han", User, "", , , , 
+cemolcay, "Cem Olcay", User, "San Francisco", 37.7749295, -122.4194155, San Francisco, United States
+jamielhf, "jamie", User, "", , , , 
+drathier, "Filip Haglund", User, "Sverige", 60.12816100000001, 18.643501, , Sweden
+codecasts, "CODECASTS", Organization, "Brazil", -14.235004, -51.92528, , Brazil
+alicegoldfuss, "Alice Goldfuss", User, "", , , , 
+jasnell, "James M Snell", User, "Fresno, California", 36.7468422, -119.7725868, Fresno, United States
+alanwangmodify, "王小树", User, "深圳", 22.543096, 114.057865, Shenzhen, China
+redound, "Redound", Organization, "", , , , 
+HelloYeah, "HelloYeah", User, "", , , , 
+KrauseFx, "Felix Krause", User, "San Francisco", 37.7749295, -122.4194155, San Francisco, United States
+liujians, "刘剑", User, "Cheng Du Si Chuan", 30.572816, 104.066801, Chengdu, China
+ladingwu, "ladingwu", User, "China GuangZhou", 23.12911, 113.264385, Guangzhou, China
+opsxcq, "", User, "", , , , 
+victorBaro, "Victor Baro", User, "Barcelona", 41.3850639, 2.1734035, Barcelona, Spain
+Nax, "", User, "France", 46.227638, 2.213749, , France
+shoheiyokoyama, "Shohei Yokoyama", User, "Japan", 36.204824, 138.252924, , Japan
+wgliang, "wangguoliang", User, "", , , , 
+HamzaGhazouani, "Hamza Ghazouani", User, "Paris ", 48.856614, 2.3522219, Paris, France
+yuan1994, "tianpian", User, "北京市朝阳区", 39.92147, 116.443108, , China
+egoist, "EGOIST", User, "Chengdu, China", 30.572816, 104.066801, Chengdu, China
+Kyubyong, "Kyubyong Park", User, "Seoul, Korea", 37.566535, 126.9779692, Seoul, South Korea
+golastmile, "LASTMILE", Organization, "Berlin", 52.52000659999999, 13.404954, Berlin, Germany
+SebastianBoldt, "Sebastian Boldt", User, "Hamburg", 53.5510846, 9.9936818, Hamburg, Germany
+KingsMentor, "Nosakhare Belvi", User, "Lagos", 6.5243793, 3.3792057, Lagos, Nigeria
+Xeoncross, "David Pennington", User, "Dallas, Texas", 32.7766642, -96.79698789999999, Dallas, United States
+felixge, "Felix Geisendörfer", User, "Berlin, Germany", 52.52000659999999, 13.404954, Berlin, Germany
+azimin, "Alex", User, "Moscow, Russia", 55.755826, 37.6173, Moscow, Russia
+jstimpfle, "Jens Stimpfle", User, "", , , , 
+android-notes, "", User, "", , , , 
+pimterry, "Tim Perry", User, "Barcelona, Spain", 41.3850639, 2.1734035, Barcelona, Spain
+JakeWharton, "Jake Wharton", User, "Pittsburgh, PA, USA", 40.44062479999999, -79.9958864, Pittsburgh, United States
+SafeBreach-Labs, "SafeBreach Labs", Organization, "Worldwide", , , , 
+bharadwaj-raju, "Bharadwaj Raju", User, "India", 20.593684, 78.96288, , India
+JakobEngel, "", User, "", , , , 
+Luxurioust, "Ri Xu", User, "", , , , 
+miloyip, "Milo Yip", User, "Hong Kong, China", 22.396428, 114.109497, , Hong Kong
+brentsimmons, "", User, "", , , , 
+kingdido999, "Desmond", User, "San Francisco", 37.7749295, -122.4194155, San Francisco, United States
+bfirsh, "Ben Firshman", User, "", , , , 
+McFrankline, "", User, "", , , , 
+hbxeagle, "eagle.h", User, "", , , , 
+AmniX, "Aman tonk", User, "India", 20.593684, 78.96288, , India
+wess, "Wess Cope", User, "Clover, SC", 35.1112478, -81.2264646, Clover, United States
+oopsguy, "Oopsguy", User, "China", 35.86166, 104.195397, , China
+jparkie, "Jacob Park", User, "", , , , 
+samgozman, "Sam Gozman", User, "Russia, Saint-Peterburg", 59.9342802, 30.3350986, Saint Petersburg, Russia
+proninyaroslav, "Yaroslav Pronin", User, "Russian Federation", 61.52401, 105.318756, , Russia
+jeffbski, "Jeff Barczewski", User, "St. Louis, MO (USA)", 38.6270025, -90.19940419999999, St. Louis, United States
+TBXark, "TBXark", User, "Beijing China", 39.904211, 116.407395, Beijing, China
+fdiskyou, "", User, "London, UK", 51.5073509, -0.1277583, London, United Kingdom
+nuveo, "Nuveo", Organization, "Brazil, Sao Paulo", -23.5505199, -46.63330939999999, São Paulo, Brazil
+devfreebooks, "DevFreeBooks", Organization, "", , , , 
+kiqs, "Kirill Stepkin", User, "", , , , 
+Unity-Technologies, "Unity Technologies", Organization, "Copenhagen, Denmark", 55.6760968, 12.5683371, Copenhagen, Denmark
+mattgallagher, "Matt Gallagher", User, "Melbourne, Australia.", -37.8136276, 144.9630576, Melbourne, Australia
+yanzhenjie, "严振杰", User, "Hangzhou China", 30.274085, 120.15507, Hangzhou, China
+ruanyf, "Ruan YiFeng", User, "Shanghai, China", 31.230416, 121.473701, Shanghai, China
+pureconfig, "", User, "", , , , 
+latel, "kevin", User, "Shenzhen Nanshan Distinct", 22.533013, 113.930476, Shenzhen, China
+hkirat, "harkirat singh", User, "Roorkee , Uttrakhand , India", 29.8542626, 77.8880002, Roorkee, India
+neelance, "Richard Musiol", User, "Berlin, Germany", 52.52000659999999, 13.404954, Berlin, Germany
+woxingxiao, "Xiao", User, "ChengDu, China", 30.572816, 104.066801, Chengdu, China
+zhebrak, "Alexander Zhebrak", User, "Moscow, Russia", 55.755826, 37.6173, Moscow, Russia
+knitjs, "Knitjs", Organization, "", , , , 
+screeps, "", Organization, "", , , , 
+Kapeli, "Bogdan Popescu", User, "", , , , 
+ggomaeng, "Sung Woo Park", User, "Los Angeles, CA", 34.0522342, -118.2436849, Los Angeles, United States
+joxeankoret, "Joxean", User, "Basque Country", 42.9896248, -2.6189273, , Spain
+arkenthera, "arkenthera", User, "", , , , 
+xyzxqs, "xyzxqs", User, "China", 35.86166, 104.195397, , China
+marmelroy, "Roy Marmelstein", User, "Paris, France", 48.856614, 2.3522219, Paris, France
+aviaryan, "Avi Aryan", User, "Gandhinagar, India", 23.2156354, 72.63694149999999, Gandhinagar, India
+TooBug, "TooBug", User, "ShenZhen, China", 22.543096, 114.057865, Shenzhen, China
+sslab-gatech, "sslab.gtisc.gatech.edu", Organization, "School of Computer Science, Georgia Tech", , , , 
+huage2580, "狸小华", User, "china 广州", 23.12911, 113.264385, Guangzhou, China
+alestic, "Alestic (Eric Hammond)", Organization, "", , , , 
+CYHSM, "CYHSM", User, "", , , , 
+RiccardoMoro, "Riccardo Moro", User, "Bergamo, Italy", 45.6982642, 9.6772698, Bergamo, Italy
+mcxtzhang, "张旭童", User, "Shanghai,China", 31.230416, 121.473701, Shanghai, China
+closedevice, "sbbic", User, "", , , , 
+daijifeng001, "Jifeng Dai", User, "", , , , 
+southpeak, "Minya", User, "", , , , 
+ajarai, "Goku Mohandas", User, "Cupertino, CA", 37.3229978, -122.0321823, Cupertino, United States
+andyxialm, "", User, "Beijing, China", 39.904211, 116.407395, Beijing, China
+runkitdev, "RunKit", Organization, "San Francisco, CA", 37.7749295, -122.4194155, San Francisco, United States
+ceteri, "Paco Nathan", User, "Sebastopol, CA", 38.4021359, -122.8238806, Sebastopol, United States
+blox, "", Organization, "", , , , 
+shaohui10086, "邵辉Vista", User, "", , , , 
+Dor1s, "Max Moroz", User, "", , , , 
+IntelLabs, "Intel Labs", Organization, "Around the globe", , , , 
+WindyDarian, "Windy Darian", User, "Philadelphia", 39.9525839, -75.1652215, Philadelphia, United States
+NicolasHug, "Nicolas HUG", User, "Toulouse, France", 43.604652, 1.444209, Toulouse, France
+youusername, "", User, "", , , , 
+githubwing, "大精-wing", User, "guangzhou,China", 23.12911, 113.264385, Guangzhou, China
+developit, "Jason Miller", User, "Hamilton, Ontario, Canada", 43.2557206, -79.8711024, Hamilton, Canada
+dannyvankooten, "Danny van Kooten", User, "Nijmegen, The Netherlands", 51.8125626, 5.8372264, Nijmegen, Netherlands
+zhengken, "zhengken", User, "Beijing", 39.904211, 116.407395, Beijing, China
+wuapnjie, "FlyingSnowBean", User, "", , , , 
+nothings, "Sean Barrett", User, "", , , , 
+jirengu, "饥人谷", User, "杭州", 30.274085, 120.15507, Hangzhou, China
+PyFilesystem, "", Organization, "", , , , 
+Sinkup, "Hao Chen", User, "Nanjing, China", 32.060255, 118.796877, Nanjing, China
+gajus, "Gajus Kuizinas", User, "London", 51.5073509, -0.1277583, London, United Kingdom
+gundb, "GUN", Organization, "", , , , 
+Yellow5A5, "", User, "Hangzhou", 30.274085, 120.15507, Hangzhou, China
+QingWei-Li, "cinwell.li", User, "Shanghai", 31.230416, 121.473701, Shanghai, China
+gyjzh, "gyjzh", User, "Beijing China", 39.904211, 116.407395, Beijing, China
+yuleyule66, "Savorboard", User, "ChengDu, China", 30.572816, 104.066801, Chengdu, China
+Fnoz, "Lu WJ", User, "Hangzhou, China", 30.274085, 120.15507, Hangzhou, China
+smart-fun, "Arnaud Guyon", User, "", , , , 
+jivoi, "EK_", User, "Somewhere Out in Space", , , , 
+liuzhiyi1992, "", User, "Guangzhou, China", 23.12911, 113.264385, Guangzhou, China
+bingoogolapple, "王浩", User, "Chengdu, China", 30.572816, 104.066801, Chengdu, China
+despoisj, "Julien Despois", User, "Paris, France", 48.856614, 2.3522219, Paris, France
+lipeiwei-szu, "lipeiwei", User, "shenzhen", 22.543096, 114.057865, Shenzhen, China
+hanan198501, "阿安", User, "beijing", 39.904211, 116.407395, Beijing, China
+layui, "", Organization, "Hangzhou China", 30.274085, 120.15507, Hangzhou, China
+dani-gavrilov, "Gavrilov Daniil", User, "Saint-Petersburg, Russia", 59.9342802, 30.3350986, Saint Petersburg, Russia
+dolce, "Marcelo Dolce", User, "Brasil", -14.235004, -51.92528, , Brazil
+hanzhanggit, "Han Zhang", User, "Piscataway, NJ, USA", 40.554887, -74.4642861, Piscataway Township, United States
+hejunlin2013, "逆流的鱼yuiop", User, "Beijing, China", 39.904211, 116.407395, Beijing, China
+michenriksen, "Michael Henriksen", User, "Berlin, Germany", 52.52000659999999, 13.404954, Berlin, Germany
+Algomancer, "Adam Hibble", User, "Brisbane, AU", -27.4697707, 153.0251235, Brisbane, Australia
+tensorflow, "", Organization, "", , , , 
+NicoHood, "Nico", User, "", , , , 
+koth, "", User, "", , , , 
+xianhu, "xianhu", User, "", , , , 
+Swizec, "Swizec Teller", User, "San Francisco", 37.7749295, -122.4194155, San Francisco, United States
+mdehoog, "Michael de Hoog", User, "", , , , 
+rails, "Ruby on Rails", Organization, "", , , , 
+kaonashi-tyc, "Yuchen Tian", User, "San Francisco", 37.7749295, -122.4194155, San Francisco, United States
+ibmtjbot, "TJ Bot", Organization, "", , , , 
+czy1121, "ezy", User, "东莞", 23.020673, 113.7518, Dongguan, China
+gen2brain, "Milan Nikolic", User, "Belgrade, Serbia", 44.786568, 20.4489216, Belgrade, Serbia
+We5ter, "Wester", User, "Chengdu,China", 30.572816, 104.066801, Chengdu, China
+peng8350, "Mr.peng", User, "GuangDong,China", 23.132191, 113.266531, , China
+wayfair, "Wayfair Engineering", Organization, "", , , , 
+MatteoBattilana, "Matteo Battilana", User, "Trento, Italy", 46.0747793, 11.1217486, Trento, Italy
+manifoldco, "", Organization, "", , , , 
+TrumpTracker, "", User, "", , , , 
+cookiecutter-swift, "", Organization, "", , , , 
+gojuno, "Juno Inc.", Organization, "Minsk, Belarus", 53.90453979999999, 27.5615244, Minsk, Belarus
+notwaldorf, "Monica Dinculescu", User, "Sun Funcisco ☀️", , , , 
+dalu93, "Luca D'Alberti", User, "Prague, Czech Republic", 50.0755381, 14.4378005, Prague, Czechia
+vitormesquita, "Vitor Mesquita", User, "Campo Grande, Brazil", -20.4697645, -54.6202365, , Brazil
+jeantil, "Jean Helou", User, "Lyon, France", 45.764043, 4.835659, Lyon, France
+cloudinsight, "Cloudinsight", Organization, "Beijing, China", 39.904211, 116.407395, Beijing, China
+forezp, "Forezp", User, "wuhan,China", 30.593099, 114.305393, Wuhan, China
+Hitomis, "Hitomi", User, "Wuhan, China.", 30.593099, 114.305393, Wuhan, China
+manwhoami, "Noah O", User, "Western MA", , , , 
+arXivTimes, "arXivTimes", Organization, "", , , , 
+input-output-hk, "Input Output", Organization, "", , , , 
+jiangzehui, "jiangzehui", User, "HeBei,China", 38.037057, 114.468665, , China
+vim-chat, "", Organization, "", , , , 
+mbevand, "", User, "", , , , 
+schmooblidon, "", User, "", , , , 
+passy, "Pascal Hartig", User, "London, UK", 51.5073509, -0.1277583, London, United Kingdom
+Jolly23, "Jolly", User, "", , , , 
+pascalbros, "Pasquale Ambrosini", User, "", , , , 
