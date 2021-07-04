@@ -1,0 +1,80 @@
+id, name, type, location, lat, long, city, country
+Zeta36, "Samuel Graván", User, "Spain", 40.46366700000001, -3.74922, , Spain
+jakearchibald, "Jake Archibald", User, "", , , , 
+minoca, "Minoca", Organization, "Menlo Park, CA", 37.4529598, -122.1817252, Menlo Park, United States
+govolution, "", User, "", , , , 
+screeps, "", Organization, "", , , , 
+tehp, "Mackenzie Craig", User, "Vancouver, Canada", 49.2827291, -123.1207375, Vancouver, Canada
+ruijun, "Jimson Liang", User, "Zhuhai，Guangdong", 22.270978, 113.576678, Zhuhai, China
+diacritic, "Diacritic", Organization, "", , , , 
+iamduo, "Duo Zheng", User, "NYC, Semi-Digital Nomad", , , , 
+PopcornTimeTV, "", Organization, "", , , , 
+ml4a, "ml4a", Organization, "", , , , 
+bjango, "", Organization, "Australia.", -25.274398, 133.775136, , Australia
+zagum, "Zagumennyi Evgenii", User, "", , , , 
+input-output-hk, "Input Output", Organization, "", , , , 
+philwantsfish, "Philip OKeefe", User, "", , , , 
+LeoMobileDeveloper, "Leo", User, "Shanghai,China", 31.230416, 121.473701, Shanghai, China
+drathier, "Filip Haglund", User, "Sverige", 60.12816100000001, 18.643501, , Sweden
+ExtremeMart, "ExtremeMart(极市平台)", Organization, "", , , , 
+jonsuh, "Jonathan Suh", User, "Chicago", 41.8781136, -87.6297982, Chicago, United States
+bannzai, "hirose yudai", User, "Tokyo, Japan", 35.6894875, 139.6917064, , Japan
+gavinkwoe, "Gavin.Kwoe", User, "Beijing, china", 39.904211, 116.407395, Beijing, China
+avatsaev, "Vatsaev Aslan", User, "", , , , 
+kw-udon, "Keiichi Watanabe", User, "The University of Tokyo", , , , 
+cramforce, "Malte Ubl", User, "Alameda, CA, USA", 37.7652065, -122.2416355, Alameda, United States
+salestock, "Sale Stock", Organization, "Indonesia", -0.789275, 113.921327, , Indonesia
+forezp, "Forezp", User, "wuhan,China", 30.593099, 114.305393, Wuhan, China
+Schinizer, "", User, "", , , , 
+pickhardt, "Jeff Pickhardt", User, "San Francisco, CA", 37.7749295, -122.4194155, San Francisco, United States
+zhonghanwen, "HanWen", User, "GuangZhou, China", 23.12911, 113.264385, Guangzhou, China
+7heaven, "7heaven", User, "Beijing, China", 39.904211, 116.407395, Beijing, China
+dianping, "大众点评网", Organization, "Shanghai, China", 31.230416, 121.473701, Shanghai, China
+ceteri, "Paco Nathan", User, "Sebastopol, CA", 38.4021359, -122.8238806, Sebastopol, United States
+Curzibn, "郑梓斌", User, "", , , , 
+tunz, "Choongwoo Han", User, "South Korea", 35.907757, 127.766922, , South Korea
+FGRibreau, "Francois-Guillaume Ribreau", User, "Nantes, France", 47.218371, -1.553621, Nantes, France
+Hotrian, "Nicholas Ewalt", User, "Tacoma, Wa", 47.2528768, -122.4442906, Tacoma, United States
+qiyeboy, "qiye", User, "", , , , 
+coffeescript6, "", Organization, "", , , , 
+victorBaro, "Victor Baro", User, "Barcelona", 41.3850639, 2.1734035, Barcelona, Spain
+zhebrak, "Alexander Zhebrak", User, "Moscow, Russia", 55.755826, 37.6173, Moscow, Russia
+kf99916, "Zheng-Xiang Ke", User, "Taipei, Taiwan", 25.0329636, 121.5654268, , Taiwan
+Yarikx, "Yaroslav", User, "Kiev, Ukraine", 50.4501, 30.5234, Kiev, Ukraine
+andyxialm, "", User, "Beijing, China", 39.904211, 116.407395, Beijing, China
+favll, "", User, "", , , , 
+guerrerocarlos, "Carlos Guerrero", User, "", , , , 
+hackstoic, "", User, "", , , , 
+wulkano, "Wulkano", Organization, "", , , , 
+getify, "Kyle Simpson", User, "Austin, TX", 30.267153, -97.7430608, Austin, United States
+weavey, "Weavey", User, "China", 35.86166, 104.195397, , China
+cvondrick, "Carl Vondrick", User, "Cambridge, MA", 42.3736158, -71.10973349999999, Cambridge, United States
+NickTikhonov, "Nick Tikhonov", User, "United Kingdom", 55.378051, -3.435973, , United Kingdom
+shaohui10086, "邵辉Vista", User, "", , , , 
+Kenber, "Kenber", User, "Beijing, China", 39.904211, 116.407395, Beijing, China
+Bouke, "Bouke Haarsma", User, "Zwolle, The Netherlands", 52.5167747, 6.083021899999999, Zwolle, Netherlands
+wcharczuk, "Will Charczuk", User, "San Francisco, CA", 37.7749295, -122.4194155, San Francisco, United States
+javierbyte, "Javier Bórquez", User, "Guadalajara, MX", 20.6596988, -103.3496092, Guadalajara, Mexico
+poly, "Polybit", Organization, "San Francisco, CA", 37.7749295, -122.4194155, San Francisco, United States
+space10-community, "Space10", Organization, "", , , , 
+amatsuda, "Akira Matsuda", User, "Tokyo, Japan", 35.6894875, 139.6917064, , Japan
+peng8350, "Mr.peng", User, "GuangDong,China", 23.132191, 113.266531, , China
+missive, "Missive", Organization, "", , , , 
+LeonardoCardoso, "Leonardo Cardoso", User, "Berlin", 52.52000659999999, 13.404954, Berlin, Germany
+OpenDroneMap, "", Organization, "", , , , 
+Expensify, "Expensify, Inc", Organization, "San Francisco, Ironwood, Denver, London, Berlin, Melbourne, Portland", , , , 
+NikitaKozlov, "Nikita Kozlov", User, "Berlin", 52.52000659999999, 13.404954, Berlin, Germany
+albertodebortoli, "Alberto De Bortoli", User, "London, UK", 51.5073509, -0.1277583, London, United Kingdom
+tomlepaine, "Tom Le Paine", User, "Urbana, IL", 40.1105875, -88.2072697, Urbana, United States
+facebook, "Facebook", Organization, "Menlo Park, California", 37.4529598, -122.1817252, Menlo Park, United States
+hawk0620, "gzhawk", User, "GuangZhou", 23.12911, 113.264385, Guangzhou, China
+antonioribeiro, "Antonio Carlos Ribeiro", User, "", , , , 
+meetfranz, "Franz", Organization, "", , , , 
+shiffman, "Daniel Shiffman", User, "New York, NY", 40.7127837, -74.0059413, New York, United States
+taglia3, "Matteo Tagliafico", User, "Turin", 45.070312, 7.686856499999999, Turin, Italy
+dhirajjadhao, "Dhiraj Rajendra Jadhao", User, "Pune, India", 18.5204303, 73.8567437, Pune, India
+ganapativs, "Ganapati V S", User, "Bangalore, India", 12.9715987, 77.5945627, Bengaluru, India
+ok-borg, "", Organization, "", , , , 
+BoxFactura, "Box Factura", Organization, "México", 23.634501, -102.552784, , Mexico
+DTVD, "Orakaro", User, "", , , , 
+nielsenramon, "Nielsen Ramon", User, "Belgium", 50.503887, 4
