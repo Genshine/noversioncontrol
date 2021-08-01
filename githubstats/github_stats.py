@@ -636,4 +636,109 @@ class GitHubStats(object):
                     language_stats.write('# ' + language + '\n')
                 for line in self.output[language]:
                     language_stats.write(line + '\n')
-                for li
+                for line in self.output['Index']:
+                    language_stats.write(line + '\n')
+
+    def write_output_files(self):
+        """Writes the language stats and cached user file."""
+        self.write_language_stats()
+        self.write_caches()
+        self.write_csvs()
+
+    def write_caches(self):
+        """Writes the user cached to data/2017/users"""
+        self.cached_users = {}
+        for dev in self.overall_devs:
+            self.cached_users[dev.id] = dev
+        for org in self.overall_orgs:
+            self.cached_users[org.id] = org
+        with open(self.CFG_USERS_PATH, 'wb') as users_dat:
+            pickle.dump(self.cached_users, users_dat)
+
+    def write_csvs(self):
+        """Writes the repos and users csvs."""
+        self.write_csv_repos('data/2017/repos-dump.csv')
+        self.write_csv_users('data/2017/users-dump.csv')
+
+    def write_csv_repos(self, data_file_name):
+        """Writes the repos csv.
+
+        TODO: Refactor to use the built-in module `csv`.
+
+        :type data_file_name: str
+        :param data_file_name: The resulting csv file name in the data folder.
+            Example: 'data/2017/foo.csv'.
+        """
+        file_path = self.build_module_path(data_file_name)
+        with open(file_path, 'w') as repos_dat:
+            repos_dat.write('full_name, stars, forks, description, language\n')
+            for repo in self.overall_repos:
+                language = repo.language if repo.language is not None else ''
+                desc = repo.description if repo.description is not None else ''
+                desc = desc.replace('"', "'")
+                repos_dat.write(
+                    repo.full_name + ', ' +
+                    str(repo.stars) + ', ' +
+                    str(repo.forks) + ', ' + '"' +
+                    desc + '", ' +
+                    language + '\n')
+
+    def _write_csv_users(self, users, users_dat, user_type):
+        """Writes the users csv.
+
+        Internal method, call write_csv_users instead.
+        TODO: Refactor to use the built-in module `csv`.
+
+        :type users: list
+        :param users: The users.
+
+        :type users_dat: :class:`_io.TextIOWrapper`
+        :param users_dat: Handles writing the file.
+
+        :type user_type: str
+        :param user_type: 'User' or "Organization'
+        """
+        for user in users:
+            name = user.name if user.name is not None else ''
+            location = user.location if user.location is not None else ''
+            location = location.replace('"', "'")
+            users_dat.write(
+                user.id + ', ' + '"' +
+                name + '", ' +
+                user_type + ', ' + '"' +
+                location + '"' + '\n')
+
+    def write_csv_users(self, data_file_name):
+        """Writes the users csv.
+
+        :type data_file_name: str
+        :param data_file_name: The resulting csv file name in the data folder.
+            Example: 'data/2017/foo.csv'.
+        """
+        file_path = self.build_module_path(data_file_name)
+        with open(file_path, 'w') as users_dat:
+            users_dat.write('id, name, type, location\n')
+            self._write_csv_users(self.overall_devs,
+                                  users_dat,
+                                  'User')
+            self._write_csv_users(self.overall_orgs,
+                                  users_dat,
+                                  'Organization')
+
+    from .lib.debug_timer import timeit
+    @timeit
+    def update_user_locations(self, use_user_cache=True):
+        """Updates the GitHub user location string with a geocoded location.
+
+        TODO: This is a work-in-progress!
+
+        :type use_user_cache: boolean
+        :param use_user_cache: Determines whether to use the existing user
+            cache if it exists, or if the GitHub API should be called instead.
+        """
+        if use_user_cache:
+            self.load_caches()
+        user_geocoder = UserGeocoder(self.cached_users, self.user_geocodes_map)
+        csv_path = self.build_module_path('data/2017/user-geocodes-dump.csv')
+        user_geocoder.generate_user_geocodes(csv_path,
+                                             self.CFG_USERS_GEOCODES_PATH)
