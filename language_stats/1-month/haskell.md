@@ -1,23 +1,21 @@
-# CSS
+# Haskell
 
-## Most-Starred Repos: CSS
+## Most-Starred Repos: Haskell
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [toddmotto/angular-pizza-creator](https://github.com/toddmotto/angular-pizza-creator) <br/>Source code for Angular advanced Form APIs pizza b... | 219 |
-| 2. | [apex/apex-ui](https://github.com/apex/apex-ui) <br/>Apex monochrome Atom theme UI. | 161 |
+| 1. | [haskus/haskus-system](https://github.com/haskus/haskus-system) <br/>Haskus system | 267 |
 
-## Most-Starred Users: CSS
+## Most-Starred Users: Haskell
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [toddmotto](https://github.com/toddmotto)  | [angular-pizza-creator](https://github.com/toddmotto/angular-pizza-creator)  (219) <br/> | 219 |
 
-## Most-Starred Orgs: CSS
+## Most-Starred Orgs: Haskell
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [apex](https://github.com/apex)  | [apex-ui](https://github.com/apex/apex-ui)  (161) <br/> | 161 |
+| 1. | [haskus](https://github.com/haskus)  | [haskus-system](https://github.com/haskus/haskus-system)  (267) <br/> | 267 |
 
 ## Language Stats Index
 
@@ -45,14 +43,4 @@ An index is provided below for convenience.*
 | Ruby | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-repos-ruby) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-users-ruby) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-orgs-ruby) |
 | C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-repos-c#) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-users-c#) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-orgs-c#) |
 | Shell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-repos-shell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-users-shell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-orgs-shell) |
-| Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-users-scala) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-orgs-scala) |
-| Clojure | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-repos-clojure) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-users-clojure) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-orgs-clojure) |
-| CoffeeScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-repos-coffeescript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-users-coffeescript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-orgs-coffeescript) |
-| Lua | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-repos-lua) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-users-lua) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-orgs-lua) |
-| Haskell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-repos-haskell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-users-haskell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-orgs-haskell) |
-| VimL | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-repos-viml) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-users-viml) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-orgs-viml) |
-| R | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-repos-r) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-users-r) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-orgs-r) |
-| Perl | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-repos-perl) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-users-perl) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-orgs-perl) |
-| Julia | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-repos-julia) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-users-julia) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-orgs-julia) |
-| Unknown | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-repos-unknown) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-users-unknown) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-orgs-unknown) |
-| Overall | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-repos-overall) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-users-overall) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-orgs-overall) |
+| Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blo
