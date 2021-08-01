@@ -1,29 +1,20 @@
-# C
 
-## Most-Starred Repos: C
+# CoffeeScript
+
+## Most-Starred Repos: CoffeeScript
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [adtac/fssb](https://github.com/adtac/fssb) <br/>A low-level filesystem sandbox for Linux using sys... | 264 |
-| 2. | [ronsoros/rvm](https://github.com/ronsoros/rvm) <br/>simple virtual machine and assembler | 213 |
-| 3. | [benjamin-42/Trident](https://github.com/benjamin-42/Trident)  | 137 |
-| 4. | [LineageOS/android_device_oneplus_bacon](https://github.com/LineageOS/android_device_oneplus_bacon) <br/>OnePlus One device configuration (bacon) | 121 |
-| 5. | [mjosaarinen/dekryptize](https://github.com/mjosaarinen/dekryptize) <br/>A ncurses animation to make decryption look like, ... | 120 |
 
-## Most-Starred Users: C
+## Most-Starred Users: CoffeeScript
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [adtac](https://github.com/adtac)  | [fssb](https://github.com/adtac/fssb)  (264) <br/> | 264 |
-| 2. | [ronsoros](https://github.com/ronsoros)  | [rvm](https://github.com/ronsoros/rvm)  (213) <br/> | 213 |
-| 3. | [benjamin-42](https://github.com/benjamin-42)  | [Trident](https://github.com/benjamin-42/Trident)  (137) <br/> | 137 |
-| 4. | [mjosaarinen](https://github.com/mjosaarinen)  | [dekryptize](https://github.com/mjosaarinen/dekryptize)  (120) <br/> | 120 |
 
-## Most-Starred Orgs: C
+## Most-Starred Orgs: CoffeeScript
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [LineageOS](https://github.com/LineageOS)  | [android_device_oneplus_bacon](https://github.com/LineageOS/android_device_oneplus_bacon)  (121) <br/> | 121 |
 
 ## Language Stats Index
 
