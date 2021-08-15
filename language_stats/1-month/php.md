@@ -1,21 +1,32 @@
-# Lua
 
-## Most-Starred Repos: Lua
+# PHP
+
+## Most-Starred Repos: PHP
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) <br/>Morpheus - Automated Ettercap TCP/IP Hijacking Too... | 150 |
+| 1. | [jcc/blog](https://github.com/jcc/blog) <br/>:heart: PJ Blog is an open source blog built with ... | 373 |
+| 2. | [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) <br/>蓝鲸智云配置平台(blueking cmdb) | 283 |
+| 3. | [opsxcq/exploit-CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033) <br/>PHPMailer  5.2.18 Remote Code Execution exploit a... | 196 |
+| 4. | [maysrp/webdir](https://github.com/maysrp/webdir) <br/>网站目录 | 182 |
+| 5. | [summerblue/news.laravel-china.org](https://github.com/summerblue/news.laravel-china.org) <br/>Source Code of the https://news.laravel-china.org/... | 160 |
+| 6. | [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) <br/>[Project-Kob-6]安全行业从业人员自研开源扫描器合集(不收录w3af、brakeman等... | 143 |
 
-## Most-Starred Users: Lua
+## Most-Starred Users: PHP
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [r00t-3xp10it](https://github.com/r00t-3xp10it)  | [morpheus](https://github.com/r00t-3xp10it/morpheus)  (150) <br/> | 150 |
+| 1. | [jcc](https://github.com/jcc)  | [blog](https://github.com/jcc/blog)  (373) <br/> | 373 |
+| 2. | [opsxcq](https://github.com/opsxcq)  | [exploit-CVE-2016-10033](https://github.com/opsxcq/exploit-CVE-2016-10033)  (196) <br/> | 196 |
+| 3. | [maysrp](https://github.com/maysrp)  | [webdir](https://github.com/maysrp/webdir)  (182) <br/> | 182 |
+| 4. | [summerblue](https://github.com/summerblue)  | [news.laravel-china.org](https://github.com/summerblue/news.laravel-china.org)  (160) <br/> | 160 |
+| 5. | [We5ter](https://github.com/We5ter)  | [Scanners-Box](https://github.com/We5ter/Scanners-Box)  (143) <br/> | 143 |
 
-## Most-Starred Orgs: Lua
+## Most-Starred Orgs: PHP
 
 | | Org | Repos | Stars |
 |---|---|---|---|
+| 1. | [Tencent](https://github.com/Tencent)  | [bk-cmdb](https://github.com/Tencent/bk-cmdb)  (283) <br/>[GAutomator](https://github.com/Tencent/GAutomator)  (180) <br/> | 283 |
 
 ## Language Stats Index
 

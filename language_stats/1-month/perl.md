@@ -1,18 +1,16 @@
-# Lua
+# Perl
 
-## Most-Starred Repos: Lua
+## Most-Starred Repos: Perl
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [r00t-3xp10it/morpheus](https://github.com/r00t-3xp10it/morpheus) <br/>Morpheus - Automated Ettercap TCP/IP Hijacking Too... | 150 |
 
-## Most-Starred Users: Lua
+## Most-Starred Users: Perl
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [r00t-3xp10it](https://github.com/r00t-3xp10it)  | [morpheus](https://github.com/r00t-3xp10it/morpheus)  (150) <br/> | 150 |
 
-## Most-Starred Orgs: Lua
+## Most-Starred Orgs: Perl
 
 | | Org | Repos | Stars |
 |---|---|---|---|
