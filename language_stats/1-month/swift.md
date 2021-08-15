@@ -1,25 +1,46 @@
-# Shell
 
-## Most-Starred Repos: Shell
+# Swift
+
+## Most-Starred Repos: Swift
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [gojuno/mainframer](https://github.com/gojuno/mainframer) <br/>Pretty universal instruction and script to setup R... | 333 |
-| 2. | [plexinc/pms-docker](https://github.com/plexinc/pms-docker) <br/>Plex Media Server Docker repo, for all your PMS do... | 294 |
-| 3. | [hs-cx/snmp_mib_archive](https://github.com/hs-cx/snmp_mib_archive) <br/>An archive of over 3000 unique SNMP MIBs | 108 |
+| 1. | [kickstarter/ios-oss](https://github.com/kickstarter/ios-oss) <br/>Kickstarter for iOS. Bring new ideas to life, anyw... | 3634 |
+| 2. | [krzysztofzablocki/Sourcery](https://github.com/krzysztofzablocki/Sourcery) <br/>A tool that brings meta-programming to Swift, allo... | 1302 |
+| 3. | [malcommac/SwiftRichString](https://github.com/malcommac/SwiftRichString) <br/>Elegant & Painless Attributed Strings Management L... | 534 |
+| 4. | [brianmichel/Juice](https://github.com/brianmichel/Juice) <br/>Make your battery information a bit more interesti... | 335 |
+| 5. | [insidegui/PlayAlways](https://github.com/insidegui/PlayAlways) <br/>Create Xcode playgrounds from your menu bar | 303 |
+| 6. | [erikolsson/Touch-Bar-Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings)  | 277 |
+| 7. | [TBXark/PinterestSegment](https://github.com/TBXark/PinterestSegment) <br/>A Pinterest-like segment control with masking anim... | 216 |
+| 8. | [NghiaTranUIT/iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) <br/>The perfect combination: Clean Swift + ReSwift + P... | 203 |
+| 9. | [jobandtalent/CardStackController](https://github.com/jobandtalent/CardStackController) <br/>iOS custom controller used in Jobandtalent app to ... | 197 |
+| 10. | [baoyongzhang/ApkChannelBuilder](https://github.com/baoyongzhang/ApkChannelBuilder) <br/>一个 Mac App，用于 Apk 多渠道打包。 | 185 |
+| 11. | [qiuncheng/NoticeBar](https://github.com/qiuncheng/NoticeBar) <br/>😍A simple NoticeBar written by Swift 3, similar wi... | 179 |
+| 12. | [mattgallagher/CwlSignal](https://github.com/mattgallagher/CwlSignal) <br/>A Swift framework for reactive programming. | 152 |
+| 13. | [victorBaro/AlgoGraphics](https://github.com/victorBaro/AlgoGraphics) <br/>Random visualizations | 119 |
 
-## Most-Starred Users: Shell
+## Most-Starred Users: Swift
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [hs-cx](https://github.com/hs-cx)  | [snmp_mib_archive](https://github.com/hs-cx/snmp_mib_archive)  (108) <br/> | 108 |
+| 1. | [krzysztofzablocki](https://github.com/krzysztofzablocki)  | [Sourcery](https://github.com/krzysztofzablocki/Sourcery)  (1302) <br/> | 1302 |
+| 2. | [malcommac](https://github.com/malcommac)  | [SwiftRichString](https://github.com/malcommac/SwiftRichString)  (534) <br/> | 534 |
+| 3. | [brianmichel](https://github.com/brianmichel)  | [Juice](https://github.com/brianmichel/Juice)  (335) <br/> | 335 |
+| 4. | [insidegui](https://github.com/insidegui)  | [PlayAlways](https://github.com/insidegui/PlayAlways)  (303) <br/> | 303 |
+| 5. | [erikolsson](https://github.com/erikolsson)  | [Touch-Bar-Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings)  (277) <br/> | 277 |
+| 6. | [TBXark](https://github.com/TBXark)  | [PinterestSegment](https://github.com/TBXark/PinterestSegment)  (216) <br/> | 216 |
+| 7. | [NghiaTranUIT](https://github.com/NghiaTranUIT)  | [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit)  (203) <br/> | 203 |
+| 8. | [baoyongzhang](https://github.com/baoyongzhang)  | [ApkChannelBuilder](https://github.com/baoyongzhang/ApkChannelBuilder)  (185) <br/> | 185 |
+| 9. | [qiuncheng](https://github.com/qiuncheng)  | [NoticeBar](https://github.com/qiuncheng/NoticeBar)  (179) <br/> | 179 |
+| 10. | [mattgallagher](https://github.com/mattgallagher)  | [CwlSignal](https://github.com/mattgallagher/CwlSignal)  (152) <br/> | 152 |
+| 11. | [victorBaro](https://github.com/victorBaro)  | [AlgoGraphics](https://github.com/victorBaro/AlgoGraphics)  (119) <br/> | 119 |
 
-## Most-Starred Orgs: Shell
+## Most-Starred Orgs: Swift
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [gojuno](https://github.com/gojuno)  | [mainframer](https://github.com/gojuno/mainframer)  (333) <br/> | 333 |
-| 2. | [plexinc](https://github.com/plexinc)  | [pms-docker](https://github.com/plexinc/pms-docker)  (294) <br/> | 294 |
+| 1. | [kickstarter](https://github.com/kickstarter)  | [ios-oss](https://github.com/kickstarter/ios-oss)  (3634) <br/>[android-oss](https://github.com/kickstarter/android-oss)  (3032) <br/> | 3634 |
+| 2. | [jobandtalent](https://github.com/jobandtalent)  | [CardStackController](https://github.com/jobandtalent/CardStackController)  (197) <br/> | 197 |
 
 ## Language Stats Index
 
