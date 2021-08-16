@@ -1,71 +1,19 @@
-# Unknown
+# VimL
 
-## Most-Starred Repos: Unknown
+## Most-Starred Repos: VimL
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [rstacruz/webpack-tricks](https://github.com/rstacruz/webpack-tricks) <br/>Tips and tricks in using Webpack | 1940 |
-| 2. | [keonkim/awesome-bits](https://github.com/keonkim/awesome-bits) <br/>:computer: A curated list of awesome bitwise opera... | 1705 |
-| 3. | [DynamicCocoa/DynamicCocoa](https://github.com/DynamicCocoa/DynamicCocoa) <br/>A framework for running Cocoa code dynamically. | 803 |
-| 4. | [soumith/ganhacks](https://github.com/soumith/ganhacks) <br/>starter from "How to Train a GAN?" at NIPS2016 | 735 |
-| 5. | [facebookincubator/react-vr](https://github.com/facebookincubator/react-vr) <br/>Issues-only repo for React VR - a React Native pla... | 690 |
-| 6. | [Nax/longflow-manifesto](https://github.com/Nax/longflow-manifesto) <br/>:coffee: The longflow manifesto | 533 |
-| 7. | [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python)  | 417 |
-| 8. | [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) <br/>:octocat: Machine Learning for Cyber Security | 362 |
-| 9. | [1ppm/1ppmLog](https://github.com/1ppm/1ppmLog) <br/>Release one side project per month, log your resul... | 347 |
-| 10. | [ggomaeng/better-developer-quotes](https://github.com/ggomaeng/better-developer-quotes) <br/>💡 A compilation of answers I received from other d... | 346 |
-| 11. | [jirengu/frontend-interview](https://github.com/jirengu/frontend-interview) <br/>前端笔试面试题题库 | 299 |
-| 12. | [LineageOS/android](https://github.com/LineageOS/android) <br/>Misc Android stuff | 296 |
-| 13. | [Geekbang/ArchSummit](https://github.com/Geekbang/ArchSummit) <br/>ArchSummit全球架构师峰会 | 269 |
-| 14. | [duffn/dumb-password-rules](https://github.com/duffn/dumb-password-rules) <br/>Shaming sites with dumb password rules. | 204 |
-| 15. | [mafintosh/awesome-p2p](https://github.com/mafintosh/awesome-p2p) <br/>List of great p2p resources | 171 |
-| 16. | [php-pds/skeleton](https://github.com/php-pds/skeleton) <br/>Standard PHP package skeleton. | 152 |
-| 17. | [gradiuscypher/infosec_getting_started](https://github.com/gradiuscypher/infosec_getting_started) <br/>A collection of resources/documentation/links/etc ... | 147 |
-| 18. | [paf31/24-days-of-purescript-2016](https://github.com/paf31/24-days-of-purescript-2016) <br/>24 Days of PureScript, 2016 | 140 |
-| 19. | [hindupuravinash/nips2016](https://github.com/hindupuravinash/nips2016) <br/>A list of resources for all invited talks, tutoria... | 133 |
-| 20. | [DxF5H/lightbox](https://github.com/DxF5H/lightbox) <br/>Simple lightbox script without dependencies (not e... | 125 |
-| 21. | [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes) <br/>Resources for learning and using recursion schemes... | 123 |
-| 22. | [kendricktan/non-overwhelming-machine-learning](https://github.com/kendricktan/non-overwhelming-machine-learning) <br/>A (non overwhelming) list of Machine Learning reso... | 123 |
-| 23. | [manasthakur/learn-vim](https://github.com/manasthakur/learn-vim) <br/>Learn the (arguably) best text-editor on the plane... | 115 |
-| 24. | [amitshekhariitbhu/awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things) <br/>A curated list of awesome android things tutorials... | 113 |
-| 25. | [Miserlou/Mackenzie](https://github.com/Miserlou/Mackenzie) <br/>AWS Lambda Infection Toolkit // Persistent Lambda ... | 102 |
-| 26. | [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) <br/>:star2: Awesome (free) web apps that work without ... | 100 |
 
-## Most-Starred Users: Unknown
+## Most-Starred Users: VimL
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [rstacruz](https://github.com/rstacruz)  | [webpack-tricks](https://github.com/rstacruz/webpack-tricks)  (1940) <br/> | 1940 |
-| 2. | [keonkim](https://github.com/keonkim)  | [awesome-bits](https://github.com/keonkim/awesome-bits)  (1705) <br/> | 1705 |
-| 3. | [soumith](https://github.com/soumith)  | [ganhacks](https://github.com/soumith/ganhacks)  (735) <br/> | 735 |
-| 4. | [Nax](https://github.com/Nax)  | [longflow-manifesto](https://github.com/Nax/longflow-manifesto)  (533) <br/> | 533 |
-| 5. | [sfermigier](https://github.com/sfermigier)  | [awesome-functional-python](https://github.com/sfermigier/awesome-functional-python)  (417) <br/> | 417 |
-| 6. | [jivoi](https://github.com/jivoi)  | [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)  (362) <br/> | 362 |
-| 7. | [1ppm](https://github.com/1ppm)  | [1ppmLog](https://github.com/1ppm/1ppmLog)  (347) <br/> | 347 |
-| 8. | [ggomaeng](https://github.com/ggomaeng)  | [react-native-facebook-ui](https://github.com/ggomaeng/react-native-facebook-ui)  (434) <br/>[better-developer-quotes](https://github.com/ggomaeng/better-developer-quotes)  (346) <br/>[react-native-spotify-ui](https://github.com/ggomaeng/react-native-spotify-ui)  (147) <br/> | 346 |
-| 9. | [jirengu](https://github.com/jirengu)  | [frontend-interview](https://github.com/jirengu/frontend-interview)  (299) <br/> | 299 |
-| 10. | [duffn](https://github.com/duffn)  | [dumb-password-rules](https://github.com/duffn/dumb-password-rules)  (204) <br/> | 204 |
-| 11. | [mafintosh](https://github.com/mafintosh)  | [awesome-p2p](https://github.com/mafintosh/awesome-p2p)  (171) <br/> | 171 |
-| 12. | [gradiuscypher](https://github.com/gradiuscypher)  | [infosec_getting_started](https://github.com/gradiuscypher/infosec_getting_started)  (147) <br/> | 147 |
-| 13. | [paf31](https://github.com/paf31)  | [24-days-of-purescript-2016](https://github.com/paf31/24-days-of-purescript-2016)  (140) <br/> | 140 |
-| 14. | [hindupuravinash](https://github.com/hindupuravinash)  | [nips2016](https://github.com/hindupuravinash/nips2016)  (133) <br/> | 133 |
-| 15. | [DxF5H](https://github.com/DxF5H)  | [lightbox](https://github.com/DxF5H/lightbox)  (125) <br/> | 125 |
-| 16. | [kendricktan](https://github.com/kendricktan)  | [non-overwhelming-machine-learning](https://github.com/kendricktan/non-overwhelming-machine-learning)  (123) <br/> | 123 |
-| 17. | [passy](https://github.com/passy)  | [awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes)  (123) <br/> | 123 |
-| 18. | [manasthakur](https://github.com/manasthakur)  | [learn-vim](https://github.com/manasthakur/learn-vim)  (115) <br/> | 115 |
-| 19. | [amitshekhariitbhu](https://github.com/amitshekhariitbhu)  | [awesome-android-things](https://github.com/amitshekhariitbhu/awesome-android-things)  (113) <br/> | 113 |
-| 20. | [Miserlou](https://github.com/Miserlou)  | [Mackenzie](https://github.com/Miserlou/Mackenzie)  (102) <br/> | 102 |
-| 21. | [aviaryan](https://github.com/aviaryan)  | [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)  (100) <br/> | 100 |
 
-## Most-Starred Orgs: Unknown
+## Most-Starred Orgs: VimL
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [DynamicCocoa](https://github.com/DynamicCocoa)  | [DynamicCocoa](https://github.com/DynamicCocoa/DynamicCocoa)  (803) <br/> | 803 |
-| 2. | [facebookincubator](https://github.com/facebookincubator)  | [react-vr](https://github.com/facebookincubator/react-vr)  (690) <br/> | 690 |
-| 3. | [LineageOS](https://github.com/LineageOS)  | [android](https://github.com/LineageOS/android)  (296) <br/>[android_device_oneplus_bacon](https://github.com/LineageOS/android_device_oneplus_bacon)  (121) <br/> | 296 |
-| 4. | [Geekbang](https://github.com/Geekbang)  | [ArchSummit](https://github.com/Geekbang/ArchSummit)  (269) <br/> | 269 |
-| 5. | [php-pds](https://github.com/php-pds)  | [skeleton](https://github.com/php-pds/skeleton)  (152) <br/> | 152 |
 
 ## Language Stats Index
 
