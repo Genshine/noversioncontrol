@@ -248,4 +248,109 @@
 | 42. | [g13nn](https://github.com/g13nn)  | [Email-Framework](https://github.com/g13nn/Email-Framework)  (274) <br/> | 274 |
 | 43. | [douglascrockford](https://github.com/douglascrockford)  | [TheJavaScriptEncyclopedia](https://github.com/douglascrockford/TheJavaScriptEncyclopedia)  (262) <br/> | 262 |
 | 44. | [Gaohaoyang](https://github.com/Gaohaoyang)  | [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)  (258) <br/> | 258 |
-| 45. | [bevacqua](https://github.com/bevacqua)  | [dragula](https://github.com/bevacqua/dragula)  (10735) <br/>[fuzzysearch](https://github.com/bevacqua/fuzzysearch)  (1647) <br/>[woofmark](https://github.com/bevacqua/woofmark)  (1224) <br/>[promisees](https://github.com/bevacqua/promisees)  (804) <br/>[horsey
+| 45. | [bevacqua](https://github.com/bevacqua)  | [dragula](https://github.com/bevacqua/dragula)  (10735) <br/>[fuzzysearch](https://github.com/bevacqua/fuzzysearch)  (1647) <br/>[woofmark](https://github.com/bevacqua/woofmark)  (1224) <br/>[promisees](https://github.com/bevacqua/promisees)  (804) <br/>[horsey](https://github.com/bevacqua/horsey)  (667) <br/>[insignia](https://github.com/bevacqua/insignia)  (572) <br/>[hit-that](https://github.com/bevacqua/hit-that)  (271) <br/>[local-storage](https://github.com/bevacqua/local-storage)  (255) <br/>[angular-dragula](https://github.com/bevacqua/angular-dragula)  (252) <br/>[react-dragula](https://github.com/bevacqua/react-dragula)  (166) <br/>[swivel](https://github.com/bevacqua/swivel)  (132) <br/>[insane](https://github.com/bevacqua/insane)  (123) <br/> | 252 |
+| 46. | [LeaVerou](https://github.com/LeaVerou)  | [awesomplete](https://github.com/LeaVerou/awesomplete)  (4171) <br/>[bliss](https://github.com/LeaVerou/bliss)  (1407) <br/>[conic-gradient](https://github.com/LeaVerou/conic-gradient)  (249) <br/> | 249 |
+| 47. | [Parbhat](https://github.com/Parbhat)  | [Python-Pedia](https://github.com/Parbhat/Python-Pedia)  (244) <br/> | 244 |
+| 48. | [unbug](https://github.com/unbug)  | [codelf](https://github.com/unbug/codelf)  (235) <br/>[generator-webappstarter](https://github.com/unbug/generator-webappstarter)  (222) <br/>[ddms](https://github.com/unbug/ddms)  (123) <br/> | 235 |
+| 49. | [timcreative](https://github.com/timcreative)  | [light-bootstrap-dashboard](https://github.com/timcreative/light-bootstrap-dashboard)  (232) <br/> | 232 |
+| 50. | [allotrop3](https://github.com/allotrop3)  | [four](https://github.com/allotrop3/four)  (228) <br/> | 228 |
+| 51. | [omnus](https://github.com/omnus)  | [tiny-twitch](https://github.com/omnus/tiny-twitch)  (223) <br/> | 223 |
+| 52. | [lgarron](https://github.com/lgarron)  | [badssl.com](https://github.com/lgarron/badssl.com)  (219) <br/> | 219 |
+| 53. | [tomw1808](https://github.com/tomw1808)  | [newscombinator](https://github.com/tomw1808/newscombinator)  (213) <br/> | 213 |
+| 54. | [musalbas](https://github.com/musalbas)  | [address-spoofing-poc](https://github.com/musalbas/address-spoofing-poc)  (211) <br/> | 211 |
+| 55. | [jinlong](https://github.com/jinlong)  | [didiShit](https://github.com/jinlong/didiShit)  (204) <br/> | 204 |
+| 56. | [Munter](https://github.com/Munter)  | [fusile](https://github.com/Munter/fusile)  (202) <br/> | 202 |
+| 57. | [mcxiaoke](https://github.com/mcxiaoke)  | [packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin)  (406) <br/>[mqtt](https://github.com/mcxiaoke/mqtt)  (201) <br/>[xBus](https://github.com/mcxiaoke/xBus)  (165) <br/> | 201 |
+| 58. | [peunzhang](https://github.com/peunzhang)  | [pageResponse](https://github.com/peunzhang/pageResponse)  (200) <br/> | 200 |
+| 59. | [yusugomori](https://github.com/yusugomori)  | [csssans](https://github.com/yusugomori/csssans)  (199) <br/> | 199 |
+| 60. | [caiorss](https://github.com/caiorss)  | [Emacs-Elisp-Programming](https://github.com/caiorss/Emacs-Elisp-Programming)  (199) <br/> | 199 |
+| 61. | [iandevlin](https://github.com/iandevlin)  | [ariabones](https://github.com/iandevlin/ariabones)  (195) <br/> | 195 |
+| 62. | [thomshutt](https://github.com/thomshutt)  | [infinite-monkeys](https://github.com/thomshutt/infinite-monkeys)  (193) <br/> | 193 |
+| 63. | [T00rk](https://github.com/T00rk)  | [bootstrap-material-datetimepicker](https://github.com/T00rk/bootstrap-material-datetimepicker)  (193) <br/> | 193 |
+| 64. | [karpathy](https://github.com/karpathy)  | [reinforcejs](https://github.com/karpathy/reinforcejs)  (188) <br/>[arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver)  (137) <br/> | 188 |
+| 65. | [Huxpro](https://github.com/Huxpro)  | [huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)  (187) <br/> | 187 |
+| 66. | [nimojs](https://github.com/nimojs)  | [gulp-book](https://github.com/nimojs/gulp-book)  (594) <br/>[learn-js](https://github.com/nimojs/learn-js)  (183) <br/> | 183 |
+| 67. | [juancabrera](https://github.com/juancabrera)  | [react-asset-loader](https://github.com/juancabrera/react-asset-loader)  (179) <br/> | 179 |
+| 68. | [kazzkiq](https://github.com/kazzkiq)  | [CodeFlask.js](https://github.com/kazzkiq/CodeFlask.js)  (175) <br/> | 175 |
+| 69. | [miketricking](https://github.com/miketricking)  | [miketricking.github.io](https://github.com/miketricking/miketricking.github.io)  (175) <br/> | 175 |
+| 70. | [hit9](https://github.com/hit9)  | [gif2txt](https://github.com/hit9/gif2txt)  (174) <br/> | 174 |
+| 71. | [rohanchandra](https://github.com/rohanchandra)  | [type-theme](https://github.com/rohanchandra/type-theme)  (170) <br/> | 170 |
+| 72. | [rjpcomputing](https://github.com/rjpcomputing)  | [luaforwindows](https://github.com/rjpcomputing/luaforwindows)  (168) <br/> | 168 |
+| 73. | [mrmrs](https://github.com/mrmrs)  | [gradients](https://github.com/mrmrs/gradients)  (167) <br/> | 167 |
+| 74. | [CreativeDream](https://github.com/CreativeDream)  | [jQuery.filer](https://github.com/CreativeDream/jQuery.filer)  (165) <br/> | 165 |
+| 75. | [FaizMalkani](https://github.com/FaizMalkani)  | [appsite](https://github.com/FaizMalkani/appsite)  (161) <br/> | 161 |
+| 76. | [jglovier](https://github.com/jglovier)  | [resume-template](https://github.com/jglovier/resume-template)  (160) <br/> | 160 |
+| 77. | [jjuliano](https://github.com/jjuliano)  | [markdown-ui](https://github.com/jjuliano/markdown-ui)  (158) <br/> | 158 |
+| 78. | [rnystrom](https://github.com/rnystrom)  | [HackerNewsReader](https://github.com/rnystrom/HackerNewsReader)  (157) <br/> | 157 |
+| 79. | [mds](https://github.com/mds)  | [readable](https://github.com/mds/readable)  (156) <br/> | 156 |
+| 80. | [brijeshb42](https://github.com/brijeshb42)  | [medium-style-confirm](https://github.com/brijeshb42/medium-style-confirm)  (150) <br/> | 150 |
+| 81. | [rodrigobranas](https://github.com/rodrigobranas)  | [youtube](https://github.com/rodrigobranas/youtube)  (146) <br/> | 146 |
+| 82. | [lorenzofox3](https://github.com/lorenzofox3)  | [lrStickyHeader](https://github.com/lorenzofox3/lrStickyHeader)  (145) <br/> | 145 |
+| 83. | [MeCKodo](https://github.com/MeCKodo)  | [forchange](https://github.com/MeCKodo/forchange)  (144) <br/> | 144 |
+| 84. | [nicroto](https://github.com/nicroto)  | [viktor](https://github.com/nicroto/viktor)  (143) <br/> | 143 |
+| 85. | [hmngwy](https://github.com/hmngwy)  | [weblog.sh](https://github.com/hmngwy/weblog.sh)  (142) <br/> | 142 |
+| 86. | [whxaxes](https://github.com/whxaxes)  | [canvas-test](https://github.com/whxaxes/canvas-test)  (137) <br/> | 137 |
+| 87. | [Zhouzi](https://github.com/Zhouzi)  | [TheaterJS](https://github.com/Zhouzi/TheaterJS)  (2580) <br/>[reactivedesign](https://github.com/Zhouzi/reactivedesign)  (137) <br/> | 137 |
+| 88. | [txchen](https://github.com/txchen)  | [feplay](https://github.com/txchen/feplay)  (136) <br/> | 136 |
+| 89. | [SalGnt](https://github.com/SalGnt)  | [Travelogue](https://github.com/SalGnt/Travelogue)  (135) <br/> | 135 |
+| 90. | [Suxiaogang](https://github.com/Suxiaogang)  | [WeiboPicBed](https://github.com/Suxiaogang/WeiboPicBed)  (134) <br/> | 134 |
+| 91. | [mjockers](https://github.com/mjockers)  | [syuzhet](https://github.com/mjockers/syuzhet)  (132) <br/> | 132 |
+| 92. | [gaearon](https://github.com/gaearon)  | [redux-devtools](https://github.com/gaearon/redux-devtools)  (2493) <br/>[react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate)  (2229) <br/>[redux-thunk](https://github.com/gaearon/redux-thunk)  (719) <br/>[babel-plugin-react-transform](https://github.com/gaearon/babel-plugin-react-transform)  (631) <br/>[library-boilerplate](https://github.com/gaearon/library-boilerplate)  (315) <br/>[react-pure-render](https://github.com/gaearon/react-pure-render)  (289) <br/>[react-transform-hmr](https://github.com/gaearon/react-transform-hmr)  (287) <br/>[react-side-effect](https://github.com/gaearon/react-side-effect)  (265) <br/>[react-proxy](https://github.com/gaearon/react-proxy)  (200) <br/>[react-elmish-example](https://github.com/gaearon/react-elmish-example)  (131) <br/>[react-blessed-hot-motion](https://github.com/gaearon/react-blessed-hot-motion)  (126) <br/>[dnd-core](https://github.com/gaearon/dnd-core)  (118) <br/> | 131 |
+| 93. | [greenish](https://github.com/greenish)  | [react-mount](https://github.com/greenish/react-mount)  (128) <br/> | 128 |
+| 94. | [marlenesco](https://github.com/marlenesco)  | [material-cards](https://github.com/marlenesco/material-cards)  (127) <br/> | 127 |
+| 95. | [treffynnon](https://github.com/treffynnon)  | [sqlstyle.guide](https://github.com/treffynnon/sqlstyle.guide)  (125) <br/> | 125 |
+| 96. | [italia-it](https://github.com/italia-it)  | [designer.italia.it](https://github.com/italia-it/designer.italia.it)  (124) <br/> | 124 |
+| 97. | [plough](https://github.com/plough)  | [myCrawler](https://github.com/plough/myCrawler)  (123) <br/> | 123 |
+| 98. | [ashh640](https://github.com/ashh640)  | [Highway](https://github.com/ashh640/Highway)  (123) <br/> | 123 |
+| 99. | [akivaron](https://github.com/akivaron)  | [miminium](https://github.com/akivaron/miminium)  (123) <br/> | 123 |
+| 100. | [SimHacker](https://github.com/SimHacker)  | [micropolis](https://github.com/SimHacker/micropolis)  (120) <br/> | 120 |
+| 101. | [raphamorim](https://github.com/raphamorim)  | [write-code-every-day](https://github.com/raphamorim/write-code-every-day)  (117) <br/> | 117 |
+| 102. | [BarakChamo](https://github.com/BarakChamo)  | [ng-promise-status](https://github.com/BarakChamo/ng-promise-status)  (116) <br/> | 116 |
+| 103. | [tambetm](https://github.com/tambetm)  | [simple_dqn](https://github.com/tambetm/simple_dqn)  (114) <br/> | 114 |
+| 104. | [privacytoolsIO](https://github.com/privacytoolsIO)  | [privacytools.io](https://github.com/privacytoolsIO/privacytools.io)  (113) <br/> | 113 |
+| 105. | [browniefed](https://github.com/browniefed)  | [react-native-animation-book](https://github.com/browniefed/react-native-animation-book)  (113) <br/> | 113 |
+| 106. | [egoist](https://github.com/egoist)  | [data-tip.css](https://github.com/egoist/data-tip.css)  (111) <br/>[vuepack](https://github.com/egoist/vuepack)  (110) <br/> | 111 |
+| 107. | [imjustd](https://github.com/imjustd)  | [flexbox-playground](https://github.com/imjustd/flexbox-playground)  (110) <br/> | 110 |
+| 108. | [trestletech](https://github.com/trestletech)  | [plumber](https://github.com/trestletech/plumber)  (108) <br/> | 108 |
+| 109. | [ghinda](https://github.com/ghinda)  | [gridlayout](https://github.com/ghinda/gridlayout)  (106) <br/> | 106 |
+| 110. | [DanWahlin](https://github.com/DanWahlin)  | [Angular2-ES6-Starter](https://github.com/DanWahlin/Angular2-ES6-Starter)  (156) <br/>[AngularIn20TypeScript](https://github.com/DanWahlin/AngularIn20TypeScript)  (144) <br/>[Angular2-JumpStart](https://github.com/DanWahlin/Angular2-JumpStart)  (106) <br/> | 106 |
+| 111. | [tui2tone](https://github.com/tui2tone)  | [flat-admin-bootstrap-templates](https://github.com/tui2tone/flat-admin-bootstrap-templates)  (105) <br/> | 105 |
+| 112. | [PanosSakkos](https://github.com/PanosSakkos)  | [personal-jekyll-theme](https://github.com/PanosSakkos/personal-jekyll-theme)  (105) <br/> | 105 |
+| 113. | [rhiever](https://github.com/rhiever)  | [Data-Analysis-and-Machine...](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  (1979) <br/>[tpot](https://github.com/rhiever/tpot)  (455) <br/>[optimal-roadtrip-usa](https://github.com/rhiever/optimal-roadtrip-usa)  (103) <br/> | 103 |
+| 114. | [theus](https://github.com/theus)  | [chart.css](https://github.com/theus/chart.css)  (103) <br/> | 103 |
+| 115. | [daattali](https://github.com/daattali)  | [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)  (102) <br/> | 102 |
+| 116. | [johnpolacek](https://github.com/johnpolacek)  | [expressive-css](https://github.com/johnpolacek/expressive-css)  (101) <br/> | 101 |
+| 117. | [timqian](https://github.com/timqian)  | [js-code-structure](https://github.com/timqian/js-code-structure)  (101) <br/> | 101 |
+| 118. | [TheSos](https://github.com/TheSos)  | [allegrojs](https://github.com/TheSos/allegrojs)  (100) <br/> | 100 |
+| 119. | [rn10950](https://github.com/rn10950)  | [I-Dont-Want-Windows-10](https://github.com/rn10950/I-Dont-Want-Windows-10)  (100) <br/> | 100 |
+
+## Most-Starred Orgs: HTML
+
+| | Org | Repos | Stars |
+|---|---|---|---|
+| 1. | [google](https://github.com/google)  | [material-design-lite](https://github.com/google/material-design-lite)  (17165) <br/>[fonts](https://github.com/google/fonts)  (5512) <br/>[gxui](https://github.com/google/gxui)  (3432) <br/>[yapf](https://github.com/google/yapf)  (2926) <br/>[git-appraise](https://github.com/google/git-appraise)  (2761) <br/>[gson](https://github.com/google/gson)  (2697) <br/>[styleguide](https://github.com/google/styleguide)  (2543) <br/>[roboto](https://github.com/google/roboto)  (2110) <br/>[incremental-dom](https://github.com/google/incremental-dom)  (1723) <br/>[binnavi](https://github.com/google/binnavi)  (1422) <br/>[skflow](https://github.com/google/skflow)  (1386) <br/>[code-prettify](https://github.com/google/code-prettify)  (931) <br/>[enjarify](https://github.com/google/enjarify)  (931) <br/>[android-classyshark](https://github.com/google/android-classyshark)  (904) <br/>[mr4c](https://github.com/google/mr4c)  (760) <br/>[santa-tracker-android](https://github.com/google/santa-tracker-android)  (644) <br/>[codesearch](https://github.com/google/codesearch)  (488) <br/>[gcm](https://github.com/google/gcm)  (455) <br/>[gopacket](https://github.com/google/gopacket)  (445) <br/>[badwolf](https://github.com/google/badwolf)  (383) <br/>[keyczar](https://github.com/google/keyczar)  (377) <br/>[prettytensor](https://github.com/google/prettytensor)  (368) <br/>[google-http-java-client](https://github.com/google/google-http-java-client)  (334) <br/>[re2j](https://github.com/google/re2j)  (319) <br/>[google-java-format](https://github.com/google/google-java-format)  (260) <br/>[kati](https://github.com/google/kati)  (251) <br/>[FreeBuilder](https://github.com/google/FreeBuilder)  (233) <br/>[martian](https://github.com/google/martian)  (188) <br/>[caja](https://github.com/google/caja)  (180) <br/>[eslint-config-google](https://github.com/google/eslint-config-google)  (170) <br/>[android-gradle-dsl](https://github.com/google/android-gradle-dsl)  (163) <br/>[google-toolbox-for-mac](https://github.com/google/google-toolbox-for-mac)  (153) <br/>[spatial-media](https://github.com/google/spatial-media)  (146) <br/>[syzkaller](https://github.com/google/syzkaller)  (139) <br/>[google-api-java-client-samples](https://github.com/google/google-api-java-client-samples)  (132) <br/>[password-alert](https://github.com/google/password-alert)  (120) <br/>[ringdroid](https://github.com/google/ringdroid)  (118) <br/>[caliper](https://github.com/google/caliper)  (117) <br/>[cups-connector](https://github.com/google/cups-connector)  (117) <br/>[google-api-objectivec-client](https://github.com/google/google-api-objectivec-client)  (110) <br/> | 28457 |
+| 2. | [codeinthedark](https://github.com/codeinthedark)  | [editor](https://github.com/codeinthedark/editor)  (2127) <br/>[codeinthedark.github.io](https://github.com/codeinthedark/codeinthedark.github.io)  (111) <br/> | 2238 |
+| 3. | [PolymerElements](https://github.com/PolymerElements)  | [polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)  (1820) <br/>[app-layout-templates](https://github.com/PolymerElements/app-layout-templates)  (205) <br/> | 2025 |
+| 4. | [hackers-painters](https://github.com/hackers-painters)  | [samurai-native](https://github.com/hackers-painters/samurai-native)  (1850) <br/> | 1850 |
+| 5. | [Daemonite](https://github.com/Daemonite)  | [material](https://github.com/Daemonite/material)  (1228) <br/> | 1228 |
+| 6. | [icons8](https://github.com/icons8)  | [flat-color-icons](https://github.com/icons8/flat-color-icons)  (1222) <br/> | 1222 |
+| 7. | [codrops](https://github.com/codrops)  | [ElasticProgress](https://github.com/codrops/ElasticProgress)  (670) <br/>[ImageTiltEffect](https://github.com/codrops/ImageTiltEffect)  (359) <br/>[AnimatedGridLayout](https://github.com/codrops/AnimatedGridLayout)  (248) <br/>[InteractiveColoringConcept](https://github.com/codrops/InteractiveColoringConcept)  (207) <br/>[CreativeGooeyEffects](https://github.com/codrops/CreativeGooeyEffects)  (196) <br/>[MotionBlurEffect](https://github.com/codrops/MotionBlurEffect)  (159) <br/>[RainEffect](https://github.com/codrops/RainEffect)  (109) <br/> | 1169 |
+| 8. | [illacceptanything](https://github.com/illacceptanything)  | [illacceptanything](https://github.com/illacceptanything/illacceptanything)  (1165) <br/> | 1165 |
+| 9. | [AngularClass](https://github.com/AngularClass)  | [angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter)  (1176) <br/>[awesome-angular2](https://github.com/AngularClass/awesome-angular2)  (810) <br/>[NG6-starter](https://github.com/AngularClass/NG6-starter)  (524) <br/> | 810 |
+| 10. | [linkedin](https://github.com/linkedin)  | [qark](https://github.com/linkedin/qark)  (787) <br/>[PalDB](https://github.com/linkedin/PalDB)  (548) <br/>[FeatureFu](https://github.com/linkedin/FeatureFu)  (471) <br/>[JTune](https://github.com/linkedin/JTune)  (190) <br/>[Burrow](https://github.com/linkedin/Burrow)  (189) <br/>[Spyglass](https://github.com/linkedin/Spyglass)  (114) <br/> | 787 |
+| 11. | [kimlabs](https://github.com/kimlabs)  | [gentelella](https://github.com/kimlabs/gentelella)  (781) <br/> | 781 |
+| 12. | [unisonweb](https://github.com/unisonweb)  | [platform](https://github.com/unisonweb/platform)  (724) <br/> | 724 |
+| 13. | [cs231n](https://github.com/cs231n)  | [cs231n.github.io](https://github.com/cs231n/cs231n.github.io)  (548) <br/> | 548 |
+| 14. | [Microsoft](https://github.com/Microsoft)  | [Windows-universal-samples](https://github.com/Microsoft/Windows-universal-samples)  (2156) <br/>[ProjectOxford-ClientSDK](https://github.com/Microsoft/ProjectOxford-ClientSDK)  (382) <br/>[JSanity](https://github.com/Microsoft/JSanity)  (221) <br/>[TypeScript-Handbook](https://github.com/Microsoft/TypeScript-Handbook)  (190) <br/>[vscode-docs](https://github.com/Microsoft/vscode-docs)  (173) <br/>[HealthClinic.biz](https://github.com/Microsoft/HealthClinic.biz)  (164) <br/>[cordova-samples](https://github.com/Microsoft/cordova-samples)  (163) <br/>[vsminecraft](https://github.com/Microsoft/vsminecraft)  (162) <br/> | 545 |
+| 15. | [PeerJ](https://github.com/PeerJ)  | [paper-now](https://github.com/PeerJ/paper-now)  (530) <br/> | 530 |
+| 16. | [auth0](https://github.com/auth0)  | [sharelock](https://github.com/auth0/sharelock)  (520) <br/>[react-flux-jwt-authentication-sample](https://github.com/auth0/react-flux-jwt-authentication-sample)  (385) <br/>[angular2-the-new-horizon-sample](https://github.com/auth0/angular2-the-new-horizon-sample)  (168) <br/>[nodejs-jwt-authentication-sample](https://github.com/auth0/nodejs-jwt-authentication-sample)  (101) <br/> | 520 |
+| 17. | [AndroidStudyGroup](https://github.com/AndroidStudyGroup)  | [conferences](https://github.com/AndroidStudyGroup/conferences)  (505) <br/> | 505 |
+| 18. | [start-angular](https://github.com/start-angular)  | [sb-admin-angular](https://github.com/start-angular/sb-admin-angular)  (476) <br/> | 476 |
+| 19. | [720kb](https://github.com/720kb)  | [highlighter.js](https://github.com/720kb/highlighter.js)  (314) <br/>[angular-fx](https://github.com/720kb/angular-fx)  (154) <br/> | 468 |
+| 20. | [Aerolab](https://github.com/Aerolab)  | [blockrain.js](https://github.com/Aerolab/blockrain.js)  (460) <br/>[readremaining.js](https://github.com/Aerolab/readremaining.js)  (449) <br/> | 449 |
+| 21. | [TeamStuQ](https://github.com/TeamStuQ)  | [skill-map](https://github.com/TeamStuQ/skill-map)  (412) <br/> | 412 |
+| 22. | [addfor](https://github.com/addfor)  | [tutorials](https://github.com/addfor/tutorials)  (337) <br/> | 337 |
+| 23. | [newsdev](https://github.com/newsdev)  | [ai2html](https://github.com/newsdev/ai2html)  (333) <br/> | 333 |
+| 24. | [SmingHub](https://github.com/SmingHub)  | [Sming](https://github.com/SmingHub/Sming)  (332) <br/> | 332 |
+| 25. | [e-government-ua](https://github.com/e-government-ua)  | [i](https://github.com/e-government-ua/i)  (285) <br/> | 285 |
+| 26. | [theiterators](https://github.com/theiterators)  | [akka-http-microservice](https://github.com/theiterators/akka-http-micr
