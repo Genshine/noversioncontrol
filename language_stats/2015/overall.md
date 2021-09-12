@@ -335,4 +335,156 @@
 | 329. | [franzejr/best-ruby](https://github.com/franzejr/best-ruby) <br/>Ruby Tricks, Idiomatic Ruby, Refactorings and Best... | 1712 |
 | 330. | [baidu-ife/ife](https://github.com/baidu-ife/ife) <br/>Baidu Institute of Front－End Technology | 1711 |
 | 331. | [bendc/animateplus](https://github.com/bendc/animateplus) <br/>CSS and SVG animation library | 1707 |
-| 332. | [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/mat
+| 332. | [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) <br/>JetBrains theme of Material Theme | 1707 |
+| 333. | [Yalantis/Persei](https://github.com/Yalantis/Persei) <br/>Animated top menu for UITableView / UICollectionVi... | 1707 |
+| 334. | [muicss/mui](https://github.com/muicss/mui) <br/>Lightweight CSS framework | 1695 |
+| 335. | [casesandberg/react-color](https://github.com/casesandberg/react-color) <br/>:art: Color Pickers from Sketch, Photoshop, Chrome... | 1690 |
+| 336. | [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) <br/>Transparently tunnel your IP traffic through ICMP... | 1681 |
+| 337. | [facebook/mention-bot](https://github.com/facebook/mention-bot) <br/>Automatically mention potential reviewers on pull... | 1680 |
+| 338. | [rackt/react-redux](https://github.com/rackt/react-redux) <br/>Official React bindings for Redux | 1678 |
+| 339. | [ephread/Instructions](https://github.com/ephread/Instructions) <br/>Create walkthroughs and guided tours (using coach... | 1675 |
+| 340. | [yahoo/gryffin](https://github.com/yahoo/gryffin) <br/>Gryffin is a large scale web security scanning pla... | 1665 |
+| 341. | [ParsePlatform/Parse-SDK-iOS-OSX](https://github.com/ParsePlatform/Parse-SDK-iOS-OSX) <br/>Parse SDK for iOS/OS X | 1664 |
+| 342. | [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) <br/>A simple, lightweight JavaScript API for handling... | 1661 |
+| 343. | [JakeWharton/RxBinding](https://github.com/JakeWharton/RxBinding) <br/>RxJava binding APIs for Android's UI widgets. | 1656 |
+| 344. | [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) <br/>The ProseMirror WYSIWYM editor | 1648 |
+| 345. | [bevacqua/fuzzysearch](https://github.com/bevacqua/fuzzysearch) <br/>:crystal_ball: Tiny and blazing-fast fuzzy search... | 1647 |
+| 346. | [SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader) <br/>一款基于Google Material Design设计开发的Androi... | 1644 |
+| 347. | [Yalantis/Koloda](https://github.com/Yalantis/Koloda) <br/>KolodaView is a class designed to simplify the imp... | 1644 |
+| 348. | [davezuko/react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit) <br/>Get started with React, Redux, and React-Router! | 1642 |
+| 349. | [Yalantis/Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS) <br/>This project aims to provide a simple and customiz... | 1639 |
+| 350. | [lapwinglabs/x-ray](https://github.com/lapwinglabs/x-ray) <br/>The next web scraper. See through the html noise... | 1637 |
+| 351. | [AndrewBelt/hack.chat](https://github.com/AndrewBelt/hack.chat) <br/>a minimal, distraction-free chat application | 1636 |
+| 352. | [NeXTs/Jets.js](https://github.com/NeXTs/Jets.js) <br/>Native CSS search engine | 1634 |
+| 353. | [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) <br/>A curated list of awesome Amazon Web Services (AWS... | 1630 |
+| 354. | [szhu/3030](https://github.com/szhu/3030) <br/>%%30%30 Game: Don't touch the trees! (Thanks, Chro... | 1622 |
+| 355. | [airbnb/airflow](https://github.com/airbnb/airflow) <br/>Airflow is a system to programmatically author, sc... | 1611 |
+| 356. | [JulienGenoud/android-percent-support-lib-sample](https://github.com/JulienGenoud/android-percent-support-lib-sample) <br/>Just a sample of the android percent support lib | 1606 |
+| 357. | [Netflix/vector](https://github.com/Netflix/vector) <br/>Vector is an on-host performance monitoring framew... | 1603 |
+| 358. | [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) <br/>:moneybag: 微信抢红包插件, 帮助你在微信群聊抢红包时战无... | 1599 |
+| 359. | [Flipboard/bottomsheet](https://github.com/Flipboard/bottomsheet) <br/>Android component which presents a dismissible vie... | 1593 |
+| 360. | [hmlb/phpunit-vw](https://github.com/hmlb/phpunit-vw) <br/>VW PHPUnit extension makes your failing test cases... | 1587 |
+| 361. | [oarrabi/OAStackView](https://github.com/oarrabi/OAStackView) <br/>Porting UIStackView to iOS 7+ | 1586 |
+| 362. | [android-cn/android-discuss](https://github.com/android-cn/android-discuss) <br/>Android 问题交流讨论坛, 微信公众号:codekk, 网站: | 1586 |
+| 363. | [javierbyte/img2css](https://github.com/javierbyte/img2css) <br/>Convert any image to pure CSS. | 1583 |
+| 364. | [OpenLiveWriter/OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) <br/>An open source fork of Windows Live Writer | 1581 |
+| 365. | [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) <br/>Mac OS X development environment setup reference:... | 1580 |
+| 366. | [kasketis/netfox](https://github.com/kasketis/netfox) <br/>A lightweight, one line setup, iOS network debuggi... | 1577 |
+| 367. | [jonathanslenders/pyvim](https://github.com/jonathanslenders/pyvim) <br/>Pure Python Vim clone. | 1574 |
+| 368. | [saulmm/Material-Movies](https://github.com/saulmm/Material-Movies) <br/>An application about movies with material design | 1571 |
+| 369. | [icanzilb/EasyAnimation](https://github.com/icanzilb/EasyAnimation) <br/>A Swift library to take the power of UIView.animat... | 1570 |
+| 370. | [stonesam92/ChitChat](https://github.com/stonesam92/ChitChat) <br/>A native Mac app wrapper for WhatsApp Web | 1568 |
+| 371. | [google/eddystone](https://github.com/google/eddystone) <br/>Specification for Eddystone, an open beacon format... | 1562 |
+| 372. | [Yalantis/Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) <br/>Animated side menu with customizable UI | 1559 |
+| 373. | [mapsme/omim](https://github.com/mapsme/omim) <br/>MAPS.ME - Offline OpenStreetMap maps for iOS/Andro... | 1558 |
+| 374. | [hongyangAndroid/AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) <br/>Android屏幕适配方案，直接填写设计图上的像素尺寸即... | 1557 |
+| 375. | [henriquea/minigrid](https://github.com/henriquea/minigrid) <br/>Minimal 2kb zero dependency cascading grid layout | 1548 |
+| 376. | [iSimar/HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) <br/>Hacker News iOS and Android App - Made with React... | 1537 |
+| 377. | [s-a/iron-node](https://github.com/s-a/iron-node) <br/>Debug Node.js code with Chrome Developer Tools. | 1534 |
+| 378. | [remind101/empire](https://github.com/remind101/empire) <br/>A PaaS built on top of Amazon EC2 Container Servic... | 1530 |
+| 379. | [jagenjo/webglstudio.js](https://github.com/jagenjo/webglstudio.js) <br/>A full 3D graphics editor in the browser, with sce... | 1529 |
+| 380. | [xirong/my-git](https://github.com/xirong/my-git) <br/>个人学习git的资料整理，欢迎关注…… | 1526 |
+| 381. | [awslabs/aws-shell](https://github.com/awslabs/aws-shell) <br/>An integrated shell for working with the AWS CLI. | 1523 |
+| 382. | [code-mc/material-icon-lib](https://github.com/code-mc/material-icon-lib) <br/>Library containing over 1000 material vector icons... | 1521 |
+| 383. | [gernest/utron](https://github.com/gernest/utron) <br/>A lightweight MVC framework for Go(Golang) | 1517 |
+| 384. | [Famous/engine](https://github.com/Famous/engine)  | 1515 |
+| 385. | [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB) <br/>Free database of geographic place names and corres... | 1515 |
+| 386. | [bitshadow/iconate](https://github.com/bitshadow/iconate) <br/>Transform your icons with trendy animations. | 1512 |
+| 387. | [Yalantis/GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) <br/>Neat library, that provides a simple way to implem... | 1504 |
+| 388. | [cparnot/ASCIImage](https://github.com/cparnot/ASCIImage) <br/>Create UIImage / NSImage instances with NSString a... | 1500 |
+| 389. | [documentationjs/documentation](https://github.com/documentationjs/documentation) <br/>beautiful, flexible, powerful js docs | 1499 |
+| 390. | [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) <br/>Credentials recovery project | 1495 |
+| 391. | [RickWong/react-isomorphic-starterkit](https://github.com/RickWong/react-isomorphic-starterkit) <br/>Create an isomorphic React app in less than 5 minu... | 1493 |
+| 392. | [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) <br/>The Foundation Project, providing core utilities,... | 1492 |
+| 393. | [MengTo/DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) <br/>Build a Swift App as a designer | 1489 |
+| 394. | [matt-curtis/Fluid-for-Sketch](https://github.com/matt-curtis/Fluid-for-Sketch) <br/>(Sketch Plugin) Sketch-flavored Auto Layout-like C... | 1487 |
+| 395. | [forkingdog/FDStackView](https://github.com/forkingdog/FDStackView) <br/>Use UIStackView directly in iOS6+ | 1485 |
+| 396. | [dasdom/BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) <br/>Play BreakOut while loading - A playable pull to r... | 1481 |
+| 397. | [box/t3js](https://github.com/box/t3js) <br/>A minimal component-based JavaScript framework | 1475 |
+| 398. | [zxh0/jvm.go](https://github.com/zxh0/jvm.go) <br/>A JVM written in Go | 1468 |
+| 399. | [100apps/openshare](https://github.com/100apps/openshare) <br/>不用官方SDK，利用社交软件移动客户端(微信/QQ/... | 1467 |
+| 400. | [AliSoftware/SwiftGen](https://github.com/AliSoftware/SwiftGen) <br/>A collection of Swift tools to generate Swift code... | 1463 |
+| 401. | [valyala/fasthttp](https://github.com/valyala/fasthttp) <br/>Fast HTTP package for Go. Tuned for high performan... | 1462 |
+| 402. | [square/Valet](https://github.com/square/Valet) <br/>Valet lets you securely store data in the iOS or O... | 1459 |
+| 403. | [ivacf/archi](https://github.com/ivacf/archi) <br/>Repository that showcases 3 Android app architectu... | 1458 |
+| 404. | [graphific/DeepDreamVideo](https://github.com/graphific/DeepDreamVideo) <br/>implementing deep dream on video | 1455 |
+| 405. | [kaishengtai/neuralart](https://github.com/kaishengtai/neuralart) <br/>An implementation of the paper 'A Neural Algorithm... | 1455 |
+| 406. | [ptmt/react-native-desktop](https://github.com/ptmt/react-native-desktop) <br/>React Native for OS X | 1447 |
+| 407. | [gontovnik/DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) <br/>Elastic pull to refresh for iOS developed in Swift | 1447 |
+| 408. | [jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) <br/>Java资源大全中文版，包括开发库、开发工具、网站... | 1446 |
+| 409. | [davidlazar/vuvuzela](https://github.com/davidlazar/vuvuzela) <br/>Private messaging system that hides metadata | 1441 |
+| 410. | [schwa/Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices) <br/>Best practices for software development with Swift | 1440 |
+| 411. | [addyosmani/es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5) <br/>WIP - ES6 Equivalents In ES5 | 1434 |
+| 412. | [hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView) <br/>Animation effects to TextView | 1431 |
+| 413. | [koekeishiya/kwm](https://github.com/koekeishiya/kwm) <br/>Tiling window manager with focus follows mouse for... | 1428 |
+| 414. | [luin/ioredis](https://github.com/luin/ioredis) <br/>A robust, performance-focused and full-featured Re... | 1427 |
+| 415. | [eBay/fabio](https://github.com/eBay/fabio) <br/>A fast, modern, zero-conf load balancing HTTP(S) r... | 1427 |
+| 416. | [google/binnavi](https://github.com/google/binnavi) <br/>BinNavi is a binary analysis IDE that allows to in... | 1422 |
+| 417. | [okor/justice](https://github.com/okor/justice) <br/>Embeddable script for displaying web page performa... | 1417 |
+| 418. | [hrescak/Sketch-Flex-Layout](https://github.com/hrescak/Sketch-Flex-Layout) <br/>Plugin for Sketch allowing for CSS Flexbox layouts... | 1410 |
+| 419. | [LeaVerou/bliss](https://github.com/LeaVerou/bliss) <br/>Blissful JavaScript | 1407 |
+| 420. | [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) <br/>RichEditor for Android is a beautiful Rich Text WY... | 1407 |
+| 421. | [bucaran/fly](https://github.com/bucaran/fly) <br/>New Generation Build System | 1402 |
+| 422. | [pusher/atom-pair](https://github.com/pusher/atom-pair) <br/>An Atom package that allows for epic pair programm... | 1395 |
+| 423. | [badoo/Chatto](https://github.com/badoo/Chatto) <br/>A lightweight framework to build chat applications... | 1395 |
+| 424. | [Xyl2k/TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys) <br/>3D reproduction of TSA Master keys | 1395 |
+| 425. | [Draveness/DKNightVersion](https://github.com/Draveness/DKNightVersion) <br/>:full_moon: Integrate night mode/theme to your iOS... | 1391 |
+| 426. | [gopatrik/space.js](https://github.com/gopatrik/space.js) <br/> A HTML-driven JavaScript-library for narrative 3D... | 1389 |
+| 427. | [google/skflow](https://github.com/google/skflow) <br/>Simplified interface for TensorFlow (mimicking Sci... | 1386 |
+| 428. | [staltz/flux-challenge](https://github.com/staltz/flux-challenge) <br/>A frontend challenge to test UI architectures and... | 1384 |
+| 429. | [worker8/TourGuide](https://github.com/worker8/TourGuide) <br/>TourGuide is an Android library that aims to provi... | 1383 |
+| 430. | [pedrovgs/AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) <br/>IntelliJ/AndroidStudio plugin which provides a but... | 1381 |
+| 431. | [breakwa11/shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss) <br/>ShadowsocksR update rss | 1381 |
+| 432. | [fraser-hemp/gradify](https://github.com/fraser-hemp/gradify) <br/>CSS gradient placeholders | 1380 |
+| 433. | [CosmicMind/MaterialKit](https://github.com/CosmicMind/MaterialKit) <br/>A beautiful Material Design framework in Swift. | 1380 |
+| 434. | [flike/kingshard](https://github.com/flike/kingshard) <br/>A high performance proxy for MySQL powered by Go | 1380 |
+| 435. | [lightningtgc/MProgress.js](https://github.com/lightningtgc/MProgress.js) <br/>Material Progress —Google Material Design Progress... | 1379 |
+| 436. | [Juude/awesome-android-performance](https://github.com/Juude/awesome-android-performance) <br/>Android performance optimization  tutorials, video... | 1379 |
+| 437. | [evancz/elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) <br/>How to create modular Elm code that scales nicely... | 1376 |
+| 438. | [constabulary/gb](https://github.com/constabulary/gb) <br/>gb, the project based build tool for Go | 1375 |
+| 439. | [chinchang/cta.js](https://github.com/chinchang/cta.js) <br/>Animate your 'action-to-effect' paths | 1374 |
+| 440. | [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) <br/>A curated list of resources for learning about app... | 1373 |
+| 441. | [elevenetc/TextSurface](https://github.com/elevenetc/TextSurface) <br/>A little animation framework which could help you... | 1370 |
+| 442. | [andreamazz/BubbleTransition](https://github.com/andreamazz/BubbleTransition) <br/>A custom modal transition that presents and dismis... | 1370 |
+| 443. | [sindresorhus/speed-test](https://github.com/sindresorhus/speed-test) <br/>Test your internet connection speed and ping using... | 1369 |
+| 444. | [acdlite/redux-router](https://github.com/acdlite/redux-router) <br/>Redux bindings for React Router – keep your router... | 1369 |
+| 445. | [dsxNiubility/SXNews](https://github.com/dsxNiubility/SXNews) <br/>High imitation Neteasy News. (include list,detail,... | 1367 |
+| 446. | [wasabeef/Blurry](https://github.com/wasabeef/Blurry) <br/>Blurry is an easy blur library for Android | 1363 |
+| 447. | [h6ah4i/android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) <br/>RecyclerView extension library which provides adva... | 1362 |
+| 448. | [motianhuo/wechat](https://github.com/motianhuo/wechat) <br/>A High Copy WeChat ,SNS APP (高仿微信) | 1358 |
+| 449. | [rapidloop/rtop](https://github.com/rapidloop/rtop) <br/>rtop is an interactive, remote system monitoring t... | 1358 |
+| 450. | [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) <br/>OCD's Guide to Setting up Mac | 1358 |
+| 451. | [Z3Prover/z3](https://github.com/Z3Prover/z3) <br/>The Z3 Theorem Prover | 1356 |
+| 452. | [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) <br/>Simple tutorials using Google's TensorFlow Framewo... | 1354 |
+| 453. | [Draveness/DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) <br/>:star: Chainable animations in Swift | 1347 |
+| 454. | [princejwesley/Mancy](https://github.com/princejwesley/Mancy) <br/>_ Electron based NodeJS REPL :see_no_evil: | 1330 |
+| 455. | [orhanobut/hawk](https://github.com/orhanobut/hawk) <br/>Secure Simple Key-Value Storage for Android | 1330 |
+| 456. | [DeskConnect/SBShortcutMenuSimulator](https://github.com/DeskConnect/SBShortcutMenuSimulator) <br/>3D Touch shortcuts in the Simulator | 1330 |
+| 457. | [brennerm/PyTricks](https://github.com/brennerm/PyTricks) <br/>Collection of less popular features and tricks for... | 1328 |
+| 458. | [tdenniston/bish](https://github.com/tdenniston/bish) <br/>Bish is a language that compiles to Bash. It's des... | 1327 |
+| 459. | [commercialhaskell/stack](https://github.com/commercialhaskell/stack) <br/>The Haskell Tool Stack | 1326 |
+| 460. | [olistic/warriorjs](https://github.com/olistic/warriorjs) <br/>Game written in JavaScript for learning JavaScript... | 1322 |
+| 461. | [mmin18/LayoutCast](https://github.com/mmin18/LayoutCast) <br/>Cast android code and resource changes to the runn... | 1321 |
+| 462. | [heroku/react-refetch](https://github.com/heroku/react-refetch) <br/>A simple, declarative, and composable way to fetch... | 1317 |
+| 463. | [CharlieHess/slack-poker-bot](https://github.com/CharlieHess/slack-poker-bot) <br/>A bot that deals Texas Hold'em games in Slack | 1315 |
+| 464. | [IFTTT/FastttCamera](https://github.com/IFTTT/FastttCamera) <br/>Fasttt and easy camera framework for iOS with cust... | 1312 |
+| 465. | [emilevauge/traefik](https://github.com/emilevauge/traefik) <br/>Træfɪk, a modern reverse proxy | 1311 |
+| 466. | [motemen/gore](https://github.com/motemen/gore) <br/>  Yet another Go REPL that works nicely. Featured... | 1308 |
+| 467. | [ryanmjacobs/c](https://github.com/ryanmjacobs/c) <br/>Compile and execute C "scripts" in one go! | 1307 |
+| 468. | [mroth/unindexed](https://github.com/mroth/unindexed) <br/>:mag_right::grey_question: website that irrevocabl... | 1301 |
+| 469. | [tadast/switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk) <br/>A step by step guide of how to start contracting i... | 1298 |
+| 470. | [Microsoft/DMTK](https://github.com/Microsoft/DMTK) <br/>Microsoft Distributed Machine Learning Toolkit | 1297 |
+| 471. | [gontovnik/DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch) <br/>Runkeeper design switch control (two part segment... | 1294 |
+| 472. | [qw3rtman/gg](https://github.com/qw3rtman/gg) <br/>:candy: Git Goodies: At-A-Glance, Efficient, and A... | 1293 |
+| 473. | [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) <br/>Win32 port of OpenSSH | 1292 |
+| 474. | [jingweno/ccat](https://github.com/jingweno/ccat) <br/>Colorizing `cat` | 1287 |
+| 475. | [ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) <br/>最低只需传两个数组即可完成主流App框架搭建 | 1286 |
+| 476. | [overtrue/wechat](https://github.com/overtrue/wechat) <br/>可能是目前最优雅的微信公众平台 SDK 了 | 1286 |
+| 477. | [udacity/Sunshine-Version-2](https://github.com/udacity/Sunshine-Version-2) <br/>The official repository for Developing Android App... | 1285 |
+| 478. | [kabukky/journey](https://github.com/kabukky/journey) <br/>A blog engine written in Go, compatible with Ghost... | 1281 |
+| 479. | [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) <br/>A curated list of awesome Deep Learning tutorials,... | 1275 |
+| 480. | [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) <br/>« usbkill » is an anti-forensic kill-switch that w... | 1273 |
+| 481. | [mohebifar/lebab](https://github.com/mohebifar/lebab) <br/>Turn your ES5 code into readable ES6. It does the... | 1272 |
+| 482. | [rackt/redux-simple-router](https://github.com/rackt/redux-simple-router) <br/>Ruthlessly simple bindings to keep react-router an... | 1271 |
+| 483. | [hugeinc/styleguide](https://github.com/hugeinc/styleguide) <br/>A tool to make creating and maintaining style guid... | 1270 |
+| 484. | [tianzhijiexian/Android-Best-Practices](https://github.com/tianzhijiexian
