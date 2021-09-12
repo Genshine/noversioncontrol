@@ -181,4 +181,158 @@
 | 175. | [timjacobi/angular2-education](https://github.com/timjacobi/angular2-education) <br/>A curated list of helpful material to get started... | 2603 |
 | 176. | [donnemartin/saws](https://github.com/donnemartin/saws) <br/>A supercharged AWS command line interface (CLI). ... | 2590 |
 | 177. | [Zhouzi/TheaterJS](https://github.com/Zhouzi/TheaterJS) <br/>Typing effect mimicking human behavior. | 2580 |
-| 178. | [mofarrell/p2pvc](https://github.com/mofarrell/p2pvc) <br/>A point to point color terminal video 
+| 178. | [mofarrell/p2pvc](https://github.com/mofarrell/p2pvc) <br/>A point to point color terminal video chat. | 2565 |
+| 179. | [dularion/streama](https://github.com/dularion/streama) <br/>It's like Netflix, but self-hosted! http://dulario... | 2557 |
+| 180. | [shipitjs/shipit](https://github.com/shipitjs/shipit) <br/>Universal automation and deployment tool written i... | 2551 |
+| 181. | [google/styleguide](https://github.com/google/styleguide) <br/>Style guides for Google-originated open-source pro... | 2543 |
+| 182. | [react-toolbox/react-toolbox](https://github.com/react-toolbox/react-toolbox) <br/>A set of React components implementing Google's Ma... | 2522 |
+| 183. | [gilbarbara/logos](https://github.com/gilbarbara/logos) <br/>A huge collection of SVG logos | 2522 |
+| 184. | [pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) <br/>Open-Source Android Apps | 2501 |
+| 185. | [gaearon/redux-devtools](https://github.com/gaearon/redux-devtools) <br/>DevTools for Redux with hot reloading, action repl... | 2493 |
+| 186. | [FormidableLabs/radium](https://github.com/FormidableLabs/radium) <br/>A toolchain for React component styling. | 2490 |
+| 187. | [dropbox/hackpad](https://github.com/dropbox/hackpad) <br/>Hackpad is a web-based realtime wiki. | 2485 |
+| 188. | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) <br/>Reactive Programming in Swift | 2476 |
+| 189. | [Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) <br/>Side menu with some categories to choose. | 2468 |
+| 190. | [01org/acat](https://github.com/01org/acat) <br/>Assistive Context-Aware Toolkit | 2463 |
+| 191. | [BloombergMedia/whatiscode](https://github.com/BloombergMedia/whatiscode) <br/>Paul Ford’s “What Is Code?” | 2460 |
+| 192. | [PixelsCommander/HTML-GL](https://github.com/PixelsCommander/HTML-GL) <br/>Get as many FPS as you need and amazing effects by... | 2446 |
+| 193. | [gliderlabs/docker-alpine](https://github.com/gliderlabs/docker-alpine) <br/>Alpine Linux Docker image. Win at minimalism! | 2440 |
+| 194. | [arkency/reactjs_koans](https://github.com/arkency/reactjs_koans) <br/>Learn basics of React.js making the tests pass | 2438 |
+| 195. | [steeve/france.code-civil](https://github.com/steeve/france.code-civil) <br/>Le code civil français sous git | 2431 |
+| 196. | [ipselon/structor](https://github.com/ipselon/structor) <br/>User interface builder for React | 2425 |
+| 197. | [Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin) <br/>A plugin framework on android,Run any third-party... | 2416 |
+| 198. | [Microsoft/msbuild](https://github.com/Microsoft/msbuild) <br/>The Microsoft Build Engine (MSBuild) is the build... | 2415 |
+| 199. | [cymcsg/UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) <br/>A RecyclerView(advanced and flexible version of Li... | 2412 |
+| 200. | [twitter/diffy](https://github.com/twitter/diffy) <br/>Find potential bugs in your services with Diffy | 2398 |
+| 201. | [ltebean/LTNavigationBar](https://github.com/ltebean/LTNavigationBar) <br/>UINavigationBar Category which allows you to chang... | 2394 |
+| 202. | [opencontainers/runc](https://github.com/opencontainers/runc) <br/>runc container cli tools | 2387 |
+| 203. | [horst3180/Arc-theme](https://github.com/horst3180/Arc-theme) <br/>A flat theme with transparent elements | 2383 |
+| 204. | [michaeldfallen/git-radar](https://github.com/michaeldfallen/git-radar) <br/>A heads up display for git | 2379 |
+| 205. | [tholman/github-corners](https://github.com/tholman/github-corners) <br/>"Fork me on GitHub" ribbons are 7 years old. This... | 2376 |
+| 206. | [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) <br/>Modular visual interface for GDB in Python | 2365 |
+| 207. | [karpathy/char-rnn](https://github.com/karpathy/char-rnn) <br/>Multi-layer Recurrent Neural Networks (LSTM, GRU,... | 2363 |
+| 208. | [yhat/rodeo](https://github.com/yhat/rodeo) <br/>A data science IDE for Python | 2355 |
+| 209. | [dbcli/mycli](https://github.com/dbcli/mycli) <br/>A Terminal Client for MySQL with AutoCompletion an... | 2355 |
+| 210. | [css-modules/css-modules](https://github.com/css-modules/css-modules) <br/>Documentation about css-modules | 2354 |
+| 211. | [airbnb/enzyme](https://github.com/airbnb/enzyme) <br/>JavaScript Testing utilities for React | 2335 |
+| 212. | [ninjaprox/NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) <br/>Collection of nice loading animations | 2331 |
+| 213. | [chjj/ttystudio](https://github.com/chjj/ttystudio) <br/>A terminal-to-gif recorder minus the headaches. | 2325 |
+| 214. | [X140Yu/Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift) <br/>Stanford 公开课，Developing iOS 8 Apps with Swift... | 2322 |
+| 215. | [10se1ucgo/DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) <br/>Uses some known methods that attempt to disable tr... | 2315 |
+| 216. | [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) <br/>An "awesome" type curated list of React Native com... | 2312 |
+| 217. | [orhanobut/logger](https://github.com/orhanobut/logger) <br/>Simple, pretty and powerful logger for android | 2299 |
+| 218. | [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) <br/>Notepad++ official repository | 2269 |
+| 219. | [mxstbr/react-boilerplate](https://github.com/mxstbr/react-boilerplate) <br/>:fire: Quick setup for performance orientated, off... | 2253 |
+| 220. | [alibaba/AndFix](https://github.com/alibaba/AndFix) <br/>AndFix is a library that offer hot-fix for Android... | 2252 |
+| 221. | [jessicard/remote-jobs](https://github.com/jessicard/remote-jobs) <br/>A list of semi to fully remote-friendly companies... | 2252 |
+| 222. | [apple/swift-evolution](https://github.com/apple/swift-evolution) <br/>This maintains proposals for changes and user-visi... | 2249 |
+| 223. | [mogujie/TeamTalk](https://github.com/mogujie/TeamTalk) <br/>TeamTalk is a solution for enterprise IM | 2230 |
+| 224. | [gaearon/react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate) <br/>A new Webpack boilerplate with hot reloading React... | 2229 |
+| 225. | [xmartlabs/Eureka](https://github.com/xmartlabs/Eureka) <br/>Elegant iOS form builder in Swift 2 | 2219 |
+| 226. | [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) <br/>A curated list of data science blogs | 2214 |
+| 227. | [Jam3/math-as-code](https://github.com/Jam3/math-as-code) <br/>a cheat-sheet for mathematical notation in code fo... | 2198 |
+| 228. | [clef/handbook](https://github.com/clef/handbook) <br/>An employee handbook built for inclusion | 2194 |
+| 229. | [alibaba/dexposed](https://github.com/alibaba/dexposed) <br/>dexposed enable 'god' mode for single android appl... | 2192 |
+| 230. | [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) <br/>iOS面试题集锦（附答案）--学习交流群458884057 | 2183 |
+| 231. | [jhurray/JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) <br/>Easy to read and write chainable animations in Obj... | 2182 |
+| 232. | [peterramsing/lost](https://github.com/peterramsing/lost) <br/>PostCSS fractional grid system built with calc() b... | 2180 |
+| 233. | [actorapp/actor-platform](https://github.com/actorapp/actor-platform) <br/>Actor Messaging platform | 2179 |
+| 234. | [Khan/tota11y](https://github.com/Khan/tota11y) <br/>an accessibility (a11y) visualization toolkit | 2177 |
+| 235. | [h2non/toxy](https://github.com/h2non/toxy) <br/>Hackable HTTP proxy to simulate server failure sce... | 2171 |
+| 236. | [facebook/graphql](https://github.com/facebook/graphql) <br/>GraphQL is a query language and execution engine t... | 2165 |
+| 237. | [HubPress/hubpress.io](https://github.com/HubPress/hubpress.io) <br/>A web application to build your blog on GitHub | 2163 |
+| 238. | [Microsoft/Windows-universal-samples](https://github.com/Microsoft/Windows-universal-samples) <br/>This repo contains the samples that demonstrate th... | 2156 |
+| 239. | [bryankeller/BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) <br/>Create condensing header bars like those seen in t... | 2147 |
+| 240. | [Yalantis/FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) <br/>Folding Tab Bar and Tab Bar Controller | 2145 |
+| 241. | [dmlc/mxnet](https://github.com/dmlc/mxnet) <br/>Lightweight, Portable, Flexible Distributed/Mobile... | 2134 |
+| 242. | [codeinthedark/editor](https://github.com/codeinthedark/editor) <br/>The official Code in the Dark editor | 2127 |
+| 243. | [JoelBesada/activate-power-mode](https://github.com/JoelBesada/activate-power-mode) <br/>Atom package - Activate POWER MODE to write your c... | 2127 |
+| 244. | [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) <br/>Mobile, desktop and website Apps with the same cod... | 2124 |
+| 245. | [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) <br/>Continually updated interactive, test-driven Pytho... | 2120 |
+| 246. | [karan/joe](https://github.com/karan/joe) <br/>:running: A .gitignore magician in your command li... | 2118 |
+| 247. | [raulriera/TextFieldEffects](https://github.com/raulriera/TextFieldEffects) <br/>Custom UITextFields effects inspired by Codrops, b... | 2112 |
+| 248. | [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) <br/>A custom ViewPager title strip which gives continu... | 2111 |
+| 249. | [google/roboto](https://github.com/google/roboto) <br/>The Roboto family of fonts | 2110 |
+| 250. | [fogleman/nes](https://github.com/fogleman/nes) <br/>NES emulator written in Go. | 2106 |
+| 251. | [metabase/metabase](https://github.com/metabase/metabase) <br/>The simplest, fastest way to get business intellig... | 2103 |
+| 252. | [mailgun/godebug](https://github.com/mailgun/godebug) <br/>A cross-platform debugger for Go. | 2102 |
+| 253. | [javascript-society/javascript-path](https://github.com/javascript-society/javascript-path) <br/>:books: List of books to master JavaScript Develop... | 2101 |
+| 254. | [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) <br/>An exhaustive reference to problems seen in real-w... | 2097 |
+| 255. | [moose-team/friends](https://github.com/moose-team/friends) <br/>:tv: P2P chat powered by the web. | 2084 |
+| 256. | [nodejs/node-convergence-archive](https://github.com/nodejs/node-convergence-archive) <br/>Archive for node/io.js convergence work pre-3.0.0 | 2074 |
+| 257. | [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) <br/>Building blocks for developing proxy servers in go... | 2065 |
+| 258. | [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) <br/>ReactJS based Presentation Library | 2054 |
+| 259. | [yaronn/wopr](https://github.com/yaronn/wopr) <br/>A simple markup language for creating rich termina... | 2042 |
+| 260. | [ant-design/ant-design](https://github.com/ant-design/ant-design) <br/>A design language | 2039 |
+| 261. | [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) <br/>An html pre-proces­sor for web ty­pog­ra­phy | 2038 |
+| 262. | [voronianski/flux-comparison](https://github.com/voronianski/flux-comparison) <br/>Practical comparison of different Flux solutions | 2017 |
+| 263. | [nathancahill/Split.js](https://github.com/nathancahill/Split.js) <br/>Lightweight, unopinionated utility for adjustable... | 2009 |
+| 264. | [tangqi92/Android-Tips](https://github.com/tangqi92/Android-Tips) <br/>An awesome list of tips for android. | 2007 |
+| 265. | [thoughtbot/administrate](https://github.com/thoughtbot/administrate) <br/>A Rails engine that helps you put together a super... | 2001 |
+| 266. | [elementalui/elemental](https://github.com/elementalui/elemental) <br/>A flexible and beautiful UI framework for React.js | 1999 |
+| 267. | [pinterest/PINRemoteImage](https://github.com/pinterest/PINRemoteImage) <br/>A thread safe, performant, feature rich image fetc... | 1999 |
+| 268. | [zachsoft/Ionic-Material](https://github.com/zachsoft/Ionic-Material) <br/>Seamless Material Design theme for Ionic | 1995 |
+| 269. | [Yalantis/StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) <br/>This component implements transition animation to... | 1987 |
+| 270. | [howdyai/botkit](https://github.com/howdyai/botkit) <br/>Botkit is a toolkit for making bot applications | 1986 |
+| 271. | [Yalantis/Phoenix](https://github.com/Yalantis/Phoenix) <br/>Phoenix Pull-to-Refresh | 1984 |
+| 272. | [DanielRapp/doppler](https://github.com/DanielRapp/doppler) <br/>:wave: Motion detection using the doppler effect | 1981 |
+| 273. | [rhiever/Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) <br/>Repository of teaching materials, code, and data f... | 1979 |
+| 274. | [81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) <br/>Nice loading animations for Android | 1976 |
+| 275. | [square/sqlbrite](https://github.com/square/sqlbrite) <br/>A lightweight wrapper around SQLiteOpenHelper whic... | 1973 |
+| 276. | [SwiftBond/Bond](https://github.com/SwiftBond/Bond) <br/>A Swift binding framework | 1968 |
+| 277. | [maxogden/menubar](https://github.com/maxogden/menubar) <br/>➖ high level way to create menubar desktop applica... | 1966 |
+| 278. | [rc0x03/node-osmosis](https://github.com/rc0x03/node-osmosis) <br/>Web scraper for NodeJS | 1965 |
+| 279. | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) <br/>Transform plain text into dynamic blogs and websit... | 1961 |
+| 280. | [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF) <br/>Free Lossless Image Format | 1954 |
+| 281. | [race604/ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) <br/>A Zhihu Daily(http://daily.zhihu.com/) App client... | 1953 |
+| 282. | [mist64/xhyve](https://github.com/mist64/xhyve) <br/>xhyve, a lightweight OS X virtualization solution | 1952 |
+| 283. | [yoavlt/LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) <br/>Material Design Floating Action Button in liquid s... | 1948 |
+| 284. | [KeenSoftwareHouse/SpaceEngineers](https://github.com/KeenSoftwareHouse/SpaceEngineers)  | 1948 |
+| 285. | [Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) <br/>You can easily add awesome animated context menu t... | 1930 |
+| 286. | [danluu/post-mortems](https://github.com/danluu/post-mortems) <br/>A collection of postmortems. Pull requests welcome... | 1917 |
+| 287. | [tyrantgit/ExplosionField](https://github.com/tyrantgit/ExplosionField) <br/>explosive dust effect for views | 1902 |
+| 288. | [hashcat/hashcat](https://github.com/hashcat/hashcat) <br/>Advanced CPU-based password recovery utility | 1902 |
+| 289. | [race604/FlyRefresh](https://github.com/race604/FlyRefresh) <br/>The implementation of https://dribbble.com/shots/2... | 1895 |
+| 290. | [phptodayorg/php-must-watch](https://github.com/phptodayorg/php-must-watch) <br/>list of interesting conference talks and videos on... | 1893 |
+| 291. | [tonsky/AnyBar](https://github.com/tonsky/AnyBar) <br/>OS X menubar status indicator | 1887 |
+| 292. | [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) <br/>Functional Programming concepts, examples and patt... | 1886 |
+| 293. | [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) <br/>Demo: https://diafygi.github.io/webrtc-ips/ | 1883 |
+| 294. | [cortesi/devd](https://github.com/cortesi/devd) <br/>A local webserver for developers | 1853 |
+| 295. | [pakastin/deck-of-cards](https://github.com/pakastin/deck-of-cards) <br/>HTML5 Deck of Cards | 1852 |
+| 296. | [bluelinelabs/LoganSquare](https://github.com/bluelinelabs/LoganSquare) <br/>Screaming fast JSON parsing and serialization libr... | 1851 |
+| 297. | [hackers-painters/samurai-native](https://github.com/hackers-painters/samurai-native) <br/>Bring web standards to native platform | 1850 |
+| 298. | [nickoneill/PermissionScope](https://github.com/nickoneill/PermissionScope) <br/>Intelligent iOS permissions UI and unified API | 1846 |
+| 299. | [facebook/fixed-data-table](https://github.com/facebook/fixed-data-table) <br/>A React table component designed to allow presenti... | 1845 |
+| 300. | [rancher/os](https://github.com/rancher/os) <br/>The easiest way to run Docker in production | 1845 |
+| 301. | [xfumihiro/ViewInspector](https://github.com/xfumihiro/ViewInspector) <br/>View Inspection Toolbar for Android Development | 1843 |
+| 302. | [forkingdog/FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) <br/>A UINavigationController's category to enable full... | 1831 |
+| 303. | [inFullMobile/WobbleView](https://github.com/inFullMobile/WobbleView)  | 1831 |
+| 304. | [CiscoCloud/microservices-infrastructure](https://github.com/CiscoCloud/microservices-infrastructure) <br/>Mantl is a modern platform for rapidly deploying g... | 1826 |
+| 305. | [PolymerElements/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit) <br/>A starting point for Polymer 1.0 apps | 1820 |
+| 306. | [OfficeDev/Office-UI-Fabric](https://github.com/OfficeDev/Office-UI-Fabric) <br/>The front-end framework for building experiences f... | 1812 |
+| 307. | [okmr-d/DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) <br/>Cute Animated Button written in Swift. | 1810 |
+| 308. | [JadenGeller/Helium](https://github.com/JadenGeller/Helium) <br/>A floating browser window for OS X | 1793 |
+| 309. | [oa414/objc-zen-book-cn](https://github.com/oa414/objc-zen-book-cn) <br/>ObjC Zen Book 中文翻译 | 1790 |
+| 310. | [Yalantis/GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) <br/>Our Guillotine Menu Transitioning Animation implem... | 1768 |
+| 311. | [XcodeGhostSource/XcodeGhost](https://github.com/XcodeGhostSource/XcodeGhost) <br/>"XcodeGhost" Source | 1765 |
+| 312. | [tqdm/tqdm](https://github.com/tqdm/tqdm) <br/>A fast, extensible progress bar for Python | 1757 |
+| 313. | [jamesob/desk](https://github.com/jamesob/desk) <br/>A lightweight workspace manager for the shell | 1757 |
+| 314. | [dariubs/GoBooks](https://github.com/dariubs/GoBooks) <br/>List of Golang books | 1749 |
+| 315. | [pheuter/essential-react](https://github.com/pheuter/essential-react) <br/>A minimal skeleton for building testable React app... | 1747 |
+| 316. | [sdc-alibaba/SUI-Mobile](https://github.com/sdc-alibaba/SUI-Mobile) <br/>SUI Mobile (MSUI)是由阿里巴巴国际UED前端出品... | 1742 |
+| 317. | [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) <br/>A tiny script to issue and renew TLS certs from Le... | 1738 |
+| 318. | [jgrahamc/httpdiff](https://github.com/jgrahamc/httpdiff) <br/>Perform the same request against two HTTP servers... | 1736 |
+| 319. | [paulirish/memory-stats.js](https://github.com/paulirish/memory-stats.js) <br/>minimal monitor for JS Heap Size via performance.m... | 1731 |
+| 320. | [ibireme/YYWebImage](https://github.com/ibireme/YYWebImage) <br/>Asynchronous image loading framework. | 1726 |
+| 321. | [GetmeUK/ContentTools](https://github.com/GetmeUK/ContentTools) <br/>A JS library for building WYSIWYG editors for HTML... | 1725 |
+| 322. | [timekit-io/booking-js](https://github.com/timekit-io/booking-js) <br/>:date: Make a beautiful embeddable booking widget... | 1723 |
+| 323. | [google/incremental-dom](https://github.com/google/incremental-dom)  | 1723 |
+| 324. | [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) <br/>machine learning and deep learning tutorials, arti... | 1723 |
+| 325. | [callmecavs/jump.js](https://github.com/callmecavs/jump.js) <br/>A small, modern, dependency-free smooth scrolling... | 1718 |
+| 326. | [yahoo/kafka-manager](https://github.com/yahoo/kafka-manager) <br/>A tool for managing Apache Kafka. | 1714 |
+| 327. | [IFTTT/RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) <br/>A simple keyframe-based animation framework for iO... | 1713 |
+| 328. | [esp8266/Arduino](https://github.com/esp8266/Arduino) <br/>ESP8266 core for Arduino | 1713 |
+| 329. | [franzejr/best-ruby](https://github.com/franzejr/best-ruby) <br/>Ruby Tricks, Idiomatic Ruby, Refactorings and Best... | 1712 |
+| 330. | [baidu-ife/ife](https://github.com/baidu-ife/ife) <br/>Baidu Institute of Front－End Technology | 1711 |
+| 331. | [bendc/animateplus](https://github.com/bendc/animateplus) <br/>CSS and SVG animation library | 1707 |
+| 332. | [ChrisRM/material-theme-jetbrains](https://github.com/ChrisRM/mat
