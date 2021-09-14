@@ -794,4 +794,111 @@
 | 283. | [alexanderGugel](https://github.com/alexanderGugel)  | [ied](https://github.com/alexanderGugel/ied)  (821) <br/>[wsd](https://github.com/alexanderGugel/wsd)  (273) <br/>[papier](https://github.com/alexanderGugel/papier)  (253) <br/>[arc](https://github.com/alexanderGugel/arc)  (187) <br/> | 1534 |
 | 284. | [s-a](https://github.com/s-a)  | [iron-node](https://github.com/s-a/iron-node)  (1534) <br/> | 1534 |
 | 285. | [jagenjo](https://github.com/jagenjo)  | [webglstudio.js](https://github.com/jagenjo/webglstudio.js)  (1529) <br/> | 1529 |
-| 286. | [huytd](https://github.com/huytd)  | [agar.io-clone](https://github.com/huytd/agar.io-clone)  (1086) <br/>[swift-http](https://github.com/huytd/swift-http)  (434) <
+| 286. | [huytd](https://github.com/huytd)  | [agar.io-clone](https://github.com/huytd/agar.io-clone)  (1086) <br/>[swift-http](https://github.com/huytd/swift-http)  (434) <br/> | 1520 |
+| 287. | [radex](https://github.com/radex)  | [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)  (1134) <br/>[SwiftyTimer](https://github.com/radex/SwiftyTimer)  (381) <br/> | 1515 |
+| 288. | [bitshadow](https://github.com/bitshadow)  | [iconate](https://github.com/bitshadow/iconate)  (1512) <br/> | 1512 |
+| 289. | [staltz](https://github.com/staltz)  | [flux-challenge](https://github.com/staltz/flux-challenge)  (1384) <br/>[wtf](https://github.com/staltz/wtf)  (120) <br/> | 1504 |
+| 290. | [cparnot](https://github.com/cparnot)  | [ASCIImage](https://github.com/cparnot/ASCIImage)  (1500) <br/> | 1500 |
+| 291. | [gopatrik](https://github.com/gopatrik)  | [space.js](https://github.com/gopatrik/space.js)  (1389) <br/>[ajour](https://github.com/gopatrik/ajour)  (110) <br/> | 1499 |
+| 292. | [AlessandroZ](https://github.com/AlessandroZ)  | [LaZagne](https://github.com/AlessandroZ/LaZagne)  (1495) <br/> | 1495 |
+| 293. | [tuesda](https://github.com/tuesda)  | [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout)  (914) <br/>[Watch](https://github.com/tuesda/Watch)  (464) <br/>[SubmitDemo](https://github.com/tuesda/SubmitDemo)  (116) <br/> | 1494 |
+| 294. | [lookingstars](https://github.com/lookingstars)  | [meituan](https://github.com/lookingstars/meituan)  (851) <br/>[nuomi](https://github.com/lookingstars/nuomi)  (308) <br/>[chuanke](https://github.com/lookingstars/chuanke)  (232) <br/>[tudou](https://github.com/lookingstars/tudou)  (101) <br/> | 1492 |
+| 295. | [matt-curtis](https://github.com/matt-curtis)  | [Fluid-for-Sketch](https://github.com/matt-curtis/Fluid-for-Sketch)  (1487) <br/> | 1487 |
+| 296. | [mxn21](https://github.com/mxn21)  | [FlowingDrawer](https://github.com/mxn21/FlowingDrawer)  (1022) <br/>[SlidingCard](https://github.com/mxn21/SlidingCard)  (463) <br/> | 1485 |
+| 297. | [lzyzsd](https://github.com/lzyzsd)  | [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)  (778) <br/>[JsBridge](https://github.com/lzyzsd/JsBridge)  (542) <br/>[AndroidRandomColor](https://github.com/lzyzsd/AndroidRandomColor)  (161) <br/> | 1481 |
+| 298. | [wjakob](https://github.com/wjakob)  | [pybind11](https://github.com/wjakob/pybind11)  (830) <br/>[nanogui](https://github.com/wjakob/nanogui)  (389) <br/>[instant-meshes](https://github.com/wjakob/instant-meshes)  (260) <br/> | 1479 |
+| 299. | [HenrikJoreteg](https://github.com/HenrikJoreteg)  | [hjs-webpack](https://github.com/HenrikJoreteg/hjs-webpack)  (945) <br/>[feather-app](https://github.com/HenrikJoreteg/feather-app)  (428) <br/>[hubtags.com](https://github.com/HenrikJoreteg/hubtags.com)  (101) <br/> | 1474 |
+| 300. | [SergioChan](https://github.com/SergioChan)  | [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation)  (493) <br/>[SCCatWaitingHUD](https://github.com/SergioChan/SCCatWaitingHUD)  (280) <br/>[SCNavigationControlCenter](https://github.com/SergioChan/SCNavigationControlCenter)  (271) <br/>[SCTableViewCell](https://github.com/SergioChan/SCTableViewCell)  (244) <br/>[SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation)  (183) <br/> | 1471 |
+| 301. | [zxh0](https://github.com/zxh0)  | [jvm.go](https://github.com/zxh0/jvm.go)  (1468) <br/> | 1468 |
+| 302. | [100apps](https://github.com/100apps)  | [openshare](https://github.com/100apps/openshare)  (1467) <br/> | 1467 |
+| 303. | [AliSoftware](https://github.com/AliSoftware)  | [SwiftGen](https://github.com/AliSoftware/SwiftGen)  (1463) <br/> | 1463 |
+| 304. | [valyala](https://github.com/valyala)  | [fasthttp](https://github.com/valyala/fasthttp)  (1462) <br/> | 1462 |
+| 305. | [ivacf](https://github.com/ivacf)  | [archi](https://github.com/ivacf/archi)  (1458) <br/> | 1458 |
+| 306. | [graphific](https://github.com/graphific)  | [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo)  (1455) <br/> | 1455 |
+| 307. | [vczero](https://github.com/vczero)  | [react-native-lesson](https://github.com/vczero/react-native-lesson)  (1263) <br/>[React-Native-App](https://github.com/vczero/React-Native-App)  (188) <br/> | 1451 |
+| 308. | [motemen](https://github.com/motemen)  | [gore](https://github.com/motemen/gore)  (1308) <br/>[gompatible](https://github.com/motemen/gompatible)  (142) <br/> | 1450 |
+| 309. | [ptmt](https://github.com/ptmt)  | [react-native-desktop](https://github.com/ptmt/react-native-desktop)  (1447) <br/> | 1447 |
+| 310. | [n1nj4sec](https://github.com/n1nj4sec)  | [pupy](https://github.com/n1nj4sec/pupy)  (1014) <br/>[memorpy](https://github.com/n1nj4sec/memorpy)  (308) <br/>[pr0cks](https://github.com/n1nj4sec/pr0cks)  (124) <br/> | 1446 |
+| 311. | [clowwindy](https://github.com/clowwindy)  | [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)  (1170) <br/>[ShadowVPN-iOS](https://github.com/clowwindy/ShadowVPN-iOS)  (275) <br/> | 1445 |
+| 312. | [mthli](https://github.com/mthli)  | [Knife](https://github.com/mthli/Knife)  (960) <br/>[Ninja](https://github.com/mthli/Ninja)  (483) <br/> | 1443 |
+| 313. | [davidlazar](https://github.com/davidlazar)  | [vuvuzela](https://github.com/davidlazar/vuvuzela)  (1441) <br/> | 1441 |
+| 314. | [johnil](https://github.com/johnil)  | [VVeboTableViewDemo](https://github.com/johnil/VVeboTableViewDemo)  (1066) <br/>[JFImagePickerController](https://github.com/johnil/JFImagePickerController)  (371) <br/> | 1437 |
+| 315. | [addyosmani](https://github.com/addyosmani)  | [es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5)  (1434) <br/> | 1434 |
+| 316. | [koekeishiya](https://github.com/koekeishiya)  | [kwm](https://github.com/koekeishiya/kwm)  (1428) <br/> | 1428 |
+| 317. | [luin](https://github.com/luin)  | [ioredis](https://github.com/luin/ioredis)  (1427) <br/> | 1427 |
+| 318. | [phoboslab](https://github.com/phoboslab)  | [jsmpeg-vnc](https://github.com/phoboslab/jsmpeg-vnc)  (1151) <br/>[wipeout](https://github.com/phoboslab/wipeout)  (275) <br/> | 1426 |
+| 319. | [okor](https://github.com/okor)  | [justice](https://github.com/okor/justice)  (1417) <br/> | 1417 |
+| 320. | [kjw0612](https://github.com/kjw0612)  | [awesome-rnn](https://github.com/kjw0612/awesome-rnn)  (774) <br/>[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)  (498) <br/>[awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)  (143) <br/> | 1415 |
+| 321. | [hrescak](https://github.com/hrescak)  | [Sketch-Flex-Layout](https://github.com/hrescak/Sketch-Flex-Layout)  (1410) <br/> | 1410 |
+| 322. | [leecade](https://github.com/leecade)  | [react-native-swiper](https://github.com/leecade/react-native-swiper)  (776) <br/>[ios-dev-flow](https://github.com/leecade/ios-dev-flow)  (633) <br/> | 1409 |
+| 323. | [sxyx2008](https://github.com/sxyx2008)  | [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)  (1026) <br/>[awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart)  (376) <br/> | 1402 |
+| 324. | [Xyl2k](https://github.com/Xyl2k)  | [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys)  (1395) <br/> | 1395 |
+| 325. | [yqritc](https://github.com/yqritc)  | [RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider)  (545) <br/>[Android-ScalableVideoView](https://github.com/yqritc/Android-ScalableVideoView)  (488) <br/>[RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter)  (243) <br/>[Android-ScalableImageView](https://github.com/yqritc/Android-ScalableImageView)  (108) <br/> | 1384 |
+| 326. | [gosuri](https://github.com/gosuri)  | [uiprogress](https://github.com/gosuri/uiprogress)  (735) <br/>[uilive](https://github.com/gosuri/uilive)  (386) <br/>[uitable](https://github.com/gosuri/uitable)  (263) <br/> | 1384 |
+| 327. | [biezhi](https://github.com/biezhi)  | [blade](https://github.com/biezhi/blade)  (1110) <br/>[java-bible](https://github.com/biezhi/java-bible)  (273) <br/> | 1383 |
+| 328. | [gajus](https://github.com/gajus)  | [react-css-modules](https://github.com/gajus/react-css-modules)  (1222) <br/>[redux-immutable](https://github.com/gajus/redux-immutable)  (161) <br/> | 1383 |
+| 329. | [worker8](https://github.com/worker8)  | [TourGuide](https://github.com/worker8/TourGuide)  (1383) <br/> | 1383 |
+| 330. | [breakwa11](https://github.com/breakwa11)  | [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss)  (1381) <br/> | 1381 |
+| 331. | [fraser-hemp](https://github.com/fraser-hemp)  | [gradify](https://github.com/fraser-hemp/gradify)  (1380) <br/> | 1380 |
+| 332. | [flike](https://github.com/flike)  | [kingshard](https://github.com/flike/kingshard)  (1380) <br/> | 1380 |
+| 333. | [thomaspark](https://github.com/thomaspark)  | [flexboxfroggy](https://github.com/thomaspark/flexboxfroggy)  (952) <br/>[pubcss](https://github.com/thomaspark/pubcss)  (425) <br/> | 1377 |
+| 334. | [evancz](https://github.com/evancz)  | [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial)  (1376) <br/> | 1376 |
+| 335. | [terminatorover](https://github.com/terminatorover)  | [RGCardViewLayout](https://github.com/terminatorover/RGCardViewLayout)  (1059) <br/>[RGPaperLayout](https://github.com/terminatorover/RGPaperLayout)  (306) <br/> | 1365 |
+| 336. | [zhaozhentao](https://github.com/zhaozhentao)  | [InboxLayout](https://github.com/zhaozhentao/InboxLayout)  (481) <br/>[BooheeScrollView](https://github.com/zhaozhentao/BooheeScrollView)  (352) <br/>[MaterialImageView](https://github.com/zhaozhentao/MaterialImageView)  (290) <br/>[KugouLayout](https://github.com/zhaozhentao/KugouLayout)  (237) <br/> | 1360 |
+| 337. | [macdao](https://github.com/macdao)  | [ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)  (1358) <br/> | 1358 |
+| 338. | [nlintz](https://github.com/nlintz)  | [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)  (1354) <br/> | 1354 |
+| 339. | [tj](https://github.com/tj)  | [frontend-boilerplate](https://github.com/tj/frontend-boilerplate)  (921) <br/>[robo](https://github.com/tj/robo)  (308) <br/>[go-config](https://github.com/tj/go-config)  (119) <br/> | 1348 |
+| 340. | [amoffat](https://github.com/amoffat)  | [snake](https://github.com/amoffat/snake)  (1226) <br/>[masquerade](https://github.com/amoffat/masquerade)  (115) <br/> | 1341 |
+| 341. | [ZieIony](https://github.com/ZieIony)  | [Carbon](https://github.com/ZieIony/Carbon)  (1093) <br/>[MaterialRecents](https://github.com/ZieIony/MaterialRecents)  (248) <br/> | 1341 |
+| 342. | [leichunfeng](https://github.com/leichunfeng)  | [MVVMReactiveCocoa](https://github.com/leichunfeng/MVVMReactiveCocoa)  (974) <br/>[WXTabBarController](https://github.com/leichunfeng/WXTabBarController)  (360) <br/> | 1334 |
+| 343. | [princejwesley](https://github.com/princejwesley)  | [Mancy](https://github.com/princejwesley/Mancy)  (1330) <br/> | 1330 |
+| 344. | [brennerm](https://github.com/brennerm)  | [PyTricks](https://github.com/brennerm/PyTricks)  (1328) <br/> | 1328 |
+| 345. | [tdenniston](https://github.com/tdenniston)  | [bish](https://github.com/tdenniston/bish)  (1327) <br/> | 1327 |
+| 346. | [olistic](https://github.com/olistic)  | [warriorjs](https://github.com/olistic/warriorjs)  (1322) <br/> | 1322 |
+| 347. | [mmin18](https://github.com/mmin18)  | [LayoutCast](https://github.com/mmin18/LayoutCast)  (1321) <br/> | 1321 |
+| 348. | [yuanyan](https://github.com/yuanyan)  | [boron](https://github.com/yuanyan/boron)  (774) <br/>[halogen](https://github.com/yuanyan/halogen)  (547) <br/> | 1321 |
+| 349. | [CharlieHess](https://github.com/CharlieHess)  | [slack-poker-bot](https://github.com/CharlieHess/slack-poker-bot)  (1315) <br/> | 1315 |
+| 350. | [emilevauge](https://github.com/emilevauge)  | [traefik](https://github.com/emilevauge/traefik)  (1311) <br/> | 1311 |
+| 351. | [ryanmjacobs](https://github.com/ryanmjacobs)  | [c](https://github.com/ryanmjacobs/c)  (1307) <br/> | 1307 |
+| 352. | [mroth](https://github.com/mroth)  | [unindexed](https://github.com/mroth/unindexed)  (1301) <br/> | 1301 |
+| 353. | [tadast](https://github.com/tadast)  | [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk)  (1298) <br/> | 1298 |
+| 354. | [lguipeng](https://github.com/lguipeng)  | [Notes](https://github.com/lguipeng/Notes)  (676) <br/>[BubbleView](https://github.com/lguipeng/BubbleView)  (326) <br/>[AnimCheckBox](https://github.com/lguipeng/AnimCheckBox)  (289) <br/> | 1291 |
+| 355. | [indragiek](https://github.com/indragiek)  | [CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown)  (652) <br/>[MarkdownTextView](https://github.com/indragiek/MarkdownTextView)  (341) <br/>[swiftrsrc](https://github.com/indragiek/swiftrsrc)  (289) <br/> | 1282 |
+| 356. | [kabukky](https://github.com/kabukky)  | [journey](https://github.com/kabukky/journey)  (1281) <br/> | 1281 |
+| 357. | [zpz1237](https://github.com/zpz1237)  | [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)  (1115) <br/>[NirKxMenu](https://github.com/zpz1237/NirKxMenu)  (165) <br/> | 1280 |
+| 358. | [ChristosChristofidis](https://github.com/ChristosChristofidis)  | [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  (1275) <br/> | 1275 |
+| 359. | [ZhipingYang](https://github.com/ZhipingYang)  | [UUChatTableView](https://github.com/ZhipingYang/UUChatTableView)  (966) <br/>[UUChartView](https://github.com/ZhipingYang/UUChartView)  (307) <br/> | 1273 |
+| 360. | [hephaest0s](https://github.com/hephaest0s)  | [usbkill](https://github.com/hephaest0s/usbkill)  (1273) <br/> | 1273 |
+| 361. | [mohebifar](https://github.com/mohebifar)  | [lebab](https://github.com/mohebifar/lebab)  (1272) <br/> | 1272 |
+| 362. | [sockeqwe](https://github.com/sockeqwe)  | [mosby](https://github.com/sockeqwe/mosby)  (911) <br/>[AdapterDelegates](https://github.com/sockeqwe/AdapterDelegates)  (359) <br/> | 1270 |
+| 363. | [xoreaxeaxeax](https://github.com/xoreaxeaxeax)  | [movfuscator](https://github.com/xoreaxeaxeax/movfuscator)  (1267) <br/> | 1267 |
+| 364. | [divmain](https://github.com/divmain)  | [GitSavvy](https://github.com/divmain/GitSavvy)  (1266) <br/> | 1266 |
+| 365. | [SalGnt](https://github.com/SalGnt)  | [cscs](https://github.com/SalGnt/cscs)  (1130) <br/>[Travelogue](https://github.com/SalGnt/Travelogue)  (135) <br/> | 1265 |
+| 366. | [JVillella](https://github.com/JVillella)  | [JVFloatingDrawer](https://github.com/JVillella/JVFloatingDrawer)  (1261) <br/> | 1261 |
+| 367. | [LuckyJayce](https://github.com/LuckyJayce)  | [MVCHelper](https://github.com/LuckyJayce/MVCHelper)  (586) <br/>[LargeImage](https://github.com/LuckyJayce/LargeImage)  (497) <br/>[ListViewHelper](https://github.com/LuckyJayce/ListViewHelper)  (175) <br/> | 1258 |
+| 368. | [Clans](https://github.com/Clans)  | [FloatingActionButton](https://github.com/Clans/FloatingActionButton)  (1257) <br/> | 1257 |
+| 369. | [paldepind](https://github.com/paldepind)  | [flyd](https://github.com/paldepind/flyd)  (575) <br/>[snabbdom](https://github.com/paldepind/snabbdom)  (289) <br/>[functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture)  (284) <br/>[union-type](https://github.com/paldepind/union-type)  (106) <br/> | 1254 |
+| 370. | [happypoulp](https://github.com/happypoulp)  | [redux-tutorial](https://github.com/happypoulp/redux-tutorial)  (1253) <br/> | 1253 |
+| 371. | [rse](https://github.com/rse)  | [es6-features](https://github.com/rse/es6-features)  (1253) <br/> | 1253 |
+| 372. | [cloudwu](https://github.com/cloudwu)  | [mptun](https://github.com/cloudwu/mptun)  (868) <br/>[lua53doc](https://github.com/cloudwu/lua53doc)  (382) <br/> | 1250 |
+| 373. | [jlongster](https://github.com/jlongster)  | [blog](https://github.com/jlongster/blog)  (1093) <br/>[backend-with-webpack](https://github.com/jlongster/backend-with-webpack)  (156) <br/> | 1249 |
+| 374. | [100mango](https://github.com/100mango)  | [zen](https://github.com/100mango/zen)  (1135) <br/>[QRCatcher](https://github.com/100mango/QRCatcher)  (111) <br/> | 1246 |
+| 375. | [jussi-kalliokoski](https://github.com/jussi-kalliokoski)  | [trine](https://github.com/jussi-kalliokoski/trine)  (1239) <br/> | 1239 |
+| 376. | [tajchert](https://github.com/tajchert)  | [WaitingDots](https://github.com/tajchert/WaitingDots)  (542) <br/>[Nammu](https://github.com/tajchert/Nammu)  (362) <br/>[BusWear](https://github.com/tajchert/BusWear)  (230) <br/>[ExceptionWear](https://github.com/tajchert/ExceptionWear)  (101) <br/> | 1235 |
+| 377. | [asvd](https://github.com/asvd)  | [viewport](https://github.com/asvd/viewport)  (471) <br/>[dragscroll](https://github.com/asvd/dragscroll)  (348) <br/>[naturalScroll](https://github.com/asvd/naturalScroll)  (238) <br/>[intence](https://github.com/asvd/intence)  (171) <br/> | 1228 |
+| 378. | [xuyisheng](https://github.com/xuyisheng)  | [DesignSupportLibraryDemo](https://github.com/xuyisheng/DesignSupportLibraryDemo)  (393) <br/>[ShortcutHelper](https://github.com/xuyisheng/ShortcutHelper)  (359) <br/>[AndroidHeroes](https://github.com/xuyisheng/AndroidHeroes)  (263) <br/>[TextViewForFullHtml](https://github.com/xuyisheng/TextViewForFullHtml)  (211) <br/> | 1226 |
+| 379. | [mrdoob](https://github.com/mrdoob)  | [texgen.js](https://github.com/mrdoob/texgen.js)  (1222) <br/> | 1222 |
+| 380. | [HelloZeroNet](https://github.com/HelloZeroNet)  | [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)  (1221) <br/> | 1221 |
+| 381. | [overboming](https://github.com/overboming)  | [ZCAnimatedLabel](https://github.com/overboming/ZCAnimatedLabel)  (1221) <br/> | 1221 |
+| 382. | [KevinHM](https://github.com/KevinHM)  | [ios-good-practices-the-lastest-version](https://github.com/KevinHM/ios-good-practices-the-lastest-version)  (850) <br/>[FunctionalReactiveProgrammingOniOS](https://github.com/KevinHM/FunctionalReactiveProgrammingOniOS)  (370) <br/> | 1220 |
+| 383. | [dvyukov](https://github.com/dvyukov)  | [go-fuzz](https://github.com/dvyukov/go-fuzz)  (1220) <br/> | 1220 |
+| 384. | [unruledboy](https://github.com/unruledboy)  | [WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack)  (763) <br/>[DatabaseStack](https://github.com/unruledboy/DatabaseStack)  (174) <br/>[DotNetStack](https://github.com/unruledboy/DotNetStack)  (159) <br/>[DevelopmentStack](https://github.com/unruledboy/DevelopmentStack)  (123) <br/> | 1219 |
+| 385. | [markdregan](https://github.com/markdregan)  | [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)  (1217) <br/> | 1217 |
+| 386. | [ppamorim](https://github.com/ppamorim)  | [Dragger](https://github.com/ppamorim/Dragger)  (793) <br/>[Cult](https://github.com/ppamorim/Cult)  (424) <br/> | 1217 |
+| 387. | [Friend-LGA](https://github.com/Friend-LGA)  | [LGSideMenuController](https://github.com/Friend-LGA/LGSideMenuController)  (459) <br/>[LGAlertView](https://github.com/Friend-LGA/LGAlertView)  (252) <br/>[LGPlusButtonsView](https://github.com/Friend-LGA/LGPlusButtonsView)  (173) <br/>[LGActionSheet](https://github.com/Friend-LGA/LGActionSheet)  (114) <br/>[LGRefreshView](https://github.com/Friend-LGA/LGRefreshView)  (114) <br/>[LGFilterView](https://github.com/Friend-LGA/LGFilterView)  (105) <br/> | 1217 |
+| 388. | [icepy](https://github.com/icepy)  | [Front-End-Develop-Guide](https://github.com/icepy/Front-End-Develop-Guide)  (835) <br/>[manong-reading](https://github.com/icepy/manong-reading)  (257) <br/>[_posts](https://github.com/icepy/_posts)  (120) <br/> | 1212 |
+| 389. | [laracasts](https://github.com/laracasts)  | [Laravel-5-Generators-Extended](https://github.com/laracasts/Laravel-5-Generators-Extended)  (785) <br/>[Integrated](https://github.com/laracasts/Integrated)  (324) <br/>[Behat-Laravel-Extension](https://github.com/laracasts/Behat-Laravel-Extension)  (102) <br/> | 1211 |
+| 390. | [andelf](https://github.com/andelf)  | [fuck12306](https://github.com/andelf/fuck12306)  (1209) <br/> | 1209 |
+| 391. | [joushou](https://github.com/joushou)  | [sshmuxd](https://github.com/joushou/sshmuxd)  (624) <br/>[serve2d](https://github.com/joushou/serve2d)  (579) <br/> | 1203 |
+| 392. | [hotchemi](https://github.com/hotchemi)  | [PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher)  (814) <br/>[awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)  (388) <br/> | 1202 |
+| 393. | [matrixxun](https://github.com/matrixxun)  | [ProductTour](https://github
