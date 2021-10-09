@@ -1,31 +1,32 @@
-# Perl
+# R
 
-## Most-Starred Repos: Perl
+## Most-Starred Repos: R
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [Jack000/Expose](https://github.com/Jack000/Expose) <br/>A simple static site generator for photoessays | 3415 |
-| 2. | [AlDanial/cloc](https://github.com/AlDanial/cloc) <br/>cloc counts blank lines, comment lines, and physic... | 446 |
-| 3. | [jfrazelle/dotfiles](https://github.com/jfrazelle/dotfiles) <br/>My dotfiles | 285 |
-| 4. | [jlord/git-it-electron](https://github.com/jlord/git-it-electron) <br/>:computer: :mortar_board: A Git-it Desktop App | 211 |
-| 5. | [23andMe/djdt-flamegraph](https://github.com/23andMe/djdt-flamegraph) <br/>Flamegraphs for Django Debug Toolbar | 102 |
-| 6. | [HeitorG/nipe](https://github.com/HeitorG/nipe) <br/>Script to redirect all traffic from the machine to... | 101 |
+| 1. | [szilard/benchm-ml](https://github.com/szilard/benchm-ml) <br/>A minimal benchmark for scalability, speed and acc... | 771 |
+| 2. | [toddwschneider/nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data) <br/>Import public NYC taxi and Uber trip data into Pos... | 437 |
+| 3. | [swarm-lab/editR](https://github.com/swarm-lab/editR) <br/>A Rmarkdown editor with instant preview | 174 |
+| 4. | [jadianes/data-science-your-way](https://github.com/jadianes/data-science-your-way) <br/>Ways of doing Data Science Engineering and Machine... | 164 |
+| 5. | [toddwschneider/agency-loan-level](https://github.com/toddwschneider/agency-loan-level) <br/>Loan-level analysis of Fannie Mae and Freddie Mac... | 154 |
+| 6. | [renkun-ken/formattable](https://github.com/renkun-ken/formattable) <br/>Formattable Data Structures | 119 |
+| 7. | [hadley/multidplyr](https://github.com/hadley/multidplyr) <br/>Partitioned data frames for 'dplyr' | 115 |
 
-## Most-Starred Users: Perl
+## Most-Starred Users: R
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [Jack000](https://github.com/Jack000)  | [Expose](https://github.com/Jack000/Expose)  (3415) <br/> | 3415 |
-| 2. | [AlDanial](https://github.com/AlDanial)  | [cloc](https://github.com/AlDanial/cloc)  (446) <br/> | 446 |
-| 3. | [jfrazelle](https://github.com/jfrazelle)  | [dotfiles](https://github.com/jfrazelle/dotfiles)  (285) <br/>[bane](https://github.com/jfrazelle/bane)  (229) <br/> | 285 |
-| 4. | [jlord](https://github.com/jlord)  | [git-it-electron](https://github.com/jlord/git-it-electron)  (211) <br/> | 211 |
-| 5. | [HeitorG](https://github.com/HeitorG)  | [nipe](https://github.com/HeitorG/nipe)  (101) <br/> | 101 |
+| 1. | [szilard](https://github.com/szilard)  | [benchm-ml](https://github.com/szilard/benchm-ml)  (771) <br/> | 771 |
+| 2. | [toddwschneider](https://github.com/toddwschneider)  | [nyc-taxi-data](https://github.com/toddwschneider/nyc-taxi-data)  (437) <br/>[coordstagram](https://github.com/toddwschneider/coordstagram)  (214) <br/>[agency-loan-level](https://github.com/toddwschneider/agency-loan-level)  (154) <br/> | 591 |
+| 3. | [jadianes](https://github.com/jadianes)  | [data-science-your-way](https://github.com/jadianes/data-science-your-way)  (164) <br/> | 164 |
+| 4. | [renkun-ken](https://github.com/renkun-ken)  | [formattable](https://github.com/renkun-ken/formattable)  (119) <br/> | 119 |
+| 5. | [hadley](https://github.com/hadley)  | [readxl](https://github.com/hadley/readxl)  (231) <br/>[haven](https://github.com/hadley/haven)  (128) <br/>[multidplyr](https://github.com/hadley/multidplyr)  (115) <br/> | 115 |
 
-## Most-Starred Orgs: Perl
+## Most-Starred Orgs: R
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [23andMe](https://github.com/23andMe)  | [djdt-flamegraph](https://github.com/23andMe/djdt-flamegraph)  (102) <br/> | 102 |
+| 1. | [swarm-lab](https://github.com/swarm-lab)  | [editR](https://github.com/swarm-lab/editR)  (174) <br/> | 174 |
 
 ## Language Stats Index
 
@@ -60,4 +61,4 @@
 | VimL | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/viml.md#most-starred-repos-viml) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/viml.md#most-starred-users-viml) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/viml.md#most-starred-orgs-viml) |
 | Perl | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/perl.md#most-starred-repos-perl) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/perl.md#most-starred-users-perl) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/perl.md#most-starred-orgs-perl) |
 | Unknown | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/unknown.md#most-starred-repos-unknown) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/unknown.md#most-starred-users-unknown) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/unknown.md#most-starred-orgs-unknown) |
-| Overall | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/overall.md#most-starred-repos-overall) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/overall.md#most-starred-users-overall) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/overall.md#most-starred-orgs-overall) |
+| Overall | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2015/overall.md#most-starred-re
