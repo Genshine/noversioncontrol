@@ -109,4 +109,141 @@
 | 103. | [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel) <br/>Laravel e-commerce package for high performance on [...] | 212 |
 | 104. | [ovdojoey/Juiced](https://github.com/ovdojoey/Juiced) <br/>A Flexbox CSS Framework | 210 |
 | 105. | [NeutronCSS/neutroncss](https://github.com/NeutronCSS/neutroncss) <br/>A Sass framework that empowers you to create flexi [...] | 206 |
-| 106. | [davidkpiano/sassdash](https://github.com/davidkpiano/sa
+| 106. | [davidkpiano/sassdash](https://github.com/davidkpiano/sassdash) <br/>The Sass implementation of lodash. | 204 |
+| 107. | [sierra-library/sierra](https://github.com/sierra-library/sierra) <br/>Sierra SCSS micro library | 199 |
+| 108. | [matt-harris/outline](https://github.com/matt-harris/outline) <br/>The clean & simple framework. | 196 |
+| 109. | [kennethormandy/utility-opentype](https://github.com/kennethormandy/utility-opentype) <br/>Simple, CSS utility classes for advanced typograph [...] | 196 |
+| 110. | [CharmanderProject/Themes](https://github.com/CharmanderProject/Themes) <br/>Ubuntu Simple and Flat theme | 195 |
+| 111. | [frankmcsherry/blog](https://github.com/frankmcsherry/blog) <br/>Some notes on things I find interesting and import [...] | 191 |
+| 112. | [peachdocs/peach](https://github.com/peachdocs/peach) <br/>Peach is a web server for multi-language, real-tim [...] | 187 |
+| 113. | [luigiplr/netify-jump](https://github.com/luigiplr/netify-jump) <br/>[WIP] Netify Jump is a software-based system that  [...] | 185 |
+| 114. | [nicnocquee/appolo](https://github.com/nicnocquee/appolo) <br/>Plugins and Themes for Jekyll to create App Portfo [...] | 184 |
+| 115. | [rpocklin/angular-timeline](https://github.com/rpocklin/angular-timeline) <br/>An Angular.JS directive that generates a responsiv [...] | 182 |
+| 116. | [nickbalestra/kactus](https://github.com/nickbalestra/kactus) <br/>Cactus's default theme on Jekyll | 178 |
+| 117. | [milligram/milligram](https://github.com/milligram/milligram) <br/>A minimalist CSS framework. | 177 |
+| 118. | [egrcc/Mango](https://github.com/egrcc/Mango) <br/>Mango is markdown editor for linux, also supports  [...] | 173 |
+| 119. | [NervanaSystems/maxas](https://github.com/NervanaSystems/maxas) <br/>Assembler for NVIDIA Maxwell architecture | 173 |
+| 120. | [LukyVj/menu-to-cross-icon](https://github.com/LukyVj/menu-to-cross-icon) <br/>One idea, 6 possibilities | 172 |
+| 121. | [davidkpiano/sass-svg](https://github.com/davidkpiano/sass-svg) <br/>Inline SVG for Sass. | 171 |
+| 122. | [MartinChavez/HTML-CSS-Advanced-Topics](https://github.com/MartinChavez/HTML-CSS-Advanced-Topics) <br/>HTML/CSS: Advanced Topics | 168 |
+| 123. | [danielcardoso/load-awesome](https://github.com/danielcardoso/load-awesome) <br/>An awesome collection of — Pure CSS — Loaders and  [...] | 159 |
+| 124. | [noahbuscher/N1-Taiga](https://github.com/noahbuscher/N1-Taiga) <br/>A clean, Mailbox-inspired theme for Nylas N1 | 158 |
+| 125. | [StackExchange/stack-blog](https://github.com/StackExchange/stack-blog) <br/>Stack Overflow Blog | 154 |
+| 126. | [scotch-io/meteor-slack](https://github.com/scotch-io/meteor-slack) <br/>Code for the scotch.io tutorial by Daniel (danyll. [...] | 153 |
+| 127. | [times/cardkit](https://github.com/times/cardkit) <br/>A simple, configurable, web based image creation t [...] | 153 |
+| 128. | [doomspork/elixir-school](https://github.com/doomspork/elixir-school) <br/>Lessons in Elixir programming | 153 |
+| 129. | [golangcookbook/golangcookbook.github.io](https://github.com/golangcookbook/golangcookbook.github.io) <br/>Golang Cookbook | 151 |
+| 130. | [shlomnissan/subbscribe](https://github.com/shlomnissan/subbscribe) <br/>Beautiful opt-in form for MailChimp and CampaignMo [...] | 150 |
+| 131. | [agragregra/start_html](https://github.com/agragregra/start_html) <br/>Стартовые шаблоны для современной адаптивной верст [...] | 149 |
+| 132. | [select2/select2-bootstrap-theme](https://github.com/select2/select2-bootstrap-theme) <br/>A Select2 v4 Theme for Bootstrap 3 | 149 |
+| 133. | [winjs/winstrap](https://github.com/winjs/winstrap) <br/>The official Bootstrap theme for Microsoft's Moder [...] | 149 |
+| 134. | [shakrmedia/tuesday](https://github.com/shakrmedia/tuesday) <br/>A quirky CSS Animation Library by Shakr | 149 |
+| 135. | [channikhabra/yarr](https://github.com/channikhabra/yarr) <br/>Yet Another RSS Reader | 148 |
+| 136. | [DevTips/Parallax-on-the-Web-DevTips-](https://github.com/DevTips/Parallax-on-the-Web-DevTips-) <br/>The code that accompanies the video series on YouT [...] | 147 |
+| 137. | [davbre/mira](https://github.com/davbre/mira) <br/>Create simple read-only APIs from CSV files | 147 |
+| 138. | [watson-developer-cloud/tone-analyzer-nodejs](https://github.com/watson-developer-cloud/tone-analyzer-nodejs) <br/>Sample Node.js Application for the IBM Tone Analyz [...] | 146 |
+| 139. | [vincentchan/mickey](https://github.com/vincentchan/mickey) <br/>A minimal one-column theme for Jekyll. | 146 |
+| 140. | [gnijuohz/geeksforgeeks-as-books](https://github.com/gnijuohz/geeksforgeeks-as-books) <br/>Epub, mobi, docx, pdf books generated from geeksfo [...] | 145 |
+| 141. | [naveenshaji/material](https://github.com/naveenshaji/material) <br/>An HTML5 responsive template incorporating Google' [...] | 145 |
+| 142. | [NervanaSystems/nervanagpu](https://github.com/NervanaSystems/nervanagpu) <br/>Nervana™ library for GPUs | 143 |
+| 143. | [tzi/chewing-grid.css](https://github.com/tzi/chewing-grid.css) <br/>A CSS Grid ideal for card listing design like tile [...] | 143 |
+| 144. | [godesign/nativeDroid2](https://github.com/godesign/nativeDroid2) <br/>nativeDroid2 is a jQueryMobile Template inspired b [...] | 140 |
+| 145. | [sachinchoolur/angular-flash](https://github.com/sachinchoolur/angular-flash) <br/>A simple lightweight flash message module for angu [...] | 140 |
+| 146. | [alexchizhovcom/pwstabs](https://github.com/alexchizhovcom/pwstabs) <br/>jQuery Tabs Plugin | 139 |
+| 147. | [nashvail/ATVIcons](https://github.com/nashvail/ATVIcons) <br/>Apple TV 2015 icons recreated in HTML, CSS and JS | 137 |
+| 148. | [akveo/angular-progress-button-styles](https://github.com/akveo/angular-progress-button-styles) <br/>AngularJS version of codrops progress buttons for  [...] | 136 |
+| 149. | [jshomes/JSHomes-Platform](https://github.com/jshomes/JSHomes-Platform) <br/>A learning platform Fighting Poverty with Code htt [...] | 136 |
+| 150. | [bchanx/animated-gameboy-in-css](https://github.com/bchanx/animated-gameboy-in-css) <br/>Animated Gameboy created in CSS. | 134 |
+| 151. | [free-time/free-time.github.io](https://github.com/free-time/free-time.github.io) <br/>:movie_camera: Palestra para desenvolvedores | 134 |
+| 152. | [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) <br/>:arrow_down_small: Display any CSV (comma separate [...] | 134 |
+| 153. | [s-yadav/ScrollMenu](https://github.com/s-yadav/ScrollMenu) <br/>A new interface to replace your old boring scrollb [...] | 131 |
+| 154. | [markmarkoh/birdman](https://github.com/markmarkoh/birdman) <br/>Recreating the Birdman opening credits with HTML5  [...] | 130 |
+| 155. | [BrOrlandi/StarWarsIntroCreator](https://github.com/BrOrlandi/StarWarsIntroCreator) <br/>Create your own Star Wars intro. | 127 |
+| 156. | [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) <br/>:microphone: Sample Node.js Application for the IB [...] | 125 |
+| 157. | [codrops/AnimatedMenuIcon](https://github.com/codrops/AnimatedMenuIcon) <br/>Demo for the tutorial on how to animate an SVG men [...] | 123 |
+| 158. | [lvwangbeta/osf](https://github.com/lvwangbeta/osf) <br/>OSF是一个开放、自由、分享的内容社区类网站原型，实现多用户，内容的发布、评论、喜欢，消息传递，Fe [...] | 121 |
+| 159. | [wuhaoworld/github-issues-blog](https://github.com/wuhaoworld/github-issues-blog) <br/>基于 Github issues 的单页面静态博客 | 120 |
+| 160. | [GoesToEleven/go_web_app](https://github.com/GoesToEleven/go_web_app) <br/>go_web_app | 119 |
+| 161. | [codrops/ButtonStylesInspiration](https://github.com/codrops/ButtonStylesInspiration) <br/>Some ideas for modern and subtle button styles and [...] | 118 |
+| 162. | [pebble/slate](https://github.com/pebble/slate) <br/> Front-end framework for developing Pebble mobile  [...] | 115 |
+| 163. | [danielguillan/quantity-queries](https://github.com/danielguillan/quantity-queries) <br/>Simple quantity queries mixins for Sass | 114 |
+| 164. | [christophior/JSONConfigurablePersonalSite](https://github.com/christophior/JSONConfigurablePersonalSite) <br/>A JSON configurable personal site; example site: | 113 |
+| 165. | [ryansb/hugo-lambda](https://github.com/ryansb/hugo-lambda) <br/>Use AWS Lambda to run the Hugo static site generat [...] | 113 |
+| 166. | [callmenick/Material-Menu](https://github.com/callmenick/Material-Menu) <br/>Off canvas menu inspired by Google's material desi [...] | 113 |
+| 167. | [kobeaerts/workbench](https://github.com/kobeaerts/workbench) <br/>A basic frontend boilerplate with some opinionated [...] | 112 |
+| 168. | [dnomak/fa-scss-plus](https://github.com/dnomak/fa-scss-plus) <br/>Font Awesome Scss Plus | 111 |
+| 169. | [ForoneTech/ForoneAdmin](https://github.com/ForoneTech/ForoneAdmin) <br/>基于Laravel5.1封装的后台管理系统，支持手机和PC端访问 | 111 |
+| 170. | [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) <br/>Real-time markdown preview plugin for vim | 110 |
+| 171. | [paislee/healthy-gulp-angular](https://github.com/paislee/healthy-gulp-angular) <br/>A starting point for Gulp + Angular | 110 |
+| 172. | [Thinkmill/reacteu-app](https://github.com/Thinkmill/reacteu-app) <br/>ReactEurope TouchstoneJS Mobile App | 109 |
+| 173. | [montecruiseto/scopemount](https://github.com/montecruiseto/scopemount) <br/>10 Beautiful Themes for Telescope | 108 |
+| 174. | [nodejs/nodejs-ko](https://github.com/nodejs/nodejs-ko) <br/>node.js 한국 커뮤니티 | 108 |
+| 175. | [Huangtuzhi/top-topic-Zhihu](https://github.com/Huangtuzhi/top-topic-Zhihu) <br/>:seedling:  Display top 10 topics on Zhihu everday [...] | 108 |
+| 176. | [rynclark/flux-getting-started](https://github.com/rynclark/flux-getting-started) <br/>Getting started with Flux | 107 |
+| 177. | [JoyNeop/yart](https://github.com/JoyNeop/yart) <br/>Yet another resume tool | 107 |
+| 178. | [SuperKieran/TKL](https://github.com/SuperKieran/TKL) <br/>Hexo Theme | 106 |
+| 179. | [GSA/https](https://github.com/GSA/https) <br/>The HTTPS-Only Standard for federal domains (M-13- [...] | 106 |
+| 180. | [okoala/vue-antd](https://github.com/okoala/vue-antd) <br/>Vue UI Component & Ant.Design | 105 |
+| 181. | [yongjhih/android-gitbook](https://github.com/yongjhih/android-gitbook)  | 104 |
+| 182. | [pidcodes/pidcodes.github.com](https://github.com/pidcodes/pidcodes.github.com) <br/>Website for pid.codes | 103 |
+| 183. | [stewones/angular-morris-chart](https://github.com/stewones/angular-morris-chart) <br/>:coffee: wrapper of morris.js for angular 1.x | 102 |
+| 184. | [dmscode/Wiki-in-box](https://github.com/dmscode/Wiki-in-box) <br/>一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统，可以用来方便的管理自 [...] | 101 |
+| 185. | [solus-cold-storage/evopop-gtk-theme](https://github.com/solus-cold-storage/evopop-gtk-theme) <br/>[NOT MAINTAINED] Gtk theme for Solus Project & Bud [...] | 101 |
+| 186. | [codrops/TextStylesHoverEffects](https://github.com/codrops/TextStylesHoverEffects) <br/>A couple of creative text styles and hover effects [...] | 101 |
+| 187. | [remotesynth/Static-Site-Samples](https://github.com/remotesynth/Static-Site-Samples) <br/>A collection of simple sites built with various st [...] | 101 |
+| 188. | [smartFlash/pySecurity](https://github.com/smartFlash/pySecurity) <br/>Python tutorials | 101 |
+| 189. | [nambrot/rails-webpack-react-flux](https://github.com/nambrot/rails-webpack-react-flux) <br/>A Sample CRUD app in Rails/Webpack/React/Flux with [...] | 100 |
+| 190. | [Getbeans/Beans](https://github.com/Getbeans/Beans) <br/>Beans WordPress Theme Framework | 100 |
+| 191. | [toubou91/percircle](https://github.com/toubou91/percircle) <br/>:o: CSS percentage circle built with jQuery | 100 |
+| 192. | [Reklino/angular-resizable](https://github.com/Reklino/angular-resizable) <br/>A lightweight directive for creating resizable con [...] | 100 |
+
+## Most-Starred Users: CSS
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [ConnorAtherton](https://github.com/ConnorAtherton)  | [loaders.css](https://github.com/ConnorAtherton/loaders.css)  (5573) <br/> | 5573 |
+| 2. | [connors](https://github.com/connors)  | [photon](https://github.com/connors/photon)  (4122) <br/> | 4122 |
+| 3. | [horst3180](https://github.com/horst3180)  | [Arc-theme](https://github.com/horst3180/Arc-theme)  (2383) <br/>[arc-firefox-theme](https://github.com/horst3180/arc-firefox-theme)  (432) <br/> | 2815 |
+| 4. | [mblode](https://github.com/mblode)  | [marx](https://github.com/mblode/marx)  (900) <br/>[burger](https://github.com/mblode/burger)  (740) <br/> | 1640 |
+| 5. | [henriquea](https://github.com/henriquea)  | [minigrid](https://github.com/henriquea/minigrid)  (1548) <br/> | 1548 |
+| 6. | [gopatrik](https://github.com/gopatrik)  | [space.js](https://github.com/gopatrik/space.js)  (1389) <br/>[ajour](https://github.com/gopatrik/ajour)  (110) <br/> | 1389 |
+| 7. | [markdregan](https://github.com/markdregan)  | [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)  (1217) <br/> | 1217 |
+| 8. | [anmoljagetia](https://github.com/anmoljagetia)  | [Flatabulous](https://github.com/anmoljagetia/Flatabulous)  (1155) <br/> | 1155 |
+| 9. | [LeaVerou](https://github.com/LeaVerou)  | [awesomplete](https://github.com/LeaVerou/awesomplete)  (4171) <br/>[bliss](https://github.com/LeaVerou/bliss)  (1407) <br/>[stretchy](https://github.com/LeaVerou/stretchy)  (939) <br/>[conic-gradient](https://github.com/LeaVerou/conic-gradient)  (249) <br/> | 939 |
+| 10. | [lmgonzalves](https://github.com/lmgonzalves)  | [segment](https://github.com/lmgonzalves/segment)  (850) <br/> | 850 |
+| 11. | [maxogden](https://github.com/maxogden)  | [menubar](https://github.com/maxogden/menubar)  (1966) <br/>[electron-packager](https://github.com/maxogden/electron-packager)  (1005) <br/>[monu](https://github.com/maxogden/monu)  (819) <br/>[linux](https://github.com/maxogden/linux)  (446) <br/>[mississippi](https://github.com/maxogden/mississippi)  (191) <br/>[standard-format](https://github.com/maxogden/standard-format)  (135) <br/>[node-repl](https://github.com/maxogden/node-repl)  (102) <br/> | 819 |
+| 12. | [losvedir](https://github.com/losvedir)  | [ephemeral2](https://github.com/losvedir/ephemeral2)  (753) <br/> | 753 |
+| 13. | [jaicab](https://github.com/jaicab)  | [localFont](https://github.com/jaicab/localFont)  (752) <br/> | 752 |
+| 14. | [ben-eb](https://github.com/ben-eb)  | [cssnano](https://github.com/ben-eb/cssnano)  (696) <br/>[perfectionist](https://github.com/ben-eb/perfectionist)  (115) <br/> | 696 |
+| 15. | [yegor256](https://github.com/yegor256)  | [tacit](https://github.com/yegor256/tacit)  (692) <br/>[takes](https://github.com/yegor256/takes)  (125) <br/> | 692 |
+| 16. | [LukyVj](https://github.com/LukyVj)  | [Colorify.js](https://github.com/LukyVj/Colorify.js)  (479) <br/>[menu-to-cross-icon](https://github.com/LukyVj/menu-to-cross-icon)  (172) <br/> | 651 |
+| 17. | [wintercn](https://github.com/wintercn)  | [dog-fucked-zhihu](https://github.com/wintercn/dog-fucked-zhihu)  (613) <br/> | 613 |
+| 18. | [cmaddux](https://github.com/cmaddux)  | [littlebox](https://github.com/cmaddux/littlebox)  (552) <br/> | 552 |
+| 19. | [qrohlf](https://github.com/qrohlf)  | [trianglify-generator](https://github.com/qrohlf/trianglify-generator)  (542) <br/> | 542 |
+| 20. | [sconstantinides](https://github.com/sconstantinides)  | [FormButtons](https://github.com/sconstantinides/FormButtons)  (505) <br/> | 505 |
+| 21. | [ppoffice](https://github.com/ppoffice)  | [hexo-theme-hueman](https://github.com/ppoffice/hexo-theme-hueman)  (253) <br/>[hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus)  (221) <br/> | 474 |
+| 22. | [shlomi-noach](https://github.com/shlomi-noach)  | [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)  (441) <br/> | 441 |
+| 23. | [diafygi](https://github.com/diafygi)  | [webrtc-ips](https://github.com/diafygi/webrtc-ips)  (1883) <br/>[acme-tiny](https://github.com/diafygi/acme-tiny)  (1738) <br/>[letsencrypt-nosudo](https://github.com/diafygi/letsencrypt-nosudo)  (657) <br/>[gethttpsforfree](https://github.com/diafygi/gethttpsforfree)  (576) <br/>[gnu-pricing](https://github.com/diafygi/gnu-pricing)  (440) <br/>[webcrypto-examples](https://github.com/diafygi/webcrypto-examples)  (359) <br/> | 440 |
+| 24. | [sasha-alias](https://github.com/sasha-alias)  | [sqltabs](https://github.com/sasha-alias/sqltabs)  (428) <br/> | 428 |
+| 25. | [Kikobeats](https://github.com/Kikobeats)  | [uno-zen](https://github.com/Kikobeats/uno-zen)  (426) <br/> | 426 |
+| 26. | [thomaspark](https://github.com/thomaspark)  | [flexboxfroggy](https://github.com/thomaspark/flexboxfroggy)  (952) <br/>[pubcss](https://github.com/thomaspark/pubcss)  (425) <br/> | 425 |
+| 27. | [niftylettuce](https://github.com/niftylettuce)  | [gulp-aws-splash](https://github.com/niftylettuce/gulp-aws-splash)  (425) <br/> | 425 |
+| 28. | [delta98](https://github.com/delta98)  | [ionic-material-design-lite](https://github.com/delta98/ionic-material-design-lite)  (422) <br/> | 422 |
+| 29. | [bevacqua](https://github.com/bevacqua)  | [dragula](https://github.com/bevacqua/dragula)  (10735) <br/>[fuzzysearch](https://github.com/bevacqua/fuzzysearch)  (1647) <br/>[woofmark](https://github.com/bevacqua/woofmark)  (1224) <br/>[promisees](https://github.com/bevacqua/promisees)  (804) <br/>[horsey](https://github.com/bevacqua/horsey)  (667) <br/>[insignia](https://github.com/bevacqua/insignia)  (572) <br/>[perfschool](https://github.com/bevacqua/perfschool)  (411) <br/>[hit-that](https://github.com/bevacqua/hit-that)  (271) <br/>[local-storage](https://github.com/bevacqua/local-storage)  (255) <br/>[angular-dragula](https://github.com/bevacqua/angular-dragula)  (252) <br/>[react-dragula](https://github.com/bevacqua/react-dragula)  (166) <br/>[swivel](https://github.com/bevacqua/swivel)  (132) <br/>[insane](https://github.com/bevacqua/insane)  (123) <br/> | 411 |
+| 30. | [HugoGiraudel](https://github.com/HugoGiraudel)  | [sass-boilerplate](https://github.com/HugoGiraudel/sass-boilerplate)  (396) <br/> | 396 |
+| 31. | [danielguillan](https://github.com/danielguillan)  | [bem-constructor](https://github.com/danielguillan/bem-constructor)  (266) <br/>[quantity-queries](https://github.com/danielguillan/quantity-queries)  (114) <br/> | 380 |
+| 32. | [jamiewilson](https://github.com/jamiewilson)  | [corpus](https://github.com/jamiewilson/corpus)  (379) <br/> | 379 |
+| 33. | [iberryful](https://github.com/iberryful)  | [weixin_sogou](https://github.com/iberryful/weixin_sogou)  (378) <br/> | 378 |
+| 34. | [davidkpiano](https://github.com/davidkpiano)  | [sassdash](https://github.com/davidkpiano/sassdash)  (204) <br/>[sass-svg](https://github.com/davidkpiano/sass-svg)  (171) <br/> | 375 |
+| 35. | [jacksingleton](https://github.com/jacksingleton)  | [hacker-slides](https://github.com/jacksingleton/hacker-slides)  (371) <br/> | 371 |
+| 36. | [callmenick](https://github.com/callmenick)  | [Animating-Hamburger-Icons](https://github.com/callmenick/Animating-Hamburger-Icons)  (254) <br/>[Material-Menu](https://github.com/callmenick/Material-Menu)  (113) <br/> | 367 |
+| 37. | [LouisBarranqueiro](https://github.com/LouisBarranqueiro)  | [hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)  (365) <br/> | 365 |
+| 38. | [dwqs](https://github.com/dwqs)  | [fedHandlebook](https://github.com/dwqs/fedHandlebook)  (356) <br/> | 356 |
+| 39. | [elky](https://github.com/elky)  | [django-flat-theme](https://github.com/elky/django-flat-theme)  (352) <br/> | 352 |
+| 40. | [koudelka](https://github.com/koudelka)  | [visualixir](https://github.com/koudelka/visualixir)  (347) <br/> | 347 |
+| 41. | [riccardoscalco](https://github.com/riccardoscalco)  | [crayon](https://github.com/riccardoscalco/crayon)  (339) <br/> | 339 |
+| 42. | [JeremyFagis](https://github.com/JeremyFagis)  | [dropify](https://github.com/JeremyFagis/dropify)  (335) <br/> | 335 |
+| 43. | [silvestreh](https://github.com/silvestreh)  | [atom-material-ui](https://github.com/silvestreh/atom-material-ui)  (326) <br/> | 326 |
+| 44. | [karmazzin](https://github.com/karmazzin)  | [eloquentjavascript_ru](https://github.com/karmazzin/eloquentjavascript_ru)  (316) <br/> | 316 |
+| 45. | [paracycle](https://github.com/paracycle)  | [slackthemes](https://github.com/paracycle/slackthemes)  (311) <br/> | 311 |
+| 46. | [KOWLOR](https://github.com/KOWLOR)  | [DaftPunKonsole](https://github
