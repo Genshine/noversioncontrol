@@ -450,4 +450,122 @@
 | 444. | [JohnMount/CaffeECSExample](https://github.com/JohnMount/CaffeECSExample) <br/>Example how to run a Caffe instance on EC2 | 124 |
 | 445. | [sanketfirodiya/sample-watchkit-apps](https://github.com/sanketfirodiya/sample-watchkit-apps) <br/>Awesome list of WatchKit sample apps, tutorials an [...] | 124 |
 | 446. | [devknoll/graphql-resources](https://github.com/devknoll/graphql-resources)  | 124 |
-| 447. | [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests) <br/>Need
+| 447. | [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests) <br/>Need a JavaScript module or looking for ideas? Wel [...] | 124 |
+| 448. | [OIOTC/Liteos](https://github.com/OIOTC/Liteos)  | 123 |
+| 449. | [17mon/china_ip_list](https://github.com/17mon/china_ip_list)  | 123 |
+| 450. | [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) <br/>It is a book about the Essentials of Norman Maurer [...] | 122 |
+| 451. | [DavidCai1993/nodejs-api-doc](https://github.com/DavidCai1993/nodejs-api-doc) <br/>:notebook:Node.js api doc in Chinese | 122 |
+| 452. | [simple-android-framework-exchange/the-fucking-traps-in-android-dev](https://github.com/simple-android-framework-exchange/the-fucking-traps-in-android-dev) <br/>分享你在开发过程中遇到的坑，可以是某个具体的难点，可以分享某个好的开源库如何解决了你的问题，也可以是 [...] | 122 |
+| 453. | [TiForward/discuss](https://github.com/TiForward/discuss) <br/>By the Titanium™ community, For the Titanium™ comm [...] | 121 |
+| 454. | [filipelinhares/awesome-slack](https://github.com/filipelinhares/awesome-slack) <br/>A list of communities powered by Slack. | 121 |
+| 455. | [ABPFrameWorkGroup/AbpDocument2Chinese](https://github.com/ABPFrameWorkGroup/AbpDocument2Chinese) <br/>Abp翻译文档 | 121 |
+| 456. | [MakinGiants/awesome-mobile-dev](https://github.com/MakinGiants/awesome-mobile-dev) <br/>Awesome for mobile dev learning | 121 |
+| 457. | [aerofs/ssmp](https://github.com/aerofs/ssmp) <br/>Stupid-Simple Messaging Protocol | 121 |
+| 458. | [vic/awesome-cyclejs](https://github.com/vic/awesome-cyclejs) <br/>A curated list of awesome Cycle.js resources | 120 |
+| 459. | [awsm-org/awsm](https://github.com/awsm-org/awsm) <br/>AWSM: Amazon Web Services Modules – Re-usable, sta [...] | 120 |
+| 460. | [yenchenlin1994/awesome-watchos](https://github.com/yenchenlin1994/awesome-watchos) <br/>A curated list of awesome watchOS frameworks, libr [...] | 120 |
+| 461. | [lvwzhen/BootstrapHub](https://github.com/lvwzhen/BootstrapHub) <br/>Some Themes and Plugins for Bootstrap | 119 |
+| 462. | [CBPP/cbpp](https://github.com/CBPP/cbpp) <br/>#!++, A CrunchBang revival project. | 119 |
+| 463. | [jmcunningham/AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning) <br/>A list of resources for learning Angular2 | 119 |
+| 464. | [jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn) <br/>设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框 [...] | 119 |
+| 465. | [drupal-deconstructed/drupal-7-deconstructed](https://github.com/drupal-deconstructed/drupal-7-deconstructed) <br/>How Drupal 7 works: a plain(ish) English guide | 119 |
+| 466. | [yeungeek/awesome-android-libraries](https://github.com/yeungeek/awesome-android-libraries) <br/>awesome android libraries | 119 |
+| 467. | [notthetup/awesome-webaudio](https://github.com/notthetup/awesome-webaudio) <br/>A curated list of awesome WebAudio packages and re [...] | 118 |
+| 468. | [react-guide/react-router-cn](https://github.com/react-guide/react-router-cn) <br/>React Router 官方文档中文翻译 | 118 |
+| 469. | [solid/solid-spec](https://github.com/solid/solid-spec) <br/>The Solid spec and architecture | 116 |
+| 470. | [SirCmpwn/sr.ht](https://github.com/SirCmpwn/sr.ht) <br/>Private file hosting | 116 |
+| 471. | [fliptheweb/motion-ui-design](https://github.com/fliptheweb/motion-ui-design) <br/>Resources for inspiration, lists of software, libr [...] | 116 |
+| 472. | [art-dot-git/80x40](https://github.com/art-dot-git/80x40) <br/>80 by 40 canvas that anyone can draw on. | 116 |
+| 473. | [holacracyone/Holacracy-Constitution](https://github.com/holacracyone/Holacracy-Constitution) <br/>Platform for evolving and sharing the Holacracy Co [...] | 115 |
+| 474. | [kaepora/courscrypto](https://github.com/kaepora/courscrypto) <br/>Cours d'Introduction a la Cryptographie, donné au  [...] | 115 |
+| 475. | [lukego/blog](https://github.com/lukego/blog) <br/>Luke Gorrie's blog | 115 |
+| 476. | [amoffat/masquerade](https://github.com/amoffat/masquerade) <br/>did you know you can appear to commit as anyone? | 115 |
+| 477. | [taylorotwell/shell](https://github.com/taylorotwell/shell) <br/>:pager: My Terminal Theme | 115 |
+| 478. | [yipengmu/ReactNative_Android_QA](https://github.com/yipengmu/ReactNative_Android_QA)  | 115 |
+| 479. | [Webschool-io/be-mean-instagram-mongodb-exercises](https://github.com/Webschool-io/be-mean-instagram-mongodb-exercises) <br/>Exercícios do módulo de MongoDB do Be MEAN | 115 |
+| 480. | [Calinou/awesome-gamedev](https://github.com/Calinou/awesome-gamedev) <br/>A collection of free software and free culture res [...] | 115 |
+| 481. | [ParsePlatform/Docs](https://github.com/ParsePlatform/Docs) <br/>These are the markdown sources for all the platfor [...] | 114 |
+| 482. | [QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese](https://github.com/QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese) <br/>Objective-C编码规范，内容来自苹果、谷歌的文档翻译，自己的编码经验和其它资料的总结。 | 114 |
+| 483. | [wrobstory/pydataseattle2015](https://github.com/wrobstory/pydataseattle2015) <br/>PyData Seattle 2015: Python Data Bikeshed | 114 |
+| 484. | [xujinyang/react-native-android-guide](https://github.com/xujinyang/react-native-android-guide) <br/>致力于帮助Android开发者转react-native开发。多点一个技能树，多一份天地。 | 114 |
+| 485. | [JanzTam/iOS-blog-acticle](https://github.com/JanzTam/iOS-blog-acticle) <br/>Mark down iOS blog and acticle | 114 |
+| 486. | [oskarkrawczyk/honukai-iterm-zsh](https://github.com/oskarkrawczyk/honukai-iterm-zsh) <br/>Honukai theme and colors for Oh My ZSH and iTerm | 114 |
+| 487. | [chris-pearce/css-guidelines](https://github.com/chris-pearce/css-guidelines) <br/>CSS Guidelines I use and for working with the Scal [...] | 114 |
+| 488. | [ychow/ionic-guide](https://github.com/ychow/ionic-guide) <br/>Ionic 中文指南 | 113 |
+| 489. | [futantan/atom](https://github.com/futantan/atom) <br/>atom 快捷键 shortcuts | 113 |
+| 490. | [ruijun/Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites) <br/>The repository is Android development favorites, I [...] | 112 |
+| 491. | [wnzhang/rtb-papers](https://github.com/wnzhang/rtb-papers) <br/>A collection of research and survey papers of real [...] | 112 |
+| 492. | [brentvatne/hard-react-native-problems](https://github.com/brentvatne/hard-react-native-problems)  | 112 |
+| 493. | [luisbg/git-cheat-sheet](https://github.com/luisbg/git-cheat-sheet) <br/>Git Cheat Sheet | 111 |
+| 494. | [TheOriginalSINe/Project-M-CC](https://github.com/TheOriginalSINe/Project-M-CC) <br/>This is a repository dedicated to compiling all fi [...] | 111 |
+| 495. | [aleron75/mageres](https://github.com/aleron75/mageres) <br/>A list of useful Magento technical resources | 111 |
+| 496. | [openterrain/openterrain](https://github.com/openterrain/openterrain) <br/>Links to open terrain data sources for the entire  [...] | 111 |
+| 497. | [oceancx/android-subtitles](https://github.com/oceancx/android-subtitles)  | 111 |
+| 498. | [somini/Pixelvision2](https://github.com/somini/Pixelvision2) <br/>Steam Skin created by Pulseh and continued by Mr L [...] | 111 |
+| 499. | [planetruby/awesome-webservers](https://github.com/planetruby/awesome-webservers) <br/>A collection of awesome Ruby web servers  (single- [...] | 110 |
+| 500. | [refinery29/react-native-cheat-sheet](https://github.com/refinery29/react-native-cheat-sheet) <br/>React native cheat sheet with things that I find i [...] | 110 |
+
+## Most-Starred Users: Unknown
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [jlevy](https://github.com/jlevy)  | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)  (21490) <br/>[og-equity-compensation](https://github.com/jlevy/og-equity-compensation)  (376) <br/> | 21866 |
+| 2. | [ripienaar](https://github.com/ripienaar)  | [free-for-dev](https://github.com/ripienaar/free-for-dev)  (12450) <br/> | 12450 |
+| 3. | [0xAX](https://github.com/0xAX)  | [linux-insides](https://github.com/0xAX/linux-insides)  (10038) <br/> | 10038 |
+| 4. | [phanan](https://github.com/phanan)  | [htaccess](https://github.com/phanan/htaccess)  (8963) <br/>[koel](https://github.com/phanan/koel)  (4927) <br/> | 8963 |
+| 5. | [MaximAbramchuck](https://github.com/MaximAbramchuck)  | [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews)  (8267) <br/> | 8267 |
+| 6. | [cjwirth](https://github.com/cjwirth)  | [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)  (7027) <br/>[RichEditorView](https://github.com/cjwirth/RichEditorView)  (431) <br/> | 7027 |
+| 7. | [herrbischoff](https://github.com/herrbischoff)  | [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)  (6492) <br/> | 6492 |
+| 8. | [sindresorhus](https://github.com/sindresorhus)  | [awesome-electron](https://github.com/sindresorhus/awesome-electron)  (4040) <br/>[speed-test](https://github.com/sindresorhus/speed-test)  (1369) <br/>[awesome-scifi](https://github.com/sindresorhus/awesome-scifi)  (894) <br/>[xo](https://github.com/sindresorhus/xo)  (820) <br/>[caprine](https://github.com/sindresorhus/caprine)  (586) <br/>[amas](https://github.com/sindresorhus/amas)  (405) <br/>[hasha](https://github.com/sindresorhus/hasha)  (399) <br/>[ama](https://github.com/sindresorhus/ama)  (380) <br/>[wallpaper](https://github.com/sindresorhus/wallpaper)  (276) <br/>[generator-electron](https://github.com/sindresorhus/generator-electron)  (250) <br/>[generator-nm](https://github.com/sindresorhus/generator-nm)  (248) <br/>[electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate)  (224) <br/>[node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate)  (220) <br/>[pageres-cli](https://github.com/sindresorhus/pageres-cli)  (202) <br/>[elegant-spinner](https://github.com/sindresorhus/elegant-spinner)  (156) <br/>[is-progressive](https://github.com/sindresorhus/is-progressive)  (146) <br/>[kill-tabs](https://github.com/sindresorhus/kill-tabs)  (145) <br/>[log-update](https://github.com/sindresorhus/log-update)  (142) <br/>[module-requests](https://github.com/sindresorhus/module-requests)  (124) <br/>[electron-debug](https://github.com/sindresorhus/electron-debug)  (117) <br/>[np](https://github.com/sindresorhus/np)  (111) <br/>[pify](https://github.com/sindresorhus/pify)  (109) <br/> | 5843 |
+| 9. | [bendc](https://github.com/bendc)  | [frontend-guidelines](https://github.com/bendc/frontend-guidelines)  (5776) <br/>[animateplus](https://github.com/bendc/animateplus)  (1707) <br/>[animate](https://github.com/bendc/animate)  (369) <br/> | 5776 |
+| 10. | [AllThingsSmitty](https://github.com/AllThingsSmitty)  | [css-protips](https://github.com/AllThingsSmitty/css-protips)  (5323) <br/>[jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)  (3512) <br/> | 5323 |
+| 11. | [neutraltone](https://github.com/neutraltone)  | [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources)  (4979) <br/> | 4979 |
+| 12. | [lukasz-madon](https://github.com/lukasz-madon)  | [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)  (4624) <br/> | 4624 |
+| 13. | [hangtwenty](https://github.com/hangtwenty)  | [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)  (4498) <br/> | 4498 |
+| 14. | [bboyfeiyu](https://github.com/bboyfeiyu)  | [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier)  (3674) <br/>[AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus)  (715) <br/>[iOS-tech-frontier](https://github.com/bboyfeiyu/iOS-tech-frontier)  (613) <br/>[Colorful](https://github.com/bboyfeiyu/Colorful)  (587) <br/> | 4287 |
+| 15. | [Kickball](https://github.com/Kickball)  | [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)  (4182) <br/> | 4182 |
+| 16. | [mikechau](https://github.com/mikechau)  | [react-primer-draft](https://github.com/mikechau/react-primer-draft)  (3579) <br/> | 3579 |
+| 17. | [adamwulf](https://github.com/adamwulf)  | [app-launch-guide](https://github.com/adamwulf/app-launch-guide)  (3372) <br/>[PerformanceBezier](https://github.com/adamwulf/PerformanceBezier)  (265) <br/> | 3372 |
+| 18. | [agis-](https://github.com/agis-)  | [git-style-guide](https://github.com/agis-/git-style-guide)  (3150) <br/> | 3150 |
+| 19. | [bevacqua](https://github.com/bevacqua)  | [dragula](https://github.com/bevacqua/dragula)  (10735) <br/>[es6](https://github.com/bevacqua/es6)  (3143) <br/>[fuzzysearch](https://github.com/bevacqua/fuzzysearch)  (1647) <br/>[woofmark](https://github.com/bevacqua/woofmark)  (1224) <br/>[promisees](https://github.com/bevacqua/promisees)  (804) <br/>[horsey](https://github.com/bevacqua/horsey)  (667) <br/>[insignia](https://github.com/bevacqua/insignia)  (572) <br/>[perfschool](https://github.com/bevacqua/perfschool)  (411) <br/>[hit-that](https://github.com/bevacqua/hit-that)  (271) <br/>[local-storage](https://github.com/bevacqua/local-storage)  (255) <br/>[angular-dragula](https://github.com/bevacqua/angular-dragula)  (252) <br/>[react-dragula](https://github.com/bevacqua/react-dragula)  (166) <br/>[swivel](https://github.com/bevacqua/swivel)  (132) <br/>[insane](https://github.com/bevacqua/insane)  (123) <br/> | 3143 |
+| 20. | [philipwalton](https://github.com/philipwalton)  | [flexbugs](https://github.com/philipwalton/flexbugs)  (3031) <br/> | 3031 |
+| 21. | [iCHAIT](https://github.com/iCHAIT)  | [awesome-osx](https://github.com/iCHAIT/awesome-osx)  (2991) <br/> | 2991 |
+| 22. | [mariuszostrowski](https://github.com/mariuszostrowski)  | [subway](https://github.com/mariuszostrowski/subway)  (2611) <br/>[wireframingsketch](https://github.com/mariuszostrowski/wireframingsketch)  (254) <br/> | 2865 |
+| 23. | [ele828](https://github.com/ele828)  | [react-native-guide](https://github.com/ele828/react-native-guide)  (2845) <br/> | 2845 |
+| 24. | [xgrommx](https://github.com/xgrommx)  | [awesome-redux](https://github.com/xgrommx/awesome-redux)  (2655) <br/>[awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming)  (161) <br/> | 2816 |
+| 25. | [rstacruz](https://github.com/rstacruz)  | [rscss](https://github.com/rstacruz/rscss)  (2804) <br/>[psdinfo](https://github.com/rstacruz/psdinfo)  (135) <br/> | 2804 |
+| 26. | [iosre](https://github.com/iosre)  | [iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering)  (2636) <br/> | 2636 |
+| 27. | [timjacobi](https://github.com/timjacobi)  | [angular2-education](https://github.com/timjacobi/angular2-education)  (2603) <br/> | 2603 |
+| 28. | [gilbarbara](https://github.com/gilbarbara)  | [logos](https://github.com/gilbarbara/logos)  (2522) <br/>[react-joyride](https://github.com/gilbarbara/react-joyride)  (161) <br/> | 2522 |
+| 29. | [pcqpcq](https://github.com/pcqpcq)  | [open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)  (2501) <br/> | 2501 |
+| 30. | [steeve](https://github.com/steeve)  | [france.code-civil](https://github.com/steeve/france.code-civil)  (2431) <br/> | 2431 |
+| 31. | [cyrus-and](https://github.com/cyrus-and)  | [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)  (2365) <br/> | 2365 |
+| 32. | [X140Yu](https://github.com/X140Yu)  | [Developing_iOS_8_Apps_With_Swift](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift)  (2322) <br/> | 2322 |
+| 33. | [jessicard](https://github.com/jessicard)  | [remote-jobs](https://github.com/jessicard/remote-jobs)  (2252) <br/> | 2252 |
+| 34. | [danluu](https://github.com/danluu)  | [post-mortems](https://github.com/danluu/post-mortems)  (1917) <br/> | 1917 |
+| 35. | [xirong](https://github.com/xirong)  | [my-git](https://github.com/xirong/my-git)  (1526) <br/>[my-markdown](https://github.com/xirong/my-markdown)  (234) <br/> | 1760 |
+| 36. | [dariubs](https://github.com/dariubs)  | [GoBooks](https://github.com/dariubs/GoBooks)  (1749) <br/> | 1749 |
+| 37. | [ujjwalkarn](https://github.com/ujjwalkarn)  | [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)  (1723) <br/> | 1723 |
+| 38. | [szhu](https://github.com/szhu)  | [3030](https://github.com/szhu/3030)  (1622) <br/> | 1622 |
+| 39. | [HugoGiraudel](https://github.com/HugoGiraudel)  | [SJSJ](https://github.com/HugoGiraudel/SJSJ)  (1248) <br/>[sass-boilerplate](https://github.com/HugoGiraudel/sass-boilerplate)  (396) <br/>[sass-guidelines](https://github.com/HugoGiraudel/sass-guidelines)  (305) <br/> | 1553 |
+| 40. | [schwa](https://github.com/schwa)  | [Swift-Community-Best-Practices](https://github.com/schwa/Swift-Community-Best-Practices)  (1440) <br/>[TimingFunctionEditor](https://github.com/schwa/TimingFunctionEditor)  (108) <br/> | 1440 |
+| 41. | [mattdesl](https://github.com/mattdesl)  | [promise-cookbook](https://github.com/mattdesl/promise-cookbook)  (739) <br/>[graphics-resources](https://github.com/mattdesl/graphics-resources)  (699) <br/>[budo](https://github.com/mattdesl/budo)  (589) <br/>[svg-mesh-3d](https://github.com/mattdesl/svg-mesh-3d)  (496) <br/>[prot](https://github.com/mattdesl/prot)  (137) <br/>[ghrepo](https://github.com/mattdesl/ghrepo)  (135) <br/> | 1438 |
+| 42. | [addyosmani](https://github.com/addyosmani)  | [es6-equivalents-in-es5](https://github.com/addyosmani/es6-equivalents-in-es5)  (1434) <br/> | 1434 |
+| 43. | [kjw0612](https://github.com/kjw0612)  | [awesome-rnn](https://github.com/kjw0612/awesome-rnn)  (774) <br/>[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)  (498) <br/>[awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)  (143) <br/> | 1415 |
+| 44. | [sxyx2008](https://github.com/sxyx2008)  | [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)  (1026) <br/>[awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart)  (376) <br/> | 1402 |
+| 45. | [Xyl2k](https://github.com/Xyl2k)  | [TSA-Travel-Sentry-master-keys](https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys)  (1395) <br/> | 1395 |
+| 46. | [breakwa11](https://github.com/breakwa11)  | [shadowsocks-rss](https://github.com/breakwa11/shadowsocks-rss)  (1381) <br/> | 1381 |
+| 47. | [Juude](https://github.com/Juude)  | [awesome-android-performance](https://github.com/Juude/awesome-android-performance)  (1379) <br/>[droidReverse](https://github.com/Juude/droidReverse)  (838) <br/> | 1379 |
+| 48. | [evancz](https://github.com/evancz)  | [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial)  (1376) <br/> | 1376 |
+| 49. | [macdao](https://github.com/macdao)  | [ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)  (1358) <br/> | 1358 |
+| 50. | [owainlewis](https://github.com/owainlewis)  | [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)  (1233) <br/>[falkor](https://github.com/owainlewis/falkor)  (180) <br/>[microservice-design](https://github.com/owainlewis/microservice-design)  (106) <br/>[status](https://github.com/owainlewis/status)  (100) <br/> | 1339 |
+| 51. | [tadast](https://github.com/tadast)  | [switching-to-contracting-uk](https://github.com/tadast/switching-to-contracting-uk)  (1298) <br/> | 1298 |
+| 52. | [ChristosChristofidis](https://github.com/ChristosChristofidis)  | [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)  (1275) <br/> | 1275 |
+| 53. | [MengTo](https://github.com/MengTo)  | [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp)  (1489) <br/>[AppStoreSketch](https://github.com/MengTo/AppStoreSketch)  (1243) <br/> | 1243 |
+| 54. | [KevinHM](https://github.com/KevinHM)  | [ios-good-practices-the-lastest-version](https://github.com/KevinHM/ios-good-practices-the-lastest-version)  (850) <br/>[FunctionalReactiveProgrammingOniOS](https://github.com/KevinHM/FunctionalReactiveProgrammingOniOS)  (370) <br/> | 1220 |
+| 55. | [vbarbaresi](https://github.com/vbarbaresi)  | [MetroGit](https://github.com/vbarbaresi/MetroGit)  (1174) <br/> | 1174 |
+| 56. | [nathco](https://github.com/nathco)  | [Office-Code-Pro](https://github.com/nathco/Office-Code-Pro)  (1170) <br/>[jQuery.scrollSpeed](https://github.com/nathco/jQuery.scrollSpeed)  (213) <br/>[jQuery.loadScroll](https://github.com/nathco/jQuery.loadScroll)  (179) <br/>[jQuery.imgx](https://github.com/nathco/jQuery.imgx)  (163) <br/> | 1170 |
+| 57. | [clowwindy](https://github.com/clowwindy)  | [Awesome-Networking](https://github.com/clowwindy/Awesome-Networking)  (1170) <br/>[ShadowVPN-iOS](https://github.com/clowwindy/ShadowVPN-iOS)  (275) <br/> | 1170 |
+| 58. | [marcelgsantos](https://github.com/marcelgsantos)  | [learning-oop-in-php](https://github.com/marcelgsantos/learning-oop-in-php)  (1138) <br/> | 1138 |
+| 59. | [Randommood](https://github.com/Randommood)  | [Strangeloop2015](https://github.com/Randommood/Strangeloop2015)  (1136) <br/> | 1136 |
+| 60. | [100mango](https://github.com/100mango)  | [zen](https://github.com/100mango/zen)  (1135) <br/>[QRCatcher](https://github.com/100mango/QRCatcher)  (111) <br/> | 1
