@@ -387,4 +387,156 @@
 | 381. | [rietveld-codereview/rietveld](https://github.com/rietveld-codereview/rietveld) <br/>Code Review, hosted on Google App Engine | S:146 F:50 |
 | 382. | [GoogleCloudPlatform/flask-talisman](https://github.com/GoogleCloudPlatform/flask-talisman) <br/>HTTP security headers for Flask | S:146 F:3 |
 | 383. | [LionSec/katoolin](https://github.com/LionSec/katoolin) <br/>Automatically install all Kali linux tools | S:146 F:52 |
-| 384. | [phaethon/scapy](https://github.com/phaethon/scapy) <br/>Network packet and pcap file crafting/sniffing/man... | S:146 F:30 
+| 384. | [phaethon/scapy](https://github.com/phaethon/scapy) <br/>Network packet and pcap file crafting/sniffing/man... | S:146 F:30 |
+| 385. | [sdiehl/numpile](https://github.com/sdiehl/numpile) <br/>A tiny 1000 line LLVM-based numeric specializer fo... | S:146 F:22 |
+| 386. | [mattya/chainer-gogh](https://github.com/mattya/chainer-gogh)  | S:145 F:15 |
+| 387. | [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3) <br/>Learn Python 3 Sample Code | S:144 F:207 |
+| 388. | [james9909/stackanswers.vim](https://github.com/james9909/stackanswers.vim) <br/>Vim plugin to fetch answers from Stack Overflow | S:144 F:11 |
+| 389. | [jacebrowning/memegen](https://github.com/jacebrowning/memegen) <br/>Generates memes from URLs. | S:144 F:23 |
+| 390. | [alexmojaki/funcfinder](https://github.com/alexmojaki/funcfinder) <br/>A tool for automatically solving problems of the f... | S:144 F:6 |
+| 391. | [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) <br/>Docker packaged smart DNS proxy to watch Netflix o... | S:144 F:37 |
+| 392. | [KirkHadley/icml2015_papers](https://github.com/KirkHadley/icml2015_papers) <br/>Links to ICML 2015 papers available on arxiv | S:143 F:22 |
+| 393. | [tanteng/learn-python](https://github.com/tanteng/learn-python) <br/>学习python3小脚本 | S:143 F:65 |
+| 394. | [agermanidis/thingscoop](https://github.com/agermanidis/thingscoop) <br/>Search and filter videos based on objects that app... | S:143 F:16 |
+| 395. | [danijar/layered](https://github.com/danijar/layered) <br/>Clean implementation of feed forward neural networ... | S:143 F:8 |
+| 396. | [jjyr/zerotest](https://github.com/jjyr/zerotest) <br/>Lazy guy's testing tool. Capture HTTP traffic and ... | S:143 F:7 |
+| 397. | [pentestmonkey/windows-privesc-check](https://github.com/pentestmonkey/windows-privesc-check) <br/>Standalone Executable to Check for Simple Privileg... | S:142 F:39 |
+| 398. | [lao605/shadowsocks_analysis](https://github.com/lao605/shadowsocks_analysis) <br/>shadowsocks sourcecode with my own comment | S:142 F:93 |
+| 399. | [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) <br/>An open-source music library manager / player for ... | S:142 F:30 |
+| 400. | [AlexEne/CCrush-Bot](https://github.com/AlexEne/CCrush-Bot) <br/>A python bot that plays candy crush | S:142 F:16 |
+| 401. | [onyxfish/proof](https://github.com/onyxfish/proof) <br/>A Python library for creating fast, repeatable and... | S:141 F:10 |
+| 402. | [jfalken/github_commit_crawler](https://github.com/jfalken/github_commit_crawler) <br/>Tool used to continuously monitor a Github org for... | S:140 F:22 |
+| 403. | [hangoutsbot/hangoutsbot](https://github.com/hangoutsbot/hangoutsbot) <br/>Google Hangouts bot | S:140 F:92 |
+| 404. | [zeruniverse/QQParking](https://github.com/zeruniverse/QQParking) <br/>QQBot, QQ机器人，用于QQ挂机。自动回复私聊及临时对话，记录留言并转发至邮箱，账号（被踢）下... | S:140 F:57 |
+| 405. | [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) <br/>Share threat information with vetted partners | S:140 F:53 |
+| 406. | [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) <br/>Chainer implementation of Deep Convolutional Gener... | S:139 F:18 |
+| 407. | [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) <br/>Fast subdomains enumeration tool for penetration t... | S:139 F:56 |
+| 408. | [hustcc/iOS-private-api-checker](https://github.com/hustcc/iOS-private-api-checker) <br/>iOS-private-api-checker 苹果iOS私有API检查工具 Developer t... | S:138 F:33 |
+| 409. | [ssut/py-googletrans](https://github.com/ssut/py-googletrans) <br/>Free Unofficial Google Translate API for Python. T... | S:137 F:10 |
+| 410. | [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) <br/>Generate host overview from ansible fact gathering... | S:137 F:22 |
+| 411. | [karpathy/arxiv-sanity-preserver](https://github.com/karpathy/arxiv-sanity-preserver) <br/>Quick web interface for browsing recent arxiv subm... | S:137 F:26 |
+| 412. | [nvdv/vprof](https://github.com/nvdv/vprof) <br/>Visual Python profiler | S:137 F:10 |
+| 413. | [woodrush/neural-art-tf](https://github.com/woodrush/neural-art-tf) <br/>"A neural algorithm of Artistic style" in tensorfl... | S:137 F:16 |
+| 414. | [jliljebl/flowblade](https://github.com/jliljebl/flowblade) <br/>Automatically exported from code.google.com/p/flow... | S:136 F:15 |
+| 415. | [brandon-rhodes/pycon-pandas-tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) <br/>PyCon 2015 Pandas tutorial materials | S:136 F:95 |
+| 416. | [conorpp/btproxy](https://github.com/conorpp/btproxy) <br/>Man in the Middle analysis tool for Bluetooth. | S:136 F:16 |
+| 417. | [317070/Twitch-plays-LSD-neural-net](https://github.com/317070/Twitch-plays-LSD-neural-net)  | S:136 F:22 |
+| 418. | [timlib/webXray](https://github.com/timlib/webXray) <br/>webXray is a tool for detecting third-party HTTP r... | S:136 F:10 |
+| 419. | [lijiejie/subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) <br/>A simple and fast sub domain brute tool for pentes... | S:136 F:120 |
+| 420. | [nbs-system/php-malware-finder](https://github.com/nbs-system/php-malware-finder) <br/>Detect potentially malicious PHP files | S:135 F:36 |
+| 421. | [vertical-knowledge/ripozo](https://github.com/vertical-knowledge/ripozo) <br/>A tool for quickly creating REST/HATEOAS/Hypermedi... | S:135 F:10 |
+| 422. | [vsergeev/python-periphery](https://github.com/vsergeev/python-periphery) <br/>A pure Python 2/3 library for peripheral I/O (GPIO... | S:134 F:11 |
+| 423. | [NathanEpstein/reinforce](https://github.com/NathanEpstein/reinforce) <br/>simple reinforcement learning in Python | S:133 F:23 |
+| 424. | [ejwa/gitinspector](https://github.com/ejwa/gitinspector) <br/>:bar_chart: The statistical analysis tool for git ... | S:132 F:30 |
+| 425. | [JakeCooper/OnePlusTwoBot](https://github.com/JakeCooper/OnePlusTwoBot) <br/>A series of exploits used to jump the OnePlus rese... | S:131 F:115 |
+| 426. | [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) <br/>Entity Relation Diagrams generation tool | S:131 F:6 |
+| 427. | [manugarri/cron-metrics](https://github.com/manugarri/cron-metrics) <br/>Implementation of a monitoring system of interval ... | S:131 F:8 |
+| 428. | [zeruniverse/QQRobot](https://github.com/zeruniverse/QQRobot) <br/>QQBot, QQ机器人(群聊小黄鸡) LINUX挂机版, SmartQQ协议。Python版本及w... | S:131 F:75 |
+| 429. | [lonetwin/supycache](https://github.com/lonetwin/supycache) <br/>Simple yet capable caching decorator for python | S:131 F:3 |
+| 430. | [maxpumperla/elephas](https://github.com/maxpumperla/elephas) <br/>Distributed Deep learning with Keras & Spark | S:130 F:22 |
+| 431. | [zhangqichuan/CheungSSH](https://github.com/zhangqichuan/CheungSSH) <br/>自动化运维工具 | S:130 F:87 |
+| 432. | [revsys/django-test-plus](https://github.com/revsys/django-test-plus) <br/>Useful additions to Django's default TestCase | S:130 F:9 |
+| 433. | [garabik/grc](https://github.com/garabik/grc) <br/>generic colouriser | S:130 F:19 |
+| 434. | [minrk/clingkernel](https://github.com/minrk/clingkernel) <br/>C++ Kernel for Jupyter with Cling | S:130 F:16 |
+| 435. | [RandomStorm/Bluto](https://github.com/RandomStorm/Bluto) <br/>Recon, Subdomain Bruting, Zone Transfers | S:129 F:32 |
+| 436. | [ant4g0nist/lisa.py](https://github.com/ant4g0nist/lisa.py) <br/>-An Exploit Dev Swiss Army Knife. | S:129 F:14 |
+| 437. | [zdenop/lector](https://github.com/zdenop/lector) <br/>Automatically exported from code.google.com/p/lect... | S:129 F:6 |
+| 438. | [dorneanu/smalisca](https://github.com/dorneanu/smalisca) <br/>Static Code Analysis for Smali files | S:128 F:28 |
+| 439. | [ring04h/weakfilescan](https://github.com/ring04h/weakfilescan) <br/>动态多线程敏感信息泄露检测工具 | S:127 F:141 |
+| 440. | [mre/receipt-parser](https://github.com/mre/receipt-parser) <br/>A fuzzy (supermarket) receipt parser written in Py... | S:127 F:12 |
+| 441. | [timothycrosley/jiphy](https://github.com/timothycrosley/jiphy) <br/>Your client side done in a jiphy. Python to JavaSc... | S:127 F:9 |
+| 442. | [AtnNn/rethinkdb-stream](https://github.com/AtnNn/rethinkdb-stream) <br/>Proof of concept for streaming binary data using R... | S:126 F:3 |
+| 443. | [m57/ARDT](https://github.com/m57/ARDT) <br/>Akamai Reflective DDoS Tool - Attack the origin ho... | S:126 F:33 |
+| 444. | [rspivak/lsbaws](https://github.com/rspivak/lsbaws) <br/>Let's Build A Web Server | S:126 F:37 |
+| 445. | [itdxer/neupy](https://github.com/itdxer/neupy) <br/>NeuPy is a Python library for Artificial Neural Ne... | S:126 F:12 |
+| 446. | [fy0/fpage](https://github.com/fy0/fpage) <br/>Tornado project generator. You can start a project... | S:126 F:18 |
+| 447. | [tatanus/SPF](https://github.com/tatanus/SPF) <br/>SpeedPhishing Framework | S:126 F:38 |
+| 448. | [projectatomic/atomic](https://github.com/projectatomic/atomic) <br/>Atomic Run Tool for installing/running/managing co... | S:126 F:71 |
+| 449. | [erocarrera/pefile](https://github.com/erocarrera/pefile) <br/>Automatically exported from code.google.com/p/pefi... | S:125 F:68 |
+| 450. | [chaitin/sqlchop](https://github.com/chaitin/sqlchop) <br/>A novel SQL injection detection engine built on to... | S:125 F:28 |
+| 451. | [Leo-G/Flask-Scaffold](https://github.com/Leo-G/Flask-Scaffold) <br/>Prototype Database driven CRUD dashboards and REST... | S:125 F:19 |
+| 452. | [iamaziz/TermFeed](https://github.com/iamaziz/TermFeed) <br/>A simple terminal feed reader. | S:124 F:3 |
+| 453. | [mardix/Propel](https://github.com/mardix/Propel) <br/>Deploy multiple Flask/Django (or PHP/HTML) applica... | S:124 F:2 |
+| 454. | [n1nj4sec/pr0cks](https://github.com/n1nj4sec/pr0cks) <br/>python script setting up a transparent proxy to fo... | S:124 F:26 |
+| 455. | [roglew/pappy-proxy](https://github.com/roglew/pappy-proxy) <br/>An intercepting proxy for web application testing | S:124 F:7 |
+| 456. | [REMitchell/python-scraping](https://github.com/REMitchell/python-scraping) <br/>Code samples from the book Web Scraping with Pytho... | S:123 F:110 |
+| 457. | [farizrahman4u/seq2seq](https://github.com/farizrahman4u/seq2seq) <br/>Sequence to Sequence Learning with Keras | S:123 F:28 |
+| 458. | [karulis/pybluez](https://github.com/karulis/pybluez) <br/>Bluetooth Python extension module | S:123 F:39 |
+| 459. | [fuzzing/MFFA](https://github.com/fuzzing/MFFA) <br/>Media Fuzzing Framework for Android | S:122 F:51 |
+| 460. | [deltaflyer4747/Xiaomi_Yi](https://github.com/deltaflyer4747/Xiaomi_Yi) <br/>Xiaomi Yi Camera settings via python (PC) script | S:122 F:34 |
+| 461. | [puniaze/PortDog](https://github.com/puniaze/PortDog)  | S:122 F:34 |
+| 462. | [aliyun/aliyun-cli](https://github.com/aliyun/aliyun-cli)  | S:121 F:53 |
+| 463. | [aromanovich/jsl](https://github.com/aromanovich/jsl) <br/>A Python DSL for describing JSON schemas | S:121 F:8 |
+| 464. | [seemethere/nba_py](https://github.com/seemethere/nba_py) <br/>Python client for NBA statistics located at stats.... | S:121 F:33 |
+| 465. | [whitepacket/ZIB-Trojan](https://github.com/whitepacket/ZIB-Trojan) <br/>The Open Tor Botnet (ZIB); Python-based forever-FU... | S:121 F:41 |
+| 466. | [rtluckie/seria](https://github.com/rtluckie/seria)  | S:120 F:11 |
+| 467. | [n0tr00t/Beehive](https://github.com/n0tr00t/Beehive) <br/>Beehive is an open-source vulnerability detection ... | S:120 F:44 |
+| 468. | [retext-project/retext](https://github.com/retext-project/retext) <br/>ReText: Simple but powerful editor for Markdown an... | S:120 F:16 |
+| 469. | [Dynetics/Malfunction](https://github.com/Dynetics/Malfunction) <br/>Malware Analysis Tool using Function Level Fuzzy H... | S:119 F:19 |
+| 470. | [cheery/pytci](https://github.com/cheery/pytci) <br/>Python Compiler Infrastructure | S:119 F:7 |
+| 471. | [CuriousAI/ladder](https://github.com/CuriousAI/ladder) <br/>Ladder network is a deep learning algorithm that c... | S:119 F:40 |
+| 472. | [HIPS/hypergrad](https://github.com/HIPS/hypergrad) <br/>Exploring differentiation with respect to hyperpar... | S:119 F:15 |
+| 473. | [thoppe/orthographic-pedant](https://github.com/thoppe/orthographic-pedant) <br/>Correcting common typos in GitHub one pull request... | S:119 F:7 |
+| 474. | [OpenBazaar/OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server) <br/>Server daemon for communication between client and... | S:119 F:49 |
+| 475. | [kyunghyuncho/dl4mt-material](https://github.com/kyunghyuncho/dl4mt-material)  | S:118 F:45 |
+| 476. | [install-logos/ricedb](https://github.com/install-logos/ricedb) <br/>A simple, portable configuration file manager | S:118 F:12 |
+| 477. | [laike9m/ezcf](https://github.com/laike9m/ezcf) <br/>Import configuration file for Pythonista | S:118 F:9 |
+| 478. | [no13bus/ohmyrepo](https://github.com/no13bus/ohmyrepo) <br/>use webhook to analysis that who star your reposit... | S:117 F:13 |
+| 479. | [tomato42/tlsfuzzer](https://github.com/tomato42/tlsfuzzer) <br/>TLS test suite and fuzzer | S:117 F:11 |
+| 480. | [dciabrin/ngdevkit](https://github.com/dciabrin/ngdevkit) <br/>Open source development for Neo-Geo | S:117 F:8 |
+| 481. | [avisingh599/visual-qa](https://github.com/avisingh599/visual-qa) <br/>Keras-based LSTM/CNN models for Visual Question An... | S:117 F:26 |
+| 482. | [arrayfire/arrayfire-python](https://github.com/arrayfire/arrayfire-python) <br/>Python bindings for ArrayFire: A general purpose G... | S:117 F:15 |
+| 483. | [rancher/vm](https://github.com/rancher/vm) <br/>Package and Run Virtual Machines as Docker Contain... | S:117 F:29 |
+| 484. | [armbues/ioc_parser](https://github.com/armbues/ioc_parser) <br/>Tool to extract indicators of compromise from secu... | S:117 F:38 |
+| 485. | [s3ql/main](https://github.com/s3ql/main) <br/>a full featured file system for online data storag... | S:117 F:6 |
+| 486. | [pfalcon/ScratchABit](https://github.com/pfalcon/ScratchABit) <br/>Easily retargetable and hackable interactive disas... | S:116 F:11 |
+| 487. | [Feiox/useless-websites](https://github.com/Feiox/useless-websites) <br/>Collect garbage website on the internet | S:116 F:18 |
+| 488. | [wbond/oscrypto](https://github.com/wbond/oscrypto) <br/>Compiler-free Python crypto library backed by the ... | S:115 F:5 |
+| 489. | [grahamgilbert/imagr](https://github.com/grahamgilbert/imagr)  | S:115 F:21 |
+| 490. | [jmcarp/flask-apispec](https://github.com/jmcarp/flask-apispec)  | S:114 F:4 |
+| 491. | [thalesians/pythalesians](https://github.com/thalesians/pythalesians) <br/>Python Open Source Financial Library to backtest t... | S:114 F:31 |
+| 492. | [skaae/lasagne-draw](https://github.com/skaae/lasagne-draw) <br/>Implementation of the DRAW network in lasagne | S:114 F:28 |
+| 493. | [jsvine/markovify](https://github.com/jsvine/markovify) <br/>A simple, extensible Markov chain generator. | S:113 F:18 |
+| 494. | [ipython/ipyparallel](https://github.com/ipython/ipyparallel) <br/>Interactive Parallel Computing in Python | S:113 F:49 |
+| 495. | [dennybritz/rnn-tutorial-rnnlm](https://github.com/dennybritz/rnn-tutorial-rnnlm) <br/>Recurrent Neural Network Tutorial, Part 2 - Implem... | S:113 F:46 |
+| 496. | [googlei18n/noto-emoji](https://github.com/googlei18n/noto-emoji) <br/>Noto Emoji fonts | S:113 F:14 |
+| 497. | [jeongyoonlee/Kaggler](https://github.com/jeongyoonlee/Kaggler) <br/>Code for Kaggle Data Science Competitions | S:113 F:29 |
+| 498. | [dgilland/hashfs](https://github.com/dgilland/hashfs) <br/>A content-addressable file management system for P... | S:112 F:13 |
+| 499. | [sdispater/orator](https://github.com/sdispater/orator) <br/>The Orator ORM provides a simple yet beautiful Act... | S:112 F:11 |
+| 500. | [larsks/dockerize](https://github.com/larsks/dockerize) <br/>A tool for creating minimal docker images from dyn... | S:112 F:9 |
+
+## Most-Starred Users: Python
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [nvbn](https://github.com/nvbn)  | [thefuck](https://github.com/nvbn/thefuck)  (16449) <br/> | 16449 |
+| 2. | [donnemartin](https://github.com/donnemartin)  | [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)  (3945) <br/>[saws](https://github.com/donnemartin/saws)  (2591) <br/>[interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)  (2121) <br/>[awesome-aws](https://github.com/donnemartin/awesome-aws)  (1631) <br/>[dev-setup](https://github.com/donnemartin/dev-setup)  (1581) <br/> | 11869 |
+| 3. | [minimaxir](https://github.com/minimaxir)  | [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)  (9387) <br/> | 9387 |
+| 4. | [fchollet](https://github.com/fchollet)  | [keras](https://github.com/fchollet/keras)  (3731) <br/> | 3731 |
+| 5. | [KeyboardFire](https://github.com/KeyboardFire)  | [mkcast](https://github.com/KeyboardFire/mkcast)  (3341) <br/> | 3341 |
+| 6. | [drduh](https://github.com/drduh)  | [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)  (3329) <br/> | 3329 |
+| 7. | [larsenwork](https://github.com/larsenwork)  | [monoid](https://github.com/larsenwork/monoid)  (3019) <br/> | 3019 |
+| 8. | [avinassh](https://github.com/avinassh)  | [rockstar](https://github.com/avinassh/rockstar)  (2623) <br/>[status](https://github.com/avinassh/status)  (239) <br/> | 2862 |
+| 9. | [reinderien](https://github.com/reinderien)  | [mimic](https://github.com/reinderien/mimic)  (2830) <br/> | 2830 |
+| 10. | [chrissimpkins](https://github.com/chrissimpkins)  | [codeface](https://github.com/chrissimpkins/codeface)  (2808) <br/> | 2808 |
+| 11. | [karan](https://github.com/karan)  | [joe](https://github.com/karan/joe)  (2118) <br/>[slack-overflow](https://github.com/karan/slack-overflow)  (678) <br/>[slack-news](https://github.com/karan/slack-news)  (108) <br/> | 2796 |
+| 12. | [JuanPotato](https://github.com/JuanPotato)  | [Legofy](https://github.com/JuanPotato/Legofy)  (2667) <br/> | 2667 |
+| 13. | [rhiever](https://github.com/rhiever)  | [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)  (1979) <br/>[tpot](https://github.com/rhiever/tpot)  (455) <br/> | 2434 |
+| 14. | [diafygi](https://github.com/diafygi)  | [acme-tiny](https://github.com/diafygi/acme-tiny)  (1739) <br/>[letsencrypt-nosudo](https://github.com/diafygi/letsencrypt-nosudo)  (658) <br/>[gethttpsforfree](https://github.com/diafygi/gethttpsforfree)  (576) <br/> | 2397 |
+| 15. | [10se1ucgo](https://github.com/10se1ucgo)  | [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking)  (2315) <br/> | 2315 |
+| 16. | [rushter](https://github.com/rushter)  | [data-science-blogs](https://github.com/rushter/data-science-blogs)  (2214) <br/> | 2214 |
+| 17. | [ryankiros](https://github.com/ryankiros)  | [neural-storyteller](https://github.com/ryankiros/neural-storyteller)  (1141) <br/>[skip-thoughts](https://github.com/ryankiros/skip-thoughts)  (502) <br/> | 1643 |
+| 18. | [jonathanslenders](https://github.com/jonathanslenders)  | [pyvim](https://github.com/jonathanslenders/pyvim)  (1575) <br/> | 1575 |
+| 19. | [AlessandroZ](https://github.com/AlessandroZ)  | [LaZagne](https://github.com/AlessandroZ/LaZagne)  (1495) <br/> | 1495 |
+| 20. | [graphific](https://github.com/graphific)  | [DeepDreamVideo](https://github.com/graphific/DeepDreamVideo)  (1455) <br/> | 1455 |
+| 21. | [n1nj4sec](https://github.com/n1nj4sec)  | [pupy](https://github.com/n1nj4sec/pupy)  (1014) <br/>[memorpy](https://github.com/n1nj4sec/memorpy)  (308) <br/>[pr0cks](https://github.com/n1nj4sec/pr0cks)  (124) <br/> | 1446 |
+| 22. | [fraser-hemp](https://github.com/fraser-hemp)  | [gradify](https://github.com/fraser-hemp/gradify)  (1380) <br/> | 1380 |
+| 23. | [nlintz](https://github.com/nlintz)  | [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)  (1354) <br/> | 1354 |
+| 24. | [brennerm](https://github.com/brennerm)  | [PyTricks](https://github.com/brennerm/PyTricks)  (1328) <br/> | 1328 |
+| 25. | [mmin18](https://github.com/mmin18)  | [LayoutCast](https://github.com/mmin18/LayoutCast)  (1321) <br/> | 1321 |
+| 26. | [hephaest0s](https://github.com/hephaest0s)  | [usbkill](https://github.com/hephaest0s/usbkill)  (1273) <br/> | 1273 |
+| 27. | [divmain](https://github.com/divmain)  | [GitSavvy](https://github.com/divmain/GitSavvy)  (1266) <br/> | 1266 |
+| 28. | [amoffat](https://github.com/amoffat)  | [snake](https://github.com/amoffat/snake)  (1226) <br/> | 1226 |
+| 29. | [HelloZeroNet](https://github.com/HelloZeroNet)  | [ZeroNet](https://github.com/HelloZeroNet/ZeroNet)  (1221) <br/> | 1221 |
+| 30. | [andelf](https://github.com/andelf)  | [fuck12306](https://github.com/andelf/fuck12306)  (1209) <br/> | 1209 |
+| 31. | [anishathalye](https://github.com/anishathalye)  | [git-remote-dropbox](https://github.com/a
