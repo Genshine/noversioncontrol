@@ -1,60 +1,59 @@
-# Clojure
+# CoffeeScript
 
-## Most-Starred Repos: Clojure
+## Most-Starred Repos: CoffeeScript
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [datacrypt-project/hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree) <br/>Functional, persistent, off-heap, high performance... | 750 |
-| 2. | [oakes/Nightlight](https://github.com/oakes/Nightlight) <br/>An embedded editor for Clojure | 568 |
-| 3. | [thinktopic/cortex](https://github.com/thinktopic/cortex) <br/>Machine learning in Clojure | 389 |
-| 4. | [untangled-web/untangled](https://github.com/untangled-web/untangled) <br/>Central public-facing website/repository | 228 |
-| 5. | [arohner/spectrum](https://github.com/arohner/spectrum)  | 199 |
-| 6. | [alwx/luno-react-native](https://github.com/alwx/luno-react-native) <br/>Cross-platform React Native application written in... | 197 |
-| 7. | [zestdocs/zest](https://github.com/zestdocs/zest) <br/>[UNMAINTAINED] Zest documentation browser | 185 |
-| 8. | [weavejester/integrant](https://github.com/weavejester/integrant) <br/>Micro-framework for data-driven architecture | 156 |
-| 9. | [tendant/graphql-clj](https://github.com/tendant/graphql-clj) <br/>A Clojure library that provides GraphQL implementa... | 151 |
-| 10. | [walmartlabs/datascope](https://github.com/walmartlabs/datascope) <br/>Visualization of Clojure data structures using Gra... | 150 |
-| 11. | [threatgrid/naga](https://github.com/threatgrid/naga) <br/>Datalog based rules engine | 141 |
-| 12. | [metasoarous/datsync](https://github.com/metasoarous/datsync) <br/>Datomic - DataScript syncing/replication utiliti... | 138 |
-| 13. | [ertugrulcetin/ClojureNews](https://github.com/ertugrulcetin/ClojureNews) <br/>Clojure News Web Application - (Hacker News Clone) | 134 |
-| 14. | [ptaoussanis/tufte](https://github.com/ptaoussanis/tufte) <br/>Simple profiling and performance monitoring for Cl... | 132 |
-| 15. | [tiensonqin/lymchat](https://github.com/tiensonqin/lymchat) <br/>Lymchat - learn different cultures. | 130 |
-| 16. | [facundoolano/advenjure](https://github.com/facundoolano/advenjure) <br/>Text adventure engine written in Clojure and Cloju... | 121 |
-| 17. | [metasoarous/datsys](https://github.com/metasoarous/datsys) <br/>(+ clj cljs datomic datascript re-frame-esque-frp) | 117 |
-| 18. | [metametadata/carry](https://github.com/metametadata/carry) <br/>ClojureScript application framework. | 108 |
-| 19. | [mogenslund/liquid](https://github.com/mogenslund/liquid) <br/>Clojure Text Editor, for editing clojure code and ... | 108 |
-| 20. | [keechma/keechma](https://github.com/keechma/keechma) <br/>Micro frontend framework for ClojureScript and Rea... | 104 |
-| 21. | [escherize/tracks](https://github.com/escherize/tracks) <br/>Shape based destructuring | 102 |
+| 1. | [yhatt/marp](https://github.com/yhatt/marp) <br/>Markdown presentation writer, powered by Electron. | 5117 |
+| 2. | [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) <br/>Turbolinks makes navigating your web application f... | 2696 |
+| 3. | [jianliaoim/talk-os](https://github.com/jianliaoim/talk-os) <br/>Open source version of jianliao.com | 2297 |
+| 4. | [davidedc/Algebrite](https://github.com/davidedc/Algebrite) <br/>Computer Algebra System in Javascript (Coffeescrip... | 606 |
+| 5. | [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) <br/>👽 Wire for Web — Modern communication. Full privac... | 544 |
+| 6. | [rastapasta/pokemon-go-mitm](https://github.com/rastapasta/pokemon-go-mitm) <br/>🎁  Pokemon Go MITM Proxy -  Intercepts the traffic... | 483 |
+| 7. | [iostreamer-X/Awkward](https://github.com/iostreamer-X/Awkward) <br/>A NodeJS based shell. Everything is an Object! | 449 |
+| 8. | [railsware/bozon](https://github.com/railsware/bozon) <br/>Scaffold, Run, Test and Package Electron applicati... | 409 |
+| 9. | [robotdestroy/Framer-Snippets-Library](https://github.com/robotdestroy/Framer-Snippets-Library) <br/>A library of Framer snippets to help speed up your... | 332 |
+| 10. | [trello/scientist](https://github.com/trello/scientist) <br/>A Node.js library for carefully refactoring critic... | 220 |
+| 11. | [iiegor/slither](https://github.com/iiegor/slither) <br/>An open source implementation of the slither.io se... | 186 |
+| 12. | [KasperDeng/Hubot-WeChat](https://github.com/KasperDeng/Hubot-WeChat) <br/>This is weixin/wechat adapter for hubot. | 152 |
+| 13. | [elfet/ultra-tiny-compiler](https://github.com/elfet/ultra-tiny-compiler) <br/>Ultra Tiny Compiler | 137 |
+| 14. | [michelson/dante2](https://github.com/michelson/dante2) <br/>A complete rewrite of dante editor in draft-js, de... | 133 |
+| 15. | [marckrenn/framer-Firebase](https://github.com/marckrenn/framer-Firebase) <br/>The Firebase module allows your Framer prototype t... | 129 |
+| 16. | [trailbot/client](https://github.com/trailbot/client) <br/>Trailbot tracks files and logs in your servers and... | 127 |
+| 17. | [vladimirshlygin/framer-path](https://github.com/vladimirshlygin/framer-path) <br/>Create custom svg shapes and animate each point in... | 122 |
+| 18. | [zalmoxisus/atom-redux-devtools](https://github.com/zalmoxisus/atom-redux-devtools) <br/>Redux DevTools Atom package | 116 |
+| 19. | [robinsloan/rnn-writer](https://github.com/robinsloan/rnn-writer) <br/>Package for the Atom text editor that provides res... | 106 |
+| 20. | [herrbischoff/nerdbar.widget](https://github.com/herrbischoff/nerdbar.widget) <br/>Übersicht system information bar for use with kwm ... | 103 |
 
-## Most-Starred Users: Clojure
+## Most-Starred Users: CoffeeScript
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [oakes](https://github.com/oakes)  | [Nightlight](https://github.com/oakes/Nightlight)  (568) <br/> | 568 |
-| 2. | [metasoarous](https://github.com/metasoarous)  | [datsync](https://github.com/metasoarous/datsync)  (138) <br/>[datsys](https://github.com/metasoarous/datsys)  (117) <br/> | 255 |
-| 3. | [arohner](https://github.com/arohner)  | [spectrum](https://github.com/arohner/spectrum)  (199) <br/> | 199 |
-| 4. | [alwx](https://github.com/alwx)  | [luno-react-native](https://github.com/alwx/luno-react-native)  (197) <br/> | 197 |
-| 5. | [weavejester](https://github.com/weavejester)  | [integrant](https://github.com/weavejester/integrant)  (156) <br/> | 156 |
-| 6. | [tendant](https://github.com/tendant)  | [graphql-clj](https://github.com/tendant/graphql-clj)  (151) <br/> | 151 |
-| 7. | [ertugrulcetin](https://github.com/ertugrulcetin)  | [ClojureNews](https://github.com/ertugrulcetin/ClojureNews)  (134) <br/> | 134 |
-| 8. | [ptaoussanis](https://github.com/ptaoussanis)  | [tufte](https://github.com/ptaoussanis/tufte)  (132) <br/> | 132 |
-| 9. | [tiensonqin](https://github.com/tiensonqin)  | [lymchat](https://github.com/tiensonqin/lymchat)  (130) <br/> | 130 |
-| 10. | [facundoolano](https://github.com/facundoolano)  | [aso](https://github.com/facundoolano/aso)  (184) <br/>[promise-log](https://github.com/facundoolano/promise-log)  (151) <br/>[advenjure](https://github.com/facundoolano/advenjure)  (121) <br/> | 121 |
-| 11. | [metametadata](https://github.com/metametadata)  | [carry](https://github.com/metametadata/carry)  (108) <br/> | 108 |
-| 12. | [mogenslund](https://github.com/mogenslund)  | [liquid](https://github.com/mogenslund/liquid)  (108) <br/> | 108 |
-| 13. | [escherize](https://github.com/escherize)  | [tracks](https://github.com/escherize/tracks)  (102) <br/> | 102 |
+| 1. | [yhatt](https://github.com/yhatt)  | [marp](https://github.com/yhatt/marp)  (5117) <br/> | 5117 |
+| 2. | [davidedc](https://github.com/davidedc)  | [Algebrite](https://github.com/davidedc/Algebrite)  (606) <br/> | 606 |
+| 3. | [rastapasta](https://github.com/rastapasta)  | [pokemon-go-mitm](https://github.com/rastapasta/pokemon-go-mitm)  (483) <br/>[pokemon-go-xposed](https://github.com/rastapasta/pokemon-go-xposed)  (113) <br/> | 483 |
+| 4. | [iostreamer-X](https://github.com/iostreamer-X)  | [Awkward](https://github.com/iostreamer-X/Awkward)  (449) <br/> | 449 |
+| 5. | [robotdestroy](https://github.com/robotdestroy)  | [Framer-Snippets-Library](https://github.com/robotdestroy/Framer-Snippets-Library)  (332) <br/> | 332 |
+| 6. | [iiegor](https://github.com/iiegor)  | [slither](https://github.com/iiegor/slither)  (186) <br/> | 186 |
+| 7. | [KasperDeng](https://github.com/KasperDeng)  | [Hubot-WeChat](https://github.com/KasperDeng/Hubot-WeChat)  (152) <br/> | 152 |
+| 8. | [elfet](https://github.com/elfet)  | [ultra-tiny-compiler](https://github.com/elfet/ultra-tiny-compiler)  (137) <br/> | 137 |
+| 9. | [michelson](https://github.com/michelson)  | [dante2](https://github.com/michelson/dante2)  (133) <br/> | 133 |
+| 10. | [marckrenn](https://github.com/marckrenn)  | [framer-Firebase](https://github.com/marckrenn/framer-Firebase)  (129) <br/> | 129 |
+| 11. | [vladimirshlygin](https://github.com/vladimirshlygin)  | [framer-path](https://github.com/vladimirshlygin/framer-path)  (122) <br/> | 122 |
+| 12. | [zalmoxisus](https://github.com/zalmoxisus)  | [redux-remotedev](https://github.com/zalmoxisus/redux-remotedev)  (182) <br/>[atom-redux-devtools](https://github.com/zalmoxisus/atom-redux-devtools)  (116) <br/> | 116 |
+| 13. | [robinsloan](https://github.com/robinsloan)  | [rnn-writer](https://github.com/robinsloan/rnn-writer)  (106) <br/> | 106 |
+| 14. | [herrbischoff](https://github.com/herrbischoff)  | [nerdbar.widget](https://github.com/herrbischoff/nerdbar.widget)  (103) <br/> | 103 |
 
-## Most-Starred Orgs: Clojure
+## Most-Starred Orgs: CoffeeScript
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [datacrypt-project](https://github.com/datacrypt-project)  | [hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree)  (750) <br/> | 750 |
-| 2. | [thinktopic](https://github.com/thinktopic)  | [cortex](https://github.com/thinktopic/cortex)  (389) <br/> | 389 |
-| 3. | [untangled-web](https://github.com/untangled-web)  | [untangled](https://github.com/untangled-web/untangled)  (228) <br/> | 228 |
-| 4. | [zestdocs](https://github.com/zestdocs)  | [zest](https://github.com/zestdocs/zest)  (185) <br/> | 185 |
-| 5. | [walmartlabs](https://github.com/walmartlabs)  | [react-ssr-optimization](https://github.com/walmartlabs/react-ssr-optimization)  (285) <br/>[datascope](https://github.com/walmartlabs/datascope)  (150) <br/> | 150 |
-| 6. | [threatgrid](https://github.com/threatgrid)  | [naga](https://github.com/threatgrid/naga)  (141) <br/> | 141 |
-| 7. | [keechma](https://github.com/keechma)  | [keechma](https://github.com/keechma/keechma)  (104) <br/> | 104 |
+| 1. | [turbolinks](https://github.com/turbolinks)  | [turbolinks](https://github.com/turbolinks/turbolinks)  (2696) <br/>[turbolinks-android](https://github.com/turbolinks/turbolinks-android)  (229) <br/> | 2696 |
+| 2. | [jianliaoim](https://github.com/jianliaoim)  | [talk-os](https://github.com/jianliaoim/talk-os)  (2297) <br/> | 2297 |
+| 3. | [wireapp](https://github.com/wireapp)  | [wire-ios](https://github.com/wireapp/wire-ios)  (1707) <br/>[wire-android](https://github.com/wireapp/wire-android)  (1446) <br/>[wire-webapp](https://github.com/wireapp/wire-webapp)  (544) <br/>[wire-desktop](https://github.com/wireapp/wire-desktop)  (209) <br/>[wire-ios-sync-engine](https://github.com/wireapp/wire-ios-sync-engine)  (101) <br/> | 544 |
+| 4. | [railsware](https://github.com/railsware)  | [bozon](https://github.com/railsware/bozon)  (409) <br/> | 409 |
+| 5. | [trello](https://github.com/trello)  | [scientist](https://github.com/trello/scientist)  (220) <br/> | 220 |
+| 6. | [trailbot](https://github.com/trailbot)  | [client](https://github.com/trailbot/client)  (127) <br/> | 127 |
 
 ## Language Stats Index
 
