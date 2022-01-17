@@ -273,4 +273,158 @@
 | 267. | [gjiazhe/PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) <br/>An imageView can auto scroll with device rotating. | 669 |
 | 268. | [w1123440793/VideoListDemo](https://github.com/w1123440793/VideoListDemo) <br/>一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，... | 668 |
 | 269. | [booncol/Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) <br/>Pulse animation for Android | 665 |
-| 270. | [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) <br/>Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制
+| 270. | [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal) <br/>Android图片单选/多选、拍照、裁剪、压缩。视频选择和录制。 | 664 |
+| 271. | [H07000223/FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) <br/>A Helper for SystemBar include StatusBar and Navig... | 663 |
+| 272. | [shaohui10086/AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban) <br/>An Advanced Compress Image Library for Android / 高... | 662 |
+| 273. | [shem8/MaterialLogin](https://github.com/shem8/MaterialLogin) <br/>Login view with material design | 661 |
+| 274. | [Huyamin150/-dampView-springingView](https://github.com/Huyamin150/-dampView-springingView) <br/>一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果 | 658 |
+| 275. | [Idtk/Blog](https://github.com/Idtk/Blog) <br/>Blog备份 | 657 |
+| 276. | [Telenav/ExpandablePager](https://github.com/Telenav/ExpandablePager) <br/>ViewPager that slides vertically. | 655 |
+| 277. | [XBeats/and_swipeback](https://github.com/XBeats/and_swipeback) <br/>高仿最新版微信6.2手势滑动返回 | 655 |
+| 278. | [Mauker1/MaterialSearchView](https://github.com/Mauker1/MaterialSearchView) <br/>Android Search View based on Material design guide... | 653 |
+| 279. | [venshine/GoodView](https://github.com/venshine/GoodView) <br/>Android点赞+1效果，支持文本和图像 | 651 |
+| 280. | [lisawray/passwordview](https://github.com/lisawray/passwordview) <br/>A Material Android password view that toggles pass... | 650 |
+| 281. | [ToDou/appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior) <br/>One Behavior help AppBarLayout to scroll spring an... | 645 |
+| 282. | [Chora10/Cknife](https://github.com/Chora10/Cknife) <br/>Cknife | 645 |
+| 283. | [lypeer/GoogleClock](https://github.com/lypeer/GoogleClock) <br/>The core of it is SVG . | 645 |
+| 284. | [jinatonic/confetti](https://github.com/jinatonic/confetti) <br/>An Android particle system library for displaying ... | 644 |
+| 285. | [CaMnter/EasyGank](https://github.com/CaMnter/EasyGank) <br/>The project build framework based on the Rx series... | 644 |
+| 286. | [52inc/Scoops](https://github.com/52inc/Scoops) <br/>Android library for managing and applying multiple... | 643 |
+| 287. | [naman14/AlgorithmVisualizer-Android](https://github.com/naman14/AlgorithmVisualizer-Android) <br/>Visualize algorithms and data structures using ani... | 642 |
+| 288. | [ShamylZakariya/StickyHeaders](https://github.com/ShamylZakariya/StickyHeaders) <br/>Adapter and LayoutManager for Android RecyclerView... | 642 |
+| 289. | [Yasic/QQBubbleView](https://github.com/Yasic/QQBubbleView) <br/>利用三阶贝塞尔曲线模仿QQ空间直播页面右下角的礼物冒泡特效 | 638 |
+| 290. | [TheFinestArtist/AndroidBaseUtils](https://github.com/TheFinestArtist/AndroidBaseUtils) <br/>Context free and basic utils to build Android proj... | 638 |
+| 291. | [Solartisan/WaveSideBar](https://github.com/Solartisan/WaveSideBar)  | 637 |
+| 292. | [Hitomis/CircleMenu](https://github.com/Hitomis/CircleMenu) <br/>Delicate, chic and supports customizable circle me... | 634 |
+| 293. | [konifar/droidkaigi2016](https://github.com/konifar/droidkaigi2016) <br/>DroidKaigi 2016 official Android conference app in... | 633 |
+| 294. | [sharish/CreditCardView](https://github.com/sharish/CreditCardView)  | 630 |
+| 295. | [ldoublem/PaperShredder](https://github.com/ldoublem/PaperShredder) <br/>a PaperShredder view for android | 628 |
+| 296. | [brianway/webporter](https://github.com/brianway/webporter) <br/>基于 webmagic 的 Java 爬虫应用 | 623 |
+| 297. | [wuapnjie/StickerView](https://github.com/wuapnjie/StickerView) <br/>A view which can add sticker and zoom,drag,delete ... | 621 |
+| 298. | [asLody/legend](https://github.com/asLody/legend) <br/>A framework for hook java methods. | 620 |
+| 299. | [qinci/MarkdownEditors](https://github.com/qinci/MarkdownEditors) <br/>Android Markdown编辑器 | 619 |
+| 300. | [shaohui10086/BottomDialog](https://github.com/shaohui10086/BottomDialog) <br/>BottomDialog is a bottom dialog layout implemented... | 617 |
+| 301. | [Nightonke/JellyToggleButton](https://github.com/Nightonke/JellyToggleButton) <br/>Cute and colorful toggle button with 18 jelly type... | 617 |
+| 302. | [timusus/RecyclerView-FastScroll](https://github.com/timusus/RecyclerView-FastScroll) <br/>A simple FastScroller for Android's RecyclerView | 616 |
+| 303. | [javiersantos/PiracyChecker](https://github.com/javiersantos/PiracyChecker) <br/>An Android library that prevents your app from bei... | 616 |
+| 304. | [amitshekhariitbhu/RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) <br/>RxJava 2 Android Examples - Migration From RxJava ... | 615 |
+| 305. | [zaihuishou/ExpandableRecyclerview](https://github.com/zaihuishou/ExpandableRecyclerview) <br/>An ExpandableRecycleradapter with Recyclerview | 614 |
+| 306. | [oubowu/SlideBack](https://github.com/oubowu/SlideBack) <br/>A library to close an activity with swipe gestures... | 612 |
+| 307. | [DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar) <br/>Material Design RatingBar with better appearance. | 611 |
+| 308. | [h4de5ing/AndroidCommon](https://github.com/h4de5ing/AndroidCommon) <br/>基于Android系统Api封装常用工具类 | 611 |
+| 309. | [chinashiyu/gfw.press](https://github.com/chinashiyu/gfw.press) <br/>GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件 | 608 |
+| 310. | [yjfnypeu/UpdatePlugin](https://github.com/yjfnypeu/UpdatePlugin) <br/>可任意定制的app更新组件。 | 607 |
+| 311. | [Kelin-Hong/CalendarListView](https://github.com/Kelin-Hong/CalendarListView) <br/>A custom ListView combine with CalendarView which ... | 607 |
+| 312. | [mcxtzhang/ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager) <br/>Some custom LayoutManager .Such as SwipeCard、FLowL... | 605 |
+| 313. | [shaohui10086/ShareUtil](https://github.com/shaohui10086/ShareUtil) <br/>社会化登录分享工具库 | 604 |
+| 314. | [UFreedom/FloatingText](https://github.com/UFreedom/FloatingText) <br/>[DEPRECATED]  FloatingText is a text widget that c... | 604 |
+| 315. | [a-voyager/AutoInstaller](https://github.com/a-voyager/AutoInstaller) <br/>应用自动静默更新安装库. | 604 |
+| 316. | [apache/lucene-solr](https://github.com/apache/lucene-solr) <br/>Mirror of Apache Lucene + Solr | 603 |
+| 317. | [yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission) <br/>Android Permission = AndPermission. Android运行时权限管理... | 603 |
+| 318. | [eneim/Toro](https://github.com/eneim/Toro) <br/>Video list auto playback made simple, specially bu... | 602 |
+| 319. | [JakeWharton/retrofit2-rxjava2-adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter) <br/>An RxJava 2 CallAdapter.Factory implementation for... | 599 |
+| 320. | [misakuo/3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid) <br/>Tagcloud component for android | 597 |
+| 321. | [curtis2/SuperVideoPlayer](https://github.com/curtis2/SuperVideoPlayer) <br/>android超级视频播放器. 集成android流媒体处理的主流框架，vitamio, ijkpl... | 595 |
+| 322. | [supercwn/SuperPlayer](https://github.com/supercwn/SuperPlayer) <br/>SuperPlayer 是一个基于IjkPlayer的控制器，支持手势操作，滑动快进，快退，支持，上... | 595 |
+| 323. | [grandcentrix/ThirtyInch](https://github.com/grandcentrix/ThirtyInch) <br/>a MVP library for Android favoring a stateful Pres... | 594 |
+| 324. | [limedroid/XDroid](https://github.com/limedroid/XDroid) <br/>轻量级Android快速开发框架 | 594 |
+| 325. | [robinhood/spark](https://github.com/robinhood/spark) <br/>A simple Android sparkline chart view. | 593 |
+| 326. | [GeekGhost/Ghost](https://github.com/GeekGhost/Ghost) <br/>微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava +... | 593 |
+| 327. | [bingoogolapple/BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) <br/>Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件 | 588 |
+| 328. | [dibakarece/DMPlayer](https://github.com/dibakarece/DMPlayer) <br/>DMPLayer is an Android music player prototype | 587 |
+| 329. | [javiersantos/AppUpdater](https://github.com/javiersantos/AppUpdater) <br/>A library that checks for your apps' updates on Go... | 586 |
+| 330. | [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) <br/>An android feed reader application which fetch dat... | 585 |
+| 331. | [Cleveroad/MusicBobber](https://github.com/Cleveroad/MusicBobber) <br/>Awesome Audio Widget for any Android Music App | 583 |
+| 332. | [czy1121/update](https://github.com/czy1121/update) <br/>清晰灵活简单易用的应用更新库 | 582 |
+| 333. | [jeasonlzy/NineGridView](https://github.com/jeasonlzy/NineGridView) <br/>类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小... | 578 |
+| 334. | [JeasonWong/ElemeShoppingView](https://github.com/JeasonWong/ElemeShoppingView) <br/>仿饿了么点击购物效果 | 577 |
+| 335. | [Aspsine/FragmentNavigator](https://github.com/Aspsine/FragmentNavigator) <br/>An useful fragment navigator | 577 |
+| 336. | [Hitomis/SpinMenu](https://github.com/Hitomis/SpinMenu) <br/>轮盘样式的 Fragment 选择菜单，可转动轮盘切换 Fragment | 574 |
+| 337. | [mpusher/mpush](https://github.com/mpusher/mpush) <br/>MPush开源实时消息推送系统 | 574 |
+| 338. | [garretyoder/Colorful](https://github.com/garretyoder/Colorful)  | 572 |
+| 339. | [mattprecious/swirl](https://github.com/mattprecious/swirl) <br/>Android's animated fingerprint icon provided in a ... | 570 |
+| 340. | [niniloveyou/StateButton](https://github.com/niniloveyou/StateButton) <br/>一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button, 再也不用... | 569 |
+| 341. | [SilenceDut/KnowWeather](https://github.com/SilenceDut/KnowWeather) <br/>A nice weather app | 568 |
+| 342. | [JustZak/DilatingDotsProgressBar](https://github.com/JustZak/DilatingDotsProgressBar) <br/>A customizable indeterminate progress bar | 567 |
+| 343. | [fishwjy/MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) <br/>This is a light Android file picker library. | 562 |
+| 344. | [mcxtzhang/SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout) <br/>The most simple SwipeMenu in the history, 0 coupli... | 560 |
+| 345. | [burgessjp/GanHuoIO](https://github.com/burgessjp/GanHuoIO) <br/>基于Gank.IO提供的API的第三方客户端（RxJava+Retrofit） | 559 |
+| 346. | [linkedin/test-butler](https://github.com/linkedin/test-butler) <br/>Reliable Android Testing, at your service | 557 |
+| 347. | [campusappcn/AndRouter](https://github.com/campusappcn/AndRouter) <br/>A android router framework used to map url to acti... | 556 |
+| 348. | [Arello-Mobile/Moxy](https://github.com/Arello-Mobile/Moxy) <br/>Moxy is MVP library for Android | 554 |
+| 349. | [dynamitechetan/FogView_Library](https://github.com/dynamitechetan/FogView_Library) <br/>FogView is a android library that can show fog on ... | 554 |
+| 350. | [Karumi/KataSuperHeroesAndroid](https://github.com/Karumi/KataSuperHeroesAndroid) <br/>Super Heroes Kata for Android Developers. The main... | 553 |
+| 351. | [MasayukiSuda/FPSAnimator](https://github.com/MasayukiSuda/FPSAnimator) <br/>FPSAnimator is very easy animation library for And... | 553 |
+| 352. | [JeasonWong/SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView) <br/>手摸手教你写Slack的Loading动画 | 553 |
+| 353. | [dudu90/FreshDownloadView](https://github.com/dudu90/FreshDownloadView) <br/>A download progressbar with cool animation | 553 |
+| 354. | [jiangzehui/xmpp](https://github.com/jiangzehui/xmpp) <br/>基于Xmpp协议的即时通讯社交软件(客户端+服务端)Open source one last yea... | 552 |
+| 355. | [apache/beam](https://github.com/apache/beam) <br/>Mirror of Apache Beam | 552 |
+| 356. | [xiaopansky/SpiderWebScoreView](https://github.com/xiaopansky/SpiderWebScoreView) <br/>SpiderWebScoreView是用于Android上的一个蛛网评分控件 SpiderWebSc... | 551 |
+| 357. | [firebase/friendlychat](https://github.com/firebase/friendlychat) <br/>The source for the Firebase codelab for building a... | 550 |
+| 358. | [gjiazhe/WaveSideBar](https://github.com/gjiazhe/WaveSideBar) <br/>An Index Side Bar With Wave Effect | 549 |
+| 359. | [AleBarreto/DragRecyclerView](https://github.com/AleBarreto/DragRecyclerView) <br/>Drag and Drop with RecyclerView | 548 |
+| 360. | [salRoid/Filmy](https://github.com/salRoid/Filmy) <br/>🎥 Material designed awesome movie app which is pow... | 548 |
+| 361. | [githubwing/ByeBurger](https://github.com/githubwing/ByeBurger) <br/>An Android behavior library let your titlebar or b... | 548 |
+| 362. | [iReaderAndroid/ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) <br/>最简单易懂的Android插件补丁框架 | 546 |
+| 363. | [ramswaroop/jbot](https://github.com/ramswaroop/jbot) <br/>Make Slack, Facebook and Twitter Bots in Java in m... | 543 |
+| 364. | [varunest/SparkButton](https://github.com/varunest/SparkButton) <br/>Android library to create buttons with Twitter's h... | 543 |
+| 365. | [ldoublem/GiftCard](https://github.com/ldoublem/GiftCard) <br/>A beautiful gift Cards for android | 541 |
+| 366. | [qiujuer/UPMiss](https://github.com/qiujuer/UPMiss) <br/>UPMiss is birthday management software, use MVP. | 541 |
+| 367. | [renaudcerrato/DoorSignView](https://github.com/renaudcerrato/DoorSignView) <br/>Customizable, sensor-enabled, door sign custom vie... | 541 |
+| 368. | [Carbs0126/NumberPickerView](https://github.com/Carbs0126/NumberPickerView) <br/>another NumberPicker with more flexible attributes... | 540 |
+| 369. | [qifengdeqingchen/SeatTable](https://github.com/qifengdeqingchen/SeatTable) <br/>电影票在线选座 | 539 |
+| 370. | [badoo/Chateau](https://github.com/badoo/Chateau) <br/>Chateau is a framework for adding (or improving) c... | 538 |
+| 371. | [ldoublem/FlightSeat](https://github.com/ldoublem/FlightSeat) <br/>Ticket seat selection | 538 |
+| 372. | [aliab/circular-music-progressbar](https://github.com/aliab/circular-music-progressbar) <br/>Beautiful Circular Progress Bar with album art for... | 537 |
+| 373. | [Telenav/NodeFlow](https://github.com/Telenav/NodeFlow) <br/>NodeFlow is a library that makes visualizing hiera... | 535 |
+| 374. | [linglongxin24/DylanStepCount](https://github.com/linglongxin24/DylanStepCount) <br/>Android精准计步器 | 533 |
+| 375. | [envyfan/AndroidReview](https://github.com/envyfan/AndroidReview) <br/>Adnroid面试复习 | 530 |
+| 376. | [shts/TriangleLabelView](https://github.com/shts/TriangleLabelView) <br/>Show triangle view. | 530 |
+| 377. | [florent37/FiftyShadesOf](https://github.com/florent37/FiftyShadesOf) <br/>An elegant context-care loading placeholder for An... | 529 |
+| 378. | [aryarohit07/PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) <br/>An Android image transformation library providing ... | 529 |
+| 379. | [vikramkakkar/ImageTransition](https://github.com/vikramkakkar/ImageTransition) <br/>A small android library to transition between a ci... | 528 |
+| 380. | [Ajian-studio/GADownloading](https://github.com/Ajian-studio/GADownloading) <br/>A Gorgeous LoadingView (一个绚丽的LoadingView ) | 527 |
+| 381. | [yarolegovich/LovelyDialog](https://github.com/yarolegovich/LovelyDialog) <br/>This library is a set of simple wrapper classes th... | 527 |
+| 382. | [applidium/PokemonGo_Android_RE](https://github.com/applidium/PokemonGo_Android_RE)  | 525 |
+| 383. | [alibaba/yugong](https://github.com/alibaba/yugong) <br/>阿里巴巴去Oracle数据迁移同步工具(全量+增量,目标支持MySQL/DRDS) | 524 |
+| 384. | [sayyam/carouselview](https://github.com/sayyam/carouselview) <br/>A simple library to add carousel view in android a... | 524 |
+| 385. | [Rogero0o/PasswordLoadingView](https://github.com/Rogero0o/PasswordLoadingView) <br/>provide a animation when finished the password | 522 |
+| 386. | [nekocode/Emojix](https://github.com/nekocode/Emojix) <br/>One line of code to implement emoji to your whole ... | 522 |
+| 387. | [drakeet/RecyclerViewWithHeaderNewPractice](https://github.com/drakeet/RecyclerViewWithHeaderNewPractice) <br/>A new implement of RecyclerView with HeaderViews | 522 |
+| 388. | [Diffey/RxZhihuPager](https://github.com/Diffey/RxZhihuPager) <br/>知乎日报客户端，Rxjava + Retrofit实践 | 520 |
+| 389. | [forezp/banya](https://github.com/forezp/banya) <br/>An open resource for Douban API with NETEASY Music... | 519 |
+| 390. | [ldoublem/ThumbUp](https://github.com/ldoublem/ThumbUp) <br/>A nice thumb up control | 517 |
+| 391. | [ParkSangGwon/TedBottomPicker](https://github.com/ParkSangGwon/TedBottomPicker) <br/>TedBottomPicker is simple image picker using botto... | 516 |
+| 392. | [Yellow5A5/ActSwitchAnimTool](https://github.com/Yellow5A5/ActSwitchAnimTool) <br/>ActSwitchAnimTool make the Animation easy to imple... | 516 |
+| 393. | [FlyingPumba/SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) <br/>Open source project which features a simple yet po... | 512 |
+| 394. | [ParkSangGwon/TedPermission](https://github.com/ParkSangGwon/TedPermission) <br/>Easy check permission library for Android Marshmal... | 512 |
+| 395. | [VictorAlbertos/BreadcrumbsView](https://github.com/VictorAlbertos/BreadcrumbsView) <br/>A customizable Android view for paginated forms | 511 |
+| 396. | [lawloretienne/DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) <br/>A slider that allows a user to select a value at o... | 509 |
+| 397. | [dodola/WeexOne](https://github.com/dodola/WeexOne) <br/>Weex [one 一个]客户端 | 507 |
+| 398. | [requery/sqlite-android](https://github.com/requery/sqlite-android) <br/>Android SQLite support library | 507 |
+| 399. | [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) <br/>JetBrains IDE/Android Studio 翻译插件，支持中英互译、单词朗读 | 505 |
+| 400. | [gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary) <br/>一个帮您快速实现跑马灯效果的library | 505 |
+| 401. | [a-voyager/ScrollNumber](https://github.com/a-voyager/ScrollNumber) <br/>custom widget--srcoll number | 502 |
+| 402. | [TangXiaoLv/Android-Easy-MultiDex](https://github.com/TangXiaoLv/Android-Easy-MultiDex) <br/>Android，multidex，splitdex，分包插件 | 502 |
+| 403. | [jiangzehui/polygonsview](https://github.com/jiangzehui/polygonsview) <br/>模仿掌上英雄联盟能力分析效果 | 501 |
+| 404. | [square/whorlwind](https://github.com/square/whorlwind) <br/>Makes fingerprint encryption a breeze. | 501 |
+| 405. | [L4Digital/FastScroll](https://github.com/L4Digital/FastScroll) <br/>A ListView-like FastScroller for Android’s Recycle... | 500 |
+| 406. | [bufferapp/BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout) <br/>A simple customised version of the TextInputLayout... | 498 |
+| 407. | [Xiaofei-it/Hermes](https://github.com/Xiaofei-it/Hermes) <br/>A smart, novel and easy-to-use framework for Andro... | 498 |
+| 408. | [baiiu/DropDownMenu](https://github.com/baiiu/DropDownMenu) <br/>a better DropDownMenu solution, 完整的筛选器解决方案 | 496 |
+| 409. | [Kelin-Hong/MVVMLight](https://github.com/Kelin-Hong/MVVMLight) <br/>A toolkit help to build Android MVVM Application | 496 |
+| 410. | [adrielcafe/AndroidAudioRecorder](https://github.com/adrielcafe/AndroidAudioRecorder) <br/>A fancy audio recorder lib for Android. Supports W... | 496 |
+| 411. | [CameloeAnthony/Ant](https://github.com/CameloeAnthony/Ant) <br/>Example project inspired by Trinea's android-commo... | 495 |
+| 412. | [voghDev/PdfViewPager](https://github.com/voghDev/PdfViewPager) <br/>Android widget that can render PDF documents store... | 494 |
+| 413. | [youxin11544/MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride) <br/>This is an Android MVP model good architecture des... | 494 |
+| 414. | [quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz) <br/>Code for Quartz Scheduler | 494 |
+| 415. | [LightSun/android-drag-FlowLayout](https://github.com/LightSun/android-drag-FlowLayout) <br/>this is a draggable flow layout lib. | 493 |
+| 416. | [ImmortalZ/RadarScan](https://github.com/ImmortalZ/RadarScan) <br/>Android雷达扫描显示效果，模仿QQ附近的人搜索展示 | 493 |
+| 417. | [woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) <br/>自定义SeekBar，进度变化由可视化气泡样式呈现 | 493 |
+| 418. | [JackyAndroid/AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher) <br/>This is a tv launcher, include a leanback launcher... | 493 |
+| 419. | [loopeer/code-reader](https://github.com/loopeer/code-reader) <br/>One Multi program language code reader | 491 |
+| 420. | [kakajika/RelativePopupWindow](https://github.com/kakajika/RelativePopupWindow) <br/>Android PopupWindow that can be easily located rel... | 490 |
+| 421. | [IntruderShanky/Squint](https://github.com/IntruderShanky/Squint) <br/>Provide Diagonal cut on view with awesome customiz... | 489 |
+| 422. | [android-notes/SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife) <br/>android免root兼容所有版本ui调试工具 | 487 |
+| 423. | [hejunlin2013/DragVideo](https://github.com/hejunlin2013/DragVideo) <br/>A Method to Drag the Video When Playing Video | 487 |
+| 424. | [hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) <
