@@ -1389,4 +1389,127 @@
 | 373. | [Dataman-Cloud](https://github.com/Dataman-Cloud)  | [crane](https://github.com/Dataman-Cloud/crane)  (583) <br/>[swan](https://github.com/Dataman-Cloud/swan)  (170) <br/> | 753 |
 | 374. | [ment-mx](https://github.com/ment-mx)  | [Prism](https://github.com/ment-mx/Prism)  (753) <br/> | 753 |
 | 375. | [sensepost](https://github.com/sensepost)  | [DET](https://github.com/sensepost/DET)  (433) <br/>[ruler](https://github.com/sensepost/ruler)  (173) <br/>[USaBUSe](https://github.com/sensepost/USaBUSe)  (146) <br/> | 752 |
-| 376. | [datacrypt
+| 376. | [datacrypt-project](https://github.com/datacrypt-project)  | [hitchhiker-tree](https://github.com/datacrypt-project/hitchhiker-tree)  (750) <br/> | 750 |
+| 377. | [rook](https://github.com/rook)  | [rook](https://github.com/rook/rook)  (750) <br/> | 750 |
+| 378. | [ValveSoftware](https://github.com/ValveSoftware)  | [steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk)  (611) <br/>[csgo-demoinfo](https://github.com/ValveSoftware/csgo-demoinfo)  (138) <br/> | 749 |
+| 379. | [edenspiekermann](https://github.com/edenspiekermann)  | [sprite.sh](https://github.com/edenspiekermann/sprite.sh)  (293) <br/>[a11y-toggle](https://github.com/edenspiekermann/a11y-toggle)  (252) <br/>[iframify](https://github.com/edenspiekermann/iframify)  (200) <br/> | 745 |
+| 380. | [GPUOpen-ProfessionalCompute-Tools](https://github.com/GPUOpen-ProfessionalCompute-Tools)  | [HIP](https://github.com/GPUOpen-ProfessionalCompute-Tools/HIP)  (744) <br/> | 744 |
+| 381. | [we-are-next](https://github.com/we-are-next)  | [cssco](https://github.com/we-are-next/cssco)  (743) <br/> | 743 |
+| 382. | [WhiteHouse](https://github.com/WhiteHouse)  | [fb_messenger_bot](https://github.com/WhiteHouse/fb_messenger_bot)  (522) <br/>[source-code-policy](https://github.com/WhiteHouse/source-code-policy)  (217) <br/> | 739 |
+| 383. | [beakerbrowser](https://github.com/beakerbrowser)  | [beaker](https://github.com/beakerbrowser/beaker)  (738) <br/> | 738 |
+| 384. | [dotnet](https://github.com/dotnet)  | [standard](https://github.com/dotnet/standard)  (548) <br/>[roslyn-project-system](https://github.com/dotnet/roslyn-project-system)  (189) <br/> | 737 |
+| 385. | [reactnativecn](https://github.com/reactnativecn)  | [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)  (471) <br/>[react-native-wx](https://github.com/reactnativecn/react-native-wx)  (140) <br/>[react-native-jpush](https://github.com/reactnativecn/react-native-jpush)  (115) <br/> | 726 |
+| 386. | [JZ-Darkal](https://github.com/JZ-Darkal)  | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)  (723) <br/> | 723 |
+| 387. | [thunderrise](https://github.com/thunderrise)  | [android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)  (716) <br/> | 716 |
+| 388. | [lgtmco](https://github.com/lgtmco)  | [lgtm](https://github.com/lgtmco/lgtm)  (714) <br/> | 714 |
+| 389. | [devsisters](https://github.com/devsisters)  | [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow)  (714) <br/> | 714 |
+| 390. | [still-life-studio](https://github.com/still-life-studio)  | [txt.wav](https://github.com/still-life-studio/txt.wav)  (713) <br/> | 713 |
+| 391. | [chain](https://github.com/chain)  | [chain](https://github.com/chain/chain)  (704) <br/> | 704 |
+| 392. | [blinksh](https://github.com/blinksh)  | [blink](https://github.com/blinksh/blink)  (702) <br/> | 702 |
+| 393. | [etsy](https://github.com/etsy)  | [411](https://github.com/etsy/411)  (583) <br/>[DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide)  (117) <br/> | 700 |
+| 394. | [dmlc](https://github.com/dmlc)  | [nnvm](https://github.com/dmlc/nnvm)  (592) <br/>[mxnet-memonger](https://github.com/dmlc/mxnet-memonger)  (107) <br/> | 699 |
+| 395. | [puma](https://github.com/puma)  | [puma-dev](https://github.com/puma/puma-dev)  (697) <br/> | 697 |
+| 396. | [Famolus](https://github.com/Famolus)  | [awesome-sass](https://github.com/Famolus/awesome-sass)  (694) <br/> | 694 |
+| 397. | [Genius](https://github.com/Genius)  | [groupie](https://github.com/Genius/groupie)  (694) <br/> | 694 |
+| 398. | [UKHomeOffice](https://github.com/UKHomeOffice)  | [posters](https://github.com/UKHomeOffice/posters)  (692) <br/> | 692 |
+| 399. | [hypertrack](https://github.com/hypertrack)  | [smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android)  (690) <br/> | 690 |
+| 400. | [iOS10-KIT](https://github.com/iOS10-KIT)  | [UI](https://github.com/iOS10-KIT/UI)  (690) <br/> | 690 |
+| 401. | [fex-team](https://github.com/fex-team)  | [ua-device](https://github.com/fex-team/ua-device)  (430) <br/>[fit](https://github.com/fex-team/fit)  (253) <br/> | 683 |
+| 402. | [NetEaseGame](https://github.com/NetEaseGame)  | [git-webhook](https://github.com/NetEaseGame/git-webhook)  (460) <br/>[AutomatorX](https://github.com/NetEaseGame/AutomatorX)  (223) <br/> | 683 |
+| 403. | [ThoughtWorksInc](https://github.com/ThoughtWorksInc)  | [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)  (682) <br/> | 682 |
+| 404. | [TheUnnameOrganization](https://github.com/TheUnnameOrganization)  | [RocketBot](https://github.com/TheUnnameOrganization/RocketBot)  (676) <br/> | 676 |
+| 405. | [react-d3-library](https://github.com/react-d3-library)  | [react-d3-library](https://github.com/react-d3-library/react-d3-library)  (675) <br/> | 675 |
+| 406. | [bowenpay](https://github.com/bowenpay)  | [wechat-spider](https://github.com/bowenpay/wechat-spider)  (673) <br/> | 673 |
+| 407. | [Bottr-js](https://github.com/Bottr-js)  | [Bottr](https://github.com/Bottr-js/Bottr)  (672) <br/> | 672 |
+| 408. | [walmartlabs](https://github.com/walmartlabs)  | [react-ssr-optimization](https://github.com/walmartlabs/react-ssr-optimization)  (285) <br/>[electrode](https://github.com/walmartlabs/electrode)  (233) <br/>[datascope](https://github.com/walmartlabs/datascope)  (150) <br/> | 668 |
+| 409. | [seedco](https://github.com/seedco)  | [StackViewController](https://github.com/seedco/StackViewController)  (563) <br/>[Formalist](https://github.com/seedco/Formalist)  (105) <br/> | 668 |
+| 410. | [TheAlgorithms](https://github.com/TheAlgorithms)  | [Python](https://github.com/TheAlgorithms/Python)  (667) <br/> | 667 |
+| 411. | [minio](https://github.com/minio)  | [doctor](https://github.com/minio/doctor)  (245) <br/>[dsync](https://github.com/minio/dsync)  (177) <br/>[concert](https://github.com/minio/concert)  (128) <br/>[blake2b-simd](https://github.com/minio/blake2b-simd)  (116) <br/> | 666 |
+| 412. | [ChaosForge](https://github.com/ChaosForge)  | [doomrl](https://github.com/ChaosForge/doomrl)  (666) <br/> | 666 |
+| 413. | [jpmorganchase](https://github.com/jpmorganchase)  | [quorum](https://github.com/jpmorganchase/quorum)  (665) <br/> | 665 |
+| 414. | [3Dparallax](https://github.com/3Dparallax)  | [insight](https://github.com/3Dparallax/insight)  (665) <br/> | 665 |
+| 415. | [FinalTeam](https://github.com/FinalTeam)  | [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)  (664) <br/> | 664 |
+| 416. | [smalldots](https://github.com/smalldots)  | [smalldots](https://github.com/smalldots/smalldots)  (661) <br/> | 661 |
+| 417. | [pavlovai](https://github.com/pavlovai)  | [match](https://github.com/pavlovai/match)  (659) <br/> | 659 |
+| 418. | [LoyaltyNZ](https://github.com/LoyaltyNZ)  | [alchemy-framework](https://github.com/LoyaltyNZ/alchemy-framework)  (656) <br/> | 656 |
+| 419. | [mwrlabs](https://github.com/mwrlabs)  | [needle](https://github.com/mwrlabs/needle)  (368) <br/>[KernelFuzzer](https://github.com/mwrlabs/KernelFuzzer)  (167) <br/>[win_driver_plugin](https://github.com/mwrlabs/win_driver_plugin)  (118) <br/> | 653 |
+| 420. | [nccgroup](https://github.com/nccgroup)  | [featherduster](https://github.com/nccgroup/featherduster)  (348) <br/>[TriforceAFL](https://github.com/nccgroup/TriforceAFL)  (202) <br/>[Hodor](https://github.com/nccgroup/Hodor)  (100) <br/> | 650 |
+| 421. | [graalvm](https://github.com/graalvm)  | [sulong](https://github.com/graalvm/sulong)  (248) <br/>[truffle](https://github.com/graalvm/truffle)  (210) <br/>[graal-core](https://github.com/graalvm/graal-core)  (188) <br/> | 646 |
+| 422. | [pinojs](https://github.com/pinojs)  | [pino](https://github.com/pinojs/pino)  (646) <br/> | 646 |
+| 423. | [Raizlabs](https://github.com/Raizlabs)  | [Eject](https://github.com/Raizlabs/Eject)  (378) <br/>[BentoMap](https://github.com/Raizlabs/BentoMap)  (143) <br/>[Anchorage](https://github.com/Raizlabs/Anchorage)  (122) <br/> | 643 |
+| 424. | [rails](https://github.com/rails)  | [webpacker](https://github.com/rails/webpacker)  (643) <br/> | 643 |
+| 425. | [pojome](https://github.com/pojome)  | [elementor](https://github.com/pojome/elementor)  (637) <br/> | 637 |
+| 426. | [Solartisan](https://github.com/Solartisan)  | [WaveSideBar](https://github.com/Solartisan/WaveSideBar)  (637) <br/> | 637 |
+| 427. | [vum-team](https://github.com/vum-team)  | [vum](https://github.com/vum-team/vum)  (636) <br/> | 636 |
+| 428. | [slackhq](https://github.com/slackhq)  | [go-audit](https://github.com/slackhq/go-audit)  (629) <br/> | 629 |
+| 429. | [MessageKit](https://github.com/MessageKit)  | [MessageKit-iOS](https://github.com/MessageKit/MessageKit-iOS)  (627) <br/> | 627 |
+| 430. | [mantrajs](https://github.com/mantrajs)  | [mantra-sample-blog-app](https://github.com/mantrajs/mantra-sample-blog-app)  (302) <br/>[meteor-mantra-kickstarter](https://github.com/mantrajs/meteor-mantra-kickstarter)  (192) <br/>[mantra-cli](https://github.com/mantrajs/mantra-cli)  (131) <br/> | 625 |
+| 431. | [kogg](https://github.com/kogg)  | [instant-logos](https://github.com/kogg/instant-logos)  (623) <br/> | 623 |
+| 432. | [PPMESSAGE](https://github.com/PPMESSAGE)  | [ppmessage](https://github.com/PPMESSAGE/ppmessage)  (623) <br/> | 623 |
+| 433. | [jiecao-fm](https://github.com/jiecao-fm)  | [SwiftTheme](https://github.com/jiecao-fm/SwiftTheme)  (622) <br/> | 622 |
+| 434. | [PureSwift](https://github.com/PureSwift)  | [Cacao](https://github.com/PureSwift/Cacao)  (621) <br/> | 621 |
+| 435. | [thepracticaldev](https://github.com/thepracticaldev)  | [orly-full-res](https://github.com/thepracticaldev/orly-full-res)  (468) <br/>[dev.to](https://github.com/thepracticaldev/dev.to)  (152) <br/> | 620 |
+| 436. | [ZZROTDesign](https://github.com/ZZROTDesign)  | [docker-clean](https://github.com/ZZROTDesign/docker-clean)  (618) <br/> | 618 |
+| 437. | [GoASTScanner](https://github.com/GoASTScanner)  | [gas](https://github.com/GoASTScanner/gas)  (617) <br/> | 617 |
+| 438. | [gpujs](https://github.com/gpujs)  | [gpu.js](https://github.com/gpujs/gpu.js)  (617) <br/> | 617 |
+| 439. | [OmniDB](https://github.com/OmniDB)  | [OmniDB](https://github.com/OmniDB/OmniDB)  (616) <br/> | 616 |
+| 440. | [blox](https://github.com/blox)  | [blox](https://github.com/blox/blox)  (610) <br/> | 610 |
+| 441. | [go-gitea](https://github.com/go-gitea)  | [gitea](https://github.com/go-gitea/gitea)  (609) <br/> | 609 |
+| 442. | [MobBotTeam](https://github.com/MobBotTeam)  | [PokeMobBot](https://github.com/MobBotTeam/PokeMobBot)  (609) <br/> | 609 |
+| 443. | [coreos](https://github.com/coreos)  | [jwtproxy](https://github.com/coreos/jwtproxy)  (217) <br/>[etcd-operator](https://github.com/coreos/etcd-operator)  (157) <br/>[kube-aws](https://github.com/coreos/kube-aws)  (128) <br/>[prometheus-operator](https://github.com/coreos/prometheus-operator)  (107) <br/> | 609 |
+| 444. | [ricequant](https://github.com/ricequant)  | [rqalpha](https://github.com/ricequant/rqalpha)  (608) <br/> | 608 |
+| 445. | [Leafpub](https://github.com/Leafpub)  | [leafpub](https://github.com/Leafpub/leafpub)  (605) <br/> | 605 |
+| 446. | [hyperledger](https://github.com/hyperledger)  | [fabric](https://github.com/hyperledger/fabric)  (479) <br/>[sawtooth-core](https://github.com/hyperledger/sawtooth-core)  (124) <br/> | 603 |
+| 447. | [oklog](https://github.com/oklog)  | [ulid](https://github.com/oklog/ulid)  (600) <br/> | 600 |
+| 448. | [codecasts](https://github.com/codecasts)  | [spa-starter-kit](https://github.com/codecasts/spa-starter-kit)  (313) <br/>[codecasts](https://github.com/codecasts/codecasts)  (174) <br/>[ambientum](https://github.com/codecasts/ambientum)  (112) <br/> | 599 |
+| 449. | [gagakj](https://github.com/gagakj)  | [GaGaMall](https://github.com/gagakj/GaGaMall)  (598) <br/> | 598 |
+| 450. | [thoughtbot](https://github.com/thoughtbot)  | [expandable-recycler-view](https://github.com/thoughtbot/expandable-recycler-view)  (391) <br/>[Perform](https://github.com/thoughtbot/Perform)  (207) <br/> | 598 |
+| 451. | [apex](https://github.com/apex)  | [node-apex](https://github.com/apex/node-apex)  (220) <br/>[apex-ui](https://github.com/apex/apex-ui)  (161) <br/>[go-apex](https://github.com/apex/go-apex)  (114) <br/>[apex-shell](https://github.com/apex/apex-shell)  (100) <br/> | 595 |
+| 452. | [json-iterator](https://github.com/json-iterator)  | [java](https://github.com/json-iterator/java)  (309) <br/>[go](https://github.com/json-iterator/go)  (285) <br/> | 594 |
+| 453. | [cloudfour](https://github.com/cloudfour)  | [drizzle](https://github.com/cloudfour/drizzle)  (594) <br/> | 594 |
+| 454. | [grandcentrix](https://github.com/grandcentrix)  | [ThirtyInch](https://github.com/grandcentrix/ThirtyInch)  (594) <br/> | 594 |
+| 455. | [GeekGhost](https://github.com/GeekGhost)  | [Ghost](https://github.com/GeekGhost/Ghost)  (593) <br/> | 593 |
+| 456. | [prolificinteractive](https://github.com/prolificinteractive)  | [Caishen](https://github.com/prolificinteractive/Caishen)  (590) <br/> | 590 |
+| 457. | [TorchCraft](https://github.com/TorchCraft)  | [TorchCraft](https://github.com/TorchCraft/TorchCraft)  (590) <br/> | 590 |
+| 458. | [baidu-research](https://github.com/baidu-research)  | [persistent-rnn](https://github.com/baidu-research/persistent-rnn)  (480) <br/>[ba-dls-deepspeech](https://github.com/baidu-research/ba-dls-deepspeech)  (108) <br/> | 588 |
+| 459. | [kriasoft](https://github.com/kriasoft)  | [react-app](https://github.com/kriasoft/react-app)  (331) <br/>[nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter)  (135) <br/>[node-sqlite](https://github.com/kriasoft/node-sqlite)  (119) <br/> | 585 |
+| 460. | [thunlp](https://github.com/thunlp)  | [NRE](https://github.com/thunlp/NRE)  (178) <br/>[KB2E](https://github.com/thunlp/KB2E)  (159) <br/>[THULAC-Python](https://github.com/thunlp/THULAC-Python)  (137) <br/>[NSC](https://github.com/thunlp/NSC)  (110) <br/> | 584 |
+| 461. | [apcera](https://github.com/apcera)  | [libretto](https://github.com/apcera/libretto)  (583) <br/> | 583 |
+| 462. | [deis](https://github.com/deis)  | [workflow](https://github.com/deis/workflow)  (582) <br/> | 582 |
+| 463. | [gridcontrol](https://github.com/gridcontrol)  | [gridcontrol](https://github.com/gridcontrol/gridcontrol)  (579) <br/> | 579 |
+| 464. | [gophercon](https://github.com/gophercon)  | [2016-talks](https://github.com/gophercon/2016-talks)  (579) <br/> | 579 |
+| 465. | [PolarNotion](https://github.com/PolarNotion)  | [turntable](https://github.com/PolarNotion/turntable)  (420) <br/>[starwarsintro](https://github.com/PolarNotion/starwarsintro)  (158) <br/> | 578 |
+| 466. | [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)  | [cloud-vision](https://github.com/GoogleCloudPlatform/cloud-vision)  (446) <br/>[DataflowPythonSDK](https://github.com/GoogleCloudPlatform/DataflowPythonSDK)  (130) <br/> | 576 |
+| 467. | [Hifone](https://github.com/Hifone)  | [Hifone](https://github.com/Hifone/Hifone)  (576) <br/> | 576 |
+| 468. | [ello](https://github.com/ello)  | [ello-ios](https://github.com/ello/ello-ios)  (576) <br/> | 576 |
+| 469. | [mpusher](https://github.com/mpusher)  | [mpush](https://github.com/mpusher/mpush)  (574) <br/> | 574 |
+| 470. | [quora](https://github.com/quora)  | [asynq](https://github.com/quora/asynq)  (377) <br/>[qmf](https://github.com/quora/qmf)  (197) <br/> | 574 |
+| 471. | [rapid7](https://github.com/rapid7)  | [metasploitable3](https://github.com/rapid7/metasploitable3)  (573) <br/> | 573 |
+| 472. | [heckpsi-lab](https://github.com/heckpsi-lab)  | [em-midori](https://github.com/heckpsi-lab/em-midori)  (573) <br/> | 573 |
+| 473. | [antvis](https://github.com/antvis)  | [g2](https://github.com/antvis/g2)  (387) <br/>[antvis.github.io](https://github.com/antvis/antvis.github.io)  (186) <br/> | 573 |
+| 474. | [fivethirtyeight](https://github.com/fivethirtyeight)  | [d3-pre](https://github.com/fivethirtyeight/d3-pre)  (450) <br/>[guns-data](https://github.com/fivethirtyeight/guns-data)  (122) <br/> | 572 |
+| 475. | [gopherchina](https://github.com/gopherchina)  | [conference](https://github.com/gopherchina/conference)  (569) <br/> | 569 |
+| 476. | [openresty](https://github.com/openresty)  | [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module)  (228) <br/>[programming-openresty](https://github.com/openresty/programming-openresty)  (213) <br/>[opm](https://github.com/openresty/opm)  (127) <br/> | 568 |
+| 477. | [MenaraSolutions](https://github.com/MenaraSolutions)  | [geographer](https://github.com/MenaraSolutions/geographer)  (567) <br/> | 567 |
+| 478. | [hammerandchisel](https://github.com/hammerandchisel)  | [discord-api-docs](https://github.com/hammerandchisel/discord-api-docs)  (306) <br/>[airhornbot](https://github.com/hammerandchisel/airhornbot)  (260) <br/> | 566 |
+| 479. | [phpstan](https://github.com/phpstan)  | [phpstan](https://github.com/phpstan/phpstan)  (560) <br/> | 560 |
+| 480. | [keystone-engine](https://github.com/keystone-engine)  | [keystone](https://github.com/keystone-engine/keystone)  (398) <br/>[keypatch](https://github.com/keystone-engine/keypatch)  (162) <br/> | 560 |
+| 481. | [go-vgo](https://github.com/go-vgo)  | [robotgo](https://github.com/go-vgo/robotgo)  (559) <br/> | 559 |
+| 482. | [xamarinhq](https://github.com/xamarinhq)  | [app-evolve](https://github.com/xamarinhq/app-evolve)  (393) <br/>[app-acquaint](https://github.com/xamarinhq/app-acquaint)  (166) <br/> | 559 |
+| 483. | [DockYard](https://github.com/DockYard)  | [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers)  (369) <br/>[ember-changeset](https://github.com/DockYard/ember-changeset)  (187) <br/> | 556 |
+| 484. | [campusappcn](https://github.com/campusappcn)  | [AndRouter](https://github.com/campusappcn/AndRouter)  (556) <br/> | 556 |
+| 485. | [Arello-Mobile](https://github.com/Arello-Mobile)  | [Moxy](https://github.com/Arello-Mobile/Moxy)  (554) <br/> | 554 |
+| 486. | [tumblr](https://github.com/tumblr)  | [laphs](https://github.com/tumblr/laphs)  (407) <br/>[SwiftCompilationPerformanceReporter](https://github.com/tumblr/SwiftCompilationPerformanceReporter)  (144) <br/> | 551 |
+| 487. | [grafijs](https://github.com/grafijs)  | [grafi](https://github.com/grafijs/grafi)  (550) <br/> | 550 |
+| 488. | [jobandtalent](https://github.com/jobandtalent)  | [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput)  (352) <br/>[CardStackController](https://github.com/jobandtalent/CardStackController)  (197) <br/> | 549 |
+| 489. | [OpenNMT](https://github.com/OpenNMT)  | [OpenNMT](https://github.com/OpenNMT/OpenNMT)  (549) <br/> | 549 |
+| 490. | [producthunt](https://github.com/producthunt)  | [producthunt-osx](https://github.com/producthunt/producthunt-osx)  (447) <br/>[PHImageKit](https://github.com/producthunt/PHImageKit)  (102) <br/> | 549 |
+| 491. | [wercker](https://github.com/wercker)  | [wercker](https://github.com/wercker/wercker)  (434) <br/>[stern](https://github.com/wercker/stern)  (113) <br/> | 547 |
+| 492. | [iReaderAndroid](https://github.com/iReaderAndroid)  | [ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  (546) <br/> | 546 |
+| 493. | [flatpak](https://github.com/flatpak)  | [flatpak](https://github.com/flatpak/flatpak)  (545) <br/> | 545 |
+| 494. | [dataproofer](https://github.com/dataproofer)  | [Dataproofer](https://github.com/dataproofer/Dataproofer)  (544) <br/> | 544 |
+| 495. | [gdgbeijing](https://github.com/gdgbeijing)  | [devfest2016](https://github.com/gdgbeijing/devfest2016)  (437) <br/>[android-meetup-2016-08-07](https://github.com/gdgbeijing/android-meetup-2016-08-07)  (106) <br/> | 543 |
+| 496. | [01org](https://github.com/01org)  | [linux-sgx](https://github.com/01org/linux-sgx)  (146) <br/>[ciao](https://github.com/01org/ciao)  (144) <br/>[fastuidraw](https://github.com/01org/fastuidraw)  (129) <br/>[mkl-dnn](https://github.com/01org/mkl-dnn)  (124) <br/> | 543 |
+| 497. | [fabric8io](https://github.com/fabric8io)  | [funktion](https://github.com/fabric8io/funktion)  (304) <br/>[kansible](https://github.com/fabric8io/kansible)  (119) <br/>[spring-cloud-kubernetes](https://github.com/fabric8io/spring-cloud-kubernetes)  (118) <br/> | 541 |
+| 498. | [SimplicityMobile](https://github.com/SimplicityMobile)  | [Simplicity](https://github.com/SimplicityMobile/Simplicity)  (541) <br/> | 541 |
+| 499
