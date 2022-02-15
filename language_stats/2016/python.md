@@ -382,4 +382,155 @@
 | 376. | [stamparm/fetch-some-proxies](https://github.com/stamparm/fetch-some-proxies) <br/>Simple Python script for fetching "some" (usable) ... | 216 |
 | 377. | [zhreshold/mxnet-ssd](https://github.com/zhreshold/mxnet-ssd) <br/>MXNet port of SSD: Single Shot MultiBox Object Det... | 216 |
 | 378. | [evilcos/crawlers](https://github.com/evilcos/crawlers) <br/>Some crawlers u know it:-) | 215 |
-| 379. | [NorthBit/Metaphor](https://github.com/NorthBit/Metaphor) <br/>Metaphor - Stagefright with
+| 379. | [NorthBit/Metaphor](https://github.com/NorthBit/Metaphor) <br/>Metaphor - Stagefright with ASLR bypass | 215 |
+| 380. | [gamenet/redis-memory-analyzer](https://github.com/gamenet/redis-memory-analyzer) <br/>Redis memory profiler to find the RAM bottlenecks ... | 214 |
+| 381. | [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) <br/>A simple library for implementing common design pa... | 214 |
+| 382. | [YerevaNN/Dynamic-memory-networks-in-Theano](https://github.com/YerevaNN/Dynamic-memory-networks-in-Theano) <br/>Implementation of Dynamic memory networks by Kumar... | 214 |
+| 383. | [Miserlou/omnihash](https://github.com/Miserlou/omnihash) <br/>Hash files, strings, input streams and network res... | 213 |
+| 384. | [jacobgil/keras-dcgan](https://github.com/jacobgil/keras-dcgan) <br/>Keras implementation of Deep Convolutional Generat... | 212 |
+| 385. | [ndee85/coa_tools](https://github.com/ndee85/coa_tools) <br/>COA Tools is a 2D Animation Suite for blender. It ... | 212 |
+| 386. | [ericjang/draw](https://github.com/ericjang/draw) <br/>TensorFlow Implementation of "DRAW: A Recurrent Ne... | 212 |
+| 387. | [lightbulb-framework/lightbulb-framework](https://github.com/lightbulb-framework/lightbulb-framework) <br/>Tools for auditing WAFS | 211 |
+| 388. | [dragonchain/dragonchain](https://github.com/dragonchain/dragonchain) <br/>Dragonchain blockchain platform - simplified integ... | 211 |
+| 389. | [corna/me_cleaner](https://github.com/corna/me_cleaner) <br/>Tool for partial deblobbing of Intel ME firmware i... | 211 |
+| 390. | [felipevolpone/ray](https://github.com/felipevolpone/ray) <br/>a framework that helps you to deliver well-designe... | 211 |
+| 391. | [emre/django-stackoverflow-trace](https://github.com/emre/django-stackoverflow-trace) <br/>Django error page w/ a stackoverflow search link. | 210 |
+| 392. | [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch) <br/>『ゼロから作る Deep Learning』のリポジトリ | 209 |
+| 393. | [laincloud/lain](https://github.com/laincloud/lain) <br/>LAIN's main repo | 208 |
+| 394. | [khalilbijjou/WAFNinja](https://github.com/khalilbijjou/WAFNinja) <br/>WAFNinja is a tool which contains two functions to... | 208 |
+| 395. | [imatge-upc/detection-2016-nipsws](https://github.com/imatge-upc/detection-2016-nipsws) <br/>Hierarchical Object Detection with Deep Reinforcem... | 207 |
+| 396. | [rossgoodwin/neuralsnap](https://github.com/rossgoodwin/neuralsnap) <br/>Generates poetry from images using convolutional a... | 207 |
+| 397. | [Genetic-Malware/Ebowla](https://github.com/Genetic-Malware/Ebowla) <br/>Framework for Making Environmental Keyed Payloads | 207 |
+| 398. | [phith0n/mooder](https://github.com/phith0n/mooder) <br/>Mooder是一款开源、安全、简洁、强大的团队内部知识分享平台。 | 207 |
+| 399. | [chncyhn/flappybird-qlearning-bot](https://github.com/chncyhn/flappybird-qlearning-bot) <br/>Flappy Bird Bot using Reinforcement Learning | 206 |
+| 400. | [googlesamples/apk-patch-size-estimator](https://github.com/googlesamples/apk-patch-size-estimator) <br/>apk-patch-size-estimator | 206 |
+| 401. | [hashedin/jinjasql](https://github.com/hashedin/jinjasql) <br/>Generate SQL using Jinja Templates | 206 |
+| 402. | [Vict0rSch/deep_learning](https://github.com/Vict0rSch/deep_learning) <br/>Deep Learning Resources and Tutorials using Keras ... | 206 |
+| 403. | [adatao/tensorspark](https://github.com/adatao/tensorspark) <br/>TensorFlow on Spark | 205 |
+| 404. | [raghakot/keras-resnet](https://github.com/raghakot/keras-resnet) <br/>Residual networks implementation using Keras-1.0 f... | 205 |
+| 405. | [ssimunic/Daily-Reddit-Wallpaper](https://github.com/ssimunic/Daily-Reddit-Wallpaper) <br/>Change your wallpaper to the most upvoted image of... | 205 |
+| 406. | [thombashi/sqlitebiter](https://github.com/thombashi/sqlitebiter) <br/>sqlitebiter is a CLI tool to convert CSV/Excel/HTM... | 204 |
+| 407. | [ardila/paintingReorganize](https://github.com/ardila/paintingReorganize) <br/>Use PCA analysis to reorganize the pixels of a pai... | 201 |
+| 408. | [leegao/readme2tex](https://github.com/leegao/readme2tex) <br/>Renders TeXy Math for Github Readmes | 201 |
+| 409. | [inejc/painters](https://github.com/inejc/painters) <br/>Winning solution for the Painter by Numbers compet... | 201 |
+| 410. | [muupan/async-rl](https://github.com/muupan/async-rl) <br/>Replicating "Asynchronous Methods for Deep Reinfor... | 201 |
+| 411. | [miyosuda/async_deep_reinforce](https://github.com/miyosuda/async_deep_reinforce) <br/>Asynchronous Methods for Deep Reinforcement Learni... | 201 |
+| 412. | [songgc/TF-recomm](https://github.com/songgc/TF-recomm) <br/>Tensorflow-based Recommendation systems | 200 |
+| 413. | [keunwoochoi/music-auto_tagging-keras](https://github.com/keunwoochoi/music-auto_tagging-keras) <br/>Music auto-tagging models and trained weights in k... | 199 |
+| 414. | [ngalongc/AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation) <br/>An automated script that download potential exploi... | 199 |
+| 415. | [ayoungprogrammer/nlquery](https://github.com/ayoungprogrammer/nlquery) <br/>Natural Language Engine on WikiData | 199 |
+| 416. | [smallcorgi/Faster-RCNN_TF](https://github.com/smallcorgi/Faster-RCNN_TF) <br/>Faster-RCNN in Tensorflow | 199 |
+| 417. | [faizann24/XssPy](https://github.com/faizann24/XssPy) <br/>XssPy - Web Application XSS Scanner | 197 |
+| 418. | [Erma-Wang/Spider](https://github.com/Erma-Wang/Spider) <br/>Wandering Spider | 197 |
+| 419. | [yandex/pgmigrate](https://github.com/yandex/pgmigrate) <br/>Simple tool to evolve PostgreSQL schema easily. | 196 |
+| 420. | [chubin/pyphoon](https://github.com/chubin/pyphoon) <br/>ASCII Art Phase of the Moon (Python version) | 196 |
+| 421. | [0xbug/SQLiScanner](https://github.com/0xbug/SQLiScanner) <br/>Automatic SQL injection with Charles and sqlmap ap... | 196 |
+| 422. | [linouk23/NBA-Player-Movements](https://github.com/linouk23/NBA-Player-Movements) <br/>🏀 Visualization of NBA games from raw SportVU data... | 196 |
+| 423. | [vmware/liota](https://github.com/vmware/liota)  | 195 |
+| 424. | [ryukinix/decorating](https://github.com/ryukinix/decorating) <br/>decorating: Literally decorating your terminal wit... | 195 |
+| 425. | [tonybaloney/mocker](https://github.com/tonybaloney/mocker) <br/>A crappy imitation of Docker, written in 100% Pyth... | 195 |
+| 426. | [ecthros/pina-colada](https://github.com/ecthros/pina-colada) <br/>A powerful and extensible wireless drop box | 195 |
+| 427. | [HHammond/PrettyPandas](https://github.com/HHammond/PrettyPandas) <br/>A Pandas Styler class for making beautiful tables | 194 |
+| 428. | [pcbje/gransk](https://github.com/pcbje/gransk) <br/>Document processing for investigations | 193 |
+| 429. | [tony/libtmux](https://github.com/tony/libtmux) <br/>python api for tmux | 192 |
+| 430. | [nedwill/soundhax](https://github.com/nedwill/soundhax) <br/>Free 3DS Primary Entrypoint =11.2 | 192 |
+| 431. | [HackerHouseYT/Smart-Mirror](https://github.com/HackerHouseYT/Smart-Mirror) <br/>Raspberry powered mirror which can display news, w... | 191 |
+| 432. | [aker-gateway/Aker](https://github.com/aker-gateway/Aker) <br/>SSH bastion/jump host | 190 |
+| 433. | [riga/tfdeploy](https://github.com/riga/tfdeploy) <br/>Deploy tensorflow graphs for fast evaluation and e... | 190 |
+| 434. | [ryankiros/layer-norm](https://github.com/ryankiros/layer-norm) <br/>Code and models from the paper "Layer Normalizatio... | 190 |
+| 435. | [fengxuangit/Fox-scan](https://github.com/fengxuangit/Fox-scan) <br/>Fox-scan is a initiative and passive SQL Injection... | 189 |
+| 436. | [ofirnachum/tree_rnn](https://github.com/ofirnachum/tree_rnn) <br/>Theano implementation of Tree RNNs aka Recursive N... | 189 |
+| 437. | [Emptyset110/dHydra](https://github.com/Emptyset110/dHydra) <br/>主要针对多数据源多策略实时计算的量化分析开发框架。提供新浪Level2等数据获取 | 189 |
+| 438. | [bcicen/wikitables](https://github.com/bcicen/wikitables) <br/>Import tables from any Wikipedia article as a data... | 188 |
+| 439. | [jocicmarko/ultrasound-nerve-segmentation](https://github.com/jocicmarko/ultrasound-nerve-segmentation) <br/>Deep Learning Tutorial for Kaggle Ultrasound Nerve... | 188 |
+| 440. | [HazyResearch/snorkel](https://github.com/HazyResearch/snorkel) <br/>A lightweight platform for developing information ... | 187 |
+| 441. | [JakeWharton/sdk-artifact-sync](https://github.com/JakeWharton/sdk-artifact-sync) <br/>A script which synchronizes all of the artifacts i... | 187 |
+| 442. | [Kyubyong/wordvectors](https://github.com/Kyubyong/wordvectors) <br/>Pre-trained word vectors of 30+ languages | 187 |
+| 443. | [rednaga/APKiD](https://github.com/rednaga/APKiD) <br/>Android Application Identifier for Packers, Protec... | 187 |
+| 444. | [larryhastings/gilectomy](https://github.com/larryhastings/gilectomy) <br/>Gilectomy branch of CPython.  Use "gilectomy" bran... | 186 |
+| 445. | [carpedm20/neural-summary-tensorflow](https://github.com/carpedm20/neural-summary-tensorflow) <br/>In progress | 184 |
+| 446. | [mirri66/xgbmagic](https://github.com/mirri66/xgbmagic)  | 184 |
+| 447. | [nanshihui/PocCollect](https://github.com/nanshihui/PocCollect) <br/>a plenty of poc based on python | 183 |
+| 448. | [fiunchinho/dockerize-me](https://github.com/fiunchinho/dockerize-me) <br/>This tool lets you Dockerize your applications usi... | 182 |
+| 449. | [aviaryan/learnxinyminutes-pdf](https://github.com/aviaryan/learnxinyminutes-pdf) <br/>:books: Learn X in Y minutes as PDF | 182 |
+| 450. | [36hours/idaemu](https://github.com/36hours/idaemu) <br/>idaemu is an IDA Pro Plugin - use for emulating co... | 182 |
+| 451. | [Zephrys/monica](https://github.com/Zephrys/monica) <br/>:fork_and_knife: monica is a command line chef tha... | 182 |
+| 452. | [Kyubyong/tensorflow-exercises](https://github.com/Kyubyong/tensorflow-exercises) <br/>TensorFlow Exercises - focusing on the comparison ... | 181 |
+| 453. | [a0rtega/metame](https://github.com/a0rtega/metame) <br/>metame is a metamorphic code engine for arbitrary ... | 180 |
+| 454. | [Tencent/GAutomator](https://github.com/Tencent/GAutomator) <br/>Automation for unity mobile game apps | 180 |
+| 455. | [hugsy/cemu](https://github.com/hugsy/cemu) <br/>Cheap EMUlator GUI based on Keystone and Unicorn e... | 180 |
+| 456. | [yasintoy/SnipLime](https://github.com/yasintoy/SnipLime) <br/>Best collections of design patterns/idioms/snippet... | 180 |
+| 457. | [decalage2/oletools](https://github.com/decalage2/oletools) <br/>oletools - python tools to analyze MS OLE2 files (... | 180 |
+| 458. | [HT524/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN) <br/>500 line or less 中文翻译计划。 | 179 |
+| 459. | [llSourcell/tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot) <br/>Tensorflow chatbot demo by @Sirajology on Youtube | 179 |
+| 460. | [Dfenestrator/GooPyCharts](https://github.com/Dfenestrator/GooPyCharts) <br/>A Google Charts API for Python, meant to be used a... | 179 |
+| 461. | [vrtadmin/ROPMEMU](https://github.com/vrtadmin/ROPMEMU) <br/>ROPMEMU is a framework to analyze, dissect and dec... | 179 |
+| 462. | [tahoe-lafs/zfec](https://github.com/tahoe-lafs/zfec) <br/>zfec -- an efficient, portable erasure coding tool | 178 |
+| 463. | [dhs-ncats/pshtt](https://github.com/dhs-ncats/pshtt) <br/>Scan domains and return data based on HTTPS best p... | 178 |
+| 464. | [farizrahman4u/qlearning4k](https://github.com/farizrahman4u/qlearning4k) <br/>Q-learning for Keras | 177 |
+| 465. | [gboeing/osmnx](https://github.com/gboeing/osmnx) <br/>Python for street networks: retrieve, construct, a... | 177 |
+| 466. | [grantmcconnaughey/django-field-history](https://github.com/grantmcconnaughey/django-field-history) <br/>A Django app to track changes to a model field. | 177 |
+| 467. | [kespindler/albatross](https://github.com/kespindler/albatross) <br/>A modern, fast, simple async python3 web framework | 177 |
+| 468. | [LiuRoy/huatian-funny](https://github.com/LiuRoy/huatian-funny) <br/>科学地分析自己的择偶观 | 176 |
+| 469. | [shellphish/rex](https://github.com/shellphish/rex) <br/>Shellphish's automated exploitation engine, origin... | 176 |
+| 470. | [careercup/CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python) <br/>Cracking the Coding Interview 6th Ed. Python Solut... | 176 |
+| 471. | [glample/tagger](https://github.com/glample/tagger) <br/>Named Entity Recognition Tool | 176 |
+| 472. | [djrobstep/migra](https://github.com/djrobstep/migra) <br/>Like diff but for PostgreSQL schemas | 175 |
+| 473. | [shawnwun/RNNLG](https://github.com/shawnwun/RNNLG) <br/>RNNLG is an open source benchmark toolkit for Natu... | 175 |
+| 474. | [facebook/fbtftp](https://github.com/facebook/fbtftp) <br/>fbtftp is Facebook's implementation of a dynamic T... | 175 |
+| 475. | [kevthehermit/VolUtility](https://github.com/kevthehermit/VolUtility) <br/>Web App for Volatility framework | 175 |
+| 476. | [spaze/oprah-proxy](https://github.com/spaze/oprah-proxy) <br/>Generate credentials for Opera's "browser VPN" | 175 |
+| 477. | [sriyegna/Pikaptcha](https://github.com/sriyegna/Pikaptcha) <br/>Automated and Manual creation of PTC accts | 175 |
+| 478. | [Ptr32Void/OSTrICa](https://github.com/Ptr32Void/OSTrICa)  | 174 |
+| 479. | [dagrz/aws_pwn](https://github.com/dagrz/aws_pwn) <br/>A collection of AWS penetration testing junk | 174 |
+| 480. | [CENSUS/choronzon](https://github.com/CENSUS/choronzon) <br/>An evolutionary knowledge-based fuzzer | 174 |
+| 481. | [aditya-grover/node2vec](https://github.com/aditya-grover/node2vec)  | 173 |
+| 482. | [enginebai/PyMessager](https://github.com/enginebai/PyMessager) <br/>A Python API and Tutorial to use Python Flask to d... | 172 |
+| 483. | [fyu/dilation](https://github.com/fyu/dilation) <br/>Dilated Convolution for Semantic Image Segmentatio... | 172 |
+| 484. | [mikeckennedy/python-jumpstart-course-demos](https://github.com/mikeckennedy/python-jumpstart-course-demos) <br/>Contains all the "handout" materials for my Python... | 172 |
+| 485. | [classam/silly](https://github.com/classam/silly) <br/>A python library for producing fanciful test data. | 172 |
+| 486. | [hujiaweibujidao/Gank-Alfred-Workflow](https://github.com/hujiaweibujidao/Gank-Alfred-Workflow) <br/>:wolf: An Alfred Workflow for searching ganks(干货) ... | 172 |
+| 487. | [praetorian-inc/pyshell](https://github.com/praetorian-inc/pyshell) <br/>PyShell makes interacting with web-based command i... | 171 |
+| 488. | [flingjie/words_image](https://github.com/flingjie/words_image)  | 170 |
+| 489. | [dxa4481/Snapper](https://github.com/dxa4481/Snapper) <br/>A security tool for grabbing screenshots of many w... | 170 |
+| 490. | [Chillee/coursera-dl-all](https://github.com/Chillee/coursera-dl-all)  | 170 |
+| 491. | [xingwangsfu/caffe-yolo](https://github.com/xingwangsfu/caffe-yolo) <br/>YOLO (Real-Time Object Detection) in caffe | 170 |
+| 492. | [raiden-network/raiden](https://github.com/raiden-network/raiden) <br/>Raiden Network | 169 |
+| 493. | [gutfeeling/word_forms](https://github.com/gutfeeling/word_forms) <br/>Accurately generate all possible forms of an Engli... | 169 |
+| 494. | [daijifeng001/MNC](https://github.com/daijifeng001/MNC) <br/>Instance-aware Semantic Segmentation via Multi-tas... | 169 |
+| 495. | [LevPasha/Instagram-API-python](https://github.com/LevPasha/Instagram-API-python) <br/>Unofficial instagram API, give you access to ALL i... | 167 |
+| 496. | [tristandeleu/ntm-one-shot](https://github.com/tristandeleu/ntm-one-shot) <br/>One-shot Learning with Memory-Augmented Neural Net... | 167 |
+| 497. | [mikeperry-tor/mission-improbable](https://github.com/mikeperry-tor/mission-improbable) <br/>A set of scripts to root and install gapps and orb... | 166 |
+| 498. | [xoneco/simple-poll](https://github.com/xoneco/simple-poll) <br/>:bar_chart: Create native and simple polls in Slac... | 166 |
+| 499. | [niosus/EasyClangComplete](https://github.com/niosus/EasyClangComplete) <br/>Sublime Text 3 plugin that offers auto-completion ... | 166 |
+| 500. | [paarthneekhara/byteNet-tensorflow](https://github.com/paarthneekhara/byteNet-tensorflow) <br/>ByteNet for character-level language modelling | 166 |
+
+## Most-Starred Users: Python
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [alexjc](https://github.com/alexjc)  | [neural-doodle](https://github.com/alexjc/neural-doodle)  (7226) <br/>[neural-enhance](https://github.com/alexjc/neural-enhance)  (5879) <br/> | 13105 |
+| 2. | [songrotek](https://github.com/songrotek)  | [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)  (8707) <br/>[DRL-FlappyBird](https://github.com/songrotek/DRL-FlappyBird)  (125) <br/> | 8832 |
+| 3. | [p-e-w](https://github.com/p-e-w)  | [maybe](https://github.com/p-e-w/maybe)  (6078) <br/> | 6078 |
+| 4. | [eliangcs](https://github.com/eliangcs)  | [http-prompt](https://github.com/eliangcs/http-prompt)  (5972) <br/> | 5972 |
+| 5. | [samshadwell](https://github.com/samshadwell)  | [TrumpScript](https://github.com/samshadwell/TrumpScript)  (5347) <br/> | 5347 |
+| 6. | [rushter](https://github.com/rushter)  | [MLAlgorithms](https://github.com/rushter/MLAlgorithms)  (5003) <br/> | 5003 |
+| 7. | [donnemartin](https://github.com/donnemartin)  | [gitsome](https://github.com/donnemartin/gitsome)  (4482) <br/>[viz](https://github.com/donnemartin/viz)  (359) <br/> | 4841 |
+| 8. | [0x5e](https://github.com/0x5e)  | [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends)  (4617) <br/> | 4617 |
+| 9. | [a1studmuffin](https://github.com/a1studmuffin)  | [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator)  (4391) <br/> | 4391 |
+| 10. | [channelcat](https://github.com/channelcat)  | [sanic](https://github.com/channelcat/sanic)  (3989) <br/> | 3989 |
+| 11. | [david-gpu](https://github.com/david-gpu)  | [srez](https://github.com/david-gpu/srez)  (3856) <br/> | 3856 |
+| 12. | [pavelgonchar](https://github.com/pavelgonchar)  | [colornet](https://github.com/pavelgonchar/colornet)  (2932) <br/>[neural-art-mini](https://github.com/pavelgonchar/neural-art-mini)  (222) <br/>[face-search](https://github.com/pavelgonchar/face-search)  (149) <br/>[color-independent-style-transfer](https://github.com/pavelgonchar/color-independent-style-transfer)  (120) <br/> | 3423 |
+| 13. | [jayfk](https://github.com/jayfk)  | [statuspage](https://github.com/jayfk/statuspage)  (3372) <br/> | 3372 |
+| 14. | [Miserlou](https://github.com/Miserlou)  | [Zappa](https://github.com/Miserlou/Zappa)  (2488) <br/>[django-zappa](https://github.com/Miserlou/django-zappa)  (472) <br/>[omnihash](https://github.com/Miserlou/omnihash)  (213) <br/> | 3173 |
+| 15. | [arielf](https://github.com/arielf)  | [weight-loss](https://github.com/arielf/weight-loss)  (2880) <br/> | 2880 |
+| 16. | [awentzonline](https://github.com/awentzonline)  | [image-analogies](https://github.com/awentzonline/image-analogies)  (2725) <br/>[keras-rtst](https://github.com/awentzonline/keras-rtst)  (123) <br/> | 2848 |
+| 17. | [miloyip](https://github.com/miloyip)  | [game-programmer](https://github.com/miloyip/game-programmer)  (2691) <br/> | 2691 |
+| 18. | [programthink](https://github.com/programthink)  | [zhao](https://github.com/programthink/zhao)  (2594) <br/> | 2594 |
+| 19. | [reorx](https://github.com/reorx)  | [httpstat](https://github.com/reorx/httpstat)  (2494) <br/> | 2494 |
+| 20. | [gongjianhui](https://github.com/gongjianhui)  | [AppleDNS](https://github.com/gongjianhui/AppleDNS)  (2318) <br/> | 2318 |
+| 21. | [lengstrom](https://github.com/lengstrom)  | [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)  (2233) <br/>[falcon](https://github.com/lengstrom/falcon)  (1342) <br/> | 2233 |
+| 22. | [yenchenlin](https://github.com/yenchenlin)  | [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)  (2100) <br/>[pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)  (101) <br/> | 2201 |
+| 23. | [mzucker](https://github.com/mzucker)  | [noteshrink](https://github.com/mzucker/noteshrink)  (1555) <br/>[page_dewarp](https://github.com/mzucker/page_dewarp)  (644) <br/> | 2199 |
+| 24. | [mchristopher](https://github.com/mchristopher)  | [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap)  (2060) <br/> | 2060 |
+| 25. | [christabor](https://github.com/christabor)  | [flask_jsondash](https://github.com/christabor/flask_json
