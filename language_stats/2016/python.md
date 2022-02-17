@@ -533,4 +533,136 @@
 | 22. | [yenchenlin](https://github.com/yenchenlin)  | [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird)  (2100) <br/>[pix2pix-tensorflow](https://github.com/yenchenlin/pix2pix-tensorflow)  (101) <br/> | 2201 |
 | 23. | [mzucker](https://github.com/mzucker)  | [noteshrink](https://github.com/mzucker/noteshrink)  (1555) <br/>[page_dewarp](https://github.com/mzucker/page_dewarp)  (644) <br/> | 2199 |
 | 24. | [mchristopher](https://github.com/mchristopher)  | [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap)  (2060) <br/> | 2060 |
-| 25. | [christabor](https://github.com/christabor)  | [flask_jsondash](https://github.com/christabor/flask_json
+| 25. | [christabor](https://github.com/christabor)  | [flask_jsondash](https://github.com/christabor/flask_jsondash)  (2035) <br/> | 2035 |
+| 26. | [sylnsfar](https://github.com/sylnsfar)  | [qrcode](https://github.com/sylnsfar/qrcode)  (1972) <br/> | 1972 |
+| 27. | [Urinx](https://github.com/Urinx)  | [WeixinBot](https://github.com/Urinx/WeixinBot)  (1867) <br/> | 1867 |
+| 28. | [ibab](https://github.com/ibab)  | [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet)  (1857) <br/> | 1857 |
+| 29. | [VoLuong](https://github.com/VoLuong)  | [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software)  (1790) <br/> | 1790 |
+| 30. | [buriburisuri](https://github.com/buriburisuri)  | [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet)  (1213) <br/>[ByteNet](https://github.com/buriburisuri/ByteNet)  (158) <br/>[ebgan](https://github.com/buriburisuri/ebgan)  (154) <br/>[sugartensor](https://github.com/buriburisuri/sugartensor)  (141) <br/>[ac-gan](https://github.com/buriburisuri/ac-gan)  (122) <br/> | 1788 |
+| 31. | [jsvine](https://github.com/jsvine)  | [waybackpack](https://github.com/jsvine/waybackpack)  (1772) <br/> | 1772 |
+| 32. | [carpedm20](https://github.com/carpedm20)  | [deep-rl-tensorflow](https://github.com/carpedm20/deep-rl-tensorflow)  (565) <br/>[variational-text-tensorflow](https://github.com/carpedm20/variational-text-tensorflow)  (391) <br/>[visual-analogy-tensorflow](https://github.com/carpedm20/visual-analogy-tensorflow)  (239) <br/>[pixel-rnn-tensorflow](https://github.com/carpedm20/pixel-rnn-tensorflow)  (229) <br/>[neural-summary-tensorflow](https://github.com/carpedm20/neural-summary-tensorflow)  (184) <br/>[attentive-reader-tensorflow](https://github.com/carpedm20/attentive-reader-tensorflow)  (128) <br/> | 1736 |
+| 33. | [defaultnamehere](https://github.com/defaultnamehere)  | [zzzzz](https://github.com/defaultnamehere/zzzzz)  (1144) <br/>[tinder-detective](https://github.com/defaultnamehere/tinder-detective)  (557) <br/> | 1701 |
+| 34. | [littlecodersh](https://github.com/littlecodersh)  | [ItChat](https://github.com/littlecodersh/ItChat)  (1366) <br/>[danmu](https://github.com/littlecodersh/danmu)  (249) <br/> | 1615 |
+| 35. | [junyanz](https://github.com/junyanz)  | [iGAN](https://github.com/junyanz/iGAN)  (1608) <br/> | 1608 |
+| 36. | [sdispater](https://github.com/sdispater)  | [pendulum](https://github.com/sdispater/pendulum)  (1582) <br/> | 1582 |
+| 37. | [joshnewlan](https://github.com/joshnewlan)  | [say_what](https://github.com/joshnewlan/say_what)  (1509) <br/> | 1509 |
+| 38. | [joowani](https://github.com/joowani)  | [binarytree](https://github.com/joowani/binarytree)  (718) <br/>[kq](https://github.com/joowani/kq)  (388) <br/>[dtags](https://github.com/joowani/dtags)  (290) <br/> | 1396 |
+| 39. | [paarthneekhara](https://github.com/paarthneekhara)  | [text-to-image](https://github.com/paarthneekhara/text-to-image)  (1099) <br/>[byteNet-tensorflow](https://github.com/paarthneekhara/byteNet-tensorflow)  (166) <br/>[neural-vqa-tensorflow](https://github.com/paarthneekhara/neural-vqa-tensorflow)  (113) <br/> | 1378 |
+| 40. | [jisungk](https://github.com/jisungk)  | [deepjazz](https://github.com/jisungk/deepjazz)  (1370) <br/> | 1370 |
+| 41. | [ajbrock](https://github.com/ajbrock)  | [Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor)  (1333) <br/> | 1333 |
+| 42. | [saiprashanths](https://github.com/saiprashanths)  | [dl-docker](https://github.com/saiprashanths/dl-docker)  (1317) <br/> | 1317 |
+| 43. | [alex-sherman](https://github.com/alex-sherman)  | [deco](https://github.com/alex-sherman/deco)  (1314) <br/> | 1314 |
+| 44. | [liuwons](https://github.com/liuwons)  | [wxBot](https://github.com/liuwons/wxBot)  (1312) <br/> | 1312 |
+| 45. | [mshang](https://github.com/mshang)  | [python-elevator-challenge](https://github.com/mshang/python-elevator-challenge)  (1311) <br/> | 1311 |
+| 46. | [fchollet](https://github.com/fchollet)  | [deep-learning-models](https://github.com/fchollet/deep-learning-models)  (1228) <br/> | 1228 |
+| 47. | [kootenpv](https://github.com/kootenpv)  | [whereami](https://github.com/kootenpv/whereami)  (1226) <br/> | 1226 |
+| 48. | [kennethreitz](https://github.com/kennethreitz)  | [maya](https://github.com/kennethreitz/maya)  (1055) <br/>[em](https://github.com/kennethreitz/em)  (161) <br/> | 1216 |
+| 49. | [drathier](https://github.com/drathier)  | [stack-overflow-import](https://github.com/drathier/stack-overflow-import)  (1196) <br/> | 1196 |
+| 50. | [anfederico](https://github.com/anfederico)  | [Clairvoyant](https://github.com/anfederico/Clairvoyant)  (900) <br/>[Stocktalk](https://github.com/anfederico/Stocktalk)  (250) <br/> | 1150 |
+| 51. | [xchaoinfo](https://github.com/xchaoinfo)  | [fuck-login](https://github.com/xchaoinfo/fuck-login)  (1098) <br/> | 1098 |
+| 52. | [traverseda](https://github.com/traverseda)  | [pycraft](https://github.com/traverseda/pycraft)  (1073) <br/> | 1073 |
+| 53. | [jlsutherland](https://github.com/jlsutherland)  | [doc2text](https://github.com/jlsutherland/doc2text)  (1018) <br/> | 1018 |
+| 54. | [Kyubyong](https://github.com/Kyubyong)  | [numpy_exercises](https://github.com/Kyubyong/numpy_exercises)  (639) <br/>[wordvectors](https://github.com/Kyubyong/wordvectors)  (187) <br/>[tensorflow-exercises](https://github.com/Kyubyong/tensorflow-exercises)  (181) <br/> | 1007 |
+| 55. | [xianhu](https://github.com/xianhu)  | [LearnPython](https://github.com/xianhu/LearnPython)  (571) <br/>[PSpider](https://github.com/xianhu/PSpider)  (424) <br/> | 995 |
+| 56. | [warmheartli](https://github.com/warmheartli)  | [ChatBotCourse](https://github.com/warmheartli/ChatBotCourse)  (992) <br/> | 992 |
+| 57. | [owocki](https://github.com/owocki)  | [pytrader](https://github.com/owocki/pytrader)  (831) <br/>[s3_disk_util](https://github.com/owocki/s3_disk_util)  (152) <br/> | 983 |
+| 58. | [crazyguitar](https://github.com/crazyguitar)  | [pysheeet](https://github.com/crazyguitar/pysheeet)  (976) <br/> | 976 |
+| 59. | [joealcorn](https://github.com/joealcorn)  | [laboratory](https://github.com/joealcorn/laboratory)  (962) <br/> | 962 |
+| 60. | [ParhamP](https://github.com/ParhamP)  | [altify](https://github.com/ParhamP/altify)  (602) <br/>[Speech-Hacker](https://github.com/ParhamP/Speech-Hacker)  (352) <br/> | 954 |
+| 61. | [CreatCodeBuild](https://github.com/CreatCodeBuild)  | [TensorFlow-Chinese-Tutorial](https://github.com/CreatCodeBuild/TensorFlow-Chinese-Tutorial)  (934) <br/> | 934 |
+| 62. | [zsdonghao](https://github.com/zsdonghao)  | [tensorlayer](https://github.com/zsdonghao/tensorlayer)  (921) <br/> | 921 |
+| 63. | [buckket](https://github.com/buckket)  | [twtxt](https://github.com/buckket/twtxt)  (887) <br/> | 887 |
+| 64. | [boramalper](https://github.com/boramalper)  | [himawaripy](https://github.com/boramalper/himawaripy)  (866) <br/> | 866 |
+| 65. | [LiuXingMing](https://github.com/LiuXingMing)  | [SinaSpider](https://github.com/LiuXingMing/SinaSpider)  (589) <br/>[QQSpider](https://github.com/LiuXingMing/QQSpider)  (157) <br/>[Tmall1212](https://github.com/LiuXingMing/Tmall1212)  (101) <br/> | 847 |
+| 66. | [matthiasplappert](https://github.com/matthiasplappert)  | [keras-rl](https://github.com/matthiasplappert/keras-rl)  (842) <br/> | 842 |
+| 67. | [vfaronov](https://github.com/vfaronov)  | [httpolice](https://github.com/vfaronov/httpolice)  (828) <br/> | 828 |
+| 68. | [syrusakbary](https://github.com/syrusakbary)  | [gdom](https://github.com/syrusakbary/gdom)  (809) <br/> | 809 |
+| 69. | [EvilCult](https://github.com/EvilCult)  | [Video-Downloader](https://github.com/EvilCult/Video-Downloader)  (808) <br/> | 808 |
+| 70. | [erikbern](https://github.com/erikbern)  | [git-of-theseus](https://github.com/erikbern/git-of-theseus)  (677) <br/>[mta](https://github.com/erikbern/mta)  (114) <br/> | 791 |
+| 71. | [VikParuchuri](https://github.com/VikParuchuri)  | [apartment-finder](https://github.com/VikParuchuri/apartment-finder)  (774) <br/> | 774 |
+| 72. | [Hironsan](https://github.com/Hironsan)  | [BossSensor](https://github.com/Hironsan/BossSensor)  (641) <br/>[HotPepperGourmetDialogue](https://github.com/Hironsan/HotPepperGourmetDialogue)  (120) <br/> | 761 |
+| 73. | [yasintoy](https://github.com/yasintoy)  | [Slack-Gitsin](https://github.com/yasintoy/Slack-Gitsin)  (577) <br/>[SnipLime](https://github.com/yasintoy/SnipLime)  (180) <br/> | 757 |
+| 74. | [ihodev](https://github.com/ihodev)  | [sublime-boxy](https://github.com/ihodev/sublime-boxy)  (640) <br/>[sublime-file-icons](https://github.com/ihodev/sublime-file-icons)  (109) <br/> | 749 |
+| 75. | [lk-geimfari](https://github.com/lk-geimfari)  | [elizabeth](https://github.com/lk-geimfari/elizabeth)  (741) <br/> | 741 |
+| 76. | [LevPasha](https://github.com/LevPasha)  | [instabot.py](https://github.com/LevPasha/instabot.py)  (559) <br/>[Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)  (167) <br/> | 726 |
+| 77. | [StijnMiroslav](https://github.com/StijnMiroslav)  | [top-starred-devs-and-repos-to-follow](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)  (709) <br/> | 709 |
+| 78. | [xdavidhu](https://github.com/xdavidhu)  | [mitmAP](https://github.com/xdavidhu/mitmAP)  (705) <br/> | 705 |
+| 79. | [tomlepaine](https://github.com/tomlepaine)  | [fast-wavenet](https://github.com/tomlepaine/fast-wavenet)  (698) <br/> | 698 |
+| 80. | [coreylynch](https://github.com/coreylynch)  | [async-rl](https://github.com/coreylynch/async-rl)  (696) <br/> | 696 |
+| 81. | [ericoporto](https://github.com/ericoporto)  | [fgmk](https://github.com/ericoporto/fgmk)  (693) <br/> | 693 |
+| 82. | [zo7](https://github.com/zo7)  | [deconvfaces](https://github.com/zo7/deconvfaces)  (691) <br/> | 691 |
+| 83. | [iamaziz](https://github.com/iamaziz)  | [PyDataset](https://github.com/iamaziz/PyDataset)  (688) <br/> | 688 |
+| 84. | [qiyeboy](https://github.com/qiyeboy)  | [IPProxyPool](https://github.com/qiyeboy/IPProxyPool)  (683) <br/> | 683 |
+| 85. | [kendricktan](https://github.com/kendricktan)  | [suiron](https://github.com/kendricktan/suiron)  (680) <br/> | 680 |
+| 86. | [johnwheeler](https://github.com/johnwheeler)  | [flask-ask](https://github.com/johnwheeler/flask-ask)  (671) <br/> | 671 |
+| 87. | [anantdgoel](https://github.com/anantdgoel)  | [HackPrincetonF16](https://github.com/anantdgoel/HackPrincetonF16)  (658) <br/> | 658 |
+| 88. | [guyzmo](https://github.com/guyzmo)  | [git-repo](https://github.com/guyzmo/git-repo)  (657) <br/> | 657 |
+| 89. | [7sDream](https://github.com/7sDream)  | [pyqart](https://github.com/7sDream/pyqart)  (357) <br/>[zhihu-oauth](https://github.com/7sDream/zhihu-oauth)  (297) <br/> | 654 |
+| 90. | [favll](https://github.com/favll)  | [pogom](https://github.com/favll/pogom)  (653) <br/> | 653 |
+| 91. | [matthewearl](https://github.com/matthewearl)  | [deep-anpr](https://github.com/matthewearl/deep-anpr)  (650) <br/> | 650 |
+| 92. | [sammachin](https://github.com/sammachin)  | [AlexaPi](https://github.com/sammachin/AlexaPi)  (626) <br/> | 626 |
+| 93. | [ahangchen](https://github.com/ahangchen)  | [GDLnotes](https://github.com/ahangchen/GDLnotes)  (622) <br/> | 622 |
+| 94. | [abdelhai](https://github.com/abdelhai)  | [devblogs](https://github.com/abdelhai/devblogs)  (609) <br/> | 609 |
+| 95. | [tbenthompson](https://github.com/tbenthompson)  | [cppimport](https://github.com/tbenthompson/cppimport)  (594) <br/> | 594 |
+| 96. | [DonJayamanne](https://github.com/DonJayamanne)  | [pythonVSCode](https://github.com/DonJayamanne/pythonVSCode)  (591) <br/> | 591 |
+| 97. | [NickShahML](https://github.com/NickShahML)  | [tensorflow_with_latest_papers](https://github.com/NickShahML/tensorflow_with_latest_papers)  (589) <br/> | 589 |
+| 98. | [kristovatlas](https://github.com/kristovatlas)  | [osx-config-check](https://github.com/kristovatlas/osx-config-check)  (583) <br/> | 583 |
+| 99. | [alehander42](https://github.com/alehander42)  | [pseudo](https://github.com/alehander42/pseudo)  (568) <br/> | 568 |
+| 100. | [protream](https://github.com/protream)  | [iquery](https://github.com/protream/iquery)  (557) <br/> | 557 |
+| 101. | [aploium](https://github.com/aploium)  | [zmirror](https://github.com/aploium/zmirror)  (544) <br/> | 544 |
+| 102. | [webbju](https://github.com/webbju)  | [android-plus-plus](https://github.com/webbju/android-plus-plus)  (541) <br/> | 541 |
+| 103. | [ncrocfer](https://github.com/ncrocfer)  | [whatportis](https://github.com/ncrocfer/whatportis)  (539) <br/> | 539 |
+| 104. | [ceteri](https://github.com/ceteri)  | [pytextrank](https://github.com/ceteri/pytextrank)  (527) <br/> | 527 |
+| 105. | [dodger487](https://github.com/dodger487)  | [dplython](https://github.com/dodger487/dplython)  (526) <br/> | 526 |
+| 106. | [RJT1990](https://github.com/RJT1990)  | [pyflux](https://github.com/RJT1990/pyflux)  (524) <br/> | 524 |
+| 107. | [mschwager](https://github.com/mschwager)  | [fierce](https://github.com/mschwager/fierce)  (414) <br/>[gitem](https://github.com/mschwager/gitem)  (110) <br/> | 524 |
+| 108. | [vipul-sharma20](https://github.com/vipul-sharma20)  | [document-scanner](https://github.com/vipul-sharma20/document-scanner)  (517) <br/> | 517 |
+| 109. | [listen1](https://github.com/listen1)  | [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension)  (1066) <br/>[listen1](https://github.com/listen1/listen1)  (515) <br/> | 515 |
+| 110. | [Chyroc](https://github.com/Chyroc)  | [WechatSogou](https://github.com/Chyroc/WechatSogou)  (515) <br/> | 515 |
+| 111. | [khamidou](https://github.com/khamidou)  | [lptrace](https://github.com/khamidou/lptrace)  (507) <br/> | 507 |
+| 112. | [jcjohnson](https://github.com/jcjohnson)  | [cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)  (506) <br/> | 506 |
+| 113. | [azazel75](https://github.com/azazel75)  | [metapensiero.pj](https://github.com/azazel75/metapensiero.pj)  (504) <br/> | 504 |
+| 114. | [fjserna](https://github.com/fjserna)  | [CVE-2015-7547](https://github.com/fjserna/CVE-2015-7547)  (502) <br/> | 502 |
+| 115. | [tweekmonster](https://github.com/tweekmonster)  | [tmux2html](https://github.com/tweekmonster/tmux2html)  (493) <br/> | 493 |
+| 116. | [ShangtongZhang](https://github.com/ShangtongZhang)  | [reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)  (477) <br/> | 477 |
+| 117. | [lakshaykalbhor](https://github.com/lakshaykalbhor)  | [MusicRepair](https://github.com/lakshaykalbhor/MusicRepair)  (475) <br/> | 475 |
+| 118. | [zxytim](https://github.com/zxytim)  | [neural-painter](https://github.com/zxytim/neural-painter)  (474) <br/> | 474 |
+| 119. | [bharadwaj-raju](https://github.com/bharadwaj-raju)  | [TextSuggest](https://github.com/bharadwaj-raju/TextSuggest)  (160) <br/>[WeatherDesk](https://github.com/bharadwaj-raju/WeatherDesk)  (159) <br/>[cligenerator](https://github.com/bharadwaj-raju/cligenerator)  (155) <br/> | 474 |
+| 120. | [titu1994](https://github.com/titu1994)  | [Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer)  (472) <br/> | 472 |
+| 121. | [yusuketomoto](https://github.com/yusuketomoto)  | [chainer-fast-neuralstyle](https://github.com/yusuketomoto/chainer-fast-neuralstyle)  (468) <br/> | 468 |
+| 122. | [mimoo](https://github.com/mimoo)  | [Diffie-Hellman_Backdoor](https://github.com/mimoo/Diffie-Hellman_Backdoor)  (458) <br/> | 458 |
+| 123. | [basveeling](https://github.com/basveeling)  | [wavenet](https://github.com/basveeling/wavenet)  (456) <br/> | 456 |
+| 124. | [joelgrus](https://github.com/joelgrus)  | [fizz-buzz-tensorflow](https://github.com/joelgrus/fizz-buzz-tensorflow)  (452) <br/> | 452 |
+| 125. | [zmrenwu](https://github.com/zmrenwu)  | [django-blog-tutorial](https://github.com/zmrenwu/django-blog-tutorial)  (446) <br/> | 446 |
+| 126. | [EliotBerriot](https://github.com/EliotBerriot)  | [lifter](https://github.com/EliotBerriot/lifter)  (443) <br/> | 443 |
+| 127. | [SunDwarf](https://github.com/SunDwarf)  | [Kyoukai](https://github.com/SunDwarf/Kyoukai)  (300) <br/>[OWAPI](https://github.com/SunDwarf/OWAPI)  (142) <br/> | 442 |
+| 128. | [jisaacso](https://github.com/jisaacso)  | [DeepHeart](https://github.com/jisaacso/DeepHeart)  (438) <br/> | 438 |
+| 129. | [nimia](https://github.com/nimia)  | [public_drown_scanner](https://github.com/nimia/public_drown_scanner)  (435) <br/> | 435 |
+| 130. | [despoisj](https://github.com/despoisj)  | [DeepAudioClassification](https://github.com/despoisj/DeepAudioClassification)  (426) <br/> | 426 |
+| 131. | [davidsandberg](https://github.com/davidsandberg)  | [facenet](https://github.com/davidsandberg/facenet)  (424) <br/> | 424 |
+| 132. | [rhiever](https://github.com/rhiever)  | [datacleaner](https://github.com/rhiever/datacleaner)  (422) <br/> | 422 |
+| 133. | [shiyanhui](https://github.com/shiyanhui)  | [Young](https://github.com/shiyanhui/Young)  (418) <br/> | 418 |
+| 134. | [chinuno-usami](https://github.com/chinuno-usami)  | [CuteR](https://github.com/chinuno-usami/CuteR)  (417) <br/> | 417 |
+| 135. | [521xueweihan](https://github.com/521xueweihan)  | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)  (414) <br/> | 414 |
+| 136. | [huacnlee](https://github.com/huacnlee)  | [PokemonGoMove](https://github.com/huacnlee/PokemonGoMove)  (402) <br/> | 402 |
+| 137. | [lamerman](https://github.com/lamerman)  | [shellpy](https://github.com/lamerman/shellpy)  (401) <br/> | 401 |
+| 138. | [byashimov](https://github.com/byashimov)  | [django-controlcenter](https://github.com/byashimov/django-controlcenter)  (387) <br/> | 387 |
+| 139. | [abrenaut](https://github.com/abrenaut)  | [posio](https://github.com/abrenaut/posio)  (385) <br/> | 385 |
+| 140. | [jostmey](https://github.com/jostmey)  | [NakedTensor](https://github.com/jostmey/NakedTensor)  (384) <br/> | 384 |
+| 141. | [korcankaraokcu](https://github.com/korcankaraokcu)  | [PINCE](https://github.com/korcankaraokcu/PINCE)  (381) <br/> | 381 |
+| 142. | [liviu-](https://github.com/liviu-)  | [ding](https://github.com/liviu-/ding)  (371) <br/> | 371 |
+| 143. | [AceLewis](https://github.com/AceLewis)  | [my_first_calculator.py](https://github.com/AceLewis/my_first_calculator.py)  (366) <br/> | 366 |
+| 144. | [MatthieuCourbariaux](https://github.com/MatthieuCourbariaux)  | [BinaryNet](https://github.com/MatthieuCourbariaux/BinaryNet)  (365) <br/> | 365 |
+| 145. | [ResidentMario](https://github.com/ResidentMario)  | [missingno](https://github.com/ResidentMario/missingno)  (363) <br/> | 363 |
+| 146. | [karldray](https://github.com/karldray)  | [quantum](https://github.com/karldray/quantum)  (362) <br/> | 362 |
+| 147. | [thombashi](https://github.com/thombashi)  | [sqlitebiter](https://github.com/thombashi/sqlitebiter)  (204) <br/>[tcconfig](https://github.com/thombashi/tcconfig)  (155) <br/> | 359 |
+| 148. | [dhruvramani](https://github.com/dhruvramani)  | [Terminal-on-FB-Messenger](https://github.com/dhruvramani/Terminal-on-FB-Messenger)  (358) <br/> | 358 |
+| 149. | [tornadomeet](https://github.com/tornadomeet)  | [mxnet-face](https://github.com/tornadomeet/mxnet-face)  (252) <br/>[ResNet](https://github.com/tornadomeet/ResNet)  (105) <br/> | 357 |
+| 150. | [Twentysix26](https://github.com/Twentysix26)  | [Red-DiscordBot](https://github.com/Twentysix26/Red-DiscordBot)  (354) <br/> | 354 |
+| 151. | [gautamkrishnar](https://github.com/gautamkrishnar)  | [socli](https://github.com/gautamkrishnar/socli)  (348) <br/> | 348 |
+| 152. | [rubenvereecken](https://github.com/rubenvereecken)  | [pokemongo-api](https://github.com/rubenvereecken/pokemongo-api)  (347) <br/> | 347 |
+| 153. | [dyelax](https://github.com/dyelax)  | [Adversarial_Video_Generation](https://github.com/dyelax/Adversarial_Video_Generation)  (237) <br/>[encore.ai](https://github.com/dyelax/encore.ai)  (108) <br/> | 345 |
+| 154. | [decalage2](https://github.com/decalage2)  | [oletools](https://github.com/decalage2/oletools)  (180) <br/>[ViperMonkey](https://github.com/decalage2/ViperMonkey)  (164) <br/> | 344 |
+| 155. | [MorvanZhou](https://github.com/MorvanZhou)  | [tutorials](https://github.com/MorvanZhou/tutorials)  (342) <br/> | 342 |
+| 156. | [tobykurien](https://github.com/tobykurien)  | [rpi_lcars](https://github.com/tobykurien/rpi_lcars)  (339) <br/> | 339 |
+| 157. | [JosPolfliet](https://github.com/JosPolfliet)  | [pandas-profiling](https:
