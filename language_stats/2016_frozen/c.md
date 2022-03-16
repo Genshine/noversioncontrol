@@ -288,4 +288,134 @@
 | 49. | [forrestthewoods](https://github.com/forrestthewoods)  | [lib_fts](https://github.com/forrestthewoods/lib_fts)  (269) <br/> | 269 |
 | 50. | [adtac](https://github.com/adtac)  | [fssb](https://github.com/adtac/fssb)  (264) <br/> | 264 |
 | 51. | [lunixbochs](https://github.com/lunixbochs)  | [patchkit](https://github.com/lunixbochs/patchkit)  (259) <br/> | 259 |
-| 52. | [Novum](https://github.com/Novum) 
+| 52. | [Novum](https://github.com/Novum)  | [vkQuake](https://github.com/Novum/vkQuake)  (246) <br/> | 246 |
+| 53. | [kablaa](https://github.com/kablaa)  | [CTF-Workshop](https://github.com/kablaa/CTF-Workshop)  (242) <br/> | 242 |
+| 54. | [blankwall](https://github.com/blankwall)  | [MacHeap](https://github.com/blankwall/MacHeap)  (280) <br/>[MacDBG](https://github.com/blankwall/MacDBG)  (239) <br/> | 239 |
+| 55. | [xyzxqs](https://github.com/xyzxqs)  | [XLowPoly](https://github.com/xyzxqs/XLowPoly)  (226) <br/> | 226 |
+| 56. | [loyinglin](https://github.com/loyinglin)  | [LearnOpenGLES](https://github.com/loyinglin/LearnOpenGLES)  (226) <br/> | 226 |
+| 57. | [0x27](https://github.com/0x27)  | [linux.mirai](https://github.com/0x27/linux.mirai)  (226) <br/> | 226 |
+| 58. | [wolfgangj](https://github.com/wolfgangj)  | [bone-lisp](https://github.com/wolfgangj/bone-lisp)  (224) <br/> | 224 |
+| 59. | [1N3](https://github.com/1N3)  | [PrivEsc](https://github.com/1N3/PrivEsc)  (224) <br/> | 224 |
+| 60. | [kitech](https://github.com/kitech)  | [php-go](https://github.com/kitech/php-go)  (220) <br/> | 220 |
+| 61. | [NoviceLive](https://github.com/NoviceLive)  | [bintut](https://github.com/NoviceLive/bintut)  (244) <br/>[research-rootkit](https://github.com/NoviceLive/research-rootkit)  (215) <br/> | 215 |
+| 62. | [laginimaineb](https://github.com/laginimaineb)  | [ExtractKeyMaster](https://github.com/laginimaineb/ExtractKeyMaster)  (213) <br/> | 213 |
+| 63. | [WetDesertRock](https://github.com/WetDesertRock)  | [Yarn](https://github.com/WetDesertRock/Yarn)  (213) <br/> | 213 |
+| 64. | [afiskon](https://github.com/afiskon)  | [zson](https://github.com/afiskon/zson)  (212) <br/> | 212 |
+| 65. | [iwasrobbed](https://github.com/iwasrobbed)  | [Down](https://github.com/iwasrobbed/Down)  (212) <br/> | 212 |
+| 66. | [ronsoros](https://github.com/ronsoros)  | [rvm](https://github.com/ronsoros/rvm)  (212) <br/> | 212 |
+| 67. | [andoma](https://github.com/andoma)  | [vmir](https://github.com/andoma/vmir)  (210) <br/> | 210 |
+| 68. | [davidmcgrew](https://github.com/davidmcgrew)  | [joy](https://github.com/davidmcgrew/joy)  (210) <br/> | 210 |
+| 69. | [TheOfficialFloW](https://github.com/TheOfficialFloW)  | [VitaShell](https://github.com/TheOfficialFloW/VitaShell)  (207) <br/> | 207 |
+| 70. | [saminiir](https://github.com/saminiir)  | [level-ip](https://github.com/saminiir/level-ip)  (206) <br/> | 206 |
+| 71. | [dikaiosune](https://github.com/dikaiosune)  | [rusl](https://github.com/dikaiosune/rusl)  (205) <br/> | 205 |
+| 72. | [cboxdoerfer](https://github.com/cboxdoerfer)  | [fsearch](https://github.com/cboxdoerfer/fsearch)  (200) <br/> | 200 |
+| 73. | [nickodell](https://github.com/nickodell)  | [pact](https://github.com/nickodell/pact)  (198) <br/> | 198 |
+| 74. | [vfreex](https://github.com/vfreex)  | [hijackfilter](https://github.com/vfreex/hijackfilter)  (195) <br/> | 195 |
+| 75. | [shinh](https://github.com/shinh)  | [elvm](https://github.com/shinh/elvm)  (193) <br/> | 193 |
+| 76. | [ScottyBauer](https://github.com/ScottyBauer)  | [Android_Kernel_CVE_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs)  (190) <br/> | 190 |
+| 77. | [lexborisov](https://github.com/lexborisov)  | [Modest](https://github.com/lexborisov/Modest)  (183) <br/> | 183 |
+| 78. | [sp4cerat](https://github.com/sp4cerat)  | [Planet-LOD](https://github.com/sp4cerat/Planet-LOD)  (183) <br/> | 183 |
+| 79. | [micha](https://github.com/micha)  | [json-table](https://github.com/micha/json-table)  (176) <br/> | 176 |
+| 80. | [krakjoe](https://github.com/krakjoe)  | [ui](https://github.com/krakjoe/ui)  (172) <br/> | 172 |
+| 81. | [itsmeichigo](https://github.com/itsmeichigo)  | [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker)  (885) <br/>[URLPreview](https://github.com/itsmeichigo/URLPreview)  (172) <br/> | 172 |
+| 82. | [BernardoGiordano](https://github.com/BernardoGiordano)  | [PKSM](https://github.com/BernardoGiordano/PKSM)  (171) <br/> | 171 |
+| 83. | [dosomder](https://github.com/dosomder)  | [iovyroot](https://github.com/dosomder/iovyroot)  (170) <br/> | 170 |
+| 84. | [ClockSelect](https://github.com/ClockSelect)  | [myevic](https://github.com/ClockSelect/myevic)  (169) <br/> | 169 |
+| 85. | [hasherezade](https://github.com/hasherezade)  | [demos](https://github.com/hasherezade/demos)  (168) <br/> | 168 |
+| 86. | [huxingyi](https://github.com/huxingyi)  | [libphone](https://github.com/huxingyi/libphone)  (163) <br/> | 163 |
+| 87. | [silight-jp](https://github.com/silight-jp)  | [MacType-Patch](https://github.com/silight-jp/MacType-Patch)  (162) <br/> | 162 |
+| 88. | [davidgfnet](https://github.com/davidgfnet)  | [wifi_display](https://github.com/davidgfnet/wifi_display)  (161) <br/> | 161 |
+| 89. | [mengxiangyue](https://github.com/mengxiangyue)  | [MShare_Salon](https://github.com/mengxiangyue/MShare_Salon)  (159) <br/> | 159 |
+| 90. | [osgochina](https://github.com/osgochina)  | [donkeyid](https://github.com/osgochina/donkeyid)  (158) <br/> | 158 |
+| 91. | [teran-mckinney](https://github.com/teran-mckinney)  | [raru](https://github.com/teran-mckinney/raru)  (157) <br/> | 157 |
+| 92. | [mbevand](https://github.com/mbevand)  | [silentarmy](https://github.com/mbevand/silentarmy)  (157) <br/> | 157 |
+| 93. | [zhaoxiaobao](https://github.com/zhaoxiaobao)  | [inke-ios](https://github.com/zhaoxiaobao/inke-ios)  (154) <br/> | 154 |
+| 94. | [asamy](https://github.com/asamy)  | [ksm](https://github.com/asamy/ksm)  (151) <br/> | 151 |
+| 95. | [robertdavidgraham](https://github.com/robertdavidgraham)  | [telnetlogger](https://github.com/robertdavidgraham/telnetlogger)  (141) <br/> | 141 |
+| 96. | [scumjr](https://github.com/scumjr)  | [dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso)  (141) <br/> | 141 |
+| 97. | [kingwang666](https://github.com/kingwang666)  | [AppAddUpdate](https://github.com/kingwang666/AppAddUpdate)  (141) <br/> | 141 |
+| 98. | [xindawndev](https://github.com/xindawndev)  | [RecordMyScreen-iOS10](https://github.com/xindawndev/RecordMyScreen-iOS10)  (141) <br/> | 141 |
+| 99. | [kn007](https://github.com/kn007)  | [silk-v3-decoder](https://github.com/kn007/silk-v3-decoder)  (140) <br/> | 140 |
+| 100. | [codeplea](https://github.com/codeplea)  | [tinyexpr](https://github.com/codeplea/tinyexpr)  (139) <br/> | 139 |
+| 101. | [jonasmr](https://github.com/jonasmr)  | [microprofile](https://github.com/jonasmr/microprofile)  (138) <br/> | 138 |
+| 102. | [gbrindisi](https://github.com/gbrindisi)  | [malware](https://github.com/gbrindisi/malware)  (137) <br/> | 137 |
+| 103. | [hfiref0x](https://github.com/hfiref0x)  | [TDL](https://github.com/hfiref0x/TDL)  (135) <br/> | 135 |
+| 104. | [benjamin-42](https://github.com/benjamin-42)  | [Trident](https://github.com/benjamin-42/Trident)  (134) <br/> | 134 |
+| 105. | [neonichu](https://github.com/neonichu)  | [trolldrop](https://github.com/neonichu/trolldrop)  (133) <br/> | 133 |
+| 106. | [0x09](https://github.com/0x09)  | [resdet](https://github.com/0x09/resdet)  (132) <br/> | 132 |
+| 107. | [jedisct1](https://github.com/jedisct1)  | [piknik](https://github.com/jedisct1/piknik)  (206) <br/>[blacknurse](https://github.com/jedisct1/blacknurse)  (132) <br/> | 132 |
+| 108. | [kristapsdz](https://github.com/kristapsdz)  | [acme-client](https://github.com/kristapsdz/acme-client)  (132) <br/> | 132 |
+| 109. | [hvqzao](https://github.com/hvqzao)  | [foolav](https://github.com/hvqzao/foolav)  (131) <br/> | 131 |
+| 110. | [MinhasKamal](https://github.com/MinhasKamal)  | [CreepyCodeCollection](https://github.com/MinhasKamal/CreepyCodeCollection)  (131) <br/> | 131 |
+| 111. | [FuzzySecurity](https://github.com/FuzzySecurity)  | [Unix-PrivEsc](https://github.com/FuzzySecurity/Unix-PrivEsc)  (127) <br/> | 127 |
+| 112. | [vrtadmin](https://github.com/vrtadmin)  | [ROPMEMU](https://github.com/vrtadmin/ROPMEMU)  (179) <br/>[MBRFilter](https://github.com/vrtadmin/MBRFilter)  (127) <br/> | 127 |
+| 113. | [tomwillow](https://github.com/tomwillow)  | [2048](https://github.com/tomwillow/2048)  (126) <br/> | 126 |
+| 114. | [tihmstar](https://github.com/tihmstar)  | [tsschecker](https://github.com/tihmstar/tsschecker)  (124) <br/> | 124 |
+| 115. | [MauriceGit](https://github.com/MauriceGit)  | [XBox_Controller_Linux_Interface](https://github.com/MauriceGit/XBox_Controller_Linux_Interface)  (124) <br/> | 124 |
+| 116. | [arendst](https://github.com/arendst)  | [Sonoff-MQTT-OTA](https://github.com/arendst/Sonoff-MQTT-OTA)  (123) <br/> | 123 |
+| 117. | [donnie4w](https://github.com/donnie4w)  | [tim](https://github.com/donnie4w/tim)  (122) <br/> | 122 |
+| 118. | [codr4life](https://github.com/codr4life)  | [libc4life](https://github.com/codr4life/libc4life)  (122) <br/> | 122 |
+| 119. | [DanBloomberg](https://github.com/DanBloomberg)  | [leptonica](https://github.com/DanBloomberg/leptonica)  (121) <br/> | 121 |
+| 120. | [mjosaarinen](https://github.com/mjosaarinen)  | [dekryptize](https://github.com/mjosaarinen/dekryptize)  (120) <br/> | 120 |
+| 121. | [p-gen](https://github.com/p-gen)  | [smenu](https://github.com/p-gen/smenu)  (120) <br/> | 120 |
+| 122. | [cloudwu](https://github.com/cloudwu)  | [rudp](https://github.com/cloudwu/rudp)  (119) <br/> | 119 |
+| 123. | [graydon](https://github.com/graydon)  | [rust-prehistory](https://github.com/graydon/rust-prehistory)  (118) <br/> | 118 |
+| 124. | [zhegexiaohuozi](https://github.com/zhegexiaohuozi)  | [SeimiAgent](https://github.com/zhegexiaohuozi/SeimiAgent)  (118) <br/> | 118 |
+| 125. | [xtacocorex](https://github.com/xtacocorex)  | [CHIP_IO](https://github.com/xtacocorex/CHIP_IO)  (118) <br/> | 118 |
+| 126. | [James-Gallagher](https://github.com/James-Gallagher)  | [Mirai](https://github.com/James-Gallagher/Mirai)  (116) <br/> | 116 |
+| 127. | [anael-seghezzi](https://github.com/anael-seghezzi)  | [CToy](https://github.com/anael-seghezzi/CToy)  (115) <br/> | 115 |
+| 128. | [dr-soft](https://github.com/dr-soft)  | [dred](https://github.com/dr-soft/dred)  (115) <br/> | 115 |
+| 129. | [RandyGaul](https://github.com/RandyGaul)  | [tinyheaders](https://github.com/RandyGaul/tinyheaders)  (114) <br/> | 114 |
+| 130. | [DarthTon](https://github.com/DarthTon)  | [HyperBone](https://github.com/DarthTon/HyperBone)  (113) <br/> | 113 |
+| 131. | [boywhp](https://github.com/boywhp)  | [fcn](https://github.com/boywhp/fcn)  (113) <br/> | 113 |
+| 132. | [tltx](https://github.com/tltx)  | [swc_usb](https://github.com/tltx/swc_usb)  (112) <br/> | 112 |
+| 133. | [SilverMoonSecurity](https://github.com/SilverMoonSecurity)  | [PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)  (112) <br/> | 112 |
+| 134. | [ammulder](https://github.com/ammulder)  | [AppleIntelWiFiMVM](https://github.com/ammulder/AppleIntelWiFiMVM)  (110) <br/> | 110 |
+| 135. | [allinurl](https://github.com/allinurl)  | [gwsocket](https://github.com/allinurl/gwsocket)  (109) <br/> | 109 |
+| 136. | [randrew](https://github.com/randrew)  | [layout](https://github.com/randrew/layout)  (107) <br/> | 107 |
+| 137. | [d0k3](https://github.com/d0k3)  | [GodMode9](https://github.com/d0k3/GodMode9)  (107) <br/> | 107 |
+| 138. | [elfmz](https://github.com/elfmz)  | [far2l](https://github.com/elfmz/far2l)  (105) <br/> | 105 |
+| 139. | [jiayy](https://github.com/jiayy)  | [android_vuln_poc-exp](https://github.com/jiayy/android_vuln_poc-exp)  (104) <br/> | 104 |
+| 140. | [smuyyh](https://github.com/smuyyh)  | [ImageSelector](https://github.com/smuyyh/ImageSelector)  (359) <br/>[SprintNBA](https://github.com/smuyyh/SprintNBA)  (226) <br/>[IncrementallyUpdate](https://github.com/smuyyh/IncrementallyUpdate)  (104) <br/> | 104 |
+| 141. | [bootleg](https://github.com/bootleg)  | [ret-sync](https://github.com/bootleg/ret-sync)  (104) <br/> | 104 |
+| 142. | [boazsegev](https://github.com/boazsegev)  | [facil.io](https://github.com/boazsegev/facil.io)  (104) <br/> | 104 |
+| 143. | [kaigai](https://github.com/kaigai)  | [nvme-kmod](https://github.com/kaigai/nvme-kmod)  (103) <br/> | 103 |
+| 144. | [Taeung](https://github.com/Taeung)  | [git-training](https://github.com/Taeung/git-training)  (103) <br/> | 103 |
+| 145. | [bert88sta](https://github.com/bert88sta)  | [how2exploit_binary](https://github.com/bert88sta/how2exploit_binary)  (103) <br/> | 103 |
+| 146. | [Hamcha](https://github.com/Hamcha)  | [lumaupdate](https://github.com/Hamcha/lumaupdate)  (102) <br/> | 102 |
+| 147. | [emilk](https://github.com/emilk)  | [emilib](https://github.com/emilk/emilib)  (184) <br/>[wfc](https://github.com/emilk/wfc)  (100) <br/> | 100 |
+
+## Most-Starred Orgs: C
+
+| | Org | Repos | Stars |
+|---|---|---|---|
+| 1. | [googlecreativelab](https://github.com/googlecreativelab)  | [anypixel](https://github.com/googlecreativelab/anypixel)  (5708) <br/>[Sprayscape](https://github.com/googlecreativelab/Sprayscape)  (460) <br/>[chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab)  (401) <br/>[aiexperiments-ai-duet](https://github.com/googlecreativelab/aiexperiments-ai-duet)  (313) <br/>[aiexperiments-giorgio-cam](https://github.com/googlecreativelab/aiexperiments-giorgio-cam)  (230) <br/>[aiexperiments-drum-machine](https://github.com/googlecreativelab/aiexperiments-drum-machine)  (191) <br/>[giantemoji](https://github.com/googlecreativelab/giantemoji)  (129) <br/>[aiexperiments-bird-sounds](https://github.com/googlecreativelab/aiexperiments-bird-sounds)  (110) <br/> | 5708 |
+| 2. | [commaai](https://github.com/commaai)  | [openpilot](https://github.com/commaai/openpilot)  (4337) <br/>[research](https://github.com/commaai/research)  (2723) <br/> | 4337 |
+| 3. | [deepmind](https://github.com/deepmind)  | [lab](https://github.com/deepmind/lab)  (2839) <br/>[learning-to-learn](https://github.com/deepmind/learning-to-learn)  (1371) <br/> | 2839 |
+| 4. | [minoca](https://github.com/minoca)  | [os](https://github.com/minoca/os)  (2035) <br/> | 2035 |
+| 5. | [citusdata](https://github.com/citusdata)  | [citus](https://github.com/citusdata/citus)  (1776) <br/>[pg_cron](https://github.com/citusdata/pg_cron)  (183) <br/> | 1959 |
+| 6. | [fuchsia-mirror](https://github.com/fuchsia-mirror)  | [magenta](https://github.com/fuchsia-mirror/magenta)  (1918) <br/> | 1918 |
+| 7. | [facebookresearch](https://github.com/facebookresearch)  | [fastText](https://github.com/facebookresearch/fastText)  (6391) <br/>[darkforestGo](https://github.com/facebookresearch/darkforestGo)  (1864) <br/>[CommAI-env](https://github.com/facebookresearch/CommAI-env)  (715) <br/>[pysparnn](https://github.com/facebookresearch/pysparnn)  (325) <br/> | 1864 |
+| 8. | [quiet](https://github.com/quiet)  | [org.quietmodem.Quiet](https://github.com/quiet/org.quietmodem.Quiet)  (601) <br/>[quiet-lwip](https://github.com/quiet/quiet-lwip)  (529) <br/>[quiet-js](https://github.com/quiet/quiet-js)  (511) <br/>[quiet](https://github.com/quiet/quiet)  (406) <br/> | 1536 |
+| 9. | [lzfse](https://github.com/lzfse)  | [lzfse](https://github.com/lzfse/lzfse)  (1322) <br/> | 1322 |
+| 10. | [ShapeLab](https://github.com/ShapeLab)  | [SwarmUI](https://github.com/ShapeLab/SwarmUI)  (1179) <br/> | 1179 |
+| 11. | [shellphish](https://github.com/shellphish)  | [how2heap](https://github.com/shellphish/how2heap)  (1084) <br/>[fuzzer](https://github.com/shellphish/fuzzer)  (231) <br/>[rex](https://github.com/shellphish/rex)  (176) <br/>[driller](https://github.com/shellphish/driller)  (145) <br/> | 1084 |
+| 12. | [php-ds](https://github.com/php-ds)  | [extension](https://github.com/php-ds/extension)  (981) <br/>[polyfill](https://github.com/php-ds/polyfill)  (120) <br/> | 981 |
+| 13. | [carp-lang](https://github.com/carp-lang)  | [Carp](https://github.com/carp-lang/Carp)  (911) <br/> | 911 |
+| 14. | [KhronosGroup](https://github.com/KhronosGroup)  | [Vulkan-Docs](https://github.com/KhronosGroup/Vulkan-Docs)  (832) <br/>[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp)  (684) <br/>[Vulkan-LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers)  (269) <br/>[SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross)  (156) <br/> | 832 |
+| 15. | [docker](https://github.com/docker)  | [labs](https://github.com/docker/labs)  (1560) <br/>[infrakit](https://github.com/docker/infrakit)  (1231) <br/>[swarmkit](https://github.com/docker/swarmkit)  (1122) <br/>[hyperkit](https://github.com/docker/hyperkit)  (648) <br/>[docker-birthday-3](https://github.com/docker/docker-birthday-3)  (516) <br/>[dockercloud-haproxy](https://github.com/docker/dockercloud-haproxy)  (324) <br/>[engine-api](https://github.com/docker/engine-api)  (270) <br/>[docker.github.io](https://github.com/docker/docker.github.io)  (115) <br/>[go-p9p](https://github.com/docker/go-p9p)  (107) <br/> | 648 |
+| 16. | [Qihoo360](https://github.com/Qihoo360)  | [huststore](https://github.com/Qihoo360/huststore)  (623) <br/>[poseidon](https://github.com/Qihoo360/poseidon)  (339) <br/> | 623 |
+| 17. | [go-vgo](https://github.com/go-vgo)  | [robotgo](https://github.com/go-vgo/robotgo)  (559) <br/> | 559 |
+| 18. | [flatpak](https://github.com/flatpak)  | [flatpak](https://github.com/flatpak/flatpak)  (545) <br/> | 545 |
+| 19. | [eclipse](https://github.com/eclipse)  | [mosquitto](https://github.com/eclipse/mosquitto)  (544) <br/>[omr](https://github.com/eclipse/omr)  (281) <br/>[paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android)  (206) <br/>[paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang)  (113) <br/> | 544 |
+| 20. | [facebook](https://github.com/facebook)  | [draft-js](https://github.com/facebook/draft-js)  (8547) <br/>[redex](https://github.com/facebook/redex)  (3270) <br/>[FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler)  (2175) <br/>[Surround360](https://github.com/facebook/Surround360)  (1367) <br/>[facebook-sdk-swift](https://github.com/facebook/facebook-sdk-swift)  (965) <br/>[transform360](https://github.com/facebook/transform360)  (543) <br/>[FBNotifications](https://github.com/facebook/FBNotifications)  (410) <br/>[UETorch](https://github.com/facebook/UETorch)  (221) <br/>[fbtftp](https://github.com/facebook/fbtftp)  (175) <br/>[fbtracert](https://github.com/facebook/fbtracert)  (156) <br/>[facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php)  (107) <br/>[UdpPinger](https://github.com/facebook/UdpPinger)  (102) <br/> | 543 |
+| 21. | [veertuinc](https://github.com/veertuinc)  | [vdhh](https://github.com/veertuinc/vdhh)  (529) <br/> | 529 |
+| 22. | [espressif](https://github.com/espressif)  | [esp-idf](https://github.com/espressif/esp-idf)  (381) <br/>[arduino-esp32](https://github.com/espressif/arduino-esp32)  (278) <br/>[ESP8266_MESH_DEMO](https://github.com/espressif/ESP8266_MESH_DEMO)  (102) <br/> | 483 |
+| 23. | [reactnativecn](https://github.com/reactnativecn)  | [react-native-pushy](https://github.com/reactnativecn/react-native-pushy)  (471) <br/>[react-native-wx](https://github.com/reactnativecn/react-native-wx)  (140) <br/>[react-native-jpush](https://github.com/reactnativecn/react-native-jpush)  (115) <br/> | 471 |
+| 24. | [lede-project](https://github.com/lede-project)  | [source](https://github.com/lede-project/source)  (418) <br/> | 418 |
+| 25. | [fail0verflow](https://github.com/fail0verflow)  | [hbc](https://github.com/fail0verflow/hbc)  (226) <br/>[ps4-kexec](https://github.com/fail0verflow/ps4-kexec)  (159) <br/> | 385 |
+| 26. | [infinity-gbc](https://github.com/infinity-gbc)  | [infinity](https://github.com/infinity-gbc/infinity)  (367) <br/> | 367 |
+| 27. | [upx](https://github.com/upx)  | [upx](https://github.com/upx/upx)  (362) <br/> | 362 |
+| 28. | [github](https://github.com/github)  | [gh-ost](https://github.com/github/gh-ost)  (2260) <br/>[synsanity](https://github.com/github/synsanity)  (353) <br/>[orchestrator](https://github.com/github/orchestrator)  (325) <br/>[ccql](https://github.com/github/ccql)  (200) <br/> | 353 |
+| 29. | [processhacker2](https://github.com/processhacker2)  | [processhacker2](https://github.com/processhacker2/processhacker2)  (325) <br/> | 325 |
+| 30. | [explosion](https://github.com/explosion)  | [sense2vec](https://github
