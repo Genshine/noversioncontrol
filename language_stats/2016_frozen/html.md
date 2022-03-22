@@ -155,4 +155,147 @@
 | 149. | [MeCKodo/webpack](https://github.com/MeCKodo/webpack) <br/>结合具体项目的webpack配置(多页和SPA版本) | 173 |
 | 150. | [cryptopelago/gitmoney](https://github.com/cryptopelago/gitmoney) <br/>A platform designed to help people work from anywh... | 172 |
 | 151. | [lefranz/geneva-dictators](https://github.com/lefranz/geneva-dictators) <br/>GVA Dictator Alert: tracking dictator's jets landi... | 170 |
-| 152. | [jimmyw
+| 152. | [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) <br/>StreamSaver writes stream to the filesystem direct... | 170 |
+| 153. | [aws/aws-week-in-review](https://github.com/aws/aws-week-in-review) <br/>The files in this GitHub Repo are used to produce ... | 168 |
+| 154. | [una/diffee](https://github.com/una/diffee) <br/>Instant visual diffing in the browser | 167 |
+| 155. | [jiji262/wooyun_articles](https://github.com/jiji262/wooyun_articles) <br/>drops.wooyun.org 乌云Drops文章备份 | 165 |
+| 156. | [ft-interactive/chart-doctor](https://github.com/ft-interactive/chart-doctor) <br/>Sample files to accompany the FT's Chart Doctor co... | 164 |
+| 157. | [cmeiklejohn/PMLDC](https://github.com/cmeiklejohn/PMLDC) <br/>Programming Models and Languages for Distributed C... | 163 |
+| 158. | [notwaldorf/emojillate](https://github.com/notwaldorf/emojillate) <br/>:camera::art: Pixellate an image into emoji | 162 |
+| 159. | [facebook/makeitopen](https://github.com/facebook/makeitopen) <br/>makeitopen.com is a learning portal that begins wi... | 161 |
+| 160. | [fossasia/gci16.fossasia.org](https://github.com/fossasia/gci16.fossasia.org) <br/>GCI Website 2016 http://gci16.fossasia.org | 160 |
+| 161. | [jarsbe/react-simple](https://github.com/jarsbe/react-simple)  | 159 |
+| 162. | [PolarNotion/starwarsintro](https://github.com/PolarNotion/starwarsintro) <br/>A CSS Library for the Star Wars Intro Crawl | 158 |
+| 163. | [dhparkdh/resume-for-web-developer](https://github.com/dhparkdh/resume-for-web-developer) <br/>resume-for-web-developer | 157 |
+| 164. | [Xyntax/1000php](https://github.com/Xyntax/1000php) <br/>1000个PHP代码审计案例(2016.7以前乌云公开漏洞) | 156 |
+| 165. | [zhengmin1989/MyArticles](https://github.com/zhengmin1989/MyArticles) <br/>蒸米的文章（iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等） | 156 |
+| 166. | [farjump/fwtr](https://github.com/farjump/fwtr) <br/>Open Database of Firmware Test Results | 155 |
+| 167. | [kennethreitz/pep8.org](https://github.com/kennethreitz/pep8.org) <br/>PEP 8, for Humans. | 155 |
+| 168. | [forsigner/web-fontmin](https://github.com/forsigner/web-fontmin) <br/>字体子集化，在线提取你需要的字体。 | 155 |
+| 169. | [iadgov/Secure-Host-Baseline](https://github.com/iadgov/Secure-Host-Baseline) <br/>Configuration guidance and files in support of the... | 155 |
+| 170. | [deanhume/image-beast](https://github.com/deanhume/image-beast) <br/>My 10K apart entry - A handy 1KB script that decid... | 153 |
+| 171. | [toji/webvr-samples](https://github.com/toji/webvr-samples) <br/>Simple examples of using the WebVR API | 153 |
+| 172. | [notwaldorf/font-style-matcher](https://github.com/notwaldorf/font-style-matcher) <br/>⚡️🎨 Matches the x-heights and widths of two fonts | 153 |
+| 173. | [n457/Uncolored](https://github.com/n457/Uncolored) <br/>(Un)colored — Next generation desktop rich content... | 152 |
+| 174. | [BafS/mu](https://github.com/BafS/mu) <br/>The μ css framework, a 1 ko css file. | 150 |
+| 175. | [jamielhf/vue](https://github.com/jamielhf/vue)  | 149 |
+| 176. | [joshnh/head](https://github.com/joshnh/head) <br/>A list of what should be in the head of a HTML doc... | 148 |
+| 177. | [livisky/liblog](https://github.com/livisky/liblog) <br/>Liblog是一个简单易用的博客系统，它是基于开源框架thinkJS(使用 ES6/7 特性开发 N... | 148 |
+| 178. | [BrandonJoffe/home_surveillance](https://github.com/BrandonJoffe/home_surveillance) <br/>Home surveillance system with facial recognition | 148 |
+| 179. | [ryanhoo/Android-Proficiency-Exercise](https://github.com/ryanhoo/Android-Proficiency-Exercise) <br/>Impress me | 146 |
+| 180. | [lzjqsdd/scikit-learn-doc-cn](https://github.com/lzjqsdd/scikit-learn-doc-cn) <br/>scikit-learn机器学习库中文文档翻译项目 | 145 |
+| 181. | [jdleesmiller/docker-chat-demo](https://github.com/jdleesmiller/docker-chat-demo) <br/>Companion repo for my "Lessons from Building a Nod... | 144 |
+| 182. | [NVIDIA/Falcor](https://github.com/NVIDIA/Falcor) <br/>Real-time rendering research framework | 143 |
+| 183. | [potch/unmaintained.tech](https://github.com/potch/unmaintained.tech) <br/>No Maintenance Intended | 141 |
+| 184. | [backToNature/touchFeedback](https://github.com/backToNature/touchFeedback) <br/>TouchFeedback.js is a library for touch feedback i... | 140 |
+| 185. | [i5ting/oh-http](https://github.com/i5ting/oh-http) <br/>精解http | 138 |
+| 186. | [nasa/code-nasa-gov](https://github.com/nasa/code-nasa-gov) <br/>code.nasa.gov site leveraging the Open Source Cata... | 137 |
+| 187. | [Huangtuzhi/ife-task](https://github.com/Huangtuzhi/ife-task) <br/>Tasks of Baidu Institute of Front-End Technology | 135 |
+| 188. | [jacquerie/stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit) <br/>Blocks websites that publish fake news, and hides ... | 135 |
+| 189. | [christianalfoni/react-webpack-cookbook](https://github.com/christianalfoni/react-webpack-cookbook) <br/>Temp repo for transfer | 133 |
+| 190. | [720kb/hubuntu-ui](https://github.com/720kb/hubuntu-ui) <br/>Material Admin Dashboard Starter UI ( Ubuntu style... | 132 |
+| 191. | [xem/minix86](https://github.com/xem/minix86) <br/>x86 documentation, disassembler and emulator | 132 |
+| 192. | [akoumjian/datefinder](https://github.com/akoumjian/datefinder) <br/>Find dates inside text using Python and get back d... | 131 |
+| 193. | [buckyroberts/Viberr](https://github.com/buckyroberts/Viberr) <br/>Viberr is an application that let's you upload, st... | 131 |
+| 194. | [ivanceras/spongedown](https://github.com/ivanceras/spongedown) <br/>Markdown with svg bob support | 131 |
+| 195. | [straker/livingcss](https://github.com/straker/livingcss) <br/>Parse comments in your CSS to generate a living st... | 131 |
+| 196. | [rust-lang-ja/the-rust-programming-language-ja](https://github.com/rust-lang-ja/the-rust-programming-language-ja) <br/>Rust文書の和訳レポジトリ | 131 |
+| 197. | [lu4kyd0y/WeChat-Cloud-Robot](https://github.com/lu4kyd0y/WeChat-Cloud-Robot) <br/>WeChat Cloud Rebot 微信云端机器人框架 Alpha版 框架引擎Python+Che... | 131 |
+| 198. | [codrops/MultiLayoutSlideshow](https://github.com/codrops/MultiLayoutSlideshow) <br/>A simple decorative slideshow component with indiv... | 130 |
+| 199. | [dansup/bulma-templates](https://github.com/dansup/bulma-templates) <br/>html templates for the bulma css framework | 129 |
+| 200. | [surikov/webaudiofont](https://github.com/surikov/webaudiofont) <br/>Web Audio Font - Soundfont for Web Audio API | 128 |
+| 201. | [marabesi/curso-laravel-completo-sorteio](https://github.com/marabesi/curso-laravel-completo-sorteio) <br/>Aplicação utilizada para sortear os prêmios do cur... | 128 |
+| 202. | [TalAter/open-source-templates](https://github.com/TalAter/open-source-templates) <br/>:octocat: Issue and Pull Request Template Generato... | 127 |
+| 203. | [dimok789/homebrew_launcher](https://github.com/dimok789/homebrew_launcher) <br/>WiiU Homebrew Launcher | 127 |
+| 204. | [phodal/articles](https://github.com/phodal/articles) <br/>Article Publish in Wechat & Toutiao | 127 |
+| 205. | [cathydeng/are-men-talking-too-much](https://github.com/cathydeng/are-men-talking-too-much) <br/>time who's dominating the conversation | 126 |
+| 206. | [YUX-IO/163music-APlayer-you-get-docker](https://github.com/YUX-IO/163music-APlayer-you-get-docker) <br/>A Flask Music Project. Demo: | 124 |
+| 207. | [ID25/rails_emoji_picker](https://github.com/ID25/rails_emoji_picker) <br/>Add emoji to your app :smiley_cat: | 123 |
+| 208. | [cookpad/license-tools-plugin](https://github.com/cookpad/license-tools-plugin) <br/>Gradle plugin to check library licenses and genera... | 123 |
+| 209. | [btholt/four-semesters-of-cs](https://github.com/btholt/four-semesters-of-cs)  | 122 |
+| 210. | [AdamMarsden/simple-typography](https://github.com/AdamMarsden/simple-typography) <br/>A simple starting ground for beautiful typography ... | 122 |
+| 211. | [SwiftWeekly/swiftweekly.github.io](https://github.com/SwiftWeekly/swiftweekly.github.io) <br/>A community-driven weekly newsletter about Swift.o... | 121 |
+| 212. | [MSFTImagine/computerscience](https://github.com/MSFTImagine/computerscience) <br/>Free technical resources for faculty, students, an... | 121 |
+| 213. | [ngokevin/kframe](https://github.com/ngokevin/kframe) <br/>:package: Kevin's collection of A-Frame components... | 121 |
+| 214. | [pkremp/polls](https://github.com/pkremp/polls)  | 119 |
+| 215. | [igrigorik/hpbn.co](https://github.com/igrigorik/hpbn.co) <br/>High Performance Browser Networking (O'Reilly) | 118 |
+| 216. | [nealrs/readsure](https://github.com/nealrs/readsure) <br/>make readers pass a quiz before they can comment /... | 117 |
+| 217. | [gwillem/magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner) <br/>A collection of rules and samples to detect Magent... | 117 |
+| 218. | [NickTikhonov/sourcerer](https://github.com/NickTikhonov/sourcerer) <br/>Atom plugin for searching StackOverflow code snipp... | 116 |
+| 219. | [davestewart/javascript-state-machine](https://github.com/davestewart/javascript-state-machine) <br/>An expressive, feature-rich, event-driven JavaScri... | 116 |
+| 220. | [willianjusten/cards-jekyll-template](https://github.com/willianjusten/cards-jekyll-template) <br/>A simple Jekyll Template Card Based. | 116 |
+| 221. | [ITRav4/PlexRedirect](https://github.com/ITRav4/PlexRedirect) <br/>a Plex landing page that redirects you to various ... | 115 |
+| 222. | [renancaldas/aws-ec2-guide](https://github.com/renancaldas/aws-ec2-guide) <br/>📚  A step-by-step guide for setting up a linux ser... | 114 |
+| 223. | [cdcepi/zika](https://github.com/cdcepi/zika) <br/>Data repository of publicly available Zika data | 113 |
+| 224. | [codrops/RecordPlayer](https://github.com/codrops/RecordPlayer) <br/>An experimental template with an interactive old s... | 113 |
+| 225. | [LeaVerou/markapp](https://github.com/LeaVerou/markapp) <br/>Building apps by authoring HTML | 113 |
+| 226. | [liaohuqiu/f8-app-tutorial-cn](https://github.com/liaohuqiu/f8-app-tutorial-cn)  | 112 |
+| 227. | [kubernetes/kubernetes.github.io](https://github.com/kubernetes/kubernetes.github.io) <br/>Website/documentation repo | 112 |
+| 228. | [WardCunningham/remodeling](https://github.com/WardCunningham/remodeling) <br/>The original wiki rewritten as a single page appli... | 111 |
+| 229. | [fivefilters/block-ads](https://github.com/fivefilters/block-ads) <br/>Web page to test ad blocking and encourage use of ... | 109 |
+| 230. | [GediminasMasaitis/PokeEase](https://github.com/GediminasMasaitis/PokeEase) <br/>The Perfect GUI for Pokemon GO botting -- Work In ... | 109 |
+| 231. | [xurui3762791/tooltips](https://github.com/xurui3762791/tooltips) <br/>stylus css  tooltips  纯css工具提示 | 108 |
+| 232. | [StartPolymer/progressive-web-app-template](https://github.com/StartPolymer/progressive-web-app-template) <br/>Starting point for building Progressive Web Apps b... | 108 |
+| 233. | [yaseng/jquery.barrager.js](https://github.com/yaseng/jquery.barrager.js) <br/>专业的网页弹幕插件 | 106 |
+| 234. | [ropensci/magick](https://github.com/ropensci/magick) <br/>Magic, madness, heaven, sin | 106 |
+| 235. | [Netflix/ndbench](https://github.com/Netflix/ndbench) <br/>Netflix Data Store Benchmark | 106 |
+| 236. | [purpleworks/delibird](https://github.com/purpleworks/delibird) <br/>Shipment tracking library for Golang. | 106 |
+| 237. | [cblweb/semantic-ui-bootstrap](https://github.com/cblweb/semantic-ui-bootstrap) <br/>SMTB - A Bootstrap theme inspired by Semantic UI | 105 |
+| 238. | [nicothin/idiomatic-pre-CSS](https://github.com/nicothin/idiomatic-pre-CSS) <br/>Список рекомендаций по неусложнению жизни себе и д... | 105 |
+| 239. | [haskell-lang/haskell-lang](https://github.com/haskell-lang/haskell-lang) <br/>haskell-lang.org website | 105 |
+| 240. | [commonsearch/cosr-back](https://github.com/commonsearch/cosr-back) <br/>Backend of Common Search. Analyses webpages and se... | 104 |
+| 241. | [domenic/zones](https://github.com/domenic/zones) <br/>Zones proposal for JavaScript | 103 |
+| 242. | [JulianNorton/weather-10kb](https://github.com/JulianNorton/weather-10kb) <br/>A super fast weather site in under 10kb. | 103 |
+| 243. | [dxa4481/windowHijacking](https://github.com/dxa4481/windowHijacking) <br/>A demo of altering an opened tab after a timer | 103 |
+| 244. | [mobxjs/mobx-examples](https://github.com/mobxjs/mobx-examples) <br/>A collection of simple mobx examples | 102 |
+| 245. | [PolymerElements/app-route](https://github.com/PolymerElements/app-route) <br/>A modular client-side router | 102 |
+| 246. | [jensimmons/labs.jensimmons.com](https://github.com/jensimmons/labs.jensimmons.com) <br/>The code behind labs.jensimmons.com. Examples are ... | 101 |
+| 247. | [Saulis/iron-data-table](https://github.com/Saulis/iron-data-table) <br/>iron-data-table is a Web Component for displaying ... | 101 |
+| 248. | [gundb/gun-starter-app](https://github.com/gundb/gun-starter-app) <br/>Framework agnostic starter code for gun apps | 100 |
+| 249. | [klugjo/hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog) <br/>Hexo implementation of Clean Blog http://blackrock... | 100 |
+| 250. | [bahmutov/draw-cycle](https://github.com/bahmutov/draw-cycle) <br/>Simple Cycle.js application visualized: streams, e... | 100 |
+
+## Most-Starred Users: HTML
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [phodal](https://github.com/phodal)  | [growth-ebook](https://github.com/phodal/growth-ebook)  (4552) <br/>[ideabook](https://github.com/phodal/ideabook)  (1984) <br/>[growth-in-action](https://github.com/phodal/growth-in-action)  (1147) <br/>[toolbox](https://github.com/phodal/toolbox)  (355) <br/>[weapp-quick](https://github.com/phodal/weapp-quick)  (280) <br/>[mole](https://github.com/phodal/mole)  (202) <br/>[vmap](https://github.com/phodal/vmap)  (168) <br/>[articles](https://github.com/phodal/articles)  (127) <br/>[weapp-webdemo](https://github.com/phodal/weapp-webdemo)  (122) <br/> | 8165 |
+| 2. | [jgthms](https://github.com/jgthms)  | [bulma](https://github.com/jgthms/bulma)  (11152) <br/>[web-design-in-4-minutes](https://github.com/jgthms/web-design-in-4-minutes)  (2973) <br/>[css-reference](https://github.com/jgthms/css-reference)  (2765) <br/>[minireset.css](https://github.com/jgthms/minireset.css)  (396) <br/>[wysiwyg.css](https://github.com/jgthms/wysiwyg.css)  (342) <br/> | 5738 |
+| 3. | [wesbos](https://github.com/wesbos)  | [JavaScript30](https://github.com/wesbos/JavaScript30)  (3017) <br/>[Learn-Redux-Starter-Files](https://github.com/wesbos/Learn-Redux-Starter-Files)  (778) <br/>[es6.io](https://github.com/wesbos/es6.io)  (498) <br/> | 3515 |
+| 4. | [picturepan2](https://github.com/picturepan2)  | [spectre](https://github.com/picturepan2/spectre)  (3177) <br/> | 3177 |
+| 5. | [viljamis](https://github.com/viljamis)  | [feature.js](https://github.com/viljamis/feature.js)  (2884) <br/> | 2884 |
+| 6. | [elendirx](https://github.com/elendirx)  | [web2web](https://github.com/elendirx/web2web)  (2169) <br/> | 2169 |
+| 7. | [eladnava](https://github.com/eladnava)  | [mailgen](https://github.com/eladnava/mailgen)  (1909) <br/> | 1909 |
+| 8. | [dirtycow](https://github.com/dirtycow)  | [dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io)  (1731) <br/> | 1731 |
+| 9. | [secgroundzero](https://github.com/secgroundzero)  | [warberry](https://github.com/secgroundzero/warberry)  (1556) <br/> | 1556 |
+| 10. | [ManrajGrover](https://github.com/ManrajGrover)  | [SingleDivProject](https://github.com/ManrajGrover/SingleDivProject)  (1405) <br/> | 1405 |
+| 11. | [dxa4481](https://github.com/dxa4481)  | [Pastejacking](https://github.com/dxa4481/Pastejacking)  (1211) <br/>[Snapper](https://github.com/dxa4481/Snapper)  (170) <br/>[windowHijacking](https://github.com/dxa4481/windowHijacking)  (103) <br/> | 1314 |
+| 12. | [gavindinubilo](https://github.com/gavindinubilo)  | [jam-api](https://github.com/gavindinubilo/jam-api)  (1261) <br/> | 1261 |
+| 13. | [mrholek](https://github.com/mrholek)  | [CoreUI-Free-Bootstrap-Admin-Template](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template)  (1031) <br/> | 1031 |
+| 14. | [rigtorp](https://github.com/rigtorp)  | [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)  (837) <br/> | 837 |
+| 15. | [pawelgrzybek](https://github.com/pawelgrzybek)  | [siema](https://github.com/pawelgrzybek/siema)  (745) <br/> | 745 |
+| 16. | [d3viant0ne](https://github.com/d3viant0ne)  | [awesome-webpack](https://github.com/d3viant0ne/awesome-webpack)  (734) <br/> | 734 |
+| 17. | [stone0090](https://github.com/stone0090)  | [javascript-lessons](https://github.com/stone0090/javascript-lessons)  (716) <br/> | 716 |
+| 18. | [ConsoleTVs](https://github.com/ConsoleTVs)  | [Charts](https://github.com/ConsoleTVs/Charts)  (714) <br/> | 714 |
+| 19. | [notwaldorf](https://github.com/notwaldorf)  | [github-canned-responses](https://github.com/notwaldorf/github-canned-responses)  (365) <br/>[frankly](https://github.com/notwaldorf/frankly)  (318) <br/>[emojillate](https://github.com/notwaldorf/emojillate)  (162) <br/>[font-style-matcher](https://github.com/notwaldorf/font-style-matcher)  (153) <br/> | 633 |
+| 20. | [silverbux](https://github.com/silverbux)  | [laravel-angular-admin](https://github.com/silverbux/laravel-angular-admin)  (620) <br/> | 620 |
+| 21. | [rafrex](https://github.com/rafrex)  | [spa-github-pages](https://github.com/rafrex/spa-github-pages)  (618) <br/> | 618 |
+| 22. | [RobinLinus](https://github.com/RobinLinus)  | [socialmedia-leak](https://github.com/RobinLinus/socialmedia-leak)  (527) <br/> | 527 |
+| 23. | [Notedown-cn](https://github.com/Notedown-cn)  | [wxopen](https://github.com/Notedown-cn/wxopen)  (524) <br/> | 524 |
+| 24. | [kosinix](https://github.com/kosinix)  | [grafika](https://github.com/kosinix/grafika)  (501) <br/> | 501 |
+| 25. | [misterGF](https://github.com/misterGF)  | [CoPilot](https://github.com/misterGF/CoPilot)  (495) <br/>[echo](https://github.com/misterGF/echo)  (285) <br/> | 495 |
+| 26. | [jwasham](https://github.com/jwasham)  | [computer-science-flash-cards](https://github.com/jwasham/computer-science-flash-cards)  (484) <br/>[practice-python](https://github.com/jwasham/practice-python)  (154) <br/> | 484 |
+| 27. | [TaylanTatli](https://github.com/TaylanTatli)  | [Moon](https://github.com/TaylanTatli/Moon)  (481) <br/> | 481 |
+| 28. | [kennethwang14](https://github.com/kennethwang14)  | [TypographyHandbook](https://github.com/kennethwang14/TypographyHandbook)  (466) <br/> | 466 |
+| 29. | [jeffposnick](https://github.com/jeffposnick)  | [create-react-pwa](https://github.com/jeffposnick/create-react-pwa)  (465) <br/> | 465 |
+| 30. | [Broszhu](https://github.com/Broszhu)  | [zhuanbang-javascript-notes](https://github.com/Broszhu/zhuanbang-javascript-notes)  (463) <br/> | 463 |
+| 31. | [geniuscarrier](https://github.com/geniuscarrier)  | [webpack-boilerplate](https://github.com/geniuscarrier/webpack-boilerplate)  (441) <br/> | 441 |
+| 32. | [jaywcjlove](https://github.com/jaywcjlove)  | [awesome-mac](https://github.com/jaywcjlove/awesome-mac)  (8246) <br/>[linux-command](https://github.com/jaywcjlove/linux-command)  (436) <br/>[validator.js](https://github.com/jaywcjlove/validator.js)  (190) <br/>[FED](https://github.com/jaywcjlove/FED)  (176) <br/>[translater.js](https://github.com/jaywcjlove/translater.js)  (136) <br/> | 436 |
+| 33. | [ijry](https://github.com/ijry)  | [lyicon](https://github.com/ijry/lyicon)  (416) <br/>[lyadmin](https://github.com/ijry/lyadmin)  (301) <br/> | 416 |
+| 34. | [wangning0](https://github.com/wangning0)  | [Autumn_Ning_Blog](https://github.com/wangning0/Autumn_Ning_Blog)  (399) <br/> | 399 |
+| 35. | [chantastic](https://github.com/chantastic)  | [reactpatterns.com](https://github.com/chantastic/reactpatterns.com)  (392) <br/> | 392 |
+| 36. | [xieranmaya](https://github.com/xieranmaya)  | [blog](https://github.com/xieranmaya/blog)  (373) <br/> | 373 |
+| 37. | [vertexclique](https://github.com/vertexclique)  | [tokamak](https://github.com/vertexclique/tokamak)  (361) <br/> | 361 |
+| 38. | [una](https://github.com/una)  | [svg-icon-system-boilerplate](https://github.com/una/svg-icon-system-boilerplate)  (189) <br/>[diffee](https://github.com/una/diffee)  (167) <br/> | 356 |
+| 39. | [supperjet](https://github.com/supperjet)  | [H5-Animation](https://github.com/supperjet/H5-Animation)  (351) <br/> | 351 |
+| 40. | [sergiokopplin](https://github.com/sergiokopplin)  | [indigo](https://github.com/sergi
