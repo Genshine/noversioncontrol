@@ -298,4 +298,122 @@
 | 37. | [vertexclique](https://github.com/vertexclique)  | [tokamak](https://github.com/vertexclique/tokamak)  (361) <br/> | 361 |
 | 38. | [una](https://github.com/una)  | [svg-icon-system-boilerplate](https://github.com/una/svg-icon-system-boilerplate)  (189) <br/>[diffee](https://github.com/una/diffee)  (167) <br/> | 356 |
 | 39. | [supperjet](https://github.com/supperjet)  | [H5-Animation](https://github.com/supperjet/H5-Animation)  (351) <br/> | 351 |
-| 40. | [sergiokopplin](https://github.com/sergiokopplin)  | [indigo](https://github.com/sergi
+| 40. | [sergiokopplin](https://github.com/sergiokopplin)  | [indigo](https://github.com/sergiokopplin/indigo)  (335) <br/> | 335 |
+| 41. | [jmhobbs](https://github.com/jmhobbs)  | [cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com)  (334) <br/>[terminal-parrot](https://github.com/jmhobbs/terminal-parrot)  (331) <br/> | 334 |
+| 42. | [kamranahmedse](https://github.com/kamranahmedse)  | [githunt](https://github.com/kamranahmedse/githunt)  (333) <br/>[tab-switcher](https://github.com/kamranahmedse/tab-switcher)  (326) <br/> | 333 |
+| 43. | [joeyguo](https://github.com/joeyguo)  | [blog](https://github.com/joeyguo/blog)  (326) <br/> | 326 |
+| 44. | [chokcoco](https://github.com/chokcoco)  | [jQuery-](https://github.com/chokcoco/jQuery-)  (587) <br/>[magicCss](https://github.com/chokcoco/magicCss)  (320) <br/>[css3-](https://github.com/chokcoco/css3-)  (217) <br/>[boomJS](https://github.com/chokcoco/boomJS)  (154) <br/>[httphijack](https://github.com/chokcoco/httphijack)  (120) <br/> | 320 |
+| 45. | [barretlee](https://github.com/barretlee)  | [blogChat](https://github.com/barretlee/blogChat)  (319) <br/>[kindleBookMaker](https://github.com/barretlee/kindleBookMaker)  (252) <br/>[algorithms](https://github.com/barretlee/algorithms)  (217) <br/> | 319 |
+| 46. | [jeremenichelli](https://github.com/jeremenichelli)  | [hunt](https://github.com/jeremenichelli/hunt)  (307) <br/> | 307 |
+| 47. | [cxxr](https://github.com/cxxr)  | [lostpass](https://github.com/cxxr/lostpass)  (303) <br/> | 303 |
+| 48. | [logoove](https://github.com/logoove)  | [weui](https://github.com/logoove/weui)  (299) <br/> | 299 |
+| 49. | [jasonslyvia](https://github.com/jasonslyvia)  | [a-cartoon-intro-to-redux-cn](https://github.com/jasonslyvia/a-cartoon-intro-to-redux-cn)  (299) <br/> | 299 |
+| 50. | [themsaid](https://github.com/themsaid)  | [laravel-langman](https://github.com/themsaid/laravel-langman)  (570) <br/>[laravel-mail-preview](https://github.com/themsaid/laravel-mail-preview)  (317) <br/>[katana](https://github.com/themsaid/katana)  (290) <br/> | 290 |
+| 51. | [dongweiming](https://github.com/dongweiming)  | [web_develop](https://github.com/dongweiming/web_develop)  (286) <br/> | 286 |
+| 52. | [ireade](https://github.com/ireade)  | [inlinetweetjs](https://github.com/ireade/inlinetweetjs)  (279) <br/> | 279 |
+| 53. | [siggy](https://github.com/siggy)  | [beatboxer](https://github.com/siggy/beatboxer)  (278) <br/> | 278 |
+| 54. | [qiwihui](https://github.com/qiwihui)  | [hiwifi-ss](https://github.com/qiwihui/hiwifi-ss)  (266) <br/> | 266 |
+| 55. | [callmelanmao](https://github.com/callmelanmao)  | [yunshare](https://github.com/callmelanmao/yunshare)  (265) <br/> | 265 |
+| 56. | [garygreen](https://github.com/garygreen)  | [pretty-routes](https://github.com/garygreen/pretty-routes)  (255) <br/> | 255 |
+| 57. | [rougier](https://github.com/rougier)  | [from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)  (248) <br/> | 248 |
+| 58. | [iJackUA](https://github.com/iJackUA)  | [rwdtow](https://github.com/iJackUA/rwdtow)  (245) <br/> | 245 |
+| 59. | [XueRainey](https://github.com/XueRainey)  | [ionic2](https://github.com/XueRainey/ionic2)  (237) <br/> | 237 |
+| 60. | [lsrur](https://github.com/lsrur)  | [inspector](https://github.com/lsrur/inspector)  (236) <br/> | 236 |
+| 61. | [tholman](https://github.com/tholman)  | [90s-cursor-effects](https://github.com/tholman/90s-cursor-effects)  (286) <br/>[ascii-morph](https://github.com/tholman/ascii-morph)  (271) <br/>[console-dot-frog](https://github.com/tholman/console-dot-frog)  (236) <br/>[buddy](https://github.com/tholman/buddy)  (125) <br/> | 236 |
+| 62. | [josephernest](https://github.com/josephernest)  | [talktalktalk](https://github.com/josephernest/talktalktalk)  (234) <br/> | 234 |
+| 63. | [elbamos](https://github.com/elbamos)  | [largeVis](https://github.com/elbamos/largeVis)  (233) <br/> | 233 |
+| 64. | [Kaijun](https://github.com/Kaijun)  | [hexo-theme-huxblog](https://github.com/Kaijun/hexo-theme-huxblog)  (225) <br/> | 225 |
+| 65. | [needim](https://github.com/needim)  | [wdt-emoji-bundle](https://github.com/needim/wdt-emoji-bundle)  (225) <br/> | 225 |
+| 66. | [andyfitz](https://github.com/andyfitz)  | [logomono](https://github.com/andyfitz/logomono)  (224) <br/> | 224 |
+| 67. | [jlord](https://github.com/jlord)  | [essential-electron](https://github.com/jlord/essential-electron)  (219) <br/> | 219 |
+| 68. | [samayshamdasani](https://github.com/samayshamdasani)  | [enlight](https://github.com/samayshamdasani/enlight)  (218) <br/> | 218 |
+| 69. | [Haojen](https://github.com/Haojen)  | [hexo-theme-Anisina](https://github.com/Haojen/hexo-theme-Anisina)  (217) <br/> | 217 |
+| 70. | [boguz](https://github.com/boguz)  | [Spinners](https://github.com/boguz/Spinners)  (211) <br/> | 211 |
+| 71. | [HADB](https://github.com/HADB)  | [GetWeixinCode](https://github.com/HADB/GetWeixinCode)  (204) <br/> | 204 |
+| 72. | [TrumpTracker](https://github.com/TrumpTracker)  | [trumptracker.github.io](https://github.com/TrumpTracker/trumptracker.github.io)  (203) <br/> | 203 |
+| 73. | [hbxeagle](https://github.com/hbxeagle)  | [rem](https://github.com/hbxeagle/rem)  (187) <br/> | 187 |
+| 74. | [luyishisi](https://github.com/luyishisi)  | [Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider)  (186) <br/> | 186 |
+| 75. | [digitalcraftsman](https://github.com/digitalcraftsman)  | [hugo-material-docs](https://github.com/digitalcraftsman/hugo-material-docs)  (186) <br/> | 186 |
+| 76. | [zrispo](https://github.com/zrispo)  | [wick](https://github.com/zrispo/wick)  (184) <br/> | 184 |
+| 77. | [tiaanduplessis](https://github.com/tiaanduplessis)  | [wenk](https://github.com/tiaanduplessis/wenk)  (500) <br/>[dont-go](https://github.com/tiaanduplessis/dont-go)  (237) <br/>[tipograf](https://github.com/tiaanduplessis/tipograf)  (181) <br/> | 181 |
+| 78. | [gcushen](https://github.com/gcushen)  | [hugo-academic](https://github.com/gcushen/hugo-academic)  (179) <br/> | 179 |
+| 79. | [ayqy](https://github.com/ayqy)  | [CSS2-1](https://github.com/ayqy/CSS2-1)  (177) <br/> | 177 |
+| 80. | [xpleaf](https://github.com/xpleaf)  | [Blog_mini](https://github.com/xpleaf/Blog_mini)  (176) <br/> | 176 |
+| 81. | [mightybyte](https://github.com/mightybyte)  | [monad-challenges](https://github.com/mightybyte/monad-challenges)  (176) <br/> | 176 |
+| 82. | [atifazam](https://github.com/atifazam)  | [vocalizer](https://github.com/atifazam/vocalizer)  (174) <br/> | 174 |
+| 83. | [MeCKodo](https://github.com/MeCKodo)  | [vue-tutorial](https://github.com/MeCKodo/vue-tutorial)  (711) <br/>[wxapp-cli](https://github.com/MeCKodo/wxapp-cli)  (173) <br/>[webpack](https://github.com/MeCKodo/webpack)  (173) <br/>[vue-multipage](https://github.com/MeCKodo/vue-multipage)  (143) <br/> | 173 |
+| 84. | [lefranz](https://github.com/lefranz)  | [geneva-dictators](https://github.com/lefranz/geneva-dictators)  (170) <br/> | 170 |
+| 85. | [jimmywarting](https://github.com/jimmywarting)  | [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js)  (170) <br/> | 170 |
+| 86. | [jiji262](https://github.com/jiji262)  | [wooyun_articles](https://github.com/jiji262/wooyun_articles)  (165) <br/> | 165 |
+| 87. | [cmeiklejohn](https://github.com/cmeiklejohn)  | [PMLDC](https://github.com/cmeiklejohn/PMLDC)  (163) <br/> | 163 |
+| 88. | [jarsbe](https://github.com/jarsbe)  | [react-simple](https://github.com/jarsbe/react-simple)  (159) <br/> | 159 |
+| 89. | [dhparkdh](https://github.com/dhparkdh)  | [resume-for-web-developer](https://github.com/dhparkdh/resume-for-web-developer)  (157) <br/> | 157 |
+| 90. | [zhengmin1989](https://github.com/zhengmin1989)  | [iOS_ICE_AND_FIRE](https://github.com/zhengmin1989/iOS_ICE_AND_FIRE)  (766) <br/>[MyArticles](https://github.com/zhengmin1989/MyArticles)  (156) <br/>[OS-X-10.11.6-Exp-via-PEGASUS](https://github.com/zhengmin1989/OS-X-10.11.6-Exp-via-PEGASUS)  (111) <br/> | 156 |
+| 91. | [Xyntax](https://github.com/Xyntax)  | [POC-T](https://github.com/Xyntax/POC-T)  (255) <br/>[1000php](https://github.com/Xyntax/1000php)  (156) <br/> | 156 |
+| 92. | [kennethreitz](https://github.com/kennethreitz)  | [maya](https://github.com/kennethreitz/maya)  (1055) <br/>[saythanks.io](https://github.com/kennethreitz/saythanks.io)  (211) <br/>[em](https://github.com/kennethreitz/em)  (161) <br/>[pep8.org](https://github.com/kennethreitz/pep8.org)  (155) <br/> | 155 |
+| 93. | [forsigner](https://github.com/forsigner)  | [fexo](https://github.com/forsigner/fexo)  (596) <br/>[magic-check](https://github.com/forsigner/magic-check)  (185) <br/>[web-fontmin](https://github.com/forsigner/web-fontmin)  (155) <br/> | 155 |
+| 94. | [toji](https://github.com/toji)  | [webvr-samples](https://github.com/toji/webvr-samples)  (153) <br/> | 153 |
+| 95. | [deanhume](https://github.com/deanhume)  | [image-beast](https://github.com/deanhume/image-beast)  (153) <br/> | 153 |
+| 96. | [n457](https://github.com/n457)  | [Uncolored](https://github.com/n457/Uncolored)  (152) <br/> | 152 |
+| 97. | [BafS](https://github.com/BafS)  | [Material-Colors-native](https://github.com/BafS/Material-Colors-native)  (174) <br/>[mu](https://github.com/BafS/mu)  (150) <br/> | 150 |
+| 98. | [jamielhf](https://github.com/jamielhf)  | [vue](https://github.com/jamielhf/vue)  (149) <br/> | 149 |
+| 99. | [livisky](https://github.com/livisky)  | [liblog](https://github.com/livisky/liblog)  (148) <br/> | 148 |
+| 100. | [joshnh](https://github.com/joshnh)  | [head](https://github.com/joshnh/head)  (148) <br/> | 148 |
+| 101. | [BrandonJoffe](https://github.com/BrandonJoffe)  | [home_surveillance](https://github.com/BrandonJoffe/home_surveillance)  (148) <br/> | 148 |
+| 102. | [ryanhoo](https://github.com/ryanhoo)  | [StylishMusicPlayer](https://github.com/ryanhoo/StylishMusicPlayer)  (2389) <br/>[fir.flight](https://github.com/ryanhoo/fir.flight)  (277) <br/>[Android-Proficiency-Exercise](https://github.com/ryanhoo/Android-Proficiency-Exercise)  (146) <br/> | 146 |
+| 103. | [lzjqsdd](https://github.com/lzjqsdd)  | [scikit-learn-doc-cn](https://github.com/lzjqsdd/scikit-learn-doc-cn)  (145) <br/> | 145 |
+| 104. | [jdleesmiller](https://github.com/jdleesmiller)  | [docker-chat-demo](https://github.com/jdleesmiller/docker-chat-demo)  (144) <br/> | 144 |
+| 105. | [potch](https://github.com/potch)  | [unmaintained.tech](https://github.com/potch/unmaintained.tech)  (141) <br/> | 141 |
+| 106. | [backToNature](https://github.com/backToNature)  | [touchFeedback](https://github.com/backToNature/touchFeedback)  (140) <br/> | 140 |
+| 107. | [i5ting](https://github.com/i5ting)  | [nodejs-fullstack](https://github.com/i5ting/nodejs-fullstack)  (835) <br/>[wechat-dev-with-nodejs](https://github.com/i5ting/wechat-dev-with-nodejs)  (159) <br/>[oh-http](https://github.com/i5ting/oh-http)  (138) <br/>[sketch-practice](https://github.com/i5ting/sketch-practice)  (112) <br/>[asynchronous-flow-control](https://github.com/i5ting/asynchronous-flow-control)  (109) <br/> | 138 |
+| 108. | [jacquerie](https://github.com/jacquerie)  | [stop-the-bullshit](https://github.com/jacquerie/stop-the-bullshit)  (135) <br/> | 135 |
+| 109. | [Huangtuzhi](https://github.com/Huangtuzhi)  | [ife-task](https://github.com/Huangtuzhi/ife-task)  (135) <br/> | 135 |
+| 110. | [christianalfoni](https://github.com/christianalfoni)  | [webpack-bin](https://github.com/christianalfoni/webpack-bin)  (566) <br/>[react-webpack-cookbook](https://github.com/christianalfoni/react-webpack-cookbook)  (133) <br/> | 133 |
+| 111. | [xem](https://github.com/xem)  | [minix86](https://github.com/xem/minix86)  (132) <br/> | 132 |
+| 112. | [ivanceras](https://github.com/ivanceras)  | [spongedown](https://github.com/ivanceras/spongedown)  (131) <br/> | 131 |
+| 113. | [buckyroberts](https://github.com/buckyroberts)  | [Spider](https://github.com/buckyroberts/Spider)  (293) <br/>[React-Redux-Boilerplate](https://github.com/buckyroberts/React-Redux-Boilerplate)  (176) <br/>[Viberr](https://github.com/buckyroberts/Viberr)  (131) <br/> | 131 |
+| 114. | [akoumjian](https://github.com/akoumjian)  | [datefinder](https://github.com/akoumjian/datefinder)  (131) <br/> | 131 |
+| 115. | [straker](https://github.com/straker)  | [livingcss](https://github.com/straker/livingcss)  (131) <br/> | 131 |
+| 116. | [lu4kyd0y](https://github.com/lu4kyd0y)  | [WeChat-Cloud-Robot](https://github.com/lu4kyd0y/WeChat-Cloud-Robot)  (131) <br/> | 131 |
+| 117. | [dansup](https://github.com/dansup)  | [bulma-templates](https://github.com/dansup/bulma-templates)  (129) <br/> | 129 |
+| 118. | [surikov](https://github.com/surikov)  | [webaudiofont](https://github.com/surikov/webaudiofont)  (128) <br/> | 128 |
+| 119. | [marabesi](https://github.com/marabesi)  | [curso-laravel-completo-sorteio](https://github.com/marabesi/curso-laravel-completo-sorteio)  (128) <br/> | 128 |
+| 120. | [TalAter](https://github.com/TalAter)  | [open-source-templates](https://github.com/TalAter/open-source-templates)  (127) <br/> | 127 |
+| 121. | [dimok789](https://github.com/dimok789)  | [loadiine_gx2](https://github.com/dimok789/loadiine_gx2)  (172) <br/>[homebrew_launcher](https://github.com/dimok789/homebrew_launcher)  (127) <br/> | 127 |
+| 122. | [cathydeng](https://github.com/cathydeng)  | [are-men-talking-too-much](https://github.com/cathydeng/are-men-talking-too-much)  (126) <br/> | 126 |
+| 123. | [YUX-IO](https://github.com/YUX-IO)  | [163music-APlayer-you-get-docker](https://github.com/YUX-IO/163music-APlayer-you-get-docker)  (124) <br/> | 124 |
+| 124. | [ID25](https://github.com/ID25)  | [rails_emoji_picker](https://github.com/ID25/rails_emoji_picker)  (123) <br/> | 123 |
+| 125. | [btholt](https://github.com/btholt)  | [complete-intro-to-react](https://github.com/btholt/complete-intro-to-react)  (249) <br/>[four-semesters-of-cs](https://github.com/btholt/four-semesters-of-cs)  (122) <br/> | 122 |
+| 126. | [AdamMarsden](https://github.com/AdamMarsden)  | [simple-typography](https://github.com/AdamMarsden/simple-typography)  (122) <br/> | 122 |
+| 127. | [ngokevin](https://github.com/ngokevin)  | [kframe](https://github.com/ngokevin/kframe)  (121) <br/> | 121 |
+| 128. | [pkremp](https://github.com/pkremp)  | [polls](https://github.com/pkremp/polls)  (119) <br/> | 119 |
+| 129. | [igrigorik](https://github.com/igrigorik)  | [hpbn.co](https://github.com/igrigorik/hpbn.co)  (118) <br/> | 118 |
+| 130. | [nealrs](https://github.com/nealrs)  | [readsure](https://github.com/nealrs/readsure)  (117) <br/> | 117 |
+| 131. | [gwillem](https://github.com/gwillem)  | [magento-malware-scanner](https://github.com/gwillem/magento-malware-scanner)  (117) <br/> | 117 |
+| 132. | [willianjusten](https://github.com/willianjusten)  | [cards-jekyll-template](https://github.com/willianjusten/cards-jekyll-template)  (116) <br/> | 116 |
+| 133. | [NickTikhonov](https://github.com/NickTikhonov)  | [sourcerer](https://github.com/NickTikhonov/sourcerer)  (116) <br/>[hyperline](https://github.com/NickTikhonov/hyperline)  (108) <br/> | 116 |
+| 134. | [davestewart](https://github.com/davestewart)  | [javascript-state-machine](https://github.com/davestewart/javascript-state-machine)  (116) <br/> | 116 |
+| 135. | [ITRav4](https://github.com/ITRav4)  | [PlexRedirect](https://github.com/ITRav4/PlexRedirect)  (115) <br/> | 115 |
+| 136. | [renancaldas](https://github.com/renancaldas)  | [aws-ec2-guide](https://github.com/renancaldas/aws-ec2-guide)  (114) <br/> | 114 |
+| 137. | [LeaVerou](https://github.com/LeaVerou)  | [multirange](https://github.com/LeaVerou/multirange)  (439) <br/>[markapp](https://github.com/LeaVerou/markapp)  (113) <br/> | 113 |
+| 138. | [liaohuqiu](https://github.com/liaohuqiu)  | [android-support-23.2-sample](https://github.com/liaohuqiu/android-support-23.2-sample)  (821) <br/>[icon-font-for-multiple-platforms](https://github.com/liaohuqiu/icon-font-for-multiple-platforms)  (379) <br/>[wechat-helper](https://github.com/liaohuqiu/wechat-helper)  (320) <br/>[abot-lucky-money](https://github.com/liaohuqiu/abot-lucky-money)  (166) <br/>[f8-app-tutorial-cn](https://github.com/liaohuqiu/f8-app-tutorial-cn)  (112) <br/> | 112 |
+| 139. | [WardCunningham](https://github.com/WardCunningham)  | [remodeling](https://github.com/WardCunningham/remodeling)  (111) <br/> | 111 |
+| 140. | [GediminasMasaitis](https://github.com/GediminasMasaitis)  | [PokeEase](https://github.com/GediminasMasaitis/PokeEase)  (109) <br/> | 109 |
+| 141. | [fivefilters](https://github.com/fivefilters)  | [block-ads](https://github.com/fivefilters/block-ads)  (109) <br/> | 109 |
+| 142. | [xurui3762791](https://github.com/xurui3762791)  | [tooltips](https://github.com/xurui3762791/tooltips)  (108) <br/> | 108 |
+| 143. | [yaseng](https://github.com/yaseng)  | [jquery.barrager.js](https://github.com/yaseng/jquery.barrager.js)  (106) <br/> | 106 |
+| 144. | [nicothin](https://github.com/nicothin)  | [idiomatic-pre-CSS](https://github.com/nicothin/idiomatic-pre-CSS)  (105) <br/> | 105 |
+| 145. | [JulianNorton](https://github.com/JulianNorton)  | [weather-10kb](https://github.com/JulianNorton/weather-10kb)  (103) <br/> | 103 |
+| 146. | [domenic](https://github.com/domenic)  | [zones](https://github.com/domenic/zones)  (103) <br/> | 103 |
+| 147. | [Saulis](https://github.com/Saulis)  | [iron-data-table](https://github.com/Saulis/iron-data-table)  (101) <br/> | 101 |
+| 148. | [jensimmons](https://github.com/jensimmons)  | [labs.jensimmons.com](https://github.com/jensimmons/labs.jensimmons.com)  (101) <br/> | 101 |
+| 149. | [klugjo](https://github.com/klugjo)  | [hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog)  (100) <br/> | 100 |
+| 150. | [bahmutov](https://github.com/bahmutov)  | [babel-service](https://github.com/bahmutov/babel-service)  (207) <br/>[draw-cycle](https://github.com/bahmutov/draw-cycle)  (100) <br/> | 100 |
+
+## Most-Starred Orgs: HTML
+
+| | Org | Repos | Stars |
+|---|---|---|---|
+| 1. | [open-power-workgroup](https://github.com/open-power-workgroup)  | [Hospital](https://github.com/open-power-workgroup/Hospital)  (5308) <br/> | 5308 |
+| 2. | [Microsoft](https://github.com/Microsoft)  | [ChakraCore](https://github.com/Microsoft/ChakraCore)  (5907) <br/>[monaco-editor](https://github.com/Microsoft/monaco-editor)  (3499) <br/>[malmo](https://github.com/Microsoft/malmo)  (2208) <br/>[LightGBM](https://github.com/Microsoft/LightGBM)  (1706) <br/>[HoloJS](https://github.com/Microsoft/HoloJS)  (798) <br/>[cppwinrt](https://github.com/Microsoft/cppwinrt)  (351) <br/>[ProjectOxford-Apps-MimickerAlarm](https://github.com/Microsoft/ProjectOxford-Apps-MimickerAlarm)  (310) <br/>[mssql-jdbc](https://github.com/Microsoft/mssql-jdbc)  (246) <br/>[Mesh-processing-library](https://github.com/Microsoft/Mesh-processing-library)  (243) <br/>[thrifty](https://github.com/Microsoft/thrifty)  (224) <br/>[DirectXMath](https://github.com/Microsoft/DirectXMath)  (187) <br/>[BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)  (180) <br/>[BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)  (176) <br/>[AzureUsageAndBillingPortal](https://github.com/Microsoft/AzureUsageAndBillingPortal)  (130) <br/>[DirectXTK12](https://github.com/Microsoft/DirectXTK12)  (117) <br/>[checkedc-clang](https://github.com/Microsoft/checkedc-clang)  (110) <br/> | 3499 |
+| 3. | [codrops](https://github.com/codrops)  | [Animocons](https://github.com/codrops/Animocons)  (1008) <br/>[DistortedButtonEffects](https://github.com/codrops/DistortedButtonEffects)  (913) <br/>[SeatPreview](https://github.com/codrops/SeatPreview)  (890) <br/>[LineMenuStyles](https://github.com/codrops/LineMenuStyles)  (543) <br/>[Interactive3DMallMap](https://github.com/codrops/Interactive3DMallMap)  (378) <br/>[SegmentEffect](https://github.com/codrops/SegmentEffect)  (308) <br/>[InteractivePoints](https://github.com/codrops/InteractivePoints)  (218) <br/>[TiltHoverEffects](https://github.com/codrops/TiltHoverEffects)  (209) <br/>[BlockRevealers](https://github.com/codrops/BlockRevealers)  (192) <br/>[IsometricGrids](https://github.com/codrops/IsometricGrids)  (178) <br/>[MultiLayoutSlideshow](https://github.com/codrops/MultiLayoutSlideshow)  (130) <br/>[Navigatio
