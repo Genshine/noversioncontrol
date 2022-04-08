@@ -114,4 +114,155 @@
 | 108. | [LeonardoCardoso/SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) <br/>It makes a preview from an URL, grabbing all the i... | 597 |
 | 109. | [pascalbros/PAPermissions](https://github.com/pascalbros/PAPermissions) <br/>A unified API to ask for permissions on iOS | 596 |
 | 110. | [plu/pxctest](https://github.com/plu/pxctest) <br/>Execute tests in parallel on multiple iOS Simulato... | 594 |
-| 111. | [markohlebar/Import]
+| 111. | [markohlebar/Import](https://github.com/markohlebar/Import) <br/>Xcode extension for adding imports from anywhere i... | 593 |
+| 112. | [shu223/Pulsator](https://github.com/shu223/Pulsator) <br/>Pulse animation for iOS | 592 |
+| 113. | [prolificinteractive/Caishen](https://github.com/prolificinteractive/Caishen) <br/>A Payment Card UI & Validator for iOS | 590 |
+| 114. | [Nike-Inc/Elevate](https://github.com/Nike-Inc/Elevate) <br/>Elevate is a JSON parsing framework that leverages... | 581 |
+| 115. | [fpg1503/MakeXcodeGr8Again](https://github.com/fpg1503/MakeXcodeGr8Again) <br/>🔨 Xcode + Plugins = 💙 | 580 |
+| 116. | [ello/ello-ios](https://github.com/ello/ello-ios) <br/>Ello's open source iOS app | 576 |
+| 117. | [stevestreza/Relayout](https://github.com/stevestreza/Relayout) <br/>Swift microframework for declaring Auto Layout con... | 573 |
+| 118. | [ink-spot/UPCarouselFlowLayout](https://github.com/ink-spot/UPCarouselFlowLayout) <br/>A fancy carousel flow layout for UICollectionView ... | 565 |
+| 119. | [seedco/StackViewController](https://github.com/seedco/StackViewController) <br/>A controller that uses a UIStackView and view cont... | 563 |
+| 120. | [alibaba/HandyJSON](https://github.com/alibaba/HandyJSON) <br/>a handy swift json-object serialization/deserializ... | 560 |
+| 121. | [kciter/GlitchLabel](https://github.com/kciter/GlitchLabel) <br/>G..lit...c...hing UILa..bel fo..r iO...S :tv: | 559 |
+| 122. | [kirualex/SwiftyGif](https://github.com/kirualex/SwiftyGif) <br/>High performance GIF engine | 559 |
+| 123. | [KevinGong2013/ChineseIDCardOCR](https://github.com/KevinGong2013/ChineseIDCardOCR) <br/>🇨🇳中国二代身份证光学识别 | 556 |
+| 124. | [HamzaGhazouani/HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) <br/>A custom reusable circular slider control for iOS ... | 555 |
+| 125. | [netyouli/WHC_AutoLayoutKit](https://github.com/netyouli/WHC_AutoLayoutKit) <br/>Had better use the auto layout of open source fram... | 547 |
+| 126. | [sasojadrovski/SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl) <br/>A segmented control with custom appearance and int... | 546 |
+| 127. | [Ben-G/Validated](https://github.com/Ben-G/Validated) <br/>A Swift μ-Library for Somewhat Dependent Types | 542 |
+| 128. | [SimplicityMobile/Simplicity](https://github.com/SimplicityMobile/Simplicity) <br/>A simple way to implement Facebook and Google logi... | 541 |
+| 129. | [kean/Preheat](https://github.com/kean/Preheat) <br/>Automates prefetching of content in UITableView an... | 535 |
+| 130. | [shinobicontrols/iOS10-day-by-day](https://github.com/shinobicontrols/iOS10-day-by-day) <br/>Projects to accompany the iOS 10 Day by Day blog s... | 533 |
+| 131. | [malcommac/SwiftRichString](https://github.com/malcommac/SwiftRichString) <br/>Elegant & Painless Attributed Strings Management L... | 531 |
+| 132. | [AntonTheDev/FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) <br/>Advanced Natural Motion Animations, Simple Blocks ... | 526 |
+| 133. | [whitesmith/WSTagsField](https://github.com/whitesmith/WSTagsField) <br/>An iOS text field that represents different Tags | 526 |
+| 134. | [exyte/ReadabilityKit](https://github.com/exyte/ReadabilityKit) <br/>Preview extractor for news, articles and full-text... | 525 |
+| 135. | [devxoul/RxTodo](https://github.com/devxoul/RxTodo) <br/>iOS Todo Application with RxSwift + MVVM | 524 |
+| 136. | [popwarsweet/PageControls](https://github.com/popwarsweet/PageControls) <br/>This is a selection of custom page controls to rep... | 523 |
+| 137. | [enochng1/RaceMe](https://github.com/enochng1/RaceMe) <br/>RaceMe is a run tracking + ghosting iOS mobile app... | 523 |
+| 138. | [candostdagdeviren/CDAlertView](https://github.com/candostdagdeviren/CDAlertView) <br/>Highly customizable alertview and alert/notificati... | 514 |
+| 139. | [hyperoslo/BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner) <br/>:mag_right: A simple and beautiful barcode scanner... | 511 |
+| 140. | [KevinCoble/AIToolbox](https://github.com/KevinCoble/AIToolbox) <br/>A toolbox of AI modules written in Swift:  Graphs/... | 506 |
+| 141. | [Yalantis/ForceBlur](https://github.com/Yalantis/ForceBlur) <br/>ForceBlur Animation for iOS Messaging Apps | 506 |
+| 142. | [jeantimex/ios-swift-collapsible-table-section](https://github.com/jeantimex/ios-swift-collapsible-table-section) <br/>A simple iOS swift project demonstrates how to imp... | 503 |
+| 143. | [EndouMari/TabPageViewController](https://github.com/EndouMari/TabPageViewController) <br/>Paging view controller and scroll tab view | 501 |
+| 144. | [inamiy/RxAutomaton](https://github.com/inamiy/RxAutomaton) <br/>RxSwift + State Machine, inspired by Redux and Elm... | 497 |
+| 145. | [AfryMask/AFBrushBoard](https://github.com/AfryMask/AFBrushBoard) <br/>毛笔画板 | 496 |
+| 146. | [BohdanOrlov/BouncyPageViewController](https://github.com/BohdanOrlov/BouncyPageViewController) <br/>Page view controller with bounce effect | 492 |
+| 147. | [100mango/Celluloid](https://github.com/100mango/Celluloid) <br/>The Best Photo Extension APP on iOS. | 491 |
+| 148. | [wokalski/Diff.swift](https://github.com/wokalski/Diff.swift) <br/>The fastest Diff and patch library in Swift. Inclu... | 489 |
+| 149. | [iAugux/Phonetic](https://github.com/iAugux/Phonetic) <br/>An iOS App to generate phonetic keys for your Chin... | 488 |
+| 150. | [Cleveroad/CRNetworkButton](https://github.com/Cleveroad/CRNetworkButton) <br/>Send Button for iOS | 487 |
+| 151. | [Draveness/NightNight](https://github.com/Draveness/NightNight) <br/>Elegant way to integrate night mode to swift proje... | 485 |
+| 152. | [winslowdibona/TabDrawer](https://github.com/winslowdibona/TabDrawer)  | 482 |
+| 153. | [nixzhu/Coolie](https://github.com/nixzhu/Coolie) <br/>Coolie(苦力) helps you to create models (& their con... | 477 |
+| 154. | [sahandnayebaziz/StateView](https://github.com/sahandnayebaziz/StateView) <br/>UIViews that update themselves when your data chan... | 472 |
+| 155. | [WorldDownTown/ZoomTransitioning](https://github.com/WorldDownTown/ZoomTransitioning) <br/>ZoomTransitioning provides a custom transition wit... | 469 |
+| 156. | [JellyDevelopment/JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) <br/>Animate easy and with less code with Swift | 464 |
+| 157. | [gkye/ComplimentaryGradientView](https://github.com/gkye/ComplimentaryGradientView) <br/>Create complementary gradients generated from domi... | 457 |
+| 158. | [Bouke/SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) <br/>Xcode 8 Source Code Extension to Generate Swift In... | 454 |
+| 159. | [Roylee-ML/PrismaSimpleImagePicker](https://github.com/Roylee-ML/PrismaSimpleImagePicker) <br/>This is a copy of the Prisma APP. Reproduce Prisma... | 454 |
+| 160. | [Polidea/RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) <br/>iOS & OSX Bluetooth library for RxSwift | 450 |
+| 161. | [KrakenDev/PrediKit](https://github.com/KrakenDev/PrediKit) <br/>An NSPredicate DSL for iOS, OSX, tvOS, & watchOS. ... | 449 |
+| 162. | [daltonclaybrook/tween-controller](https://github.com/daltonclaybrook/tween-controller) <br/>A toolkit for creating interactive menus and tutor... | 449 |
+| 163. | [producthunt/producthunt-osx](https://github.com/producthunt/producthunt-osx) <br/>The best new products, every day on Mac. | 447 |
+| 164. | [Onix-Systems/RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl)  | 446 |
+| 165. | [wayfair/brickkit-ios](https://github.com/wayfair/brickkit-ios) <br/>BrickKit For IOS | 445 |
+| 166. | [gontovnik/Periscope-VideoViewController](https://github.com/gontovnik/Periscope-VideoViewController) <br/>Video view controller with Periscope fast rewind c... | 438 |
+| 167. | [delba/SwiftyOAuth](https://github.com/delba/SwiftyOAuth) <br/>A simple OAuth library for iOS with a built-in set... | 437 |
+| 168. | [cjiong/LearnSwift](https://github.com/cjiong/LearnSwift) <br/>One hundred days, fifty projects. | 436 |
+| 169. | [CosmicMind/Algorithm](https://github.com/CosmicMind/Algorithm) <br/>Algorithm is a library of tools that is used to cr... | 434 |
+| 170. | [liuzhiyi1992/SpreadButton](https://github.com/liuzhiyi1992/SpreadButton) <br/>a Button can spread its sub path button like the f... | 426 |
+| 171. | [ustwo/formvalidator-swift](https://github.com/ustwo/formvalidator-swift) <br/>A framework to validate inputs of text fields and ... | 421 |
+| 172. | [linkedin/RocketData](https://github.com/linkedin/RocketData) <br/>A caching and consistency solution for immutable m... | 420 |
+| 173. | [boycechang/BCColor](https://github.com/boycechang/BCColor) <br/>A lightweight but powerful color kit (Swift) | 417 |
+| 174. | [loiclec/Apodimark](https://github.com/loiclec/Apodimark) <br/>Fast, flexible markdown parser written in Swift | 415 |
+| 175. | [wulkano/aperture.js](https://github.com/wulkano/aperture.js) <br/>A library for screen recording | 415 |
+| 176. | [bwhiteley/JSONShootout](https://github.com/bwhiteley/JSONShootout) <br/>Compare several Swift JSON mappers. | 409 |
+| 177. | [movielala/TVOSSlideViewController](https://github.com/movielala/TVOSSlideViewController) <br/>Container view controller with left and right draw... | 404 |
+| 178. | [ivanbruel/SwipeIt](https://github.com/ivanbruel/SwipeIt) <br/>SwipeIt - Reddit with a swipe | 403 |
+| 179. | [matthewpalmer/Charter](https://github.com/matthewpalmer/Charter) <br/>A Swift mailing list client for iPhone and iPad | 402 |
+| 180. | [hrscy/TodayNews](https://github.com/hrscy/TodayNews) <br/>Swift开源项目-模仿今日头条 | 402 |
+| 181. | [marmelroy/ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) <br/>Swift-friendly API for a set of powerful Objective... | 401 |
+| 182. | [snipsco/Postal](https://github.com/snipsco/Postal) <br/>A swift framework for working with emails | 399 |
+| 183. | [fortmarek/SwipeViewController](https://github.com/fortmarek/SwipeViewController) <br/>SwipeViewController is a Swift modification of RKS... | 398 |
+| 184. | [SwiftKit/Cuckoo](https://github.com/SwiftKit/Cuckoo) <br/>First boilerplate-free mocking framework for Swift... | 398 |
+| 185. | [Augustyniak/FileExplorer](https://github.com/Augustyniak/FileExplorer) <br/>FileExplorer is a powerful iOS file browser that a... | 398 |
+| 186. | [RxSwiftCommunity/RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources) <br/>UITableView and UICollectionView Data Sources for ... | 398 |
+| 187. | [soffes/Countdown](https://github.com/soffes/Countdown) <br/>Mac screensaver for counting down to a date | 396 |
+| 188. | [freshOS/then](https://github.com/freshOS/then) <br/>Promises Library for Swift :clapper: | 396 |
+| 189. | [recruit-lifestyle/Smile-Lock](https://github.com/recruit-lifestyle/Smile-Lock) <br/>A library for make a beautiful Passcode Lock View | 391 |
+| 190. | [tryswift/trySwiftApp](https://github.com/tryswift/trySwiftApp) <br/>try! Swift Conference App | 390 |
+| 191. | [icanzilb/Retry](https://github.com/icanzilb/Retry) <br/>Haven't you wished for `try` to sometimes try a li... | 388 |
+| 192. | [bannzai/Kaeru](https://github.com/bannzai/Kaeru) <br/>Switch viewcontroller like ios task manager | 386 |
+| 193. | [100mango/SwiftNotificationCenter](https://github.com/100mango/SwiftNotificationCenter) <br/>A Protocol-Oriented NotificationCenter which is ty... | 384 |
+| 194. | [symentis/Palau](https://github.com/symentis/Palau) <br/>NSUserDefaults with Wings! | 383 |
+| 195. | [utahiosmac/Marshal](https://github.com/utahiosmac/Marshal) <br/>Marshaling the typeless wild west of [String: Any] | 380 |
+| 196. | [little2s/NoChat](https://github.com/little2s/NoChat) <br/>A lightweight chat UI framework for iOS. | 380 |
+| 197. | [Raizlabs/Eject](https://github.com/Raizlabs/Eject) <br/>An eject button for Interface Builder to generate ... | 378 |
+| 198. | [movielala/TVOSButton](https://github.com/movielala/TVOSButton) <br/>Missing button component for tvos | 377 |
+| 199. | [gaowanli/PinGo](https://github.com/gaowanli/PinGo) <br/>纯Swift编写的仿“随遇”App | 376 |
+| 200. | [anatoliyv/AssistantKit](https://github.com/anatoliyv/AssistantKit) <br/>Easy way to detect iOS device properties, OS versi... | 376 |
+| 201. | [gjiazhe/Up-Down](https://github.com/gjiazhe/Up-Down) <br/>A menu bar widget for OS X that monitors upload an... | 373 |
+| 202. | [skyfe79/SwiftImageProcessing](https://github.com/skyfe79/SwiftImageProcessing) <br/>This project demonstrates how to do pixel operatio... | 372 |
+| 203. | [uraimo/SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) <br/>A Swift library to interact with Linux GPIO/SPI on... | 369 |
+| 204. | [joedaniels29/10Clock](https://github.com/joedaniels29/10Clock) <br/>This Control is a beautiful time-of-day picker hea... | 368 |
+| 205. | [hrscy/DanTang](https://github.com/hrscy/DanTang) <br/>Swift开源项目-模仿单糖 | 368 |
+| 206. | [Fnoz/FNMatchPull](https://github.com/Fnoz/FNMatchPull) <br/>Swift实现的火柴图案&火柴文字下拉刷新动效（超炫酷下拉刷新），Swift&加强版本CBStore... | 368 |
+| 207. | [movielala/TVOSToast](https://github.com/movielala/TVOSToast) <br/>Toast component for tvOS with built-in siri remote... | 365 |
+| 208. | [unifiedh/Chameleon-Swift](https://github.com/unifiedh/Chameleon-Swift) <br/>UIKit for the Mac, rewritten in Swift | 361 |
+| 209. | [soyersoyer/SwCrypt](https://github.com/soyersoyer/SwCrypt) <br/>RSA public/private key generation, RSA, AES encryp... | 361 |
+| 210. | [Awesome-Server-Side-Swift/TheList](https://github.com/Awesome-Server-Side-Swift/TheList) <br/>A list of Awesome Server Side Swift 3 projects | 360 |
+| 211. | [100mango/SwiftTimer](https://github.com/100mango/SwiftTimer) <br/>Simple and Elegant Timer | 358 |
+| 212. | [MDCC2016/ProtocolNetwork](https://github.com/MDCC2016/ProtocolNetwork) <br/>Sample project to show how to use protocol/extensi... | 356 |
+| 213. | [PiXeL16/IBLocalizable](https://github.com/PiXeL16/IBLocalizable) <br/>Localize your views directly in Interface Builder ... | 353 |
+| 214. | [yannickl/Reactions](https://github.com/yannickl/Reactions) <br/>Fully customizable Facebook reactions control | 353 |
+| 215. | [vapor/socks](https://github.com/vapor/socks) <br/>Pure-Swift Sockets: TCP, UDP; Client, Server; Linu... | 350 |
+| 216. | [efremidze/VisualEffectView](https://github.com/efremidze/VisualEffectView) <br/>Dynamic blur background view with tint color (UIVi... | 350 |
+| 217. | [xhamr/fave-button](https://github.com/xhamr/fave-button) <br/>FaveButton is an iOS cute animated like button wri... | 349 |
+| 218. | [jessesquires/PresenterKit](https://github.com/jessesquires/PresenterKit) <br/>Swifty view controller presentation for iOS | 347 |
+| 219. | [soffes/JSON](https://github.com/soffes/JSON) <br/>Micro framework for easily parsing JSON in Swift 3... | 346 |
+| 220. | [MosheBerman/PatronKit](https://github.com/MosheBerman/PatronKit) <br/>A framework to add patronage to your apps. | 344 |
+| 221. | [arvindhsukumar/PredicateEditor](https://github.com/arvindhsukumar/PredicateEditor) <br/>A GUI for dynamically creating NSPredicates at run... | 343 |
+| 222. | [SunLiner/Floral](https://github.com/SunLiner/Floral) <br/>swift2.2完整实战项目 | 341 |
+| 223. | [ipraba/EPShapes](https://github.com/ipraba/EPShapes) <br/>Design shapes in Interface Builder | 338 |
+| 224. | [square/SuperDelegate](https://github.com/square/SuperDelegate) <br/>SuperDelegate provides a clean application delegat... | 338 |
+| 225. | [atljeremy/JFCardSelectionViewController](https://github.com/atljeremy/JFCardSelectionViewController) <br/>A fancy collection style view controller | 337 |
+| 226. | [marty-suzuki/URLEmbeddedView](https://github.com/marty-suzuki/URLEmbeddedView) <br/>URLEmbeddedView automatically caches the object th... | 335 |
+| 227. | [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) <br/>A simple Timer app for Mac | 333 |
+| 228. | [brianmichel/Juice](https://github.com/brianmichel/Juice) <br/>Make your battery information a bit more interesti... | 332 |
+| 229. | [eggswift/pull-to-refresh](https://github.com/eggswift/pull-to-refresh) <br/>An easy way to use pull to refresh and infinite sc... | 331 |
+| 230. | [Athlee/OnboardingKit](https://github.com/Athlee/OnboardingKit) <br/>A simple and interactive framework for making iOS ... | 328 |
+| 231. | [MillmanY/MMCardView](https://github.com/MillmanY/MMCardView) <br/>Custom CollectionView like Wallet App | 327 |
+| 232. | [fastred/EmojiTextView](https://github.com/fastred/EmojiTextView) <br/>Tap to swap out words with emojis. Inspired by Mes... | 321 |
+| 233. | [cookiecutter-swift/FrameworkTemplate](https://github.com/cookiecutter-swift/FrameworkTemplate) <br/>A template for new Swift iOS / tvOS / watchOS / ma... | 320 |
+| 234. | [DianQK/LearnRxSwift](https://github.com/DianQK/LearnRxSwift)  | 317 |
+| 235. | [fdzsergio/Reductio](https://github.com/fdzsergio/Reductio) <br/>Automatic summarizer text in Swift | 316 |
+| 236. | [cxa/MenuItemKit](https://github.com/cxa/MenuItemKit) <br/>UIMenuItem with image and closure(block) action | 316 |
+| 237. | [vapor/redbird](https://github.com/vapor/redbird) <br/>Pure-Swift Redis client implemented from the origi... | 316 |
+| 238. | [RxSwiftCommunity/RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) <br/>Reactive Keyboard in iOS | 315 |
+| 239. | [insidegui/PodcastMenu](https://github.com/insidegui/PodcastMenu) <br/>Put Overcast on your Mac's menu bar | 315 |
+| 240. | [nestproject/Frank](https://github.com/nestproject/Frank) <br/>Frank is a DSL for quickly writing web application... | 313 |
+| 241. | [X140Yu/Switcher](https://github.com/X140Yu/Switcher) <br/>An OS X App which helps you easily switch AppleID ... | 309 |
+| 242. | [Alamofire/AlamofireNetworkActivityIndicator](https://github.com/Alamofire/AlamofireNetworkActivityIndicator) <br/>Controls the visibility of the network activity in... | 308 |
+| 243. | [insidegui/PlayAlways](https://github.com/insidegui/PlayAlways) <br/>Create Xcode playgrounds from your menu bar | 303 |
+| 244. | [BrikerMan/BMPlayer](https://github.com/BrikerMan/BMPlayer) <br/>video player in swift3 and swift2 for iOS, based o... | 302 |
+| 245. | [poetmountain/MotionMachine](https://github.com/poetmountain/MotionMachine) <br/>A powerful, elegant, and modular animation library... | 302 |
+| 246. | [ShinCurry/Maria](https://github.com/ShinCurry/Maria) <br/>a macOS native app/widget for aria2 download tool. | 302 |
+| 247. | [shoheiyokoyama/Koyomi](https://github.com/shoheiyokoyama/Koyomi) <br/>Simple customizable calendar component in Swift :c... | 301 |
+| 248. | [azimin/AZTransitions](https://github.com/azimin/AZTransitions) <br/>API to make great custom transitions in one method | 301 |
+| 249. | [shaps80/InkKit](https://github.com/shaps80/InkKit) <br/>Drawing and Geometry made easy on iOS - now in Swi... | 300 |
+| 250. | [52inc/Pulley](https://github.com/52inc/Pulley) <br/>A library to imitate the iOS 10 Maps UI. | 298 |
+| 251. | [luiyezheng/JLStickerTextView](https://github.com/luiyezheng/JLStickerTextView) <br/>add text(multiple line support) to imageView, edit... | 296 |
+| 252. | [IBM-Swift/BlueSocket](https://github.com/IBM-Swift/BlueSocket) <br/>Socket framework for Swift using the Swift Package... | 296 |
+| 253. | [zhuhaow/Specht](https://github.com/zhuhaow/Specht) <br/>A rule-based proxy app built with Network Extensio... | 296 |
+| 254. | [WhiskerzAB/PlaygroundTDD](https://github.com/WhiskerzAB/PlaygroundTDD) <br/>Small library to easily run your tests directly wi... | 294 |
+| 255. | [robertherdzik/RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell) <br/>I envied so much Spotify iOS app this great playli... | 293 |
+| 256. | [nvzqz/Sage](https://github.com/nvzqz/Sage) <br/>A cross-platform chess library for Swift | 292 |
+| 257. | [onmyway133/Scale](https://github.com/onmyway133/Scale) <br/>:flags: Unit converter in Swift | 290 |
+| 258. | [luispadron/UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing) <br/>A circular progress bar for iOS written in Swift 3 | 287 |
+| 259. | [hungtruong/TouchFart](https://github.com/hungtruong/TouchFart) <br/>A fart app for the new Macbook Pro's Touch Bar | 286 |
+| 260. | [BalestraPatrick/RealmVideo](https://github.com/BalestraPatrick/RealmVideo) <br/>An iOS app to watch Realm videos and slides on you... | 285 |
+| 261. | [6ag/BaoKanIOS](https://github.com/6ag/BaoKanIOS) <br/>已经上架：使用swift语言写的一款新闻资讯类的app | 285 |
+| 262. | [LunarFlash/Chaty](https://github.com/LunarFlash/C
