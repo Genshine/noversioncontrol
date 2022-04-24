@@ -222,4 +222,147 @@
 | 216. | [Tms157/Statsy](https://github.com/Tms157/Statsy) <br/>Statsy is a easy to use open source PHP tool for d... | 105 |
 | 217. | [nrkbeta/nrkbetaquiz](https://github.com/nrkbeta/nrkbetaquiz) <br/>Require the reader to pass a quiz before being abl... | 105 |
 | 218. | [danslo/CleanCheckout](https://github.com/danslo/CleanCheckout) <br/>A drop-in replacement for the Magento 2 checkout. | 105 |
-| 219. | [
+| 219. | [samrap/acf-fluent](https://github.com/samrap/acf-fluent) <br/>A fluent interface for the Advanced Custom Fields ... | 105 |
+| 220. | [overtrue/chinese-calendar](https://github.com/overtrue/chinese-calendar) <br/>:date: 中国农历（阴历）与阳历（公历）转换与查询工具 | 105 |
+| 221. | [ratiw/vuetable-2-with-laravel-5.4](https://github.com/ratiw/vuetable-2-with-laravel-5.4) <br/>Sample project using Vuetable-2 in Laravel 5.4 and... | 105 |
+| 222. | [codekerala/laravel-and-vue.js-spa-Recipe-Box](https://github.com/codekerala/laravel-and-vue.js-spa-Recipe-Box) <br/>Single Page Application with Laravel 5.4 and Vue.j... | 104 |
+| 223. | [PortSwigger/hackability](https://github.com/PortSwigger/hackability) <br/>Probe a rendering engine for vulnerabilities and o... | 104 |
+| 224. | [maysrp/yunBT](https://github.com/maysrp/yunBT) <br/>基于TP3.1的多用户BT离线下载 | 104 |
+| 225. | [summerblue/generator](https://github.com/summerblue/generator) <br/>Laravel 5.3+ Scaffold Generator, Support both boot... | 103 |
+| 226. | [Ucer/codehaoshi](https://github.com/Ucer/codehaoshi) <br/>code 好事源代码 | 103 |
+| 227. | [michaeldyrynda/laravel-model-uuid](https://github.com/michaeldyrynda/laravel-model-uuid) <br/>This package allows you to easily work with UUIDs ... | 103 |
+| 228. | [incredibleindishell/sqlite-lab](https://github.com/incredibleindishell/sqlite-lab) <br/>This code is vulnerable to SQL Injection and havin... | 102 |
+| 229. | [LibreTime/libretime](https://github.com/LibreTime/libretime) <br/>LibreTime: Radio Broadcast & Automation Platform | 101 |
+| 230. | [WaitMoonMan/easy-extends](https://github.com/WaitMoonMan/easy-extends) <br/>一个简单快速安装PHP扩展的程序 | 101 |
+| 231. | [antonioribeiro/google2fa-laravel](https://github.com/antonioribeiro/google2fa-laravel) <br/>A One Time Password Authentication package, compat... | 101 |
+| 232. | [balping/laravel-hashslug](https://github.com/balping/laravel-hashslug) <br/>Package providing a trait to use Hashids on a mode... | 101 |
+| 233. | [Bogdaan/viber-bot-php](https://github.com/Bogdaan/viber-bot-php) <br/>Php bot interface to work with Viber API | 100 |
+| 234. | [404labfr/laravel-auth-checker](https://github.com/404labfr/laravel-auth-checker) <br/>Laravel Auth Checker allows you to log users authe... | 100 |
+
+## Most-Starred Users: PHP
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [jupeter](https://github.com/jupeter)  | [clean-code-php](https://github.com/jupeter/clean-code-php)  (4737) <br/> | 4737 |
+| 2. | [overtrue](https://github.com/overtrue)  | [easy-sms](https://github.com/overtrue/easy-sms)  (656) <br/>[laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu)  (206) <br/>[flysystem-qiniu](https://github.com/overtrue/flysystem-qiniu)  (111) <br/>[chinese-calendar](https://github.com/overtrue/chinese-calendar)  (105) <br/> | 1078 |
+| 3. | [antonioribeiro](https://github.com/antonioribeiro)  | [countries](https://github.com/antonioribeiro/countries)  (744) <br/>[version](https://github.com/antonioribeiro/version)  (151) <br/>[google2fa-laravel](https://github.com/antonioribeiro/google2fa-laravel)  (101) <br/> | 996 |
+| 4. | [renatomarinho](https://github.com/renatomarinho)  | [laravel-page-speed](https://github.com/renatomarinho/laravel-page-speed)  (976) <br/> | 976 |
+| 5. | [thinkcmf](https://github.com/thinkcmf)  | [thinkcmf](https://github.com/thinkcmf/thinkcmf)  (772) <br/>[thinkcmfapi](https://github.com/thinkcmf/thinkcmfapi)  (118) <br/> | 890 |
+| 6. | [yansongda](https://github.com/yansongda)  | [pay](https://github.com/yansongda/pay)  (720) <br/>[laravel-pay](https://github.com/yansongda/laravel-pay)  (109) <br/> | 829 |
+| 7. | [honraytech](https://github.com/honraytech)  | [VueThink](https://github.com/honraytech/VueThink)  (676) <br/> | 676 |
+| 8. | [mikeerickson](https://github.com/mikeerickson)  | [phpunit-pretty-result-printer](https://github.com/mikeerickson/phpunit-pretty-result-printer)  (622) <br/> | 622 |
+| 9. | [nunomaduro](https://github.com/nunomaduro)  | [collision](https://github.com/nunomaduro/collision)  (592) <br/> | 592 |
+| 10. | [bmitch](https://github.com/bmitch)  | [churn-php](https://github.com/bmitch/churn-php)  (586) <br/> | 586 |
+| 11. | [themsaid](https://github.com/themsaid)  | [laravel-langman-gui](https://github.com/themsaid/laravel-langman-gui)  (409) <br/>[forge-sdk](https://github.com/themsaid/forge-sdk)  (177) <br/> | 586 |
+| 12. | [ausi](https://github.com/ausi)  | [slug-generator](https://github.com/ausi/slug-generator)  (583) <br/> | 583 |
+| 13. | [clarkeash](https://github.com/clarkeash)  | [doorman](https://github.com/clarkeash/doorman)  (573) <br/> | 573 |
+| 14. | [sebastianbergmann](https://github.com/sebastianbergmann)  | [object-graph](https://github.com/sebastianbergmann/object-graph)  (401) <br/>[object-reflector](https://github.com/sebastianbergmann/object-reflector)  (139) <br/> | 540 |
+| 15. | [Tuhinshubhra](https://github.com/Tuhinshubhra)  | [RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)  (531) <br/> | 531 |
+| 16. | [chakhsu](https://github.com/chakhsu)  | [pinghsu](https://github.com/chakhsu/pinghsu)  (520) <br/> | 520 |
+| 17. | [josephernest](https://github.com/josephernest)  | [Yopp](https://github.com/josephernest/Yopp)  (380) <br/>[TinyAnalytics](https://github.com/josephernest/TinyAnalytics)  (129) <br/> | 509 |
+| 18. | [kiddyuchina](https://github.com/kiddyuchina)  | [Beanbun](https://github.com/kiddyuchina/Beanbun)  (509) <br/> | 509 |
+| 19. | [stefanzweifel](https://github.com/stefanzweifel)  | [laravel-stats](https://github.com/stefanzweifel/laravel-stats)  (508) <br/> | 508 |
+| 20. | [TIGERB](https://github.com/TIGERB)  | [easy-php](https://github.com/TIGERB/easy-php)  (492) <br/> | 492 |
+| 21. | [PuShaoWei](https://github.com/PuShaoWei)  | [arithmetic-php](https://github.com/PuShaoWei/arithmetic-php)  (490) <br/> | 490 |
+| 22. | [ssrpanel](https://github.com/ssrpanel)  | [SSRPanel](https://github.com/ssrpanel/SSRPanel)  (446) <br/> | 446 |
+| 23. | [CalvinPPD](https://github.com/CalvinPPD)  | [ThinkPHP-wxpay](https://github.com/CalvinPPD/ThinkPHP-wxpay)  (231) <br/>[ExpressAPI](https://github.com/CalvinPPD/ExpressAPI)  (211) <br/> | 442 |
+| 24. | [zoujingli](https://github.com/zoujingli)  | [Think.Admin](https://github.com/zoujingli/Think.Admin)  (440) <br/> | 440 |
+| 25. | [easysoft](https://github.com/easysoft)  | [xuanxuan](https://github.com/easysoft/xuanxuan)  (437) <br/> | 437 |
+| 26. | [bastianallgeier](https://github.com/bastianallgeier)  | [letter](https://github.com/bastianallgeier/letter)  (405) <br/> | 405 |
+| 27. | [cretueusebiu](https://github.com/cretueusebiu)  | [laravel-vue-spa](https://github.com/cretueusebiu/laravel-vue-spa)  (395) <br/> | 395 |
+| 28. | [BadChoice](https://github.com/BadChoice)  | [handesk](https://github.com/BadChoice/handesk)  (394) <br/> | 394 |
+| 29. | [shadowhand](https://github.com/shadowhand)  | [latitude](https://github.com/shadowhand/latitude)  (374) <br/> | 374 |
+| 30. | [joeldg](https://github.com/joeldg)  | [bowhead](https://github.com/joeldg/bowhead)  (367) <br/> | 367 |
+| 31. | [bowu678](https://github.com/bowu678)  | [php_bugs](https://github.com/bowu678/php_bugs)  (361) <br/> | 361 |
+| 32. | [PavelLoparev](https://github.com/PavelLoparev)  | [design-patterns](https://github.com/PavelLoparev/design-patterns)  (348) <br/> | 348 |
+| 33. | [d8ahazard](https://github.com/d8ahazard)  | [Phlex](https://github.com/d8ahazard/Phlex)  (347) <br/> | 347 |
+| 34. | [hannob](https://github.com/hannob)  | [php-crashers](https://github.com/hannob/php-crashers)  (342) <br/>[optionsbleed](https://github.com/hannob/optionsbleed)  (109) <br/> | 342 |
+| 35. | [usmanhalalit](https://github.com/usmanhalalit)  | [laracsv](https://github.com/usmanhalalit/laracsv)  (332) <br/> | 332 |
+| 36. | [phanan](https://github.com/phanan)  | [kupo](https://github.com/phanan/kupo)  (330) <br/> | 330 |
+| 37. | [cong5](https://github.com/cong5)  | [myPersimmon](https://github.com/cong5/myPersimmon)  (318) <br/> | 318 |
+| 38. | [jakzal](https://github.com/jakzal)  | [phpqa](https://github.com/jakzal/phpqa)  (316) <br/> | 316 |
+| 39. | [zdhxiong](https://github.com/zdhxiong)  | [Material-Design-Chinese](https://github.com/zdhxiong/Material-Design-Chinese)  (298) <br/> | 298 |
+| 40. | [kcloze](https://github.com/kcloze)  | [swoole-bot](https://github.com/kcloze/swoole-bot)  (176) <br/>[multiprocess](https://github.com/kcloze/multiprocess)  (117) <br/> | 293 |
+| 41. | [albertcht](https://github.com/albertcht)  | [invisible-recaptcha](https://github.com/albertcht/invisible-recaptcha)  (283) <br/> | 283 |
+| 42. | [hasib32](https://github.com/hasib32)  | [rest-api-with-lumen](https://github.com/hasib32/rest-api-with-lumen)  (267) <br/> | 267 |
+| 43. | [goodnesskay](https://github.com/goodnesskay)  | [Laravel-Open-Source-Projects](https://github.com/goodnesskay/Laravel-Open-Source-Projects)  (266) <br/> | 266 |
+| 44. | [imanghafoori1](https://github.com/imanghafoori1)  | [laravel-widgetize](https://github.com/imanghafoori1/laravel-widgetize)  (255) <br/> | 255 |
+| 45. | [lijinma](https://github.com/lijinma)  | [wechat_spider](https://github.com/lijinma/wechat_spider)  (486) <br/>[laravel-scout-elastic-demo](https://github.com/lijinma/laravel-scout-elastic-demo)  (250) <br/> | 250 |
+| 46. | [richtabor](https://github.com/richtabor)  | [MerlinWP](https://github.com/richtabor/MerlinWP)  (239) <br/> | 239 |
+| 47. | [metowolf](https://github.com/metowolf)  | [Meting](https://github.com/metowolf/Meting)  (237) <br/> | 237 |
+| 48. | [SperkJJ](https://github.com/SperkJJ)  | [ThinkPHP5](https://github.com/SperkJJ/ThinkPHP5)  (230) <br/> | 230 |
+| 49. | [codekerala](https://github.com/codekerala)  | [spa-laravel-vuejs](https://github.com/codekerala/spa-laravel-vuejs)  (125) <br/>[laravel-and-vue.js-spa-Recipe-Box](https://github.com/codekerala/laravel-and-vue.js-spa-Recipe-Box)  (104) <br/> | 229 |
+| 50. | [dannyvankooten](https://github.com/dannyvankooten)  | [vat.php](https://github.com/dannyvankooten/vat.php)  (223) <br/> | 223 |
+| 51. | [ConsoleTVs](https://github.com/ConsoleTVs)  | [Bootpack](https://github.com/ConsoleTVs/Bootpack)  (216) <br/> | 216 |
+| 52. | [WaitMoonMan](https://github.com/WaitMoonMan)  | [qrcodeplus](https://github.com/WaitMoonMan/qrcodeplus)  (113) <br/>[easy-extends](https://github.com/WaitMoonMan/easy-extends)  (101) <br/> | 214 |
+| 53. | [interference-security](https://github.com/interference-security)  | [DVWS](https://github.com/interference-security/DVWS)  (202) <br/> | 202 |
+| 54. | [ganigeorgiev](https://github.com/ganigeorgiev)  | [presentator](https://github.com/ganigeorgiev/presentator)  (201) <br/> | 201 |
+| 55. | [adamwathan](https://github.com/adamwathan)  | [laracon2017](https://github.com/adamwathan/laracon2017)  (200) <br/> | 200 |
+| 56. | [PHPJunior](https://github.com/PHPJunior)  | [laravel-video-chat](https://github.com/PHPJunior/laravel-video-chat)  (199) <br/> | 199 |
+| 57. | [lizhichao](https://github.com/lizhichao)  | [VicWord](https://github.com/lizhichao/VicWord)  (198) <br/> | 198 |
+| 58. | [hollodotme](https://github.com/hollodotme)  | [fast-cgi-client](https://github.com/hollodotme/fast-cgi-client)  (197) <br/> | 197 |
+| 59. | [yTakkar](https://github.com/yTakkar)  | [Instagram-clone](https://github.com/yTakkar/Instagram-clone)  (196) <br/>[Go-Mini-Social-Network](https://github.com/yTakkar/Go-Mini-Social-Network)  (118) <br/> | 196 |
+| 60. | [DanielnetoDotCom](https://github.com/DanielnetoDotCom)  | [YouPHPTube](https://github.com/DanielnetoDotCom/YouPHPTube)  (195) <br/> | 195 |
+| 61. | [povils](https://github.com/povils)  | [phpmnd](https://github.com/povils/phpmnd)  (190) <br/> | 190 |
+| 62. | [slince](https://github.com/slince)  | [spike](https://github.com/slince/spike)  (188) <br/> | 188 |
+| 63. | [JellyBool](https://github.com/JellyBool)  | [zhihu-app](https://github.com/JellyBool/zhihu-app)  (186) <br/> | 186 |
+| 64. | [jimersylee](https://github.com/jimersylee)  | [Andromeda](https://github.com/jimersylee/Andromeda)  (185) <br/>[MachineLearningAction](https://github.com/jimersylee/MachineLearningAction)  (168) <br/>[DesignPattern](https://github.com/jimersylee/DesignPattern)  (161) <br/> | 185 |
+| 65. | [cuijun123](https://github.com/cuijun123)  | [phpDhtSpider](https://github.com/cuijun123/phpDhtSpider)  (182) <br/> | 182 |
+| 66. | [n7olkachev](https://github.com/n7olkachev)  | [laravel-computed-properties](https://github.com/n7olkachev/laravel-computed-properties)  (178) <br/> | 178 |
+| 67. | [furey](https://github.com/furey)  | [tinx](https://github.com/furey/tinx)  (175) <br/> | 175 |
+| 68. | [fucongcong](https://github.com/fucongcong)  | [GroupCo](https://github.com/fucongcong/GroupCo)  (173) <br/> | 173 |
+| 69. | [ElfSundae](https://github.com/ElfSundae)  | [laravel-hashid](https://github.com/ElfSundae/laravel-hashid)  (171) <br/> | 171 |
+| 70. | [basemkhirat](https://github.com/basemkhirat)  | [elasticsearch](https://github.com/basemkhirat/elasticsearch)  (170) <br/> | 170 |
+| 71. | [ksassnowski](https://github.com/ksassnowski)  | [laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models)  (170) <br/> | 170 |
+| 72. | [kilroyweb](https://github.com/kilroyweb)  | [homeboy](https://github.com/kilroyweb/homeboy)  (168) <br/> | 168 |
+| 73. | [basicmi](https://github.com/basicmi)  | [Deep-Learning-Processor-List](https://github.com/basicmi/Deep-Learning-Processor-List)  (165) <br/> | 165 |
+| 74. | [GeekGhc](https://github.com/GeekGhc)  | [zhihu-app](https://github.com/GeekGhc/zhihu-app)  (164) <br/> | 164 |
+| 75. | [yedincisenol](https://github.com/yedincisenol)  | [laravel-api-startup](https://github.com/yedincisenol/laravel-api-startup)  (163) <br/> | 163 |
+| 76. | [Rianley](https://github.com/Rianley)  | [tool](https://github.com/Rianley/tool)  (163) <br/>[python-study](https://github.com/Rianley/python-study)  (145) <br/>[project](https://github.com/Rianley/project)  (143) <br/> | 163 |
+| 77. | [duoergun0729](https://github.com/duoergun0729)  | [1book](https://github.com/duoergun0729/1book)  (158) <br/> | 158 |
+| 78. | [xu42](https://github.com/xu42)  | [pay](https://github.com/xu42/pay)  (155) <br/> | 155 |
+| 79. | [daveearley](https://github.com/daveearley)  | [Email-Validation-Tool](https://github.com/daveearley/Email-Validation-Tool)  (151) <br/> | 151 |
+| 80. | [apanly](https://github.com/apanly)  | [mooc](https://github.com/apanly/mooc)  (151) <br/> | 151 |
+| 81. | [vamsiikrishna](https://github.com/vamsiikrishna)  | [vex](https://github.com/vamsiikrishna/vex)  (150) <br/> | 150 |
+| 82. | [mdsimpson](https://github.com/mdsimpson)  | [contact-form-7-to-database-extension](https://github.com/mdsimpson/contact-form-7-to-database-extension)  (149) <br/> | 149 |
+| 83. | [bvanhoekelen](https://github.com/bvanhoekelen)  | [performance](https://github.com/bvanhoekelen/performance)  (149) <br/> | 149 |
+| 84. | [ToyoDAdoubi](https://github.com/ToyoDAdoubi)  | [DirectoryLister](https://github.com/ToyoDAdoubi/DirectoryLister)  (147) <br/> | 147 |
+| 85. | [BrainMaestro](https://github.com/BrainMaestro)  | [composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks)  (147) <br/> | 147 |
+| 86. | [Yurunsoft](https://github.com/Yurunsoft)  | [PaySDK](https://github.com/Yurunsoft/PaySDK)  (147) <br/> | 147 |
+| 87. | [liaoziyang](https://github.com/liaoziyang)  | [ContentAssist](https://github.com/liaoziyang/ContentAssist)  (160) <br/>[HolidayDateTime](https://github.com/liaoziyang/HolidayDateTime)  (147) <br/>[Stanford-OpenIE-Spider](https://github.com/liaoziyang/Stanford-OpenIE-Spider)  (131) <br/>[negapoji](https://github.com/liaoziyang/negapoji)  (129) <br/> | 147 |
+| 88. | [tuupola](https://github.com/tuupola)  | [server-timing-middleware](https://github.com/tuupola/server-timing-middleware)  (146) <br/> | 146 |
+| 89. | [Shipu](https://github.com/Shipu)  | [themevel](https://github.com/Shipu/themevel)  (145) <br/> | 145 |
+| 90. | [jplhomer](https://github.com/jplhomer)  | [laravel-realtime-chat-demo](https://github.com/jplhomer/laravel-realtime-chat-demo)  (145) <br/> | 145 |
+| 91. | [BrandonShar](https://github.com/BrandonShar)  | [stack-overflow-buddy](https://github.com/BrandonShar/stack-overflow-buddy)  (145) <br/> | 145 |
+| 92. | [kjdion84](https://github.com/kjdion84)  | [turtle](https://github.com/kjdion84/turtle)  (144) <br/> | 144 |
+| 93. | [mark-gerarts](https://github.com/mark-gerarts)  | [automapper-plus](https://github.com/mark-gerarts/automapper-plus)  (140) <br/> | 140 |
+| 94. | [inhere](https://github.com/inhere)  | [php-console](https://github.com/inhere/php-console)  (139) <br/> | 139 |
+| 95. | [manton](https://github.com/manton)  | [jsonfeed-wp](https://github.com/manton/jsonfeed-wp)  (139) <br/> | 139 |
+| 96. | [theseer](https://github.com/theseer)  | [tokenizer](https://github.com/theseer/tokenizer)  (137) <br/> | 137 |
+| 97. | [lambdacasserole](https://github.com/lambdacasserole)  | [avogadrio](https://github.com/lambdacasserole/avogadrio)  (136) <br/> | 136 |
+| 98. | [geesondog](https://github.com/geesondog)  | [rhaphp](https://github.com/geesondog/rhaphp)  (136) <br/> | 136 |
+| 99. | [2501224066](https://github.com/2501224066)  | [laravel5test](https://github.com/2501224066/laravel5test)  (133) <br/> | 133 |
+| 100. | [ly2513](https://github.com/ly2513)  | [YPPHP](https://github.com/ly2513/YPPHP)  (133) <br/> | 133 |
+| 101. | [guyueyingmu](https://github.com/guyueyingmu)  | [avbook](https://github.com/guyueyingmu/avbook)  (132) <br/> | 132 |
+| 102. | [guillaumebriday](https://github.com/guillaumebriday)  | [laravel-blog](https://github.com/guillaumebriday/laravel-blog)  (131) <br/> | 131 |
+| 103. | [Bo0oM](https://github.com/Bo0oM)  | [CVE-2017-5124](https://github.com/Bo0oM/CVE-2017-5124)  (131) <br/> | 131 |
+| 104. | [xcg340122](https://github.com/xcg340122)  | [PHP300Framework2.0](https://github.com/xcg340122/PHP300Framework2.0)  (129) <br/> | 129 |
+| 105. | [tomschlick](https://github.com/tomschlick)  | [request-migrations](https://github.com/tomschlick/request-migrations)  (129) <br/> | 129 |
+| 106. | [akiyamaSM](https://github.com/akiyamaSM)  | [messager](https://github.com/akiyamaSM/messager)  (123) <br/> | 123 |
+| 107. | [mpociot](https://github.com/mpociot)  | [laravel-face-auth](https://github.com/mpociot/laravel-face-auth)  (122) <br/> | 122 |
+| 108. | [DukeAnn](https://github.com/DukeAnn)  | [Laradmin](https://github.com/DukeAnn/Laradmin)  (122) <br/> | 122 |
+| 109. | [HanSon](https://github.com/HanSon)  | [speedy](https://github.com/HanSon/speedy)  (121) <br/> | 121 |
+| 110. | [dotneet](https://github.com/dotneet)  | [bpush](https://github.com/dotneet/bpush)  (118) <br/> | 118 |
+| 111. | [qq8044023](https://github.com/qq8044023)  | [taskPHP](https://github.com/qq8044023/taskPHP)  (116) <br/> | 116 |
+| 112. | [xoco70](https://github.com/xoco70)  | [laravel-tournaments](https://github.com/xoco70/laravel-tournaments)  (112) <br/> | 112 |
+| 113. | [mumu731](https://github.com/mumu731)  | [yun](https://github.com/mumu731/yun)  (112) <br/> | 112 |
+| 114. | [reshadman](https://github.com/reshadman)  | [file-secretary](https://github.com/reshadman/file-secretary)  (109) <br/> | 109 |
+| 115. | [devingray](https://github.com/devingray)  | [laravel-api-boilerplate](https://github.com/devingray/laravel-api-boilerplate)  (108) <br/> | 108 |
+| 116. | [Seaony](https://github.com/Seaony)  | [Hunt](https://github.com/Seaony/Hunt)  (107) <br/> | 107 |
+| 117. | [bennettfeely](https://github.com/bennettfeely)  | [csscreatures](https://github.com/bennettfeely/csscreatures)  (106) <br/> | 106 |
+| 118. | [danslo](https://github.com/danslo)  | [CleanCheckout](https://github.com/danslo/CleanCheckout)  (105) <br/> | 105 |
+| 119. | [Tms157](https://github.com/Tms157)  | [Statsy](https://github.com/Tms157/Statsy)  (105) <br/> | 105 |
+| 120. | [ratiw](https://github.com/ratiw)  | [vuetable-2-with-laravel-5.4](https://github.com/ratiw/vuetable-2-with-laravel-5.4)  (105) <br/> | 105 |
+| 121. | [nrkbeta](https://github.com/nrkbeta)  | [nrkbetaquiz](https://github.com/nrkbeta/nrkbetaquiz)  (105) <br/> | 105 |
+| 122. | [samrap](https://github.com/samrap)  | [acf-fluent](https://github.com/samrap/acf-fluent)  (105) <br/> | 105 |
+| 123. | [maysrp](https://github.com/maysrp)  | [yunBT](https://github.com/maysrp/yunBT)  (104) <br/> | 1
