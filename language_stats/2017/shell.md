@@ -188,4 +188,121 @@
 | 10. | [arzzen](https://github.com/arzzen)  | [git-quick-stats](https://github.com/arzzen/git-quick-stats)  (1390) <br/> | 1390 |
 | 11. | [opsnull](https://github.com/opsnull)  | [follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster)  (1183) <br/> | 1183 |
 | 12. | [pch](https://github.com/pch)  | [welder](https://github.com/pch/welder)  (1138) <br/> | 1138 |
-| 13. | [adieuadieu](https://github.com/adieuadieu)  | [serverless-chrome](https://github.com/adieuadieu/serverless-chrome)  (10
+| 13. | [adieuadieu](https://github.com/adieuadieu)  | [serverless-chrome](https://github.com/adieuadieu/serverless-chrome)  (1049) <br/> | 1049 |
+| 14. | [rootsongjc](https://github.com/rootsongjc)  | [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)  (1034) <br/> | 1034 |
+| 15. | [robertfoss](https://github.com/robertfoss)  | [audio_shop](https://github.com/robertfoss/audio_shop)  (844) <br/> | 844 |
+| 16. | [ivanilves](https://github.com/ivanilves)  | [xiringuito](https://github.com/ivanilves/xiringuito)  (770) <br/>[lstags](https://github.com/ivanilves/lstags)  (141) <br/> | 770 |
+| 17. | [samtap](https://github.com/samtap)  | [fang-hacks](https://github.com/samtap/fang-hacks)  (764) <br/> | 764 |
+| 18. | [Cyclenerd](https://github.com/Cyclenerd)  | [ethereum_nvidia_miner](https://github.com/Cyclenerd/ethereum_nvidia_miner)  (549) <br/>[static_status](https://github.com/Cyclenerd/static_status)  (151) <br/> | 700 |
+| 19. | [ToyoDAdoubi](https://github.com/ToyoDAdoubi)  | [doubi](https://github.com/ToyoDAdoubi/doubi)  (678) <br/>[DirectoryLister](https://github.com/ToyoDAdoubi/DirectoryLister)  (147) <br/> | 678 |
+| 20. | [jasonGeng88](https://github.com/jasonGeng88)  | [blog](https://github.com/jasonGeng88/blog)  (638) <br/> | 638 |
+| 21. | [arismelachroinos](https://github.com/arismelachroinos)  | [lscript](https://github.com/arismelachroinos/lscript)  (607) <br/> | 607 |
+| 22. | [cryptolok](https://github.com/cryptolok)  | [ASLRay](https://github.com/cryptolok/ASLRay)  (216) <br/>[GhostInTheNet](https://github.com/cryptolok/GhostInTheNet)  (184) <br/>[CryKeX](https://github.com/cryptolok/CryKeX)  (174) <br/> | 574 |
+| 23. | [fatihacet](https://github.com/fatihacet)  | [turkcekaynaklar-com](https://github.com/fatihacet/turkcekaynaklar-com)  (496) <br/>[vuejs-videolari](https://github.com/fatihacet/vuejs-videolari)  (109) <br/> | 496 |
+| 24. | [slashiee](https://github.com/slashiee)  | [cemu_graphic_packs](https://github.com/slashiee/cemu_graphic_packs)  (483) <br/> | 483 |
+| 25. | [jcsalterego](https://github.com/jcsalterego)  | [historian](https://github.com/jcsalterego/historian)  (472) <br/> | 472 |
+| 26. | [DenizParlak](https://github.com/DenizParlak)  | [Zeus](https://github.com/DenizParlak/Zeus)  (457) <br/> | 457 |
+| 27. | [fractalwrench](https://github.com/fractalwrench)  | [ApkGolf](https://github.com/fractalwrench/ApkGolf)  (435) <br/> | 435 |
+| 28. | [Langhalsdino](https://github.com/Langhalsdino)  | [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)  (425) <br/> | 425 |
+| 29. | [reinterpretcat](https://github.com/reinterpretcat)  | [lfs](https://github.com/reinterpretcat/lfs)  (423) <br/> | 423 |
+| 30. | [larkery](https://github.com/larkery)  | [zsh-histdb](https://github.com/larkery/zsh-histdb)  (409) <br/> | 409 |
+| 31. | [Screetsec](https://github.com/Screetsec)  | [Microsploit](https://github.com/Screetsec/Microsploit)  (282) <br/>[BruteSploit](https://github.com/Screetsec/BruteSploit)  (111) <br/> | 393 |
+| 32. | [ahmetb](https://github.com/ahmetb)  | [kubectx](https://github.com/ahmetb/kubectx)  (388) <br/>[kubectl-aliases](https://github.com/ahmetb/kubectl-aliases)  (160) <br/> | 388 |
+| 33. | [flplv](https://github.com/flplv)  | [ssh-allow-friend](https://github.com/flplv/ssh-allow-friend)  (367) <br/> | 367 |
+| 34. | [onekeyshell](https://github.com/onekeyshell)  | [kcptun_for_ss_ssr](https://github.com/onekeyshell/kcptun_for_ss_ssr)  (359) <br/> | 359 |
+| 35. | [vincentchu](https://github.com/vincentchu)  | [eth-private-net](https://github.com/vincentchu/eth-private-net)  (350) <br/> | 350 |
+| 36. | [r00t-3xp10it](https://github.com/r00t-3xp10it)  | [FakeImageExploiter](https://github.com/r00t-3xp10it/FakeImageExploiter)  (204) <br/>[Meterpreter_Paranoid_Mode-SSL](https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL)  (134) <br/> | 338 |
+| 37. | [jessfraz](https://github.com/jessfraz)  | [k8s-snowflake](https://github.com/jessfraz/k8s-snowflake)  (337) <br/>[amicontained](https://github.com/jessfraz/amicontained)  (284) <br/>[sshb0t](https://github.com/jessfraz/sshb0t)  (120) <br/> | 337 |
+| 38. | [kelseyhightower](https://github.com/kelseyhightower)  | [nomad-on-kubernetes](https://github.com/kelseyhightower/nomad-on-kubernetes)  (173) <br/>[kubernetes-initializer-tutorial](https://github.com/kelseyhightower/kubernetes-initializer-tutorial)  (157) <br/>[istio-ingress-tutorial](https://github.com/kelseyhightower/istio-ingress-tutorial)  (156) <br/>[standalone-kubelet-tutorial](https://github.com/kelseyhightower/standalone-kubelet-tutorial)  (114) <br/> | 329 |
+| 39. | [goreliu](https://github.com/goreliu)  | [zshguide](https://github.com/goreliu/zshguide)  (325) <br/> | 325 |
+| 40. | [vmavromatis](https://github.com/vmavromatis)  | [gnome-layout-manager](https://github.com/vmavromatis/gnome-layout-manager)  (295) <br/> | 295 |
+| 41. | [keith](https://github.com/keith)  | [swift-staticlibs](https://github.com/keith/swift-staticlibs)  (279) <br/> | 279 |
+| 42. | [kalbhor](https://github.com/kalbhor)  | [thirsty](https://github.com/kalbhor/thirsty)  (272) <br/> | 272 |
+| 43. | [dtcooper](https://github.com/dtcooper)  | [raspotify](https://github.com/dtcooper/raspotify)  (272) <br/> | 272 |
+| 44. | [0xM3R](https://github.com/0xM3R)  | [cgPwn](https://github.com/0xM3R/cgPwn)  (271) <br/> | 271 |
+| 45. | [kuoruan](https://github.com/kuoruan)  | [shell-scripts](https://github.com/kuoruan/shell-scripts)  (244) <br/> | 244 |
+| 46. | [vitaly-kamluk](https://github.com/vitaly-kamluk)  | [bitscout](https://github.com/vitaly-kamluk/bitscout)  (236) <br/> | 236 |
+| 47. | [DylanHamer](https://github.com/DylanHamer)  | [DebianKindle](https://github.com/DylanHamer/DebianKindle)  (235) <br/> | 235 |
+| 48. | [milesrichardson](https://github.com/milesrichardson)  | [docker-onion-nmap](https://github.com/milesrichardson/docker-onion-nmap)  (232) <br/> | 232 |
+| 49. | [greymd](https://github.com/greymd)  | [tmux-xpanes](https://github.com/greymd/tmux-xpanes)  (232) <br/> | 232 |
+| 50. | [evertramos](https://github.com/evertramos)  | [docker-compose-letsencrypt-nginx-proxy-companion](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion)  (231) <br/> | 231 |
+| 51. | [jkpang](https://github.com/jkpang)  | [PPRows](https://github.com/jkpang/PPRows)  (869) <br/>[PPBadgeView](https://github.com/jkpang/PPBadgeView)  (395) <br/>[PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript)  (224) <br/> | 224 |
+| 52. | [nenadg](https://github.com/nenadg)  | [docker-unity3d](https://github.com/nenadg/docker-unity3d)  (217) <br/> | 217 |
+| 53. | [stockmind](https://github.com/stockmind)  | [gpd-pocket-ubuntu-respin](https://github.com/stockmind/gpd-pocket-ubuntu-respin)  (211) <br/> | 211 |
+| 54. | [cokebar](https://github.com/cokebar)  | [gfwlist2dnsmasq](https://github.com/cokebar/gfwlist2dnsmasq)  (210) <br/> | 210 |
+| 55. | [gjmzj](https://github.com/gjmzj)  | [kubeasz](https://github.com/gjmzj/kubeasz)  (200) <br/> | 200 |
+| 56. | [iam4x](https://github.com/iam4x)  | [zsh-iterm-touchbar](https://github.com/iam4x/zsh-iterm-touchbar)  (200) <br/> | 200 |
+| 57. | [marcosscriven](https://github.com/marcosscriven)  | [galeforce](https://github.com/marcosscriven/galeforce)  (199) <br/> | 199 |
+| 58. | [sebastiencs](https://github.com/sebastiencs)  | [icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal)  (195) <br/> | 195 |
+| 59. | [BaReinhard](https://github.com/BaReinhard)  | [Super-Simple-Raspberry-Pi-Audio-Receiver-Install](https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install)  (194) <br/> | 194 |
+| 60. | [njhartwell](https://github.com/njhartwell)  | [pw3nage](https://github.com/njhartwell/pw3nage)  (194) <br/> | 194 |
+| 61. | [yukinying](https://github.com/yukinying)  | [chrome-headless-browser-docker](https://github.com/yukinying/chrome-headless-browser-docker)  (194) <br/> | 194 |
+| 62. | [Xeoncross](https://github.com/Xeoncross)  | [macappshell](https://github.com/Xeoncross/macappshell)  (182) <br/> | 182 |
+| 63. | [ChristopherA](https://github.com/ChristopherA)  | [Learning-Bitcoin-from-the-Command-Line](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line)  (180) <br/> | 180 |
+| 64. | [jakewmeyer](https://github.com/jakewmeyer)  | [Geo](https://github.com/jakewmeyer/Geo)  (176) <br/>[Ruby-Scripts](https://github.com/jakewmeyer/Ruby-Scripts)  (171) <br/> | 176 |
+| 65. | [offensive-security](https://github.com/offensive-security)  | [exploit-database-papers](https://github.com/offensive-security/exploit-database-papers)  (170) <br/> | 170 |
+| 66. | [gaoyifan](https://github.com/gaoyifan)  | [china-operator-ip](https://github.com/gaoyifan/china-operator-ip)  (168) <br/> | 168 |
+| 67. | [bntzio](https://github.com/bntzio)  | [wipe-modules](https://github.com/bntzio/wipe-modules)  (163) <br/> | 163 |
+| 68. | [ajkis](https://github.com/ajkis)  | [scripts](https://github.com/ajkis/scripts)  (162) <br/> | 162 |
+| 69. | [linhua55](https://github.com/linhua55)  | [lkl_study](https://github.com/linhua55/lkl_study)  (162) <br/> | 162 |
+| 70. | [stackhou](https://github.com/stackhou)  | [iOS11-Adaptation](https://github.com/stackhou/iOS11-Adaptation)  (258) <br/>[WeChatPlugin-iOS](https://github.com/stackhou/WeChatPlugin-iOS)  (165) <br/>[SwiftProgressHUD](https://github.com/stackhou/SwiftProgressHUD)  (160) <br/>[AutoPacking-iOS](https://github.com/stackhou/AutoPacking-iOS)  (160) <br/>[YJLocationConverter](https://github.com/stackhou/YJLocationConverter)  (154) <br/>[ElegantTableView](https://github.com/stackhou/ElegantTableView)  (131) <br/>[YJCategories](https://github.com/stackhou/YJCategories)  (113) <br/> | 160 |
+| 71. | [jobertabma](https://github.com/jobertabma)  | [ground-control](https://github.com/jobertabma/ground-control)  (232) <br/>[recon.sh](https://github.com/jobertabma/recon.sh)  (159) <br/>[virtual-host-discovery](https://github.com/jobertabma/virtual-host-discovery)  (111) <br/> | 159 |
+| 72. | [pavanjadhaw](https://github.com/pavanjadhaw)  | [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)  (151) <br/> | 151 |
+| 73. | [tadfisher](https://github.com/tadfisher)  | [pass-otp](https://github.com/tadfisher/pass-otp)  (150) <br/> | 150 |
+| 74. | [corbindavenport](https://github.com/corbindavenport)  | [creative-cloud-linux](https://github.com/corbindavenport/creative-cloud-linux)  (149) <br/> | 149 |
+| 75. | [allgamesallfree](https://github.com/allgamesallfree)  | [ScreenType](https://github.com/allgamesallfree/ScreenType)  (149) <br/> | 149 |
+| 76. | [aliasmee](https://github.com/aliasmee)  | [alpine-ikev2-vpn](https://github.com/aliasmee/alpine-ikev2-vpn)  (149) <br/> | 149 |
+| 77. | [dunglas](https://github.com/dunglas)  | [symfony-docker](https://github.com/dunglas/symfony-docker)  (149) <br/> | 149 |
+| 78. | [sebmarkbage](https://github.com/sebmarkbage)  | [ocamlrun-wasm](https://github.com/sebmarkbage/ocamlrun-wasm)  (148) <br/> | 148 |
+| 79. | [Admin9705](https://github.com/Admin9705)  | [PlexGuide.com-The-Awesome-Plex-Server](https://github.com/Admin9705/PlexGuide.com-The-Awesome-Plex-Server)  (148) <br/> | 148 |
+| 80. | [joshlong](https://github.com/joshlong)  | [flux-flix-service](https://github.com/joshlong/flux-flix-service)  (144) <br/> | 144 |
+| 81. | [geraldoramos](https://github.com/geraldoramos)  | [crypto-bar](https://github.com/geraldoramos/crypto-bar)  (214) <br/>[pigeon](https://github.com/geraldoramos/pigeon)  (141) <br/> | 141 |
+| 82. | [sobolevn](https://github.com/sobolevn)  | [dotfiles](https://github.com/sobolevn/dotfiles)  (135) <br/> | 135 |
+| 83. | [M4sc3r4n0](https://github.com/M4sc3r4n0)  | [Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid)  (132) <br/> | 132 |
+| 84. | [jgamblin](https://github.com/jgamblin)  | [MacOS-Maid](https://github.com/jgamblin/MacOS-Maid)  (132) <br/> | 132 |
+| 85. | [bitvijays](https://github.com/bitvijays)  | [Pentest-Scripts](https://github.com/bitvijays/Pentest-Scripts)  (128) <br/> | 128 |
+| 86. | [changyuheng](https://github.com/changyuheng)  | [fz](https://github.com/changyuheng/fz)  (127) <br/> | 127 |
+| 87. | [maldevel](https://github.com/maldevel)  | [canisrufus](https://github.com/maldevel/canisrufus)  (138) <br/>[PenTestKit](https://github.com/maldevel/PenTestKit)  (123) <br/> | 123 |
+| 88. | [Mr-Linus](https://github.com/Mr-Linus)  | [geekcloud](https://github.com/Mr-Linus/geekcloud)  (151) <br/>[Install-Python3-Bash](https://github.com/Mr-Linus/Install-Python3-Bash)  (121) <br/> | 121 |
+| 89. | [suaefar](https://github.com/suaefar)  | [ryzen-test](https://github.com/suaefar/ryzen-test)  (120) <br/> | 120 |
+| 90. | [1N3](https://github.com/1N3)  | [ReverseAPK](https://github.com/1N3/ReverseAPK)  (120) <br/> | 120 |
+| 91. | [elizabethsiegle](https://github.com/elizabethsiegle)  | [Bay_Area_tech_meetups](https://github.com/elizabethsiegle/Bay_Area_tech_meetups)  (119) <br/> | 119 |
+| 92. | [MichaelAquilina](https://github.com/MichaelAquilina)  | [zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use)  (118) <br/> | 118 |
+| 93. | [sindresorhus](https://github.com/sindresorhus)  | [create-dmg](https://github.com/sindresorhus/create-dmg)  (2039) <br/>[touch-bar-simulator](https://github.com/sindresorhus/touch-bar-simulator)  (684) <br/>[p-progress](https://github.com/sindresorhus/p-progress)  (672) <br/>[on-change](https://github.com/sindresorhus/on-change)  (667) <br/>[copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard)  (463) <br/>[emittery](https://github.com/sindresorhus/emittery)  (453) <br/>[conduct](https://github.com/sindresorhus/conduct)  (295) <br/>[LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin)  (286) <br/>[refined-twitter](https://github.com/sindresorhus/refined-twitter)  (260) <br/>[escape-goat](https://github.com/sindresorhus/escape-goat)  (251) <br/>[make-dir](https://github.com/sindresorhus/make-dir)  (241) <br/>[lock-cli](https://github.com/sindresorhus/lock-cli)  (216) <br/>[blear](https://github.com/sindresorhus/blear)  (199) <br/>[p-event](https://github.com/sindresorhus/p-event)  (196) <br/>[electron-util](https://github.com/sindresorhus/electron-util)  (172) <br/>[quick-lru](https://github.com/sindresorhus/quick-lru)  (133) <br/>[gh-latest-repos](https://github.com/sindresorhus/gh-latest-repos)  (121) <br/>[macos-lock](https://github.com/sindresorhus/macos-lock)  (117) <br/>[pupa](https://github.com/sindresorhus/pupa)  (116) <br/> | 117 |
+| 94. | [xl-tech](https://github.com/xl-tech)  | [OpenVPN-easy-setup](https://github.com/xl-tech/OpenVPN-easy-setup)  (117) <br/> | 117 |
+| 95. | [lavalamp-](https://github.com/lavalamp-)  | [ws-docker-community](https://github.com/lavalamp-/ws-docker-community)  (116) <br/> | 116 |
+| 96. | [addy-dclxvi](https://github.com/addy-dclxvi)  | [almighty-dotfiles](https://github.com/addy-dclxvi/almighty-dotfiles)  (115) <br/> | 115 |
+| 97. | [OMGZui](https://github.com/OMGZui)  | [bash-step-to-step](https://github.com/OMGZui/bash-step-to-step)  (115) <br/> | 115 |
+| 98. | [daliansky](https://github.com/daliansky)  | [XiaoMi-Pro](https://github.com/daliansky/XiaoMi-Pro)  (114) <br/> | 114 |
+| 99. | [oooldking](https://github.com/oooldking)  | [script](https://github.com/oooldking/script)  (114) <br/> | 114 |
+| 100. | [Unbinilium](https://github.com/Unbinilium)  | [Twist](https://github.com/Unbinilium/Twist)  (112) <br/> | 112 |
+| 101. | [LisonFan](https://github.com/LisonFan)  | [china_ip_list](https://github.com/LisonFan/china_ip_list)  (111) <br/> | 111 |
+| 102. | [zx2c4](https://github.com/zx2c4)  | [password-store](https://github.com/zx2c4/password-store)  (110) <br/> | 110 |
+| 103. | [stefanprodan](https://github.com/stefanprodan)  | [swarmprom](https://github.com/stefanprodan/swarmprom)  (110) <br/> | 110 |
+| 104. | [wismna](https://github.com/wismna)  | [HackPi](https://github.com/wismna/HackPi)  (109) <br/> | 109 |
+| 105. | [003random](https://github.com/003random)  | [003Recon](https://github.com/003random/003Recon)  (109) <br/> | 109 |
+| 106. | [rolandguelle](https://github.com/rolandguelle)  | [razer-blade-stealth-linux](https://github.com/rolandguelle/razer-blade-stealth-linux)  (104) <br/> | 104 |
+| 107. | [turkenh](https://github.com/turkenh)  | [ansible-interactive-tutorial](https://github.com/turkenh/ansible-interactive-tutorial)  (104) <br/> | 104 |
+| 108. | [trustedsec](https://github.com/trustedsec)  | [trevorc2](https://github.com/trustedsec/trevorc2)  (245) <br/>[nps_payload](https://github.com/trustedsec/nps_payload)  (149) <br/>[hardcidr](https://github.com/trustedsec/hardcidr)  (102) <br/> | 102 |
+| 109. | [kahkhang](https://github.com/kahkhang)  | [kube-linode](https://github.com/kahkhang/kube-linode)  (102) <br/> | 102 |
+| 110. | [peterpt](https://github.com/peterpt)  | [eternal_scanner](https://github.com/peterpt/eternal_scanner)  (102) <br/> | 102 |
+| 111. | [diguage](https://github.com/diguage)  | [mysql-notes](https://github.com/diguage/mysql-notes)  (102) <br/> | 102 |
+| 112. | [historicvally](https://github.com/historicvally)  | [springcloudComplete](https://github.com/historicvally/springcloudComplete)  (100) <br/> | 100 |
+| 113. | [shipcod3](https://github.com/shipcod3)  | [mazda_getInfo](https://github.com/shipcod3/mazda_getInfo)  (100) <br/> | 100 |
+
+## Most-Starred Orgs: Shell
+
+| | Org | Repos | Stars |
+|---|---|---|---|
+| 1. | [vulhub](https://github.com/vulhub)  | [vulhub](https://github.com/vulhub/vulhub)  (1225) <br/> | 1225 |
+| 2. | [postmarketOS](https://github.com/postmarketOS)  | [pmbootstrap](https://github.com/postmarketOS/pmbootstrap)  (763) <br/> | 763 |
+| 3. | [FluxionNetwork](https://github.com/FluxionNetwork)  | [fluxion](https://github.com/FluxionNetwork/fluxion)  (690) <br/> | 690 |
+| 4. | [rainglow](https://github.com/rainglow)  | [vscode](https://github.com/rainglow/vscode)  (391) <br/>[jetbrains](https://github.com/rainglow/jetbrains)  (108) <br/> | 499 |
+| 5. | [10up](https://github.com/10up)  | [wp-local-docker](https://github.com/10up/wp-local-docker)  (459) <br/> | 459 |
+| 6. | [shipping-docker](https://github.com/shipping-docker)  | [vessel](https://github.com/shipping-docker/vessel)  (381) <br/> | 381 |
+| 7. | [kubernetes](https://github.com/kubernetes)  | [autoscaler](https://github.com/kubernetes/autoscaler)  (359) <br/>[examples](https://github.com/kubernetes/examples)  (353) <br/> | 353 |
+| 8. | [rust-lang-nursery](https://github.com/rust-lang-nursery)  | [rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook)  (432) <br/>[api-guidelines](https://github.com/rust-lang-nursery/api-guidelines)  (344) <br/> | 344 |
+| 9. | [gradle](https://github.com/gradle)  | [gradle-completion](https://github.com/gradle/gradle-completion)  (325) <br/> | 325 |
+| 10. | [wangdoc](https://github.com/wangdoc)  | [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)  (311) <br/> | 311 |
+| 11. | [ApolloAuto](https://github.com/ApolloAuto)  | [apollo](https://github.com/ApolloAuto/apollo)  (7010) <br/>[apollo-platform](https://github.com/ApolloAuto/apollo-platform)  (322) <br/>[apollo-kernel](https://github.com/ApolloAuto/apollo-kernel)  (267) <br/> | 267 |
+| 12. | [fossasia](https://github.com/fossasia)  | [susi_iOS](https://github.com/fossasia/susi_iOS)  (324) <br/>[open-event-frontend](https://github.com/fossasia/open-event-frontend)  (231) <br/>[badgeyay](https://github.com/fossasia/badgeyay)  (226) <br/>[yaydoc](https://github.com/fossasia/yaydoc)  (212) <br/>[pslab-android](https://github.com/fossasia/pslab-android)  (211) <br/>[susi_skill_cms](https://github.com/fossasia/susi_skill_cms)  (174) <br/>[susi_chromebot](https://github.com/fossasia/susi_chromebot)  (169) <br/>[meilix-generator](https://github.com/fossasia/meilix-generator)  (156) <br/>[susi_desktop](https://github.com/fossasia/susi_desktop)  (154) <br/>[star-me](https://github.com/fossasia/star-me)  (152) <br/>[susi_firefoxbot](https://github.com/fossasia/susi_firefoxbot)  (149) <br/>[susi_linux](https://github.com/fossasia/susi_linux)  (145) <br/>[pslab-firmware](https://github.com/fossasia/pslab-firmware)  (145) <br/>[susi.ai](https://github.com/fossasia/susi.ai)  (140) <br/>[accounts.susi.ai](https://github.com/fossasia/accounts.susi.ai)  (139) <br/>[loklak_scraper_js](https://github.com/fossasia/loklak_scraper_js)  (136) <br/>[susi_api_wrapper](https://github.com/fossasia/susi_api_wrapper)  (136) <br/>[zooracle](https://github.com/fossasia/zooracle)  (132) <br/>[susi_viberbot](https://github.com/fossasia/susi_viberbot)  (131) <br/>[susi_gitterbot](https://
