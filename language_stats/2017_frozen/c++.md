@@ -186,4 +186,166 @@
 | 180. | [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) <br/>An unidentifiable mechanism that helps you bypass ... | 176 |
 | 181. | [everettjf/MachOExplorer](https://github.com/everettjf/MachOExplorer) <br/>🍉(Alpha) Explore MachO File (Yet another MachOView... | 175 |
 | 182. | [senlinuc/caffe_ocr](https://github.com/senlinuc/caffe_ocr) <br/>主流ocr算法研究实验性的项目，目前实现了CNN+BLSTM+CTC架构 | 175 |
-| 183. | [leonardvandriel/caffe2_c
+| 183. | [leonardvandriel/caffe2_cpp_tutorial](https://github.com/leonardvandriel/caffe2_cpp_tutorial) <br/>C++ transcripts of the Caffe2 Python tutorials and... | 174 |
+| 184. | [HauyuChen/LeetCode](https://github.com/HauyuChen/LeetCode) <br/>LeetCode Solutions | 173 |
+| 185. | [Haivision/srt](https://github.com/Haivision/srt) <br/>Secure, Reliable, Transport | 169 |
+| 186. | [lucasg/Dependencies](https://github.com/lucasg/Dependencies) <br/>A rewrite of the old legacy software "depends.exe"... | 169 |
+| 187. | [Thuva4/Algorithms](https://github.com/Thuva4/Algorithms) <br/>Collection of algorithms in multiple programming l... | 169 |
+| 188. | [sidoh/esp8266_milight_hub](https://github.com/sidoh/esp8266_milight_hub) <br/>Replacement for a Milight/LimitlessLED hub hosted ... | 166 |
+| 189. | [secrary/InfectPE](https://github.com/secrary/InfectPE) <br/>InfectPE - Inject custom code into PE file | 166 |
+| 190. | [newsboat/newsboat](https://github.com/newsboat/newsboat) <br/>An RSS/Atom feed reader for text terminals | 165 |
+| 191. | [Qihoo360/zendAPI](https://github.com/Qihoo360/zendAPI) <br/>The C++ wrapper of zend engine | 165 |
+| 192. | [xuningjack/apikeylib](https://github.com/xuningjack/apikeylib) <br/>Generating sign when access the Internet. (访问网络时签名... | 165 |
+| 193. | [fireice-uk/xmr-stak-amd](https://github.com/fireice-uk/xmr-stak-amd) <br/>Monero AMD miner | 164 |
+| 194. | [ucsb-seclab/dr_checker](https://github.com/ucsb-seclab/dr_checker) <br/>DR.CHECKER : A Soundy Vulnerability Detection Tool... | 163 |
+| 195. | [MrBuddyCasino/ESP32_MP3_Decoder](https://github.com/MrBuddyCasino/ESP32_MP3_Decoder) <br/>A internet radio and bluetooth speaker project for... | 163 |
+| 196. | [xmrig/xmrig-nvidia](https://github.com/xmrig/xmrig-nvidia) <br/>Monero (XMR) NVIDIA miner | 162 |
+| 197. | [Jomes/sand](https://github.com/Jomes/sand) <br/>Using JNI to achieve Sobel operator image edge det... | 160 |
+| 198. | [QuantStack/xeus-cling](https://github.com/QuantStack/xeus-cling) <br/>Jupyter Kernel for C++ based on xeus and cling | 159 |
+| 199. | [lmb-freiburg/demon](https://github.com/lmb-freiburg/demon) <br/>DeMoN: Depth and Motion Network | 159 |
+| 200. | [werkamsus/Lilith](https://github.com/werkamsus/Lilith) <br/>Lilith, The Open Source C++ Remote Administration ... | 159 |
+| 201. | [GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) <br/>Easy to integrate Vulkan memory allocation library | 158 |
+| 202. | [warmspringwinds/pytorch-cpp](https://github.com/warmspringwinds/pytorch-cpp) <br/>Pytorch C++ Library | 158 |
+| 203. | [ebruneton/precomputed_atmospheric_scattering](https://github.com/ebruneton/precomputed_atmospheric_scattering) <br/>This project provides a new implementation of our ... | 158 |
+| 204. | [pippy360/transformationInvariantImageSearch](https://github.com/pippy360/transformationInvariantImageSearch) <br/>A reverse image search algorithm which performs 2D... | 157 |
+| 205. | [nfrechette/acl](https://github.com/nfrechette/acl) <br/>Animation Compression Library | 154 |
+| 206. | [lumpyzhu/ustd](https://github.com/lumpyzhu/ustd) <br/>thinking rust in C++ | 153 |
+| 207. | [lupoDharkael/flameshot](https://github.com/lupoDharkael/flameshot) <br/>Powerful yet simple to use screenshot software | 152 |
+| 208. | [baidu-research/tensorflow-allreduce](https://github.com/baidu-research/tensorflow-allreduce)  | 152 |
+| 209. | [SOUI2/soui](https://github.com/SOUI2/soui) <br/>DirectUI | 151 |
+| 210. | [bee13oy/AV_Kernel_Vulns](https://github.com/bee13oy/AV_Kernel_Vulns) <br/>Pocs for Antivirus Software‘s Kernel Vulnerabiliti... | 150 |
+| 211. | [idea4good/GuiLite](https://github.com/idea4good/GuiLite) <br/>UI framework is nothing more than 6,000 lines code | 150 |
+| 212. | [vmware/chap](https://github.com/vmware/chap) <br/>chap analyzes un-instrumented core files for leaks... | 150 |
+| 213. | [jackullrich/ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) <br/>An extensible framework for easily writing compile... | 149 |
+| 214. | [epfml/sent2vec](https://github.com/epfml/sent2vec) <br/>General purpose unsupervised sentence representati... | 148 |
+| 215. | [OAID/CaffeOnACL](https://github.com/OAID/CaffeOnACL) <br/>Using ARM Compute Library (NEON+GPU) to speed up c... | 147 |
+| 216. | [lrz/mono-wasm](https://github.com/lrz/mono-wasm)  | 147 |
+| 217. | [leohotfn/Reuzel](https://github.com/leohotfn/Reuzel) <br/>A tiny C++ thread pool | 147 |
+| 218. | [JezaChen/Data-Stucture-Libraries](https://github.com/JezaChen/Data-Stucture-Libraries) <br/>Data-Structure Exercises | 147 |
+| 219. | [mfosse/JoyCon-Driver](https://github.com/mfosse/JoyCon-Driver) <br/>A vJoy feeder for the Nintendo Switch JoyCons | 146 |
+| 220. | [mangoszero/server](https://github.com/mangoszero/server) <br/>Mangos ZERO is a server for World of Warcraft. The... | 146 |
+| 221. | [TatsuyaShirakawa/poincare-embedding](https://github.com/TatsuyaShirakawa/poincare-embedding) <br/>Poincaré Embedding | 146 |
+| 222. | [YugaByte/yugabyte-db](https://github.com/YugaByte/yugabyte-db) <br/>YugaByte Database, Community Edition | 146 |
+| 223. | [mbbill/JSC.js](https://github.com/mbbill/JSC.js) <br/>JavaScriptCore on WebAssembly | 145 |
+| 224. | [unity3d-jp/NormalPainter](https://github.com/unity3d-jp/NormalPainter) <br/>vertex normal editor for Unity | 145 |
+| 225. | [facebookresearch/House3D](https://github.com/facebookresearch/House3D) <br/>a Realistic and Rich 3D Environment | 145 |
+| 226. | [martinruenz/co-fusion](https://github.com/martinruenz/co-fusion) <br/>Co-Fusion: Real-time Segmentation, Tracking and Fu... | 144 |
+| 227. | [MortenSchenk/BHUSA2017](https://github.com/MortenSchenk/BHUSA2017) <br/>Content from presentation at BHUSA 2017 | 143 |
+| 228. | [TheTriones/Megrez](https://github.com/TheTriones/Megrez) <br/>A data serialize tool. | 143 |
+| 229. | [Professor-plum/Reflective-Driver-Loader](https://github.com/Professor-plum/Reflective-Driver-Loader)  | 142 |
+| 230. | [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro) <br/>A library of C++ coroutine abstractions for the co... | 142 |
+| 231. | [garbear/kodi-steamlink](https://github.com/garbear/kodi-steamlink) <br/>Steam Link port of Kodi | 141 |
+| 232. | [FutunnOpen/FTPluginServer](https://github.com/FutunnOpen/FTPluginServer) <br/>futuquant c++插件源码 | 141 |
+| 233. | [JezaChen/Algorithms_Exercises](https://github.com/JezaChen/Algorithms_Exercises) <br/>算法书籍的一些代码 | 139 |
+| 234. | [nodejs/node-addon-api](https://github.com/nodejs/node-addon-api)  | 137 |
+| 235. | [secrary/makin](https://github.com/secrary/makin) <br/>makin - reveal anti-debugging tricks | 137 |
+| 236. | [mpark/patterns](https://github.com/mpark/patterns) <br/>Pattern Matching in C++ | 136 |
+| 237. | [medooze/media-server](https://github.com/medooze/media-server) <br/>WebRTC Media Server | 136 |
+| 238. | [hihozhou/php-opencv](https://github.com/hihozhou/php-opencv) <br/>PHP extensions for OpenCV | 136 |
+| 239. | [coddec/Classic-Shell](https://github.com/coddec/Classic-Shell) <br/>Original code of Classic Shell (v4.3.1), original ... | 135 |
+| 240. | [ddiakopoulos/tinygizmo](https://github.com/ddiakopoulos/tinygizmo) <br/>:triangular_ruler: An immediate mode 3D gimzo (tra... | 135 |
+| 241. | [JuncoJet/unlimited-landeng-for-win](https://github.com/JuncoJet/unlimited-landeng-for-win) <br/>无限流量灯，你懂的，我不解释 | 134 |
+| 242. | [mujx/nheko](https://github.com/mujx/nheko) <br/>Desktop client for the Matrix protocol | 134 |
+| 243. | [DGA-MI-SSI/YaCo](https://github.com/DGA-MI-SSI/YaCo) <br/>YaCo is an Hex-Rays IDA plugin. When enabled, mult... | 134 |
+| 244. | [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11) <br/>Command line parser for C++11 | 133 |
+| 245. | [KleinYuan/Caffe2-iOS](https://github.com/KleinYuan/Caffe2-iOS) <br/>Caffe2 on iOS Real-time Demo. Test with Your Own M... | 133 |
+| 246. | [codectile/crappy-esp](https://github.com/codectile/crappy-esp) <br/>simple esp for Playerunknown's Battlegrounds | 132 |
+| 247. | [YuvalNirkin/face_swap](https://github.com/YuvalNirkin/face_swap) <br/>End-to-end, automatic face swapping pipeline | 131 |
+| 248. | [arximboldi/ewig](https://github.com/arximboldi/ewig) <br/>The eternal text editor — Didactic Ersatz Emacs to... | 131 |
+| 249. | [liunian1004/TcpCmdTransfer](https://github.com/liunian1004/TcpCmdTransfer) <br/>Qt开发Tcp包转发程序 | 131 |
+| 250. | [LightsHope/server](https://github.com/LightsHope/server)  | 130 |
+| 251. | [milohr/babe-qt](https://github.com/milohr/babe-qt) <br/>Babe is now hosted and developed at KDE Phabricato... | 130 |
+| 252. | [avast-tl/retdec-idaplugin](https://github.com/avast-tl/retdec-idaplugin) <br/>IDA plugin for RetDec. | 130 |
+| 253. | [BalazsJako/ImGuiColorTextEdit](https://github.com/BalazsJako/ImGuiColorTextEdit) <br/>Colorizing text editor for ImGui | 129 |
+| 254. | [pschlan/cron-job.org](https://github.com/pschlan/cron-job.org) <br/>cron-job.org Open Source project | 129 |
+| 255. | [qcoreteam/zendapi](https://github.com/qcoreteam/zendapi) <br/>The C++ wrapper of zend engine | 128 |
+| 256. | [facebookincubator/FBX2glTF](https://github.com/facebookincubator/FBX2glTF) <br/>A command-line tool for the conversion of 3D model... | 128 |
+| 257. | [Erblocker/atulocher](https://github.com/Erblocker/atulocher) <br/>人工智能。本来是YRSSF的附属项目，结果越玩越大，现在连逻辑思维都有了。 | 127 |
+| 258. | [ldenoue/pdftojson](https://github.com/ldenoue/pdftojson) <br/>using XPDF, pdftojson extracts text from PDF files... | 126 |
+| 259. | [928675268/alphaquant](https://github.com/928675268/alphaquant) <br/>AlphaQuant: 股票实盘交易SDK，支持华泰，广发等70多个券商 | 125 |
+| 260. | [yun-liu/rcf](https://github.com/yun-liu/rcf) <br/>Richer Convolutional Features for Edge Detection | 125 |
+| 261. | [grishka/libtgvoip](https://github.com/grishka/libtgvoip) <br/>VoIP library for Telegram clients | 125 |
+| 262. | [Cararasu/holodec](https://github.com/Cararasu/holodec) <br/>Decompiler for x86 and x86-64 ELF binaries | 124 |
+| 263. | [Themaister/Granite](https://github.com/Themaister/Granite) <br/>My personal Vulkan renderer | 124 |
+| 264. | [yuanzhubi/call_in_stack](https://github.com/yuanzhubi/call_in_stack) <br/>Call a function in a new stack that allocated anyw... | 123 |
+| 265. | [osrf/car_demo](https://github.com/osrf/car_demo)  | 122 |
+| 266. | [GPUOpen-Tools/RGA](https://github.com/GPUOpen-Tools/RGA) <br/>The Radeon GPU Analyzer (RGA) is a command line ut... | 122 |
+| 267. | [ZhaofanQiu/pseudo-3d-residual-networks](https://github.com/ZhaofanQiu/pseudo-3d-residual-networks) <br/>Pseudo-3D Convolutional Residual Networks for Vide... | 122 |
+| 268. | [serge-sans-paille/frozen](https://github.com/serge-sans-paille/frozen) <br/>a header-only, constexpr alternative to gperf for ... | 122 |
+| 269. | [tpys/face-everthing](https://github.com/tpys/face-everthing) <br/>face detection alignment recognition reconstructio... | 119 |
+| 270. | [intelpt/WindowsIntelPT](https://github.com/intelpt/WindowsIntelPT) <br/>This driver implements the Intel Processor Trace f... | 118 |
+| 271. | [PolygonTek/BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine) <br/>Blueshift is a cross-platform 3D game engine. it's... | 118 |
+| 272. | [phaistos-networks/Trinity](https://github.com/phaistos-networks/Trinity) <br/>Trinity IR Infrastructure | 117 |
+| 273. | [oun111/zas](https://github.com/oun111/zas) <br/>Access MYSQL database with other sql languages(for... | 117 |
+| 274. | [PikachuHy/shadowsocks-client](https://github.com/PikachuHy/shadowsocks-client) <br/>If you want to keep a secret, you must also hide i... | 117 |
+| 275. | [gaoxiang12/ORB-YGZ-SLAM](https://github.com/gaoxiang12/ORB-YGZ-SLAM)  | 117 |
+| 276. | [dangbo/ncnn-mobile](https://github.com/dangbo/ncnn-mobile) <br/>use ncnn in Android(Android Studio) and iOS | 117 |
+| 277. | [spacehuhn/ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) <br/>A library for creating and sending .pcap files for... | 116 |
+| 278. | [matzman666/OpenVR-InputEmulator](https://github.com/matzman666/OpenVR-InputEmulator) <br/>An OpenVR driver that allows to create virtual con... | 116 |
+| 279. | [oun111/myproxy](https://github.com/oun111/myproxy) <br/>A sharding proxy for MYSQL databases | 114 |
+| 280. | [julian-poidevin/MBPMid2010_GPUFix](https://github.com/julian-poidevin/MBPMid2010_GPUFix) <br/>MBPMid2010_GPUFix is an utility program that allow... | 114 |
+| 281. | [nepluno/libWetHair](https://github.com/nepluno/libWetHair) <br/>A Multi-Scale Model for Simulating Liquid-Hair Int... | 114 |
+| 282. | [google/pawn](https://github.com/google/pawn) <br/>Extract BIOS firmware from Intel-based workstation... | 114 |
+| 283. | [Emanem/nettop](https://github.com/Emanem/nettop) <br/>Utility to show network traffic (both TCP and UDP ... | 113 |
+| 284. | [JarveeLee/SynthText_Chinese_version](https://github.com/JarveeLee/SynthText_Chinese_version) <br/>Modify from https://github.com/ankush-me/SynthText... | 113 |
+| 285. | [ymgaq/AQ](https://github.com/ymgaq/AQ) <br/>Computer Go Program. Download: http://github.com/y... | 113 |
+| 286. | [sam-b/windows_kernel_address_leaks](https://github.com/sam-b/windows_kernel_address_leaks) <br/>Examples of leaking Kernel Mode information from U... | 112 |
+| 287. | [junyanz/light-field-video](https://github.com/junyanz/light-field-video) <br/> Light field video applications (e.g. video refocu... | 112 |
+| 288. | [ErmanSayin/Themely](https://github.com/ErmanSayin/Themely) <br/>A beautiful theme manager for Nintendo 3DS | 112 |
+| 289. | [OAID/YSQfastfd](https://github.com/OAID/YSQfastfd) <br/>A fast binary library for face detection and face ... | 111 |
+| 290. | [veyon/veyon](https://github.com/veyon/veyon) <br/>Veyon - Free and Open Source computer monitoring a... | 111 |
+| 291. | [bwasti/AICamera](https://github.com/bwasti/AICamera) <br/>Demonstration of using Caffe2 inside an Android ap... | 111 |
+| 292. | [hasherezade/pe-sieve](https://github.com/hasherezade/pe-sieve) <br/>a small tool for investigating inline hooks (and o... | 111 |
+| 293. | [Yijunmaverick/GenerativeFaceCompletion](https://github.com/Yijunmaverick/GenerativeFaceCompletion) <br/>The source code of CVPR17 'Generative Face Complet... | 111 |
+| 294. | [camel007/Caffe-ShuffleNet](https://github.com/camel007/Caffe-ShuffleNet) <br/>This is re-implementation of "ShuffleNet: An Extre... | 110 |
+| 295. | [pplux/px_sched](https://github.com/pplux/px_sched) <br/>Single Header C++11 Task Scheduler | 110 |
+| 296. | [thedmd/imgui-node-editor](https://github.com/thedmd/imgui-node-editor) <br/>Node Editor using ImGui prototype | 110 |
+| 297. | [tuananh/camaro](https://github.com/tuananh/camaro) <br/>camaro is an utility to transform XML to JSON, usi... | 109 |
+| 298. | [gongminmin/Dilithium](https://github.com/gongminmin/Dilithium) <br/>Dilithium is a bidirectional shader converter for ... | 109 |
+| 299. | [slankdev/cuishark](https://github.com/slankdev/cuishark) <br/>A protocol analyzer like a wireshark on CUI/TUI | 108 |
+| 300. | [qicosmos/iguana](https://github.com/qicosmos/iguana) <br/>universal serialization engine | 107 |
+| 301. | [Helidium/Mitol](https://github.com/Helidium/Mitol) <br/>Lightweight NodeJS http server | 107 |
+| 302. | [samizzo/hexed](https://github.com/samizzo/hexed) <br/>Windows console-based hex editor | 106 |
+| 303. | [richkmeli/Richkware](https://github.com/richkmeli/Richkware) <br/>Framework for building Windows malware, written in... | 106 |
+| 304. | [yuanfengyun/mj_client](https://github.com/yuanfengyun/mj_client) <br/>纯cocos2d-lua编写的麻将游戏 | 106 |
+| 305. | [libcg/bfp](https://github.com/libcg/bfp) <br/>Beyond Floating Point - Posit C/C++ implementation | 106 |
+| 306. | [AnimalLogic/AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya)  | 105 |
+| 307. | [otakuto/crazydiskinfo](https://github.com/otakuto/crazydiskinfo) <br/>CrazyDiskInfo is an interactive TUI S.M.A.R.T view... | 105 |
+| 308. | [doitsujin/dxvk](https://github.com/doitsujin/dxvk) <br/>Vulkan-based D3D11 implementation for Linux / Wine | 105 |
+| 309. | [roachspray/opcde2017](https://github.com/roachspray/opcde2017) <br/>Slides and very basic examples | 105 |
+| 310. | [ivildeed/vmw_vmx_overloader](https://github.com/ivildeed/vmw_vmx_overloader) <br/>Loading unsigned code into kernel in Windows 10 (6... | 104 |
+| 311. | [Intel-Media-SDK/MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK)  | 104 |
+| 312. | [google/functionsimsearch](https://github.com/google/functionsimsearch) <br/>Some C++ example code to demonstrate how to perfor... | 104 |
+| 313. | [goldsborough/clang-expand](https://github.com/goldsborough/clang-expand) <br/>:dragon: A clang tool for happy refactoring withou... | 104 |
+| 314. | [acdemiralp/gl](https://github.com/acdemiralp/gl) <br/>C++11 Wrapper for OpenGL 4.6 Core Profile. | 103 |
+| 315. | [wapiflapi/veles](https://github.com/wapiflapi/veles) <br/>Visual reverse engineering tool. | 102 |
+| 316. | [JochenBaier/fastwindowswitcher](https://github.com/JochenBaier/fastwindowswitcher) <br/>A fast window switcher for Windows using the keybo... | 102 |
+| 317. | [vit9696/WhateverGreen](https://github.com/vit9696/WhateverGreen) <br/>Various patches necessary for certain ATI/AMD GPUs | 102 |
+| 318. | [CrimsonAS/gtkplatform](https://github.com/CrimsonAS/gtkplatform) <br/>Run Qt applications using gtk+ as a windowing syst... | 101 |
+| 319. | [programmerjake/vulkan-cpu](https://github.com/programmerjake/vulkan-cpu) <br/>work-in-progress for Vulkan implementation on cpu | 101 |
+| 320. | [ALSchwalm/dwarfexport](https://github.com/ALSchwalm/dwarfexport) <br/>Export dwarf debug information from IDA Pro | 101 |
+| 321. | [ucsb-seclab/difuze](https://github.com/ucsb-seclab/difuze) <br/>Fuzzer for Linux Kernel Drivers | 101 |
+| 322. | [magnificus/Procedural-Cities](https://github.com/magnificus/Procedural-Cities) <br/>master thesis | 100 |
+| 323. | [silverf0x/RpcView](https://github.com/silverf0x/RpcView)  | 100 |
+| 324. | [google-ar/arcore-unreal-sdk](https://github.com/google-ar/arcore-unreal-sdk) <br/>Google AR SDK for Unreal | 100 |
+
+## Most-Starred Users: C++
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [wangyu-](https://github.com/wangyu-)  | [UDPspeeder](https://github.com/wangyu-/UDPspeeder)  (1451) <br/>[udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel)  (1316) <br/>[tinyFecVPN](https://github.com/wangyu-/tinyFecVPN)  (750) <br/> | 3517 |
+| 2. | [fireice-uk](https://github.com/fireice-uk)  | [xmr-stak](https://github.com/fireice-uk/xmr-stak)  (1005) <br/>[xmr-stak-cpu](https://github.com/fireice-uk/xmr-stak-cpu)  (890) <br/>[xmr-stak-nvidia](https://github.com/fireice-uk/xmr-stak-nvidia)  (232) <br/>[xmr-stak-amd](https://github.com/fireice-uk/xmr-stak-amd)  (164) <br/> | 2291 |
+| 3. | [hteso](https://github.com/hteso)  | [iaito](https://github.com/hteso/iaito)  (1616) <br/> | 1616 |
+| 4. | [mbasso](https://github.com/mbasso)  | [asm-dom](https://github.com/mbasso/asm-dom)  (1603) <br/>[gccx](https://github.com/mbasso/gccx)  (141) <br/> | 1603 |
+| 5. | [arendst](https://github.com/arendst)  | [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota)  (1597) <br/> | 1597 |
+| 6. | [gcp](https://github.com/gcp)  | [leela-zero](https://github.com/gcp/leela-zero)  (1525) <br/> | 1525 |
+| 7. | [jarulraj](https://github.com/jarulraj)  | [sqlcheck](https://github.com/jarulraj/sqlcheck)  (1431) <br/> | 1431 |
+| 8. | [aksnzhy](https://github.com/aksnzhy)  | [xlearn](https://github.com/aksnzhy/xlearn)  (1417) <br/> | 1417 |
+| 9. | [koekeishiya](https://github.com/koekeishiya)  | [chunkwm](https://github.com/koekeishiya/chunkwm)  (1390) <br/> | 1390 |
+| 10. | [milostosic](https://github.com/milostosic)  | [MTuner](https://github.com/milostosic/MTuner)  (1323) <br/> | 1323 |
+| 11. | [rexdex](https://github.com/rexdex)  | [recompiler](https://github.com/rexdex/recompiler)  (1225) <br/> | 1225 |
+| 12. | [peterrudenko](https://github.com/peterrudenko)  | [helio-workstation](https://github.com/peterrudenko/helio-workstation)  (1177) <br/> | 1177 |
+| 13. | [Property404](https://github.com/Property404)  | [fetlang](https://github.com/Property404/fetlang)  (1028) <br/> | 1028 |
+| 14. | [aguinet](https://github.com/aguinet)  | [wannakey](https://github.com/aguinet/wannakey)  (979) <br/> | 979 |
+| 15. | [secrary](https://github.com/secrary)  | [InjectProc](https://github.com/secrary/InjectProc)  (674) <br/>[InfectPE](https://github.com/secrary/InfectPE)  (166) <br/>[makin](https://github.com/secrary/makin)  (137) <br/> | 977 |
+| 16. | [xmrig](https://github.com/xmrig)  | [xmrig](https://github.com/xmrig/xmrig)  (764) <br/>[xmrig-nvidia](https://github.com/xmrig/x
