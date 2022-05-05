@@ -579,4 +579,84 @@
 | 62. | [OAID](https://github.com/OAID)  | [CaffeOnACL](https://github.com/OAID/CaffeOnACL)  (147) <br/>[YSQfastfd](https://github.com/OAID/YSQfastfd)  (111) <br/> | 258 |
 | 63. | [NVIDIAGameWorks](https://github.com/NVIDIAGameWorks)  | [Falcor](https://github.com/NVIDIAGameWorks/Falcor)  (255) <br/> | 255 |
 | 64. | [materialx](https://github.com/materialx)  | [MaterialX](https://github.com/materialx/MaterialX)  (232) <br/> | 232 |
-| 65. | [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)  | [container-diff](https://github.com/GoogleCloudPlatform/container-d
+| 65. | [GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)  | [container-diff](https://github.com/GoogleCloudPlatform/container-diff)  (1496) <br/>[distroless](https://github.com/GoogleCloudPlatform/distroless)  (1462) <br/>[cloud-functions-go](https://github.com/GoogleCloudPlatform/cloud-functions-go)  (224) <br/>[forseti-security](https://github.com/GoogleCloudPlatform/forseti-security)  (201) <br/>[kube-metacontroller](https://github.com/GoogleCloudPlatform/kube-metacontroller)  (163) <br/>[govanityurls](https://github.com/GoogleCloudPlatform/govanityurls)  (118) <br/> | 224 |
+| 66. | [alexa](https://github.com/alexa)  | [alexa-cookbook](https://github.com/alexa/alexa-cookbook)  (707) <br/>[avs-device-sdk](https://github.com/alexa/avs-device-sdk)  (219) <br/> | 219 |
+| 67. | [hpi-xnor](https://github.com/hpi-xnor)  | [BMXNet](https://github.com/hpi-xnor/BMXNet)  (217) <br/> | 217 |
+| 68. | [joyieldInc](https://github.com/joyieldInc)  | [predixy](https://github.com/joyieldInc/predixy)  (214) <br/> | 214 |
+| 69. | [quarkslab](https://github.com/quarkslab)  | [QBDI](https://github.com/quarkslab/QBDI)  (211) <br/> | 211 |
+| 70. | [kakao](https://github.com/kakao)  | [n2](https://github.com/kakao/n2)  (201) <br/> | 201 |
+| 71. | [networknt](https://github.com/networknt)  | [microservices-framework-benchmark](https://github.com/networknt/microservices-framework-benchmark)  (191) <br/> | 191 |
+| 72. | [cardash](https://github.com/cardash)  | [react-native-openalpr](https://github.com/cardash/react-native-openalpr)  (190) <br/> | 190 |
+| 73. | [fuchsia-mirror](https://github.com/fuchsia-mirror)  | [zircon](https://github.com/fuchsia-mirror/zircon)  (186) <br/> | 186 |
+| 74. | [in66-dev](https://github.com/in66-dev)  | [In-Prestissimo](https://github.com/in66-dev/In-Prestissimo)  (182) <br/> | 182 |
+| 75. | [NVIDIA-Jetson](https://github.com/NVIDIA-Jetson)  | [redtail](https://github.com/NVIDIA-Jetson/redtail)  (178) <br/> | 178 |
+| 76. | [trojan-gfw](https://github.com/trojan-gfw)  | [trojan](https://github.com/trojan-gfw/trojan)  (176) <br/> | 176 |
+| 77. | [Haivision](https://github.com/Haivision)  | [srt](https://github.com/Haivision/srt)  (169) <br/> | 169 |
+| 78. | [newsboat](https://github.com/newsboat)  | [newsboat](https://github.com/newsboat/newsboat)  (165) <br/> | 165 |
+| 79. | [QuantStack](https://github.com/QuantStack)  | [xeus-cling](https://github.com/QuantStack/xeus-cling)  (159) <br/> | 159 |
+| 80. | [GPUOpen-LibrariesAndSDKs](https://github.com/GPUOpen-LibrariesAndSDKs)  | [VulkanMemoryAllocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)  (158) <br/> | 158 |
+| 81. | [baidu-research](https://github.com/baidu-research)  | [tensorflow-allreduce](https://github.com/baidu-research/tensorflow-allreduce)  (152) <br/> | 152 |
+| 82. | [SOUI2](https://github.com/SOUI2)  | [soui](https://github.com/SOUI2/soui)  (151) <br/> | 151 |
+| 83. | [vmware](https://github.com/vmware)  | [chap](https://github.com/vmware/chap)  (150) <br/> | 150 |
+| 84. | [epfml](https://github.com/epfml)  | [sent2vec](https://github.com/epfml/sent2vec)  (148) <br/> | 148 |
+| 85. | [mangoszero](https://github.com/mangoszero)  | [server](https://github.com/mangoszero/server)  (146) <br/> | 146 |
+| 86. | [YugaByte](https://github.com/YugaByte)  | [yugabyte-db](https://github.com/YugaByte/yugabyte-db)  (146) <br/> | 146 |
+| 87. | [unity3d-jp](https://github.com/unity3d-jp)  | [NormalPainter](https://github.com/unity3d-jp/NormalPainter)  (145) <br/> | 145 |
+| 88. | [TheTriones](https://github.com/TheTriones)  | [Megrez](https://github.com/TheTriones/Megrez)  (143) <br/> | 143 |
+| 89. | [nodejs](https://github.com/nodejs)  | [node-addon-api](https://github.com/nodejs/node-addon-api)  (137) <br/> | 137 |
+| 90. | [medooze](https://github.com/medooze)  | [media-server](https://github.com/medooze/media-server)  (136) <br/> | 136 |
+| 91. | [DGA-MI-SSI](https://github.com/DGA-MI-SSI)  | [YaCo](https://github.com/DGA-MI-SSI/YaCo)  (134) <br/> | 134 |
+| 92. | [CLIUtils](https://github.com/CLIUtils)  | [CLI11](https://github.com/CLIUtils/CLI11)  (133) <br/> | 133 |
+| 93. | [LightsHope](https://github.com/LightsHope)  | [server](https://github.com/LightsHope/server)  (130) <br/> | 130 |
+| 94. | [Erblocker](https://github.com/Erblocker)  | [atulocher](https://github.com/Erblocker/atulocher)  (127) <br/> | 127 |
+| 95. | [GPUOpen-Tools](https://github.com/GPUOpen-Tools)  | [RGA](https://github.com/GPUOpen-Tools/RGA)  (122) <br/> | 122 |
+| 96. | [osrf](https://github.com/osrf)  | [car_demo](https://github.com/osrf/car_demo)  (122) <br/> | 122 |
+| 97. | [PolygonTek](https://github.com/PolygonTek)  | [BlueshiftEngine](https://github.com/PolygonTek/BlueshiftEngine)  (118) <br/> | 118 |
+| 98. | [intelpt](https://github.com/intelpt)  | [WindowsIntelPT](https://github.com/intelpt/WindowsIntelPT)  (118) <br/> | 118 |
+| 99. | [phaistos-networks](https://github.com/phaistos-networks)  | [Trinity](https://github.com/phaistos-networks/Trinity)  (117) <br/> | 117 |
+| 100. | [veyon](https://github.com/veyon)  | [veyon](https://github.com/veyon/veyon)  (111) <br/> | 111 |
+| 101. | [AnimalLogic](https://github.com/AnimalLogic)  | [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya)  (105) <br/> | 105 |
+| 102. | [Intel-Media-SDK](https://github.com/Intel-Media-SDK)  | [MediaSDK](https://github.com/Intel-Media-SDK/MediaSDK)  (104) <br/> | 104 |
+| 103. | [CrimsonAS](https://github.com/CrimsonAS)  | [gtkplatform](https://github.com/CrimsonAS/gtkplatform)  (101) <br/> | 101 |
+
+## Language Stats Index
+
+
+>Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2017/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2017).
+
+An index is provided below for convenience.*
+
+
+| Language | 2017 |
+|---|---|
+| JavaScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/javascript.md#most-starred-repos-javascript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/javascript.md#most-starred-users-javascript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/javascript.md#most-starred-orgs-javascript) |
+| Java | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/java.md#most-starred-repos-java) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/java.md#most-starred-users-java) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/java.md#most-starred-orgs-java) |
+| Objective-C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/objective-c.md#most-starred-repos-objective-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/objective-c.md#most-starred-users-objective-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/objective-c.md#most-starred-orgs-objective-c) |
+| Python | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/python.md#most-starred-repos-python) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/python.md#most-starred-users-python) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/python.md#most-starred-orgs-python) |
+| Swift | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/swift.md#most-starred-repos-swift) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/swift.md#most-starred-users-swift) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/swift.md#most-starred-orgs-swift) |
+| Go | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/go.md#most-starred-repos-go) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/go.md#most-starred-users-go) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/go.md#most-starred-orgs-go) |
+| PHP | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/php.md#most-starred-repos-php) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/php.md#most-starred-users-php) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/php.md#most-starred-orgs-php) |
+| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c++.md#most-starred-repos-c++) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c++.md#most-starred-users-c++) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c++.md#most-starred-orgs-c++) |
+| C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c.md#most-starred-orgs-c) |
+| CSS | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/css.md#most-starred-repos-css) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/css.md#most-starred-users-css) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/css.md#most-starred-orgs-css) |
+| HTML | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/html.md#most-starred-repos-html) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/html.md#most-starred-users-html) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/html.md#most-starred-orgs-html) |
+| Ruby | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/ruby.md#most-starred-repos-ruby) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/ruby.md#most-starred-users-ruby) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/ruby.md#most-starred-orgs-ruby) |
+| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c#.md#most-starred-repos-c#) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c#.md#most-starred-users-c#) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/c#.md#most-starred-orgs-c#) |
+| Shell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/shell.md#most-starred-repos-shell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/shell.md#most-starred-users-shell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/shell.md#most-starred-orgs-shell) |
+| Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/scala.md#most-starred-users-scala) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/scala.md#most-starred-orgs-scala) |
+| Clojure | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/clojure.md#most-starred-repos-clojure) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/clojure.md#most-starred-users-clojure) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/clojure.md#most-starred-orgs-clojure) |
+| CoffeeScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/coffeescript.md#most-starred-repos-coffeescript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/coffeescript.md#most-starred-users-coffeescript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/coffeescript.md#most-starred-orgs-coffeescript) |
+| Lua | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/lua.md#most-starred-repos-lua) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/lua.md#most-starred-users-lua) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/lua.md#most-starred-orgs-lua) |
+| Haskell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/haskell.md#most-starred-repos-haskell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/haskell.md#most-starred-users-haskell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/haskell.md#most-starred-orgs-haskell) |
+| VimL | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/viml.md#most-starred-repos-viml) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/viml.md#most-starred-users-viml) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/viml.md#most-starred-orgs-viml) |
+| R | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/r.md#most-starred-repos-r) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/r.md#most-starred-users-r) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/r.md#most-starred-orgs-r) |
+| Perl | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/perl.md#most-starred-repos-perl) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/perl.md#most-starred-users-perl) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/perl.md#most-starred-orgs-perl) |
+| Julia | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/julia.md#most-starred-repos-julia) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/julia.md#most-starred-users-julia) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/julia.md#most-starred-orgs-julia) |
+| Rust | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/rust.md#most-starred-repos-rust) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/rust.md#most-starred-users-rust) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/rust.md#most-starred-orgs-rust) |
+| Hack | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/hack.md#most-starred-repos-hack) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/hack.md#most-starred-users-hack) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/hack.md#most-starred-orgs-hack) |
+| D | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/d.md#most-starred-repos-d) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/d.md#most-starred-users-d) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/d.md#most-starred-orgs-d) |
+| TypeScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/typescript.md#most-starred-repos-typescript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/typescript.md#most-starred-users-typescript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/typescript.md#most-starred-orgs-typescript) |
+| Unknown | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/unknown.md#most-starred-repos-unknown) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/unknown.md#most-starred-users-unknown) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/unknown.md#most-starred-orgs-unknown) |
+| Overall | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/overall.md#most-starred-repos-overall) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/overall.md#most-starred-users-overall) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2017/overall.md#most-starred-orgs-overall) |
