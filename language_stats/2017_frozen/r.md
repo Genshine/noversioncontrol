@@ -1,27 +1,59 @@
-# Perl
 
-## Most-Starred Repos: Perl
+# R
+
+## Most-Starred Repos: R
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [x0rz/EQGRP](https://github.com/x0rz/EQGRP) <br/>Decrypted content of eqgrp-auction-file.tar.xz | 3340 |
-| 2. | [Moham3dRiahi/XAttacker](https://github.com/Moham3dRiahi/XAttacker) <br/>X Attacker Tool ☣ Website Vulnerability Scanner & ... | 218 |
-| 3. | [takaaki-kasai/git-foresta](https://github.com/takaaki-kasai/git-foresta) <br/>git-foresta: Text-based git log graph viewer | 132 |
-| 4. | [MarkWheadon/velocity-painting](https://github.com/MarkWheadon/velocity-painting) <br/>#VelocityPainting: patterning 3D prints by modulat... | 102 |
+| 1. | [thomasp85/patchwork](https://github.com/thomasp85/patchwork) <br/>The Composer of ggplots | 347 |
+| 2. | [pzhaonet/mindr](https://github.com/pzhaonet/mindr) <br/>an R package which converts markdown files (.md, .... | 343 |
+| 3. | [hrbrmstr/hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) <br/>:lock_with_ink_pen: Opinionated, typographic-centr... | 324 |
+| 4. | [EmilHvitfeldt/ggpage](https://github.com/EmilHvitfeldt/ggpage) <br/>Creates Page Layout Visualizations in R | 191 |
+| 5. | [thomasp85/lime](https://github.com/thomasp85/lime) <br/>Local Interpretable Model-Agnostic Explanations (R... | 160 |
+| 6. | [cwickham/purrr-tutorial](https://github.com/cwickham/purrr-tutorial) <br/>A introduction to purrr | 146 |
+| 7. | [hafen/geofacet](https://github.com/hafen/geofacet) <br/>R package for geographical faceting with ggplot2 | 144 |
+| 8. | [hadley/emo](https://github.com/hadley/emo) <br/>Easily insert emoji into R and RMarkdown | 142 |
+| 9. | [hadley/strict](https://github.com/hadley/strict) <br/>Make R a little bit stricter | 141 |
+| 10. | [r-lib/styler](https://github.com/r-lib/styler) <br/>Non-invasive pretty printing of R code | 135 |
+| 11. | [walkerke/tidycensus](https://github.com/walkerke/tidycensus) <br/>Load US Census boundary and attribute data as 'tid... | 133 |
+| 12. | [benmarwick/rrtools](https://github.com/benmarwick/rrtools) <br/>rrtools: Tools for Writing Reproducible Research i... | 130 |
+| 13. | [thomasp85/tidygraph](https://github.com/thomasp85/tidygraph) <br/>A tidy API for graph manipulation | 124 |
+| 14. | [ropensci/iheatmapr](https://github.com/ropensci/iheatmapr) <br/>Complex, interactive heatmaps in R | 122 |
+| 15. | [prouast/cryptocurrency-analysis](https://github.com/prouast/cryptocurrency-analysis) <br/>Analysis and visualisation of the cryptocurrency m... | 119 |
+| 16. | [yihui/tinytex](https://github.com/yihui/tinytex) <br/>A lightweight, cross-platform, portable, and easy-... | 113 |
+| 17. | [tidyverse/dbplyr](https://github.com/tidyverse/dbplyr) <br/>Database (DBI) backend for dplyr | 110 |
+| 18. | [jonocarroll/mathpix](https://github.com/jonocarroll/mathpix) <br/>Query the mathpix API to convert math images to La... | 108 |
+| 19. | [ThinkR-open/remedy](https://github.com/ThinkR-open/remedy) <br/>RStudio Addins to Simplify Markdown Writing | 107 |
+| 20. | [andrewgbruce/statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists) <br/>Code and data associated with the book "Statistics... | 107 |
+| 21. | [jtanwk/nytcrossword](https://github.com/jtanwk/nytcrossword) <br/>Exploration of NYT Crossword answers from 1994-201... | 105 |
 
-## Most-Starred Users: Perl
+## Most-Starred Users: R
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [x0rz](https://github.com/x0rz)  | [EQGRP](https://github.com/x0rz/EQGRP)  (3340) <br/>[tweets_analyzer](https://github.com/x0rz/tweets_analyzer)  (1402) <br/>[EQGRP_Lost_in_Translation](https://github.com/x0rz/EQGRP_Lost_in_Translation)  (1267) <br/>[phishing_catcher](https://github.com/x0rz/phishing_catcher)  (506) <br/> | 3340 |
-| 2. | [Moham3dRiahi](https://github.com/Moham3dRiahi)  | [XAttacker](https://github.com/Moham3dRiahi/XAttacker)  (218) <br/> | 218 |
-| 3. | [takaaki-kasai](https://github.com/takaaki-kasai)  | [git-foresta](https://github.com/takaaki-kasai/git-foresta)  (132) <br/> | 132 |
-| 4. | [MarkWheadon](https://github.com/MarkWheadon)  | [velocity-painting](https://github.com/MarkWheadon/velocity-painting)  (102) <br/> | 102 |
+| 1. | [thomasp85](https://github.com/thomasp85)  | [patchwork](https://github.com/thomasp85/patchwork)  (347) <br/>[lime](https://github.com/thomasp85/lime)  (160) <br/>[tidygraph](https://github.com/thomasp85/tidygraph)  (124) <br/> | 631 |
+| 2. | [pzhaonet](https://github.com/pzhaonet)  | [mindr](https://github.com/pzhaonet/mindr)  (343) <br/> | 343 |
+| 3. | [hrbrmstr](https://github.com/hrbrmstr)  | [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes)  (324) <br/> | 324 |
+| 4. | [hadley](https://github.com/hadley)  | [emo](https://github.com/hadley/emo)  (142) <br/>[strict](https://github.com/hadley/strict)  (141) <br/> | 283 |
+| 5. | [EmilHvitfeldt](https://github.com/EmilHvitfeldt)  | [ggpage](https://github.com/EmilHvitfeldt/ggpage)  (191) <br/> | 191 |
+| 6. | [cwickham](https://github.com/cwickham)  | [purrr-tutorial](https://github.com/cwickham/purrr-tutorial)  (146) <br/> | 146 |
+| 7. | [hafen](https://github.com/hafen)  | [geofacet](https://github.com/hafen/geofacet)  (144) <br/> | 144 |
+| 8. | [walkerke](https://github.com/walkerke)  | [tidycensus](https://github.com/walkerke/tidycensus)  (133) <br/> | 133 |
+| 9. | [benmarwick](https://github.com/benmarwick)  | [rrtools](https://github.com/benmarwick/rrtools)  (130) <br/> | 130 |
+| 10. | [prouast](https://github.com/prouast)  | [cryptocurrency-analysis](https://github.com/prouast/cryptocurrency-analysis)  (119) <br/> | 119 |
+| 11. | [yihui](https://github.com/yihui)  | [tinytex](https://github.com/yihui/tinytex)  (113) <br/> | 113 |
+| 12. | [jonocarroll](https://github.com/jonocarroll)  | [mathpix](https://github.com/jonocarroll/mathpix)  (108) <br/> | 108 |
+| 13. | [andrewgbruce](https://github.com/andrewgbruce)  | [statistics-for-data-scientists](https://github.com/andrewgbruce/statistics-for-data-scientists)  (107) <br/> | 107 |
+| 14. | [jtanwk](https://github.com/jtanwk)  | [nytcrossword](https://github.com/jtanwk/nytcrossword)  (105) <br/> | 105 |
 
-## Most-Starred Orgs: Perl
+## Most-Starred Orgs: R
 
 | | Org | Repos | Stars |
 |---|---|---|---|
+| 1. | [r-lib](https://github.com/r-lib)  | [styler](https://github.com/r-lib/styler)  (135) <br/> | 135 |
+| 2. | [ropensci](https://github.com/ropensci)  | [iheatmapr](https://github.com/ropensci/iheatmapr)  (122) <br/> | 122 |
+| 3. | [tidyverse](https://github.com/tidyverse)  | [dbplyr](https://github.com/tidyverse/dbplyr)  (110) <br/> | 110 |
+| 4. | [ThinkR-open](https://github.com/ThinkR-open)  | [remedy](https://github.com/ThinkR-open/remedy)  (107) <br/> | 107 |
 
 ## Language Stats Index
 
