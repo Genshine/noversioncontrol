@@ -372,4 +372,150 @@
 | 366. | [zhansingsong/js-leakage-patterns](https://github.com/zhansingsong/js-leakage-patterns) <br/>:dart:这是关于JavaScript内存泄露相关序列文章，相信你读完会有所收获的:airplan... | 203 |
 | 367. | [tucaz/agile-development-cheat-sheet](https://github.com/tucaz/agile-development-cheat-sheet) <br/>2017 Agile Development Cheat Sheet | 203 |
 | 368. | [SpringForAll/spring-guides-translation](https://github.com/SpringForAll/spring-guides-translation) <br/>Spring官方教程【中文版】，最好的入门指南！ | 202 |
-| 369. | [rancher/longhorn](https://github.com/rancher/longhorn) <br/>We put stor
+| 369. | [rancher/longhorn](https://github.com/rancher/longhorn) <br/>We put storage on cows and move them around | 201 |
+| 370. | [jsuarezruiz/xamarin-forms-goodlooking-UI](https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI) <br/>Xamarin.Forms goodlooking UI samples | 201 |
+| 371. | [joelparkerhenderson/git_commit_message](https://github.com/joelparkerhenderson/git_commit_message) <br/>Git commit message: how to write a good git commit... | 199 |
+| 372. | [youxin11544/Kotlin-learning](https://github.com/youxin11544/Kotlin-learning) <br/>Android开发从java到kotlin | 199 |
+| 373. | [boostcon/cppnow_presentations_2017](https://github.com/boostcon/cppnow_presentations_2017) <br/>Presentation Material for C++Now 2017 | 199 |
+| 374. | [ApolloZhu/Developing-iOS-11-Apps-with-Swift](https://github.com/ApolloZhu/Developing-iOS-11-Apps-with-Swift) <br/>Stanford 公开课，Developing iOS 11 Apps with Swift 字幕翻... | 198 |
+| 375. | [1046102779/prometheus](https://github.com/1046102779/prometheus) <br/>Prometheus官网的非官方中文手册，旨在为大家提供一个比较容易入手的文档。翻译得不好，请大家多... | 197 |
+| 376. | [DemocracyEarth/paper](https://github.com/DemocracyEarth/paper) <br/>📄 On decentralized digital democracy. | 197 |
+| 377. | [api0cradle/UltimateAppLockerByPassList](https://github.com/api0cradle/UltimateAppLockerByPassList) <br/>The goal of this repository is to document the mos... | 196 |
+| 378. | [analyticalmonk/awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) <br/>A curated list of awesome neuroscience libraries, ... | 195 |
+| 379. | [rcasero/doc](https://github.com/rcasero/doc) <br/>Miscellaneous documentation | 194 |
+| 380. | [Nibre/MotherVR](https://github.com/Nibre/MotherVR) <br/>This Mod brings current generation VR support to t... | 192 |
+| 381. | [Chooin/wechat-spa](https://github.com/Chooin/wechat-spa) <br/>🎉 微信端单页面应用（SPA）常见问题汇总及解决方案 | 192 |
+| 382. | [evnm/research-in-production](https://github.com/evnm/research-in-production) <br/>A collection of research papers categorized by rea... | 191 |
+| 383. | [pirapira/awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine) <br/>Ethereum Virtual Machine Awesome List | 191 |
+| 384. | [hkbakke/bash-insulter](https://github.com/hkbakke/bash-insulter) <br/>Insults the user when typing wrong command | 191 |
+| 385. | [opentracing-contrib/opentracing-specification-zh](https://github.com/opentracing-contrib/opentracing-specification-zh) <br/>OpenTracing标准（中文版） `zh` (Chinese) translation of t... | 190 |
+| 386. | [snaptoken/kilo-tutorial](https://github.com/snaptoken/kilo-tutorial) <br/>build your own text editor | 190 |
+| 387. | [enzet/symbolic-execution](https://github.com/enzet/symbolic-execution) <br/>History of symbolic execution (as well as SAT/SMT ... | 189 |
+| 388. | [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) <br/>A learning resource repository for 3D machine lear... | 189 |
+| 389. | [mrmrs/styleguide-checklist](https://github.com/mrmrs/styleguide-checklist)  | 189 |
+| 390. | [chinakook/Awesome-MXNet](https://github.com/chinakook/Awesome-MXNet) <br/>A curated list of MXNet examples, tutorials and bl... | 188 |
+| 391. | [amir32002/3D_Street_View](https://github.com/amir32002/3D_Street_View) <br/>The repo of Street View Image, Pose, and 3D Cities... | 187 |
+| 392. | [andrew--r/ui-developer-tips](https://github.com/andrew--r/ui-developer-tips) <br/>Советы для разработчика интерфейсов | 187 |
+| 393. | [maidishike/FrontEnd-Wikis](https://github.com/maidishike/FrontEnd-Wikis) <br/>Front-End Wikis ,Learning JavaScript、Vue.js、Node.j... | 187 |
+| 394. | [react-brasil/empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) <br/>Repositório que mostra empresas e projetos que uti... | 187 |
+| 395. | [haskell-perf/checklist](https://github.com/haskell-perf/checklist) <br/>The Haskell performance checklist | 186 |
+| 396. | [babel/proposals](https://github.com/babel/proposals) <br/>✍️ Tracking the status of Babel's implementation o... | 186 |
+| 397. | [Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) <br/>Curated list of everything awesome around pixel ar... | 186 |
+| 398. | [LambdaSchool/LambdaCSA-Syllabus](https://github.com/LambdaSchool/LambdaCSA-Syllabus)  | 185 |
+| 399. | [TheLarkInn/unity-component-specification](https://github.com/TheLarkInn/unity-component-specification) <br/>This is a WIP draft of the Unity (Single File Web ... | 185 |
+| 400. | [devlinkcn/careTechnologyPartner](https://github.com/devlinkcn/careTechnologyPartner) <br/>给技术合伙人准备的一些法律文档，如果你想加入，请联系我： zhufeng@devlink.cn | 184 |
+| 401. | [shicai/DenseNet-Caffe](https://github.com/shicai/DenseNet-Caffe) <br/>DenseNet Caffe Models, converted from https://gith... | 184 |
+| 402. | [backend-br/vagas](https://github.com/backend-br/vagas) <br/>:v: Espaço para divulgação de vagas para backender... | 184 |
+| 403. | [eibrahim/landing-pages-resources](https://github.com/eibrahim/landing-pages-resources) <br/>Awesome List of Landing Pages and Other Marketing ... | 184 |
+| 404. | [tangyouhua/program-resource](https://github.com/tangyouhua/program-resource) <br/>编程资源 QQ(50872495) | 184 |
+| 405. | [alinebastos/dev-practice](https://github.com/alinebastos/dev-practice) <br/>Practice your skills with these ideas. | 183 |
+| 406. | [taylorham/react-conf-17-videos](https://github.com/taylorham/react-conf-17-videos) <br/>Find that one presentation you missed! | 183 |
+| 407. | [itdependsnetworks/awesome-network-automation](https://github.com/itdependsnetworks/awesome-network-automation) <br/>Curated Awesome list about Network Automation | 182 |
+| 408. | [feicong/sec_skills](https://github.com/feicong/sec_skills) <br/>软件安全工程师技能表 | 182 |
+| 409. | [aooy/blog](https://github.com/aooy/blog) <br/>杨敬卓的个人博客 | 181 |
+| 410. | [baishancloud/nginx-development-guide](https://github.com/baishancloud/nginx-development-guide)  | 181 |
+| 411. | [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) <br/>Best student discount services one should definite... | 181 |
+| 412. | [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl) <br/>A curated list of awesome WebGL libraries, resourc... | 180 |
+| 413. | [siboehm/awesome-learn-datascience](https://github.com/siboehm/awesome-learn-datascience) <br/>:chart_with_upwards_trend: Curated list of resourc... | 180 |
+| 414. | [angular-pakistan/ng-conf-2017](https://github.com/angular-pakistan/ng-conf-2017) <br/>Everything #ngConf2017 - talks - slides - resource... | 179 |
+| 415. | [acbraith/CSML_notes](https://github.com/acbraith/CSML_notes) <br/>UCL MSc Computational Statistics and Machine Learn... | 178 |
+| 416. | [AbrahamCaiJin/CommonUILibrary](https://github.com/AbrahamCaiJin/CommonUILibrary) <br/>常用的自定义view和第三方类库，欢迎Follow、Fork、Star | 178 |
+| 417. | [onthecodepath/iOS-Interview-Questions](https://github.com/onthecodepath/iOS-Interview-Questions) <br/>A curated list of iOS interview questions and answ... | 178 |
+| 418. | [BetterTuring/turingWeChatGroups](https://github.com/BetterTuring/turingWeChatGroups) <br/>10个方向的图灵微信技术群相关事宜 | 177 |
+| 419. | [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) <br/>A curated list of cryptography papers, articles, t... | 177 |
+| 420. | [DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017](https://github.com/DomanskaGrzyb/awesome-google-mobile-web-challenge-links-2017) <br/>A curated list of awesome resources for recipients... | 176 |
+| 421. | [recodeking/MalwareAnalysis](https://github.com/recodeking/MalwareAnalysis) <br/>A curated list of awesome malware analysis tools a... | 176 |
+| 422. | [Vitallium/phantomium](https://github.com/Vitallium/phantomium) <br/>Soon | 176 |
+| 423. | [ShowJoy-com/showjoy-blog](https://github.com/ShowJoy-com/showjoy-blog) <br/>尚妆产品技术刊读 | 176 |
+| 424. | [sam-b/windows_kernel_resources](https://github.com/sam-b/windows_kernel_resources) <br/>Papers, blogposts, tutorials etc for learning abou... | 175 |
+| 425. | [forkgood/easyhosts](https://github.com/forkgood/easyhosts) <br/>基于 Github 项目整合的远程 Hosts 直链，适配多种规则、终端，每 30 分钟 自动同步一... | 175 |
+| 426. | [vuejs/roadmap](https://github.com/vuejs/roadmap) <br/>Roadmap for the Vue.js project | 175 |
+| 427. | [alphayang/awesome-web](https://github.com/alphayang/awesome-web) <br/>awesome web 列表 | 175 |
+| 428. | [mingyuliutw/cvpr2017_gan_tutorial](https://github.com/mingyuliutw/cvpr2017_gan_tutorial) <br/>CVPR'17 GAN Tutorial | 174 |
+| 429. | [wwdc/2017](https://github.com/wwdc/2017) <br/>Student Submissions for the WWDC 2017 Scholarship | 174 |
+| 430. | [weilaihui/SS-Net](https://github.com/weilaihui/SS-Net) <br/>免费shadowsocks代理 | 174 |
+| 431. | [woaielf/MindMap_ZY](https://github.com/woaielf/MindMap_ZY) <br/>Data Science & MindMap | 174 |
+| 432. | [xat/react-component-composition-cheatsheet](https://github.com/xat/react-component-composition-cheatsheet) <br/>React component composition cheatsheet | 174 |
+| 433. | [SuyashLakhotia/TechInterview](https://github.com/SuyashLakhotia/TechInterview) <br/>:gem: Cheat sheet to prep for technical interviews... | 173 |
+| 434. | [byoungd/resume](https://github.com/byoungd/resume) <br/>适合程序员和设计师的简历 | 173 |
+| 435. | [kihosuh/nips_2017](https://github.com/kihosuh/nips_2017) <br/>videos, slides, and others from NIPS 2017 | 173 |
+| 436. | [dsasmblr/hacking-online-games](https://github.com/dsasmblr/hacking-online-games) <br/>A curated list of tutorials/resources for hacking ... | 172 |
+| 437. | [mitalipalekar/tech-internship-resources](https://github.com/mitalipalekar/tech-internship-resources)  | 172 |
+| 438. | [FuzzySecurity/DefCon25](https://github.com/FuzzySecurity/DefCon25) <br/>UAC 0day, all day! | 171 |
+| 439. | [csarron/emdl](https://github.com/csarron/emdl) <br/>Embedded and mobile deep learning research resourc... | 171 |
+| 440. | [Proteas/native-lldb-for-ios](https://github.com/Proteas/native-lldb-for-ios) <br/>native LLDB(v3.8) for iOS | 171 |
+| 441. | [hemanth/awesome-now](https://github.com/hemanth/awesome-now) <br/>Awesome list of `now.sh` deployments. | 170 |
+| 442. | [toddmotto/angular-architecture](https://github.com/toddmotto/angular-architecture) <br/>Angular architecture guide for teams. | 170 |
+| 443. | [kashyap32/AI-resources](https://github.com/kashyap32/AI-resources) <br/>Selection of resources to learn Artificial Intelli... | 169 |
+| 444. | [w568w/How_To_Report_Bug_Properly](https://github.com/w568w/How_To_Report_Bug_Properly) <br/>如何有效地报告 Bug 中文删减版 | 169 |
+| 445. | [humpback/humpback](https://github.com/humpback/humpback) <br/>Quickly build lightweight docker cloud for enterpr... | 169 |
+| 446. | [rstudio/cheatsheets](https://github.com/rstudio/cheatsheets) <br/>RStudio Cheat Sheets | 169 |
+| 447. | [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) <br/>Tools, processes and resources you need to create ... | 169 |
+| 448. | [JerryC8080/understand-tcp-udp](https://github.com/JerryC8080/understand-tcp-udp) <br/>📙 理解 TCP 和 UDP | 168 |
+| 449. | [Apache-Flink-Docs-ZH/Apache-Flink-Docs-ZH-translation](https://github.com/Apache-Flink-Docs-ZH/Apache-Flink-Docs-ZH-translation) <br/>Apache Flink官方文档中文翻译计划 | 168 |
+| 450. | [Scanate/UltimateICOCalendar](https://github.com/Scanate/UltimateICOCalendar) <br/>The ICO calendar to end all ICO calendars | 168 |
+| 451. | [cjdowner/cryptocurrency-icons](https://github.com/cjdowner/cryptocurrency-icons) <br/>A set of icons for all the main cryptocurrencies a... | 167 |
+| 452. | [rlee0525/TechnicalConceptsForInterviews](https://github.com/rlee0525/TechnicalConceptsForInterviews) <br/>Various technical concepts for interviews - Feel f... | 167 |
+| 453. | [aozhimin/iOS-Debug-Hacks](https://github.com/aozhimin/iOS-Debug-Hacks) <br/>:dart: Advanced debugging skills used in the iOS p... | 166 |
+| 454. | [jaybutera/Abstract-Algebra](https://github.com/jaybutera/Abstract-Algebra) <br/>A course-worth of notes and lecture audio | 166 |
+| 455. | [denji/nginx-tuning](https://github.com/denji/nginx-tuning) <br/>NGINX tuning for best performance | 166 |
+| 456. | [carolanitz/Awesome-iOS-Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter) <br/>A curated list of awesome iOS Twitter accounts | 165 |
+| 457. | [maintainers/welcome](https://github.com/maintainers/welcome) <br/>Information on the GitHub maintainer community | 165 |
+| 458. | [dongb5/GAN-Timeline](https://github.com/dongb5/GAN-Timeline) <br/>A timeline showing the development of Generative A... | 164 |
+| 459. | [doczhcn/istio](https://github.com/doczhcn/istio) <br/>Istio官方文档中文版 | 164 |
+| 460. | [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) <br/>AMD Open Source Driver For Vulkan | 164 |
+| 461. | [hwalsuklee/awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo) <br/>A curated list of awesome deep vision web demo | 164 |
+| 462. | [tom0li/collection-document](https://github.com/tom0li/collection-document) <br/>优质安全 list | 164 |
+| 463. | [NLKNguyen/awesome-language-engineering](https://github.com/NLKNguyen/awesome-language-engineering) <br/>✨ A curated list of useful resources for computer ... | 163 |
+| 464. | [anderscorr/china-free](https://github.com/anderscorr/china-free) <br/>Provide censored materials to citizens in China wi... | 163 |
+| 465. | [GoogleChromeLabs/discovery](https://github.com/GoogleChromeLabs/discovery) <br/>Discoveries on Sustainable Loading research | 163 |
+| 466. | [re4lity/Benchmarks](https://github.com/re4lity/Benchmarks) <br/>常用服务器、数据库、中间件安全配置基线 - 基本包括了所有的操作系统、数据库、中间件、网络设备、浏览... | 163 |
+| 467. | [meitar/awesome-lockpicking](https://github.com/meitar/awesome-lockpicking) <br/>:unlock::sunglasses: A curated list of awesome gui... | 163 |
+| 468. | [HcySunYang/knowledge](https://github.com/HcySunYang/knowledge) <br/>速记：https://kb.hcysun.me | 163 |
+| 469. | [hillbrad/U2FReviews](https://github.com/hillbrad/U2FReviews) <br/>Reviews of U2F devices | 163 |
+| 470. | [Cryptogenic/Exploit-Writeups](https://github.com/Cryptogenic/Exploit-Writeups) <br/>A collection where my current and future writeups ... | 162 |
+| 471. | [dspinellis/latex-advice](https://github.com/dspinellis/latex-advice) <br/>Advice for writing LaTeX documents | 161 |
+| 472. | [poetries/FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions) <br/>前端面试常考问题整理，按模块知识点分类 Front-end-Developer-Questions ... | 161 |
+| 473. | [fishme/awesome-ionic2-components](https://github.com/fishme/awesome-ionic2-components) <br/>Should help you to get awesome components and plug... | 161 |
+| 474. | [NaNoGenMo/2017](https://github.com/NaNoGenMo/2017) <br/>National Novel Generation Month, 2017 edition. | 161 |
+| 475. | [avadhbsd/IconFlower](https://github.com/avadhbsd/IconFlower) <br/>Arrange icons, images and shapes in Phyllotaxis ( ... | 161 |
+| 476. | [UCodeUStory/ComputerBookShare](https://github.com/UCodeUStory/ComputerBookShare) <br/>:books::books:计算机电子图书分享🐬，欢迎大家分享自己的电子书到这里来，让大家寻找资源不... | 161 |
+| 477. | [shekhargulati/building-java-web-apps-checklist](https://github.com/shekhargulati/building-java-web-apps-checklist) <br/>✅ A checklist for building Java + Angular/React we... | 160 |
+| 478. | [sdras/vue-vscode-extensionpack](https://github.com/sdras/vue-vscode-extensionpack) <br/>The extensions I use when developing a Vue applica... | 160 |
+| 479. | [awfssv/pytorch-cn](https://github.com/awfssv/pytorch-cn) <br/>Pythrch-CN文档地址 | 160 |
+| 480. | [district0x/district-proposals](https://github.com/district0x/district-proposals) <br/>Proposals for new districts to be built by the dis... | 160 |
+| 481. | [BeeTech-global/bee-stylish](https://github.com/BeeTech-global/bee-stylish) <br/>:dark_sunglasses: Styleguides da moda (ou não) | 160 |
+| 482. | [ruanyf/koa-demos](https://github.com/ruanyf/koa-demos) <br/>A collection of simple demos of Koa | 159 |
+| 483. | [o2team/JDHot](https://github.com/o2team/JDHot) <br/>凹凸实验室每周的分享课件 | 159 |
+| 484. | [feichtenhofer/Detect-Track](https://github.com/feichtenhofer/Detect-Track)  | 159 |
+| 485. | [rainbyte/haskell-ide-chart](https://github.com/rainbyte/haskell-ide-chart) <br/>Haskell state of editor/IDE support | 158 |
+| 486. | [walidshaari/Kubernetes-Certified-Administrator](https://github.com/walidshaari/Kubernetes-Certified-Administrator) <br/>Online resources that will help you prepare for ta... | 158 |
+| 487. | [dkozlov/awesome-knowledge-distillation](https://github.com/dkozlov/awesome-knowledge-distillation) <br/>Awesome Knowledge Distillation | 158 |
+| 488. | [Microsoft/SmartHotel360](https://github.com/Microsoft/SmartHotel360) <br/>SmartHotel360 - Connect(); 2017 keynote demo apps | 157 |
+| 489. | [vysec/CVE-2017-8759](https://github.com/vysec/CVE-2017-8759) <br/>CVE-2017-8759 - A vulnerability in the SOAP WDSL p... | 157 |
+| 490. | [linwalker/render-html-to-pdf](https://github.com/linwalker/render-html-to-pdf) <br/>render the webpages to pdf and downlowd | 157 |
+| 491. | [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) <br/>Bash 教程 | 157 |
+| 492. | [ArcherFMY/Paper_Reading_List](https://github.com/ArcherFMY/Paper_Reading_List) <br/>Recommended Papers. Subjects: Computer Vision and ... | 157 |
+| 493. | [lorabv/awesome-agile-software-development](https://github.com/lorabv/awesome-agile-software-development) <br/>Awesome List of resources on Agile Software Develo... | 157 |
+| 494. | [MichaelLiang12/CVPR-2017-Abstracts-Collection](https://github.com/MichaelLiang12/CVPR-2017-Abstracts-Collection) <br/>Collection of CVPR 2017, including titles, links, ... | 156 |
+| 495. | [Jobeir/how-companies-hire](https://github.com/Jobeir/how-companies-hire) <br/>An inside look into how top tech companies hire | 156 |
+| 496. | [skyseraph/Soft-Tools](https://github.com/skyseraph/Soft-Tools) <br/>SkySeraph Awesome Soft Tools ~~ | 156 |
+| 497. | [softvar/awesome-web-storage](https://github.com/softvar/awesome-web-storage) <br/>:sunglasses: Everything you need to know about Cli... | 156 |
+| 498. | [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) <br/>A curated list of awesome console services (reacha... | 155 |
+| 499. | [actionjack/so-you-want-to-onboard-a-devops-engineer](https://github.com/actionjack/so-you-want-to-onboard-a-devops-engineer) <br/>Guidance on how to make your environment easier to... | 155 |
+| 500. | [jaredpalmer/awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) <br/>😎 Awesome list of React components with render pro... | 154 |
+
+## Most-Starred Users: Unknown
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [kamranahmedse](https://github.com/kamranahmedse)  | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)  (29028) <br/>[design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)  (18868) <br/> | 47896 |
+| 2. | [sdmg15](https://github.com/sdmg15)  | [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)  (20982) <br/> | 20982 |
+| 3. | [mbeaudru](https://github.com/mbeaudru)  | [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)  (15003) <br/> | 15003 |
+| 4. | [zeeshanu](https://github.com/zeeshanu)  | [learn-regex](https://github.com/zeeshanu/learn-regex)  (13675) <br/>[opus](https://github.com/zeeshanu/opus)  (755) <br/>[emoji-awesome](https://github.com/zeeshanu/emoji-awesome)  (221) <br/> | 13675 |
+| 5. | [i0natan](https://github.com/i0natan)  | [nodebestpractices](https://github.com/i0natan/nodebestpractices)  (11443) <br/> | 11443 |
+| 6. | [bmorelli25](https://github.com/bmorelli25)  | [Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)  (9478) <br/> | 9478 |
+| 7. | [dexteryy](https://github.com/dexteryy)  | [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)  (9137) <br/> | 9137 |
+| 8. | [opendigg](https://github.com/opendigg)  | [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)  (4007) <br/>[awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp)  (2719) <br/>[awesome-github-android-ui](https://github.com/opendigg/awesome-github-android-ui)  (2130) <br/> | 8856 |
+| 9. | [kailashahirwar](https://github.com/kailashahirwar)  | [cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)  (8499) <br/> | 8499 |
+| 10. | [Idnan](https://github.com/Idnan)  | [bash-guide](https://github.com/Idnan/bash-guide)  (8159) <br/> | 8159 
