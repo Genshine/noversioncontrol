@@ -1,38 +1,84 @@
-# C-Sharp
 
-## Most-Starred Repos: C#
+# C
+
+## Most-Starred Repos: C
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [Mrs4s/BaiduPanDownload](https://github.com/Mrs4s/BaiduPanDownload) <br/>百度网盘不限速下载工具 | 1930 |
-| 2. | [Unity-Technologies/PostProcessing](https://github.com/Unity-Technologies/PostProcessing) <br/>Post Processing Stack | 700 |
-| 3. | [keijiro/Skinner](https://github.com/keijiro/Skinner) <br/>Special Effects with Skinned Mesh in Unity | 307 |
-| 4. | [JimBobSquarePants/ImageSharp](https://github.com/JimBobSquarePants/ImageSharp) <br/>:camera: A cross-platform library for the processi... | 266 |
-| 5. | [Tlaster/YourAV](https://github.com/Tlaster/YourAV) <br/>宇宙级最轻量杀毒软件 | 256 |
-| 6. | [aspnet/SignalR](https://github.com/aspnet/SignalR) <br/>Incredibly simple real-time web for ASP.NET Core | 238 |
-| 7. | [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) <br/>Full ASP.NET Core application with DDD, CQRS and E... | 215 |
-| 8. | [sabresaurus/SabreCSG](https://github.com/sabresaurus/SabreCSG) <br/>Level design tools for Unity | 134 |
-| 9. | [yuleyule66/Npoi.Core](https://github.com/yuleyule66/Npoi.Core) <br/>a .NET Core library that can read/write Office for... | 126 |
-| 10. | [Unity-Technologies/EditorVR](https://github.com/Unity-Technologies/EditorVR) <br/>Author VR in VR - See blog post for supporting dow... | 124 |
+| 1. | [commaai/openpilot](https://github.com/commaai/openpilot) <br/>open source driving agent | 4341 |
+| 2. | [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) <br/>Leaked Mirai Source Code for Research/IoC Developm... | 3902 |
+| 3. | [deepmind/lab](https://github.com/deepmind/lab) <br/>A customisable 3D platform for agent-based AI rese... | 2845 |
+| 4. | [minoca/os](https://github.com/minoca/os) <br/>Minoca operating system | 2035 |
+| 5. | [mattrajca/sudo-touchid](https://github.com/mattrajca/sudo-touchid) <br/>A fork of `sudo` with Touch ID support. | 1065 |
+| 6. | [quiet/org.quietmodem.Quiet](https://github.com/quiet/org.quietmodem.Quiet) <br/>Quiet for Android - TCP over sound | 601 |
+| 7. | [timwr/CVE-2016-5195](https://github.com/timwr/CVE-2016-5195) <br/>CVE-2016-5195 (dirtycow/dirtyc0w) proof of concept... | 579 |
+| 8. | [veertuinc/vdhh](https://github.com/veertuinc/vdhh) <br/>Veertu Desktop Hosted Hypervisor | 529 |
+| 9. | [mempodippy/vlany](https://github.com/mempodippy/vlany) <br/>Linux LD_PRELOAD rootkit (x86 and x86_64 architect... | 426 |
+| 10. | [robinhouston/image-unshredding](https://github.com/robinhouston/image-unshredding)  | 348 |
+| 11. | [RedBeardLab/rediSQL](https://github.com/RedBeardLab/rediSQL) <br/>Redis module that provides a completely functional... | 277 |
+| 12. | [adtac/fssb](https://github.com/adtac/fssb) <br/>A low-level filesystem sandbox for Linux using sys... | 264 |
+| 13. | [xyzxqs/XLowPoly](https://github.com/xyzxqs/XLowPoly) <br/>Lowpoly picture, Sandpainting for Android implemen... | 226 |
+| 14. | [0x27/linux.mirai](https://github.com/0x27/linux.mirai) <br/>Leaked Linux.Mirai Source Code for Research/IoC De... | 226 |
+| 15. | [fail0verflow/hbc](https://github.com/fail0verflow/hbc) <br/>The Homebrew Channel - open source edition | 226 |
+| 16. | [1N3/PrivEsc](https://github.com/1N3/PrivEsc) <br/>A collection of Windows, Linux and MySQL privilege... | 225 |
+| 17. | [ronsoros/rvm](https://github.com/ronsoros/rvm) <br/>simple virtual machine and assembler | 213 |
+| 18. | [openai/openai-gemm](https://github.com/openai/openai-gemm) <br/>Open single and half precision gemm implementation... | 178 |
+| 19. | [krakjoe/ui](https://github.com/krakjoe/ui) <br/>Cross platform UI development in PHP | 172 |
+| 20. | [mbevand/silentarmy](https://github.com/mbevand/silentarmy) <br/>Zcash miner optimized for AMD & Nvidia GPUs | 157 |
+| 21. | [robertdavidgraham/telnetlogger](https://github.com/robertdavidgraham/telnetlogger) <br/>Simulates enough of a Telnet connection in order t... | 141 |
+| 22. | [scumjr/dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) <br/>PoC for Dirty COW (CVE-2016-5195) | 141 |
+| 23. | [benjamin-42/Trident](https://github.com/benjamin-42/Trident)  | 137 |
+| 24. | [jedisct1/blacknurse](https://github.com/jedisct1/blacknurse) <br/>BlackNurse attack PoC | 132 |
+| 25. | [codr4life/libc4life](https://github.com/codr4life/libc4life) <br/>esoteric, minimal C essentials | 122 |
+| 26. | [LineageOS/android_device_oneplus_bacon](https://github.com/LineageOS/android_device_oneplus_bacon) <br/>OnePlus One device configuration (bacon) | 121 |
+| 27. | [mjosaarinen/dekryptize](https://github.com/mjosaarinen/dekryptize) <br/>A ncurses animation to make decryption look like, ... | 120 |
+| 28. | [graydon/rust-prehistory](https://github.com/graydon/rust-prehistory) <br/>historical archive of rust pre-publication develop... | 118 |
+| 29. | [James-Gallagher/Mirai](https://github.com/James-Gallagher/Mirai) <br/>Source code for the Mirai botnet - Not going anywh... | 116 |
+| 30. | [boywhp/fcn](https://github.com/boywhp/fcn) <br/>free connect your private network from anywhere | 113 |
+| 31. | [SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX) <br/>This framework is for fuzzing OSX kernel vulnerabi... | 112 |
+| 32. | [emilk/wfc](https://github.com/emilk/wfc) <br/>A C++ port of Wave Function Collapse Tiling | 100 |
 
-## Most-Starred Users: C#
+## Most-Starred Users: C
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [Mrs4s](https://github.com/Mrs4s)  | [BaiduPanDownload](https://github.com/Mrs4s/BaiduPanDownload)  (1930) <br/> | 1930 |
-| 2. | [keijiro](https://github.com/keijiro)  | [Skinner](https://github.com/keijiro/Skinner)  (307) <br/> | 307 |
-| 3. | [JimBobSquarePants](https://github.com/JimBobSquarePants)  | [ImageSharp](https://github.com/JimBobSquarePants/ImageSharp)  (266) <br/> | 266 |
-| 4. | [Tlaster](https://github.com/Tlaster)  | [YourAV](https://github.com/Tlaster/YourAV)  (256) <br/> | 256 |
-| 5. | [EduardoPires](https://github.com/EduardoPires)  | [EquinoxProject](https://github.com/EduardoPires/EquinoxProject)  (215) <br/> | 215 |
-| 6. | [sabresaurus](https://github.com/sabresaurus)  | [SabreCSG](https://github.com/sabresaurus/SabreCSG)  (134) <br/> | 134 |
-| 7. | [yuleyule66](https://github.com/yuleyule66)  | [Npoi.Core](https://github.com/yuleyule66/Npoi.Core)  (126) <br/> | 126 |
+| 1. | [jgamblin](https://github.com/jgamblin)  | [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)  (3902) <br/> | 3902 |
+| 2. | [mattrajca](https://github.com/mattrajca)  | [sudo-touchid](https://github.com/mattrajca/sudo-touchid)  (1065) <br/> | 1065 |
+| 3. | [timwr](https://github.com/timwr)  | [CVE-2016-5195](https://github.com/timwr/CVE-2016-5195)  (579) <br/> | 579 |
+| 4. | [mempodippy](https://github.com/mempodippy)  | [vlany](https://github.com/mempodippy/vlany)  (426) <br/> | 426 |
+| 5. | [robinhouston](https://github.com/robinhouston)  | [image-unshredding](https://github.com/robinhouston/image-unshredding)  (348) <br/> | 348 |
+| 6. | [adtac](https://github.com/adtac)  | [fssb](https://github.com/adtac/fssb)  (264) <br/> | 264 |
+| 7. | [0x27](https://github.com/0x27)  | [linux.mirai](https://github.com/0x27/linux.mirai)  (226) <br/> | 226 |
+| 8. | [xyzxqs](https://github.com/xyzxqs)  | [XLowPoly](https://github.com/xyzxqs/XLowPoly)  (226) <br/> | 226 |
+| 9. | [1N3](https://github.com/1N3)  | [PrivEsc](https://github.com/1N3/PrivEsc)  (225) <br/> | 225 |
+| 10. | [ronsoros](https://github.com/ronsoros)  | [rvm](https://github.com/ronsoros/rvm)  (213) <br/> | 213 |
+| 11. | [krakjoe](https://github.com/krakjoe)  | [ui](https://github.com/krakjoe/ui)  (172) <br/> | 172 |
+| 12. | [mbevand](https://github.com/mbevand)  | [silentarmy](https://github.com/mbevand/silentarmy)  (157) <br/> | 157 |
+| 13. | [scumjr](https://github.com/scumjr)  | [dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso)  (141) <br/> | 141 |
+| 14. | [robertdavidgraham](https://github.com/robertdavidgraham)  | [telnetlogger](https://github.com/robertdavidgraham/telnetlogger)  (141) <br/> | 141 |
+| 15. | [benjamin-42](https://github.com/benjamin-42)  | [Trident](https://github.com/benjamin-42/Trident)  (137) <br/> | 137 |
+| 16. | [jedisct1](https://github.com/jedisct1)  | [blacknurse](https://github.com/jedisct1/blacknurse)  (132) <br/> | 132 |
+| 17. | [codr4life](https://github.com/codr4life)  | [libc4life](https://github.com/codr4life/libc4life)  (122) <br/> | 122 |
+| 18. | [mjosaarinen](https://github.com/mjosaarinen)  | [dekryptize](https://github.com/mjosaarinen/dekryptize)  (120) <br/> | 120 |
+| 19. | [graydon](https://github.com/graydon)  | [rust-prehistory](https://github.com/graydon/rust-prehistory)  (118) <br/> | 118 |
+| 20. | [James-Gallagher](https://github.com/James-Gallagher)  | [Mirai](https://github.com/James-Gallagher/Mirai)  (116) <br/> | 116 |
+| 21. | [boywhp](https://github.com/boywhp)  | [fcn](https://github.com/boywhp/fcn)  (113) <br/> | 113 |
+| 22. | [SilverMoonSecurity](https://github.com/SilverMoonSecurity)  | [PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)  (112) <br/> | 112 |
+| 23. | [emilk](https://github.com/emilk)  | [wfc](https://github.com/emilk/wfc)  (100) <br/> | 100 |
 
-## Most-Starred Orgs: C#
+## Most-Starred Orgs: C
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [Unity-Technologies](https://github.com/Unity-Technologies)  | [PostProcessing](https://github.com/Unity-Technologies/PostProcessing)  (700) <br/>[HLSLcc](https://github.com/Unity-Technologies/HLSLcc)  (148) <br/>[EditorVR](https://github.com/Unity-Technologies/EditorVR)  (124) <br/> | 824 |
-| 2. | [aspnet](https://github.com/aspnet)  | [SignalR](https://github.com/aspnet/SignalR)  (238) <br/> | 238 |
+| 1. | [commaai](https://github.com/commaai)  | [openpilot](https://github.com/commaai/openpilot)  (4341) <br/> | 4341 |
+| 2. | [deepmind](https://github.com/deepmind)  | [lab](https://github.com/deepmind/lab)  (2845) <br/>[learning-to-learn](https://github.com/deepmind/learning-to-learn)  (1375) <br/> | 2845 |
+| 3. | [minoca](https://github.com/minoca)  | [os](https://github.com/minoca/os)  (2035) <br/> | 2035 |
+| 4. | [quiet](https://github.com/quiet)  | [org.quietmodem.Quiet](https://github.com/quiet/org.quietmodem.Quiet)  (601) <br/> | 601 |
+| 5. | [veertuinc](https://github.com/veertuinc)  | [vdhh](https://github.com/veertuinc/vdhh)  (529) <br/> | 529 |
+| 6. | [RedBeardLab](https://github.com/RedBeardLab)  | [rediSQL](https://github.com/RedBeardLab/rediSQL)  (277) <br/> | 277 |
+| 7. | [fail0verflow](https://github.com/fail0verflow)  | [hbc](https://github.com/fail0verflow/hbc)  (226) <br/> | 226 |
+| 8. | [openai](https://github.com/openai)  | [universe](https://github.com/openai/universe)  (3852) <br/>[universe-starter-agent](https://github.com/openai/universe-starter-agent)  (326) <br/>[openai-gemm](https://github.com/openai/openai-gemm)  (178) <br/> | 178 |
+| 9. | [LineageOS](https://github.com/LineageOS)  | [android_device_oneplus_bacon](https://github.com/LineageOS/android_device_oneplus_bacon)  (121) <br/> | 121 |
 
 ## Language Stats Index
 
