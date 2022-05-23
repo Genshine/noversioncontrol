@@ -1,21 +1,27 @@
-# CoffeeScript
+# Haskell
 
-## Most-Starred Repos: CoffeeScript
+## Most-Starred Repos: Haskell
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [michelson/dante2](https://github.com/michelson/dante2) <br/>A complete rewrite of dante editor in draft-js, de... | 133 |
+| 1. | [tensorflow/haskell](https://github.com/tensorflow/haskell) <br/>Haskell bindings for TensorFlow | 346 |
+| 2. | [haskus/haskus-system](https://github.com/haskus/haskus-system) <br/>Haskus system | 267 |
+| 3. | [steveshogren/10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises) <br/>The exercise files from 10 Minute Vim, for conveni... | 134 |
+| 4. | [input-output-hk/pos-haskell-prototype](https://github.com/input-output-hk/pos-haskell-prototype) <br/>pos cryptocurrency prototype | 102 |
 
-## Most-Starred Users: CoffeeScript
+## Most-Starred Users: Haskell
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [michelson](https://github.com/michelson)  | [dante2](https://github.com/michelson/dante2)  (133) <br/> | 133 |
+| 1. | [steveshogren](https://github.com/steveshogren)  | [10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises)  (134) <br/> | 134 |
 
-## Most-Starred Orgs: CoffeeScript
+## Most-Starred Orgs: Haskell
 
 | | Org | Repos | Stars |
 |---|---|---|---|
+| 1. | [tensorflow](https://github.com/tensorflow)  | [deepmath](https://github.com/tensorflow/deepmath)  (397) <br/>[haskell](https://github.com/tensorflow/haskell)  (346) <br/>[ecosystem](https://github.com/tensorflow/ecosystem)  (111) <br/> | 346 |
+| 2. | [haskus](https://github.com/haskus)  | [haskus-system](https://github.com/haskus/haskus-system)  (267) <br/> | 267 |
+| 3. | [input-output-hk](https://github.com/input-output-hk)  | [pos-haskell-prototype](https://github.com/input-output-hk/pos-haskell-prototype)  (102) <br/> | 102 |
 
 ## Language Stats Index
 
