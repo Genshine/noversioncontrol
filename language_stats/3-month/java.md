@@ -201,4 +201,136 @@
 | 195. | [yiyuanliu/FlipGank](https://github.com/yiyuanliu/FlipGank) <br/>FlipBoard 翻页风格的 Gank.io 客户端 | 152 |
 | 196. | [a-voyager/WeekToDo](https://github.com/a-voyager/WeekToDo) <br/>《番茄周》软件开源项目 | 150 |
 | 197. | [fashare2015/ActivityTracker](https://github.com/fashare2015/ActivityTracker) <br/>A FloatingView to show current topActivity in the ... | 149 |
-| 198. | [MatteoBattilana/WeatherView](
+| 198. | [MatteoBattilana/WeatherView](https://github.com/MatteoBattilana/WeatherView) <br/>WeatherView is an Android Library that helps you m... | 145 |
+| 199. | [asmcup/runtime](https://github.com/asmcup/runtime) <br/>Runtime and compiler for the Assembly Cup | 145 |
+| 200. | [AndroidMsky/WXhongbao](https://github.com/AndroidMsky/WXhongbao) <br/>自动领取微信红包,支持锁屏聊天界面等各种情况目前为6.3.32版本 | 143 |
+| 201. | [liudongmiao/Brevent](https://github.com/liudongmiao/Brevent)  | 142 |
+| 202. | [samanyougarg/ABR-App-Backup-Restore](https://github.com/samanyougarg/ABR-App-Backup-Restore) <br/>A simple android app to backup and restore your an... | 141 |
+| 203. | [Tesco/mewbase](https://github.com/Tesco/mewbase)  | 136 |
+| 204. | [ChyengJason/ShoppingCart](https://github.com/ChyengJason/ShoppingCart) <br/>仿饿了么购物车 | 135 |
+| 205. | [TinkoffCreditSystems/decoro](https://github.com/TinkoffCreditSystems/decoro)  | 133 |
+| 206. | [niuxiaowei/SimpleJavaJsBridge](https://github.com/niuxiaowei/SimpleJavaJsBridge)  | 129 |
+| 207. | [uptechteam/MotionViews-Android](https://github.com/uptechteam/MotionViews-Android) <br/>Code Guide: How to create Snapchat-like image stic... | 128 |
+| 208. | [jineshfrancs/ThemedGoogleMap](https://github.com/jineshfrancs/ThemedGoogleMap) <br/>Utility class to make GoogleMap with custom theme. | 128 |
+| 209. | [kevalpatel2106/Prevent-Screen-Off](https://github.com/kevalpatel2106/Prevent-Screen-Off) <br/>This is the library that keeps the screen on until... | 127 |
+| 210. | [uin3566/DragFooterView](https://github.com/uin3566/DragFooterView) <br/>An easy-to-use draggable ViewGroup, support drag f... | 127 |
+| 211. | [jaychang0917/SocialLoginManager](https://github.com/jaychang0917/SocialLoginManager) <br/>Android social login (facebook, google) helper pow... | 126 |
+| 212. | [zaaach/TopRightMenu](https://github.com/zaaach/TopRightMenu) <br/>a top-right popup menu like qq for android. | 126 |
+| 213. | [androidthings/new-project-template](https://github.com/androidthings/new-project-template)  | 125 |
+| 214. | [mcxtzhang/PathAnimView](https://github.com/mcxtzhang/PathAnimView) <br/>用于做Path动画的自定义View。 I have a path.I have a view. (O... | 123 |
+| 215. | [andyxialm/CutoLoadingView](https://github.com/andyxialm/CutoLoadingView) <br/>A custom loading view, just like CutoWallpaper. | 122 |
+| 216. | [ssseasonnn/PracticalRecyclerView](https://github.com/ssseasonnn/PracticalRecyclerView) <br/> Encapsulation RecyclerView, to create for the dev... | 120 |
+| 217. | [samanyougarg/Currency-Converter-Android](https://github.com/samanyougarg/Currency-Converter-Android) <br/>Currency Converter is a simple and easy-to-use mat... | 118 |
+| 218. | [gnehsuy/TaoBaoUI](https://github.com/gnehsuy/TaoBaoUI) <br/>自己写的高仿淘宝界面 | 116 |
+| 219. | [ImmortalZ/Learn_Depth](https://github.com/ImmortalZ/Learn_Depth) <br/>拆轮子-学习Depth唯美的动画效果 | 116 |
+| 220. | [chenenyu/Router](https://github.com/chenenyu/Router) <br/>🚀🚀🚀Simple and flexible router library for Android ... | 114 |
+| 221. | [tarek360/Animated-Icons](https://github.com/tarek360/Animated-Icons) <br/>Android Animated Icons | 114 |
+| 222. | [peng8350/LoadingProgress](https://github.com/peng8350/LoadingProgress) <br/>This is the library when you loading an image from... | 114 |
+| 223. | [BeppiMenozzi/TriStateToggleButton](https://github.com/BeppiMenozzi/TriStateToggleButton) <br/>Customizable tri-state toggle button (with three s... | 113 |
+| 224. | [TellH/RecyclerTreeView](https://github.com/TellH/RecyclerTreeView) <br/>TreeView implement in Android with RecyclerView. | 113 |
+| 225. | [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) <br/>An android lib for enhancing BottomNavigationView.... | 113 |
+| 226. | [Ishmeetsingh97/FontometricsLibrary](https://github.com/Ishmeetsingh97/FontometricsLibrary) <br/>Android Library to use custom fonts with ease. | 112 |
+| 227. | [gsh199449/spider](https://github.com/gsh199449/spider) <br/>A configurable web spider with a easy-to-use web c... | 112 |
+| 228. | [HalfStackDeveloper/FloatBall](https://github.com/HalfStackDeveloper/FloatBall) <br/>仿flyme悬浮球 | 111 |
+| 229. | [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) <br/>Integration of TensorFlow with other open-source f... | 111 |
+| 230. | [0ximDigital/RxAnimations](https://github.com/0ximDigital/RxAnimations) <br/>Repository for android animations Rx wrapper | 108 |
+| 231. | [limedroid/TagEditText](https://github.com/limedroid/TagEditText) <br/>Text control for displaying tags. | 105 |
+| 232. | [kalessil/phpinspectionsea](https://github.com/kalessil/phpinspectionsea) <br/>A Static Code Analyzer for PHP (a PhpStorm/Idea Pl... | 103 |
+| 233. | [jiang111/ZhiHu-TopAnswer](https://github.com/jiang111/ZhiHu-TopAnswer) <br/>知乎热门榜 | 102 |
+| 234. | [wuyinlei/MyHearts](https://github.com/wuyinlei/MyHearts) <br/>仿我心UI，后期有时间完善数据 | 102 |
+| 235. | [AndroidDeveloperLB/RootHelper](https://github.com/AndroidDeveloperLB/RootHelper) <br/>An extension to use libsuperuser library more easi... | 100 |
+| 236. | [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) <br/>SpotBugs is FindBugs' successor. A tool for static... | 100 |
+
+## Most-Starred Users: Java
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [githubwing](https://github.com/githubwing)  | [ZoomHeader](https://github.com/githubwing/ZoomHeader)  (1380) <br/>[ByeBurger](https://github.com/githubwing/ByeBurger)  (548) <br/>[DragPhotoView](https://github.com/githubwing/DragPhotoView)  (473) <br/>[WingUE](https://github.com/githubwing/WingUE)  (404) <br/>[ThreeDLayout](https://github.com/githubwing/ThreeDLayout)  (311) <br/>[ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager)  (190) <br/> | 3306 |
+| 2. | [florent37](https://github.com/florent37)  | [DiagonalLayout](https://github.com/florent37/DiagonalLayout)  (1525) <br/>[ArcLayout](https://github.com/florent37/ArcLayout)  (700) <br/>[SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker)  (174) <br/> | 2399 |
+| 3. | [shaohui10086](https://github.com/shaohui10086)  | [AdvancedLuban](https://github.com/shaohui10086/AdvancedLuban)  (662) <br/>[BottomDialog](https://github.com/shaohui10086/BottomDialog)  (617) <br/>[ShareUtil](https://github.com/shaohui10086/ShareUtil)  (605) <br/> | 1884 |
+| 4. | [czy1121](https://github.com/czy1121)  | [update](https://github.com/czy1121/update)  (582) <br/>[badgebutton](https://github.com/czy1121/badgebutton)  (309) <br/>[settingscompat](https://github.com/czy1121/settingscompat)  (273) <br/>[noticeview](https://github.com/czy1121/noticeview)  (236) <br/>[roundbutton](https://github.com/czy1121/roundbutton)  (219) <br/>[loadinglayout](https://github.com/czy1121/loadinglayout)  (210) <br/> | 1829 |
+| 5. | [Piasy](https://github.com/Piasy)  | [BigImageViewer](https://github.com/Piasy/BigImageViewer)  (1439) <br/> | 1439 |
+| 6. | [codeestX](https://github.com/codeestX)  | [ENViews](https://github.com/codeestX/ENViews)  (1320) <br/> | 1320 |
+| 7. | [gjiazhe](https://github.com/gjiazhe)  | [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView)  (681) <br/>[ScrollParallaxImageView](https://github.com/gjiazhe/ScrollParallaxImageView)  (348) <br/>[MultiChoicesCircleButton](https://github.com/gjiazhe/MultiChoicesCircleButton)  (255) <br/> | 1284 |
+| 8. | [hejunlin2013](https://github.com/hejunlin2013)  | [DragVideo](https://github.com/hejunlin2013/DragVideo)  (487) <br/>[TVSample](https://github.com/hejunlin2013/TVSample)  (418) <br/>[LivePlayback](https://github.com/hejunlin2013/LivePlayback)  (345) <br/> | 1250 |
+| 9. | [ImmortalZ](https://github.com/ImmortalZ)  | [TransitionHelper](https://github.com/ImmortalZ/TransitionHelper)  (1133) <br/>[Learn_Depth](https://github.com/ImmortalZ/Learn_Depth)  (116) <br/> | 1249 |
+| 10. | [amitshekhariitbhu](https://github.com/amitshekhariitbhu)  | [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)  (1187) <br/> | 1187 |
+| 11. | [mcxtzhang](https://github.com/mcxtzhang)  | [ZLayoutManager](https://github.com/mcxtzhang/ZLayoutManager)  (607) <br/>[SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha)  (267) <br/>[all-base-adapter](https://github.com/mcxtzhang/all-base-adapter)  (165) <br/>[PathAnimView](https://github.com/mcxtzhang/PathAnimView)  (123) <br/> | 1162 |
+| 12. | [ssseasonnn](https://github.com/ssseasonnn)  | [RxDownload](https://github.com/ssseasonnn/RxDownload)  (1030) <br/>[PracticalRecyclerView](https://github.com/ssseasonnn/PracticalRecyclerView)  (120) <br/> | 1150 |
+| 13. | [erttyy8821](https://github.com/erttyy8821)  | [MyDiary](https://github.com/erttyy8821/MyDiary)  (1129) <br/> | 1129 |
+| 14. | [limedroid](https://github.com/limedroid)  | [XDroid](https://github.com/limedroid/XDroid)  (594) <br/>[XRichText](https://github.com/limedroid/XRichText)  (221) <br/>[XDroidMvp](https://github.com/limedroid/XDroidMvp)  (173) <br/>[TagEditText](https://github.com/limedroid/TagEditText)  (105) <br/> | 1093 |
+| 15. | [developer-shivam](https://github.com/developer-shivam)  | [Crescento](https://github.com/developer-shivam/Crescento)  (818) <br/>[Diagonalify](https://github.com/developer-shivam/Diagonalify)  (267) <br/> | 1085 |
+| 16. | [Kelin-Hong](https://github.com/Kelin-Hong)  | [ScrollablePanel](https://github.com/Kelin-Hong/ScrollablePanel)  (1081) <br/> | 1081 |
+| 17. | [UFreedom](https://github.com/UFreedom)  | [FloatingView](https://github.com/UFreedom/FloatingView)  (1058) <br/> | 1058 |
+| 18. | [CarGuo](https://github.com/CarGuo)  | [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)  (818) <br/>[RecordWave](https://github.com/CarGuo/RecordWave)  (163) <br/> | 981 |
+| 19. | [lygttpod](https://github.com/lygttpod)  | [SuperTextView](https://github.com/lygttpod/SuperTextView)  (968) <br/> | 968 |
+| 20. | [nickbutcher](https://github.com/nickbutcher)  | [AnimatorDurationTile](https://github.com/nickbutcher/AnimatorDurationTile)  (909) <br/> | 909 |
+| 21. | [a-voyager](https://github.com/a-voyager)  | [BluetoothHelper](https://github.com/a-voyager/BluetoothHelper)  (750) <br/>[WeekToDo](https://github.com/a-voyager/WeekToDo)  (150) <br/> | 900 |
+| 22. | [Hitomis](https://github.com/Hitomis)  | [ActivitySwitcher](https://github.com/Hitomis/ActivitySwitcher)  (720) <br/>[CrazyShadow](https://github.com/Hitomis/CrazyShadow)  (175) <br/> | 895 |
+| 23. | [mancj](https://github.com/mancj)  | [SlideUp-Android](https://github.com/mancj/SlideUp-Android)  (842) <br/> | 842 |
+| 24. | [IntruderShanky](https://github.com/IntruderShanky)  | [Squint](https://github.com/IntruderShanky/Squint)  (497) <br/>[Frisson](https://github.com/IntruderShanky/Frisson)  (262) <br/> | 759 |
+| 25. | [philliphsu](https://github.com/philliphsu)  | [BottomSheetPickers](https://github.com/philliphsu/BottomSheetPickers)  (742) <br/> | 742 |
+| 26. | [race604](https://github.com/race604)  | [WaveLoading](https://github.com/race604/WaveLoading)  (733) <br/> | 733 |
+| 27. | [thelong1EU](https://github.com/thelong1EU)  | [SpaceTabLayout](https://github.com/thelong1EU/SpaceTabLayout)  (733) <br/> | 733 |
+| 28. | [VictorAlbertos](https://github.com/VictorAlbertos)  | [BreadcrumbsView](https://github.com/VictorAlbertos/BreadcrumbsView)  (511) <br/>[SwipeCoordinator](https://github.com/VictorAlbertos/SwipeCoordinator)  (204) <br/> | 715 |
+| 29. | [HuTianQi](https://github.com/HuTianQi)  | [QQ](https://github.com/HuTianQi/QQ)  (713) <br/> | 713 |
+| 30. | [matrixxun](https://github.com/matrixxun)  | [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)  (697) <br/> | 697 |
+| 31. | [JoaquimLey](https://github.com/JoaquimLey)  | [faboptions](https://github.com/JoaquimLey/faboptions)  (694) <br/> | 694 |
+| 32. | [Freelander](https://github.com/Freelander)  | [Elephant](https://github.com/Freelander/Elephant)  (692) <br/> | 692 |
+| 33. | [a371166028](https://github.com/a371166028)  | [likequanmintv](https://github.com/a371166028/likequanmintv)  (684) <br/> | 684 |
+| 34. | [lawloretienne](https://github.com/lawloretienne)  | [TinderStack](https://github.com/lawloretienne/TinderStack)  (477) <br/>[MovieHub](https://github.com/lawloretienne/MovieHub)  (195) <br/> | 672 |
+| 35. | [ToDou](https://github.com/ToDou)  | [appbarlayout-spring-behavior](https://github.com/ToDou/appbarlayout-spring-behavior)  (645) <br/> | 645 |
+| 36. | [brianway](https://github.com/brianway)  | [webporter](https://github.com/brianway/webporter)  (624) <br/> | 624 |
+| 37. | [DreaminginCodeZH](https://github.com/DreaminginCodeZH)  | [MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar)  (611) <br/> | 611 |
+| 38. | [garretyoder](https://github.com/garretyoder)  | [Colorful](https://github.com/garretyoder/Colorful)  (576) <br/> | 576 |
+| 39. | [yingLanNull](https://github.com/yingLanNull)  | [AlphaTabsIndicator](https://github.com/yingLanNull/AlphaTabsIndicator)  (306) <br/>[CircleAlarmTimerView](https://github.com/yingLanNull/CircleAlarmTimerView)  (264) <br/> | 570 |
+| 40. | [niniloveyou](https://github.com/niniloveyou)  | [StateButton](https://github.com/niniloveyou/StateButton)  (569) <br/> | 569 |
+| 41. | [SilenceDut](https://github.com/SilenceDut)  | [KnowWeather](https://github.com/SilenceDut/KnowWeather)  (568) <br/> | 568 |
+| 42. | [fishwjy](https://github.com/fishwjy)  | [MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)  (562) <br/> | 562 |
+| 43. | [jineshfrancs](https://github.com/jineshfrancs)  | [CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView)  (426) <br/>[ThemedGoogleMap](https://github.com/jineshfrancs/ThemedGoogleMap)  (128) <br/> | 554 |
+| 44. | [dudu90](https://github.com/dudu90)  | [FreshDownloadView](https://github.com/dudu90/FreshDownloadView)  (553) <br/> | 553 |
+| 45. | [jiangzehui](https://github.com/jiangzehui)  | [xmpp](https://github.com/jiangzehui/xmpp)  (552) <br/> | 552 |
+| 46. | [wangshaolei](https://github.com/wangshaolei)  | [UnderLineLinkTextView](https://github.com/wangshaolei/UnderLineLinkTextView)  (315) <br/>[AutoFillEmailEditText](https://github.com/wangshaolei/AutoFillEmailEditText)  (227) <br/> | 542 |
+| 47. | [linglongxin24](https://github.com/linglongxin24)  | [DylanStepCount](https://github.com/linglongxin24/DylanStepCount)  (533) <br/> | 533 |
+| 48. | [vikramkakkar](https://github.com/vikramkakkar)  | [ImageTransition](https://github.com/vikramkakkar/ImageTransition)  (528) <br/> | 528 |
+| 49. | [Ajian-studio](https://github.com/Ajian-studio)  | [GADownloading](https://github.com/Ajian-studio/GADownloading)  (527) <br/> | 527 |
+| 50. | [forezp](https://github.com/forezp)  | [banya](https://github.com/forezp/banya)  (520) <br/> | 520 |
+| 51. | [gongwen](https://github.com/gongwen)  | [MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary)  (505) <br/> | 505 |
+| 52. | [jaychang0917](https://github.com/jaychang0917)  | [SimpleText](https://github.com/jaychang0917/SimpleText)  (378) <br/>[SocialLoginManager](https://github.com/jaychang0917/SocialLoginManager)  (126) <br/> | 504 |
+| 53. | [woxingxiao](https://github.com/woxingxiao)  | [BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar)  (493) <br/> | 493 |
+| 54. | [android-notes](https://github.com/android-notes)  | [SwissArmyKnife](https://github.com/android-notes/SwissArmyKnife)  (487) <br/> | 487 |
+| 55. | [ByoxCode](https://github.com/ByoxCode)  | [DrawView](https://github.com/ByoxCode/DrawView)  (482) <br/> | 482 |
+| 56. | [peng8350](https://github.com/peng8350)  | [JPTabBar](https://github.com/peng8350/JPTabBar)  (331) <br/>[LoadingProgress](https://github.com/peng8350/LoadingProgress)  (114) <br/> | 445 |
+| 57. | [Chen-Sir](https://github.com/Chen-Sir)  | [ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView)  (442) <br/> | 442 |
+| 58. | [suzeyu1992](https://github.com/suzeyu1992)  | [repo](https://github.com/suzeyu1992/repo)  (435) <br/> | 435 |
+| 59. | [Luolc](https://github.com/Luolc)  | [EmojiRain](https://github.com/Luolc/EmojiRain)  (418) <br/> | 418 |
+| 60. | [kayan1990](https://github.com/kayan1990)  | [ShareButton](https://github.com/kayan1990/ShareButton)  (413) <br/> | 413 |
+| 61. | [andyxialm](https://github.com/andyxialm)  | [TyperEditText](https://github.com/andyxialm/TyperEditText)  (290) <br/>[CutoLoadingView](https://github.com/andyxialm/CutoLoadingView)  (122) <br/> | 412 |
+| 62. | [hpdx](https://github.com/hpdx)  | [DanmukuLight](https://github.com/hpdx/DanmukuLight)  (404) <br/> | 404 |
+| 63. | [zagum](https://github.com/zagum)  | [Android-ExpandIcon](https://github.com/zagum/Android-ExpandIcon)  (399) <br/> | 399 |
+| 64. | [weavey](https://github.com/weavey)  | [LoadingLayoutDemo](https://github.com/weavey/LoadingLayoutDemo)  (392) <br/> | 392 |
+| 65. | [zhengken](https://github.com/zhengken)  | [LyricViewDemo](https://github.com/zhengken/LyricViewDemo)  (390) <br/> | 390 |
+| 66. | [barryhappy](https://github.com/barryhappy)  | [TContributionsView](https://github.com/barryhappy/TContributionsView)  (388) <br/> | 388 |
+| 67. | [DmitriyZaitsev](https://github.com/DmitriyZaitsev)  | [RadarChartView](https://github.com/DmitriyZaitsev/RadarChartView)  (383) <br/> | 383 |
+| 68. | [devsideal](https://github.com/devsideal)  | [SquareMenu](https://github.com/devsideal/SquareMenu)  (381) <br/> | 381 |
+| 69. | [daniel-stoneuk](https://github.com/daniel-stoneuk)  | [material-about-library](https://github.com/daniel-stoneuk/material-about-library)  (379) <br/> | 379 |
+| 70. | [xinghongfei](https://github.com/xinghongfei)  | [Hello-RxJava](https://github.com/xinghongfei/Hello-RxJava)  (370) <br/> | 370 |
+| 71. | [irfaan008](https://github.com/irfaan008)  | [OnePageSigninSignup](https://github.com/irfaan008/OnePageSigninSignup)  (358) <br/> | 358 |
+| 72. | [uncleleonfan](https://github.com/uncleleonfan)  | [FanChat](https://github.com/uncleleonfan/FanChat)  (356) <br/> | 356 |
+| 73. | [KingsMentor](https://github.com/KingsMentor)  | [MobileVisionBarcodeScanner](https://github.com/KingsMentor/MobileVisionBarcodeScanner)  (356) <br/> | 356 |
+| 74. | [MartinRGB](https://github.com/MartinRGB)  | [RapidInterpolator](https://github.com/MartinRGB/RapidInterpolator)  (355) <br/> | 355 |
+| 75. | [gavinliu](https://github.com/gavinliu)  | [SimpleOneStep](https://github.com/gavinliu/SimpleOneStep)  (182) <br/>[NotificationBox](https://github.com/gavinliu/NotificationBox)  (164) <br/> | 346 |
+| 76. | [HalfStackDeveloper](https://github.com/HalfStackDeveloper)  | [SwipeCardRecyclerView](https://github.com/HalfStackDeveloper/SwipeCardRecyclerView)  (208) <br/>[FloatBall](https://github.com/HalfStackDeveloper/FloatBall)  (111) <br/> | 319 |
+| 77. | [julian-klode](https://github.com/julian-klode)  | [dns66](https://github.com/julian-klode/dns66)  (316) <br/> | 316 |
+| 78. | [ittianyu](https://github.com/ittianyu)  | [MobileGuard](https://github.com/ittianyu/MobileGuard)  (202) <br/>[BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx)  (113) <br/> | 315 |
+| 79. | [NodensN](https://github.com/NodensN)  | [MediaPickerInstagram](https://github.com/NodensN/MediaPickerInstagram)  (314) <br/> | 314 |
+| 80. | [HuanHaiLiuXin](https://github.com/HuanHaiLiuXin)  | [SnackbarUtils](https://github.com/HuanHaiLiuXin/SnackbarUtils)  (313) <br/> | 313 |
+| 81. | [SwiftyWang](https://github.com/SwiftyWang)  | [FingerColoring-Android](https://github.com/SwiftyWang/FingerColoring-Android)  (307) <br/> | 307 |
+| 82. | [JakeWharton](https://github.com/JakeWharton)  | [RxWindowIfChanged](https://github.com/JakeWharton/RxWindowIfChanged)  (304) <br/> | 304 |
+| 83. | [proninyaroslav](https://github.com/proninyaroslav)  | [libretorrent](https://github.com/proninyaroslav/libretorrent)  (293) <br/> | 293 |
+| 84. | [bingoogolapple](https://github.com/bingoogolapple)  | [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)  (288) <br/> | 288 |
+| 85. | [memfis19](https://github.com/memfis19)  | [Cadar](https://github.com/memfis19/Cadar)  (282) <br/> | 282 |
+| 86. | [Bakumon](https://github.com/Bakumon)  | [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)  (276) <br/> | 276 |
+| 87. | [mayubao](https://github.com/mayubao)  | [KuaiChuan](https://github.com/mayubao/KuaiChuan)  (275) <br/> | 275 |
+| 88. | [ronaldsmartin](https://github.com/ronaldsmartin)  | [Material-ViewPagerIndicator](https://github.com/ronaldsmartin/Material-ViewPagerIndicator)  (272) <br/> | 272 |
+| 89. | [yuweiguocn](https://github.com/yuweiguocn)  | [SquareLoading](https:
