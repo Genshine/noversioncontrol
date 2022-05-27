@@ -333,4 +333,139 @@
 | 86. | [Bakumon](https://github.com/Bakumon)  | [NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView)  (276) <br/> | 276 |
 | 87. | [mayubao](https://github.com/mayubao)  | [KuaiChuan](https://github.com/mayubao/KuaiChuan)  (275) <br/> | 275 |
 | 88. | [ronaldsmartin](https://github.com/ronaldsmartin)  | [Material-ViewPagerIndicator](https://github.com/ronaldsmartin/Material-ViewPagerIndicator)  (272) <br/> | 272 |
-| 89. | [yuweiguocn](https://github.com/yuweiguocn)  | [SquareLoading](https:
+| 89. | [yuweiguocn](https://github.com/yuweiguocn)  | [SquareLoading](https://github.com/yuweiguocn/SquareLoading)  (272) <br/> | 272 |
+| 90. | [SuperMan42](https://github.com/SuperMan42)  | [MVP](https://github.com/SuperMan42/MVP)  (268) <br/> | 268 |
+| 91. | [rubensousa](https://github.com/rubensousa)  | [RaiflatButton](https://github.com/rubensousa/RaiflatButton)  (267) <br/> | 267 |
+| 92. | [pcevikogullari](https://github.com/pcevikogullari)  | [AndroidShortcuts](https://github.com/pcevikogullari/AndroidShortcuts)  (264) <br/> | 264 |
+| 93. | [Freshman111](https://github.com/Freshman111)  | [VerificationCodeView](https://github.com/Freshman111/VerificationCodeView)  (261) <br/> | 261 |
+| 94. | [samanyougarg](https://github.com/samanyougarg)  | [ABR-App-Backup-Restore](https://github.com/samanyougarg/ABR-App-Backup-Restore)  (141) <br/>[Currency-Converter-Android](https://github.com/samanyougarg/Currency-Converter-Android)  (118) <br/> | 259 |
+| 95. | [smart-fun](https://github.com/smart-fun)  | [SmartFonts](https://github.com/smart-fun/SmartFonts)  (257) <br/> | 257 |
+| 96. | [alexjlockwood](https://github.com/alexjlockwood)  | [adp-delightful-details](https://github.com/alexjlockwood/adp-delightful-details)  (256) <br/> | 256 |
+| 97. | [vivian8725118](https://github.com/vivian8725118)  | [ZXingGenerator](https://github.com/vivian8725118/ZXingGenerator)  (247) <br/> | 247 |
+| 98. | [vaigunth](https://github.com/vaigunth)  | [card-printer](https://github.com/vaigunth/card-printer)  (245) <br/> | 245 |
+| 99. | [yanzhenjie](https://github.com/yanzhenjie)  | [album](https://github.com/yanzhenjie/album)  (245) <br/> | 245 |
+| 100. | [jrvansuita](https://github.com/jrvansuita)  | [GaussianBlur](https://github.com/jrvansuita/GaussianBlur)  (242) <br/> | 242 |
+| 101. | [diamondlin2016](https://github.com/diamondlin2016)  | [LauncherView](https://github.com/diamondlin2016/LauncherView)  (242) <br/> | 242 |
+| 102. | [codbking](https://github.com/codbking)  | [CalendarExaple](https://github.com/codbking/CalendarExaple)  (239) <br/> | 239 |
+| 103. | [ladingwu](https://github.com/ladingwu)  | [ApplicationDemo](https://github.com/ladingwu/ApplicationDemo)  (239) <br/> | 239 |
+| 104. | [yakivmospan](https://github.com/yakivmospan)  | [scytale](https://github.com/yakivmospan/scytale)  (233) <br/> | 233 |
+| 105. | [Yellow5A5](https://github.com/Yellow5A5)  | [ClearScreenHelper](https://github.com/Yellow5A5/ClearScreenHelper)  (230) <br/> | 230 |
+| 106. | [FJ917](https://github.com/FJ917)  | [FJEditTextCount](https://github.com/FJ917/FJEditTextCount)  (227) <br/> | 227 |
+| 107. | [jparkie](https://github.com/jparkie)  | [PDD](https://github.com/jparkie/PDD)  (225) <br/> | 225 |
+| 108. | [guolindev](https://github.com/guolindev)  | [booksource](https://github.com/guolindev/booksource)  (225) <br/> | 225 |
+| 109. | [armcha](https://github.com/armcha)  | [Vertical-Intro](https://github.com/armcha/Vertical-Intro)  (214) <br/> | 214 |
+| 110. | [xenione](https://github.com/xenione)  | [tab-digit](https://github.com/xenione/tab-digit)  (210) <br/> | 210 |
+| 111. | [closedevice](https://github.com/closedevice)  | [FastApp](https://github.com/closedevice/FastApp)  (206) <br/> | 206 |
+| 112. | [wuapnjie](https://github.com/wuapnjie)  | [SuspensionBar](https://github.com/wuapnjie/SuspensionBar)  (204) <br/> | 204 |
+| 113. | [zhonghanwen](https://github.com/zhonghanwen)  | [ColorTextView](https://github.com/zhonghanwen/ColorTextView)  (204) <br/> | 204 |
+| 114. | [huage2580](https://github.com/huage2580)  | [ZuiMeiTAG](https://github.com/huage2580/ZuiMeiTAG)  (203) <br/> | 203 |
+| 115. | [CGmaybe10](https://github.com/CGmaybe10)  | [FocusSurfaceView](https://github.com/CGmaybe10/FocusSurfaceView)  (203) <br/> | 203 |
+| 116. | [zhangyuChen1991](https://github.com/zhangyuChen1991)  | [OverWatchLoading](https://github.com/zhangyuChen1991/OverWatchLoading)  (203) <br/> | 203 |
+| 117. | [maoruibin](https://github.com/maoruibin)  | [ReView](https://github.com/maoruibin/ReView)  (200) <br/> | 200 |
+| 118. | [yegor256](https://github.com/yegor256)  | [eo](https://github.com/yegor256/eo)  (198) <br/> | 198 |
+| 119. | [codemybrainsout](https://github.com/codemybrainsout)  | [smart-app-rate](https://github.com/codemybrainsout/smart-app-rate)  (196) <br/> | 196 |
+| 120. | [Stuie](https://github.com/Stuie)  | [papercut](https://github.com/Stuie/papercut)  (193) <br/> | 193 |
+| 121. | [LuoboDcom](https://github.com/LuoboDcom)  | [ZZShow](https://github.com/LuoboDcom/ZZShow)  (189) <br/> | 189 |
+| 122. | [liuguangqiang](https://github.com/liuguangqiang)  | [RippleLayout](https://github.com/liuguangqiang/RippleLayout)  (188) <br/> | 188 |
+| 123. | [AmniX](https://github.com/AmniX)  | [AdBlockedWebView-Android](https://github.com/AmniX/AdBlockedWebView-Android)  (186) <br/> | 186 |
+| 124. | [Assassinss](https://github.com/Assassinss)  | [Interessant](https://github.com/Assassinss/Interessant)  (183) <br/> | 183 |
+| 125. | [RiccardoMoro](https://github.com/RiccardoMoro)  | [LongPressPopup](https://github.com/RiccardoMoro/LongPressPopup)  (176) <br/> | 176 |
+| 126. | [yanbober](https://github.com/yanbober)  | [AvatarLabelView](https://github.com/yanbober/AvatarLabelView)  (175) <br/>[RNPolymerPo](https://github.com/yanbober/RNPolymerPo)  (150) <br/> | 175 |
+| 127. | [munix](https://github.com/munix)  | [LogcatTextView](https://github.com/munix/LogcatTextView)  (172) <br/> | 172 |
+| 128. | [RameshBhupathi](https://github.com/RameshBhupathi)  | [CollapsingToolbar-With-Webview](https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview)  (168) <br/> | 168 |
+| 129. | [songixan](https://github.com/songixan)  | [SmileRefresh](https://github.com/songixan/SmileRefresh)  (164) <br/> | 164 |
+| 130. | [lopei](https://github.com/lopei)  | [collageview](https://github.com/lopei/collageview)  (163) <br/> | 163 |
+| 131. | [Sloy](https://github.com/Sloy)  | [preferator](https://github.com/Sloy/preferator)  (160) <br/> | 160 |
+| 132. | [zuoweitan](https://github.com/zuoweitan)  | [CircleImageView](https://github.com/zuoweitan/CircleImageView)  (158) <br/> | 158 |
+| 133. | [aykuttasil](https://github.com/aykuttasil)  | [CallRecorder](https://github.com/aykuttasil/CallRecorder)  (157) <br/> | 157 |
+| 134. | [yiyuanliu](https://github.com/yiyuanliu)  | [FlipGank](https://github.com/yiyuanliu/FlipGank)  (152) <br/> | 152 |
+| 135. | [burgessjp](https://github.com/burgessjp)  | [GetWordTextView](https://github.com/burgessjp/GetWordTextView)  (152) <br/> | 152 |
+| 136. | [fashare2015](https://github.com/fashare2015)  | [ActivityTracker](https://github.com/fashare2015/ActivityTracker)  (149) <br/> | 149 |
+| 137. | [MatteoBattilana](https://github.com/MatteoBattilana)  | [WeatherView](https://github.com/MatteoBattilana/WeatherView)  (145) <br/> | 145 |
+| 138. | [AndroidMsky](https://github.com/AndroidMsky)  | [WXhongbao](https://github.com/AndroidMsky/WXhongbao)  (143) <br/> | 143 |
+| 139. | [liudongmiao](https://github.com/liudongmiao)  | [Brevent](https://github.com/liudongmiao/Brevent)  (142) <br/> | 142 |
+| 140. | [ChyengJason](https://github.com/ChyengJason)  | [ShoppingCart](https://github.com/ChyengJason/ShoppingCart)  (135) <br/> | 135 |
+| 141. | [niuxiaowei](https://github.com/niuxiaowei)  | [SimpleJavaJsBridge](https://github.com/niuxiaowei/SimpleJavaJsBridge)  (129) <br/> | 129 |
+| 142. | [kevalpatel2106](https://github.com/kevalpatel2106)  | [Prevent-Screen-Off](https://github.com/kevalpatel2106/Prevent-Screen-Off)  (127) <br/> | 127 |
+| 143. | [uin3566](https://github.com/uin3566)  | [DragFooterView](https://github.com/uin3566/DragFooterView)  (127) <br/> | 127 |
+| 144. | [zaaach](https://github.com/zaaach)  | [TopRightMenu](https://github.com/zaaach/TopRightMenu)  (126) <br/> | 126 |
+| 145. | [gnehsuy](https://github.com/gnehsuy)  | [TaoBaoUI](https://github.com/gnehsuy/TaoBaoUI)  (116) <br/> | 116 |
+| 146. | [chenenyu](https://github.com/chenenyu)  | [Router](https://github.com/chenenyu/Router)  (114) <br/> | 114 |
+| 147. | [tarek360](https://github.com/tarek360)  | [Animated-Icons](https://github.com/tarek360/Animated-Icons)  (114) <br/> | 114 |
+| 148. | [BeppiMenozzi](https://github.com/BeppiMenozzi)  | [TriStateToggleButton](https://github.com/BeppiMenozzi/TriStateToggleButton)  (113) <br/> | 113 |
+| 149. | [TellH](https://github.com/TellH)  | [RecyclerTreeView](https://github.com/TellH/RecyclerTreeView)  (113) <br/> | 113 |
+| 150. | [Ishmeetsingh97](https://github.com/Ishmeetsingh97)  | [FontometricsLibrary](https://github.com/Ishmeetsingh97/FontometricsLibrary)  (112) <br/> | 112 |
+| 151. | [gsh199449](https://github.com/gsh199449)  | [spider](https://github.com/gsh199449/spider)  (112) <br/> | 112 |
+| 152. | [0ximDigital](https://github.com/0ximDigital)  | [RxAnimations](https://github.com/0ximDigital/RxAnimations)  (108) <br/> | 108 |
+| 153. | [kalessil](https://github.com/kalessil)  | [phpinspectionsea](https://github.com/kalessil/phpinspectionsea)  (103) <br/> | 103 |
+| 154. | [jiang111](https://github.com/jiang111)  | [ZhiHu-TopAnswer](https://github.com/jiang111/ZhiHu-TopAnswer)  (102) <br/> | 102 |
+| 155. | [wuyinlei](https://github.com/wuyinlei)  | [MyHearts](https://github.com/wuyinlei/MyHearts)  (102) <br/> | 102 |
+| 156. | [AndroidDeveloperLB](https://github.com/AndroidDeveloperLB)  | [RootHelper](https://github.com/AndroidDeveloperLB/RootHelper)  (100) <br/> | 100 |
+
+## Most-Starred Orgs: Java
+
+| | Org | Repos | Stars |
+|---|---|---|---|
+| 1. | [kickstarter](https://github.com/kickstarter)  | [android-oss](https://github.com/kickstarter/android-oss)  (3032) <br/> | 3032 |
+| 2. | [Tencent](https://github.com/Tencent)  | [MSEC](https://github.com/Tencent/MSEC)  (1933) <br/> | 1933 |
+| 3. | [google](https://github.com/google)  | [wycheproof](https://github.com/google/wycheproof)  (1495) <br/>[conscrypt](https://github.com/google/conscrypt)  (165) <br/> | 1660 |
+| 4. | [wonderkiln](https://github.com/wonderkiln)  | [blurkit-android](https://github.com/wonderkiln/blurkit-android)  (1620) <br/> | 1620 |
+| 5. | [material-components](https://github.com/material-components)  | [material-components-web](https://github.com/material-components/material-components-web)  (1533) <br/>[material-components-android](https://github.com/material-components/material-components-android)  (1429) <br/> | 1429 |
+| 6. | [facebookincubator](https://github.com/facebookincubator)  | [TextLayoutBuilder](https://github.com/facebookincubator/TextLayoutBuilder)  (972) <br/> | 972 |
+| 7. | [Yalantis](https://github.com/Yalantis)  | [ToDoList](https://github.com/Yalantis/ToDoList)  (836) <br/> | 836 |
+| 8. | [JZ-Darkal](https://github.com/JZ-Darkal)  | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)  (723) <br/> | 723 |
+| 9. | [thunderrise](https://github.com/thunderrise)  | [android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)  (716) <br/> | 716 |
+| 10. | [hypertrack](https://github.com/hypertrack)  | [smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android)  (690) <br/> | 690 |
+| 11. | [Netflix](https://github.com/Netflix)  | [conductor](https://github.com/Netflix/conductor)  (377) <br/>[hollow](https://github.com/Netflix/hollow)  (269) <br/> | 646 |
+| 12. | [bufferapp](https://github.com/bufferapp)  | [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)  (499) <br/> | 499 |
+| 13. | [republique-et-canton-de-geneve](https://github.com/republique-et-canton-de-geneve)  | [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0)  (481) <br/> | 481 |
+| 14. | [douban](https://github.com/douban)  | [rexxar-android](https://github.com/douban/rexxar-android)  (464) <br/>[rexxar-web](https://github.com/douban/rexxar-web)  (151) <br/> | 464 |
+| 15. | [square](https://github.com/square)  | [gifencoder](https://github.com/square/gifencoder)  (365) <br/> | 365 |
+| 16. | [json-iterator](https://github.com/json-iterator)  | [java](https://github.com/json-iterator/java)  (310) <br/> | 310 |
+| 17. | [jrummyapps](https://github.com/jrummyapps)  | [html-builder](https://github.com/jrummyapps/html-builder)  (309) <br/> | 309 |
+| 18. | [baidao](https://github.com/baidao)  | [tinker-manager](https://github.com/baidao/tinker-manager)  (309) <br/> | 309 |
+| 19. | [vipshop](https://github.com/vipshop)  | [Saturn](https://github.com/vipshop/Saturn)  (275) <br/> | 275 |
+| 20. | [SmartisanTech](https://github.com/SmartisanTech)  | [packages_apps_OneStep](https://github.com/SmartisanTech/packages_apps_OneStep)  (260) <br/> | 260 |
+| 21. | [thingsboard](https://github.com/thingsboard)  | [thingsboard](https://github.com/thingsboard/thingsboard)  (243) <br/> | 243 |
+| 22. | [androidessence](https://github.com/androidessence)  | [PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView)  (235) <br/> | 235 |
+| 23. | [dianping](https://github.com/dianping)  | [pigeon](https://github.com/dianping/pigeon)  (226) <br/> | 226 |
+| 24. | [Jasonette](https://github.com/Jasonette)  | [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android)  (221) <br/> | 221 |
+| 25. | [zhihu](https://github.com/zhihu)  | [mirror](https://github.com/zhihu/mirror)  (207) <br/> | 207 |
+| 26. | [apache](https://github.com/apache)  | [incubator-rocketmq](https://github.com/apache/incubator-rocketmq)  (196) <br/> | 196 |
+| 27. | [Karumi](https://github.com/Karumi)  | [KataScreenshotAndroid](https://github.com/Karumi/KataScreenshotAndroid)  (186) <br/> | 186 |
+| 28. | [DaylightingSociety](https://github.com/DaylightingSociety)  | [WhereAreTheEyes](https://github.com/DaylightingSociety/WhereAreTheEyes)  (167) <br/> | 167 |
+| 29. | [asmcup](https://github.com/asmcup)  | [runtime](https://github.com/asmcup/runtime)  (145) <br/> | 145 |
+| 30. | [Tesco](https://github.com/Tesco)  | [mewbase](https://github.com/Tesco/mewbase)  (136) <br/> | 136 |
+| 31. | [TinkoffCreditSystems](https://github.com/TinkoffCreditSystems)  | [decoro](https://github.com/TinkoffCreditSystems/decoro)  (133) <br/> | 133 |
+| 32. | [uptechteam](https://github.com/uptechteam)  | [MotionViews-Android](https://github.com/uptechteam/MotionViews-Android)  (128) <br/> | 128 |
+| 33. | [androidthings](https://github.com/androidthings)  | [new-project-template](https://github.com/androidthings/new-project-template)  (125) <br/> | 125 |
+| 34. | [tensorflow](https://github.com/tensorflow)  | [ecosystem](https://github.com/tensorflow/ecosystem)  (111) <br/> | 111 |
+| 35. | [spotbugs](https://github.com/spotbugs)  | [spotbugs](https://github.com/spotbugs/spotbugs)  (100) <br/> | 100 |
+
+## Language Stats Index
+
+
+>Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2016/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2016).
+
+An index is provided below for convenience.*
+
+
+| Language | 2016 |
+|---|---|
+| JavaScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-repos-javascript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-users-javascript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-orgs-javascript) |
+| Java | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-repos-java) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-users-java) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-orgs-java) |
+| Objective-C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-repos-objective-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-users-objective-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-orgs-objective-c) |
+| Python | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-repos-python) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-users-python) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-orgs-python) |
+| Swift | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-repos-swift) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-users-swift) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-orgs-swift) |
+| Go | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-repos-go) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-users-go) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-orgs-go) |
+| PHP | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-repos-php) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-users-php) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-orgs-php) |
+| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-repos-c++) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-users-c++) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-orgs-c++) |
+| C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-orgs-c) |
+| CSS | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-repos-css) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-users-css) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-orgs-css) |
+| HTML | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-repos-html) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-users-html) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-orgs-html) |
+| Ruby | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-repos-ruby) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-users-ruby) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-orgs-ruby) |
+| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-repos-c#) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-users-c#) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-orgs-c#) |
+| Shell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-repos-shell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-users-shell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-orgs-shell) |
+| Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-users-scala) - [Orgs](https://github.com/donnemartin/gh-stats/blob
