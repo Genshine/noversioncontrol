@@ -1,23 +1,47 @@
-# R
+# Ruby
 
-## Most-Starred Repos: R
+## Most-Starred Repos: Ruby
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [rstudio/blogdown](https://github.com/rstudio/blogdown) <br/>Create Blogs and Websites with R Markdown | 128 |
-| 2. | [yihui/xaringan](https://github.com/yihui/xaringan) <br/>Presentation Ninja 幻灯忍者 · 写轮眼 | 125 |
+| 1. | [octobox/octobox](https://github.com/octobox/octobox) <br/>:postbox: Take back control of your GitHub Notific... | 1148 |
+| 2. | [rails/webpacker](https://github.com/rails/webpacker) <br/>Use Webpack to manage app-like JavaScript modules ... | 644 |
+| 3. | [adamcooke/procodile](https://github.com/adamcooke/procodile) <br/>🐊 Run Ruby/Rails processes in the background on Li... | 405 |
+| 4. | [KrauseFx/overkill](https://github.com/KrauseFx/overkill) <br/>Don't let iTunes interrupt your workflow 💥🎵 | 333 |
+| 5. | [antisnatchor/phishlulz](https://github.com/antisnatchor/phishlulz)  | 266 |
+| 6. | [aleks/ansible-rails](https://github.com/aleks/ansible-rails) <br/>Ansible: Ruby on Rails Server (Ubuntu 16.x) | 163 |
+| 7. | [LendingHome/zero_downtime_migrations](https://github.com/LendingHome/zero_downtime_migrations) <br/>Zero downtime migrations with ActiveRecord and Pos... | 160 |
+| 8. | [iberianpig/fusuma](https://github.com/iberianpig/fusuma) <br/>Multitouch gestures with libinput dirver on X11, L... | 149 |
+| 9. | [michaelfeathers/scythe](https://github.com/michaelfeathers/scythe) <br/>A tool for detecting barely used code in productio... | 133 |
+| 10. | [github/octocatalog-diff](https://github.com/github/octocatalog-diff) <br/>Compile Puppet catalogs from 2 branches, versions,... | 123 |
+| 11. | [michenriksen/birdwatcher](https://github.com/michenriksen/birdwatcher) <br/>Data analysis and OSINT framework for Twitter | 121 |
+| 12. | [keepcosmos/terjira](https://github.com/keepcosmos/terjira) <br/>Terjira is a very interactive and easy to use CLI ... | 120 |
+| 13. | [chendo/airchat](https://github.com/chendo/airchat) <br/>AirChat lets you chat to nearby users by abusing t... | 119 |
+| 14. | [cookpad/kuroko2](https://github.com/cookpad/kuroko2) <br/>Kuroko2 is a web-based job scheduler / workflow en... | 116 |
 
-## Most-Starred Users: R
+## Most-Starred Users: Ruby
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [yihui](https://github.com/yihui)  | [xaringan](https://github.com/yihui/xaringan)  (125) <br/> | 125 |
+| 1. | [adamcooke](https://github.com/adamcooke)  | [procodile](https://github.com/adamcooke/procodile)  (405) <br/> | 405 |
+| 2. | [KrauseFx](https://github.com/KrauseFx)  | [overkill](https://github.com/KrauseFx/overkill)  (333) <br/> | 333 |
+| 3. | [antisnatchor](https://github.com/antisnatchor)  | [phishlulz](https://github.com/antisnatchor/phishlulz)  (266) <br/> | 266 |
+| 4. | [aleks](https://github.com/aleks)  | [ansible-rails](https://github.com/aleks/ansible-rails)  (163) <br/> | 163 |
+| 5. | [iberianpig](https://github.com/iberianpig)  | [fusuma](https://github.com/iberianpig/fusuma)  (149) <br/> | 149 |
+| 6. | [michaelfeathers](https://github.com/michaelfeathers)  | [scythe](https://github.com/michaelfeathers/scythe)  (133) <br/> | 133 |
+| 7. | [michenriksen](https://github.com/michenriksen)  | [birdwatcher](https://github.com/michenriksen/birdwatcher)  (121) <br/> | 121 |
+| 8. | [keepcosmos](https://github.com/keepcosmos)  | [terjira](https://github.com/keepcosmos/terjira)  (120) <br/> | 120 |
+| 9. | [chendo](https://github.com/chendo)  | [airchat](https://github.com/chendo/airchat)  (119) <br/> | 119 |
 
-## Most-Starred Orgs: R
+## Most-Starred Orgs: Ruby
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [rstudio](https://github.com/rstudio)  | [blogdown](https://github.com/rstudio/blogdown)  (128) <br/> | 128 |
+| 1. | [octobox](https://github.com/octobox)  | [octobox](https://github.com/octobox/octobox)  (1148) <br/> | 1148 |
+| 2. | [rails](https://github.com/rails)  | [webpacker](https://github.com/rails/webpacker)  (644) <br/> | 644 |
+| 3. | [LendingHome](https://github.com/LendingHome)  | [zero_downtime_migrations](https://github.com/LendingHome/zero_downtime_migrations)  (160) <br/> | 160 |
+| 4. | [github](https://github.com/github)  | [orchestrator](https://github.com/github/orchestrator)  (325) <br/>[octocatalog-diff](https://github.com/github/octocatalog-diff)  (123) <br/> | 123 |
+| 5. | [cookpad](https://github.com/cookpad)  | [kuroko2](https://github.com/cookpad/kuroko2)  (116) <br/> | 116 |
 
 ## Language Stats Index
 

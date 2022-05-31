@@ -1,23 +1,24 @@
-# R
 
-## Most-Starred Repos: R
+# Scala
+
+## Most-Starred Repos: Scala
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [rstudio/blogdown](https://github.com/rstudio/blogdown) <br/>Create Blogs and Websites with R Markdown | 128 |
-| 2. | [yihui/xaringan](https://github.com/yihui/xaringan) <br/>Presentation Ninja 幻灯忍者 · 写轮眼 | 125 |
+| 1. | [akka/alpakka](https://github.com/akka/alpakka) <br/>Enterprise Integration Done Right — Alpakka | 178 |
+| 2. | [Algomancer/Full-Stack-Scala-Starter](https://github.com/Algomancer/Full-Stack-Scala-Starter) <br/>Play 2.5, ScalaJS, Binding.scala starter project. | 144 |
 
-## Most-Starred Users: R
+## Most-Starred Users: Scala
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [yihui](https://github.com/yihui)  | [xaringan](https://github.com/yihui/xaringan)  (125) <br/> | 125 |
+| 1. | [Algomancer](https://github.com/Algomancer)  | [Full-Stack-Scala-Starter](https://github.com/Algomancer/Full-Stack-Scala-Starter)  (144) <br/> | 144 |
 
-## Most-Starred Orgs: R
+## Most-Starred Orgs: Scala
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [rstudio](https://github.com/rstudio)  | [blogdown](https://github.com/rstudio/blogdown)  (128) <br/> | 128 |
+| 1. | [akka](https://github.com/akka)  | [alpakka](https://github.com/akka/alpakka)  (178) <br/> | 178 |
 
 ## Language Stats Index
 
