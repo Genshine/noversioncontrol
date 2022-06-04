@@ -1,31 +1,29 @@
-# CoffeeScript
+# Haskell
 
-## Most-Starred Repos: CoffeeScript
+## Most-Starred Repos: Haskell
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [wireapp/wire-webapp](https://github.com/wireapp/wire-webapp) <br/>👽 Wire for Web — Modern communication. Full privac... | 544 |
-| 2. | [rastapasta/pokemon-go-mitm](https://github.com/rastapasta/pokemon-go-mitm) <br/>🎁  Pokemon Go MITM Proxy -  Intercepts the traffic... | 483 |
-| 3. | [iostreamer-X/Awkward](https://github.com/iostreamer-X/Awkward) <br/>A NodeJS based shell. Everything is an Object! | 449 |
-| 4. | [robotdestroy/Framer-Snippets-Library](https://github.com/robotdestroy/Framer-Snippets-Library) <br/>A library of Framer snippets to help speed up your... | 333 |
-| 5. | [michelson/dante2](https://github.com/michelson/dante2) <br/>A complete rewrite of dante editor in draft-js, de... | 133 |
-| 6. | [trailbot/client](https://github.com/trailbot/client) <br/>Trailbot tracks files and logs in your servers and... | 127 |
+| 1. | [jaspervdj/patat](https://github.com/jaspervdj/patat) <br/>Terminal-based presentations using Pandoc | 749 |
+| 2. | [tensorflow/haskell](https://github.com/tensorflow/haskell) <br/>Haskell bindings for TensorFlow | 346 |
+| 3. | [haskus/haskus-system](https://github.com/haskus/haskus-system) <br/>Haskus system | 267 |
+| 4. | [steveshogren/10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises) <br/>The exercise files from 10 Minute Vim, for conveni... | 134 |
+| 5. | [input-output-hk/pos-haskell-prototype](https://github.com/input-output-hk/pos-haskell-prototype) <br/>pos cryptocurrency prototype | 102 |
 
-## Most-Starred Users: CoffeeScript
+## Most-Starred Users: Haskell
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [rastapasta](https://github.com/rastapasta)  | [pokemon-go-mitm](https://github.com/rastapasta/pokemon-go-mitm)  (483) <br/>[pokemon-go-xposed](https://github.com/rastapasta/pokemon-go-xposed)  (113) <br/> | 483 |
-| 2. | [iostreamer-X](https://github.com/iostreamer-X)  | [Awkward](https://github.com/iostreamer-X/Awkward)  (449) <br/> | 449 |
-| 3. | [robotdestroy](https://github.com/robotdestroy)  | [Framer-Snippets-Library](https://github.com/robotdestroy/Framer-Snippets-Library)  (333) <br/> | 333 |
-| 4. | [michelson](https://github.com/michelson)  | [dante2](https://github.com/michelson/dante2)  (133) <br/> | 133 |
+| 1. | [jaspervdj](https://github.com/jaspervdj)  | [patat](https://github.com/jaspervdj/patat)  (749) <br/> | 749 |
+| 2. | [steveshogren](https://github.com/steveshogren)  | [10-minute-vim-exercises](https://github.com/steveshogren/10-minute-vim-exercises)  (134) <br/> | 134 |
 
-## Most-Starred Orgs: CoffeeScript
+## Most-Starred Orgs: Haskell
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [wireapp](https://github.com/wireapp)  | [wire-ios](https://github.com/wireapp/wire-ios)  (1707) <br/>[wire-webapp](https://github.com/wireapp/wire-webapp)  (544) <br/>[wire-desktop](https://github.com/wireapp/wire-desktop)  (209) <br/> | 544 |
-| 2. | [trailbot](https://github.com/trailbot)  | [client](https://github.com/trailbot/client)  (127) <br/> | 127 |
+| 1. | [tensorflow](https://github.com/tensorflow)  | [deepmath](https://github.com/tensorflow/deepmath)  (397) <br/>[haskell](https://github.com/tensorflow/haskell)  (346) <br/>[ecosystem](https://github.com/tensorflow/ecosystem)  (111) <br/> | 346 |
+| 2. | [haskus](https://github.com/haskus)  | [haskus-system](https://github.com/haskus/haskus-system)  (267) <br/> | 267 |
+| 3. | [input-output-hk](https://github.com/input-output-hk)  | [pos-haskell-prototype](https://github.com/input-output-hk/pos-haskell-prototype)  (102) <br/> | 102 |
 
 ## Language Stats Index
 
