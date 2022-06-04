@@ -1,47 +1,34 @@
-# Shell
 
-## Most-Starred Repos: Shell
+# VimL
+
+## Most-Starred Repos: VimL
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [Screetsec/Dracnmap](https://github.com/Screetsec/Dracnmap) <br/>Dracnmap is an open source program which is using ... | 452 |
-| 2. | [pimterry/notes](https://github.com/pimterry/notes) <br/>:pencil: Simple delightful note taking, with more ... | 385 |
-| 3. | [gojuno/mainframer](https://github.com/gojuno/mainframer) <br/>Pretty universal instruction and script to setup R... | 333 |
-| 4. | [plexinc/pms-docker](https://github.com/plexinc/pms-docker) <br/>Plex Media Server Docker repo, for all your PMS do... | 294 |
-| 5. | [SafeBreach-Labs/pwndsh](https://github.com/SafeBreach-Labs/pwndsh) <br/>Post-exploitation framework (and an interactive sh... | 253 |
-| 6. | [MakeNowJust/bashcached](https://github.com/MakeNowJust/bashcached) <br/>memcached built on bash + socat | 251 |
-| 7. | [thomaspaulmann/Swish](https://github.com/thomaspaulmann/Swish) <br/>👷Build Swift Projects on a Remote Machine within X... | 170 |
-| 8. | [sroberts/awesome-iocs](https://github.com/sroberts/awesome-iocs) <br/>A collection of sources of indicators of compromis... | 146 |
-| 9. | [Cyclenerd/gallery_shell](https://github.com/Cyclenerd/gallery_shell) <br/>📷 Bash Script to generate static responsive image ... | 136 |
-| 10. | [IFSight/d4m-nfs](https://github.com/IFSight/d4m-nfs) <br/>Docker for Mac with NFS for performance improvemen... | 131 |
-| 11. | [uptownhr/ipfs-screenshot](https://github.com/uptownhr/ipfs-screenshot) <br/>Like Cloudapp using IPFS | 122 |
-| 12. | [b3rito/yodo](https://github.com/b3rito/yodo) <br/>Local Privilege Escalation | 115 |
-| 13. | [hs-cx/snmp_mib_archive](https://github.com/hs-cx/snmp_mib_archive) <br/>An archive of over 3000 unique SNMP MIBs | 108 |
-| 14. | [NicoHood/guestwlan](https://github.com/NicoHood/guestwlan) <br/>Easy & Secure Guest WLAN setup with QR code GUI an... | 108 |
+| 1. | [extr0py/oni](https://github.com/extr0py/oni) <br/>NeoVim front-end UI focused on IDE-like extensibil... | 710 |
+| 2. | [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) <br/>:seedling: An elegant vim distribution for spacema... | 346 |
+| 3. | [lifepillar/vim-mucomplete](https://github.com/lifepillar/vim-mucomplete) <br/>Chained completion that works the way you want! | 158 |
+| 4. | [rhysd/8cc.vim](https://github.com/rhysd/8cc.vim) <br/>C Compiler written in Vim script | 154 |
+| 5. | [vim-chat/vim-chat](https://github.com/vim-chat/vim-chat) <br/>Chatting plugin for neovim and vim8 | 128 |
+| 6. | [cassidoo/vim-up](https://github.com/cassidoo/vim-up) <br/>A bunch of vim shortcuts, colors, and bundles to m... | 125 |
+| 7. | [yuttie/comfortable-motion.vim](https://github.com/yuttie/comfortable-motion.vim) <br/>Brings physics-based smooth scrolling to the Vim w... | 124 |
 
-## Most-Starred Users: Shell
+## Most-Starred Users: VimL
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [Screetsec](https://github.com/Screetsec)  | [Dracnmap](https://github.com/Screetsec/Dracnmap)  (452) <br/> | 452 |
-| 2. | [pimterry](https://github.com/pimterry)  | [notes](https://github.com/pimterry/notes)  (385) <br/> | 385 |
-| 3. | [MakeNowJust](https://github.com/MakeNowJust)  | [bashcached](https://github.com/MakeNowJust/bashcached)  (251) <br/> | 251 |
-| 4. | [thomaspaulmann](https://github.com/thomaspaulmann)  | [Swish](https://github.com/thomaspaulmann/Swish)  (170) <br/> | 170 |
-| 5. | [sroberts](https://github.com/sroberts)  | [awesome-iocs](https://github.com/sroberts/awesome-iocs)  (146) <br/> | 146 |
-| 6. | [Cyclenerd](https://github.com/Cyclenerd)  | [gallery_shell](https://github.com/Cyclenerd/gallery_shell)  (136) <br/> | 136 |
-| 7. | [uptownhr](https://github.com/uptownhr)  | [ipfs-screenshot](https://github.com/uptownhr/ipfs-screenshot)  (122) <br/> | 122 |
-| 8. | [b3rito](https://github.com/b3rito)  | [yodo](https://github.com/b3rito/yodo)  (115) <br/> | 115 |
-| 9. | [hs-cx](https://github.com/hs-cx)  | [snmp_mib_archive](https://github.com/hs-cx/snmp_mib_archive)  (108) <br/> | 108 |
-| 10. | [NicoHood](https://github.com/NicoHood)  | [guestwlan](https://github.com/NicoHood/guestwlan)  (108) <br/> | 108 |
+| 1. | [extr0py](https://github.com/extr0py)  | [oni](https://github.com/extr0py/oni)  (710) <br/> | 710 |
+| 2. | [liuchengxu](https://github.com/liuchengxu)  | [space-vim](https://github.com/liuchengxu/space-vim)  (346) <br/> | 346 |
+| 3. | [lifepillar](https://github.com/lifepillar)  | [vim-mucomplete](https://github.com/lifepillar/vim-mucomplete)  (158) <br/> | 158 |
+| 4. | [rhysd](https://github.com/rhysd)  | [8cc.vim](https://github.com/rhysd/8cc.vim)  (154) <br/> | 154 |
+| 5. | [cassidoo](https://github.com/cassidoo)  | [vim-up](https://github.com/cassidoo/vim-up)  (125) <br/> | 125 |
+| 6. | [yuttie](https://github.com/yuttie)  | [comfortable-motion.vim](https://github.com/yuttie/comfortable-motion.vim)  (124) <br/> | 124 |
 
-## Most-Starred Orgs: Shell
+## Most-Starred Orgs: VimL
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [gojuno](https://github.com/gojuno)  | [mainframer](https://github.com/gojuno/mainframer)  (333) <br/> | 333 |
-| 2. | [plexinc](https://github.com/plexinc)  | [pms-docker](https://github.com/plexinc/pms-docker)  (294) <br/> | 294 |
-| 3. | [SafeBreach-Labs](https://github.com/SafeBreach-Labs)  | [pwndsh](https://github.com/SafeBreach-Labs/pwndsh)  (253) <br/> | 253 |
-| 4. | [IFSight](https://github.com/IFSight)  | [d4m-nfs](https://github.com/IFSight/d4m-nfs)  (131) <br/> | 131 |
+| 1. | [vim-chat](https://github.com/vim-chat)  | [vim-chat](https://github.com/vim-chat/vim-chat)  (128) <br/> | 128 |
 
 ## Language Stats Index
 
