@@ -365,4 +365,153 @@
 | 359. | [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) <br/>Open-source IoT Platform - Device management, data... | 243 |
 | 360. | [diamondlin2016/LauncherView](https://github.com/diamondlin2016/LauncherView) <br/>app 启动时的 Loading 动画 | 242 |
 | 361. | [jrvansuita/GaussianBlur](https://github.com/jrvansuita/GaussianBlur) <br/>A easy and simple library to apply Gaussian blur o... | 242 |
-| 362. | [wzgiceman/RxjavaRetrofitDemo-master](https://github.com/wzgiceman/R
+| 362. | [wzgiceman/RxjavaRetrofitDemo-master](https://github.com/wzgiceman/RxjavaRetrofitDemo-master) <br/>Retrofit+Rxjava+okhttp终极封装(Gson方案) | 242 |
+| 363. | [hanuor/onyx](https://github.com/hanuor/onyx) <br/>An android library that uses technologies like art... | 241 |
+| 364. | [HelloVass/SnowingView](https://github.com/HelloVass/SnowingView) <br/>winter is coming... | 240 |
+| 365. | [ladingwu/ApplicationDemo](https://github.com/ladingwu/ApplicationDemo) <br/>RxJava 各种操作符（包括线程调度）的使用范例 | 239 |
+| 366. | [zhangke3016/SpecialProgressBar](https://github.com/zhangke3016/SpecialProgressBar) <br/>A Special Progress Bar for Android | 239 |
+| 367. | [codbking/CalendarExaple](https://github.com/codbking/CalendarExaple) <br/>android高仿钉钉和小米的自定义日历控件（支持阴历和阳历，左右无限翻页viewpager） | 239 |
+| 368. | [Kenber/DoubleStickyHeadersList](https://github.com/Kenber/DoubleStickyHeadersList) <br/>An Android library for double level section header... | 237 |
+| 369. | [czy1121/noticeview](https://github.com/czy1121/noticeview) <br/>滚动播放的公告控件 | 236 |
+| 370. | [androidessence/PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView) <br/>A TextView library that allows the user to increas... | 235 |
+| 371. | [hugeterry/UpdateDemo](https://github.com/hugeterry/UpdateDemo) <br/>Android APP update library./android app自动检测更新库 | 234 |
+| 372. | [yakivmospan/scytale](https://github.com/yakivmospan/scytale) <br/>One tool to manage key generation, key storing and... | 233 |
+| 373. | [TangoAgency/android-data-binding-rxjava](https://github.com/TangoAgency/android-data-binding-rxjava) <br/>Demo that shows how to use RxJava with Android Dat... | 231 |
+| 374. | [Yellow5A5/ClearScreenHelper](https://github.com/Yellow5A5/ClearScreenHelper) <br/>The ClearScreenHelper can help you clear screen by... | 230 |
+| 375. | [FJ917/FJEditTextCount](https://github.com/FJ917/FJEditTextCount) <br/>栗子——自定义EditText实现右下角计数控件 | 227 |
+| 376. | [wangshaolei/AutoFillEmailEditText](https://github.com/wangshaolei/AutoFillEmailEditText) <br/>Auto Fill the custom email to EditText | 227 |
+| 377. | [RurioLuca/QrCardParsing](https://github.com/RurioLuca/QrCardParsing) <br/>Android Libraries to parsing and generate MeCardCo... | 227 |
+| 378. | [dianping/pigeon](https://github.com/dianping/pigeon) <br/>RPC framework of DIANPING | 226 |
+| 379. | [Norbert515/DropDownWarning](https://github.com/Norbert515/DropDownWarning) <br/>Drop down message | 225 |
+| 380. | [jparkie/PDD](https://github.com/jparkie/PDD) <br/>Advanced Bloom Filter Based Algorithms for Efficie... | 225 |
+| 381. | [guolindev/booksource](https://github.com/guolindev/booksource) <br/>《第二行代码》全书源代码 | 225 |
+| 382. | [kot32go/dynamic-load-view](https://github.com/kot32go/dynamic-load-view) <br/>A library to dynamic load view in online apk, can ... | 224 |
+| 383. | [Jasonette/JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android) <br/>📡 Native App over HTTP, on Android | 221 |
+| 384. | [limedroid/XRichText](https://github.com/limedroid/XRichText) <br/>显示富文本的TextView | 221 |
+| 385. | [SpiritMan/SmartisanTime](https://github.com/SpiritMan/SmartisanTime) <br/>仿锤子时间View | 220 |
+| 386. | [czy1121/roundbutton](https://github.com/czy1121/roundbutton) <br/>可设置圆角背景边框的的按钮 | 219 |
+| 387. | [konifar/android-strings-search-plugin](https://github.com/konifar/android-strings-search-plugin) <br/>This plugin makes it easy to search text in string... | 219 |
+| 388. | [jeanboydev/Android-BitherCompress](https://github.com/jeanboydev/Android-BitherCompress) <br/>Android图片压缩目前已知最优解决方案。 | 215 |
+| 389. | [armcha/Vertical-Intro](https://github.com/armcha/Vertical-Intro) <br/>Vertical intro allows you to integrate material ve... | 214 |
+| 390. | [WassimBenltaief/FlowLayout](https://github.com/WassimBenltaief/FlowLayout) <br/>A custom Layout packed with a content view, an emp... | 213 |
+| 391. | [forJrking/HeiPermission](https://github.com/forJrking/HeiPermission) <br/>Hei 一句代码搞定 Android M 动态权限检测。信不信由你，反正我用了。 | 211 |
+| 392. | [xenione/tab-digit](https://github.com/xenione/tab-digit)  | 210 |
+| 393. | [czy1121/loadinglayout](https://github.com/czy1121/loadinglayout) <br/>简单实用的页面多状态布局(content,loading,empty,error) | 210 |
+| 394. | [segunfamisa/icicle](https://github.com/segunfamisa/icicle) <br/>An annotation based tool for saving and restoring ... | 209 |
+| 395. | [weavey/NormalSelectDialog](https://github.com/weavey/NormalSelectDialog) <br/>Some sample of dialog. | 209 |
+| 396. | [fanrunqi/WaveProgressView](https://github.com/fanrunqi/WaveProgressView) <br/>most powerful wave load view , you can custom  any... | 208 |
+| 397. | [HalfStackDeveloper/SwipeCardRecyclerView](https://github.com/HalfStackDeveloper/SwipeCardRecyclerView) <br/>利用RecyclerView打造的滑动卡片View，支持左滑右滑删除 | 208 |
+| 398. | [Saketme/Better-Link-Movement-Method](https://github.com/Saketme/Better-Link-Movement-Method) <br/>A less buggy and customizable way to handle URLs i... | 207 |
+| 399. | [zhihu/mirror](https://github.com/zhihu/mirror) <br/>Yet another Sketch Mirror App for Android. | 207 |
+| 400. | [closedevice/FastApp](https://github.com/closedevice/FastApp)  | 206 |
+| 401. | [akarnokd/RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) <br/>Library to convert between RxJava 1.x and 2.x reac... | 206 |
+| 402. | [wuapnjie/SuspensionBar](https://github.com/wuapnjie/SuspensionBar) <br/>a RecyclerView suspension bar implementation like ... | 204 |
+| 403. | [VictorAlbertos/SwipeCoordinator](https://github.com/VictorAlbertos/SwipeCoordinator) <br/>A coordinator layout for Android views to animate ... | 204 |
+| 404. | [zhonghanwen/ColorTextView](https://github.com/zhonghanwen/ColorTextView) <br/>mark some phrase with colors | 204 |
+| 405. | [Chacojack/HiveLayoutManager](https://github.com/Chacojack/HiveLayoutManager)  | 204 |
+| 406. | [zhangyuChen1991/OverWatchLoading](https://github.com/zhangyuChen1991/OverWatchLoading) <br/>守望先锋的加载动画 | 203 |
+| 407. | [CGmaybe10/FocusSurfaceView](https://github.com/CGmaybe10/FocusSurfaceView) <br/>拍照时在相机的预览界面指定一个区域的大小，形状和位置，只拍摄该指定区域里的图像 | 203 |
+| 408. | [huage2580/ZuiMeiTAG](https://github.com/huage2580/ZuiMeiTAG) <br/>仿最美应用的底栏，使用recyclerView实现 | 203 |
+| 409. | [xuyisheng/NaturalAnim](https://github.com/xuyisheng/NaturalAnim) <br/>自然动画的真实模拟 | 202 |
+| 410. | [ittianyu/MobileGuard](https://github.com/ittianyu/MobileGuard) <br/>An Android app for managing mobile. And it support... | 202 |
+| 411. | [daniel-martins-ir/MagicButton](https://github.com/daniel-martins-ir/MagicButton)  | 200 |
+| 412. | [SwiftJava/SwiftJava](https://github.com/SwiftJava/SwiftJava) <br/>Swift to Java Bridge | 200 |
+| 413. | [maoruibin/ReView](https://github.com/maoruibin/ReView) <br/>A view to help developers and designers view the V... | 200 |
+| 414. | [D-clock/ScratchView](https://github.com/D-clock/ScratchView) <br/>This is a android custom view , like a scratch car... | 199 |
+| 415. | [yegor256/eo](https://github.com/yegor256/eo) <br/>EO programming language | 198 |
+| 416. | [supercwn/SuperRecycleView](https://github.com/supercwn/SuperRecycleView) <br/>结合XrecyclerView 和BaseRecyclerViewAdapterHelper更加的方... | 198 |
+| 417. | [wuchangfeng/one](https://github.com/wuchangfeng/one) <br/>Use MVP+Dagger2+Realm as a major infrastructure of... | 197 |
+| 418. | [visualvm/visualvm.src](https://github.com/visualvm/visualvm.src) <br/>VisualVM sources repository | 197 |
+| 419. | [apache/incubator-rocketmq](https://github.com/apache/incubator-rocketmq) <br/>Mirror of Apache RocketMQ | 196 |
+| 420. | [codemybrainsout/smart-app-rate](https://github.com/codemybrainsout/smart-app-rate) <br/>An Android library to encourage users to rate the ... | 196 |
+| 421. | [kizitonwose/colorpreference](https://github.com/kizitonwose/colorpreference) <br/>A custom preference item for easy implementation o... | 195 |
+| 422. | [Curzibn/BottomDialog](https://github.com/Curzibn/BottomDialog) <br/>BottomDialog 一个自定义的从底部弹出的dialog，仿照微博的分享弹框 | 195 |
+| 423. | [nibnait/algorithms](https://github.com/nibnait/algorithms) <br/>《算法  (第4版)》、牛课堂、《剑指Offer》、 | 195 |
+| 424. | [lawloretienne/MovieHub](https://github.com/lawloretienne/MovieHub) <br/>Showcases popular movies, tv shows, and people fro... | 195 |
+| 425. | [Stuie/papercut](https://github.com/Stuie/papercut) <br/>Keep your codebase simple | 193 |
+| 426. | [SchibstedSpain/Leku](https://github.com/SchibstedSpain/Leku) <br/>:earth_africa: Map location picker component for A... | 193 |
+| 427. | [OfficialAmal/ChipLayout](https://github.com/OfficialAmal/ChipLayout) <br/>ChipLayout is an opensource Android library. ChipL... | 193 |
+| 428. | [fengyongge/imagepickerdemo](https://github.com/fengyongge/imagepickerdemo) <br/>图片选择器 | 192 |
+| 429. | [mcxtzhang/SupportDemos](https://github.com/mcxtzhang/SupportDemos) <br/>本工程最初仅为DiffUtil的一个Demo，后发展为讲解Google Android Suppor... | 192 |
+| 430. | [Workable/java-error-handler](https://github.com/Workable/java-error-handler) <br/>Error handling library for Android and Java | 190 |
+| 431. | [githubwing/ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager) <br/>A Cool Viewpager ~ 可以展开缩放的Viewpager | 190 |
+| 432. | [kofigyan/StateProgressBar](https://github.com/kofigyan/StateProgressBar) <br/>Android library to realize the various states and ... | 190 |
+| 433. | [LuoboDcom/ZZShow](https://github.com/LuoboDcom/ZZShow) <br/>吱吱：一款集合了新闻、视频和图片信息的Material Design风格的开源应用 | 189 |
+| 434. | [Tamicer/Novate](https://github.com/Tamicer/Novate) <br/>A  safety client by Https for android,  (Android网路... | 188 |
+| 435. | [liuguangqiang/RippleLayout](https://github.com/liuguangqiang/RippleLayout) <br/>A layout that implemented ripple effect for transi... | 188 |
+| 436. | [Karumi/KataScreenshotAndroid](https://github.com/Karumi/KataScreenshotAndroid) <br/>Screenshot Kata for Android Developers. The main g... | 186 |
+| 437. | [AmniX/AdBlockedWebView-Android](https://github.com/AmniX/AdBlockedWebView-Android) <br/>An Implementation of WebView with Ad-blocked Inter... | 186 |
+| 438. | [wosyingjun/beauty_ssm_cluster](https://github.com/wosyingjun/beauty_ssm_cluster) <br/>对”优雅的SSM框架“进行完善（页面分离+Nginx负载均衡+Tomcat集群） | 186 |
+| 439. | [YangShaoXiong/LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress) <br/>仿新浪体育客户端的进度条 | 185 |
+| 440. | [hanbaokun/FloatingViewService](https://github.com/hanbaokun/FloatingViewService) <br/>悬浮球-一个服务开启悬浮球，任何界面都可以使用 | 184 |
+| 441. | [CoXier/CheckBox](https://github.com/CoXier/CheckBox) <br/>A custom checkbox with animation | 184 |
+| 442. | [mabeijianxi/small-video-record](https://github.com/mabeijianxi/small-video-record) <br/>利用FFmpeg视频录制微信小视频与其压缩处理 | 184 |
+| 443. | [MegatronKing/SVG-Android](https://github.com/MegatronKing/SVG-Android) <br/>support svg images for android 4.0+, more powerful... | 184 |
+| 444. | [Assassinss/Interessant](https://github.com/Assassinss/Interessant) <br/>Unofficial Android client of Eyepetizer(开眼视频). | 183 |
+| 445. | [gavinliu/SimpleOneStep](https://github.com/gavinliu/SimpleOneStep) <br/>The SimpleOneStep is like OneStep about Smartisan ... | 182 |
+| 446. | [Yarikx/reductor](https://github.com/Yarikx/reductor) <br/>Redux for Android. Predictable state container lib... | 181 |
+| 447. | [hzw1199/android_ProcessBar](https://github.com/hzw1199/android_ProcessBar) <br/>An android process bar library associated with Vie... | 180 |
+| 448. | [VictorAlbertos/ReactiveCache](https://github.com/VictorAlbertos/ReactiveCache) <br/>A reactive cache for Android and Java which honors... | 180 |
+| 449. | [crazycodeboy/react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) <br/>A splash screen for react-native, hide when applic... | 178 |
+| 450. | [baomidou/mybatis-plus](https://github.com/baomidou/mybatis-plus) <br/>Mybatis enhanced toolkit to simplify the operation... | 178 |
+| 451. | [RiccardoMoro/LongPressPopup](https://github.com/RiccardoMoro/LongPressPopup) <br/>Make a Popup appear long pressing on a view and ha... | 176 |
+| 452. | [Hitomis/CrazyShadow](https://github.com/Hitomis/CrazyShadow) <br/>A line of code lets the view add shadows | 175 |
+| 453. | [yanbober/AvatarLabelView](https://github.com/yanbober/AvatarLabelView) <br/>一个可配置的迷你版轻量级 Label 辅助类，支持多种配置效果。 | 175 |
+| 454. | [TangoAgency/avatar-view](https://github.com/TangoAgency/avatar-view) <br/>Avatar ImageView with user's name first letter Dra... | 174 |
+| 455. | [florent37/SingleDateAndTimePicker](https://github.com/florent37/SingleDateAndTimePicker) <br/>You can now select a date and a time with only one... | 174 |
+| 456. | [JuL1205/SlideshowToolbar](https://github.com/JuL1205/SlideshowToolbar) <br/>Slideshow Imageview for Android | 173 |
+| 457. | [limedroid/XDroidMvp](https://github.com/limedroid/XDroidMvp) <br/>轻量级的Android MVP快速开发框架 | 173 |
+| 458. | [munix/LogcatTextView](https://github.com/munix/LogcatTextView) <br/>A simple view to see logcat in your app | 172 |
+| 459. | [jcalaz/xmarket](https://github.com/jcalaz/xmarket) <br/>A Campus trading market APP based on MVP+https+Rxj... | 172 |
+| 460. | [7heaven/UILibrary](https://github.com/7heaven/UILibrary) <br/>平时项目开发中写的自定义Drawable、View和Shape | 172 |
+| 461. | [kiideveloper/pokiimap](https://github.com/kiideveloper/pokiimap) <br/>PokiiMap is basically PokeVision on Android, an ap... | 169 |
+| 462. | [Nipuream/NRecyclerView](https://github.com/Nipuream/NRecyclerView) <br/>万能刷新加载控件 | 168 |
+| 463. | [RameshBhupathi/CollapsingToolbar-With-Webview](https://github.com/RameshBhupathi/CollapsingToolbar-With-Webview)  | 168 |
+| 464. | [DaylightingSociety/WhereAreTheEyes](https://github.com/DaylightingSociety/WhereAreTheEyes) <br/>Surveillance Detection and Mapping App | 167 |
+| 465. | [iSpring/GamePlane](https://github.com/iSpring/GamePlane) <br/>基于Android的仿微信打飞机游戏 | 167 |
+| 466. | [xue5455/SmartMenu](https://github.com/xue5455/SmartMenu) <br/>A beautiful floating menu | 167 |
+| 467. | [p-v/DateTimeSeer](https://github.com/p-v/DateTimeSeer) <br/>A painless way to pick future time. | 166 |
+| 468. | [google/conscrypt](https://github.com/google/conscrypt) <br/>Conscrypt is a Java Security Provider that impleme... | 165 |
+| 469. | [mcxtzhang/all-base-adapter](https://github.com/mcxtzhang/all-base-adapter) <br/> Adapter terminator, including DataBinding, any Vi... | 165 |
+| 470. | [gavinliu/NotificationBox](https://github.com/gavinliu/NotificationBox) <br/>This is a tool app that solve too much notificatio... | 164 |
+| 471. | [songixan/SmileRefresh](https://github.com/songixan/SmileRefresh) <br/>微笑下拉刷新。这是在 SwipeRefreshLayout基础上修改的下拉刷新库。 | 164 |
+| 472. | [lopei/collageview](https://github.com/lopei/collageview)  | 163 |
+| 473. | [CarGuo/RecordWave](https://github.com/CarGuo/RecordWave) <br/>MP3音频录制，支持类似IOS原生的单边或者双边波形显示，低版本音频权限兼容，本地或者在线音频播放的... | 163 |
+| 474. | [TinkerPatch/tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk) <br/>TinkerPatch SDK | 163 |
+| 475. | [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) <br/>Spring Boot教程 | 163 |
+| 476. | [Mixiaoxiao/Weather](https://github.com/Mixiaoxiao/Weather) <br/>A beautiful weather app: DynamicBackground (clear,... | 162 |
+| 477. | [aryarohit07/GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation) <br/>An Android image transformation library providing ... | 161 |
+| 478. | [networknt/light-java](https://github.com/networknt/light-java) <br/>The fastest and most productive microservices fram... | 160 |
+| 479. | [Sloy/preferator](https://github.com/Sloy/preferator) <br/>Edit your application SharedPreferences from the d... | 160 |
+| 480. | [AnyRTC/RTMPCHybridEngine-Android](https://github.com/AnyRTC/RTMPCHybridEngine-Android) <br/>基于RTMP和RTC混合引擎的在线视频连麦互动直播 | 159 |
+| 481. | [zuoweitan/CircleImageView](https://github.com/zuoweitan/CircleImageView) <br/>A circular ImageView simply used as normal ImageVi... | 158 |
+| 482. | [xurui1995/Sword-pointing-to-offer](https://github.com/xurui1995/Sword-pointing-to-offer) <br/>剑指offer java版实现 | 158 |
+| 483. | [aykuttasil/CallRecorder](https://github.com/aykuttasil/CallRecorder) <br/>Android Phone Call Recorder | 157 |
+| 484. | [Werb/GankWithZhihu](https://github.com/Werb/GankWithZhihu) <br/>just for reading | 156 |
+| 485. | [achenglike/NightModel](https://github.com/achenglike/NightModel) <br/>a night model lib for easy change app's night them... | 156 |
+| 486. | [MarnonDev/GameNews](https://github.com/MarnonDev/GameNews) <br/>一款游戏资讯APP，包括四大主要板块【新闻】【视频】【美图】【个人中心(未完成)】，使用了目前比较流... | 156 |
+| 487. | [Werb/Werb](https://github.com/Werb/Werb) <br/>Werb not WeiBo | 155 |
+| 488. | [hypeapps/Endoscope](https://github.com/hypeapps/Endoscope) <br/>Endoscope lets you to stream live video between an... | 154 |
+| 489. | [xiangtailiang/FakeGPS](https://github.com/xiangtailiang/FakeGPS) <br/>FakeGPS is a GPS device simulator, GPS location si... | 152 |
+| 490. | [burgessjp/GetWordTextView](https://github.com/burgessjp/GetWordTextView) <br/>A TextView that can get word in it's content by cl... | 152 |
+| 491. | [ImangazalievM/Scripto](https://github.com/ImangazalievM/Scripto) <br/>Java and JavaScript interaction library | 152 |
+| 492. | [yiyuanliu/FlipGank](https://github.com/yiyuanliu/FlipGank) <br/>FlipBoard 翻页风格的 Gank.io 客户端 | 152 |
+| 493. | [a-voyager/WeekToDo](https://github.com/a-voyager/WeekToDo) <br/>《番茄周》软件开源项目 | 150 |
+| 494. | [fashare2015/ActivityTracker](https://github.com/fashare2015/ActivityTracker) <br/>A FloatingView to show current topActivity in the ... | 149 |
+| 495. | [shanyao0/DownLoadManager](https://github.com/shanyao0/DownLoadManager) <br/>Retrofit + OkHttp + RxBus + Notification + Service... | 148 |
+| 496. | [burgessjp/ThemeSkinning](https://github.com/burgessjp/ThemeSkinning) <br/>A library can easy to change your app's theme for ... | 148 |
+| 497. | [Jaouan/Sending-Animation-Example](https://github.com/Jaouan/Sending-Animation-Example) <br/>It's just an example of sending animation. | 147 |
+| 498. | [Sausure/SmartGo](https://github.com/Sausure/SmartGo) <br/>An easier way to launch framework components. | 147 |
+| 499. | [tsy12321/PayAndroid](https://github.com/tsy12321/PayAndroid) <br/>Android端对微信App支付和支付宝App支付的SDK进行二次封装，对外提供一个较为简单的接口和... | 147 |
+| 500. | [MatteoBattilana/WeatherView](https://github.com/MatteoBattilana/WeatherView) <br/>WeatherView is an Android Library that helps you m... | 145 |
+
+## Most-Starred Users: Java
+
+| | User | Repos | Stars |
+|---|---|---|---|
+| 1. | [Blankj](https://github.com/Blankj)  | [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)  (7386) <br/> | 7386 |
+| 2. | [JackyAndroid](https://github.com/JackyAndroid)  | [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A)  (4180) <br/>[AndroidChromium](https://github.com/JackyAndroid/AndroidChromium)  (1320) <br/> | 5500 |
+| 3. | [rubensousa](https://github.com/rubensousa)  | [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap)  (1883) <br/>[ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)  (1863) <br/>[RaiflatButton](https://github.com/rubensousa/RaiflatButton)  (267) <br/> | 4013 |
+| 4. | [Curzibn](https://github.com/Curzibn)  | [Luban](https://github.com/Curzibn/Luban)  (3652) <br/>[BottomDialog](https://github.com/Curzibn/BottomDialog)  (195) <br/> | 3847 |
+| 5. | [githubwing](https://github.com/githubwing)  | [ZoomHeader](https://github.com/githubwing/ZoomHeader)  (1380) <br/>[ByeBurger](https://github.com/githubwing/ByeBurger)  (548) <br/>[DragPhotoView](https://github.com/githubwing/DragPhotoView)  (473) <br/>[WingUE](https://github.com/githubwing/WingUE)  (404) <br/>[MVPHelper](https://github.com/githubwing/MVPHelper)  (377) <br/>[ThreeDLayout](https://github.com/githubwing/ThreeDLayout)  (311) <br/>[ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager)  (190) <br/> | 3683 |
+| 6. | [JeasonWong](https://github.com/JeasonWong)  | [Particle](https://github.com/JeasonWong/Particle)  (919) <br/>[ElemeShoppingView](https://github.com/JeasonWong/ElemeShoppingView)  (577) <br/>[SlackLoadingView](https://github.com/JeasonWong/SlackLoadingView)  (553) <br/>[SignUpTransition](https://github.com/JeasonWong/SignUpTransition)  (462) <br/>[FlipShare](https://github.com/JeasonWong/FlipShare)  (459) <br/>[JikeGallery](https://github.com/JeasonWong/JikeGallery)  (353) <br/>[LiulishuoPreview](https://g
