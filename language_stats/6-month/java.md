@@ -893,4 +893,106 @@
 | 7. | [airbnb](https://github.com/airbnb)  | [epoxy](https://github.com/airbnb/epoxy)  (2244) <br/>[react-with-styles](https://github.com/airbnb/react-with-styles)  (512) <br/>[babel-plugin-dynamic-import-webpack](https://github.com/airbnb/babel-plugin-dynamic-import-webpack)  (190) <br/> | 2244 |
 | 8. | [robinhood](https://github.com/robinhood)  | [ticker](https://github.com/robinhood/ticker)  (2214) <br/> | 2214 |
 | 9. | [KeepSafe](https://github.com/KeepSafe)  | [TapTargetView](https://github.com/KeepSafe/TapTargetView)  (2136) <br/> | 2136 |
-| 10. | [eleme](https://github.com/el
+| 10. | [eleme](https://github.com/eleme)  | [Amigo](https://github.com/eleme/Amigo)  (985) <br/>[HermesEventBus](https://github.com/eleme/HermesEventBus)  (795) <br/>[ToyRoom](https://github.com/eleme/ToyRoom)  (284) <br/> | 2064 |
+| 11. | [TangoAgency](https://github.com/TangoAgency)  | [material-intro-screen](https://github.com/TangoAgency/material-intro-screen)  (1581) <br/>[android-data-binding-rxjava](https://github.com/TangoAgency/android-data-binding-rxjava)  (231) <br/>[avatar-view](https://github.com/TangoAgency/avatar-view)  (174) <br/> | 1986 |
+| 12. | [JustWayward](https://github.com/JustWayward)  | [BookReader](https://github.com/JustWayward/BookReader)  (1881) <br/> | 1881 |
+| 13. | [Cleveroad](https://github.com/Cleveroad)  | [FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager)  (1074) <br/>[BubbleAnimationLayout](https://github.com/Cleveroad/BubbleAnimationLayout)  (440) <br/>[FireworkyPullToRefresh](https://github.com/Cleveroad/FireworkyPullToRefresh)  (144) <br/> | 1658 |
+| 14. | [wonderkiln](https://github.com/wonderkiln)  | [blurkit-android](https://github.com/wonderkiln/blurkit-android)  (1620) <br/> | 1620 |
+| 15. | [material-components](https://github.com/material-components)  | [material-components-web](https://github.com/material-components/material-components-web)  (1533) <br/>[material-components-android](https://github.com/material-components/material-components-android)  (1429) <br/> | 1429 |
+| 16. | [loopeer](https://github.com/loopeer)  | [itemtouchhelper-extension](https://github.com/loopeer/itemtouchhelper-extension)  (739) <br/>[code-reader](https://github.com/loopeer/code-reader)  (491) <br/> | 1230 |
+| 17. | [stfalcon-studio](https://github.com/stfalcon-studio)  | [FrescoImageViewer](https://github.com/stfalcon-studio/FrescoImageViewer)  (947) <br/> | 947 |
+| 18. | [SchibstedSpain](https://github.com/SchibstedSpain)  | [Parallax-Layer-Layout](https://github.com/SchibstedSpain/Parallax-Layer-Layout)  (711) <br/>[Leku](https://github.com/SchibstedSpain/Leku)  (193) <br/> | 904 |
+| 19. | [Yalantis](https://github.com/Yalantis)  | [ToDoList](https://github.com/Yalantis/ToDoList)  (836) <br/> | 836 |
+| 20. | [Slyce-Inc](https://github.com/Slyce-Inc)  | [SlyceMessaging](https://github.com/Slyce-Inc/SlyceMessaging)  (793) <br/> | 793 |
+| 21. | [JZ-Darkal](https://github.com/JZ-Darkal)  | [AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture)  (723) <br/> | 723 |
+| 22. | [thunderrise](https://github.com/thunderrise)  | [android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper)  (716) <br/> | 716 |
+| 23. | [Genius](https://github.com/Genius)  | [groupie](https://github.com/Genius/groupie)  (700) <br/> | 700 |
+| 24. | [hypertrack](https://github.com/hypertrack)  | [smart-scheduler-android](https://github.com/hypertrack/smart-scheduler-android)  (690) <br/> | 690 |
+| 25. | [Netflix](https://github.com/Netflix)  | [conductor](https://github.com/Netflix/conductor)  (377) <br/>[hollow](https://github.com/Netflix/hollow)  (269) <br/> | 646 |
+| 26. | [grandcentrix](https://github.com/grandcentrix)  | [ThirtyInch](https://github.com/grandcentrix/ThirtyInch)  (594) <br/> | 594 |
+| 27. | [GeekGhost](https://github.com/GeekGhost)  | [Ghost](https://github.com/GeekGhost/Ghost)  (593) <br/> | 593 |
+| 28. | [linkedin](https://github.com/linkedin)  | [test-butler](https://github.com/linkedin/test-butler)  (557) <br/> | 557 |
+| 29. | [iReaderAndroid](https://github.com/iReaderAndroid)  | [ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin)  (546) <br/> | 546 |
+| 30. | [applidium](https://github.com/applidium)  | [PokemonGo_Android_RE](https://github.com/applidium/PokemonGo_Android_RE)  (525) <br/> | 525 |
+| 31. | [L4Digital](https://github.com/L4Digital)  | [FastScroll](https://github.com/L4Digital/FastScroll)  (500) <br/> | 500 |
+| 32. | [bufferapp](https://github.com/bufferapp)  | [BufferTextInputLayout](https://github.com/bufferapp/BufferTextInputLayout)  (499) <br/> | 499 |
+| 33. | [republique-et-canton-de-geneve](https://github.com/republique-et-canton-de-geneve)  | [chvote-1-0](https://github.com/republique-et-canton-de-geneve/chvote-1-0)  (481) <br/> | 481 |
+| 34. | [douban](https://github.com/douban)  | [rexxar-android](https://github.com/douban/rexxar-android)  (464) <br/>[rexxar-web](https://github.com/douban/rexxar-web)  (151) <br/> | 464 |
+| 35. | [jackpocket](https://github.com/jackpocket)  | [android_scratchoff](https://github.com/jackpocket/android_scratchoff)  (398) <br/> | 398 |
+| 36. | [thoughtbot](https://github.com/thoughtbot)  | [expandable-recycler-view](https://github.com/thoughtbot/expandable-recycler-view)  (391) <br/> | 391 |
+| 37. | [instacart](https://github.com/instacart)  | [truetime-android](https://github.com/instacart/truetime-android)  (387) <br/> | 387 |
+| 38. | [holidaycheck](https://github.com/holidaycheck)  | [Permissify](https://github.com/holidaycheck/Permissify)  (376) <br/> | 376 |
+| 39. | [square](https://github.com/square)  | [gifencoder](https://github.com/square/gifencoder)  (365) <br/> | 365 |
+| 40. | [repeats](https://github.com/repeats)  | [Repeat](https://github.com/repeats/Repeat)  (357) <br/> | 357 |
+| 41. | [dianping](https://github.com/dianping)  | [pigeon](https://github.com/dianping/pigeon)  (226) <br/>[zebra](https://github.com/dianping/zebra)  (124) <br/> | 350 |
+| 42. | [json-iterator](https://github.com/json-iterator)  | [java](https://github.com/json-iterator/java)  (310) <br/> | 310 |
+| 43. | [jrummyapps](https://github.com/jrummyapps)  | [html-builder](https://github.com/jrummyapps/html-builder)  (309) <br/> | 309 |
+| 44. | [baidao](https://github.com/baidao)  | [tinker-manager](https://github.com/baidao/tinker-manager)  (309) <br/> | 309 |
+| 45. | [vipshop](https://github.com/vipshop)  | [Saturn](https://github.com/vipshop/Saturn)  (275) <br/> | 275 |
+| 46. | [shanbay](https://github.com/shanbay)  | [mock-api](https://github.com/shanbay/mock-api)  (268) <br/> | 268 |
+| 47. | [SmartisanTech](https://github.com/SmartisanTech)  | [packages_apps_OneStep](https://github.com/SmartisanTech/packages_apps_OneStep)  (260) <br/> | 260 |
+| 48. | [material-foundation](https://github.com/material-foundation)  | [material-remixer-android](https://github.com/material-foundation/material-remixer-android)  (247) <br/> | 247 |
+| 49. | [Microsoft](https://github.com/Microsoft)  | [mssql-jdbc](https://github.com/Microsoft/mssql-jdbc)  (246) <br/>[BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)  (180) <br/>[BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)  (176) <br/> | 246 |
+| 50. | [thingsboard](https://github.com/thingsboard)  | [thingsboard](https://github.com/thingsboard/thingsboard)  (243) <br/> | 243 |
+| 51. | [androidessence](https://github.com/androidessence)  | [PinchZoomTextView](https://github.com/androidessence/PinchZoomTextView)  (235) <br/> | 235 |
+| 52. | [Jasonette](https://github.com/Jasonette)  | [JASONETTE-Android](https://github.com/Jasonette/JASONETTE-Android)  (221) <br/> | 221 |
+| 53. | [zhihu](https://github.com/zhihu)  | [mirror](https://github.com/zhihu/mirror)  (207) <br/> | 207 |
+| 54. | [SwiftJava](https://github.com/SwiftJava)  | [SwiftJava](https://github.com/SwiftJava/SwiftJava)  (200) <br/> | 200 |
+| 55. | [apache](https://github.com/apache)  | [incubator-rocketmq](https://github.com/apache/incubator-rocketmq)  (196) <br/> | 196 |
+| 56. | [Workable](https://github.com/Workable)  | [java-error-handler](https://github.com/Workable/java-error-handler)  (190) <br/> | 190 |
+| 57. | [Karumi](https://github.com/Karumi)  | [KataScreenshotAndroid](https://github.com/Karumi/KataScreenshotAndroid)  (186) <br/> | 186 |
+| 58. | [baomidou](https://github.com/baomidou)  | [mybatis-plus](https://github.com/baomidou/mybatis-plus)  (178) <br/> | 178 |
+| 59. | [DaylightingSociety](https://github.com/DaylightingSociety)  | [WhereAreTheEyes](https://github.com/DaylightingSociety/WhereAreTheEyes)  (167) <br/> | 167 |
+| 60. | [TinkerPatch](https://github.com/TinkerPatch)  | [tinkerpatch-sdk](https://github.com/TinkerPatch/tinkerpatch-sdk)  (163) <br/> | 163 |
+| 61. | [networknt](https://github.com/networknt)  | [light-java](https://github.com/networknt/light-java)  (160) <br/> | 160 |
+| 62. | [AnyRTC](https://github.com/AnyRTC)  | [RTMPCHybridEngine-Android](https://github.com/AnyRTC/RTMPCHybridEngine-Android)  (159) <br/> | 159 |
+| 63. | [asmcup](https://github.com/asmcup)  | [runtime](https://github.com/asmcup/runtime)  (145) <br/> | 145 |
+| 64. | [Tesco](https://github.com/Tesco)  | [mewbase](https://github.com/Tesco/mewbase)  (136) <br/> | 136 |
+| 65. | [TinkoffCreditSystems](https://github.com/TinkoffCreditSystems)  | [decoro](https://github.com/TinkoffCreditSystems/decoro)  (133) <br/> | 133 |
+| 66. | [twitter](https://github.com/twitter)  | [nodes](https://github.com/twitter/nodes)  (131) <br/> | 131 |
+| 67. | [uptechteam](https://github.com/uptechteam)  | [MotionViews-Android](https://github.com/uptechteam/MotionViews-Android)  (128) <br/> | 128 |
+| 68. | [androidthings](https://github.com/androidthings)  | [new-project-template](https://github.com/androidthings/new-project-template)  (125) <br/> | 125 |
+| 69. | [Polidea](https://github.com/Polidea)  | [react-native-ble-plx](https://github.com/Polidea/react-native-ble-plx)  (121) <br/> | 121 |
+| 70. | [tensorflow](https://github.com/tensorflow)  | [ecosystem](https://github.com/tensorflow/ecosystem)  (111) <br/> | 111 |
+| 71. | [fossasia](https://github.com/fossasia)  | [susi_android](https://github.com/fossasia/susi_android)  (110) <br/> | 110 |
+| 72. | [joyrun](https://github.com/joyrun)  | [ActivityRouter](https://github.com/joyrun/ActivityRouter)  (101) <br/> | 101 |
+| 73. | [Coding](https://github.com/Coding)  | [WebIDE-Frontend](https://github.com/Coding/WebIDE-Frontend)  (163) <br/>[WebIDE-Backend](https://github.com/Coding/WebIDE-Backend)  (100) <br/> | 100 |
+| 74. | [spotbugs](https://github.com/spotbugs)  | [spotbugs](https://github.com/spotbugs/spotbugs)  (100) <br/> | 100 |
+
+## Language Stats Index
+
+
+>Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2016/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2016).
+
+An index is provided below for convenience.*
+
+
+| Language | 2016 |
+|---|---|
+| JavaScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-repos-javascript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-users-javascript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-orgs-javascript) |
+| Java | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-repos-java) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-users-java) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-orgs-java) |
+| Objective-C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-repos-objective-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-users-objective-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-orgs-objective-c) |
+| Python | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-repos-python) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-users-python) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-orgs-python) |
+| Swift | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-repos-swift) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-users-swift) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-orgs-swift) |
+| Go | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-repos-go) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-users-go) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-orgs-go) |
+| PHP | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-repos-php) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-users-php) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-orgs-php) |
+| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-repos-c++) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-users-c++) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-orgs-c++) |
+| C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-orgs-c) |
+| CSS | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-repos-css) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-users-css) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-orgs-css) |
+| HTML | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-repos-html) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-users-html) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-orgs-html) |
+| Ruby | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-repos-ruby) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-users-ruby) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-orgs-ruby) |
+| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-repos-c#) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-users-c#) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-orgs-c#) |
+| Shell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-repos-shell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-users-shell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-orgs-shell) |
+| Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-users-scala) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-orgs-scala) |
+| Clojure | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-repos-clojure) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-users-clojure) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-orgs-clojure) |
+| CoffeeScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-repos-coffeescript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-users-coffeescript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-orgs-coffeescript) |
+| Lua | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-repos-lua) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-users-lua) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-orgs-lua) |
+| Haskell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-repos-haskell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-users-haskell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-orgs-haskell) |
+| VimL | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-repos-viml) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-users-viml) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-orgs-viml) |
+| R | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-repos-r) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-users-r) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-orgs-r) |
+| Perl | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-repos-perl) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-users-perl) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-orgs-perl) |
+| Julia | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-repos-julia) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-users-julia) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-orgs-julia) |
+| Unknown | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-repos-unknown) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-users-unknown) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-orgs-unknown) |
+| Overall | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-repos-overall) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-users-overall) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-orgs-overall) |
