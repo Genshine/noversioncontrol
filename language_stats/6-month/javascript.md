@@ -806,3 +806,241 @@
 | 294. | [btomashvili](https://github.com/btomashvili)  | [react-redux-firebase-boilerplate](https://github.com/btomashvili/react-redux-firebase-boilerplate)  (125) <br/> | 125 |
 | 295. | [vfleaking](https://github.com/vfleaking)  | [uoj](https://github.com/vfleaking/uoj)  (125) <br/> | 125 |
 | 296. | [caio-ribeiro-pereira](https://github.com/caio-ribeiro-pereira)  | [node-api-examples](https://github.com/caio-ribeiro-pereira/node-api-examples)  (124) <br/> | 124 |
+| 297. | [SKAhack](https://github.com/SKAhack)  | [open-sketch](https://github.com/SKAhack/open-sketch)  (124) <br/> | 124 |
+| 298. | [myronliu347](https://github.com/myronliu347)  | [wechat-app-zhihudaily](https://github.com/myronliu347/wechat-app-zhihudaily)  (124) <br/> | 124 |
+| 299. | [alanwangmodify](https://github.com/alanwangmodify)  | [weChatApp-Run](https://github.com/alanwangmodify/weChatApp-Run)  (123) <br/> | 123 |
+| 300. | [paulirish](https://github.com/paulirish)  | [pwmetrics](https://github.com/paulirish/pwmetrics)  (123) <br/> | 123 |
+| 301. | [bgryszko](https://github.com/bgryszko)  | [react-native-circular-slider](https://github.com/bgryszko/react-native-circular-slider)  (122) <br/> | 122 |
+| 302. | [weslleyaraujo](https://github.com/weslleyaraujo)  | [react-simon-says](https://github.com/weslleyaraujo/react-simon-says)  (122) <br/> | 122 |
+| 303. | [allan2coder](https://github.com/allan2coder)  | [weixinApp](https://github.com/allan2coder/weixinApp)  (122) <br/> | 122 |
+| 304. | [prayerslayer](https://github.com/prayerslayer)  | [js.spec](https://github.com/prayerslayer/js.spec)  (121) <br/> | 121 |
+| 305. | [phenax](https://github.com/phenax)  | [plasmajs](https://github.com/phenax/plasmajs)  (121) <br/> | 121 |
+| 306. | [kokes](https://github.com/kokes)  | [nbviewer.js](https://github.com/kokes/nbviewer.js)  (121) <br/> | 121 |
+| 307. | [bluefox1688](https://github.com/bluefox1688)  | [vue-cli-multi-page](https://github.com/bluefox1688/vue-cli-multi-page)  (121) <br/> | 121 |
+| 308. | [lmammino](https://github.com/lmammino)  | [judo-heroes](https://github.com/lmammino/judo-heroes)  (121) <br/> | 121 |
+| 309. | [derhuerst](https://github.com/derhuerst)  | [svg-patterns](https://github.com/derhuerst/svg-patterns)  (120) <br/> | 120 |
+| 310. | [chokcoco](https://github.com/chokcoco)  | [httphijack](https://github.com/chokcoco/httphijack)  (120) <br/> | 120 |
+| 311. | [reimertz](https://github.com/reimertz)  | [lagom](https://github.com/reimertz/lagom)  (120) <br/> | 120 |
+| 312. | [rwhitmire](https://github.com/rwhitmire)  | [react-routify](https://github.com/rwhitmire/react-routify)  (119) <br/> | 119 |
+| 313. | [wangdahoo](https://github.com/wangdahoo)  | [vue-scroller](https://github.com/wangdahoo/vue-scroller)  (118) <br/> | 118 |
+| 314. | [elsehow](https://github.com/elsehow)  | [signal-protocol](https://github.com/elsehow/signal-protocol)  (118) <br/> | 118 |
+| 315. | [davedavehong](https://github.com/davedavehong)  | [fenda-mock](https://github.com/davedavehong/fenda-mock)  (118) <br/> | 118 |
+| 316. | [izelnakri](https://github.com/izelnakri)  | [express-routemap](https://github.com/izelnakri/express-routemap)  (117) <br/> | 117 |
+| 317. | [skovhus](https://github.com/skovhus)  | [jest-codemods](https://github.com/skovhus/jest-codemods)  (117) <br/> | 117 |
+| 318. | [michael-yin](https://github.com/michael-yin)  | [scrapy_guru](https://github.com/michael-yin/scrapy_guru)  (117) <br/> | 117 |
+| 319. | [ncase](https://github.com/ncase)  | [wbwwb](https://github.com/ncase/wbwwb)  (116) <br/> | 116 |
+| 320. | [ccorcos](https://github.com/ccorcos)  | [hack](https://github.com/ccorcos/hack)  (115) <br/> | 115 |
+| 321. | [rwieruch](https://github.com/rwieruch)  | [favesound-mobx](https://github.com/rwieruch/favesound-mobx)  (115) <br/> | 115 |
+| 322. | [screeny05](https://github.com/screeny05)  | [corrode](https://github.com/screeny05/corrode)  (114) <br/> | 114 |
+| 323. | [addyosmani](https://github.com/addyosmani)  | [preact-hn](https://github.com/addyosmani/preact-hn)  (114) <br/> | 114 |
+| 324. | [Justin-lu](https://github.com/Justin-lu)  | [react-redux-antd](https://github.com/Justin-lu/react-redux-antd)  (114) <br/> | 114 |
+| 325. | [axhello](https://github.com/axhello)  | [douyu-vue](https://github.com/axhello/douyu-vue)  (113) <br/> | 113 |
+| 326. | [latel](https://github.com/latel)  | [logline](https://github.com/latel/logline)  (113) <br/> | 113 |
+| 327. | [infosec-au](https://github.com/infosec-au)  | [little-doctor](https://github.com/infosec-au/little-doctor)  (112) <br/> | 112 |
+| 328. | [0xfe](https://github.com/0xfe)  | [vexwarp](https://github.com/0xfe/vexwarp)  (112) <br/> | 112 |
+| 329. | [OYsun](https://github.com/OYsun)  | [vscode-VueHelper](https://github.com/OYsun/vscode-VueHelper)  (111) <br/> | 111 |
+| 330. | [Javascipt](https://github.com/Javascipt)  | [node-youtube](https://github.com/Javascipt/node-youtube)  (111) <br/> | 111 |
+| 331. | [mstijak](https://github.com/mstijak)  | [tdo](https://github.com/mstijak/tdo)  (111) <br/> | 111 |
+| 332. | [erikras](https://github.com/erikras)  | [styled-components-theme](https://github.com/erikras/styled-components-theme)  (111) <br/> | 111 |
+| 333. | [staltz](https://github.com/staltz)  | [cycle-onionify](https://github.com/staltz/cycle-onionify)  (111) <br/> | 111 |
+| 334. | [freeman-lab](https://github.com/freeman-lab)  | [pixel-grid](https://github.com/freeman-lab/pixel-grid)  (110) <br/> | 110 |
+| 335. | [cognitom](https://github.com/cognitom)  | [felt](https://github.com/cognitom/felt)  (110) <br/> | 110 |
+| 336. | [asyncmax](https://github.com/asyncmax)  | [pshell](https://github.com/asyncmax/pshell)  (110) <br/> | 110 |
+| 337. | [yuanchuan](https://github.com/yuanchuan)  | [game-of-life](https://github.com/yuanchuan/game-of-life)  (110) <br/> | 110 |
+| 338. | [alt-j](https://github.com/alt-j)  | [fast-react-server](https://github.com/alt-j/fast-react-server)  (110) <br/> | 110 |
+| 339. | [valentinvichnal](https://github.com/valentinvichnal)  | [gravity.js](https://github.com/valentinvichnal/gravity.js)  (109) <br/> | 109 |
+| 340. | [saikat](https://github.com/saikat)  | [react-apollo-starter-kit](https://github.com/saikat/react-apollo-starter-kit)  (109) <br/> | 109 |
+| 341. | [damonare](https://github.com/damonare)  | [Sorts](https://github.com/damonare/Sorts)  (108) <br/> | 108 |
+| 342. | [NickTikhonov](https://github.com/NickTikhonov)  | [hyperline](https://github.com/NickTikhonov/hyperline)  (108) <br/> | 108 |
+| 343. | [timarney](https://github.com/timarney)  | [redux-trackjs-logger](https://github.com/timarney/redux-trackjs-logger)  (107) <br/> | 107 |
+| 344. | [andreapaiola](https://github.com/andreapaiola)  | [F-D-](https://github.com/andreapaiola/F-D-)  (107) <br/> | 107 |
+| 345. | [Swizec](https://github.com/Swizec)  | [react-fractals](https://github.com/Swizec/react-fractals)  (107) <br/> | 107 |
+| 346. | [BosNaufal](https://github.com/BosNaufal)  | [react-simple-pwa](https://github.com/BosNaufal/react-simple-pwa)  (106) <br/> | 106 |
+| 347. | [almonk](https://github.com/almonk)  | [shrink2](https://github.com/almonk/shrink2)  (105) <br/> | 105 |
+| 348. | [ratiw](https://github.com/ratiw)  | [vuetable-2](https://github.com/ratiw/vuetable-2)  (105) <br/> | 105 |
+| 349. | [pbomb](https://github.com/pbomb)  | [redux-devtools-profiler-monitor](https://github.com/pbomb/redux-devtools-profiler-monitor)  (105) <br/> | 105 |
+| 350. | [giuseppeg](https://github.com/giuseppeg)  | [ffocus](https://github.com/giuseppeg/ffocus)  (105) <br/> | 105 |
+| 351. | [audeSt](https://github.com/audeSt)  | [aude-project-manage-system](https://github.com/audeSt/aude-project-manage-system)  (105) <br/> | 105 |
+| 352. | [agar3s](https://github.com/agar3s)  | [devil-glitches](https://github.com/agar3s/devil-glitches)  (103) <br/> | 103 |
+| 353. | [andreleon](https://github.com/andreleon)  | [critical-style-snapshot](https://github.com/andreleon/critical-style-snapshot)  (103) <br/> | 103 |
+| 354. | [xibyte](https://github.com/xibyte)  | [jsketcher](https://github.com/xibyte/jsketcher)  (102) <br/> | 102 |
+| 355. | [superalsrk](https://github.com/superalsrk)  | [koa2-boilerplate](https://github.com/superalsrk/koa2-boilerplate)  (101) <br/> | 101 |
+| 356. | [noam3127](https://github.com/noam3127)  | [github-code-folding](https://github.com/noam3127/github-code-folding)  (101) <br/> | 101 |
+| 357. | [OlegIlyenko](https://github.com/OlegIlyenko)  | [graphiql-workspace](https://github.com/OlegIlyenko/graphiql-workspace)  (101) <br/> | 101 |
+| 358. | [ymgd](https://github.com/ymgd)  | [weixinopen](https://github.com/ymgd/weixinopen)  (101) <br/> | 101 |
+| 359. | [grvcoelho](https://github.com/grvcoelho)  | [react-voice-components](https://github.com/grvcoelho/react-voice-components)  (101) <br/> | 101 |
+| 360. | [mthuret](https://github.com/mthuret)  | [storybook-addon-specifications](https://github.com/mthuret/storybook-addon-specifications)  (100) <br/> | 100 |
+
+## Most-Starred Orgs: JavaScript
+
+| | Org | Repos | Stars |
+|---|---|---|---|
+| 1. | [zeit](https://github.com/zeit)  | [hyper](https://github.com/zeit/hyper)  (13626) <br/>[next.js](https://github.com/zeit/next.js)  (7704) <br/>[styled-jsx](https://github.com/zeit/styled-jsx)  (875) <br/>[now-cli](https://github.com/zeit/now-cli)  (547) <br/>[nextgram](https://github.com/zeit/nextgram)  (272) <br/>[hpm](https://github.com/zeit/hpm)  (200) <br/>[hyperpower](https://github.com/zeit/hyperpower)  (149) <br/> | 23373 |
+| 2. | [facebookincubator](https://github.com/facebookincubator)  | [create-react-app](https://github.com/facebookincubator/create-react-app)  (17569) <br/>[exerslide](https://github.com/facebookincubator/exerslide)  (315) <br/> | 17884 |
+| 3. | [FormidableLabs](https://github.com/FormidableLabs)  | [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard)  (7987) <br/>[nodejs-dashboard](https://github.com/FormidableLabs/nodejs-dashboard)  (2649) <br/>[react-game-kit](https://github.com/FormidableLabs/react-game-kit)  (2257) <br/>[react-music](https://github.com/FormidableLabs/react-music)  (1885) <br/>[react-animations](https://github.com/FormidableLabs/react-animations)  (868) <br/>[victory-cli](https://github.com/FormidableLabs/victory-cli)  (271) <br/>[react-progressive-image](https://github.com/FormidableLabs/react-progressive-image)  (140) <br/> | 16057 |
+| 4. | [wulkano](https://github.com/wulkano)  | [kap](https://github.com/wulkano/kap)  (3680) <br/> | 3680 |
+| 5. | [react-native-community](https://github.com/react-native-community)  | [react-native-elements](https://github.com/react-native-community/react-native-elements)  (3572) <br/> | 3572 |
+| 6. | [sveltejs](https://github.com/sveltejs)  | [svelte](https://github.com/sveltejs/svelte)  (3566) <br/> | 3566 |
+| 7. | [styled-components](https://github.com/styled-components)  | [styled-components](https://github.com/styled-components/styled-components)  (3537) <br/> | 3537 |
+| 8. | [dollarshaveclub](https://github.com/dollarshaveclub)  | [reframe.js](https://github.com/dollarshaveclub/reframe.js)  (1236) <br/>[shave](https://github.com/dollarshaveclub/shave)  (1231) <br/>[postmate](https://github.com/dollarshaveclub/postmate)  (663) <br/> | 3130 |
+| 9. | [vuejs](https://github.com/vuejs)  | [vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0)  (2481) <br/>[vue-migration-helper](https://github.com/vuejs/vue-migration-helper)  (314) <br/> | 2795 |
+| 10. | [googlesamples](https://github.com/googlesamples)  | [md2googleslides](https://github.com/googlesamples/md2googleslides)  (2583) <br/> | 2583 |
+| 11. | [gchq](https://github.com/gchq)  | [CyberChef](https://github.com/gchq/CyberChef)  (2234) <br/> | 2234 |
+| 12. | [GetStream](https://github.com/GetStream)  | [Winds](https://github.com/GetStream/Winds)  (2016) <br/> | 2016 |
+| 13. | [nuxt](https://github.com/nuxt)  | [nuxt.js](https://github.com/nuxt/nuxt.js)  (1916) <br/> | 1916 |
+| 14. | [web-pal](https://github.com/web-pal)  | [DBGlass](https://github.com/web-pal/DBGlass)  (900) <br/>[react-trello-board](https://github.com/web-pal/react-trello-board)  (668) <br/> | 1568 |
+| 15. | [material-components](https://github.com/material-components)  | [material-components-web](https://github.com/material-components/material-components-web)  (1533) <br/> | 1533 |
+| 16. | [jgraph](https://github.com/jgraph)  | [draw.io](https://github.com/jgraph/draw.io)  (1460) <br/> | 1460 |
+| 17. | [shoutem](https://github.com/shoutem)  | [ui](https://github.com/shoutem/ui)  (1447) <br/> | 1447 |
+| 18. | [LaunchKit](https://github.com/LaunchKit)  | [LaunchKit](https://github.com/LaunchKit/LaunchKit)  (1426) <br/> | 1426 |
+| 19. | [babel](https://github.com/babel)  | [babel-preset-env](https://github.com/babel/babel-preset-env)  (1400) <br/> | 1400 |
+| 20. | [electrode-io](https://github.com/electrode-io)  | [electrode](https://github.com/electrode-io/electrode)  (356) <br/>[electrode-electrify](https://github.com/electrode-io/electrode-electrify)  (205) <br/>[electrode-server](https://github.com/electrode-io/electrode-server)  (186) <br/>[electrode-explorer](https://github.com/electrode-io/electrode-explorer)  (161) <br/>[electrode-react-ssr-caching](https://github.com/electrode-io/electrode-react-ssr-caching)  (131) <br/>[electrode-csrf-jwt](https://github.com/electrode-io/electrode-csrf-jwt)  (105) <br/>[above-the-fold-only-server-render](https://github.com/electrode-io/above-the-fold-only-server-render)  (101) <br/> | 1245 |
+| 21. | [Ramotion](https://github.com/Ramotion)  | [aquarelle](https://github.com/Ramotion/aquarelle)  (1219) <br/> | 1219 |
+| 22. | [ForestAdmin](https://github.com/ForestAdmin)  | [lumber](https://github.com/ForestAdmin/lumber)  (1199) <br/> | 1199 |
+| 23. | [google](https://github.com/google)  | [closure-compiler-js](https://github.com/google/closure-compiler-js)  (1193) <br/> | 1193 |
+| 24. | [Easyfood](https://github.com/Easyfood)  | [pageAccelerator](https://github.com/Easyfood/pageAccelerator)  (1174) <br/> | 1174 |
+| 25. | [ReactTraining](https://github.com/ReactTraining)  | [react-media](https://github.com/ReactTraining/react-media)  (422) <br/>[react-broadcast](https://github.com/ReactTraining/react-broadcast)  (322) <br/>[react-router-addons-routes](https://github.com/ReactTraining/react-router-addons-routes)  (184) <br/>[react-history](https://github.com/ReactTraining/react-history)  (156) <br/> | 1084 |
+| 26. | [weui](https://github.com/weui)  | [weui-wxss](https://github.com/weui/weui-wxss)  (731) <br/>[weui.js](https://github.com/weui/weui.js)  (286) <br/> | 1017 |
+| 27. | [svtek](https://github.com/svtek)  | [aws-sms-send](https://github.com/svtek/aws-sms-send)  (280) <br/>[g3l](https://github.com/svtek/g3l)  (199) <br/>[docker-network](https://github.com/svtek/docker-network)  (175) <br/>[leveros-phone-number-fixer](https://github.com/svtek/leveros-phone-number-fixer)  (175) <br/>[imgfy](https://github.com/svtek/imgfy)  (172) <br/> | 1001 |
+| 28. | [awslabs](https://github.com/awslabs)  | [aws-serverless-express](https://github.com/awslabs/aws-serverless-express)  (419) <br/>[aws-sdk-react-native](https://github.com/awslabs/aws-sdk-react-native)  (296) <br/>[lambda-refarch-mapreduce](https://github.com/awslabs/lambda-refarch-mapreduce)  (151) <br/> | 866 |
+| 29. | [facebooknuclide](https://github.com/facebooknuclide)  | [atom-in-orbit](https://github.com/facebooknuclide/atom-in-orbit)  (852) <br/> | 852 |
+| 30. | [poly](https://github.com/poly)  | [stdlib](https://github.com/poly/stdlib)  (617) <br/>[f](https://github.com/poly/f)  (233) <br/> | 850 |
+| 31. | [CanonicalLtd](https://github.com/CanonicalLtd)  | [react-native](https://github.com/CanonicalLtd/react-native)  (800) <br/> | 800 |
+| 32. | [720kb](https://github.com/720kb)  | [ndm](https://github.com/720kb/ndm)  (780) <br/> | 780 |
+| 33. | [airbnb](https://github.com/airbnb)  | [react-with-styles](https://github.com/airbnb/react-with-styles)  (512) <br/>[babel-plugin-dynamic-import-webpack](https://github.com/airbnb/babel-plugin-dynamic-import-webpack)  (190) <br/> | 702 |
+| 34. | [Bottr-js](https://github.com/Bottr-js)  | [Bottr](https://github.com/Bottr-js/Bottr)  (672) <br/> | 672 |
+| 35. | [googlecreativelab](https://github.com/googlecreativelab)  | [aiexperiments-giorgio-cam](https://github.com/googlecreativelab/aiexperiments-giorgio-cam)  (230) <br/>[aiexperiments-drum-machine](https://github.com/googlecreativelab/aiexperiments-drum-machine)  (191) <br/>[giantemoji](https://github.com/googlecreativelab/giantemoji)  (129) <br/>[aiexperiments-bird-sounds](https://github.com/googlecreativelab/aiexperiments-bird-sounds)  (110) <br/> | 660 |
+| 36. | [gagakj](https://github.com/gagakj)  | [GaGaMall](https://github.com/gagakj/GaGaMall)  (598) <br/> | 598 |
+| 37. | [gophercon](https://github.com/gophercon)  | [2016-talks](https://github.com/gophercon/2016-talks)  (579) <br/> | 579 |
+| 38. | [appbaseio](https://github.com/appbaseio)  | [gem](https://github.com/appbaseio/gem)  (546) <br/> | 546 |
+| 39. | [BeepBoopHQ](https://github.com/BeepBoopHQ)  | [slapp](https://github.com/BeepBoopHQ/slapp)  (530) <br/> | 530 |
+| 40. | [monterail](https://github.com/monterail)  | [vuelidate](https://github.com/monterail/vuelidate)  (489) <br/> | 489 |
+| 41. | [JSBros](https://github.com/JSBros)  | [hedron](https://github.com/JSBros/hedron)  (480) <br/> | 480 |
+| 42. | [fuse-box](https://github.com/fuse-box)  | [fuse-box](https://github.com/fuse-box/fuse-box)  (472) <br/> | 472 |
+| 43. | [CFETeam](https://github.com/CFETeam)  | [weapp-demo-album](https://github.com/CFETeam/weapp-demo-album)  (305) <br/>[weapp-demo-websocket](https://github.com/CFETeam/weapp-demo-websocket)  (165) <br/> | 470 |
+| 44. | [birl-language](https://github.com/birl-language)  | [birl-language.github.io](https://github.com/birl-language/birl-language.github.io)  (469) <br/> | 469 |
+| 45. | [ctripcorp](https://github.com/ctripcorp)  | [dal](https://github.com/ctripcorp/dal)  (453) <br/> | 453 |
+| 46. | [screeps](https://github.com/screeps)  | [screeps](https://github.com/screeps/screeps)  (449) <br/> | 449 |
+| 47. | [marmelab](https://github.com/marmelab)  | [admin-on-rest](https://github.com/marmelab/admin-on-rest)  (434) <br/> | 434 |
+| 48. | [roncoo](https://github.com/roncoo)  | [roncoo-pay](https://github.com/roncoo/roncoo-pay)  (416) <br/> | 416 |
+| 49. | [FE-Driver](https://github.com/FE-Driver)  | [vue-beauty](https://github.com/FE-Driver/vue-beauty)  (394) <br/> | 394 |
+| 50. | [electrodejs](https://github.com/electrodejs)  | [electrode-archetype-react-app](https://github.com/electrodejs/electrode-archetype-react-app)  (148) <br/>[electrode-redux-router-engine](https://github.com/electrodejs/electrode-redux-router-engine)  (117) <br/>[generator-electrode](https://github.com/electrodejs/generator-electrode)  (115) <br/> | 380 |
+| 51. | [4Catalyzer](https://github.com/4Catalyzer)  | [css-literal-loader](https://github.com/4Catalyzer/css-literal-loader)  (234) <br/>[found](https://github.com/4Catalyzer/found)  (137) <br/> | 371 |
+| 52. | [storybooks](https://github.com/storybooks)  | [storyshots](https://github.com/storybooks/storyshots)  (259) <br/>[storybook-addon-knobs](https://github.com/storybooks/storybook-addon-knobs)  (110) <br/> | 369 |
+| 53. | [Microsoft](https://github.com/Microsoft)  | [BikeSharing360_MobileApps](https://github.com/Microsoft/BikeSharing360_MobileApps)  (180) <br/>[BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)  (176) <br/> | 356 |
+| 54. | [pogosandbox](https://github.com/pogosandbox)  | [necrobotvisualizer](https://github.com/pogosandbox/necrobotvisualizer)  (343) <br/> | 343 |
+| 55. | [holidaypirates](https://github.com/holidaypirates)  | [nucleus](https://github.com/holidaypirates/nucleus)  (334) <br/> | 334 |
+| 56. | [maichong](https://github.com/maichong)  | [labrador](https://github.com/maichong/labrador)  (320) <br/> | 320 |
+| 57. | [beameio](https://github.com/beameio)  | [beame-insta-ssl](https://github.com/beameio/beame-insta-ssl)  (317) <br/> | 317 |
+| 58. | [stems](https://github.com/stems)  | [join-monster](https://github.com/stems/join-monster)  (310) <br/> | 310 |
+| 59. | [hyperfuse](https://github.com/hyperfuse)  | [react-anime](https://github.com/hyperfuse/react-anime)  (300) <br/> | 300 |
+| 60. | [kaktus](https://github.com/kaktus)  | [kaktus](https://github.com/kaktus/kaktus)  (299) <br/> | 299 |
+| 61. | [alibaba](https://github.com/alibaba)  | [uirecorder](https://github.com/alibaba/uirecorder)  (297) <br/> | 297 |
+| 62. | [mozilla](https://github.com/mozilla)  | [datomish](https://github.com/mozilla/datomish)  (295) <br/> | 295 |
+| 63. | [missive](https://github.com/missive)  | [emoji-mart](https://github.com/missive/emoji-mart)  (290) <br/> | 290 |
+| 64. | [chromelens](https://github.com/chromelens)  | [chromelens](https://github.com/chromelens/chromelens)  (290) <br/> | 290 |
+| 65. | [sqreen](https://github.com/sqreen)  | [CTOSecurityChecklist](https://github.com/sqreen/CTOSecurityChecklist)  (289) <br/> | 289 |
+| 66. | [nodejs](https://github.com/nodejs)  | [installer](https://github.com/nodejs/installer)  (174) <br/>[http2](https://github.com/nodejs/http2)  (112) <br/> | 286 |
+| 67. | [walmartlabs](https://github.com/walmartlabs)  | [react-ssr-optimization](https://github.com/walmartlabs/react-ssr-optimization)  (285) <br/> | 285 |
+| 68. | [vue-play](https://github.com/vue-play)  | [vue-play](https://github.com/vue-play/vue-play)  (280) <br/> | 280 |
+| 69. | [nypublicradio](https://github.com/nypublicradio)  | [audiogram](https://github.com/nypublicradio/audiogram)  (261) <br/> | 261 |
+| 70. | [runkitdev](https://github.com/runkitdev)  | [demokit](https://github.com/runkitdev/demokit)  (254) <br/> | 254 |
+| 71. | [OpenDroneMap](https://github.com/OpenDroneMap)  | [WebODM](https://github.com/OpenDroneMap/WebODM)  (250) <br/> | 250 |
+| 72. | [AnotherNote](https://github.com/AnotherNote)  | [anote](https://github.com/AnotherNote/anote)  (239) <br/> | 239 |
+| 73. | [bs-detector](https://github.com/bs-detector)  | [bs-detector](https://github.com/bs-detector/bs-detector)  (236) <br/> | 236 |
+| 74. | [CERT-BDF](https://github.com/CERT-BDF)  | [TheHive](https://github.com/CERT-BDF/TheHive)  (227) <br/> | 227 |
+| 75. | [Meituan-Dianping](https://github.com/Meituan-Dianping)  | [koa-restql](https://github.com/Meituan-Dianping/koa-restql)  (226) <br/> | 226 |
+| 76. | [OpenZeppelin](https://github.com/OpenZeppelin)  | [zeppelin-solidity](https://github.com/OpenZeppelin/zeppelin-solidity)  (215) <br/> | 215 |
+| 77. | [wepyjs](https://github.com/wepyjs)  | [wepy](https://github.com/wepyjs/wepy)  (214) <br/> | 214 |
+| 78. | [fullstackreact](https://github.com/fullstackreact)  | [food-lookup-demo](https://github.com/fullstackreact/food-lookup-demo)  (212) <br/> | 212 |
+| 79. | [NascHQ](https://github.com/NascHQ)  | [dsw](https://github.com/NascHQ/dsw)  (210) <br/> | 210 |
+| 80. | [wireapp](https://github.com/wireapp)  | [wire-desktop](https://github.com/wireapp/wire-desktop)  (209) <br/> | 209 |
+| 81. | [pagarme](https://github.com/pagarme)  | [react-event-components](https://github.com/pagarme/react-event-components)  (187) <br/> | 187 |
+| 82. | [Syncano](https://github.com/Syncano)  | [syncano-dashboard](https://github.com/Syncano/syncano-dashboard)  (184) <br/> | 184 |
+| 83. | [flowtype](https://github.com/flowtype)  | [flow-remove-types](https://github.com/flowtype/flow-remove-types)  (183) <br/> | 183 |
+| 84. | [video-react](https://github.com/video-react)  | [video-react](https://github.com/video-react/video-react)  (182) <br/> | 182 |
+| 85. | [ui-storybook](https://github.com/ui-storybook)  | [sb](https://github.com/ui-storybook/sb)  (181) <br/> | 181 |
+| 86. | [RedMail](https://github.com/RedMail)  | [RedMail](https://github.com/RedMail/RedMail)  (180) <br/> | 180 |
+| 87. | [lanshan-studio](https://github.com/lanshan-studio)  | [wecqupt](https://github.com/lanshan-studio/wecqupt)  (170) <br/> | 170 |
+| 88. | [Coding](https://github.com/Coding)  | [WebIDE-Frontend](https://github.com/Coding/WebIDE-Frontend)  (163) <br/> | 163 |
+| 89. | [jsonata-js](https://github.com/jsonata-js)  | [jsonata](https://github.com/jsonata-js/jsonata)  (162) <br/> | 162 |
+| 90. | [riolet](https://github.com/riolet)  | [SAM](https://github.com/riolet/SAM)  (162) <br/> | 162 |
+| 91. | [team-emt](https://github.com/team-emt)  | [razorframe](https://github.com/team-emt/razorframe)  (162) <br/> | 162 |
+| 92. | [speedtracker](https://github.com/speedtracker)  | [speedtracker](https://github.com/speedtracker/speedtracker)  (161) <br/> | 161 |
+| 93. | [GeekyAnts](https://github.com/GeekyAnts)  | [NativeBase-KitchenSink](https://github.com/GeekyAnts/NativeBase-KitchenSink)  (159) <br/> | 159 |
+| 94. | [gloriajs](https://github.com/gloriajs)  | [gloria](https://github.com/gloriajs/gloria)  (158) <br/> | 158 |
+| 95. | [outlandishideas](https://github.com/outlandishideas)  | [kasia](https://github.com/outlandishideas/kasia)  (156) <br/> | 156 |
+| 96. | [ysrc](https://github.com/ysrc)  | [GourdScanV2](https://github.com/ysrc/GourdScanV2)  (152) <br/> | 152 |
+| 97. | [douban](https://github.com/douban)  | [rexxar-web](https://github.com/douban/rexxar-web)  (151) <br/> | 151 |
+| 98. | [cssobj](https://github.com/cssobj)  | [cssobj](https://github.com/cssobj/cssobj)  (149) <br/> | 149 |
+| 99. | [aframevr](https://github.com/aframevr)  | [a-painter](https://github.com/aframevr/a-painter)  (148) <br/> | 148 |
+| 100. | [dvajs](https://github.com/dvajs)  | [dva-cli](https://github.com/dvajs/dva-cli)  (144) <br/> | 144 |
+| 101. | [axboot](https://github.com/axboot)  | [ax-boot-framework](https://github.com/axboot/ax-boot-framework)  (143) <br/> | 143 |
+| 102. | [meetfranz](https://github.com/meetfranz)  | [plugins](https://github.com/meetfranz/plugins)  (141) <br/> | 141 |
+| 103. | [desklamp-js](https://github.com/desklamp-js)  | [desklamp](https://github.com/desklamp-js/desklamp)  (141) <br/> | 141 |
+| 104. | [maputnik](https://github.com/maputnik)  | [editor](https://github.com/maputnik/editor)  (137) <br/> | 137 |
+| 105. | [kriasoft](https://github.com/kriasoft)  | [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter)  (137) <br/> | 137 |
+| 106. | [SheetJS](https://github.com/SheetJS)  | [printj](https://github.com/SheetJS/printj)  (136) <br/> | 136 |
+| 107. | [tictail](https://github.com/tictail)  | [tide](https://github.com/tictail/tide)  (133) <br/> | 133 |
+| 108. | [eBay](https://github.com/eBay)  | [griffin](https://github.com/eBay/griffin)  (129) <br/> | 129 |
+| 109. | [elastic-coders](https://github.com/elastic-coders)  | [serverless-webpack](https://github.com/elastic-coders/serverless-webpack)  (128) <br/> | 128 |
+| 110. | [driftyco](https://github.com/driftyco)  | [creator-weekly-workshops](https://github.com/driftyco/creator-weekly-workshops)  (124) <br/> | 124 |
+| 111. | [csstree](https://github.com/csstree)  | [csstree](https://github.com/csstree/csstree)  (124) <br/> | 124 |
+| 112. | [knitjs](https://github.com/knitjs)  | [knit](https://github.com/knitjs/knit)  (124) <br/> | 124 |
+| 113. | [sgsoft-studio](https://github.com/sgsoft-studio)  | [webed](https://github.com/sgsoft-studio/webed)  (124) <br/> | 124 |
+| 114. | [ibmtjbot](https://github.com/ibmtjbot)  | [tjbot](https://github.com/ibmtjbot/tjbot)  (124) <br/> | 124 |
+| 115. | [PitchInteractiveInc](https://github.com/PitchInteractiveInc)  | [tilegrams](https://github.com/PitchInteractiveInc/tilegrams)  (122) <br/> | 122 |
+| 116. | [metafizzy](https://github.com/metafizzy)  | [huebee](https://github.com/metafizzy/huebee)  (122) <br/> | 122 |
+| 117. | [codrops](https://github.com/codrops)  | [MusicalInteractions](https://github.com/codrops/MusicalInteractions)  (121) <br/> | 121 |
+| 118. | [yoonic](https://github.com/yoonic)  | [atlas](https://github.com/yoonic/atlas)  (119) <br/> | 119 |
+| 119. | [docker](https://github.com/docker)  | [docker.github.io](https://github.com/docker/docker.github.io)  (117) <br/> | 117 |
+| 120. | [ElementUI](https://github.com/ElementUI)  | [element-starter](https://github.com/ElementUI/element-starter)  (115) <br/> | 115 |
+| 121. | [PerfectFreeze](https://github.com/PerfectFreeze)  | [PFWebViewController](https://github.com/PerfectFreeze/PFWebViewController)  (114) <br/> | 114 |
+| 122. | [clari](https://github.com/clari)  | [react-tween](https://github.com/clari/react-tween)  (113) <br/> | 113 |
+| 123. | [Seedstars](https://github.com/Seedstars)  | [reactnative-mobile-app-base](https://github.com/Seedstars/reactnative-mobile-app-base)  (112) <br/> | 112 |
+| 124. | [DigitalSecurity](https://github.com/DigitalSecurity)  | [btlejuice](https://github.com/DigitalSecurity/btlejuice)  (110) <br/> | 110 |
+| 125. | [FreeCodeCamp](https://github.com/FreeCodeCamp)  | [nonprofit-email-service](https://github.com/FreeCodeCamp/nonprofit-email-service)  (109) <br/> | 109 |
+| 126. | [serverless](https://github.com/serverless)  | [examples](https://github.com/serverless/examples)  (109) <br/> | 109 |
+| 127. | [zone-eu](https://github.com/zone-eu)  | [zone-mta](https://github.com/zone-eu/zone-mta)  (107) <br/> | 107 |
+| 128. | [Stackvana](https://github.com/Stackvana)  | [microcule](https://github.com/Stackvana/microcule)  (106) <br/> | 106 |
+| 129. | [cult-of-coders](https://github.com/cult-of-coders)  | [redis-oplog](https://github.com/cult-of-coders/redis-oplog)  (105) <br/> | 105 |
+| 130. | [ElemeFE](https://github.com/ElemeFE)  | [bowl](https://github.com/ElemeFE/bowl)  (101) <br/> | 101 |
+| 131. | [wit-ai](https://github.com/wit-ai)  | [witty-fiddle](https://github.com/wit-ai/witty-fiddle)  (100) <br/> | 100 |
+
+## Language Stats Index
+
+
+>Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2016/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2016).
+
+An index is provided below for convenience.*
+
+
+| Language | 2016 |
+|---|---|
+| JavaScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-repos-javascript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-users-javascript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-orgs-javascript) |
+| Java | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-repos-java) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-users-java) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-orgs-java) |
+| Objective-C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-repos-objective-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-users-objective-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-orgs-objective-c) |
+| Python | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-repos-python) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-users-python) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-orgs-python) |
+| Swift | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-repos-swift) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-users-swift) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-orgs-swift) |
+| Go | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-repos-go) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-users-go) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-orgs-go) |
+| PHP | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-repos-php) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-users-php) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/php.md#most-starred-orgs-php) |
+| C++ | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-repos-c++) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-users-c++) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c++.md#most-starred-orgs-c++) |
+| C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-repos-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-users-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c.md#most-starred-orgs-c) |
+| CSS | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-repos-css) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-users-css) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/css.md#most-starred-orgs-css) |
+| HTML | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-repos-html) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-users-html) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/html.md#most-starred-orgs-html) |
+| Ruby | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-repos-ruby) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-users-ruby) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/ruby.md#most-starred-orgs-ruby) |
+| C# | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-repos-c#) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-users-c#) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/c#.md#most-starred-orgs-c#) |
+| Shell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-repos-shell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-users-shell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/shell.md#most-starred-orgs-shell) |
+| Scala | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-repos-scala) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-users-scala) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/scala.md#most-starred-orgs-scala) |
+| Clojure | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-repos-clojure) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-users-clojure) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/clojure.md#most-starred-orgs-clojure) |
+| CoffeeScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-repos-coffeescript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-users-coffeescript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/coffeescript.md#most-starred-orgs-coffeescript) |
+| Lua | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-repos-lua) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-users-lua) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/lua.md#most-starred-orgs-lua) |
+| Haskell | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-repos-haskell) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-users-haskell) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/haskell.md#most-starred-orgs-haskell) |
+| VimL | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-repos-viml) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-users-viml) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/viml.md#most-starred-orgs-viml) |
+| R | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-repos-r) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-users-r) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/r.md#most-starred-orgs-r) |
+| Perl | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-repos-perl) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-users-perl) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/perl.md#most-starred-orgs-perl) |
+| Julia | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-repos-julia) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-users-julia) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/julia.md#most-starred-orgs-julia) |
+| Unknown | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-repos-unknown) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-users-unknown) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/unknown.md#most-starred-orgs-unknown) |
+| Overall | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-repos-overall) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-users-overall) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/overall.md#most-starred-orgs-overall) |
