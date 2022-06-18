@@ -1,29 +1,34 @@
-# Perl
 
-## Most-Starred Repos: Perl
+# R
+
+## Most-Starred Repos: R
 
 | | Repo | Stars |
 |---|---|---|
-| 1. | [fuzyll/defcon-vm](https://github.com/fuzyll/defcon-vm) <br/>Files from my DEFCON CTF VM. | 179 |
-| 2. | [Azure/acs-engine](https://github.com/Azure/acs-engine) <br/>Azure Container Service Engine - a place for commu... | 167 |
-| 3. | [neubig/nmt-tips](https://github.com/neubig/nmt-tips) <br/>A tutorial about neural machine translation includ... | 157 |
-| 4. | [openresty/opm](https://github.com/openresty/opm) <br/>OpenResty Package Manager | 127 |
-| 5. | [osresearch/heads](https://github.com/osresearch/heads) <br/>A minimal Linux that runs as a coreboot ROM payloa... | 101 |
+| 1. | [rstudio/tensorflow](https://github.com/rstudio/tensorflow) <br/>TensorFlow for R | 526 |
+| 2. | [tidyverse/tidyverse](https://github.com/tidyverse/tidyverse) <br/>Easily install and load packages from the tidyvers... | 248 |
+| 3. | [tidyverse/forcats](https://github.com/tidyverse/forcats) <br/>🐈🐈🐈🐈: tools for working with categorical variables... | 160 |
+| 4. | [ben519/DataWrangling](https://github.com/ben519/DataWrangling) <br/>The ultimate reference guide to data wrangling wit... | 130 |
+| 5. | [rstudio/blogdown](https://github.com/rstudio/blogdown) <br/>Create Blogs and Websites with R Markdown | 128 |
+| 6. | [daattali/timevis](https://github.com/daattali/timevis) <br/>Create interactive timeline visualizations in R | 127 |
+| 7. | [yihui/xaringan](https://github.com/yihui/xaringan) <br/>Presentation Ninja 幻灯忍者 · 写轮眼 | 125 |
+| 8. | [fivethirtyeight/guns-data](https://github.com/fivethirtyeight/guns-data)  | 122 |
 
-## Most-Starred Users: Perl
+## Most-Starred Users: R
 
 | | User | Repos | Stars |
 |---|---|---|---|
-| 1. | [fuzyll](https://github.com/fuzyll)  | [defcon-vm](https://github.com/fuzyll/defcon-vm)  (179) <br/> | 179 |
-| 2. | [neubig](https://github.com/neubig)  | [nmt-tips](https://github.com/neubig/nmt-tips)  (157) <br/> | 157 |
-| 3. | [osresearch](https://github.com/osresearch)  | [heads](https://github.com/osresearch/heads)  (101) <br/> | 101 |
+| 1. | [ben519](https://github.com/ben519)  | [DataWrangling](https://github.com/ben519/DataWrangling)  (130) <br/> | 130 |
+| 2. | [daattali](https://github.com/daattali)  | [timevis](https://github.com/daattali/timevis)  (127) <br/> | 127 |
+| 3. | [yihui](https://github.com/yihui)  | [xaringan](https://github.com/yihui/xaringan)  (125) <br/> | 125 |
 
-## Most-Starred Orgs: Perl
+## Most-Starred Orgs: R
 
 | | Org | Repos | Stars |
 |---|---|---|---|
-| 1. | [Azure](https://github.com/Azure)  | [acs-engine](https://github.com/Azure/acs-engine)  (167) <br/> | 167 |
-| 2. | [openresty](https://github.com/openresty)  | [opm](https://github.com/openresty/opm)  (127) <br/> | 127 |
+| 1. | [rstudio](https://github.com/rstudio)  | [tensorflow](https://github.com/rstudio/tensorflow)  (526) <br/>[blogdown](https://github.com/rstudio/blogdown)  (128) <br/> | 654 |
+| 2. | [tidyverse](https://github.com/tidyverse)  | [tidyverse](https://github.com/tidyverse/tidyverse)  (248) <br/>[forcats](https://github.com/tidyverse/forcats)  (160) <br/> | 408 |
+| 3. | [fivethirtyeight](https://github.com/fivethirtyeight)  | [guns-data](https://github.com/fivethirtyeight/guns-data)  (122) <br/> | 122 |
 
 ## Language Stats Index
 
