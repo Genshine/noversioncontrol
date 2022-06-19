@@ -269,4 +269,147 @@
 | 60. | [TBXark](https://github.com/TBXark)  | [PinterestSegment](https://github.com/TBXark/PinterestSegment)  (216) <br/>[TKRadarChart](https://github.com/TBXark/TKRadarChart)  (107) <br/> | 323 |
 | 61. | [fastred](https://github.com/fastred)  | [EmojiTextView](https://github.com/fastred/EmojiTextView)  (321) <br/> | 321 |
 | 62. | [qiuncheng](https://github.com/qiuncheng)  | [NoticeBar](https://github.com/qiuncheng/NoticeBar)  (179) <br/>[FontAwesomeKit.Swift](https://github.com/qiuncheng/FontAwesomeKit.Swift)  (132) <br/> | 311 |
-| 63. | [insidegui](https://github.com/insidegui)  | [AppleEvents](https://github.com/insidegui/AppleEvents)  (554) <br/>[PlayAlways](https://github.com/insidegui/Pl
+| 63. | [insidegui](https://github.com/insidegui)  | [AppleEvents](https://github.com/insidegui/AppleEvents)  (554) <br/>[PlayAlways](https://github.com/insidegui/PlayAlways)  (303) <br/> | 303 |
+| 64. | [azimin](https://github.com/azimin)  | [AZTransitions](https://github.com/azimin/AZTransitions)  (301) <br/> | 301 |
+| 65. | [shoheiyokoyama](https://github.com/shoheiyokoyama)  | [Koyomi](https://github.com/shoheiyokoyama/Koyomi)  (301) <br/> | 301 |
+| 66. | [robertherdzik](https://github.com/robertherdzik)  | [RHPreviewCell](https://github.com/robertherdzik/RHPreviewCell)  (293) <br/> | 293 |
+| 67. | [luispadron](https://github.com/luispadron)  | [UICircularProgressRing](https://github.com/luispadron/UICircularProgressRing)  (288) <br/> | 288 |
+| 68. | [hungtruong](https://github.com/hungtruong)  | [TouchFart](https://github.com/hungtruong/TouchFart)  (286) <br/> | 286 |
+| 69. | [erikolsson](https://github.com/erikolsson)  | [Touch-Bar-Lemmings](https://github.com/erikolsson/Touch-Bar-Lemmings)  (277) <br/> | 277 |
+| 70. | [HHuiHao](https://github.com/HHuiHao)  | [liwushuo](https://github.com/HHuiHao/liwushuo)  (275) <br/> | 275 |
+| 71. | [mergesort](https://github.com/mergesort)  | [TableFlip](https://github.com/mergesort/TableFlip)  (274) <br/> | 274 |
+| 72. | [keitaoouchi](https://github.com/keitaoouchi)  | [IoniconsKit](https://github.com/keitaoouchi/IoniconsKit)  (271) <br/> | 271 |
+| 73. | [jariz](https://github.com/jariz)  | [Noti](https://github.com/jariz/Noti)  (270) <br/> | 270 |
+| 74. | [alsedi](https://github.com/alsedi)  | [RippleEffectView](https://github.com/alsedi/RippleEffectView)  (264) <br/> | 264 |
+| 75. | [jakemarsh](https://github.com/jakemarsh)  | [CostumeKit](https://github.com/jakemarsh/CostumeKit)  (263) <br/> | 263 |
+| 76. | [jinSasaki](https://github.com/jinSasaki)  | [Vulcan](https://github.com/jinSasaki/Vulcan)  (252) <br/> | 252 |
+| 77. | [Boris-Em](https://github.com/Boris-Em)  | [NightView](https://github.com/Boris-Em/NightView)  (152) <br/>[Cloudy](https://github.com/Boris-Em/Cloudy)  (100) <br/> | 252 |
+| 78. | [mindz-eye](https://github.com/mindz-eye)  | [MYTableViewIndex](https://github.com/mindz-eye/MYTableViewIndex)  (250) <br/> | 250 |
+| 79. | [shashankpali](https://github.com/shashankpali)  | [EZYGradientView](https://github.com/shashankpali/EZYGradientView)  (247) <br/> | 247 |
+| 80. | [bgian](https://github.com/bgian)  | [Sketch-iOS-Library](https://github.com/bgian/Sketch-iOS-Library)  (241) <br/> | 241 |
+| 81. | [toolinbox](https://github.com/toolinbox)  | [iPicUploader](https://github.com/toolinbox/iPicUploader)  (235) <br/> | 235 |
+| 82. | [kishikawakatsumi](https://github.com/kishikawakatsumi)  | [TextKitExamples](https://github.com/kishikawakatsumi/TextKitExamples)  (234) <br/> | 234 |
+| 83. | [DTVD](https://github.com/DTVD)  | [The-introduction-to-RxSwift-you-have-been-missing](https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing)  (228) <br/> | 228 |
+| 84. | [AkdM](https://github.com/AkdM)  | [KnightTouchBar2000](https://github.com/AkdM/KnightTouchBar2000)  (221) <br/> | 221 |
+| 85. | [muukii](https://github.com/muukii)  | [JAYSON](https://github.com/muukii/JAYSON)  (214) <br/> | 214 |
+| 86. | [andresinaka](https://github.com/andresinaka)  | [SnapTimer](https://github.com/andresinaka/SnapTimer)  (213) <br/> | 213 |
+| 87. | [youngsoft](https://github.com/youngsoft)  | [TangramKit](https://github.com/youngsoft/TangramKit)  (208) <br/> | 208 |
+| 88. | [nst](https://github.com/nst)  | [JSONTestSuite](https://github.com/nst/JSONTestSuite)  (203) <br/> | 203 |
+| 89. | [eBardX](https://github.com/eBardX)  | [XestiMonitors](https://github.com/eBardX/XestiMonitors)  (203) <br/> | 203 |
+| 90. | [NghiaTranUIT](https://github.com/NghiaTranUIT)  | [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit)  (203) <br/> | 203 |
+| 91. | [sahandnayebaziz](https://github.com/sahandnayebaziz)  | [Hypertext](https://github.com/sahandnayebaziz/Hypertext)  (201) <br/> | 201 |
+| 92. | [OrRon](https://github.com/OrRon)  | [ConfettiView](https://github.com/OrRon/ConfettiView)  (199) <br/> | 199 |
+| 93. | [6ag](https://github.com/6ag)  | [EnglishCommunity-swift](https://github.com/6ag/EnglishCommunity-swift)  (198) <br/> | 198 |
+| 94. | [johnno1962](https://github.com/johnno1962)  | [RefactoratorApp](https://github.com/johnno1962/RefactoratorApp)  (196) <br/> | 196 |
+| 95. | [netyouli](https://github.com/netyouli)  | [WHC_ScanUnreferenceImageTool](https://github.com/netyouli/WHC_ScanUnreferenceImageTool)  (195) <br/>[WHC_KeyboardManager](https://github.com/netyouli/WHC_KeyboardManager)  (131) <br/> | 195 |
+| 96. | [gokulgovind](https://github.com/gokulgovind)  | [GLNotificationBar](https://github.com/gokulgovind/GLNotificationBar)  (194) <br/> | 194 |
+| 97. | [hsylife](https://github.com/hsylife)  | [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover)  (194) <br/> | 194 |
+| 98. | [baoyongzhang](https://github.com/baoyongzhang)  | [ApkChannelBuilder](https://github.com/baoyongzhang/ApkChannelBuilder)  (185) <br/> | 185 |
+| 99. | [rshevchuk](https://github.com/rshevchuk)  | [Wallet](https://github.com/rshevchuk/Wallet)  (182) <br/> | 182 |
+| 100. | [rolandleth](https://github.com/rolandleth)  | [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton)  (169) <br/> | 169 |
+| 101. | [chenxtdo](https://github.com/chenxtdo)  | [UPImageMacApp](https://github.com/chenxtdo/UPImageMacApp)  (166) <br/> | 166 |
+| 102. | [pitiphong-p](https://github.com/pitiphong-p)  | [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout)  (161) <br/> | 161 |
+| 103. | [yulingtianxia](https://github.com/yulingtianxia)  | [pbxprojHelper](https://github.com/yulingtianxia/pbxprojHelper)  (161) <br/> | 161 |
+| 104. | [ayushn21](https://github.com/ayushn21)  | [AvatarImageView](https://github.com/ayushn21/AvatarImageView)  (160) <br/> | 160 |
+| 105. | [albertodebortoli](https://github.com/albertodebortoli)  | [Skopelos](https://github.com/albertodebortoli/Skopelos)  (159) <br/> | 159 |
+| 106. | [ruslanskorb](https://github.com/ruslanskorb)  | [RSKCollectionViewRetractableFirstItemLayout](https://github.com/ruslanskorb/RSKCollectionViewRetractableFirstItemLayout)  (156) <br/> | 156 |
+| 107. | [dduan](https://github.com/dduan)  | [needless](https://github.com/dduan/needless)  (155) <br/> | 155 |
+| 108. | [lorentey](https://github.com/lorentey)  | [SipHash](https://github.com/lorentey/SipHash)  (155) <br/> | 155 |
+| 109. | [ming1016](https://github.com/ming1016)  | [STMURLCache](https://github.com/ming1016/STMURLCache)  (227) <br/>[SMCheckProject](https://github.com/ming1016/SMCheckProject)  (153) <br/> | 153 |
+| 110. | [mattgallagher](https://github.com/mattgallagher)  | [CwlSignal](https://github.com/mattgallagher/CwlSignal)  (152) <br/> | 152 |
+| 111. | [marty-suzuki](https://github.com/marty-suzuki)  | [HoverConversion](https://github.com/marty-suzuki/HoverConversion)  (151) <br/> | 151 |
+| 112. | [jordidekock](https://github.com/jordidekock)  | [Colorblinds](https://github.com/jordidekock/Colorblinds)  (151) <br/> | 151 |
+| 113. | [BalestraPatrick](https://github.com/BalestraPatrick)  | [VideoToGIF](https://github.com/BalestraPatrick/VideoToGIF)  (151) <br/> | 151 |
+| 114. | [teddylong](https://github.com/teddylong)  | [iOSGank](https://github.com/teddylong/iOSGank)  (146) <br/> | 146 |
+| 115. | [coderwhy](https://github.com/coderwhy)  | [DouYuZB](https://github.com/coderwhy/DouYuZB)  (143) <br/> | 143 |
+| 116. | [tomkowz](https://github.com/tomkowz)  | [NetworkLayerExample](https://github.com/tomkowz/NetworkLayerExample)  (141) <br/> | 141 |
+| 117. | [nishimao](https://github.com/nishimao)  | [FeedbackKit](https://github.com/nishimao/FeedbackKit)  (141) <br/> | 141 |
+| 118. | [wess](https://github.com/wess)  | [overlook](https://github.com/wess/overlook)  (134) <br/> | 134 |
+| 119. | [AndrewGene](https://github.com/AndrewGene)  | [EasyUITextFields](https://github.com/AndrewGene/EasyUITextFields)  (130) <br/> | 130 |
+| 120. | [twostraws](https://github.com/twostraws)  | [SwiftGD](https://github.com/twostraws/SwiftGD)  (130) <br/> | 130 |
+| 121. | [evermeer](https://github.com/evermeer)  | [AttributedTextView](https://github.com/evermeer/AttributedTextView)  (125) <br/> | 125 |
+| 122. | [nunogoncalves](https://github.com/nunogoncalves)  | [iOS-MultiSelectionTable](https://github.com/nunogoncalves/iOS-MultiSelectionTable)  (123) <br/> | 123 |
+| 123. | [cemolcay](https://github.com/cemolcay)  | [ImageFreeCut](https://github.com/cemolcay/ImageFreeCut)  (123) <br/> | 123 |
+| 124. | [zekunyan](https://github.com/zekunyan)  | [TTGPuzzleVerify](https://github.com/zekunyan/TTGPuzzleVerify)  (171) <br/>[TTGBingWallPaper](https://github.com/zekunyan/TTGBingWallPaper)  (122) <br/> | 122 |
+| 125. | [LeonardoCardoso](https://github.com/LeonardoCardoso)  | [AudioIndicatorBars](https://github.com/LeonardoCardoso/AudioIndicatorBars)  (121) <br/> | 121 |
+| 126. | [ole](https://github.com/ole)  | [Ampere](https://github.com/ole/Ampere)  (121) <br/> | 121 |
+| 127. | [khanlou](https://github.com/khanlou)  | [Promise](https://github.com/khanlou/Promise)  (120) <br/> | 120 |
+| 128. | [Herb-Sun](https://github.com/Herb-Sun)  | [OKKLineSwift](https://github.com/Herb-Sun/OKKLineSwift)  (119) <br/> | 119 |
+| 129. | [victorBaro](https://github.com/victorBaro)  | [AlgoGraphics](https://github.com/victorBaro/AlgoGraphics)  (119) <br/> | 119 |
+| 130. | [thomaspaulmann](https://github.com/thomaspaulmann)  | [HeartControl](https://github.com/thomaspaulmann/HeartControl)  (118) <br/> | 118 |
+| 131. | [vitormesquita](https://github.com/vitormesquita)  | [Malert](https://github.com/vitormesquita/Malert)  (117) <br/> | 117 |
+| 132. | [CoderZhuXH](https://github.com/CoderZhuXH)  | [XHToastSwift](https://github.com/CoderZhuXH/XHToastSwift)  (116) <br/> | 116 |
+| 133. | [Techprimate](https://github.com/Techprimate)  | [TPPDF](https://github.com/Techprimate/TPPDF)  (114) <br/> | 114 |
+| 134. | [MosheBerman](https://github.com/MosheBerman)  | [Precalc](https://github.com/MosheBerman/Precalc)  (112) <br/> | 112 |
+| 135. | [taglia3](https://github.com/taglia3)  | [CircularSlider](https://github.com/taglia3/CircularSlider)  (112) <br/> | 112 |
+| 136. | [s1ddok](https://github.com/s1ddok)  | [Fiber2D](https://github.com/s1ddok/Fiber2D)  (111) <br/> | 111 |
+| 137. | [sergdort](https://github.com/sergdort)  | [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator)  (110) <br/> | 110 |
+| 138. | [lsapan](https://github.com/lsapan)  | [pgoapi-swift](https://github.com/lsapan/pgoapi-swift)  (108) <br/> | 108 |
+| 139. | [LeoMobileDeveloper](https://github.com/LeoMobileDeveloper)  | [ImageMaskTransition](https://github.com/LeoMobileDeveloper/ImageMaskTransition)  (107) <br/> | 107 |
+| 140. | [andrealufino](https://github.com/andrealufino)  | [Luminous](https://github.com/andrealufino/Luminous)  (106) <br/> | 106 |
+| 141. | [ktanaka117](https://github.com/ktanaka117)  | [ScrollingFollowView](https://github.com/ktanaka117/ScrollingFollowView)  (104) <br/> | 104 |
+| 142. | [xxxAIRINxxx](https://github.com/xxxAIRINxxx)  | [VHUD](https://github.com/xxxAIRINxxx/VHUD)  (104) <br/> | 104 |
+| 143. | [iMasanari](https://github.com/iMasanari)  | [cmd-eikana](https://github.com/iMasanari/cmd-eikana)  (103) <br/> | 103 |
+| 144. | [unixzii](https://github.com/unixzii)  | [CVPasscodeController](https://github.com/unixzii/CVPasscodeController)  (103) <br/> | 103 |
+| 145. | [v-braun](https://github.com/v-braun)  | [VBPiledView](https://github.com/v-braun/VBPiledView)  (101) <br/> | 101 |
+
+## Most-Starred Orgs: Swift
+
+| | Org | Repos | Stars |
+|---|---|---|---|
+| 1. | [kickstarter](https://github.com/kickstarter)  | [ios-oss](https://github.com/kickstarter/ios-oss)  (3635) <br/>[android-oss](https://github.com/kickstarter/android-oss)  (3032) <br/> | 3635 |
+| 2. | [Yalantis](https://github.com/Yalantis)  | [Segmentio](https://github.com/Yalantis/Segmentio)  (1018) <br/>[ToDoList](https://github.com/Yalantis/ToDoList)  (836) <br/>[ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)  (750) <br/>[PixPic](https://github.com/Yalantis/PixPic)  (717) <br/>[ForceBlur](https://github.com/Yalantis/ForceBlur)  (507) <br/> | 2992 |
+| 3. | [eBay](https://github.com/eBay)  | [NMessenger](https://github.com/eBay/NMessenger)  (1695) <br/>[griffin](https://github.com/eBay/griffin)  (129) <br/> | 1695 |
+| 4. | [SwiftKickMobile](https://github.com/SwiftKickMobile)  | [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)  (1682) <br/> | 1682 |
+| 5. | [BendingSpoons](https://github.com/BendingSpoons)  | [katana-swift](https://github.com/BendingSpoons/katana-swift)  (1343) <br/> | 1343 |
+| 6. | [146BC](https://github.com/146BC)  | [StyleKit](https://github.com/146BC/StyleKit)  (1042) <br/> | 1042 |
+| 7. | [facebook](https://github.com/facebook)  | [facebook-sdk-swift](https://github.com/facebook/facebook-sdk-swift)  (965) <br/> | 965 |
+| 8. | [apple](https://github.com/apple)  | [swift-protobuf](https://github.com/apple/swift-protobuf)  (669) <br/> | 669 |
+| 9. | [alibaba](https://github.com/alibaba)  | [freeline](https://github.com/alibaba/freeline)  (2797) <br/>[BeeHive](https://github.com/alibaba/BeeHive)  (1344) <br/>[HandyJSON](https://github.com/alibaba/HandyJSON)  (560) <br/>[uirecorder](https://github.com/alibaba/uirecorder)  (297) <br/>[iOSSecAudit](https://github.com/alibaba/iOSSecAudit)  (105) <br/> | 560 |
+| 10. | [shinobicontrols](https://github.com/shinobicontrols)  | [iOS10-day-by-day](https://github.com/shinobicontrols/iOS10-day-by-day)  (533) <br/> | 533 |
+| 11. | [whitesmith](https://github.com/whitesmith)  | [WSTagsField](https://github.com/whitesmith/WSTagsField)  (526) <br/> | 526 |
+| 12. | [Raizlabs](https://github.com/Raizlabs)  | [Eject](https://github.com/Raizlabs/Eject)  (378) <br/>[BentoMap](https://github.com/Raizlabs/BentoMap)  (143) <br/> | 521 |
+| 13. | [wayfair](https://github.com/wayfair)  | [brickkit-ios](https://github.com/wayfair/brickkit-ios)  (446) <br/> | 446 |
+| 14. | [Onix-Systems](https://github.com/Onix-Systems)  | [RainyRefreshControl](https://github.com/Onix-Systems/RainyRefreshControl)  (446) <br/> | 446 |
+| 15. | [linkedin](https://github.com/linkedin)  | [test-butler](https://github.com/linkedin/test-butler)  (557) <br/>[RocketData](https://github.com/linkedin/RocketData)  (420) <br/> | 420 |
+| 16. | [wulkano](https://github.com/wulkano)  | [kap](https://github.com/wulkano/kap)  (3680) <br/>[aperture.js](https://github.com/wulkano/aperture.js)  (415) <br/> | 415 |
+| 17. | [Awesome-Server-Side-Swift](https://github.com/Awesome-Server-Side-Swift)  | [TheList](https://github.com/Awesome-Server-Side-Swift/TheList)  (361) <br/> | 361 |
+| 18. | [MDCC2016](https://github.com/MDCC2016)  | [ProtocolNetwork](https://github.com/MDCC2016/ProtocolNetwork)  (356) <br/> | 356 |
+| 19. | [Athlee](https://github.com/Athlee)  | [OnboardingKit](https://github.com/Athlee/OnboardingKit)  (328) <br/> | 328 |
+| 20. | [cookiecutter-swift](https://github.com/cookiecutter-swift)  | [FrameworkTemplate](https://github.com/cookiecutter-swift/FrameworkTemplate)  (320) <br/> | 320 |
+| 21. | [RxSwiftCommunity](https://github.com/RxSwiftCommunity)  | [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard)  (315) <br/> | 315 |
+| 22. | [52inc](https://github.com/52inc)  | [Pulley](https://github.com/52inc/Pulley)  (298) <br/> | 298 |
+| 23. | [WhiskerzAB](https://github.com/WhiskerzAB)  | [PlaygroundTDD](https://github.com/WhiskerzAB/PlaygroundTDD)  (294) <br/> | 294 |
+| 24. | [PGSSoft](https://github.com/PGSSoft)  | [ParallaxView](https://github.com/PGSSoft/ParallaxView)  (257) <br/> | 257 |
+| 25. | [douban](https://github.com/douban)  | [rexxar-android](https://github.com/douban/rexxar-android)  (464) <br/>[rexxar-ios](https://github.com/douban/rexxar-ios)  (354) <br/>[FRDIntent](https://github.com/douban/FRDIntent)  (234) <br/>[rexxar-web](https://github.com/douban/rexxar-web)  (151) <br/> | 234 |
+| 26. | [IBM-Swift](https://github.com/IBM-Swift)  | [Swift-Kuery](https://github.com/IBM-Swift/Swift-Kuery)  (233) <br/> | 233 |
+| 27. | [apollostack](https://github.com/apollostack)  | [apollo-ios](https://github.com/apollostack/apollo-ios)  (211) <br/> | 211 |
+| 28. | [thoughtbot](https://github.com/thoughtbot)  | [expandable-recycler-view](https://github.com/thoughtbot/expandable-recycler-view)  (391) <br/>[Perform](https://github.com/thoughtbot/Perform)  (207) <br/> | 207 |
+| 29. | [GraphQLSwift](https://github.com/GraphQLSwift)  | [GraphQL](https://github.com/GraphQLSwift/GraphQL)  (206) <br/> | 206 |
+| 30. | [jobandtalent](https://github.com/jobandtalent)  | [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput)  (352) <br/>[CardStackController](https://github.com/jobandtalent/CardStackController)  (197) <br/> | 197 |
+| 31. | [PopcornTimeTV](https://github.com/PopcornTimeTV)  | [PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV)  (184) <br/> | 184 |
+| 32. | [instacart](https://github.com/instacart)  | [truetime-android](https://github.com/instacart/truetime-android)  (387) <br/>[TrueTime.swift](https://github.com/instacart/TrueTime.swift)  (139) <br/> | 139 |
+| 33. | [VivaReal](https://github.com/VivaReal)  | [Compose](https://github.com/VivaReal/Compose)  (117) <br/> | 117 |
+| 34. | [pokeweak](https://github.com/pokeweak)  | [pokemon-weakness-ios](https://github.com/pokeweak/pokemon-weakness-ios)  (117) <br/> | 117 |
+| 35. | [hyperoslo](https://github.com/hyperoslo)  | [Simulator](https://github.com/hyperoslo/Simulator)  (111) <br/> | 111 |
+| 36. | [carambalabs](https://github.com/carambalabs)  | [UnsplashKit](https://github.com/carambalabs/UnsplashKit)  (111) <br/> | 111 |
+| 37. | [EurekaCommunity](https://github.com/EurekaCommunity)  | [GenericPasswordRow](https://github.com/EurekaCommunity/GenericPasswordRow)  (107) <br/> | 107 |
+
+## Language Stats Index
+
+
+>Up to the **500 Most-Starred** Repos, Users, and Orgs, Organized by Language.
+
+*Due to the large number of [languages tracked](#which-languages-are-tracked) and the lengthy lists for each language, stats for each language can be found in [gh-stats/language_stats/2016/](https://github.com/donnemartin/gh-stats/tree/master/language_stats/2016).
+
+An index is provided below for convenience.*
+
+
+| Language | 2016 |
+|---|---|
+| JavaScript | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-repos-javascript) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-users-javascript) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/javascript.md#most-starred-orgs-javascript) |
+| Java | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-repos-java) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-users-java) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/java.md#most-starred-orgs-java) |
+| Objective-C | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-repos-objective-c) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-users-objective-c) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/objective-c.md#most-starred-orgs-objective-c) |
+| Python | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-repos-python) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-users-python) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/python.md#most-starred-orgs-python) |
+| Swift | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-repos-swift) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-users-swift) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/swift.md#most-starred-orgs-swift) |
+| Go | [Repos](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-repos-go) - [Users](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-starred-users-go) - [Orgs](https://github.com/donnemartin/gh-stats/blob/master/language_stats/2016/go.md#most-
