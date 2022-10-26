@@ -51,4 +51,10 @@
 .highlight pre .si { color: #aa5500 } /* Literal.String.Interpol */
 .highlight pre .sx { color: #aa5500 } /* Literal.String.Other */
 .highlight pre .sr { color: #009999 } /* Literal.String.Regex */
-.highlight pre .s1 { color: #aa5500 } /* Literal.String.
+.highlight pre .s1 { color: #aa5500 } /* Literal.String.Single */
+.highlight pre .ss { color: #0000aa } /* Literal.String.Symbol */
+.highlight pre .bp { color: #00aaaa } /* Name.Builtin.Pseudo */
+.highlight pre .vc { color: #aa0000 } /* Name.Variable.Class */
+.highlight pre .vg { color: #aa0000 } /* Name.Variable.Global */
+.highlight pre .vi { color: #aa0000 } /* Name.Variable.Instance */
+.highlight pre .il { color: #009999 } /* Literal.Number.Integer.Long */
