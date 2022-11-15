@@ -1,23 +1,12 @@
-<!DOCTYPE html>
-{% if USE_OPEN_GRAPH is not defined %}
-    {% set USE_OPEN_GRAPH = True %}
-{% endif %}
-<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}"{% if USE_OPEN_GRAPH %} prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml"{% endif %}>
-<head>
-    <script type="text/javascript">
-      <!--
-      if (screen.width <= 768) {
-        var slug = self.location.href.substr(self.location.href.lastIndexOf("/")+1);
-        window.location = "{{ SITEURL }}/pages/" + slug + "-mobile";
-      }
-      //-->
-    </script>
 
+<head>
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
     {% if 'liquid_tags.notebook' in PLUGINS %}
         {% include 'includes/liquid_tags_nb_header.html' %}
@@ -65,11 +54,9 @@
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
-        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/custom.css" type="text/css"/>
     {% else %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" type="text/css"/>
     {% endif %}
-    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" rel="stylesheet">
 
     <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
@@ -81,7 +68,6 @@
     {% if TYPOGRIFY %}
         <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/typogrify.css" rel="stylesheet">
     {% endif %}
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" type="text/css"/>
     {% if CUSTOM_CSS %}
         <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
     {% endif %}
@@ -108,63 +94,23 @@
         <link href="{{ SITEURL }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate"
               title="{{ SITENAME }} {{ category }} ATOM Feed"/>
     {% endif %}
+
+    <!-- Custom CSS -->
+    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/agency.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/custom.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
 </head>
-<body>
-
-
-<!-- Banner -->
-{% if BANNER and BANNER_ALL_PAGES %}
-    {% include 'includes/banner.html' %}
-{% elif BANNER and not BANNER_ALL_PAGES %}
-    {% block banner %}{% endblock %}
-{% endif %}
-<!-- End Banner -->
-
-{% include 'includes/nav.html' %}
-<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-    <div class="row">
-        {% if not HIDE_SIDEBAR or ABOUT_ME %}
-        <div class="col-sm-9">
-        {% else %}
-        <div class="col-lg-12">
-        {% endif %}
-        {% block breadcrumbs %}
-        {% endblock %}
-        {% block content %}
-        {% endblock %}
-        </div>
-        {% if not HIDE_SIDEBAR or ABOUT_ME %}
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-            {% if ABOUT_ME %}
-                {% include 'includes/aboutme.html' %}
-            {% endif %}
-            {% if not HIDE_SIDEBAR %}
-                {% include 'includes/sidebar.html' %}
-            {% endif %}
-            </aside>
-        </div>
-        {% endif %}
-    </div>
-</div>
-{% include 'includes/footer.html' %}
-
-<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
-
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
-
-<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/respond.min.js"></script>
-
-{% if BANNER %}
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
-{% endif %}
-{% include 'includes/github-js.html' %}
-{% include 'includes/disqus_script.html' %}
-{% include 'includes/ga.html' %}
-{% include 'includes/piwik.html' %}
-
-{% block scripts %}{% endblock %}
-</body>
-</html>
