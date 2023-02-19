@@ -28,4 +28,7 @@
 .highlight pre .se { color: #a31515 } /* Literal.String.Escape */
 .highlight pre .sh { color: #a31515 } /* Literal.String.Heredoc */
 .highlight pre .si { color: #a31515 } /* Literal.String.Interpol */
-.highlight pre .sx { color: #a
+.highlight pre .sx { color: #a31515 } /* Literal.String.Other */
+.highlight pre .sr { color: #a31515 } /* Literal.String.Regex */
+.highlight pre .s1 { color: #a31515 } /* Literal.String.Single */
+.highlight pre .ss { color: #a31515 } /* Literal.String.Symbol */
