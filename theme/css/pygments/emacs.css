@@ -59,4 +59,5 @@
 .highlight pre .bp { color: #AA22FF } /* Name.Builtin.Pseudo */
 .highlight pre .vc { color: #B8860B } /* Name.Variable.Class */
 .highlight pre .vg { color: #B8860B } /* Name.Variable.Global */
-.highlight pre .vi { color: #B8860B } /* Name.Variable.Instance *
+.highlight pre .vi { color: #B8860B } /* Name.Variable.Instance */
+.highlight pre .il { color: #666666 } /* Literal.Number.Integer.Long */
